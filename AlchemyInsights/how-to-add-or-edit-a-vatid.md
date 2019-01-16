@@ -1,0 +1,29 @@
+---
+title: 如何新增或編輯 VatID
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
+ms.date: 6/19/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
+ms.openlocfilehash: d2320ec1d64e0c53d796814668c617a751e079c9
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28279440"
+---
+- 移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面或選擇 [**訂閱** \> **計費**。
+    
+- 在 [**訂閱**] 頁面上選擇 [您想要編輯，然後選擇 [**其他動作**的訂閱\>**編輯 VAT 編號**。
+    
+- 底部的 [**編輯您的服務使用方式地址**] 窗格中，輸入或編輯增值稅識別碼在**增值稅數目**] 方塊中，然後選擇**送出**。
+    
+    完成後，將不會在您下一步 bill 收取增值稅。
+    
+如需詳細資訊，請參閱[何種稅將我會收取 for Office 365？](https://support.office.com/article/7e77382b-b966-4ad5-a515-9e629a777a22.aspx)
+  
+
