@@ -1,0 +1,33 @@
+---
+title: 變更付款方式
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
+ms.date: 2/20/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
+ms.openlocfilehash: 65c128f35df820e139370bf58c6a1c96e476353f
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28278751"
+---
+# <a name="change-payment-method"></a><span data-ttu-id="a9641-102">變更付款方式</span><span class="sxs-lookup"><span data-stu-id="a9641-102">Change payment method</span></span>
+
+<span data-ttu-id="a9641-p101">您可以確認已移至**計費**付費方式\>**訂閱**。選擇您要確認的訂閱。訂閱設定的付款方法會出現 [**付款方法**。若要更新的現有付款方法的詳細資訊，請選擇 [**更新付款的詳細資訊**。</span><span class="sxs-lookup"><span data-stu-id="a9641-p101">You can verify the payment method that is configured by going to **Billing** \> **Subscriptions**. Choose the subscription that you want to verify. The payment method that's configured for the subscription appears under **Payment method**. To update details of the existing payment method, choose **Update payment details**.</span></span>
+  
+1. <span data-ttu-id="a9641-107">在管理中心中，移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面或選擇 [**計費** \> **訂閱**。</span><span class="sxs-lookup"><span data-stu-id="a9641-107">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+    
+2. <span data-ttu-id="a9641-108">選擇您要變更付款方法，然後選擇 [**變更付費方式**訂閱.</span><span class="sxs-lookup"><span data-stu-id="a9641-108">Choose the subscription that you want to change the payment method for, then choose **Change Payment Method**..</span></span>
+    
+3. <span data-ttu-id="a9641-109">在完成變更] 畫面上遵循的步驟。</span><span class="sxs-lookup"><span data-stu-id="a9641-109">Follow the steps on screen to complete the change.</span></span>
+    
+<span data-ttu-id="a9641-110">逐步指示，請參閱：[變更適用於企業的 Office 365 的付費方式](https://support.office.com/article/8652f539-3123-4a8f-b9bd-6aa2f0e0372d)</span><span class="sxs-lookup"><span data-stu-id="a9641-110">For step by step instructions, see: [Change your payment method for Office 365 for business](https://support.office.com/article/8652f539-3123-4a8f-b9bd-6aa2f0e0372d)</span></span>
+  
+
