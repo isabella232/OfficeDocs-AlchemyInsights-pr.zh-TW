@@ -1,0 +1,36 @@
+---
+title: 更新 DNS 記錄
+ms.author: pebaum
+author: pebaum
+ms.date: 12/13/2018
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+localization_priority: Priority
+search.appverid:
+- MET150
+- MOE150
+- MEW150
+- MED150
+- MBS150
+ms.assetid: b6c579b1-7665-4705-8b40-691cc9d9f59a
+ms.openlocfilehash: 51f798a1e03bfe607368e6a40e11dd62cddcf1c7
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28279190"
+---
+# <a name="update-your-dns-records"></a>更新 DNS 記錄
+
+若要取得您使用 Office 365 的自訂網域需要更新的 DNS 記錄。使用下列連結來尋找詳細的指示。
+  
+ **說明文章**（適用於任何網域註冊機構中） 
+  
+- [在任一 DNS 主機服務提供者建立 Office 365 的 DNS 記錄](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+    
+ **影片的指南**（網域架設在 GoDaddy.com） 
+  
+- [設定您的網域和使用者](https://support.office.com/article/26524a2c-1d65-48ab-8927-ae0b27370c62)
+    
+
