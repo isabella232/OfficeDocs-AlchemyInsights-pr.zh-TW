@@ -1,9 +1,17 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383177"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
 
 
-## <a name="week-of-january-07-2019"></a>2019 年 1 月 07、 當週
+## <a name="week-of-january-07-2019"></a>2019 年 1 月 7 日當週
 
 
 | 發佈時間 |主題標題 | 變更 |
@@ -624,3 +632,14 @@
 | 1/11/2019 | [刪除使用者](/AlchemyInsights/deleting-users) | 修改時間 |
 | 1/11/2019 | [部署順暢單一登入](/AlchemyInsights/deploy-seamless-single-sign-on) | 修改時間 |
 | 1/11/2019 | [停用的存取權 Yammer](/AlchemyInsights/disable-access-to-yammer) | 修改時間 |
+
+
+## <a name="week-of-january-14-2019"></a>2019 年 1 月 14 日當週
+
+
+| 發佈時間 |主題標題 | 變更 |
+|------|------------|--------|
+| 1/14/2019 | 魔力預留位置 | 移除 |
+| 1/14/2019 | 新增網域魔力 | 移除 |
+| 1/14/2019 | [魔力前瞻首頁](/AlchemyInsights/index) | 修改時間 |
+| 1/17/2019 | [相同檔名為最佳 [規則 #-說明]](/AlchemyInsights/1-alchemy-insight-template) | 新增 |
