@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
 ms.openlocfilehash: b25eb4b5d093e78db23dfab499f0cf9da519e7fa
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278225"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460755"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>與外部使用者共用通訊網站
 

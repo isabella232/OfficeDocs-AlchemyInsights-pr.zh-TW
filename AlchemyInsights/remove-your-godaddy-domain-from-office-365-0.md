@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 1b858223-22ec-4c9d-9cda-5f4418060c5e
 ms.openlocfilehash: c2f60677eeada1a9897711eea363062bb64c55bc
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279243"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460699"
 ---
 # <a name="remove-your-godaddy-domain-from-office-365"></a>從 Office 365 中移除您機構 GoDaddy 的網域
 

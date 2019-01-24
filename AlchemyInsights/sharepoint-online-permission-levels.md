@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
 ms.openlocfilehash: 8c89b43d52738c22f0f242626a94045e9692e3dd
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278709"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461108"
 ---
 # <a name="sharepoint-online-permission-levels"></a>SharePoint Online 的權限層級
 

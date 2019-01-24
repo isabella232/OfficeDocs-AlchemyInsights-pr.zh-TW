@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 09a0553b-4fcd-410d-ba50-fe55cb79eea1
 ms.openlocfilehash: 4f0806ae2a857dd02f1da8fb3935569baf54b3c5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279041"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460960"
 ---
 # <a name="restore-a-deleted-sharepoint-list-or-library"></a>還原已刪除的 SharePoint 清單或文件庫
 
@@ -26,7 +26,7 @@ ms.locfileid: "28279041"
     
 3. 按一下左邊的 [您想要還原的項目。
     
-4. 按一下 [**還原**]。
+4. 按一下 [還原]。
     
 刪除的項目會保留 93 天。如果您沒有看到您要尋找的項目，則可能會有已此資源回收筒中已刪除並移至網站集合資源回收筒。若要檢查，請按一下**第二階段資源回收筒**連結下方的 [資源回收筒]。 
   

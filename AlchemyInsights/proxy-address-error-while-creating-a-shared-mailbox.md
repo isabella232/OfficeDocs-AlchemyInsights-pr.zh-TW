@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.openlocfilehash: 7d8e3ba4bd9913c09b9ade5b6dd3c90c6c64bd79
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278865"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460687"
 ---
 # <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>Proxy 位址時發生錯誤建立共用的信箱
 

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
 ms.openlocfilehash: ed51d0e206469fce2a14c914c5cb1eff2052317b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279351"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461009"
 ---
 # <a name="adding-external-users-to-a-distribution-group"></a>將外部使用者新增至通訊群組吗？
 

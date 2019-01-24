@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
 ms.openlocfilehash: 836ace5e633f94b90eb7d104ea1d54a0b5d12dbb
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278728"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460957"
 ---
 # <a name="troubleshoot-issues-with-outlook-categories"></a>疑難排解 Outlook 類別的問題
 

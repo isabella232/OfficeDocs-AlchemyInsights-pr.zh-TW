@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f637accfbcf9e3f77ab75dd89bb618e4eb5c4cf0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279387"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460978"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>設定您的 O365 商務 Essentials 訂閱
 
 建立 Office 365 帳戶並新增您的網域
   
-- 在此步驟中，您可以使用 [安裝精靈] 為您的使用者建立 Office 365 帳戶並新增您自己的網域。精靈可讓您個人化每個人的使用者識別碼和業務、 [rob@contoso.com](mailto:rob@contoso.com)類似的電子郵件。
+- 在此步驟中，您將使用設定精靈來為您的使用者建立 Office 365 帳戶並新增您自己的網域。精靈能讓您個人化貴公司每個使用者的識別碼和電子郵件，例如 rob@contoso.com。
     
 - 移至 [Office 365 系統管理中心](https://login.partner.microsoftonline.cn/)。
     

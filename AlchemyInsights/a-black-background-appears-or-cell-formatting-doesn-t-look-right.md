@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
 ms.openlocfilehash: 5f8febbe64166587ac631ccf7114d529333baaed
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278857"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461096"
 ---
 # <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>黑色背景出現，或儲存格格式看起來不正確
 

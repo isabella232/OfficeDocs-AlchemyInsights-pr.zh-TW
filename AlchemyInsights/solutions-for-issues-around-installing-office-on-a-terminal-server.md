@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: cfd69bab102ac58343ce98db3fb02b594673ea63
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278785"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461014"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>問題圍繞在終端機伺服器上安裝 office 解決方案
 
@@ -24,13 +24,13 @@ ms.locfileid: "28278785"
     
 - 確認 Office 365 ProPlus 的啟用成功
     
-- 檢閱共用的電腦啟用的錯誤訊息：
+- 檢閱共用電腦啟用的錯誤訊息
     
-  - "我們您的帳戶中找到的產品無法用來共用的電腦案例中啟動 Office 」
+  - 我們發現您帳戶中的產品無法在共用電腦案例中用來啟動 Office。
   
 此錯誤表示您不需要包含 Office 365 ProPlus 的 Office 365 計劃。
     
-  - 「 未授權的產品 」
+  - 未授權產品
     
   - 檢查使用者已指派授權 Office 365 proplus。
     

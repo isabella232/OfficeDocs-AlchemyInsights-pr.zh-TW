@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b6d51993-c6dd-4721-a41f-5c4edcf7c3c7
 ms.openlocfilehash: 18dadbdbfb216522924ddadf6ff019084e3bf93d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278957"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460493"
 ---
 # <a name="share-a-file-or-folder-in-onedrive-or-sharepoint"></a>共用檔案或資料夾中 onedrive for SharePoint
 

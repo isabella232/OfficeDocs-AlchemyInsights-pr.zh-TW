@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
 ms.openlocfilehash: 037589c42768addd5fd19e9b48a2985d2ab4c7da
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278928"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461048"
 ---
 # <a name="how-to-disable-external-groups"></a>如何停用外部群組
 

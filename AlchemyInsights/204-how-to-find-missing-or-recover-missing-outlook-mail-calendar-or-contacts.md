@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
 ms.openlocfilehash: f26d72af2eb985b2781209f38de37c24e30bfa7e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278578"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460502"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>如何尋找及復原遺失的郵件、 連絡人或在 Outlook 中的行事曆項目
 

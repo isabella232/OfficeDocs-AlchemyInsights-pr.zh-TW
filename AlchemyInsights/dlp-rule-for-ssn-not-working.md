@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
 ms.openlocfilehash: b92d122b774d97cd2e44cc0880dc5001065b57cc
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278395"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461146"
 ---
 您已有**資料遺失防護 (DLP)** 無法正常運作的內容包含**社會安全號碼 (SSN)** 時使用 Office 365 中的敏感資訊類型的問題嗎？若是如此，請確定您的內容包含的 DLP 原則尋找的項目所需的資訊。 
   
@@ -36,7 +36,7 @@ ms.locfileid: "28278395"
     
 - **[定義：](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** DLP 原則是 85%有信心它已偵測到這種類型的機密資訊時，300 個字元的距離： 
     
-  - [函數 Func_ssn](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)會找出符合模式的內容。 
+  - 函數 Func_ssn 找到符合模式的內容。 
     
   - 從[Keyword_ssn](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn)關鍵字是找到。關鍵字的範例包括：*社會安全、 社會安全 #、 Soc 秒、 SSN* 。例如，下列範例會觸發 DLP SSN 原則： **SSN: 489-36-8350**
     

@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
 ms.openlocfilehash: 17304586ab659d81099091df5836985bf15992e7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278639"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460858"
 ---
 [Minecraft Edition 與 Office 365 教育版的空閒](https://docs.microsoft.com/en-us/education/windows/get-minecraft-for-education)
   

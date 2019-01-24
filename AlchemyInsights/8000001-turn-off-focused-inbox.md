@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
 ms.openlocfilehash: c3ba1eb76432cd022943c51a5a7cdfdff849fb3b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279290"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460837"
 ---
 # <a name="turn-off-focused-inbox"></a>關閉著重收件匣
 

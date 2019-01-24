@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
 ms.openlocfilehash: 77bfb5b4e2fc323c56c9d759b7b97eac7b2670eb
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278372"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461113"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>網路磁碟機對應的 SharePoint 文件庫
 

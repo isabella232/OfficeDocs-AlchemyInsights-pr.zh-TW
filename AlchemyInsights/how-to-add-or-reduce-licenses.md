@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
 ms.openlocfilehash: bbaa91c8beadb5508176fb8e2c225a0aaa0e0613
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279162"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461072"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>如何新增或減少授權
 
@@ -26,13 +26,13 @@ ms.locfileid: "28279162"
     
 2. 在左邊，選擇您想要新增/移除授權的訂閱
     
-3. 選擇 [**新增/移除授權**。
+3. 選擇 [新增/移除授權]。
     
 4. 輸入所需的使用者總數。
     
     例如，如果您目前有 25 個授權與您想要移除 5，此欄位中輸入 20。
     
-5. 選擇 [**提交**]。
+5. 選擇 [Submit] (提交)。
     
 > [!NOTE]
 > 任何新收費 （授權增加） 或信用 （授權減少） 會顯示在您下一步 bill。 

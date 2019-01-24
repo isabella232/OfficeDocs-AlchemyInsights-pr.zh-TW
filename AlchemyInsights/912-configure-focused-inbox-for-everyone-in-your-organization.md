@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
 ms.openlocfilehash: dd5b4e19e8489eca253ef3b7854597770d93c685
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278633"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460595"
 ---
 # <a name="turn-focused-inbox-on-or-off-for-everyone"></a>著重收件匣開啟或關閉開啟的任何人
 

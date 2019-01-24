@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 17ae8882b5a9d84d16dbe64c245d64ea7738cbd4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278688"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461052"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>預付訂閱中新增基座
 
@@ -28,7 +28,7 @@ ms.locfileid: "28278688"
     
 4. 選取 [**最新及未使用的產品金鑰**] 選項。（如果此訂閱建立與零售位置購買的產品金鑰，您可能必須將使用者新增其他付款方法與選項）。 
     
-5. 選擇 [**下一步**]。
+5. 選擇 [下一步]。
     
 6. 輸入產品金鑰，然後選擇 [**下一步**]。
     

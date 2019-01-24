@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
 ms.openlocfilehash: 0ee0b188882659742ca50f9188a584f64a767e03
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278522"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460584"
 ---
 # <a name="how-to-create-and-manage-room-mailboxes"></a>如何建立及管理會議室信箱
 

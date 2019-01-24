@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
 ms.openlocfilehash: f29255f880bed9c707b87b41f58a5ffc44f04293
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278564"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460901"
 ---
 # <a name="how-to-install-office-on-an-iphone"></a>如何從 iPhone 上安裝 Office
 
