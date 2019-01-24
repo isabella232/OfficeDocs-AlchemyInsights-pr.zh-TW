@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
 ms.openlocfilehash: a56f32b54e6cb32fa044d26d08868bac8c368de5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278513"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461109"
 ---
 您已有**資料遺失防護 (DLP)** 無法正常運作的內容時使用 DLP 敏感資訊類型 O365 中包含**信用卡號**的問題嗎？若是如此，請確定您的內容包含所需的資訊來觸發時會評估當中的 DLP 原則。例如**信用卡原則**設定的 85%的信賴等級，下列會評估和必須偵測到的工作流程觸發此規則： 
   
@@ -32,11 +32,11 @@ ms.locfileid: "28278513"
     
   - 找到來自於 Keyword_cc_verification 的關鍵字。
     
-  - 找到從 Keyword_cc_name 關鍵字
+  - 找到來自於 Keyword_cc_name 的關鍵字。
     
   - 函數 Func_expiration_date 找到正確日期格式的日期。
     
-  - 總和檢查碼會傳遞
+  - 總和檢查碼通過。
     
     例如，在下列範例會觸發 DLP 信用卡號碼原則：
     
