@@ -10,24 +10,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
 ms.openlocfilehash: f8db233167a5e2b2ef7290438b8e6d92d0dccb1e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279164"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461067"
 ---
-# <a name="sync-errors-due-to-duplicate-objects"></a><span data-ttu-id="d89a7-102">重複物件由於同步處理錯誤</span><span class="sxs-lookup"><span data-stu-id="d89a7-102">Sync errors due to duplicate objects</span></span>
+# <a name="sync-errors-due-to-duplicate-objects"></a><span data-ttu-id="2b7f8-102">重複物件由於同步處理錯誤</span><span class="sxs-lookup"><span data-stu-id="2b7f8-102">Sync errors due to duplicate objects</span></span>
 
-<span data-ttu-id="d89a7-103">您可能會收到下列錯誤訊息的其中一個目錄同步作業完成時：</span><span class="sxs-lookup"><span data-stu-id="d89a7-103">You might receive one of the following error messages when directory synchronization finishes:</span></span>
+<span data-ttu-id="2b7f8-103">您可能會收到下列錯誤訊息的其中一個目錄同步作業完成時：</span><span class="sxs-lookup"><span data-stu-id="2b7f8-103">You might receive one of the following error messages when directory synchronization finishes:</span></span>
   
-- <span data-ttu-id="d89a7-104">無法更新此物件的 Microsoft Online Services 因為此物件相關聯的下列屬性的可能已經與您的本機目錄中的其他物件相關聯的值。</span><span class="sxs-lookup"><span data-stu-id="d89a7-104">Unable to update this object in Microsoft Online Services because the following attributes associated with this object have values that may already be associated with another object in your local directory.</span></span>
+- <span data-ttu-id="2b7f8-104">無法更新此物件的 Microsoft Online Services 因為此物件相關聯的下列屬性的可能已經與您的本機目錄中的其他物件相關聯的值。</span><span class="sxs-lookup"><span data-stu-id="2b7f8-104">Unable to update this object in Microsoft Online Services because the following attributes associated with this object have values that may already be associated with another object in your local directory.</span></span>
     
-- <span data-ttu-id="d89a7-105">您的 Microsoft Online Services 目錄中已經存在具有相同的 proxy 地址的同步處理的物件。</span><span class="sxs-lookup"><span data-stu-id="d89a7-105">A synchronized object with the same proxy address already exists in your Microsoft Online Services directory.</span></span>
+- <span data-ttu-id="2b7f8-105">您的 Microsoft Online Services 目錄中已經存在具有相同的 proxy 地址的同步處理的物件。</span><span class="sxs-lookup"><span data-stu-id="2b7f8-105">A synchronized object with the same proxy address already exists in your Microsoft Online Services directory.</span></span>
     
-- <span data-ttu-id="d89a7-106">無法更新此物件因為此物件相關聯的下列屬性的可能已經與您的本機目錄服務中的其他物件相關聯的值： UserPrincipalName。</span><span class="sxs-lookup"><span data-stu-id="d89a7-106">Unable to update this object because the following attributes associated with this object have values that may already be associated with another object in your local directory services: UserPrincipalName.</span></span>
+- <span data-ttu-id="2b7f8-106">無法更新此物件因為此物件相關聯的下列屬性的可能已經與您的本機目錄服務中的其他物件相關聯的值： UserPrincipalName。</span><span class="sxs-lookup"><span data-stu-id="2b7f8-106">Unable to update this object because the following attributes associated with this object have values that may already be associated with another object in your local directory services: UserPrincipalName.</span></span>
     
-<span data-ttu-id="d89a7-107">若要找出並修正的問題，下載和執行[IdFix DirSync 錯誤補救工具](https://www.microsoft.com/download/details.aspx?id=36832)。</span><span class="sxs-lookup"><span data-stu-id="d89a7-107">To identify and fix the issue, download and run the [IdFix DirSync Error Remediation Tool](https://www.microsoft.com/download/details.aspx?id=36832).</span></span>
+<span data-ttu-id="2b7f8-107">若要找出並修正的問題，下載和執行[IdFix DirSync 錯誤補救工具](https://www.microsoft.com/download/details.aspx?id=36832)。</span><span class="sxs-lookup"><span data-stu-id="2b7f8-107">To identify and fix the issue, download and run the [IdFix DirSync Error Remediation Tool](https://www.microsoft.com/download/details.aspx?id=36832).</span></span>
   
-<span data-ttu-id="d89a7-108">如需詳細資訊，請參閱[KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o)。</span><span class="sxs-lookup"><span data-stu-id="d89a7-108">For more information, see [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).</span></span>
+<span data-ttu-id="2b7f8-108">如需詳細資訊，請參閱[KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o)。</span><span class="sxs-lookup"><span data-stu-id="2b7f8-108">For more information, see [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).</span></span>
   
 

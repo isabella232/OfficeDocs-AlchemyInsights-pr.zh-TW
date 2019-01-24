@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 90e254a1-19b7-4715-beaa-31b938473b07
 ms.openlocfilehash: f46bfa83766e3dbf556bd39d38c49491405718c4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278182"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460962"
 ---
-# <a name="understanding-agenda-mail"></a><span data-ttu-id="6cd98-102">了解議程郵件</span><span class="sxs-lookup"><span data-stu-id="6cd98-102">Understanding agenda mail</span></span>
+# <a name="understanding-agenda-mail"></a><span data-ttu-id="35c59-102">了解議程郵件</span><span class="sxs-lookup"><span data-stu-id="35c59-102">Understanding agenda mail</span></span>
 
-<span data-ttu-id="6cd98-103">如需詳細資訊，請參閱[在網路上的 Outlook 行事曆設定](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx)。</span><span class="sxs-lookup"><span data-stu-id="6cd98-103">For more information, see [Calendar settings in Outlook on the web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx).</span></span>
+<span data-ttu-id="35c59-103">如需詳細資訊，請參閱[在網路上的 Outlook 行事曆設定](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx)。</span><span class="sxs-lookup"><span data-stu-id="35c59-103">For more information, see [Calendar settings in Outlook on the web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx).</span></span>
   
 

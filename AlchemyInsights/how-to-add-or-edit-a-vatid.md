@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
 ms.openlocfilehash: d2320ec1d64e0c53d796814668c617a751e079c9
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279440"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461038"
 ---
-- <span data-ttu-id="85db1-102">移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面或選擇 [**訂閱** \> **計費**。</span><span class="sxs-lookup"><span data-stu-id="85db1-102">Go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Subscriptions** \> **Billing**.</span></span>
+- <span data-ttu-id="88de5-102">移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面或選擇 [**訂閱** \> **計費**。</span><span class="sxs-lookup"><span data-stu-id="88de5-102">Go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Subscriptions** \> **Billing**.</span></span>
     
-- <span data-ttu-id="85db1-103">在 [**訂閱**] 頁面上選擇 [您想要編輯，然後選擇 [**其他動作**的訂閱\>**編輯 VAT 編號**。</span><span class="sxs-lookup"><span data-stu-id="85db1-103">On the **Subscriptions** page, choose the subscription you want to edit, then choose **More Actions** \> **Edit VAT number**.</span></span>
+- <span data-ttu-id="88de5-103">在 [**訂閱**] 頁面上選擇 [您想要編輯，然後選擇 [**其他動作**的訂閱\>**編輯 VAT 編號**。</span><span class="sxs-lookup"><span data-stu-id="88de5-103">On the **Subscriptions** page, choose the subscription you want to edit, then choose **More Actions** \> **Edit VAT number**.</span></span>
     
-- <span data-ttu-id="85db1-104">底部的 [**編輯您的服務使用方式地址**] 窗格中，輸入或編輯增值稅識別碼在**增值稅數目**] 方塊中，然後選擇**送出**。</span><span class="sxs-lookup"><span data-stu-id="85db1-104">At the bottom of the **Edit your service usage address** pane, enter or edit your VAT ID in the **Vat number** box, and then choose **Submit**.</span></span>
+- <span data-ttu-id="88de5-104">底部的 [**編輯您的服務使用方式地址**] 窗格中，輸入或編輯增值稅識別碼在**增值稅數目**] 方塊中，然後選擇**送出**。</span><span class="sxs-lookup"><span data-stu-id="88de5-104">At the bottom of the **Edit your service usage address** pane, enter or edit your VAT ID in the **Vat number** box, and then choose **Submit**.</span></span>
     
-    <span data-ttu-id="85db1-105">完成後，將不會在您下一步 bill 收取增值稅。</span><span class="sxs-lookup"><span data-stu-id="85db1-105">When complete, VAT will not be charged on your next bill.</span></span>
+    <span data-ttu-id="88de5-105">完成後，將不會在您下一步 bill 收取增值稅。</span><span class="sxs-lookup"><span data-stu-id="88de5-105">When complete, VAT will not be charged on your next bill.</span></span>
     
-<span data-ttu-id="85db1-106">如需詳細資訊，請參閱[何種稅將我會收取 for Office 365？](https://support.office.com/article/7e77382b-b966-4ad5-a515-9e629a777a22.aspx)</span><span class="sxs-lookup"><span data-stu-id="85db1-106">For more information, see [What tax will I be charged for Office 365?](https://support.office.com/article/7e77382b-b966-4ad5-a515-9e629a777a22.aspx)</span></span>
+<span data-ttu-id="88de5-106">如需詳細資訊，請參閱[何種稅將我會收取 for Office 365？](https://support.office.com/article/7e77382b-b966-4ad5-a515-9e629a777a22.aspx)</span><span class="sxs-lookup"><span data-stu-id="88de5-106">For more information, see [What tax will I be charged for Office 365?](https://support.office.com/article/7e77382b-b966-4ad5-a515-9e629a777a22.aspx)</span></span>
   
 

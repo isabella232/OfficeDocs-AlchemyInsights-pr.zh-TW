@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
 ms.openlocfilehash: 6a6fa89baabb5f952e90c3eed1017c7cbad5ffa0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279328"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460860"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="1a897-102">如何讓 Office 365 購買</span><span class="sxs-lookup"><span data-stu-id="1a897-102">How to make an Office 365 purchase</span></span>
+# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="23409-102">如何讓 Office 365 購買</span><span class="sxs-lookup"><span data-stu-id="23409-102">How to make an Office 365 purchase</span></span>
 
-<span data-ttu-id="1a897-p101">購買 Office 365 中的可以在管理中心內進行。移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面或選擇 [**計費** \> **訂閱**。</span><span class="sxs-lookup"><span data-stu-id="1a897-p101">Purchases in Office 365 can be made In the Admin center. Go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+<span data-ttu-id="23409-p101">購買 Office 365 中的可以在管理中心內進行。移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面或選擇 [**計費** \> **訂閱**。</span><span class="sxs-lookup"><span data-stu-id="23409-p101">Purchases in Office 365 can be made In the Admin center. Go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
   
-- <span data-ttu-id="1a897-105">若要購買 Office 365 訂閱移至 [[購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)] 頁面上或選擇 [**計費** \> **購買服務**。</span><span class="sxs-lookup"><span data-stu-id="1a897-105">To purchase an Office 365 subscription go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services**.</span></span>
+- <span data-ttu-id="23409-105">若要購買 Office 365 訂閱移至 [[購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)] 頁面上或選擇 [**計費** \> **購買服務**。</span><span class="sxs-lookup"><span data-stu-id="23409-105">To purchase an Office 365 subscription go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services**.</span></span>
     
-- <span data-ttu-id="1a897-p102">若要購買額外授權移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面或選擇 [**計費** \> **訂閱**。在 [**訂閱**] 頁面上選擇您想要新增至授權的訂閱，然後選擇 [**新增/移除授權**。</span><span class="sxs-lookup"><span data-stu-id="1a897-p102">To purchase additional licenses go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**. On the **Subscriptions** page, choose the subscription that you want to add licenses to, and then choose **Add/Remove licenses**.</span></span>
+- <span data-ttu-id="23409-p102">若要購買額外授權移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面或選擇 [**計費** \> **訂閱**。在 [**訂閱**] 頁面上選擇您想要新增至授權的訂閱，然後選擇 [**新增/移除授權**。</span><span class="sxs-lookup"><span data-stu-id="23409-p102">To purchase additional licenses go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**. On the **Subscriptions** page, choose the subscription that you want to add licenses to, and then choose **Add/Remove licenses**.</span></span>
     
-- <span data-ttu-id="1a897-108">切換至不同的計劃：</span><span class="sxs-lookup"><span data-stu-id="1a897-108">To switch to a different plan:</span></span>
+- <span data-ttu-id="23409-108">切換至不同的計劃：</span><span class="sxs-lookup"><span data-stu-id="23409-108">To switch to a different plan:</span></span>
     
-  - <span data-ttu-id="1a897-109">選擇 [\* \* 切換計劃 \* \* 若要檢視新的計劃可用的清單。</span><span class="sxs-lookup"><span data-stu-id="1a897-109">Choose \*\* Switch plans \*\* to view the list of new plans that are available.</span></span> 
+  - <span data-ttu-id="23409-109">選擇 [\* \* 切換計劃 \* \* 若要檢視新的計劃可用的清單。</span><span class="sxs-lookup"><span data-stu-id="23409-109">Choose \*\* Switch plans \*\* to view the list of new plans that are available.</span></span> 
     
-  - <span data-ttu-id="1a897-p103">選擇 [查看每個月的新總成本的計劃。請務必閱讀重要的資訊，然後選擇 [**下一步**] 取出。</span><span class="sxs-lookup"><span data-stu-id="1a897-p103">Choose a plan to see the new total cost per month. Be sure to read the key information, then choose **Next** to check out.</span></span> 
+  - <span data-ttu-id="23409-p103">選擇 [查看每個月的新總成本的計劃。請務必閱讀重要的資訊，然後選擇 [**下一步**] 取出。</span><span class="sxs-lookup"><span data-stu-id="23409-p103">Choose a plan to see the new total cost per month. Be sure to read the key information, then choose **Next** to check out.</span></span> 
     
- <span data-ttu-id="1a897-112">**其他資源**</span><span class="sxs-lookup"><span data-stu-id="1a897-112">**Additional Resources**</span></span>
+ <span data-ttu-id="23409-112">其他資源</span><span class="sxs-lookup"><span data-stu-id="23409-112">**Additional Resources**</span></span>
   
-- [<span data-ttu-id="1a897-113">在商務用 Office 365 中指派授權給使用者</span><span class="sxs-lookup"><span data-stu-id="1a897-113">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [<span data-ttu-id="23409-113">在商務用 Office 365 中指派授權給使用者</span><span class="sxs-lookup"><span data-stu-id="23409-113">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [<span data-ttu-id="1a897-114">取消 Office 365 企業版</span><span class="sxs-lookup"><span data-stu-id="1a897-114">Cancel Office 365 for Business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [<span data-ttu-id="23409-114">取消商務用 Office 365</span><span class="sxs-lookup"><span data-stu-id="23409-114">Cancel Office 365 for Business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 

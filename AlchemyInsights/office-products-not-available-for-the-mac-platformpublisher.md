@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a6c57ee4-c6bc-4a40-87f0-ceecf6c29238
 ms.openlocfilehash: c899de0d79d9c07ae89b92374124831207ce59a8
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279116"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460865"
 ---
-# <a name="office-products-not-available-for-the-mac-platform"></a><span data-ttu-id="58b46-102">Office 產品不適用於 Mac 平台</span><span class="sxs-lookup"><span data-stu-id="58b46-102">Office products not available for the Mac platform</span></span>
+# <a name="office-products-not-available-for-the-mac-platform"></a><span data-ttu-id="609e4-102">Office 產品不適用於 Mac 平台</span><span class="sxs-lookup"><span data-stu-id="609e4-102">Office products not available for the Mac platform</span></span>
 
-<span data-ttu-id="58b46-103">Visio、 Project、 Publisher、 及存取訣不適用於 Mac 平台，但[Visio Online](https://products.office.com/visio/visio-online)和[Project Online](https://products.office.com/project/project-online-premium)可與所有平台上工時。</span><span class="sxs-lookup"><span data-stu-id="58b46-103">Visio, Project, Publisher, and Access are not available for the Mac platform, however, [Visio Online](https://products.office.com/visio/visio-online) and [Project Online](https://products.office.com/project/project-online-premium) are available and work on all platforms.</span></span> 
+<span data-ttu-id="609e4-103">Visio、 Project、 Publisher、 及存取訣不適用於 Mac 平台，但[Visio Online](https://products.office.com/visio/visio-online)和[Project Online](https://products.office.com/project/project-online-premium)可與所有平台上工時。</span><span class="sxs-lookup"><span data-stu-id="609e4-103">Visio, Project, Publisher, and Access are not available for the Mac platform, however, [Visio Online](https://products.office.com/visio/visio-online) and [Project Online](https://products.office.com/project/project-online-premium) are available and work on all platforms.</span></span> 
   
 

@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
 ms.openlocfilehash: 63f76b963f6a9a2664de20a08e06b5f5765bd241
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278240"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460118"
 ---
-# <a name="sharepoint-online-throttling"></a><span data-ttu-id="acf21-102">SharePoint Online 節流</span><span class="sxs-lookup"><span data-stu-id="acf21-102">SharePoint Online Throttling</span></span>
+# <a name="sharepoint-online-throttling"></a><span data-ttu-id="1c811-102">SharePoint Online 節流</span><span class="sxs-lookup"><span data-stu-id="1c811-102">SharePoint Online Throttling</span></span>
 
-<span data-ttu-id="acf21-p101">SharePoint Online 使用節流維護最佳的效能與可靠性的 SharePoint Online 服務。節流限制數字的使用者動作或同時呼叫 （由指令碼或程式碼） 以避免過度使用的資源。如果您不要取得節流，為 99%是因為自訂程式碼的時間。</span><span class="sxs-lookup"><span data-stu-id="acf21-p101">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service. Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources. If you do get throttled, 99% of the time it is because of custom code.</span></span>
+<span data-ttu-id="1c811-p101">SharePoint Online 使用節流維護最佳的效能與可靠性的 SharePoint Online 服務。節流限制數字的使用者動作或同時呼叫 （由指令碼或程式碼） 以避免過度使用的資源。如果您不要取得節流，為 99%是因為自訂程式碼的時間。</span><span class="sxs-lookup"><span data-stu-id="1c811-p101">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service. Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources. If you do get throttled, 99% of the time it is because of custom code.</span></span>
   
-<span data-ttu-id="acf21-106">如需節流設定，請參閱[避免快速節流處理或封鎖 SharePoint Online 的](https://go.microsoft.com/fwlink/?linkid=2022019)詳細資訊</span><span class="sxs-lookup"><span data-stu-id="acf21-106">For more information on throttling see, [Avoid getting throttled or blocked in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)</span></span>
+<span data-ttu-id="1c811-106">如需節流設定，請參閱[避免快速節流處理或封鎖 SharePoint Online 的](https://go.microsoft.com/fwlink/?linkid=2022019)詳細資訊</span><span class="sxs-lookup"><span data-stu-id="1c811-106">For more information on throttling see, [Avoid getting throttled or blocked in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)</span></span>
   
 
