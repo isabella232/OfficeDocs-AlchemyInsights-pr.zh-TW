@@ -1,5 +1,5 @@
 ---
-title: 擴充您的 Office 365 企業版的試用版
+title: 延長商務用 Office 365 的試用期
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: c325ca115037831d220d9dd5a7b092ab74aee593
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278215"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460298"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>擴充您的 Office 365 企業版的試用版
+# <a name="extend-your-trial-for-office-365-for-business"></a>延長商務用 Office 365 的試用期
 
 如果您的試用版訂閱為 15 天的到期內及試用版尚未已擴充之前，您可以擴充您的另一個 30 天內的試用版。您只可以執行此一次。
   

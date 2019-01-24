@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
 ms.openlocfilehash: e34dac731fd80c8b0b66ac2a298b678b30b061cc
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279480"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461172"
 ---
 # <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>不會強制升級。如何到回復至先前的 Office 版本？
 

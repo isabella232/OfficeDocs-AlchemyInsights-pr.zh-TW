@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f0e4afcc-b0a1-4b1b-b1e8-743504b54d37
 ms.openlocfilehash: a6e02a354ee08c5cdbba34756b13c231052268ef
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279230"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460867"
 ---
 # <a name="advanced-outlookcom-security-for-office-365-subscribers"></a>Office 365 訂閱者的進階的 Outlook.com 安全性
 

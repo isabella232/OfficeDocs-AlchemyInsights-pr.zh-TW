@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Critical
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
 ms.openlocfilehash: 5ce5d5b1ab7f35249d0a5f92c5a0e62f5cd72a7c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279202"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460777"
 ---
 # <a name="prepare-for-use-of-tls-12-in-office-365"></a>準備使用的 Office 365 中的 TLS 1.2 版
 

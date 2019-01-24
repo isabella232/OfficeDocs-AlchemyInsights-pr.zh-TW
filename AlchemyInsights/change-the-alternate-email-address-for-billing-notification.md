@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
 ms.openlocfilehash: 8871a5d8acbbe56b622eb62f2fbaeca03fcdb1ed
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278598"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460374"
 ---
 # <a name="change-the-alternate-email-address-for-billing-notification"></a>變更帳單通知的備用電子郵件地址
 
@@ -26,9 +26,9 @@ ms.locfileid: "28278598"
     
 2. 從清單中選擇一個名稱。
     
-3. 在 [**備用電子郵件**] 方塊中輸入的備用電子郵件地址。 
+3. 在 [備用電子郵件] 方塊中輸入備用電子郵件地址。 
     
-4. 選擇 [**儲存**並完成 ！ 
+4. 選擇 [儲存]，大功告成！ 
     
 如需螢幕擷取畫面的詳細資料和步驟，請參閱[變更 Office 365 帳單地址](https://support.office.com/en-us/article/Change-your-billing-addresses-for-Office-365-for-business-a25c10d6-c1e9-4299-9185-25178df9eba6)。
   

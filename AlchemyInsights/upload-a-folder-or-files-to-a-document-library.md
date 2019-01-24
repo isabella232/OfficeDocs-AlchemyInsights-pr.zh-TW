@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 1bfaec871ddbb4c56500127c1c4ac610faa37a31
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278195"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460405"
 ---
 # <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>將資料夾或檔案上傳至 SharePoint 文件庫
 

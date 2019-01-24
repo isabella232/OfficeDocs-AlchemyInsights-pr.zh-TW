@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
 ms.openlocfilehash: f8db233167a5e2b2ef7290438b8e6d92d0dccb1e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279164"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461067"
 ---
 # <a name="sync-errors-due-to-duplicate-objects"></a>重複物件由於同步處理錯誤
 

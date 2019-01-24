@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e03a7476-f02d-4c2c-bc55-42cad0ab8622
 ms.openlocfilehash: adb11e5bba4dc31c228b9a68919283fa370db768
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278496"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460815"
 ---
 # <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>處理收件匣中的垃圾郵件或網路釣魚詐騙
 

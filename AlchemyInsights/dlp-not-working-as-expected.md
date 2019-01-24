@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
 ms.openlocfilehash: eab000e0a850c522ede5f51ae46ba11b87ba4732
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278559"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460255"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP 未運作如預期般運作
 
@@ -36,7 +36,7 @@ DLP 原則可讓您識別並保護組織中的機密資訊。若要設定 DLP �
     
     如果您嘗試建立自訂的敏感資訊類型，如需如何建立自訂的機密類型中使用下列文章：[建立自訂的敏感資訊類型](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type)。
     
- **報告：**
+ **報告**
   
 - 取得與機密資料前瞻[DLP 報告。](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
     

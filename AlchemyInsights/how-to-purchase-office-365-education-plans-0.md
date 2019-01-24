@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
 ms.openlocfilehash: d8811e4a7a8fc33e30c74435248a79958a551ec2
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279148"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460838"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>如何購買 Office 365 教育版計劃
 

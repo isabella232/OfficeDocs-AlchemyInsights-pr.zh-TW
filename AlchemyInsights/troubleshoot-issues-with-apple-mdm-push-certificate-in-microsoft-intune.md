@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
 ms.openlocfilehash: 2edcec1ce3dd7fa1a6776197fa414a22b5a3ff70
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279314"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460840"
 ---
 # <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>疑難排解問題 Apple MDM 推入憑證中 Microsoft Intune （英文）
 

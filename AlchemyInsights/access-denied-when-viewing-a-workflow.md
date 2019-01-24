@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
 ms.openlocfilehash: cced887b03876eef527e0166a5a3c9be4b553029
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278466"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460598"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>檢視工作流程時拒絕存取
 

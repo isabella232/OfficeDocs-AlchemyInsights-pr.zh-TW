@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
 ms.openlocfilehash: 40b42d81c2595fb05b5853b2cab979ef6d8606e8
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279138"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460567"
 ---
 # <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>將傳統 SharePoint 小組網站連線至新的 Office 365 群組
 

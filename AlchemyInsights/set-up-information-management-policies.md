@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
 ms.openlocfilehash: 05ab8844df6b34a9c7ae556b91ece341e1370ccd
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278618"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460809"
 ---
 # <a name="set-up-information-management-policies"></a>設定資訊管理原則
 
@@ -21,7 +21,7 @@ ms.locfileid: "28278618"
     
 2. [**設定**] 和 [**網站設定**。如果網站是 Office 365 群組連接網站，按一下 [**設定**]、 按一下 [**網站內容**」，然後按一下 [**網站設定**]。
     
-3. 在 [網站集合管理]**** 下，按一下 [網站集合功能]****。
+3. 在 [網站集合管理] 下，按一下 [網站集合功能]。
     
 4. **在就地記錄管理**] 下按一下 [**啟動**]。
     

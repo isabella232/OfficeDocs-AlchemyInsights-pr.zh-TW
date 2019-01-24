@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
 ms.openlocfilehash: 6eae9146d33f5fc307085dbf931d57bdbb28b82e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279469"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460248"
 ---
 您已有**資料遺失防護 (DLP)** 無法正常運作的內容時使用 DLP 敏感資訊類型 O365 中包含**美國銀行帳戶號碼**的問題嗎？若是如此，請確定您的內容包含的 DLP 原則會尋找的項目時會評估當中所需的資訊。 
   
@@ -28,7 +28,7 @@ ms.locfileid: "28279469"
     
 - **[定義：](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)** DLP 原則就是有信心它已偵測到這種敏感資訊類型的 75 %if，300 個字元的距離： 
     
-  - 規則運算式 Regex_usa_bank_account_number 會找出符合模式的內容
+  - 規則運算式 Regex_usa_bank_account_number 找到符合模式的內容。
     
   - 找到來自於 Keyword_usa_Bank_Account 的關鍵字。
     

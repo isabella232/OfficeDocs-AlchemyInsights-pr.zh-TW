@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3241ac3e-57be-4888-9e95-c48c0cca8b13
 ms.openlocfilehash: 26dcf946c12738e0ca47a6751162f5cb7a365067
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278986"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460281"
 ---
 # <a name="storage-limits-in-outlookcom"></a>在 Outlook.com 中的儲存限制
 

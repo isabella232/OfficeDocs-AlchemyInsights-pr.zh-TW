@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
 ms.openlocfilehash: f29f31c702406ad4f64391e326bffa8c3837e858
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278489"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460981"
 ---
 "{AimKIObject}"未顯示在 [群組] 清單中
 

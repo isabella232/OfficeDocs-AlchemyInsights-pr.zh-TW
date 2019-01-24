@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a9192d32-8a5a-459d-808a-d18ce0e397da
 ms.openlocfilehash: ca53829604223c926f0408dedaf463fcc32ed8d4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278203"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460491"
 ---
 # <a name="setting-up-your-o365-business-premium-subscription"></a>設定您的 O365 企業進階版訂閱
 

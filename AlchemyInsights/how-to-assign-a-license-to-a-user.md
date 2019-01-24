@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
 ms.openlocfilehash: 61adcd2ba21a98793d072d3fad2d9d2e68fa3c20
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279124"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461057"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>如何將授權指派給使用者
 
@@ -26,11 +26,11 @@ ms.locfileid: "28279124"
     
 2. 選取您要指派、 變更或移除授權的使用者名稱旁的方塊。
     
-3. 在右邊的 [**產品授權**] 列中，選擇**編輯**。
+3. 在右側的 [產品授權] 列中，選擇 [編輯]。
     
-4. 在**產品授權**] 窗格中，切換切換至您要指派給此位使用者的授權**在**位置。 
+4. 針對您要指派授權的使用者，在 [產品授權] 窗格中，將開關切換到 [開啟] 位置。 
     
-    根據預設，所有與該授權相關聯的服務會自動指派給使用者。若要限制使用者可用的服務，請切換會切換至**關閉**位置服務您不想讓使用者。 
+    根據預設，與該授權相關的所有服務都會自動指派給使用者。若要限定使用者能夠使用的服務，請針對您不想讓使用者存取的服務，將開關切換到 [關閉] 位置。 
     
     切換切換移除授權在**關閉**的位置。 
     

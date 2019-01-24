@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.openlocfilehash: 23e680603bb120a3daadd0f5e912cae570d3b915
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278446"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461006"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>如何將 Office 授權指派給 Mac 使用者
 
@@ -22,9 +22,9 @@ ms.locfileid: "28278446"
     
 - 選取您要指派授權的使用者之名稱旁的方塊。
     
-- 在右邊的 [**產品授權**] 列中，選擇**編輯**。
+- 在右側的 [產品授權] 列中，選擇 [編輯]。
     
-- 在 [**產品授權**s] 窗格中，切換切換為您要指派給此位使用者的授權在**上**的位置。 
+- 針對您要指派授權的使用者，在 [產品授權] 窗格中，將開關切換到 [開啟] 位置。 
     
 - 在 [**產品授權**窗格底端，選擇 [**儲存** \> **關閉** \> **關閉**。
     

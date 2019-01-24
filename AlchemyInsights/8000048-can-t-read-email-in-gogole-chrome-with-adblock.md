@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: d9816744-fb49-4b77-a1ad-3ee648508997
 ms.openlocfilehash: adc49bae07551f90224df7762323d28add21fa6f
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278245"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460189"
 ---
 # <a name="cant-read-email-in-google-chrome-with-adblock"></a>無法讀取 Google Chrome 搭配 AdBlock 電子郵件
 

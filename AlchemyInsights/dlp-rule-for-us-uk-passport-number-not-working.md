@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
 ms.openlocfilehash: 716d1030d93ce006c36d7925fb132e974ae8feb4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279409"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460676"
 ---
 您有問題與無法正常運作的內容包含**資料遺失防護 (DLP)** **美國 / 英國護照號碼**時 O365 中使用 DLP 敏感資訊類型？若是如此，請確定您的內容包含的 DLP 原則會尋找的項目時會評估當中所需的資訊。 
   

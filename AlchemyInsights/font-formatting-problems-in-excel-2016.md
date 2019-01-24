@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
 ms.openlocfilehash: f3ff85f824fc00307a7b7b2b3be3116f0ae77a37
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278209"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461139"
 ---
 # <a name="font-formatting-problems-in-excel"></a>在 Excel 中的字型格式設定問題
 

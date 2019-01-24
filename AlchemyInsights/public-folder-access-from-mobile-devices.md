@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3a0915f6-9f4e-4049-82e2-804a498e70ee
 ms.openlocfilehash: a85726e500c550f6078730ef6d56bb8dab3bcfe1
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279201"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460273"
 ---
 # <a name="public-folder-access-from-mobile-devices"></a>從行動裝置存取公用資料夾
 

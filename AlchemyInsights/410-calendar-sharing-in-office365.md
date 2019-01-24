@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7ec088d3-8629-435e-a222-8722bc99f9c6
 ms.openlocfilehash: e11ad493e494739fa090693898a8e5f022e77c31
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278552"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461008"
 ---
 # <a name="calendar-sharing-in-office-365"></a>Office 365 中共用的行事曆
 

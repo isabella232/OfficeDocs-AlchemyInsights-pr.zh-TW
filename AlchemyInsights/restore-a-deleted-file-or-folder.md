@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.openlocfilehash: 02ddeebfa1e965b2500586bfe7002bbef1536acd
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278380"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460185"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>還原已刪除的檔案或資料夾
 
@@ -26,7 +26,7 @@ ms.locfileid: "28278380"
     
 3. 按一下左邊的 [您想要還原的項目。
     
-4. 按一下 [**還原**]。
+4. 按一下 [還原]。
     
 刪除的項目會保留 93 天。如果您沒有看到您要尋找的項目，則可能會有已此資源回收筒中已刪除並移至網站集合資源回收筒。若要檢查，請按一下**第二階段資源回收筒**連結下方的 [資源回收筒]。 
   

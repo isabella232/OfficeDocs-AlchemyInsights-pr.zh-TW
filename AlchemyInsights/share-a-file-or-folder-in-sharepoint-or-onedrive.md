@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
 ms.openlocfilehash: a7bcfa9ea64d11032fdd738484a16810c965c96e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278243"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460401"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>共用檔案或資料夾中 SharePoint 或 OneDrive
 
@@ -34,6 +34,6 @@ ms.locfileid: "28278243"
     
 4. 若要輸入您想要與共用的人員和訊息的名稱。
     
-5. 按一下 [**傳送**]。 
+5. 按一下 [傳送]。 
     
 

@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 24e6767e-ff7c-414a-b348-1fc10901f9ab
 ms.openlocfilehash: dce066e42fff9e0174097803cbfb6032819d86a9
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278411"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460742"
 ---
 # <a name="sent-email-comes-back-delivery-failed"></a>傳回 「 無法傳遞 」 傳送之電子郵件。
 

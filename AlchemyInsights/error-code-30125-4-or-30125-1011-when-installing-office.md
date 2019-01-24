@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
 ms.openlocfilehash: 85512ad5e40cb97e8af6d9bd83d8b21bb747028c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278193"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460303"
 ---
 # <a name="solutions-for-error-30125-4-or-30125-1011"></a>解決方案的 30125-4 或 30125 1011年時發生錯誤
 

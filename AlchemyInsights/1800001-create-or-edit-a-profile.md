@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
 ms.openlocfilehash: ff0f3aaa479f98a8ead4f11a5fed40e05d6b3aca
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278656"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460344"
 ---
 若要建立新的 Outlook 設定檔、 編輯設定檔，或重新命名設定檔，請使用下列步驟。
   

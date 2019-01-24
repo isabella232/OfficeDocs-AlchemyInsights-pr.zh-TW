@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
 ms.openlocfilehash: b8c64b3c006ffd59ad5b72478f235bb55601491c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279284"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461173"
 ---
 # <a name="change-a-users-email-address"></a>變更使用者的電子郵件地址
 
@@ -26,7 +26,7 @@ ms.locfileid: "28279284"
     
 2. 選取的使用者。
     
-3. 在向右中, **Username / 電子郵件別名**列、 選擇 [**編輯**]。
+3. 在右側的 [使用者名稱/電子郵件別名] 列中，選擇 [編輯]。
     
 4. 在 [**別名**] 方塊中輸入新的電子郵件、 然後選擇 [**新增]**。
     

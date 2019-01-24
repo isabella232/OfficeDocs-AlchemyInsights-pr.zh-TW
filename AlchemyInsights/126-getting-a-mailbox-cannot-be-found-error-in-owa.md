@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
 ms.openlocfilehash: 6ef8a706ac14d6b1c11c467800e0c41df2450ea1
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278795"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461157"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>取得信箱不在網路上的 Outlook 中找到錯誤吗？
 

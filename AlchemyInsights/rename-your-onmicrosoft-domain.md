@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
 ms.openlocfilehash: 6144aadb7df39bff7471d4ee3aca920355d961f4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278199"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460247"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>重新命名 onmicrosoft.com 網域
 

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
 ms.openlocfilehash: 03ee6b6697362701fcc603e6f8d2710685648d5b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278687"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460946"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>建立及使用共用的信箱
 

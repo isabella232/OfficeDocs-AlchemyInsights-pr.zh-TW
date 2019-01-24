@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
 ms.openlocfilehash: 3ee77c3c4f625a6c0e7e712dbed670383847f788
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278357"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460133"
 ---
 # <a name="set-passwords-to-never-expire"></a>設定密碼永遠不過期
 

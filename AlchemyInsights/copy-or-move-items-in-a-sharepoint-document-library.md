@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278206"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460239"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>複製或移動 SharePoint 文件庫中的項目
 
@@ -37,6 +37,6 @@ ms.locfileid: "28278206"
 3. 按一下**這裡複製**或**移到此處**。
     
 > [!NOTE]
->  您可以一次複製最多 500 MB 的檔案及資料夾。> 時複製版本歷程記錄的文件時，會複製最新版本。當您移動文件時，也移動其歷程記錄。 
+>  您可以一次複製最多 500 MB 的檔案及資料夾。會複製 > 時複製版本歷程記錄最新版本的文件。當您移動文件時，也移動其歷程記錄。 
   
 

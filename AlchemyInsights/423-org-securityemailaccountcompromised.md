@@ -11,11 +11,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
 ms.openlocfilehash: 8a0e99ab260266e5c66ded4c05541c592efd4ed4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278505"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460771"
 ---
 # <a name="compromised-email-accounts"></a>洩漏電子郵件帳戶
 

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
 ms.openlocfilehash: 92c9660fda35489bfe94538800cff7060557c9a6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278610"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460395"
 ---
 # <a name="enable-external-sharing"></a>啟用外部共用
 
@@ -33,7 +33,7 @@ ms.locfileid: "28278610"
     
   - "允許這兩種外部使用者接受共用邀請和匿名來賓連結"
     
-- **個別網站集合**
+- 個人網站集合
     
   - 網站集合-選取 [網站集合有問題，及從功能區-[共用-\>請確定已選取 [共用] 選項。
     

@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.openlocfilehash: c263f8b1692f5116222d753964e6a9e16eb5d1ac
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279026"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460186"
 ---
 當使用**DLP 原則**，請搭配**原則提示**原則違規可以會通知使用者。系統管理員可以設定原則提示來測試其 DLP 原則時或原則是完整的強制執行模式中顯示。 
   

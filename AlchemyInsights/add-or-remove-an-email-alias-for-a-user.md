@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.openlocfilehash: 7060d993bb216352140d00c9d6de4a8c6dbc3804
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278244"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460314"
 ---
 # <a name="add-or-remove-an-email-address-for-a-user"></a>新增或移除使用者的電子郵件地址
 

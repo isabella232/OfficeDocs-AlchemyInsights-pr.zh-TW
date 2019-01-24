@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
 ms.openlocfilehash: 305b3891e6c83e27b5c55c13757640e6e9d51a81
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279019"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460498"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>修正問題與外部使用者共用 SharePoint 內容
 
