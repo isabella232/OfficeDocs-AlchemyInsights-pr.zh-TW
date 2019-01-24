@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383177"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454421"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -209,7 +209,7 @@ ms.locfileid: "29383177"
 | 1/10/2019 | [檢視工作流程時拒絕存取](/AlchemyInsights/access-denied-when-viewing-a-workflow) | 新增 |
 | 1/10/2019 | [Access Services](/AlchemyInsights/access-services) | 新增 |
 | 1/10/2019 | [啟動新的訂閱產品金鑰](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | 新增 |
-| 1/10/2019 | [啟動 Office](/AlchemyInsights/activate-office) | 新增 |
+| 1/10/2019 | 啟動 Office | 新增 |
 | 1/10/2019 | [啟動 Microsoft Office 365 大量授權訂閱](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | 新增 |
 | 1/10/2019 | [啟用疑難排解](/AlchemyInsights/activation-troubleshooting) | 新增 |
 | 1/10/2019 | [將群組新增至 SharePoint 網站](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | 新增 |
@@ -218,7 +218,7 @@ ms.locfileid: "29383177"
 | 1/10/2019 | [新增或移除使用者的電子郵件別名](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | 新增 |
 | 1/10/2019 | [預付訂閱中新增基座](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | 新增 |
 | 1/10/2019 | [預付訂閱中新增基座](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | 新增 |
-| 1/10/2019 | [將使用者新增至 Office 365](/AlchemyInsights/add-users-to-office-365) | 新增 |
+| 1/10/2019 | 將使用者新增至 Office 365 | 新增 |
 | 1/10/2019 | [將外部使用者新增至通訊群組吗？](/AlchemyInsights/adding-external-users-to-a-distribution-group) | 新增 |
 | 1/10/2019 | [新增外部使用者](/AlchemyInsights/adding-external-users) | 新增 |
 | 1/10/2019 | [ADFS 同盟憑證到期](/AlchemyInsights/adfs-federation-certificate-expiring) | 新增 |
@@ -272,11 +272,11 @@ ms.locfileid: "29383177"
 | 1/10/2019 | [變更在 SharePoint Online 中的網域名稱](/AlchemyInsights/change-domain-name-in-sharepoint-online) | 新增 |
 | 1/10/2019 | [變更您所頻率](/AlchemyInsights/change-how-often-you-pay) | 新增 |
 | 1/10/2019 | [變更 MDM 授權單位](/AlchemyInsights/change-mdm-authority) | 新增 |
-| 1/10/2019 | [變更 NameServers](/AlchemyInsights/change-nameservers) | 新增 |
+| 1/10/2019 | Change nameservers | 新增 |
 | 1/10/2019 | [變更 OneDrive for Business 儲存配額](/AlchemyInsights/change-onedrive-for-business-storage-quota) | 新增 |
 | 1/10/2019 | [變更付款方式](/AlchemyInsights/change-payment-method) | 新增 |
 | 1/10/2019 | [變更 SharePoint 清單或文件庫的權限](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | 新增 |
-| 1/10/2019 | [變更帳單通知的備用電子郵件地址](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | 新增 |
+| 1/10/2019 | 變更帳單通知的備用電子郵件地址 | 新增 |
 | 1/10/2019 | [變更 UPN](/AlchemyInsights/change-upn) | 新增 |
 | 1/10/2019 | [外部使用者存取的變更](/AlchemyInsights/changes-to-external-user-access) | 新增 |
 | 1/10/2019 | [變更郵件或附件的大小](/AlchemyInsights/changing-message-or-attachment-size) | 新增 |
@@ -303,7 +303,7 @@ ms.locfileid: "29383177"
 | 1/10/2019 | [建立流程](/AlchemyInsights/create-a-flow) | 新增 |
 | 1/10/2019 | [建立現代小組網站](/AlchemyInsights/create-a-modern-team-site) | 新增 |
 | 1/10/2019 | [建立共用信箱](/AlchemyInsights/create-a-shared-mailbox) | 新增 |
-| 1/10/2019 | [建立 SharePoint 網站](/AlchemyInsights/create-a-sharepoint-site) | 新增 |
+| 1/10/2019 | 建立 SharePoint 網站 | 新增 |
 | 1/10/2019 | [在 SharePoint Online 中建立網站](/AlchemyInsights/create-a-site-in-sharepoint-online) | 新增 |
 | 1/10/2019 | [建立及使用共用的信箱](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | 新增 |
 | 1/10/2019 | [建立及使用共用信箱](/AlchemyInsights/create-and-use-a-shared-mailbox) | 新增 |
@@ -321,7 +321,7 @@ ms.locfileid: "29383177"
 | 1/10/2019 | [拒絕的信用卡](/AlchemyInsights/declined-credit-card) | 新增 |
 | 1/10/2019 | [在混合環境中的委派的信箱權限](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | 新增 |
 | 1/10/2019 | [刪除網站的通訊](/AlchemyInsights/delete-a-communication-site) | 新增 |
-| 1/10/2019 | [刪除頁面](/AlchemyInsights/delete-a-page) | 新增 |
+| 1/10/2019 | 刪除頁面 | 新增 |
 | 1/11/2019 | [1047 AntiSpam\550 5.7.708 服務無法使用。「 拒絕存取 」、 不接受來自此 IP 的流量](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | 修改時間 |
 | 1/11/2019 | [1048 5.7.750 服務無法使用。傳送取消登錄的網域從封鎖的用戶端](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | 修改時間 |
 | 1/11/2019 | [太 1049 AntiSpam\4.5.3 眾多收件者 (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | 修改時間 |
@@ -506,7 +506,7 @@ ms.locfileid: "29383177"
 | 1/11/2019 | [檢視工作流程時拒絕存取](/AlchemyInsights/access-denied-when-viewing-a-workflow) | 修改時間 |
 | 1/11/2019 | [Access Services](/AlchemyInsights/access-services) | 修改時間 |
 | 1/11/2019 | [啟動新的訂閱產品金鑰](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | 修改時間 |
-| 1/11/2019 | [啟動 Office](/AlchemyInsights/activate-office) | 修改時間 |
+| 1/11/2019 | 啟動 Office | 修改時間 |
 | 1/11/2019 | [啟動 Microsoft Office 365 大量授權訂閱](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | 修改時間 |
 | 1/11/2019 | [啟用疑難排解](/AlchemyInsights/activation-troubleshooting) | 修改時間 |
 | 1/11/2019 | [將群組新增至 SharePoint 網站](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | 修改時間 |
@@ -515,7 +515,7 @@ ms.locfileid: "29383177"
 | 1/11/2019 | [新增或移除使用者的電子郵件別名](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | 修改時間 |
 | 1/11/2019 | [預付訂閱中新增基座](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | 修改時間 |
 | 1/11/2019 | [預付訂閱中新增基座](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | 修改時間 |
-| 1/11/2019 | [將使用者新增至 Office 365](/AlchemyInsights/add-users-to-office-365) | 修改時間 |
+| 1/11/2019 | 將使用者新增至 Office 365 | 修改時間 |
 | 1/11/2019 | [將外部使用者新增至通訊群組吗？](/AlchemyInsights/adding-external-users-to-a-distribution-group) | 修改時間 |
 | 1/11/2019 | [新增外部使用者](/AlchemyInsights/adding-external-users) | 修改時間 |
 | 1/11/2019 | [ADFS 同盟憑證到期](/AlchemyInsights/adfs-federation-certificate-expiring) | 修改時間 |
@@ -569,11 +569,11 @@ ms.locfileid: "29383177"
 | 1/11/2019 | [變更在 SharePoint Online 中的網域名稱](/AlchemyInsights/change-domain-name-in-sharepoint-online) | 修改時間 |
 | 1/11/2019 | [變更您所頻率](/AlchemyInsights/change-how-often-you-pay) | 修改時間 |
 | 1/11/2019 | [變更 MDM 授權單位](/AlchemyInsights/change-mdm-authority) | 修改時間 |
-| 1/11/2019 | [變更 NameServers](/AlchemyInsights/change-nameservers) | 修改時間 |
+| 1/11/2019 | Change nameservers | 修改時間 |
 | 1/11/2019 | [變更 OneDrive for Business 儲存配額](/AlchemyInsights/change-onedrive-for-business-storage-quota) | 修改時間 |
 | 1/11/2019 | [變更付款方式](/AlchemyInsights/change-payment-method) | 修改時間 |
 | 1/11/2019 | [變更 SharePoint 清單或文件庫的權限](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | 修改時間 |
-| 1/11/2019 | [變更帳單通知的備用電子郵件地址](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | 修改時間 |
+| 1/11/2019 | 變更帳單通知的備用電子郵件地址 | 修改時間 |
 | 1/11/2019 | [變更 UPN](/AlchemyInsights/change-upn) | 修改時間 |
 | 1/11/2019 | [外部使用者存取的變更](/AlchemyInsights/changes-to-external-user-access) | 修改時間 |
 | 1/11/2019 | [變更郵件或附件的大小](/AlchemyInsights/changing-message-or-attachment-size) | 修改時間 |
@@ -600,7 +600,7 @@ ms.locfileid: "29383177"
 | 1/11/2019 | [建立流程](/AlchemyInsights/create-a-flow) | 修改時間 |
 | 1/11/2019 | [建立現代小組網站](/AlchemyInsights/create-a-modern-team-site) | 修改時間 |
 | 1/11/2019 | [建立共用信箱](/AlchemyInsights/create-a-shared-mailbox) | 修改時間 |
-| 1/11/2019 | [建立 SharePoint 網站](/AlchemyInsights/create-a-sharepoint-site) | 修改時間 |
+| 1/11/2019 | 建立 SharePoint 網站 | 修改時間 |
 | 1/11/2019 | [在 SharePoint Online 中建立網站](/AlchemyInsights/create-a-site-in-sharepoint-online) | 修改時間 |
 | 1/11/2019 | [建立及使用共用的信箱](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | 修改時間 |
 | 1/11/2019 | [建立及使用共用信箱](/AlchemyInsights/create-and-use-a-shared-mailbox) | 修改時間 |
@@ -618,7 +618,7 @@ ms.locfileid: "29383177"
 | 1/11/2019 | [拒絕的信用卡](/AlchemyInsights/declined-credit-card) | 修改時間 |
 | 1/11/2019 | [在混合環境中的委派的信箱權限](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | 修改時間 |
 | 1/11/2019 | [刪除網站的通訊](/AlchemyInsights/delete-a-communication-site) | 修改時間 |
-| 1/11/2019 | [刪除頁面](/AlchemyInsights/delete-a-page) | 修改時間 |
+| 1/11/2019 | 刪除頁面 | 修改時間 |
 | 1/11/2019 | [刪除 SharePoint 網站](/AlchemyInsights/delete-a-sharepoint-site-0) | 修改時間 |
 | 1/11/2019 | [刪除 SharePoint 網站](/AlchemyInsights/delete-a-sharepoint-site) | 修改時間 |
 | 1/11/2019 | [刪除通訊網站](/AlchemyInsights/delete-communication-site) | 修改時間 |
@@ -639,7 +639,7 @@ ms.locfileid: "29383177"
 
 | 發佈時間 |主題標題 | 變更 |
 |------|------------|--------|
-| 1/14/2019 | 魔力預留位置 | 移除 |
-| 1/14/2019 | 新增網域魔力 | 移除 |
+| 1/14/2019 | 魔力預留位置 | 已移除 |
+| 1/14/2019 | 新增網域魔力 | 已移除 |
 | 1/14/2019 | [魔力前瞻首頁](/AlchemyInsights/index) | 修改時間 |
 | 1/17/2019 | [相同檔名為最佳 [規則 #-說明]](/AlchemyInsights/1-alchemy-insight-template) | 新增 |
