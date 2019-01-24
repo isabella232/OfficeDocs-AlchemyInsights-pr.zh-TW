@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
 ms.openlocfilehash: 76282b29c41ae7fcc3b40dedd2a3c0cf7e899f31
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278202"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460759"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a><span data-ttu-id="498bf-102">變更您的 Outlook.com 信箱的外觀</span><span class="sxs-lookup"><span data-stu-id="498bf-102">Change the look of your Outlook.com mailbox</span></span>
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a><span data-ttu-id="36e64-102">變更您的 Outlook.com 信箱的外觀</span><span class="sxs-lookup"><span data-stu-id="36e64-102">Change the look of your Outlook.com mailbox</span></span>
 
-<span data-ttu-id="498bf-p101">您可以變更在 Outlook.com 中的郵件清單] 與 [讀取窗格的外觀。選擇是否應排序的訊息至集中與其他索引標籤和是否想要顯示為個別郵件或交談電子郵件。</span><span class="sxs-lookup"><span data-stu-id="498bf-p101">You can change the appearance of the message list and reading pane in Outlook.com. Choose whether your messages should be sorted into Focused and Other tabs and whether you want your email to be displayed as individual messages or conversations.</span></span>
+<span data-ttu-id="36e64-p101">您可以變更在 Outlook.com 中的郵件清單] 與 [讀取窗格的外觀。選擇是否應排序的訊息至集中與其他索引標籤和是否想要顯示為個別郵件或交談電子郵件。</span><span class="sxs-lookup"><span data-stu-id="36e64-p101">You can change the appearance of the message list and reading pane in Outlook.com. Choose whether your messages should be sorted into Focused and Other tabs and whether you want your email to be displayed as individual messages or conversations.</span></span>
   
-<span data-ttu-id="498bf-105">了解如何[變更 Outlook.com 信箱的外觀](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409)。</span><span class="sxs-lookup"><span data-stu-id="498bf-105">Learn how to [change the look of your Outlook.com mailbox](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).</span></span>
+<span data-ttu-id="36e64-105">了解如何[變更 Outlook.com 信箱的外觀](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409)。</span><span class="sxs-lookup"><span data-stu-id="36e64-105">Learn how to [change the look of your Outlook.com mailbox](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).</span></span>
   
- <span data-ttu-id="498bf-p102">**附註：** 不再可能離開 Outlook.com beta 並返回 [傳統 Outlook.com 的版本。[解更多關於新 Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874356)。</span><span class="sxs-lookup"><span data-stu-id="498bf-p102">**Note:** It's no longer possible to leave the Outlook.com beta and return to the classic version of Outlook.com. [Learn more about the new Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874356).</span></span>
+ <span data-ttu-id="36e64-p102">**附註：** 不再可能離開 Outlook.com beta 並返回 [傳統 Outlook.com 的版本。[解更多關於新 Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874356)。</span><span class="sxs-lookup"><span data-stu-id="36e64-p102">**Note:** It's no longer possible to leave the Outlook.com beta and return to the classic version of Outlook.com. [Learn more about the new Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874356).</span></span>
   
 

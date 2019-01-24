@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
 ms.openlocfilehash: db6bf22d5077805fefc44880478bf9cbae4d9538
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278414"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460670"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a><span data-ttu-id="1db90-102">遭遇到重複 Outlook for Mac 中的密碼提示吗？</span><span class="sxs-lookup"><span data-stu-id="1db90-102">Experiencing repeated password prompts in Outlook for Mac?</span></span>
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a><span data-ttu-id="f5824-102">遭遇到重複 Outlook for Mac 中的密碼提示吗？</span><span class="sxs-lookup"><span data-stu-id="f5824-102">Experiencing repeated password prompts in Outlook for Mac?</span></span>
 
-<span data-ttu-id="1db90-103">我們可以協助提供更多特定的 Outlook for Mac 說明直接從應用程式。</span><span class="sxs-lookup"><span data-stu-id="1db90-103">We can help provide more specialized Outlook for Mac help directly from the application.</span></span>
+<span data-ttu-id="f5824-103">我們可以協助提供更多特定的 Outlook for Mac 說明直接從應用程式。</span><span class="sxs-lookup"><span data-stu-id="f5824-103">We can help provide more specialized Outlook for Mac help directly from the application.</span></span>
   
-<span data-ttu-id="1db90-104">請移至受影響的使用者的 Mac 開啟 [Outlook]，然後按一下**協助** \> **連絡支援服務**。</span><span class="sxs-lookup"><span data-stu-id="1db90-104">Please go to the affected user's Mac, open Outlook, and click on **Help** \> **Contact Support**.</span></span>
+<span data-ttu-id="f5824-104">請移至受影響的使用者的 Mac 開啟 [Outlook]，然後按一下**協助** \> **連絡支援服務**。</span><span class="sxs-lookup"><span data-stu-id="f5824-104">Please go to the affected user's Mac, open Outlook, and click on **Help** \> **Contact Support**.</span></span>
   
-<span data-ttu-id="1db90-105">若要深入了解使用 Outlook for Mac 中應用程式客戶支援，請參閱本文： [Outlook 2016 for Mac 中的新連絡人支援功能](https://support.office.com/article/https://answers.microsoft.com/en-us/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span><span class="sxs-lookup"><span data-stu-id="1db90-105">To learn more about using Outlook for Mac in-app customer support, see this article: [New Contact Support feature in Outlook 2016 for Mac](https://support.office.com/article/https://answers.microsoft.com/en-us/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span></span>
+<span data-ttu-id="f5824-105">若要深入了解使用 Outlook for Mac 中應用程式客戶支援，請參閱本文： [Outlook 2016 for Mac 中的新連絡人支援功能](https://support.office.com/article/https://answers.microsoft.com/en-us/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span><span class="sxs-lookup"><span data-stu-id="f5824-105">To learn more about using Outlook for Mac in-app customer support, see this article: [New Contact Support feature in Outlook 2016 for Mac](https://support.office.com/article/https://answers.microsoft.com/en-us/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span></span>
   
 
