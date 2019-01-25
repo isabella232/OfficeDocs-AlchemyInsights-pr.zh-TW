@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
 ms.openlocfilehash: a4b1ce6c6a454939bb47fcfb183914fb26b1f6c5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279410"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500345"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>如何還原 SharePoint Online 中的項目
 
@@ -28,8 +28,8 @@ ms.locfileid: "28279410"
     
 2. 在 [**資源回收筒**] 頁面上，選取您想要將其指向並按一下出現的核取記號表示圖示還原的項目。 
     
-3. 按一下 [**還原**]。
+3. 按一下 [還原]。
     
-[從網站集合資源回收筒還原刪除的項目](https://go.microsoft.com/fwlink/?linkid=866439)
+[從網站集合資源回收筒還原已刪除的項目](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

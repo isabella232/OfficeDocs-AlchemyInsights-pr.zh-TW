@@ -10,11 +10,11 @@ localization_priority: Priority
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
 description: 嘗試修正您 Office 錯誤 0 1036年這些解決方案：
 ms.openlocfilehash: 9e13b1e71a05638176666cb1d155ea19c649c373
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279338"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499193"
 ---
 嘗試修正您 Office 錯誤 0 1036年這些解決方案：
   

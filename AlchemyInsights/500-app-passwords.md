@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
 ms.openlocfilehash: 137438e503923ba24e47727a7c472022fc5994f4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279167"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500021"
 ---
 # <a name="app-passwords"></a>應用程式密碼
 

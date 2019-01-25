@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
 ms.openlocfilehash: f06c6af06be38489489e41585da3e2e3d29dfacc
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279428"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29497753"
 ---
 # <a name="my-outlookcom-status-always-shows-as-available"></a>我 Outlook.com 狀態永遠顯示為線上
 
