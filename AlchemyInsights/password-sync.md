@@ -15,11 +15,11 @@ search.appverid:
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
 ms.openlocfilehash: 61bae5b7e4bf68a7d01c166bf5fdb8e340de829f
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278374"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460824"
 ---
 # <a name="enable-password-sync"></a>啟用密碼同步處理
 

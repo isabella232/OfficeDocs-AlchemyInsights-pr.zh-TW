@@ -10,11 +10,11 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba48253-6088-4c95-94d8-815753c46c4c
 ms.openlocfilehash: bf14d397b3d678e2ee17c85372dde64dd3273f9a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279348"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461056"
 ---
 在 Excel 中的經常當機次數可以是無效的增益集所造成。您可以遵循這些指示停用 Excel 增益集：
   

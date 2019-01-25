@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
 ms.openlocfilehash: c3c078f8fb058a409e0fe4aa427f86e328ae4ce7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278637"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461110"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>若要購買新的訂閱在尋找吗？
 
@@ -32,11 +32,11 @@ ms.locfileid: "28278637"
     
 5. 完成購買時，您可能需要重新指派授權或取消訂閱。如需此說明，請參閱下列額外的資源] 區段。
     
- **其他資源：**
+ 其他資源
   
 - [在商務用 Office 365 中指派授權給使用者](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [取消 Office 365 企業版](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [取消商務用 Office 365](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 - 如果您感興趣的切換訂閱，請參閱[切換至不同的 Office 365 的商務計劃。](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)
     

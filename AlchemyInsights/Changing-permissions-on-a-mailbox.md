@@ -10,11 +10,11 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0bae85bc-2a1f-436b-af07-82d0eb79cb8b
 ms.openlocfilehash: 2835e0665e602caaf793ec6bb78b0ee2cc43527e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278293"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460308"
 ---
 如果使用者需要存取本身以外的信箱，他們必須授與使用這些信箱的權限。指派權限的方式而定的信箱類型。如果使用者需要存取權：
   

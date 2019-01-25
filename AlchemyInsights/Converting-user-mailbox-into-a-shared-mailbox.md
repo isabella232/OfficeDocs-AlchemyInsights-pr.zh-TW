@@ -10,11 +10,11 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
 ms.openlocfilehash: 22ad1b3fb818b40bcd77974031735f931e986968
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279281"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29460390"
 ---
 您只可以將使用者信箱轉換共用信箱如果使用者具有 Exchange 的授權。信箱轉換後，它會繼續在顯示作用中使用者清單因為該清單包含共用的信箱。不過，已轉換的信箱將也顯示共用的信箱清單中。 
   
