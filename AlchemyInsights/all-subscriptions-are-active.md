@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
 ms.openlocfilehash: e0f736ad9deeaaf5673583cecc3dca8803769877
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279358"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29497933"
 ---
 # <a name="all-subscriptions-are-active"></a>所有訂閱都的作用中
 

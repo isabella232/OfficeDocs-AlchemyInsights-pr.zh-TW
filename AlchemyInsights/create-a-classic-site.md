@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9f8e385b-dd2c-4d4e-b5f0-e28a24db4d83
 ms.openlocfilehash: 5cf8511c2b7322f40aa8e911ced63980b8e800ed
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278205"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498545"
 ---
 # <a name="create-a-classic-site"></a>建立傳統網站
 
