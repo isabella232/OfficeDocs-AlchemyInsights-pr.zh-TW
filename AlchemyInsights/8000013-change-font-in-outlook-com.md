@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 824035f6-90d3-4ea2-a92b-6b73b4ec0076
 ms.openlocfilehash: 71470120a669073244bf34b809658586cb36db2d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279277"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498689"
 ---
 # <a name="change-font-or-font-size-in-outlookcom"></a>變更字型或字型大小 Outlook.com 中
 
