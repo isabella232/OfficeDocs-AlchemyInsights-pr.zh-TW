@@ -1,5 +1,5 @@
 ---
-title: Change nameservers
+title: 變更 NameServers
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: b296e76c3d39cad16f329215f0480ae260e77f2e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 901e0aaaa6550059318bfce35a2e97ad60a71360
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460264"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659726"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>將您的網域名稱伺服器更新為 Office 365
 
@@ -34,6 +34,6 @@ ms.locfileid: "29460264"
     
 3. 儲存變更。
     
-您也可以在這篇文章中找到詳細指示：[運用任何網域註冊機構變更名稱伺服器以設定 Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
+您也可以在這篇文章中找到詳細指示：[運用任何網域註冊機構變更名稱伺服器以設定 Office 365](https://support.office.com/article/https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
   
 

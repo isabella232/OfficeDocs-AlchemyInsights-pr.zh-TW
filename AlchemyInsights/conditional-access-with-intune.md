@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 59f1aefaeec3d655b2388b00e7d58a8c2338504b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3b50bc96a879017b62e42e1849f72e68408a0d9d
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460964"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662318"
 ---
 # <a name="conditional-access-with-intune"></a>設定格式化的條件 intune 的存取
 
@@ -25,10 +25,10 @@ ms.locfileid: "29460964"
     
 - 確保**規範遵守原則**和**設定格式化的條件存取原則**會針對所需的使用者群組。這可能需要在 Azure Active Directory 中建立特定使用者群組。 
     
-閱讀其他資訊
+閱讀更多：
   
-- [條件式存取的最佳作法](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/best-practices)
+- [條件式存取的最佳作法](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [條件式存取的快速入門](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [條件式存取的快速入門](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

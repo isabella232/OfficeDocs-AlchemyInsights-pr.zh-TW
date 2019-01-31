@@ -2,51 +2,30 @@
 title: 刪除 SharePoint 網站
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29461023"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660007"
 ---
 # <a name="delete-a-sharepoint-site"></a>刪除 SharePoint 網站
-
- **刪除 Office 365 群組所屬的網站：**
+ **從新的 SharePoint 系統管理中心刪除網站**
   
-當使用者從 SharePoint 首頁建立新的小組網站] （或您從新的 SharePoint admin center 預覽建立新的小組網站時） 會自動建立對應的 Office 365 群組。當您建立的 Office 365 群組或小組中的 Microsoft 小組也會建立 office 365 群組連線的小組網站。若要刪除的 Office 365 群組所屬的 SharePoint 網站，您需要刪除本身的 Office 365 群組。 
+若要刪除頻繁的網站，請移至目前的 SharePoint 系統管理中心、"試試看現在"右上角。選取**使用中網站**、 選取 [網站]，然後選取**刪除**。若要[檢視及還原已刪除的網站在新的 SharePoint 系統管理中心中](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)，選取 [**已刪除的網站**。如需詳細資訊，請參閱 ＜[新的 SharePoint 系統管理中心中管理網站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)。
   
-1. 移至[群組] 頁面上的 Office 365 系統管理中心](https://portal.office.com/adminportal/home#/groups)。
+**重要：** 若網站隸屬於保留原則，您可能無法予以刪除之前的網站移除[安全性&amp;規範系統管理中心](https://protection.office.com/?rfr=AdminCenter#/homepage)。如需詳細資訊，請參閱[概觀 （英文） 的保留原則](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)。 
   
-2. 選取群組] 旁的核取方塊。
-  
-3. 選取 [**刪除**]。 
-  
-附註： 當您刪除群組時，可以會有延遲前的網站移除 SharePoint。
-  
- **刪除通訊網站或傳統網站：**
-  
-1. 移至網站。
-  
-2. 按一下 [* * 設定 * * （滾輪齒輪圖示） 右上角。 
-  
-3. 按一下 [**網站設定**]。[**站台資訊**] 或 [**網站動作]** 下按一下 [**刪除此網站**] 和 [**刪除**。 
-  
- **刪除 SharePoint 網站集合：**
-  
-若要刪除傳統的網站集合：
-  
-1. 在傳統 SharePoint 系統管理中心，在 [網站集合] 頁面上選取 [網站集合旁的**核取方塊**。 
-  
-2. 在 [網站集合] 索引標籤上選取 [**刪除。**
-  
- **由意外刪除的網站吗？**
-  
-請參閱[還原已刪除的網站集合](https://go.microsoft.com/fwlink/?linkid=867660)。
+提示：
+- 全域管理員與 SharePoint 系統管理員現在可以刪除對**Office 365 群組**的網站。這會刪除群組及所有其資源，包括 Outlook 信箱和行事曆及任何小組通道。如需詳細資訊，請參閱[刪除 SharePoint 網站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- 您可以使用 93 天復原已刪除的網站。請注意必須在 30 天內還原已刪除的群組。如需詳細資訊，請參閱[檢視並還原已刪除的網站](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)。
+- 完全移除 Powershell 與站台，請參閱 ＜ [Remove-spsite ＞](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet 的範例。 
   
 

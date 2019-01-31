@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: b246b17a2809859b06841c262011e368e72c77b3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3c1fc65a08816403b453c3159b2ae3573e741a1a
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460714"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657890"
 ---
 # <a name="restore-a-user-in-office-365"></a>還原 Office 365 使用者
 
@@ -30,6 +30,6 @@ ms.locfileid: "29460714"
     
 4. 按一下 [**傳送電子郵件並關閉**，並完成 ！
     
-未容易嗎？如需詳細資訊和步驟的螢幕擷取畫面，請參閱本文：[還原 Office 365 中的使用者](https://support.office.com/article/https://support.office.com/en-us/article/Restore-a-user-in-Office-365-2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)
+未容易嗎？如需詳細資訊和步驟的螢幕擷取畫面，請參閱本文：[還原 Office 365 中的使用者](https://support.office.com/article/https://support.office.com/article/Restore-a-user-in-Office-365-2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)
   
 

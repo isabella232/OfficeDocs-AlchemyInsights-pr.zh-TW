@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 0a5fb7f1d3ee77051d81468369ddc58f4ae31db7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3215eadb8555a194680326768adf58e021f0bd55
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499913"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657818"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>檢查電子郵件轉寄的信箱設定
 
@@ -26,10 +26,10 @@ ms.locfileid: "29499913"
     
 > 如果這是共用的信箱，請移至**群組** \> **共用信箱**並選取您要轉接的共用信箱。選擇電子郵件轉寄的 [**編輯**]。 
     
-如需詳細資訊，請參閱 ＜ [Configure 電子郵件轉寄 Office 365 中](https://support.office.com/en-us/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74)。 
+如需詳細資訊，請參閱 ＜ [Configure 電子郵件轉寄 Office 365 中](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74)。 
   
-若要讓他們可以在自己的信箱上設定電子郵件轉寄，將指示傳送給您的使用者，其指向[轉接至另一個電子郵件帳戶的 Office 365 中的電子郵件](https://support.office.com/en-us/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e)。請注意可以轉接至只有一個電子郵件地址。如果您需要設定轉寄至一群人員，建立通訊群組清單 （[群組] 下），將使用者新增至其，然後設定 [轉接給該群組。
+若要讓他們可以在自己的信箱上設定電子郵件轉寄，將指示傳送給您的使用者，其指向[轉接至另一個電子郵件帳戶的 Office 365 中的電子郵件](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e)。請注意可以轉接至只有一個電子郵件地址。如果您需要設定轉寄至一群人員，建立通訊群組清單 （[群組] 下），將使用者新增至其，然後設定 [轉接給該群組。
   
-您必須離開員工吗？請參閱[移除先前的員工從 Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)的建議所應採取的步驟。 
+您必須離開員工吗？請參閱[移除先前的員工從 Office 365](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)的建議所應採取的步驟。 
   
 

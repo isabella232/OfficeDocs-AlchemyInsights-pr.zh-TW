@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: b8c64b3c006ffd59ad5b72478f235bb55601491c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6c9750f6b2fb61c09dff2bc86e0a51d2d8c80270
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29461173"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656090"
 ---
 # <a name="change-a-users-email-address"></a>變更使用者的電子郵件地址
 
@@ -26,7 +26,7 @@ ms.locfileid: "29461173"
     
 2. 選取的使用者。
     
-3. 在右側的 [使用者名稱/電子郵件別名] 列中，選擇 [編輯]。
+3. 在向右中, **Username / 電子郵件別名**列、 選擇 [**編輯**]。
     
 4. 在 [**別名**] 方塊中輸入新的電子郵件、 然後選擇 [**新增]**。
     
@@ -38,6 +38,6 @@ ms.locfileid: "29461173"
     
 6. 選擇**儲存**，然後**關閉**，並完成 ！
     
-未容易嗎？如需詳細資訊和步驟的螢幕擷取畫面，請參閱本文：[變更的使用者名稱和電子郵件地址在 Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+未容易嗎？如需詳細資訊和步驟的螢幕擷取畫面，請參閱本文：[變更的使用者名稱和電子郵件地址在 Office 365](https://support.office.com/article/https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
   
 

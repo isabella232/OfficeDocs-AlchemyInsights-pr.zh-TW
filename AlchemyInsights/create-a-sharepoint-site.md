@@ -2,29 +2,25 @@
 title: 建立 SharePoint 網站
 ms.author: kirks
 author: Techwriter40
-ms.date: 1/3/2019
+ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 00f3e971a4dda8b0f5feee1ad2f08101192a2816
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 92bb7b5f0a684936db52f6be9e00c8dff3378bb5
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460604"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657494"
 ---
 # <a name="create-a-sharepoint-site"></a>建立 SharePoint 網站
 
-若要管理網站中新的 SharePoint 系統管理中心，移至目前的 SharePoint 系統管理中心、 按一下"試試看現在"中的右上，然後選取作用中的網站。新的 SharePoint 系統管理中心的相關資訊，請參閱[開始使用新的 SharePoint 系統管理中心。](https://docs.microsoft.com/en-us/sharepoint/get-started-new-admin-center)
+請參閱網站建立選項[中新的 SharePoint 系統管理中心管理網站](https://docs.microsoft.com/sharepoint/manage-site-creation )。選取 [建立[小組網站](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US)（這會建立一個 Office 365 群組） 或[通訊網站](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)。若要建立[傳統的站台](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)或新的小組網站不會包含 Office 365 群組，按一下 [**其他選項**]。 
   
-1. 按一下 [建立]****。 
-    
-2. 選取 [建立小組網站 （這會建立一個 Office 365 群組） 或通訊站台。若要建立傳統網站，或是不包含 Office 365 群組的新小組網站，請按一下 [**其他選項**]。新的網站範本的相關資訊，請參閱[建立在 SharePoint Online 小組網站](https://support.office.com/en-us/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US)和[建立通訊網站 SharePoint Online 中](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)。
-  
- **附註：** 您無法建立新的網站具有相同現有網站的 URL。如果您刪除站台且想要重複使用的 URL，很可能與您要尋找要使用的 URL 的網站過仍然會出現在**已刪除的網站。** 按一下 [**刪除的網站**、 反白顯示要永久刪除的網站並選取 [**刪除**] 按鈕。 
-  
- **附註：** 若要管理誰可以建立網站，請參閱[SharePoint Online 中的管理網站架設](https://docs.microsoft.com/en-us/sharepoint/manage-site-creation)。
-    
-
+提示：
+- *您無法建立網站與現有網站的相同的 URL。如果您刪除站台且想要重複使用的 URL，很可能**已刪除網站**下仍有已刪除的網站。若要管理已刪除的網站，請參閱[刪除網站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)。完全移除 Powershell 與站台，請參閱 ＜ [Remove-spsite ＞](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet 的範例。*
+- *一些使用者可能無法建立網站。請參閱[SharePoint Online 中的管理網站架設](https://docs.microsoft.com/sharepoint/manage-site-creation)。*
+- *有可能的網站會出現在**建立**比預期更久停滯。如果超過 24 小時已經過自您第一次看到此問題，請登支援票證。在許多情況下，我們已使用解決方案。請提供給我們至少 24 小時才能完成解決方案。*

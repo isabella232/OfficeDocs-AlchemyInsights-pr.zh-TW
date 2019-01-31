@@ -2,44 +2,28 @@
 title: 啟用疑難排解
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: 具有極短的簡介 （1 句子） 啟動您的文章。自行放置就地讀者-為何他們以下吗？他們是該怎麼辦？
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498257"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646950"
 ---
-具有極短的簡介 （1 句子） 啟動您的文章。自行放置就地讀者-為何他們以下吗？他們是該怎麼辦？ 
-  
-1. 取得直線快速步驟以完成工作清單。
-    
-    如果您需要為說明的概念，或其已執行必要步驟，新增下方所需及[連結](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx)概念或步驟步驟的快速摘要。 
-    
-2. 保留程序簡短-最好是 5 個或更少的步驟執行、 不超過 8。
-    
-3. 使用使用者介面元素的**Ui 樣式**或人員需要輸入的文字。 
-    
-4. 使用動詞選擇、 選取或輸入動作和格式化為**功能表**的功能表\>**命令**。
-    
-5. （選用） 新增內容的螢幕擷取畫面 （如果 UI 是難以找到，或其已完成工作所需）。
-    
-    最大寬度： 520 像素為單位。使用標準的佈景主題、 不顯示任何個人資訊，並顯示只是相關裁剪。 
-    
-    ![版面配置區-SOC 文章藝術師的最大寬度為 520 像素](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-如果您想要新增視訊或影像、 使用兩欄格線及左邊和視訊中的步驟或螢幕擷取畫面中右-請參閱[步驟及視訊的格線範例](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx)。 
-  
-目標不得超過 500 個字的文章。
-  
-# <a name="example-article"></a>範例文章
+# <a name="activation-troubleshooting"></a>啟用疑難排解
 
-[變更我的相片](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+在 **[控制台]** 中\>**程式和功能**，搜尋 Office。您應該會看到 Microsoft Office 365 ProPlus 或 Microsoft Office 365 企業版。如果您看到一個以上所列的 Office 版本，請先解除安裝不使用的版本。 
   
-
+如果您無法解除安裝已成功使用 [控制台]，使用的[支援和復原助理](https://aka.ms/SARA-OfficeUninstall-Alchemy)解除安裝不使用的版本。 
+  
+如果仍然未授權 Office，回到 **[控制台]** \> **程式和功能**。以滑鼠右鍵按一下剩餘的 Office 安裝、 選取 [**修改**] （或變更），然後選取**線上修復**。線上修復可能需要一段時間。然後重新啟動 Office 及使用您的工作登入或學校帳戶，如果系統提示。
+  
+Office 仍未授權時，下載並再執行修正啟用問題影響電腦上的 [[啟用疑難排解員](https://aka.ms/SARA-OfficeActivation-Alchemy)。 
+  
+如需詳細資訊，請參閱：[未授權產品並啟用 Office 中的錯誤](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)。

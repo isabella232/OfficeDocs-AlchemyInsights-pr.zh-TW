@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 5be8a8f9f67939c7e2671855da259818269d9299
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c95f07b9fb7251442577c014e4005dbe3f92ceb4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29461071"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661742"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>修正檔案總管開啟的問題
 
@@ -31,6 +31,6 @@ ms.locfileid: "29461071"
 > [!NOTE]
 > 如果您要複製或移動多個檔案及資料夾之後，但如果您想要在文件庫中定期工作方便使用中檔案總管] 中開啟文件庫，建議次它。若要疑難排解在檔案總管] 中開啟的問題，請參閱[在檔案總管中開啟](https://go.microsoft.com/fwlink/?linkid=871665)。如需設定同步處理的資訊，請參閱 ＜[具有新 OneDrive sync 用戶端的同步處理 SharePoint 檔案](https://go.microsoft.com/fwlink/?linkid=871666)。
   
-請參閱 ＜[如何使用 「 開啟與檔案總管 」 命令來疑難排解 SharePoint Online 中的問題](https://support.office.com/en-us/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)的詳細資訊。 
+請參閱 ＜[如何使用 「 開啟與檔案總管 」 命令來疑難排解 SharePoint Online 中的問題](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)的詳細資訊。 
   
 

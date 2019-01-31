@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 0b375c3054d6ebd8638b167770fb73f12c7e95ef
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d85a9e37e30bf83b8990247c4a7d529b4d9ff305
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460280"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656450"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>使用者設定檔及相片同步處理
 
@@ -25,6 +25,6 @@ ms.locfileid: "29460280"
   
 如需設定檔同步處理程序的詳細資訊，請參閱[SharePoint Online 中的使用者設定檔同步處理的相關資訊](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **更新設定檔中探索 Office** -Delve 使用者可以管理其 Office 365 設定檔。如需詳細資訊，請參閱[檢視並更新您的設定檔中探索 Office](https://support.office.com/en-us/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)。
+- **更新設定檔中探索 Office** -Delve 使用者可以管理其 Office 365 設定檔。如需詳細資訊，請參閱[檢視並更新您的設定檔中探索 Office](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)。
     
 

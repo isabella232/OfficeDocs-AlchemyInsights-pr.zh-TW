@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 9ee9fe3a5cb9f1c40a1141a9abe241c4f7fdc360
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: abadf8e1fdba18a4c31f349498bc2abb75d66a43
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460986"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661130"
 ---
 # <a name="how-to-enable-seamless-sso"></a>如何啟用順暢 SSO
 
-啟用透過[Azure AD 連線](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect)順暢 SSO。
+啟用透過[Azure AD 連線](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)順暢 SSO。
   
-如果您正在執行 Azure AD 連接的全新安裝，選擇 [[自訂安裝路徑](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-get-started-custom)]。在 [**使用者登入**] 頁面上，選擇 [**啟用單一登入**] 選項。 
+如果您正在執行 Azure AD 連接的全新安裝，選擇 [[自訂安裝路徑](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom)]。在 [**使用者登入**] 頁面上，選擇 [**啟用單一登入**] 選項。 
   
 若要確認您已啟用順暢 SSO 正確：
   
@@ -32,6 +32,6 @@ ms.locfileid: "29460986"
     
 3. 確認順暢單一登入**已啟用**。
     
-若要深入了解，請參閱[Azure Active Directory 順暢單一登入： 快速入門](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)。
+若要深入了解，請參閱[Azure Active Directory 順暢單一登入： 快速入門](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)。
   
 

@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460868"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646374"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>刪除 Office 365 群組所屬的網站：
 
@@ -30,7 +30,7 @@ ms.locfileid: "29460868"
     
 附註： 當您刪除群組時，可以會有延遲前的網站移除 SharePoint。
   
-## <a name="delete-communication-sites-or-classic-sites"></a>刪除通訊網站或傳統網站：
+**刪除通訊網站或傳統網站：**
 
 1. 移至網站。
   
@@ -38,7 +38,7 @@ ms.locfileid: "29460868"
   
 3. 按一下 [**網站設定**]。[**站台資訊**] 或 [**網站動作]** 下按一下 [**刪除此網站**] 和 [**刪除**。
   
-## <a name="delete-a-sharepoint-site-collection"></a>刪除 SharePoint 網站集合：
+**刪除 SharePoint 網站集合：**
 
 若要刪除傳統的網站集合：
   
@@ -46,7 +46,7 @@ ms.locfileid: "29460868"
     
 2. 在 [網站集合] 索引標籤上選取 [**刪除。**
     
-## <a name="deleted-a-site-by-accident"></a>由意外刪除的網站吗？
+**由意外刪除的網站吗？**
 
 請參閱[還原已刪除的網站集合](https://go.microsoft.com/fwlink/?linkid=867660)。
   

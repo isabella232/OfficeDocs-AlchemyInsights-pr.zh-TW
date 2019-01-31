@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
 description: 目標不得超過 500 個字的文章。
-ms.openlocfilehash: 001833aeec5e8f6783aaa68c45406d43aba752fb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ba06121faec69ab80805be9f1507a1dd5e9649d8
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498149"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662174"
 ---
 目標不得超過 500 個字的文章。
   
@@ -33,6 +33,6 @@ ms.locfileid: "29498149"
     
 4. 選擇 [**封鎖使用者登入** \> **儲存**。 
     
- **附註**： 如某些應用程式可能無法立即登出。待處理的本文中的多個動作：[移除先前的員工從 Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
+ **附註**： 如某些應用程式可能無法立即登出。待處理的本文中的多個動作：[移除先前的員工從 Office 365](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
   
 

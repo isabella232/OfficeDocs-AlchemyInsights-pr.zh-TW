@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 037589c42768addd5fd19e9b48a2985d2ab4c7da
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8518372f85420b7ffd2a6be109bad08a23069a33
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29461048"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660806"
 ---
 # <a name="how-to-disable-external-groups"></a>如何停用外部群組
 
@@ -27,6 +27,6 @@ ms.locfileid: "29461048"
     
 4. **外部網路**此選項可讓您可以邀請外部使用者驗證系統管理員可以建立在網路外部網路。此選項最適合主控外部社群 （英文）。 
     
-如需詳細資訊，請參閱[新增外部通訊的參與者加入 Yammer 交談](https://support.office.com/en-us/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US)和[外部通訊常見問題集 (Yammer)](https://support.office.com/en-us/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
+如需詳細資訊，請參閱[新增外部通訊的參與者加入 Yammer 交談](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US)和[外部通訊常見問題集 (Yammer)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
   
 

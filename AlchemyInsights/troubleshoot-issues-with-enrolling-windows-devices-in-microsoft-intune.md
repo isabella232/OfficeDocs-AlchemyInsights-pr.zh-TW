@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
-ms.openlocfilehash: 8d19bbd5a5782c7793c87499baf62b2eb7de82ae
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8c5e7cc502d016ad658383685523dc240dfb4dc6
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460671"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661507"
 ---
 # <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>疑難排解問題註冊 Microsoft Intune 中的 Windows 裝置
 
@@ -26,9 +26,9 @@ ms.locfileid: "29460671"
   
  **錯誤碼 0x801c0003:** 在下列情況會發生錯誤： 
   
-1. 使用者有多個裝置註冊於裝置限制。檢閱這些文件[中移除裝置](https://docs.microsoft.com/en-us/intune/devices-wipe)或[變更裝置限制](https://docs.microsoft.com/en-us/intune/enrollment-restrictions-set#set-device-limit-restrictions)。
+1. 使用者有多個裝置註冊於裝置限制。檢閱這些文件[中移除裝置](https://docs.microsoft.com/intune/devices-wipe)或[變更裝置限制](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)。
     
-2. 「 使用者可能會加入裝置 Azure AD"設為"none"。將它設為所有或選取使用者。請檢閱[此文件](https://docs.microsoft.com/en-us/azure/active-directory/device-management-azure-portal#configure-device-settings)的詳細資訊。 
+2. 「 使用者可能會加入裝置 Azure AD"設為"none"。將它設為所有或選取使用者。請檢閱[此文件](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)的詳細資訊。 
     
 3. 裝置已經由另一個使用者註冊。如果這是大小寫、 Azure Intune 主控台中移除裝置或手動重新嘗試之前 unenroll 裝置。
     
@@ -36,10 +36,10 @@ ms.locfileid: "29460671"
     
 若要協助解決問題的其他資源：
   
-1. 使用[Intune 疑難排解入口網站](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)來診斷及解決常見的註冊失敗。請檢閱[本文件](https://docs.microsoft.com/en-us/intune/help-desk-operators)如需詳細資訊。 
+1. 使用[Intune 疑難排解入口網站](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)來診斷及解決常見的註冊失敗。請檢閱[本文件](https://docs.microsoft.com/intune/help-desk-operators)如需詳細資訊。 
     
-2. 檢閱這些文件的每個防止註冊和解決方法的常見錯誤的清單：[疑難排解指南](https://support.microsoft.com/en-us/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)及[疑難排解 doc](https://docs.microsoft.com/en-us/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)。
+2. 檢閱這些文件的每個防止註冊和解決方法的常見錯誤的清單：[疑難排解指南](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)及[疑難排解 doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)。
     
-[解如何註冊 Microsoft Intune 中的 Windows 裝置](https://docs.microsoft.com/en-us/intune/windows-enroll)。
+[解如何註冊 Microsoft Intune 中的 Windows 裝置](https://docs.microsoft.com/intune/windows-enroll)。
   
 
