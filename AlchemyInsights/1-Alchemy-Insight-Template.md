@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662921"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697121"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>需要的客戶面向 H1、 H2 未作用
-範例文字封鎖-請遵循下列指示：
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>需要的魔力標頭 H1、 H2 的未運作。
+最佳作法和魔力製作的指導方針：
 
+1. **未巢狀處理資料夾中的魔力前瞻**-這會自動換行的 url 結構。我們要尋找到修正這。
 1. 在 [檔案名稱應有規則 ID 和[魔力協力廠商入口網站](https://alchemyportal.azurewebsites.net)中的規則名稱**AlchemyInsights**資料夾中的檔案。
     1. 例如***976-How-to-enable-litigation-hold***
 1. 使用此檔案頂端的中繼資料為您的範本。還不是必要的。
@@ -35,7 +36,6 @@ ms.locfileid: "29662921"
 
 與這是真正已經有點太長。最佳做法是即將 400 個字元為--
 
-一旦您的內容已準備好，則會提取至 live 分支。然後，移至[魔力協力廠商入口網站](https://alchemyportal.azurewebsites.net)並在 [url] 欄位中輸入檔案名稱。請務必檢閱及發佈的獨到"yes"表示，然後按一下 [更新規則。（這會更加美觀入口網站-釋放推出新版本中。）
-
-![url] 欄位](media/for-content-team.PNG)
+一旦您的內容已準備好，則會提取至 live 分支。然後，移至[魔力協力廠商入口網站](https://alchemyportal.azurewebsites.net)並在 [url] 欄位中輸入檔案名稱。請務必檢閱及發佈的獨到"yes"表示，然後按一下 [更新規則。**（這會更加美觀入口網站-釋放推出新版本中。）**
+ ![url] 欄位](media/for-content-team.PNG)
 
