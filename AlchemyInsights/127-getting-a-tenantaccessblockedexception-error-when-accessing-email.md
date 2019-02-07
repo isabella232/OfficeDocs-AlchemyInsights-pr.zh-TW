@@ -11,20 +11,20 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 2aefc2f77462c7461c8c5547f42502db27746f54
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 05d021a95e0f138ce2557e09bb0a657c67af9c92
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460439"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758370"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>存取電子郵件時取得 TenantAccessBlockedException 錯誤？
 
 有幾個不同的原因為何您可能會收到此錯誤。例如：
   
-- 確認您的訂閱是有效的**計費** \> **訂閱**] 頁面上的 Office 365 系統管理中心 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions))。
+- 確認您的訂閱是有效的**計費** \> **訂閱**] 頁面上的 Office 365 系統管理中心 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions)。
     
-- 任何過去的到期日] 核取通知中的**計費** \> **帳單**頁面上的 Office 365 系統管理中心 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview))。
+- 任何過去的到期日] 核取通知中的**計費** \> **帳單**頁面上的 Office 365 系統管理中心 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview)。
     
 - 如果帳務和訂閱帳戶最近已更新，則可能需要的變更傳播的時間。嘗試再次在幾分鐘，而如果問題仍然存在，請與我們連絡。
     

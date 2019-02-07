@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 2623ac8a06b0fd277c04dd0ed7a800a56d30e2bb
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: d0d07ddb07ae8f8268dbf50fd7c376ec45ac9ce4
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29659762"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758659"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>建立或新增使用者的電子郵件別名
 
@@ -34,6 +34,6 @@ ms.locfileid: "29659762"
     
     通常是延長約 30 分鐘的新別名才會生效。
     
-    **如需詳細資訊，請參閱本文：**[新增至使用者的其他電子郵件別名](https://support.office.com/article/https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
+    **如需詳細資訊，請參閱本文：**[新增至使用者的其他電子郵件別名](https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
     
 
