@@ -10,16 +10,16 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0ae81203-7cbf-48a1-bd1a-2711e1c92e7b
-ms.openlocfilehash: ea85ddbf621367d77ba02cb0a6966a2063ed2c38
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 246c47a87d9e08dde488fdff0cf9ad6fe3965d6e
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657674"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29757365"
 ---
-# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="f6e50-102">嘗試移除網域吗？</span><span class="sxs-lookup"><span data-stu-id="f6e50-102">Trying to remove your domain?</span></span>
+# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="812da-102">嘗試移除網域吗？</span><span class="sxs-lookup"><span data-stu-id="812da-102">Trying to remove your domain?</span></span>
 
-<span data-ttu-id="f6e50-103">若要從 Office 365 移除網域，請遵循中[移除從 Office 365 網域](https://support.office.com/article/https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)。</span><span class="sxs-lookup"><span data-stu-id="f6e50-103">To remove your domain from Office 365, follow the steps in [Remove a domain from Office 365](https://support.office.com/article/https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx).</span></span>
+<span data-ttu-id="812da-103">若要從 Office 365 移除網域，請遵循中[移除從 Office 365 網域](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)。</span><span class="sxs-lookup"><span data-stu-id="812da-103">To remove your domain from Office 365, follow the steps in [Remove a domain from Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx).</span></span>
   
-<span data-ttu-id="f6e50-p101">您必須更新任何的使用者或群組移除網域之前已指派給該網域名稱。檢查[網域常見問題集](https://support.office.com/article/https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx)的其他一般的解決方案。</span><span class="sxs-lookup"><span data-stu-id="f6e50-p101">You'll have to update any users or groups that are assigned to that domain name before you remove the domain. Check the [Domains FAQ](https://support.office.com/article/https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx) for other common solutions.</span></span> 
+<span data-ttu-id="812da-p101">您必須更新任何的使用者或群組移除網域之前已指派給該網域名稱。檢查[網域常見問題集](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx)的其他一般的解決方案。</span><span class="sxs-lookup"><span data-stu-id="812da-p101">You'll have to update any users or groups that are assigned to that domain name before you remove the domain. Check the [Domains FAQ](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx) for other common solutions.</span></span> 
   

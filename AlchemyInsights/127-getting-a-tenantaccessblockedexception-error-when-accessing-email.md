@@ -11,21 +11,21 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 2aefc2f77462c7461c8c5547f42502db27746f54
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 05d021a95e0f138ce2557e09bb0a657c67af9c92
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460439"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758370"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="70a3b-102">存取電子郵件時取得 TenantAccessBlockedException 錯誤？</span><span class="sxs-lookup"><span data-stu-id="70a3b-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="5d0f7-102">存取電子郵件時取得 TenantAccessBlockedException 錯誤？</span><span class="sxs-lookup"><span data-stu-id="5d0f7-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="70a3b-p101">有幾個不同的原因為何您可能會收到此錯誤。例如：</span><span class="sxs-lookup"><span data-stu-id="70a3b-p101">There are a few different reasons why you might receive this error. For example:</span></span>
+<span data-ttu-id="5d0f7-p101">有幾個不同的原因為何您可能會收到此錯誤。例如：</span><span class="sxs-lookup"><span data-stu-id="5d0f7-p101">There are a few different reasons why you might receive this error. For example:</span></span>
   
-- <span data-ttu-id="70a3b-105">確認您的訂閱是有效的**計費** \> **訂閱**] 頁面上的 Office 365 系統管理中心 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions))。</span><span class="sxs-lookup"><span data-stu-id="70a3b-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the Office 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions)).</span></span>
+- <span data-ttu-id="5d0f7-105">確認您的訂閱是有效的**計費** \> **訂閱**] 頁面上的 Office 365 系統管理中心 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions)。</span><span class="sxs-lookup"><span data-stu-id="5d0f7-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the Office 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
     
-- <span data-ttu-id="70a3b-106">任何過去的到期日] 核取通知中的**計費** \> **帳單**頁面上的 Office 365 系統管理中心 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview))。</span><span class="sxs-lookup"><span data-stu-id="70a3b-106">Check for any past due notifications in the **Billing** \> **Bills** page in the Office 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview)).</span></span>
+- <span data-ttu-id="5d0f7-106">任何過去的到期日] 核取通知中的**計費** \> **帳單**頁面上的 Office 365 系統管理中心 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview)。</span><span class="sxs-lookup"><span data-stu-id="5d0f7-106">Check for any past due notifications in the **Billing** \> **Bills** page in the Office 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span></span>
     
-- <span data-ttu-id="70a3b-p102">如果帳務和訂閱帳戶最近已更新，則可能需要的變更傳播的時間。嘗試再次在幾分鐘，而如果問題仍然存在，請與我們連絡。</span><span class="sxs-lookup"><span data-stu-id="70a3b-p102">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate. Try again in a few minutes, and if the issue persists, contact us.</span></span>
+- <span data-ttu-id="5d0f7-p102">如果帳務和訂閱帳戶最近已更新，則可能需要的變更傳播的時間。嘗試再次在幾分鐘，而如果問題仍然存在，請與我們連絡。</span><span class="sxs-lookup"><span data-stu-id="5d0f7-p102">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate. Try again in a few minutes, and if the issue persists, contact us.</span></span>
     
 
