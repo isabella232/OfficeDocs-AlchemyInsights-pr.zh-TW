@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29461007"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770644"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="831fd-102">關於 Outlook 與 web 上的 Outlook 中的代理人</span><span class="sxs-lookup"><span data-stu-id="831fd-102">About delegates in Outlook and Outlook on the web</span></span>
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="6ea8f-102">疑難排解 Outlook 與 web 上的 Outlook 中的委派</span><span class="sxs-lookup"><span data-stu-id="6ea8f-102">Troubleshooting delegation in Outlook and Outlook on the web</span></span>
 
-<span data-ttu-id="831fd-103">如需詳細資訊，請參閱下列主題：</span><span class="sxs-lookup"><span data-stu-id="831fd-103">For more information, see these topics:</span></span>
-  
-- <span data-ttu-id="831fd-104">**Outlook**：[允許其他人來管理您的郵件和行事曆](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)</span><span class="sxs-lookup"><span data-stu-id="831fd-104">**Outlook**: [Allow someone else to manage your mail and calendar](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)</span></span>
-    
-- <span data-ttu-id="831fd-105">**在 web 上的 outlook**：[行事曆委派在企業網路上的 Outlook](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)</span><span class="sxs-lookup"><span data-stu-id="831fd-105">**Outlook on the web**: [Calendar delegation in Outlook on the web for business](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)</span></span>
-    
+<span data-ttu-id="6ea8f-103">**疑難排解與 SaRA 工具：**</span><span class="sxs-lookup"><span data-stu-id="6ea8f-103">**Troubleshooting with the SaRA tool:**</span></span>
 
+1. <span data-ttu-id="6ea8f-104">下載並安裝 SaRA 工具從這裡</span><span class="sxs-lookup"><span data-stu-id="6ea8f-104">Download and install SaRA tool from here</span></span>
+1. <span data-ttu-id="6ea8f-105">選取 [Outlook]，然後"我時發生問題與 「 我的行事曆"</span><span class="sxs-lookup"><span data-stu-id="6ea8f-105">Select Outlook, then "I\`m having issues with my calendar"</span></span>
+1. <span data-ttu-id="6ea8f-106">是說的受影響的機器</span><span class="sxs-lookup"><span data-stu-id="6ea8f-106">Say Yes for affected machine</span></span>
+1. <span data-ttu-id="6ea8f-107">新增受影響的使用者的電子郵件地址</span><span class="sxs-lookup"><span data-stu-id="6ea8f-107">Add the e-mail address of the affected user</span></span>
+1. <span data-ttu-id="6ea8f-108">選取 「 我時發生問題與委派權限 」</span><span class="sxs-lookup"><span data-stu-id="6ea8f-108">Select "I\`m having problems with delegate permissions"</span></span>
+1. <span data-ttu-id="6ea8f-p101">在下一個提示中，如果給予權限的人員，輸入您的代理人的電子郵件地址。如果您收到的權限，您可以代理人，輸入指定權限之人員的電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="6ea8f-p101">At the next prompt, if you are the person giving permissions, enter the e-mail address of your delegate. If you received permissions and you are the delegate, enter the e-mail address of the person that gave you permissions.</span></span>
+1. <span data-ttu-id="6ea8f-111">在 [下一步] 功能表中選取適合您案例的選項。</span><span class="sxs-lookup"><span data-stu-id="6ea8f-111">At the next menu, select the option that fits your scenario.</span></span> 
+1. <span data-ttu-id="6ea8f-112">在 [下一步] 功能表選取 [權限層級。</span><span class="sxs-lookup"><span data-stu-id="6ea8f-112">At the next menu, select the permission level.</span></span>
+1. <span data-ttu-id="6ea8f-113">在這個階段，SaRA 工具會執行自動的檢查而且提供可行的解決方法或也會提供可用於進一步的疑難排解的診斷記錄。</span><span class="sxs-lookup"><span data-stu-id="6ea8f-113">At this stage, SaRA tool will perform automated checks and it will provide you with possible resolution or alternatively will provide a diagnostic log that can be used for further troubleshooting.</span></span>
+1. <span data-ttu-id="6ea8f-114">您可以在位於 C:\Users\Username\AppData\Local\SaraResults SaRA 結果資料夾中尋找記錄檔</span><span class="sxs-lookup"><span data-stu-id="6ea8f-114">You can find the logs in the SaRA Results folder located at C:\Users\Username\AppData\Local\SaraResults</span></span>
