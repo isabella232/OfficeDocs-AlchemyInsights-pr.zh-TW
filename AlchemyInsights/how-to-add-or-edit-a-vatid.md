@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: d2320ec1d64e0c53d796814668c617a751e079c9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2b43997f391ee2a05d7cdd82bba47d4120dc2528
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29461038"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770680"
 ---
+# <a name="how-to-add-or-edit-a-vatid"></a>如何新增或編輯 VatID
+
 - 移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面或選擇 [**訂閱** \> **計費**。
     
 - 在 [**訂閱**] 頁面上選擇 [您想要編輯，然後選擇 [**其他動作**的訂閱\>**編輯 VAT 編號**。

@@ -9,13 +9,15 @@ ms.service: o365-administration
 localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba48253-6088-4c95-94d8-815753c46c4c
-ms.openlocfilehash: f1e83d9a3f4927bc711dadd0bd32d6d847140f30
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: aeeb3f4394e4377074b0dd7f330d737ca9c75a6d
+ms.sourcegitcommit: f027e6f083dc07776ceaf1c5240f5a48fac6fc66
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661395"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29768174"
 ---
+# <a name="frequent-excel-crashes"></a>經常 Excel 當機次數吗？
+
 在 Excel 中的經常當機次數可以是無效的增益集所造成。您可以遵循這些指示停用 Excel 增益集：
   
 1. 選擇 [**檔案** \> **選項**、 \> **增益集**。
