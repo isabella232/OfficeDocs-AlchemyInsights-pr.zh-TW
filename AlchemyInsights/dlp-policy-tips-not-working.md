@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: c59fb005168e02b4aa8dda26b335ac763ab61aa0
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f7dfc010c3624b2192da01d9e50e58dd6bb653df
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657750"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786725"
 ---
+# <a name="dlp-policy-tip-issues"></a>DLP 原則提示的問題
+
 當使用**DLP 原則**，請搭配**原則提示**原則違規可以會通知使用者。系統管理員可以設定原則提示來測試其 DLP 原則時或原則是完整的強制執行模式中顯示。 
   
 若要設定原則提示您在完整強制執行模式中的安全性和規範中心的 DLP 原則上執行下列動作：
