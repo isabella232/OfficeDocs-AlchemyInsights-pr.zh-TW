@@ -7,16 +7,16 @@ ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: a16c998d2f289ea2da52454819f6677c405381a1
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 249f16d057b0539d71dc514ac35df28ab78fa061
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460381"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29912339"
 ---
 # <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>傳送電子郵件的錯誤： 使用 Spamhaus 封鎖的用戶端主機
 

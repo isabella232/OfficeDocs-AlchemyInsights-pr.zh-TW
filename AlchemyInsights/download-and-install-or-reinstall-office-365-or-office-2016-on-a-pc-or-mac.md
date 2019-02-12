@@ -6,14 +6,14 @@ ms.date: 1/23/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 8d7abd5a-5004-4d16-aad9-8083df213ea3
-ms.openlocfilehash: b64629bc681100e0e97505701119c5c2fda591ab
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 46b7a5b882cb16fb506bf2e2125447394da12e03
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29461168"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29919395"
 ---
 # <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>下載並安裝或 PC 或 Mac 上重新安裝 Office 365 或 Office 2016
 

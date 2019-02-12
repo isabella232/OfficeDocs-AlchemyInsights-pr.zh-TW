@@ -7,14 +7,14 @@ ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: 4b8897c5cc8286bc4bd49860658a5a94ad17380d
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: e1d60c493a27efb7f724d57051e21fad5bd0242f
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657458"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29919071"
 ---
 您已有**資料遺失防護 (DLP)** 無法正常運作的內容時使用 DLP 敏感資訊類型 O365 中包含**信用卡號**的問題嗎？若是如此，請確定您的內容包含所需的資訊來觸發時會評估當中的 DLP 原則。例如**信用卡原則**設定的 85%的信賴等級，下列會評估和必須偵測到的工作流程觸發此規則： 
   

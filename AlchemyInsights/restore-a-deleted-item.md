@@ -7,16 +7,16 @@ ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 0f9d5f4fc868e0e73edf41d489aeaa425b9a203d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d23e8ecc0a6e378c89fb4530d7e375ca63efb1e2
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460437"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29930051"
 ---
 # <a name="restore-a-deleted-item"></a>還原刪除的項目
 
@@ -26,7 +26,7 @@ ms.locfileid: "29460437"
     
 3. 按一下左邊的 [您想要還原的項目。
     
-4. 按一下 [還原]。
+4. 按一下 [**還原**]。
     
 刪除的項目會保留 93 天。如果您沒有看到您要尋找的項目，則可能會有已此資源回收筒中已刪除並移至網站集合資源回收筒。若要檢查，請按一下**第二階段資源回收筒**連結下方的 [資源回收筒]。 
   

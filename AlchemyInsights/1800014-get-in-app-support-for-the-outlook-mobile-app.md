@@ -7,16 +7,16 @@ ms.date: 4/12/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: 45f48ad40c893c6f78d42a0c8bb1e8f4df610e0b
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: b14d26200be299ace27372a59242091d7b115c0d
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29758623"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29933975"
 ---
 # <a name="get-in-app-support-for-the-outlook-mobile-app"></a>取得在應用程式支援的 Outlook 行動裝置應用程式
 

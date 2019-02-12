@@ -7,16 +7,16 @@ ms.date: 4/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 1b49321d3bcc066136080da09be6d534ec3c3bbb
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29758695"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29912807"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>將您的網域名稱伺服器更新為 Office 365
 
