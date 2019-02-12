@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
-ms.openlocfilehash: d95601e868d7c31d99f8a151677d4a9acf7dd15e
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: f27198496cbcbef502e33f6c4c3125077bd3f23e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29646302"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29909426"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>如何將 Office 授權指派給 Mac 使用者
 

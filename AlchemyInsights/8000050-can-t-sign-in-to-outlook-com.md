@@ -7,14 +7,14 @@ ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: 02f450a2df93b7b87f2f5c06ecc40a9d19e023bd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: edd047856ad92ca6fe2f7f049754be1541df7db8
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29461156"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29925983"
 ---
 # <a name="i-cant-sign-in-or-forgot-my-password"></a>我無法登入或忘記我的密碼
 

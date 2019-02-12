@@ -8,16 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: bc04a080eaedd83ab36166bf3549a6c64911d120
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: ffe51d8f6ebce4db094ad09a703f073b18ef4925
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29645906"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29928071"
 ---
 # <a name="error-code-30174-4-when-installing-office"></a>錯誤代碼 30174 4 安裝 Office 時
 

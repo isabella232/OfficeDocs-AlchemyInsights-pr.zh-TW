@@ -6,14 +6,14 @@ ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 92c9660fda35489bfe94538800cff7060557c9a6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e7b1b58f0b5bf73d50721cf2715b366280867431
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460395"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940527"
 ---
 # <a name="enable-external-sharing"></a>啟用外部共用
 
@@ -33,7 +33,7 @@ ms.locfileid: "29460395"
     
   - "允許這兩種外部使用者接受共用邀請和匿名來賓連結"
     
-- 個人網站集合
+- **個別網站集合**
     
   - 網站集合-選取 [網站集合有問題，及從功能區-[共用-\>請確定已選取 [共用] 選項。
     

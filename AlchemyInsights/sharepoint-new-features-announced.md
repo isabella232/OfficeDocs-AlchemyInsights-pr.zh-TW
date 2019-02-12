@@ -6,14 +6,14 @@ ms.date: 9/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: ea507c49ebd978914e87663afca9f35afd9f45c6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 00fe45aba6578e576f4cda22be70f5e28d7e64d3
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460612"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941643"
 ---
 # <a name="sharepoint-new-features-announced"></a>SharePoint 宣告該名的新功能
 
@@ -21,6 +21,4 @@ ms.locfileid: "29460612"
   
 如需這些功能的詳細資訊，請參閱部落格文章[SharePoint 中的新創新&amp;Microsoft 365 傳遞能力及進行內容共同作業的簡易性。](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-您的組織可以加入目標版本計畫早期存取的新功能。請參閱[如何在 Office 365 商業客戶可以取得早期存取新的 Office 功能](https://go.microsoft.com/fwlink/?linkid=2026346)。
-  
-
+您的組織可以加入目標版本計畫早期存取的新功能。請參閱 ＜ [Set up Office 365 中的標準版或 Targeted 版本選項](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365)。

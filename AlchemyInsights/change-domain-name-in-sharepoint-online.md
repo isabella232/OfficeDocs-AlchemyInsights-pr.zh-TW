@@ -6,18 +6,18 @@ ms.date: 10/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: ff7ed718299a88b21638ab1b73a6e9b631d8659b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 419d30f087018e093c034d95f30e3058ea953d5c
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499337"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29942255"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>變更在 SharePoint Online 中的網域名稱
 
-很抱歉，您無法在 Office 365 中變更貴組織的 SharePoint Online 網域名稱。例如，如果貴組織的名稱從 "Contoso" 變更為 "Fourth Coffee"，您無法將 contoso.sharepoint.com 變更為 fourthcoffee.sharepoint.com。
+不過，無法變更您的組織在 Office 365 中的 SharePoint Online 網域名稱。例如，如果您組織的名稱會從 「 Contoso 」 變更為"Fourth Coffee 」，就無法變更 contoso.sharepoint.com 至 fourthcoffee.sharepoint.com。
   
 若要使用的網域名稱 fourthcoffee.sharepoint.com，您就需要購買新的 Office 365 訂閱及移動所有電子郵件、 檔案及其他您要給新的訂閱保留的資料。
   

@@ -653,7 +653,7 @@
 | 1/24/2019 | [疑難排解 Microsoft intune 的問題](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | 重新命名 |
 
 
-## <a name="week-of-january-28-2019"></a>2019 年 1 月 28 日當週
+## <a name="week-of-january-28-2019"></a>2019 年 1 月28 日當週
 
 
 | 發佈時間 |主題標題 | 變更 |
@@ -838,3 +838,57 @@
 | 1/30/2019 | [123 快速帳戶已停用在 OWA 中的錯誤吗？](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | 修改時間 |
 | 2/1/2019 | [相同檔名為最佳 [規則 #-說明]](/AlchemyInsights/1-alchemy-insight-template) | 修改時間 |
 | 2/1/2019 | [變更信箱權限](/AlchemyInsights/changing-permissions-on-a-mailbox) | 修改時間 |
+
+
+## <a name="week-of-february-04-2019"></a>2019 年 2 月 04、 當週
+
+
+| 發佈時間 |主題標題 | 變更 |
+|------|------------|--------|
+| 2/4/2019 | [將使用者新增至 Office 365](/AlchemyInsights/add-users-to-office-365) | 修改時間 |
+| 2/6/2019 | [離開的員工](/AlchemyInsights/employee-leaving) | 修改時間 |
+| 2/6/2019 | [Admin 這](/AlchemyInsights/admin-takeover) | 修改時間 |
+| 2/6/2019 | [127 快速存取電子郵件時的 TenantAccessBlockedException 錯誤？](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | 修改時間 |
+| 2/6/2019 | [959 變更顯示名稱](/AlchemyInsights/959-change-display-name) | 修改時間 |
+| 2/6/2019 | [新增或移除使用者的電子郵件別名](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | 修改時間 |
+| 2/6/2019 | 預付訂閱中新增基座 | 移除 |
+| 2/6/2019 | [將使用者新增至 Office 365](/AlchemyInsights/add-users-to-office-365) | 修改時間 |
+| 2/6/2019 | [將外部使用者新增至通訊群組吗？](/AlchemyInsights/adding-external-users-to-a-distribution-group) | 修改時間 |
+| 2/6/2019 | 系統管理-全域的 Office 365 設定和管理 | 移除 |
+| 2/6/2019 | 系統管理-管理 「 我的使用者、 群組及資源 | 移除 |
+| 2/6/2019 | 系統管理-設定網域和 DNS 設定 | 移除 |
+| 2/6/2019 | 系統管理-登入及密碼問題 | 移除 |
+| 2/6/2019 | [取消 Office 365 訂閱](/AlchemyInsights/cancel-office-365-subscription) | 修改時間 |
+| 2/6/2019 | [變更使用者的名稱和電子郵件地址](/AlchemyInsights/change-a-user-s-name-and-email-address) | 修改時間 |
+| 2/6/2019 | 商務-管理帳單、 付款、 訂閱和授權 | 移除 |
+| 2/6/2019 | [存取電子郵件時取得 TenantAccessBlockedException 錯誤？](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | 修改時間 |
+| 2/6/2019 | [有電子郵件傳遞問題嗎？](/AlchemyInsights/having-email-delivery-issues-0) | 修改時間 |
+| 2/6/2019 | [有電子郵件傳遞問題嗎？](/AlchemyInsights/having-email-delivery-issues) | 修改時間 |
+| 2/6/2019 | [有快速 Outlook 連線的問題嗎？](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | 修改時間 |
+| 2/6/2019 | [有快速 Outlook 連線的問題嗎？](/AlchemyInsights/having-issues-getting-outlook-to-connect) | 修改時間 |
+| 2/6/2019 | Intune-下載、 安裝及使用 Intune | 移除 |
+| 2/6/2019 | [Skype 的商務問題吗？](/AlchemyInsights/issue-with-skype-for-business) | 修改時間 |
+| 2/6/2019 | ODSP | 移除 |
+| 2/6/2019 | Office 用戶端-Excel | 移除 |
+| 2/6/2019 | [還原已刪除使用者](/AlchemyInsights/restore-deleted-user) | 修改時間 |
+| 2/6/2019 | [進行中的服務事件](/AlchemyInsights/service-incident-in-progress-0) | 修改時間 |
+| 2/6/2019 | [進行中的服務事件](/AlchemyInsights/service-incident-in-progress-1) | 修改時間 |
+| 2/6/2019 | [進行中的服務事件](/AlchemyInsights/service-incident-in-progress-2) | 修改時間 |
+| 2/6/2019 | [進行中的服務事件](/AlchemyInsights/service-incident-in-progress-3) | 修改時間 |
+| 2/6/2019 | [進行中的服務事件](/AlchemyInsights/service-incident-in-progress-4) | 修改時間 |
+| 2/6/2019 | [進行中的服務事件](/AlchemyInsights/service-incident-in-progress-5) | 修改時間 |
+| 2/6/2019 | [進行中的服務事件](/AlchemyInsights/service-incident-in-progress) | 修改時間 |
+| 2/6/2019 | [設定專案](/AlchemyInsights/setting-up-project) | 修改時間 |
+| 2/6/2019 | 安裝程式符合性功能，像是封存、 保留、 訴訟資料暫留、 eDiscovery 及 MDM | 移除 |
+| 2/6/2019 | 使用離線 Installer for Office | 移除 |
+| 2/6/2019 | Yammer-安裝及使用 Yammer 服務 | 移除 |
+| 2/7/2019 | [Excel 損毀？](/AlchemyInsights/excel-crashing) | 修改時間 |
+| 2/7/2019 | [如何新增或編輯 VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | 修改時間 |
+| 2/7/2019 | [Minecraft Edition 與 Office 365 教育版的空閒](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | 修改時間 |
+| 2/7/2019 | [委派 606 資訊](/AlchemyInsights/606-information-on-delegation) | 修改時間 |
+| 2/7/2019 | [在 [群組] 清單中未顯示您的群組](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | 修改時間 |
+| 2/8/2019 | [無法正常運作的 DLP 原則提示](/AlchemyInsights/dlp-policy-tips-not-working) | 修改時間 |
+| 2/8/2019 | [美國的 DLP 規則 / 無法正常運作的英國護照號碼](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | 修改時間 |
+| 2/8/2019 | [Office 365 教育版的空閒](/AlchemyInsights/office-365-education-for-free) | 修改時間 |
+| 2/8/2019 | [針對 Microsoft 待辦事項需要的授權](/AlchemyInsights/required-licences-for-microsoft-todo) | 修改時間 |
+| 2/8/2019 | [無法使用 Exchange 系統管理中心中的保留原則](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | 修改時間 |
