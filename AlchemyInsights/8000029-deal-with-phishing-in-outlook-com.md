@@ -7,16 +7,16 @@ ms.date: 5/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
-ms.openlocfilehash: 9fa81486e91315ace890c2d71a28ebf4fd60c6e4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4683bd62adb7bf9096dc7e5fedca8b42d6dcccf0
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460973"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29930487"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>處理收件匣中的網路釣魚詐騙
 
