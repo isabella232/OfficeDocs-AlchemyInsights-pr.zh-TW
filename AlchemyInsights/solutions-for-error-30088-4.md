@@ -8,30 +8,30 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 2c03462c-8a6a-4042-a6fd-cd9e009b8a3f
-ms.openlocfilehash: 87aa9135922aaae59659ea67d2bea8aa6eff1123
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: c0aa4df7896dfec6492a6e03fe170fb238c6016e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29645546"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29898947"
 ---
-# <a name="solutions-for-error-30088-4"></a><span data-ttu-id="e5720-102">解決方案的錯誤 30088 4</span><span class="sxs-lookup"><span data-stu-id="e5720-102">Solutions for error 30088-4</span></span>
+# <a name="solutions-for-error-30088-4"></a><span data-ttu-id="a44c3-102">解決方案的錯誤 30088 4</span><span class="sxs-lookup"><span data-stu-id="a44c3-102">Solutions for error 30088-4</span></span>
 
 
-<span data-ttu-id="e5720-103">嘗試修正錯誤[30088 4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)這些解決方案：</span><span class="sxs-lookup"><span data-stu-id="e5720-103">Try these solutions to fix error [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span></span>
+<span data-ttu-id="a44c3-103">嘗試修正錯誤[30088 4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)這些解決方案：</span><span class="sxs-lookup"><span data-stu-id="a44c3-103">Try these solutions to fix error [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span></span>
   
-- <span data-ttu-id="e5720-104">重新啟動電腦，並嘗試[安裝 Office](https://portal.office.com/OLS/MySoftware.aspx)。</span><span class="sxs-lookup"><span data-stu-id="e5720-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+- <span data-ttu-id="a44c3-104">重新啟動電腦，並嘗試[安裝 Office](https://portal.office.com/OLS/MySoftware.aspx)。</span><span class="sxs-lookup"><span data-stu-id="a44c3-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
     
-- <span data-ttu-id="e5720-105">下載及安裝的[支援和復原小幫手](https://aka.ms/SARA-OfficeUninstall-Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="e5720-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="a44c3-105">下載及安裝的[支援和復原小幫手](https://aka.ms/SARA-OfficeUninstall-Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="a44c3-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
     
-1. <span data-ttu-id="e5720-106">開啟時，從 [**解除安裝 Office 產品**選取您想要解除安裝並選取**下一個**的版本。</span><span class="sxs-lookup"><span data-stu-id="e5720-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
+1. <span data-ttu-id="a44c3-106">開啟時，從 [**解除安裝 Office 產品**選取您想要解除安裝並選取**下一個**的版本。</span><span class="sxs-lookup"><span data-stu-id="a44c3-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
     
-2. <span data-ttu-id="e5720-107">繼續經由畫面並重新啟動電腦時提示。</span><span class="sxs-lookup"><span data-stu-id="e5720-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="a44c3-107">繼續經由畫面並重新啟動電腦時提示。</span><span class="sxs-lookup"><span data-stu-id="a44c3-107">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="e5720-108">之後重新啟動，支援與復原小幫手會自動重新開啟以完成解除安裝程序。</span><span class="sxs-lookup"><span data-stu-id="e5720-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="a44c3-108">之後重新啟動，支援與復原小幫手會自動重新開啟以完成解除安裝程序。</span><span class="sxs-lookup"><span data-stu-id="a44c3-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-3. <span data-ttu-id="e5720-109">遵循其餘的提示，並[重新安裝 Office](https://portal.office.com/OLS/MySoftware.aspx)或關閉小幫手。</span><span class="sxs-lookup"><span data-stu-id="e5720-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
+3. <span data-ttu-id="a44c3-109">遵循其餘的提示，並[重新安裝 Office](https://portal.office.com/OLS/MySoftware.aspx)或關閉小幫手。</span><span class="sxs-lookup"><span data-stu-id="a44c3-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
     
 
