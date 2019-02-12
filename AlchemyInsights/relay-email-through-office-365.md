@@ -7,16 +7,16 @@ ms.date: 9/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 1d3868457d87a0abf36223c33c96b01a57f5b8d7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 413cdbdc5fd9a3ad8c331f9cbefe07bea36d7d21
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454277"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29901287"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>設定多功能裝置或應用程式來傳送電子郵件使用 Office 365
 

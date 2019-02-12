@@ -7,14 +7,14 @@ ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: e66cbd0dc4b3d59b137892391b6b7eebc078de49
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2204e0d0b4f3ac73fe1198e0b14ad51a6b3b1adc
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460360"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29901611"
 ---
 # <a name="creating-public-folders"></a>建立公用資料夾
 
@@ -24,9 +24,9 @@ ms.locfileid: "29460360"
     
 2. 瀏覽至 [**公用資料夾** \> **公用資料夾信箱**，然後按一下 [**新增]**。
     
-3. 在 [公用資料夾信箱] 中，提供公用資料夾信箱的名稱。
+3. 在 [**公用資料夾信箱**] 中，提供公用資料夾信箱的名稱。
     
-4. 按一下 **[儲存]**。
+4. 按一下 [儲存]****。
     
 一旦建立信箱，您就可以開始建立個別資料夾或告訴您開始[建立和使用 Outlook 中的公用資料夾](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)的使用者。
   
