@@ -7,17 +7,17 @@ ms.date: 7/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 2334f60b-c26a-47e3-b084-351648959343
-ms.openlocfilehash: eb9ca1ca9340f80a36b87ea99f2f988f8707bd28
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 83c3c29d9e7269919f312cb5a95dfccbde3e47dd
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29500237"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941391"
 ---
-# <a name="disabling-advanced-outlookcom-security"></a><span data-ttu-id="7be0c-102">停用進階的 Outlook.com 安全性</span><span class="sxs-lookup"><span data-stu-id="7be0c-102">Disabling advanced Outlook.com security</span></span>
+# <a name="disabling-advanced-outlookcom-security"></a><span data-ttu-id="4f8b8-102">停用進階的 Outlook.com 安全性</span><span class="sxs-lookup"><span data-stu-id="4f8b8-102">Disabling advanced Outlook.com security</span></span>
 
-<span data-ttu-id="7be0c-p101">若要提供最佳保護您的帳戶，Outlook.com 是否在郵件中的任何連結網路釣魚詐騙或檢查可能下載病毒或惡意程式碼到您的電腦。如果您確定要移除這個進階的 Outlook.com 安全性，請按一下 **[是]** 下。</span><span class="sxs-lookup"><span data-stu-id="7be0c-p101">To provide the best protection for your account, Outlook.com checks whether any links in your messages are phishing scams or are likely to download viruses or malware onto your computer. If you're sure you want this advanced Outlook.com security removed, please click **Yes** below.</span></span> 
+<span data-ttu-id="4f8b8-p101">若要提供最佳保護您的帳戶，Outlook.com 是否在郵件中的任何連結網路釣魚詐騙或檢查可能下載病毒或惡意程式碼到您的電腦。如果您確定要移除這個進階的 Outlook.com 安全性，請按一下 **[是]** 下。</span><span class="sxs-lookup"><span data-stu-id="4f8b8-p101">To provide the best protection for your account, Outlook.com checks whether any links in your messages are phishing scams or are likely to download viruses or malware onto your computer. If you're sure you want this advanced Outlook.com security removed, please click **Yes** below.</span></span> 
   
 
