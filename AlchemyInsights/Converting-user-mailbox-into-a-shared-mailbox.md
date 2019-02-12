@@ -6,15 +6,15 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
-ms.openlocfilehash: 22ad1b3fb818b40bcd77974031735f931e986968
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4da54121763fd33aa111f3bb3c26963cd271dc51
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460390"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906723"
 ---
 您只可以將使用者信箱轉換共用信箱如果使用者具有 Exchange 的授權。信箱轉換後，它會繼續在顯示作用中使用者清單因為該清單包含共用的信箱。不過，已轉換的信箱將也顯示共用的信箱清單中。 
   
