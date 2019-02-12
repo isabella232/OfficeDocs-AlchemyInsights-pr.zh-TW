@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f6ee16a20f2280ba4d8d28ab3fdb4672cd9963b5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29660007"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927567"
 ---
 # <a name="delete-a-sharepoint-site"></a>刪除 SharePoint 網站
  **從新的 SharePoint 系統管理中心刪除網站**

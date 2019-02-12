@@ -7,16 +7,16 @@ ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 0d4bb7ea2e350dc91bb32f3c03d2f0b10b55477f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 91bbdb6b3dbdc73e61405dc27cbced188198ada9
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460146"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29938187"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>開啟外部的 SharePoint 共用開啟或關閉
 

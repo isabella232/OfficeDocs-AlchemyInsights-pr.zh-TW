@@ -7,16 +7,16 @@ ms.date: 2/26/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 01900178c853e516bb1480af434db0735f2cb11b
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 1118757c5c8f738dd63883116e82d60b883cd11d
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759379"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927618"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>取消 Office 365 訂閱吗？
 

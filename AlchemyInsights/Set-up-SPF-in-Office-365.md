@@ -6,15 +6,15 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: fc45050a39de24422426ea1d9ff0bad47eb86264
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 542d1c91b87e6d7b918d091f463cf56697213778
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460472"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29920151"
 ---
 若要設定所有永遠不過期的密碼，請前往[安全性&amp;隱私權](https://portal.office.com/adminportal/home#/settings/security)。按一下 [**密碼原則**] 旁的 [**編輯**和開啟滑桿以**上**。
   
