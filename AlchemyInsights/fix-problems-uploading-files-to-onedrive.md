@@ -6,14 +6,14 @@ ms.date: 5/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: 232e1f61326e22d20480057a937fd0ee5ff85dd6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1ee352e55290a1b05a2f1b03d42fccd895be4993
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460591"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29917883"
 ---
 # <a name="fix-problems-uploading-files-to-onedrive"></a>修正問題將檔案上載至 OneDrive
 
