@@ -7,27 +7,27 @@ ms.date: 6/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3a236072479b58b729f7a3cd752cae32e6b9728b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e5fee8eab905f1345439f993fc29499b6dee10e0
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460601"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927243"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a><span data-ttu-id="d8852-102">Outlook mobile 著重收件匣</span><span class="sxs-lookup"><span data-stu-id="d8852-102">Focused Inbox for Outlook mobile</span></span>
+# <a name="focused-inbox-for-outlook-mobile"></a><span data-ttu-id="354fa-102">Outlook mobile 著重收件匣</span><span class="sxs-lookup"><span data-stu-id="354fa-102">Focused Inbox for Outlook mobile</span></span>
 
-[<span data-ttu-id="d8852-103">什麼是著重收件匣？</span><span class="sxs-lookup"><span data-stu-id="d8852-103">What is Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[<span data-ttu-id="354fa-103">什麼是著重收件匣？</span><span class="sxs-lookup"><span data-stu-id="354fa-103">What is Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[<span data-ttu-id="d8852-104">如何編輯移動 「 我的電子郵件回及取出著重收件匣規則？</span><span class="sxs-lookup"><span data-stu-id="d8852-104">How do I edit the rules that move my email in and out of Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[<span data-ttu-id="354fa-104">如何編輯移動 「 我的電子郵件回及取出著重收件匣規則？</span><span class="sxs-lookup"><span data-stu-id="354fa-104">How do I edit the rules that move my email in and out of Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[<span data-ttu-id="d8852-105">如何關閉著重收件匣或變更是否要同步處理至著重收件匣我名牌 count 和通知？</span><span class="sxs-lookup"><span data-stu-id="d8852-105">How do I turn off Focused Inbox or change whether my badge count and notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[<span data-ttu-id="354fa-105">如何關閉著重收件匣或變更是否要同步處理至著重收件匣我名牌 count 和通知？</span><span class="sxs-lookup"><span data-stu-id="354fa-105">How do I turn off Focused Inbox or change whether my badge count and notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[<span data-ttu-id="d8852-106">如何關閉著重收件匣或變更是否要通知同步處理至著重收件匣？</span><span class="sxs-lookup"><span data-stu-id="d8852-106">How do I turn off Focused Inbox or change whether notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[<span data-ttu-id="354fa-106">如何關閉著重收件匣或變更是否要通知同步處理至著重收件匣？</span><span class="sxs-lookup"><span data-stu-id="354fa-106">How do I turn off Focused Inbox or change whether notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[<span data-ttu-id="d8852-107">如何將著重和其他之間切換？</span><span class="sxs-lookup"><span data-stu-id="d8852-107">How do I toggle between Focused and Other?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[<span data-ttu-id="354fa-107">如何將著重和其他之間切換？</span><span class="sxs-lookup"><span data-stu-id="354fa-107">How do I toggle between Focused and Other?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-<span data-ttu-id="d8852-108">深入了解：[取得 iOS 及 Android outlook 的應用程式說明](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="d8852-108">Learn more: [Get in-app help for Outlook for iOS and Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span></span>
+<span data-ttu-id="354fa-108">深入了解：[取得 iOS 及 Android outlook 的應用程式說明](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="354fa-108">Learn more: [Get in-app help for Outlook for iOS and Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span></span>
   
 
