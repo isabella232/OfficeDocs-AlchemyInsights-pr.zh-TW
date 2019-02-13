@@ -6,14 +6,14 @@ ms.date: 6/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: 404891638a59c0adbb7f23f1e0d334fe9a9d9ccb
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 5c7b57695700e2eede51d3ee971da2dc20768a62
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29660626"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29933774"
 ---
 # <a name="changing-message-or-attachment-size"></a>變更郵件或附件的大小
 
