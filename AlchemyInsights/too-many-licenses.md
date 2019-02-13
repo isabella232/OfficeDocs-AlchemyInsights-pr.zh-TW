@@ -7,16 +7,16 @@ ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: ed7aac3279f4c4581bb1f7ea0fe35dba563cdaf1
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2759d0cf6397420275da446e960a44fa259d9b30
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460553"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906831"
 ---
 # <a name="too-many-licenses"></a>太多授權？
 
@@ -28,10 +28,10 @@ ms.locfileid: "29460553"
     
 2. 在左、 選擇 [從中您想要移除授權的訂閱。
     
-3. 選擇 [新增/移除授權]。
+3. 選擇 [**新增/移除授權**。
     
 4. 輸入所需的使用者總數。例如，如果您目前有 25 個授權與您想要移除 5，此欄位中輸入 20。
     
-5. 選擇 [Submit] (提交)。
+5. 選擇 [**提交**]。
     
 

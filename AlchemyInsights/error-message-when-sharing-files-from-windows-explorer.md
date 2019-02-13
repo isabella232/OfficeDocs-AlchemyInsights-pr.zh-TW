@@ -6,14 +6,14 @@ ms.date: 9/19/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 64a1ece4c9904dc0054e1c4340f3f7ae9111fb95
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 06e3df2b5099dbc1f90c1dd06b372dcedfe4fc42
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460244"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927459"
 ---
 # <a name="error-message-when-sharing-files-from-windows-explorer"></a>共用 Windows 檔案總管的檔案時出現錯誤訊息
 

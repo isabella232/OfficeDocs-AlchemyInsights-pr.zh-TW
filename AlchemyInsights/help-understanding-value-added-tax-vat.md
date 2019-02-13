@@ -7,16 +7,16 @@ ms.date: 5/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 3e94932172a2fc2609c8d4074e6331231fbe84fb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 122ffe07011a549d213c0c7acc5177ab6e3e952c
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460173"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29907623"
 ---
 # <a name="help-understanding-value-added-tax-vat"></a>協助了解值新增稅 （增值稅）
 
