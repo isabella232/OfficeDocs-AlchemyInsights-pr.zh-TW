@@ -6,14 +6,14 @@ ms.date: 6/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: fc892410b3cca49c6c6a7106b1b2a39c2cf67b77
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: b0a0d48a6aad1fff3f98ff55ba74217e460552d1
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657751"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29922275"
 ---
 # <a name="find-your-pop-or-imap-server-settings"></a>找到 POP 或 IMAP 伺服器設定
 

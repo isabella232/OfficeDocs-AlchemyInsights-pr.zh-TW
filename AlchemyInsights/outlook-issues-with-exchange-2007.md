@@ -7,14 +7,14 @@ ms.date: 4/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: 6c6ada4126c9623b99fca701905744f1d8ef51ad
-ms.sourcegitcommit: 89964a2e3834c9eefc07f8a3822494d7bbe7b39e
+ms.openlocfilehash: 1ebcbc27f1a508f56c82c7706be9209c22baa1c6
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29505895"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29923218"
 ---
 # <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>Error"您將無法接收郵件的目前信箱"的解決方案
 如果您嘗試使用 Outlook 365/2016年具有 Exchange 2007 伺服器，您會收到下列錯誤：

@@ -7,16 +7,16 @@ ms.date: 5/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: a3c980565059e47a297a812cd6e2e656b36becb6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 94203849c1cca9dc1d2d6207f2390a57ad3e9680
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460157"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29923175"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>從 SharePoint 或 OneDrive 如何還原已刪除的項目
 
@@ -26,7 +26,7 @@ ms.locfileid: "29460157"
     
 3. 按一下左邊的項目或您想要還原的檔案。
     
-4. 按一下 [還原]。 
+4. 按一下 [**還原**]。 
     
 當檔案、 資料夾、 文件庫、 清單及清單項目將會從 SharePoint 網站中刪除時，他們會前往資源回收筒，他們正在遵從 93 天除非某人刪除此資源回收筒]。如果他們正在刪除 （稱為 「 網站資源回收筒） 此資源回收筒中，移至網站集合資源回收筒的剩餘時間，且再永久刪除。已刪除的網站和網站集合直接移至網站集合資源回收筒 93 天。
   

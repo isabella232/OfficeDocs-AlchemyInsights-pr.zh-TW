@@ -7,14 +7,14 @@ ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: c8037f4ab43b37f7340b3d7fa315ba1296adf5d2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: bed46c2ba85fbe6abb2281cb1fefe935d3157ec9
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460386"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29922383"
 ---
 # <a name="focused-inbox-in-outlook"></a>在 Outlook 中具有焦點的收件匣
 
