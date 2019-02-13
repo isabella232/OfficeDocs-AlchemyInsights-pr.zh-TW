@@ -6,14 +6,14 @@ ms.date: 12/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: a83a9621ca0f7764d3f2c0a698dbffd80d55e80c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3741b1169ddf731725c18fbaed80bfb321e5db46
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29461043"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29925407"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>無法將新增 2010年核准工作流程
 
