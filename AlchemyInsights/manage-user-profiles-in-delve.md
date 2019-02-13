@@ -6,14 +6,14 @@ ms.date: 9/12/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 45f0ad0636ffb4eca6d6aaa01f8ebc2ec82b0cdb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 67021c2ca82a6876957f3741e832a32f412fa1cc
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29460128"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29900298"
 ---
 # <a name="manage-user-profiles-in-delve"></a>管理使用者設定檔中 Delve
 
