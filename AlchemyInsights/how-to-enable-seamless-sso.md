@@ -7,31 +7,31 @@ ms.date: 6/8/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: abadf8e1fdba18a4c31f349498bc2abb75d66a43
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: a8cdcfbb753243669ce07b758731056aa55c739b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661130"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29911727"
 ---
-# <a name="how-to-enable-seamless-sso"></a><span data-ttu-id="495c6-102">如何啟用順暢 SSO</span><span class="sxs-lookup"><span data-stu-id="495c6-102">How to enable Seamless SSO</span></span>
+# <a name="how-to-enable-seamless-sso"></a><span data-ttu-id="e658d-102">如何啟用順暢 SSO</span><span class="sxs-lookup"><span data-stu-id="e658d-102">How to enable Seamless SSO</span></span>
 
-<span data-ttu-id="495c6-103">啟用透過[Azure AD 連線](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)順暢 SSO。</span><span class="sxs-lookup"><span data-stu-id="495c6-103">Enable Seamless SSO through [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).</span></span>
+<span data-ttu-id="e658d-103">啟用透過[Azure AD 連線](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)順暢 SSO。</span><span class="sxs-lookup"><span data-stu-id="e658d-103">Enable Seamless SSO through [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).</span></span>
   
-<span data-ttu-id="495c6-p101">如果您正在執行 Azure AD 連接的全新安裝，選擇 [[自訂安裝路徑](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom)]。在 [**使用者登入**] 頁面上，選擇 [**啟用單一登入**] 選項。</span><span class="sxs-lookup"><span data-stu-id="495c6-p101">If you're doing a fresh installation of Azure AD Connect, choose the [custom installation path](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). At the **User sign-in** page, choose the **Enable single sign-on** option.</span></span> 
+<span data-ttu-id="e658d-p101">如果您正在執行 Azure AD 連接的全新安裝，選擇 [[自訂安裝路徑](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom)]。在 [**使用者登入**] 頁面上，選擇 [**啟用單一登入**] 選項。</span><span class="sxs-lookup"><span data-stu-id="e658d-p101">If you're doing a fresh installation of Azure AD Connect, choose the [custom installation path](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). At the **User sign-in** page, choose the **Enable single sign-on** option.</span></span> 
   
-<span data-ttu-id="495c6-106">若要確認您已啟用順暢 SSO 正確：</span><span class="sxs-lookup"><span data-stu-id="495c6-106">To verify that you have enabled Seamless SSO correctly:</span></span>
+<span data-ttu-id="e658d-106">若要確認您已啟用順暢 SSO 正確：</span><span class="sxs-lookup"><span data-stu-id="e658d-106">To verify that you have enabled Seamless SSO correctly:</span></span>
   
-1. <span data-ttu-id="495c6-107">全域管理員身分登入[Azure Active Directory 系統管理中心](https://aad.portal.azure.com)</span><span class="sxs-lookup"><span data-stu-id="495c6-107">Sign in to the [Azure Active Directory administrative center](https://aad.portal.azure.com) as a global admin.</span></span> 
+1. <span data-ttu-id="e658d-107">全域管理員身分登入[Azure Active Directory 系統管理中心](https://aad.portal.azure.com)</span><span class="sxs-lookup"><span data-stu-id="e658d-107">Sign in to the [Azure Active Directory administrative center](https://aad.portal.azure.com) as a global admin.</span></span> 
     
-2. <span data-ttu-id="495c6-108">在左窗格中選取**Azure Active Directory** 。</span><span class="sxs-lookup"><span data-stu-id="495c6-108">Select **Azure Active Directory** in the left pane.</span></span> 
+2. <span data-ttu-id="e658d-108">在左窗格中選取**Azure Active Directory** 。</span><span class="sxs-lookup"><span data-stu-id="e658d-108">Select **Azure Active Directory** in the left pane.</span></span> 
     
-3. <span data-ttu-id="495c6-109">確認順暢單一登入**已啟用**。</span><span class="sxs-lookup"><span data-stu-id="495c6-109">Verify that Seamless single sign-on is **Enabled**.</span></span>
+3. <span data-ttu-id="e658d-109">確認順暢單一登入**已啟用**。</span><span class="sxs-lookup"><span data-stu-id="e658d-109">Verify that Seamless single sign-on is **Enabled**.</span></span>
     
-<span data-ttu-id="495c6-110">若要深入了解，請參閱[Azure Active Directory 順暢單一登入： 快速入門](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)。</span><span class="sxs-lookup"><span data-stu-id="495c6-110">To learn more, see [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).</span></span>
+<span data-ttu-id="e658d-110">若要深入了解，請參閱[Azure Active Directory 順暢單一登入： 快速入門](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)。</span><span class="sxs-lookup"><span data-stu-id="e658d-110">To learn more, see [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).</span></span>
   
 
