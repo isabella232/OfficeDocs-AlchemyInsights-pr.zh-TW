@@ -1,7 +1,7 @@
 ---
 title: 1800001 建立或編輯設定檔
 ms.author: pdigia
-author: pdigia
+author: pebaum
 manager: jackiesm
 ms.date: 9/17/2018
 ms.audience: Admin
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: 08d94ddb6a61a4b23242548605188a29b89eb1f5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 893b059a5e07a0d8d8a5e55501cd79cb482df4eb
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29909207"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29968480"
 ---
 若要建立新的 Outlook 設定檔、 編輯設定檔，或重新命名設定檔，請使用下列步驟。
   

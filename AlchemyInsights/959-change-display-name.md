@@ -1,7 +1,7 @@
 ---
 title: 959 變更顯示名稱
 ms.author: pdigia
-author: pdigia
+author: pebaum
 ms.date: 7/17/2018
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
 description: ''
-ms.openlocfilehash: c45c9498e5f1cb888696646e1a96c62184c655b5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 460f5b00c4f8fe940c5bd3256f544b6b82cac61f
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925119"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29969272"
 ---
 # <a name="change-your-display-name"></a>變更顯示名稱
   

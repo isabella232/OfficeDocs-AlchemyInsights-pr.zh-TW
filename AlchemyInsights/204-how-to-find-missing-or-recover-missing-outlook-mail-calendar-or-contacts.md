@@ -1,7 +1,7 @@
 ---
 title: 204 如何尋找遺失或復原遺失 Outlook 郵件、 行事曆或連絡人
 ms.author: pdigia
-author: pdigia
+author: pebaum
 manager: jackiesm
 ms.date: 9/17/2018
 ms.audience: Admin
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 545c3d17b1cc2f415685e59d49a1fd743746bf08
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4caddd2ad354738de6340e127f594cb0ff44be62
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915651"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29969560"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>如何尋找及復原遺失的郵件、 連絡人或在 Outlook 中的行事曆項目
 
