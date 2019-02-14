@@ -1,7 +1,7 @@
 ---
 title: 委派 606 資訊
 ms.author: pdigia
-author: pdigia
+author: pebaum
 manager: jackiesm
 ms.date: 4/9/2018
 ms.audience: Admin
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 8c11adeacd422fdc82dd21cec44d6e8fdfe00307
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 971838c2b6fcb2849d79aa8e84ab3bf2e1d6e383
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906615"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29969524"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="b22a5-102">疑難排解 Outlook 與 web 上的 Outlook 中的委派</span><span class="sxs-lookup"><span data-stu-id="b22a5-102">Troubleshooting delegation in Outlook and Outlook on the web</span></span>
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="f288f-102">疑難排解 Outlook 與 web 上的 Outlook 中的委派</span><span class="sxs-lookup"><span data-stu-id="f288f-102">Troubleshooting delegation in Outlook and Outlook on the web</span></span>
 
-<span data-ttu-id="b22a5-103">**疑難排解與 SaRA 工具：**</span><span class="sxs-lookup"><span data-stu-id="b22a5-103">**Troubleshooting with the SaRA tool:**</span></span>
+<span data-ttu-id="f288f-103">**疑難排解與 SaRA 工具：**</span><span class="sxs-lookup"><span data-stu-id="f288f-103">**Troubleshooting with the SaRA tool:**</span></span>
 
-1. <span data-ttu-id="b22a5-104">下載並安裝 SaRA 工具從這裡</span><span class="sxs-lookup"><span data-stu-id="b22a5-104">Download and install SaRA tool from here</span></span>
-1. <span data-ttu-id="b22a5-105">選取 [Outlook]，然後"我時發生問題與 「 我的行事曆"</span><span class="sxs-lookup"><span data-stu-id="b22a5-105">Select Outlook, then "I\`m having issues with my calendar"</span></span>
-1. <span data-ttu-id="b22a5-106">是說的受影響的機器</span><span class="sxs-lookup"><span data-stu-id="b22a5-106">Say Yes for affected machine</span></span>
-1. <span data-ttu-id="b22a5-107">新增受影響的使用者的電子郵件地址</span><span class="sxs-lookup"><span data-stu-id="b22a5-107">Add the e-mail address of the affected user</span></span>
-1. <span data-ttu-id="b22a5-108">選取 「 我時發生問題與委派權限 」</span><span class="sxs-lookup"><span data-stu-id="b22a5-108">Select "I\`m having problems with delegate permissions"</span></span>
-1. <span data-ttu-id="b22a5-p101">在下一個提示中，如果給予權限的人員，輸入您的代理人的電子郵件地址。如果您收到的權限，您可以代理人，輸入指定權限之人員的電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="b22a5-p101">At the next prompt, if you are the person giving permissions, enter the e-mail address of your delegate. If you received permissions and you are the delegate, enter the e-mail address of the person that gave you permissions.</span></span>
-1. <span data-ttu-id="b22a5-111">在 [下一步] 功能表中選取適合您案例的選項。</span><span class="sxs-lookup"><span data-stu-id="b22a5-111">At the next menu, select the option that fits your scenario.</span></span> 
-1. <span data-ttu-id="b22a5-112">在 [下一步] 功能表選取 [權限層級。</span><span class="sxs-lookup"><span data-stu-id="b22a5-112">At the next menu, select the permission level.</span></span>
-1. <span data-ttu-id="b22a5-113">在這個階段，SaRA 工具會執行自動的檢查而且提供可行的解決方法或也會提供可用於進一步的疑難排解的診斷記錄。</span><span class="sxs-lookup"><span data-stu-id="b22a5-113">At this stage, SaRA tool will perform automated checks and it will provide you with possible resolution or alternatively will provide a diagnostic log that can be used for further troubleshooting.</span></span>
-1. <span data-ttu-id="b22a5-114">您可以在位於 C:\Users\Username\AppData\Local\SaraResults SaRA 結果資料夾中尋找記錄檔</span><span class="sxs-lookup"><span data-stu-id="b22a5-114">You can find the logs in the SaRA Results folder located at C:\Users\Username\AppData\Local\SaraResults</span></span>
+1. <span data-ttu-id="f288f-104">下載並安裝 SaRA 工具從這裡</span><span class="sxs-lookup"><span data-stu-id="f288f-104">Download and install SaRA tool from here</span></span>
+1. <span data-ttu-id="f288f-105">選取 [Outlook]，然後"我時發生問題與 「 我的行事曆"</span><span class="sxs-lookup"><span data-stu-id="f288f-105">Select Outlook, then "I\`m having issues with my calendar"</span></span>
+1. <span data-ttu-id="f288f-106">是說的受影響的機器</span><span class="sxs-lookup"><span data-stu-id="f288f-106">Say Yes for affected machine</span></span>
+1. <span data-ttu-id="f288f-107">新增受影響的使用者的電子郵件地址</span><span class="sxs-lookup"><span data-stu-id="f288f-107">Add the e-mail address of the affected user</span></span>
+1. <span data-ttu-id="f288f-108">選取 「 我時發生問題與委派權限 」</span><span class="sxs-lookup"><span data-stu-id="f288f-108">Select "I\`m having problems with delegate permissions"</span></span>
+1. <span data-ttu-id="f288f-p101">在下一個提示中，如果給予權限的人員，輸入您的代理人的電子郵件地址。如果您收到的權限，您可以代理人，輸入指定權限之人員的電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="f288f-p101">At the next prompt, if you are the person giving permissions, enter the e-mail address of your delegate. If you received permissions and you are the delegate, enter the e-mail address of the person that gave you permissions.</span></span>
+1. <span data-ttu-id="f288f-111">在 [下一步] 功能表中選取適合您案例的選項。</span><span class="sxs-lookup"><span data-stu-id="f288f-111">At the next menu, select the option that fits your scenario.</span></span> 
+1. <span data-ttu-id="f288f-112">在 [下一步] 功能表選取 [權限層級。</span><span class="sxs-lookup"><span data-stu-id="f288f-112">At the next menu, select the permission level.</span></span>
+1. <span data-ttu-id="f288f-113">在這個階段，SaRA 工具會執行自動的檢查而且提供可行的解決方法或也會提供可用於進一步的疑難排解的診斷記錄。</span><span class="sxs-lookup"><span data-stu-id="f288f-113">At this stage, SaRA tool will perform automated checks and it will provide you with possible resolution or alternatively will provide a diagnostic log that can be used for further troubleshooting.</span></span>
+1. <span data-ttu-id="f288f-114">您可以在位於 C:\Users\Username\AppData\Local\SaraResults SaRA 結果資料夾中尋找記錄檔</span><span class="sxs-lookup"><span data-stu-id="f288f-114">You can find the logs in the SaRA Results folder located at C:\Users\Username\AppData\Local\SaraResults</span></span>
