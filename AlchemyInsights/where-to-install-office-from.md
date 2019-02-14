@@ -9,12 +9,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: 345ad2020e0a2559be2c2a1e7c0e433a8221a73b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4b3bfb9cf38dddf9b6f6482950c752e7c54497f7
+ms.sourcegitcommit: a74a9fb82e5f238024e9fcaf36b0d552ab5db5fb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900867"
+ms.locfileid: "29953364"
 ---
 # <a name="install-office"></a>我有其他問題
 
@@ -30,4 +30,5 @@ Office 可以再安裝遵循下列步驟：
     
 如需詳細資訊，請參閱[下載及安裝或重新安裝 PC 或 Mac 上的 Office](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
   
+在 Visio 或專案的特定指示，請參閱[安裝 Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710)或[專案](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)
 
