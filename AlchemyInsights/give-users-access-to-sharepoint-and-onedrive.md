@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 8984d8dfdd8f1ff540b418dfbfe382cffac978e5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d29764266f44aee5f8f8e2c93ad67b2a33c6f417
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933831"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209728"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>讓使用者能夠存取 SharePoint 和 OneDrive
 
 > [!NOTE]
 > 如果未提供給多個使用者原本存取 OneDrive 或 SharePoint 網站，有可能暫時服務問題。[檢查服務健康狀況儀表板](https://portal.office.com/adminportal/home#/servicehealth)
   
-如果您想人員能夠登入和使用 SharePoint 和 OneDrive 您組織中，您要新增的帳戶，並確定具有 SharePoint 及 OneDrive 提供存取授權。新增使用者的最簡單方式為在 Office 365 系統管理中心。
+如果您想人員能夠登入和使用 SharePoint 和 OneDrive 您組織中，您要新增的帳戶，並確定具有 SharePoint 及 OneDrive 提供存取授權。新增使用者的最簡單方式是在 Microsoft 365 系統管理中心。
   
-1. 移至 [[作用中使用者] 頁面上的 Office 365 系統管理中心](https://portal.office.com/adminportal/home#/users)] 和 [**新增使用者**。
+1. 移至 [[作用中使用者] 頁面上的 Microsoft 365 系統管理中心](https://portal.office.com/adminportal/home#/users)] 和 [**新增使用者**。
     
 2. 填入使用者的資訊並確認 [**產品授權**已指派授權與**SharePoint Online**的已選取。 
     

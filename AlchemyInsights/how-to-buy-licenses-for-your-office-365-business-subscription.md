@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
-ms.openlocfilehash: 4abb2f5b1644b651c8a137feb01aace69257d2bb
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1d9c0009e743e2cb514124ba5b9c3292580d9a88
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920007"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207964"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>如何購買 Office 365 商務訂閱授權
 
 當將 Office 365 授權指派給您的使用者，您可能會發現有需要購買額外的授權。若要執行這項作業：
   
-- 在 Office 365 系統管理中心，移至 [[訂閱]( https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面或選擇 [**計費** \> **訂閱**。
+- 在 Microsoft 365 系統管理中心，移至 [[訂閱]( https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面或選擇 [**計費** \> **訂閱**。
     
 - 在 [**訂閱**] 頁面上選擇您要新增至授權，然後選擇 [**新增/移除授權**的訂閱。
     

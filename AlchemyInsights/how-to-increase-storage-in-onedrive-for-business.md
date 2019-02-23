@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906399"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207748"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>如何增加 onedrive for Business 的存放區
 
@@ -27,7 +27,7 @@ ms.locfileid: "29906399"
   
 若要增加您儲存 onedrive for Business，請選擇 [包含**OneDrive for Business 計劃 2**或**Office 365 企業版 E3**的 Office 365 計劃。 
   
-若要變更計劃，在 Office 365 系統管理中心，移至 [**計費** \> **訂閱**，然後選擇 [**切換計劃。**
+若要變更計劃，在 Microsoft 365 系統管理中心，移至 [**計費** \> **訂閱**，然後選擇 [**切換計劃。**
   
 如需有關切換計劃和 OneDrive for Business 存放區的詳細資訊，請參閱[切換至不同的 Office 365 的商務計劃](https://go.microsoft.com/fwlink/?LinkId=2031117)和[OneDrive for Business 服務說明](https://go.microsoft.com/fwlink/?LinkId-2031122)。
   

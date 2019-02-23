@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ad290ba4-169e-4866-9c78-2763319e9ed0
-ms.openlocfilehash: 4db09cced893480f842585268bf850dc49f0d20a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1b915ff5514711e2ff27b07e35748d53689a486f
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935931"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209332"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>開啟外部的 SharePoint 共用開啟或關閉
 
-1. 在 Office 365 系統管理中心，移至[服務&amp;增益集] 頁面上](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)，並按一下 [**網站**]。
+1. 在 Microsoft 365 系統管理中心，移至[服務&amp;增益集] 頁面上](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)，並按一下 [**網站**]。
     
 2. 開啟或關閉、 開啟設定或如果它開啟選取共用選項。
     

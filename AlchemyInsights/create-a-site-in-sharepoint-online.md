@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: e1c4cd224e75fadfc1b5d3afb643f5ed854258d0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 41af5e51743623f108cb614911ff88308809c4b5
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920475"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207892"
 ---
 # <a name="create-a-site"></a>建立網站
 
@@ -30,7 +30,7 @@ ms.locfileid: "29920475"
   
 若要建立傳統網站，請執行下列其中一項：
   
-- 移至 [[網站] 頁面上的 Office 365 系統管理中心](https://portal.office.com/adminportal/home#/SitesList)]，然後選取 [**新增站台**。
+- 移至 [[網站] 頁面上的 Microsoft 365 系統管理中心](https://portal.office.com/adminportal/home#/SitesList)]，然後選取 [**新增站台**。
     
 - 在傳統 SharePoint 系統管理中心，在 [網站集合] 頁面上選取 [**新增** \> **私用網站集合**。
     

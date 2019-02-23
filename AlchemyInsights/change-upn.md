@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 7788acd13218b6e15a7accb7e87ca14e9c90b691
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901035"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208432"
 ---
 # <a name="change-a-users-email-address"></a>變更使用者的電子郵件地址
 
 變更某個人的電子郵件地址很簡單 ！請遵循下列步驟：
   
-1. 在 Office 365 系統管理中心，移至 [[使用者](https://go.microsoft.com/fwlink/p/?linkid=834822)] 頁面上或選擇 [**使用者** \> **作用中使用者**。
+1. 在 Microsoft 365 系統管理中心，移至 [[使用者](https://go.microsoft.com/fwlink/p/?linkid=834822)] 頁面上或選擇 [**使用者** \> **作用中使用者**。
     
 2. 選取的使用者。
     

@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 20b538846997c021b6e88596a1e8aff401ea935b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4b132a3cb0fac015ab44a1fa08565af15b7e8121
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900855"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207676"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>修正問題與外部使用者共用 SharePoint 內容
 
 請確定外部共用您的組織已開啟：
   
-1. 移至 [[服務&amp;增益集] 頁面上的 Office 365 系統管理中心](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)，並按一下 [**網站**]。
+1. 移至 [[服務&amp;增益集] 頁面上的 Microsoft 365 系統管理中心](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)，並按一下 [**網站**]。
     
-2. 確定設定開啟以 「 開啟 」。如果已選取 「 唯一現有外部使用者 」，請確認外部使用者已列在 Office 365 系統管理中心。
+2. 確定設定開啟以 「 開啟 」。如果已選取 「 唯一現有外部使用者 」，請確認外部使用者會列於 Microsoft 365 系統管理中心。
     
 確定外部共用其開啟網站。傳統的網站集合：
   
