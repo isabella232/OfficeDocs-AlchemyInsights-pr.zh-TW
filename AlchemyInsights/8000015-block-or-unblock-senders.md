@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 49750888b92a62058efe8f09ccb03930afae43f5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e4932e5d5cedcd98917ee6578a818284b8a93926
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941499"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243816"
 ---
 # <a name="block-or-unblock-senders"></a>封鎖或解除封鎖的寄件者
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941499"
     
 3. 若要封鎖的寄件者，請輸入電子郵件地址或網域，您要封鎖並選取 [**新增]**。 
     
-    若要解除封鎖寄件者，請在清單中選取的項目和選取**移除**![刪除](media/deb47846-8483-4f9d-813a-fc8fe288b583.png)。
+    若要解除封鎖寄件者，請在清單中選取的項目並選取**移除**。
     
 4. 選取 **[儲存]**。 
     

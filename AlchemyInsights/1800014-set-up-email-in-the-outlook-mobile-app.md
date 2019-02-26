@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 7345e635de059adc10a07be8edf854431b133e72
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8b47c1963523c9be8eb5e1fb2cdfd283f82c321c
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925515"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244356"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>設定 Outlook 的行動裝置應用程式中的電子郵件
 
-1. 選取**要開始**如果它是您第一次設定行動裝置的 app 否則電子郵件點選 [**功能表]**![功能表] 按鈕](media/265b9089-9630-42dd-a244-d9a412d8fe47.png)然後點選 [**設定** \> **新增帳戶** \> **新增電子郵件帳戶**。 
+1. 如果這是您設定行動裝置的 app 否則電子郵件的第一次選取 [**快速入門**、 點選 [**功能表]** 並再點選 [**設定** \> **新增帳戶** \> **新增電子郵件帳戶**。 
     
 2. 輸入您完整的電子郵件地址，然後點選 [**繼續**] 或 [**新增帳戶**。
     

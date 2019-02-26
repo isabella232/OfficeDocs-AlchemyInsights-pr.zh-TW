@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 32da2272-cfdd-4d47-91da-9258167b67d8
-ms.openlocfilehash: 40368816ac3a8aa5652bbe502ba0293fbc24ceef
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1f7fcac094135573220aef58ca20008223046474
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927423"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244032"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>如果危害帳戶所採取建議的步驟
 
-[![修正洩漏的 Office 365 帳戶](media/797f355b-22a1-468e-91a4-a9d5bc45b19a.png)](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[影片： 修復洩漏的 Office 365 帳戶](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. [重設使用者密碼](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c)立即。不與使用者通訊透過電子郵件的新密碼。 
     
