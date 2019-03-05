@@ -9,25 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: 384104963a98e07a77dbfaba64787ef30fb4be29
-ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
+ms.openlocfilehash: 7d8b0d2a98f71dbc973c3e46783c01d09bdab259
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30244140"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376099"
 ---
 # <a name="how-to-create-an-email-signature"></a>如何建立電子郵件簽章
 
-如果您使用 Outlook.com beta：
+移至您的[撰寫及回覆的設定](https://go.microsoft.com/fwlink/?linkid=2006164)(**設定** \> **檢視所有的 Outlook 設定** \> **撰寫及回覆**)。 
   
-- 頁面頂端選取 [**設定** \> **檢視完整設定** \> **撰寫及回覆**。 
-    
-如果您使用傳統 Outlook.com：
+ **附註：** 您可以讓每個帳戶只能有一個簽章。 
   
-- 頁面頂端選取 [**設定** \> **選項** \> **郵件** \> **版面配置** \> **電子郵件簽章**。 
-    
- **附註：** 您可以有一個簽章個別帳戶。 
-  
-深入了解如何[建立及新增在 Outlook.com 中的電子郵件簽章](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409)。
-  
-
+深入了解如何[建立及新增中 Outlook.com 電子郵件簽章](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409)。

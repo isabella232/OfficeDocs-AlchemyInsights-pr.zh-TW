@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: 800fde849db0f1d3673a7144bc83b83e0ee7ace8
-ms.sourcegitcommit: e3df67530bd5205410acf5beba4a07acab9692f0
+ms.openlocfilehash: 27f7c36576c7be4fab824df1a22bf0bde7047341
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30347398"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376063"
 ---
 # <a name="saving-messages-in-outlookcom"></a>在 Outlook.com 中儲存的郵件
 
@@ -29,4 +29,4 @@ ms.locfileid: "30347398"
 4. 選取 [**列印**]。
 5. 輸入檔案名稱，然後選取 [**儲存**]。
 
-附註： 這是不建議使用共用或公用電腦上為其他使用者仍可存取您儲存到電腦並不會刪除任何 Pdf。
+**附註：** 建議您不要共用或公用電腦上為其他使用者仍可存取您儲存到電腦並不會刪除任何 Pdf。

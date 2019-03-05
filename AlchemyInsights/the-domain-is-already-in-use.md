@@ -1,26 +1,26 @@
 ---
-title: 網域已在使用中
+title: 網域已在使用
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/8/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
-ms.openlocfilehash: 18b1c7b76bd0c86ca48d7eb526990944c1ece80e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8b6bb50164bb48b955d6cc4873c547232efe1527
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940419"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405386"
 ---
-# <a name="the-domain-is-already-in-use"></a>網域已在使用中
+# <a name="the-domain-is-already-in-use"></a>網域已在使用
 
-您嘗試已新增的網域屬於其他組織。您必須先移除網域所組織之前將其新增到此組織。下列文章會引導您完成這些程序。
+您嘗試已新增的網域屬於到另一個組織。您可以將它新增至這個組織之前，必須先從該組織移除網域。以下文章將帶領您完成這些程序。
   
 - [從 Office 365 移除網域](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
     
-- [新增網域及建立 DNS 記錄](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+- [新增網域，並建立 DNS 記錄](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
     
 

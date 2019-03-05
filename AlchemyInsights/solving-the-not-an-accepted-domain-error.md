@@ -1,5 +1,5 @@
 ---
-title: 解決 '不公認的網域 」 錯誤
+title: 解決 '不公認的網域' 時發生錯誤
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -8,19 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
-ms.openlocfilehash: 4a0dc41c198a38b60b7c256e9e78648ebf3d5b55
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c202527610f349bef1129b1307f7cb10c13f2165
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900675"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404486"
 ---
-"不公認的網域 」 錯誤
+# <a name="got-a-parameter-cannot-be-found-error"></a>獲得 '找不到參數 」 錯誤訊息？
 
-# <a name="got-a-parameter-cannot-be-found-error"></a>Got '找不到參數 」 錯誤吗？
-
-如果您收到錯誤訊息 **"符合參數名稱找不到參數 ' EmailAddresses"**，就表示該它正在進行較長的時間完成設定您的租用戶或自訂網域如果您最近新增的 Office 365。 
+如果您收到錯誤訊息 **」 參數找不到符合參數名稱 ' EmailAddresses 「**，就表示，花費的時間較長的時間來完成設定您的租用戶或您的自訂網域，如果您最近新增的 Office 365。 
   
-安裝程序可能需要多達 4 小時才能完成。等候一段讓程序設定已完成，然後再試一次的時間。
+安裝程序可能需要多達 4 個小時才能完成。請稍候，讓設定程序已完成，然後再試一次的時間。
   
 

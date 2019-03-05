@@ -1,5 +1,5 @@
 ---
-title: 變更 NameServers
+title: 變更名稱伺服器
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -7,20 +7,20 @@ ms.date: 4/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 1b49321d3bcc066136080da09be6d534ec3c3bbb
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912807"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405314"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>將您的網域名稱伺服器更新為 Office 365
 
-請注意： 名稱變更有時可能需要最多達 48 小時傳播。
+附註： 筆名稱伺服器變更有時可能需要多達 48 小時才能傳播。
   
 若要在 Office 365 設定網域，請在您的註冊機構更新名稱伺服器。在網域註冊機構建立或編輯網域名稱伺服器記錄。
   
