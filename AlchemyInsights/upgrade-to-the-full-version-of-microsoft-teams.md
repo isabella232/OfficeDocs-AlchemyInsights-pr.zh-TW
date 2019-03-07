@@ -1,5 +1,5 @@
 ---
-title: 升級至完整版本的 Microsoft 小組
+title: 升級至完整版的 Microsoft Teams
 ms.author: pebaum
 author: pebaum
 ms.date: 6/6/2018
@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904851"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468978"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="64c5e-102">升級至完整版本的 Microsoft 小組</span><span class="sxs-lookup"><span data-stu-id="64c5e-102">Upgrade to the full version of Microsoft Teams</span></span>
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="36815-102">升級至完整版的 Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="36815-102">Upgrade to the full version of Microsoft Teams</span></span>
 
-<span data-ttu-id="64c5e-103">您可以從升級 （免費） 的 Microsoft 小組完整版本的 Microsoft 小組每當您準備好。</span><span class="sxs-lookup"><span data-stu-id="64c5e-103">You can upgrade from Microsoft Teams (free) to the full version of Microsoft Teams whenever you're ready.</span></span>
-  
-<span data-ttu-id="64c5e-104">開始升級程序的最佳方式是按一下 [**讓我們呼叫您**的下方。</span><span class="sxs-lookup"><span data-stu-id="64c5e-104">The best way to start the upgrade process is to click **Let us call you** below.</span></span> 
-  
-<span data-ttu-id="64c5e-105">支援代理程式會連絡您及您選取 [Office 365 計劃、 輸入您的連絡人和付款資訊、 選取您組織的網域名稱，並升級成員名冊的說明。</span><span class="sxs-lookup"><span data-stu-id="64c5e-105">A support agent will contact you and help you select an Office 365 plan, enter your contact and payment info, select your org domain name, and upgrade your member roster.</span></span>
-  
+<span data-ttu-id="36815-103">需要從免費升級至 Microsoft Teams 的完整版本嗎？</span><span class="sxs-lookup"><span data-stu-id="36815-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="36815-104">請參閱[Office 365 訂閱版本可用的 [升級 Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="36815-104">See [Upgrade Microsoft Teams free to Office 365 subscription version](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)</span></span>
+
+<span data-ttu-id="36815-105">您需要符合這些需求：</span><span class="sxs-lookup"><span data-stu-id="36815-105">You’ll need to meet these requirements:</span></span>
+- <span data-ttu-id="36815-106">您正在註冊免費的 microsoft Teams 的新版的人員。</span><span class="sxs-lookup"><span data-stu-id="36815-106">You’re the person who signed up for the current free version of Teams.</span></span>
+- <span data-ttu-id="36815-107">如果您有自己的網域，則已不能與 Azure Active Directory 相關聯。</span><span class="sxs-lookup"><span data-stu-id="36815-107">If you have your own domain, it can’t already be associated with Azure Active Directory.</span></span>
+- <span data-ttu-id="36815-108">若要傳輸資料，當您升級時，您必須訂閱升級程序期間。</span><span class="sxs-lookup"><span data-stu-id="36815-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="36815-109">如果您購買 Office 365 升級程序外，您無法將資料轉換。</span><span class="sxs-lookup"><span data-stu-id="36815-109">If you bought Office 365 outside of the upgrade process, you can’t transfer data.</span></span>
+
 
