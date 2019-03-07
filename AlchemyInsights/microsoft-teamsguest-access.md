@@ -1,5 +1,5 @@
 ---
-title: Microsoft 小組-來賓存取
+title: Microsoft Teams-來賓存取
 ms.author: heidip
 author: microsoftheidi
 ms.date: 1/18/2019
@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941571"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468474"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft 小組-來賓存取
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams-來賓存取
 
+您需要協助開啟並設定 Microsoft Teams 中的來賓存取功能嗎？
 
-如果您需要啟用或設定中的 Microsoft 小組的來賓存取角色，我們可以為您的逐步指示指南：[來賓存取檢查清單](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
-  
-您可能需要等候 24 小時的時間的小組設定的變更才會生效。
-  
+以下是您需要執行動作：
+
+1. 授權的來賓存取。
+1. 將來賓使用者新增至您的小組。
+1. 設定來賓使用者權限。
+
+如需詳細資訊，包括使用方法影片，請參閱 < <b0>Microsoft Teams 中的來賓存取</b0>。
 

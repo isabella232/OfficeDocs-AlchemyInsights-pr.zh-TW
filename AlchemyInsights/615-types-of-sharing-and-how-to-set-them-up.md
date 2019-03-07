@@ -7,18 +7,18 @@ ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
-ms.openlocfilehash: c9a36686f215056f07528ffe5c4c20b10a32ce34
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d7832903ee1aae07871efc4f55eb1d8b58c0d780
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901071"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468690"
 ---
-# <a name="different-types-of-shared-calendars-and-how-to-set-them-up"></a>不同類型的共用行事曆以及如何設定這些
+# <a name="different-types-of-shared-calendars-and-how-to-set-them-up"></a>不同類型的共用行事曆，以及如何設定這些
 
 - [建立共用信箱](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)
     
@@ -28,6 +28,6 @@ ms.locfileid: "29901071"
     
 - [與其他人共用的 Outlook 行事曆](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
     
-- 如果您不能看見其他的行事曆] 中的 [行事曆空閒/忙碌資訊或其他人無法看到的行事曆空閒/忙碌資訊、 使用[Microsoft 支援與 Office 365 的助理復原](https://diagnostics.office.com/)。
+- 若您不能看到其他的行事曆中的行事曆空閒/忙碌資訊或其他人無法看到中您的行事曆空閒/忙碌資訊，請使用[Microsoft 的支援及修復小幫手的 Office 365](https://diagnostics.office.com/)。
     
 
