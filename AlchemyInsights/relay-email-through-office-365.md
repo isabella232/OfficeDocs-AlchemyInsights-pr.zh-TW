@@ -1,5 +1,5 @@
 ---
-title: 透過 Office 365 的轉送電子郵件
+title: 透過 Office 365 回覆電子郵件
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 1d3868457d87a0abf36223c33c96b01a57f5b8d7
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: ea852e315eaf7611d2d405dcfc9e85ab1ccca196
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468582"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30574614"
 ---
-# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>將多功能裝置或應用程式以使用 Office 365 傳送電子郵件設定
+# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>將多功能裝置或應用程式設定為使用 Office 365 傳送電子郵件
 
-若要了解您的選項和步驟，請參閱 <<c0>如何將多功能裝置或應用程式以使用 Office 365 傳送電子郵件設定。
+若要深入了解您的選項和步驟，請參閱[如何將多功能裝置或應用程式設定為使用 Office 365 傳送電子郵件](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4)。
   
- ** *附註：* * * 如果您有裝置或應用程式已停止運作，請[注意我們最近所做的改善](https://support.microsoft.com/help/4458479/)，可能會影響您。 我們現在可能會**導致拒絕的郵件，如果該信箱已滿**之信箱的 [**儲存至 [傳送] 資料夾的郵件**。 此外，我們現在需要每個 SMTP 規格格式化郵件。 例如，送出的裝置必須包含的電子郵件地址，如同*christine@contoso.com*上角括號。 
-  
+**附註：** 如果您的裝置或應用程式最近已停止運作，請注意我們最近依計劃已開始[停用 3DES 加密](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption)。  **將無法使用 Windows Server 2003 IIS SMTP – 需要較新版本的 Windows。** 
 
+常見錯誤可能類似於：身份驗證失敗/錯誤、TLS 失敗/錯誤、密碼演算法錯誤、演算法不相符或連線中斷。  請洽詢您的應用程式或裝置廠商，查看是否支援新式密碼，或者是否提供更新。
