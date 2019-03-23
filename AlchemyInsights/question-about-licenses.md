@@ -1,5 +1,5 @@
 ---
-title: 關於授權問題
+title: 授權的相關問題
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: a2d5a988ac0eb01bb15a57a2a018c21b8861f147
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a5d701f61b0987978c759aa27d8e4f06e4be2b92
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938331"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760293"
 ---
-# <a name="question-about-licenses"></a>關於授權問題
+# <a name="question-about-licenses"></a>授權的相關問題
 
-如果您想要知道您已購買、 多少個授權或從訂閱指派多少授權：
+如果您想要知道您購買的授權數目或多少授權已指派來自訂用帳戶：
   
-1. 在管理中心中，移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面或選擇 [**計費** \> **訂閱**。
+1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
-2. 選擇您想要更了解的訂閱。
+2. 選擇您想要深入瞭解有關的訂閱。
     
-3. 在左側的訂閱卡片是授權的相關資訊：
+3. 在左側的 [訂閱] 卡片上，您的授權的資訊：
     
-  - **購買**數目是您所支付的授權數。 
+  - **購買**編號是您支付的授權數目。 
     
-  - **已指派**的號碼是指派給使用者的授權數。 
+  - **已指派**為指派給使用者的授權數目。 
     
-4. 如果您想要新增更多授權，或者您有太數量，選擇 [**新增/移除授權**指派給調整購買量。 
+4. 如果您想要新增更多授權，或者如果您太有許多，選擇 [**新增/移除授權**來調整購買的數量。 
     
 

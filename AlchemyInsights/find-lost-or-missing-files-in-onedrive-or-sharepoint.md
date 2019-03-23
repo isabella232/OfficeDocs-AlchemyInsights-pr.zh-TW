@@ -1,5 +1,5 @@
 ---
-title: Onedrive for SharePoint 中尋找遺失或遺漏的檔案
+title: 在 OneDrive 或 SharePoint 中尋找遺失檔案
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 7327d570ab76c8dc0581c004b8701b1f4270d425
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: 3da4aab8de8ac36d87a51f101d6da304e1b383f5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968156"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757593"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Onedrive for SharePoint 中尋找遺失或遺漏的檔案
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>在 OneDrive 或 SharePoint 中尋找遺失檔案
 
-- 若要將 OneDrive 或網路上的 SharePoint 網站瀏覽並按一下 [資源回收筒的左窗格中檢查 [資源回收筒]。（如果您未看見回收 bin 在左的窗格中，按一下 [設定] 圖示，然後選取 [**網站內容]**。**資源回收筒**是在最右邊的頂端之命令列上）。 
+- 瀏覽至您的 OneDrive 或 SharePoint 網站的網頁上，按一下 [資源回收筒] 的左窗格中，檢查 [資源回收筒]。 （如果您沒有看到中 bin 的資源回收左的窗格中，按一下 [設定] 圖示，然後選取 [**網站內容**。 **資源回收筒]** 是在最右邊的頂端的命令列上）。 
     
-- 如果您正在同步處理您的電腦上的檔案，檢查您的電腦上的資源回收筒。 
+- 如果您正在同步處理您的電腦上的檔案，請檢查您的電腦上的資源回收筒。 
     
-- 如果您沒有看到項目您在這裡尋找、 和最近遭刪除、 網站集合管理員可以從網站集合資源回收筒還原它。如果您是網站集合管理員，請參閱[還原已刪除網站集合資源回收筒中的項目](https://go.microsoft.com/fwlink/?linkid=866439)。
+- 如果您沒有看到項目您正在尋找，它最近已遭刪除，或許可以從網站集合資源回收筒還原網站集合管理員。 如果您是網站集合管理員，請參閱[還原已刪除的網站集合資源回收筒中的項目](https://go.microsoft.com/fwlink/?linkid=866439)。
     
-[更多協助還原已刪除檔案及資料夾的 onedrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[更多協助還原刪除的檔案及 OneDrive 中的資料夾](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

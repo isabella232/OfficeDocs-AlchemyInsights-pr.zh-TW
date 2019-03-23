@@ -1,5 +1,5 @@
 ---
-title: CTRL + H 會顯示 [尋找]、 [不在 Excel 2016 取代
+title: CTRL + H 顯示 [尋找]、 [不在 Excel 2016 中的 Replace
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 6c9a90b8b0cf30df3d2a45b394275ccd8d0b19a8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0a398d2d6792e9e6af33dfe0678e40f71f6928ac
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916839"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756621"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H 會顯示 [尋找]、 [不在 Excel 中的取代
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H 顯示 [尋找]、 [不在 Excel 中的 Replace
 
-在 Excel 2016 按 CTRL + H [尋找及取代] 對話方塊會隨即開啟並顯示 [尋找] 索引標籤中，而不是 [取代] 索引標籤按一下 [常用] 索引標籤取代同樣。此問題已修正的版本 1708 (8431.2094)。若要修正此問題，更新為最新版本的 Office。選取**檔案** \> **帳戶** \> **更新選項** \> **立即更新**。
+在 Excel 2016 中，按 CTRL + H 會開啟 [尋找及取代] 對話方塊並顯示 [尋找] 索引標籤，而不是 [取代] 索引標籤按一下取代 [首頁] 索引標籤上的作用相同。 版本 1708 (8431.2094) 已修正此問題。 若要修正此問題，更新為最新版的 Office。 選取**檔案** \> **帳戶** \> **更新選項** \> **立即更新**。
   
 

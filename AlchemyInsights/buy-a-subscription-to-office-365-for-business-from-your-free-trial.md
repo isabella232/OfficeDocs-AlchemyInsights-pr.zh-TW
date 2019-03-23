@@ -9,35 +9,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: e596a8216b3674290ee577abc59a81b964f33c0a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919611"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761588"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>從免費試用版轉而購買 Office 365 訂閱
 
-您試用過 Office 365，準備好要購買了。您有兩個選項可從試用版購買 Office 365。
+您試用過 Office 365，準備好要購買了。 您有兩個選項可從試用版購買 Office 365。
   
- **您可以購買作為您的試用版相同的計劃**
+ **您可以購買與試用版相同的方案**
   
-1. 在管理中心中，移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面或選擇 [**計費** \> **訂閱**。
+1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
-2. 選擇您要的試用版訂閱**現在購買**及遵循步驟來取出。 
+2. 試用版的訂用帳戶，您想，請選擇 [**立即購買]** 並遵循步驟結帳。 
     
-**您可以購買其他訂閱**或
+或**您可以購買其他訂閱**
   
 1. 用您的公司或學校帳戶，以全域系統管理員的身分登入 Office 365。[了解如何登入](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4)。
     
-2. 請在 [開始] 頁面上選擇 [ **Office 365** 。 
+2. 在 [開始] 頁面上，選擇 [ **Office 365** 。 
     
-3. 右上角的 [頁面] 下方的導覽列中，選擇 [**購買**]。
+3. 在右上角] 頁面的 [瀏覽列中，選擇 [**購買**]。
     
-4. **購買訂閱**] 索引標籤上正在嘗試計劃已**在試用版**橫幅。 
+4. 在**購買訂閱**] 頁面上，您嘗試在規劃具有**試用**橫幅。 
     
-5. 選擇您要的試用版訂閱**現在購買**及遵循步驟來取出。 
+5. 試用版的訂用帳戶，您想，請選擇 [**立即購買]** 並遵循步驟結帳。 
     
 

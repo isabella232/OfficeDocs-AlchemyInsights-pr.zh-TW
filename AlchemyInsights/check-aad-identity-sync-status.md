@@ -1,5 +1,5 @@
 ---
-title: 檢查 AAD Identity 同步處理狀態
+title: 檢查 AAD 身分識別同步處理狀態
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: b2788e98cf7c94d8dd4c1543145f30a442072f1e
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 3fda1ef20dd080c6d99bf242168256c04eff24b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209692"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761660"
 ---
-# <a name="check-aad-identity-sync-status"></a>檢查 AAD Identity 同步處理狀態
+# <a name="check-aad-identity-sync-status"></a>檢查 AAD 身分識別同步處理狀態
 
-檢查同步狀態很簡單： 
+檢查同步處理狀態很簡單： 
   
-- 登入 Microsoft 365 系統管理中心並且選擇 [* * DirSync 狀態 * * 在首頁上。 
+- 登入 Microsoft 365 系統管理中心，選擇 [* * DirSync 狀態 * * [首頁] 頁面上。 
     
-- 或者，您可以前往 ＜ 給使用者\>作用中使用者在作用中使用者] 頁面上，選擇 [更多\>目錄同步處理。
+- 或者，您可以移至 [使用者\>作用中的使用者，並在 [作用中使用者] 頁面上，選擇 [更多\>目錄同步處理。
     
-- 在 [目錄同步處理] 窗格中，選擇 [前往 DirSync 管理。 
+- 在 [目錄同步處理] 窗格中，選擇 [移至 DirSync 管理。 
     
-以目錄同步作業問題時，此頁面將列出錯誤。如需不同可能遇到的錯誤的詳細資訊，請參閱[Office 365 中的身分識別目錄同步處理錯誤](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067)。
+目錄同步處理的問題時，此頁面上列出錯誤。 如需不同，可能會遇到的錯誤的詳細資訊，請參閱 <<c0>在 Office 365 中的身分識別目錄同步處理錯誤。
   
 

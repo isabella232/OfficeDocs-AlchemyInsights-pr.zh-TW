@@ -1,5 +1,5 @@
 ---
-title: 如何購買 Office 365 的非利潤
+title: 如何為非利潤購買 Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: efbc83b4ec129b421ee40d4b644895ddfd9ce5d4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d09630ae4960cba3eda457a670696ddd7f7fa2bc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29899642"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757053"
 ---
-# <a name="how-to-purchase-office-365-for-nonprofits"></a>如何購買 Office 365 方案非營利機構
+# <a name="how-to-purchase-office-365-for-nonprofits"></a>如何購買 Office 365 非營利組織
 
-我們檢閱您的要求，並決定此組織不是以 Microsoft 合格思考合格。
+我們檢閱您的要求，並決定此組織並不合格為 Microsoft 完整非營利組織。
   
-商業上購買 Office 365，請參閱[可用的產品項目](https://portal.office.com/AdminPortal/Home)。
+若要進行商業購買 Office 365，請參閱[可用產品項目](https://portal.office.com/AdminPortal/Home)。
   
 
