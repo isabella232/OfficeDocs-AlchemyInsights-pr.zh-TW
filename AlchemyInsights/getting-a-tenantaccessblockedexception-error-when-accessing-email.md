@@ -1,28 +1,33 @@
 ---
-title: 存取電子郵件時取得 TenantAccessBlockedException 錯誤？
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/21/2017
-ms.audience: ITPro
+title: 127 存取電子郵件時，收到 TenantAccessBlockedException 錯誤？
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: e473a74523c927fca2ab3087d382543890766981
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.collection: Adm_O365
+ms.custom:
+- "127"
+- "128"
+ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
+ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912015"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754245"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="f520e-102">存取電子郵件時取得 TenantAccessBlockedException 錯誤？</span><span class="sxs-lookup"><span data-stu-id="f520e-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="ee027-102">存取電子郵件時，請取得 TenantAccessBlockedException 錯誤？</span><span class="sxs-lookup"><span data-stu-id="ee027-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="f520e-p101">有幾個不同的原因為何您可能會收到的錯誤訊息的封鎖存取您的租用戶。若要修正此問題，您可嘗試下列步驟：</span><span class="sxs-lookup"><span data-stu-id="f520e-p101">There are a few different reasons why you may get an error saying that access to your tenant is blocked. To fix the problem, you can try the following steps:</span></span>
+<span data-ttu-id="ee027-103">有幾個不同的原因為何您可能會收到此錯誤。</span><span class="sxs-lookup"><span data-stu-id="ee027-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="ee027-104">例如：</span><span class="sxs-lookup"><span data-stu-id="ee027-104">For example:</span></span>
   
-- <span data-ttu-id="f520e-105">檢查您的訂閱是有效[的訂閱](https://admin.microsoft.com/adminportal/home#/subscriptions)」 頁面上。</span><span class="sxs-lookup"><span data-stu-id="f520e-105">Check that your subscription is valid on the [Subscriptions](https://admin.microsoft.com/adminportal/home#/subscriptions) page.</span></span> 
+- <span data-ttu-id="ee027-105">確認您的訂閱是適用於 live @**帳單** \> **訂閱**] 頁面上，在 Microsoft 365 系統管理中心 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions)。</span><span class="sxs-lookup"><span data-stu-id="ee027-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
     
-- <span data-ttu-id="f520e-106">檢查 [[計費](https://admin.microsoft.com/adminportal/home#/billoverview)] 頁面上的任何會費過去在您的帳戶。</span><span class="sxs-lookup"><span data-stu-id="f520e-106">Check the [Billing](https://admin.microsoft.com/adminportal/home#/billoverview) page for any past dues on your account.</span></span> 
+- <span data-ttu-id="ee027-106">檢查是否有任何逾期中的 **[帳單**通知\>**帳單**] 頁面上，在 Microsoft 365 系統管理中心 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview)。</span><span class="sxs-lookup"><span data-stu-id="ee027-106">Check for any past due notifications in the **Billing** \> **Bills** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span></span>
     
-- <span data-ttu-id="f520e-p102">如果您的帳戶順序現在，但是最近已變更，則可能需要一些時間的變更傳播至所有伺服器。試試看另一個在幾分鐘，以及如果問題仍然存在，請與我們連絡。</span><span class="sxs-lookup"><span data-stu-id="f520e-p102">If your account is in order now, but has been changed recently, it might take some time for the changes to propagate to all servers. Give it another try in a few minutes, and if the issue persists, contact us.</span></span>
+- <span data-ttu-id="ee027-107">帳務和訂閱帳戶最近已更新，那麼就會花時間，變更才會傳播。</span><span class="sxs-lookup"><span data-stu-id="ee027-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="ee027-108">再試一次在幾分鐘，以及如果問題仍然存在，請與我們連絡。</span><span class="sxs-lookup"><span data-stu-id="ee027-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
     
 

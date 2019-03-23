@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: e59beb176248514a4aeab213b930990b3d7bbe5e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a241e8482db69044a928ff99aa2ce8e96f6b4718
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898047"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764215"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="aea06-102">什麼是系統管理員角色以及如何您指派給他們？</span><span class="sxs-lookup"><span data-stu-id="aea06-102">What are admin roles and how do you assign them?</span></span>
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="230a4-102">什麼是系統管理員角色和如何執行您指派這些原則？</span><span class="sxs-lookup"><span data-stu-id="230a4-102">What are admin roles and how do you assign them?</span></span>
 
-<span data-ttu-id="aea06-p101">看起來有一些疑問系統管理員角色。這些文章應該接聽您的問題。</span><span class="sxs-lookup"><span data-stu-id="aea06-p101">Looks like you have some questions about admin roles. These articles should answer all your questions.</span></span>
+<span data-ttu-id="230a4-103">看起來像您有關於系統管理員角色的一些問題。</span><span class="sxs-lookup"><span data-stu-id="230a4-103">Looks like you have some questions about admin roles.</span></span> <span data-ttu-id="230a4-104">這些文章應該回答您所有的問題。</span><span class="sxs-lookup"><span data-stu-id="230a4-104">These articles should answer all your questions.</span></span>
   
-- [<span data-ttu-id="aea06-105">關於 Office 365 系統管理員角色</span><span class="sxs-lookup"><span data-stu-id="aea06-105">About Office 365 admin roles</span></span>](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
+- [<span data-ttu-id="230a4-105">關於 Office 365 系統管理員角色</span><span class="sxs-lookup"><span data-stu-id="230a4-105">About Office 365 admin roles</span></span>](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
     
-- [<span data-ttu-id="aea06-106">指派系統管理員角色</span><span class="sxs-lookup"><span data-stu-id="aea06-106">Assign admin roles</span></span>](https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
+- [<span data-ttu-id="230a4-106">指派系統管理員角色</span><span class="sxs-lookup"><span data-stu-id="230a4-106">Assign admin roles</span></span>](https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
     
-<span data-ttu-id="aea06-p102">未接聽您的問題吗？沒有問題 ！使用"我們呼叫您"選項與支援工程師對話。</span><span class="sxs-lookup"><span data-stu-id="aea06-p102">Didn't answer your question? No problem! Use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="230a4-107">沒有回答問題嗎？</span><span class="sxs-lookup"><span data-stu-id="230a4-107">Didn't answer your question?</span></span> <span data-ttu-id="230a4-108">沒問題！</span><span class="sxs-lookup"><span data-stu-id="230a4-108">No problem!</span></span> <span data-ttu-id="230a4-109">連絡支援工程師使用 「 讓我們撥話給您 」 選項。</span><span class="sxs-lookup"><span data-stu-id="230a4-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
   
 

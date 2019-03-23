@@ -1,5 +1,5 @@
 ---
-title: 兩個不同的租用戶之間的信箱移轉
+title: 兩個不同的租用戶之間移轉信箱
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: cba730ce8c3234c08b4789a9d08230c4323dd7c6
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 008318a50875b3d585b95dd8d9566db09af1d3ff
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900027"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759465"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="26a94-102">兩個不同的租用戶之間的信箱移轉</span><span class="sxs-lookup"><span data-stu-id="26a94-102">Migrate mailboxes between two different tenants</span></span>
+# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="74466-102">兩個不同的租用戶之間移轉信箱</span><span class="sxs-lookup"><span data-stu-id="74466-102">Migrate mailboxes between two different tenants</span></span>
 
-<span data-ttu-id="26a94-p101">您可能需要將兩個不同的承租人在 Office 365 中，例如之間的信箱遷移組織合併時。這些移轉應謹慎規劃。請參閱下列指導：</span><span class="sxs-lookup"><span data-stu-id="26a94-p101">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers. These migrations should be carefully planned. Please see the following guidance:</span></span>
+<span data-ttu-id="74466-103">您可能需要之間移轉信箱兩個不同租用戶中 Office 365，例如，組織併購時。</span><span class="sxs-lookup"><span data-stu-id="74466-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="74466-104">這些移轉應審慎規劃。</span><span class="sxs-lookup"><span data-stu-id="74466-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="74466-105">請下列指引，參閱：</span><span class="sxs-lookup"><span data-stu-id="74466-105">Please see the following guidance:</span></span>
   
-[<span data-ttu-id="26a94-106">如何將信箱從一個 Office 365 租用戶移轉到另一個租用戶</span><span class="sxs-lookup"><span data-stu-id="26a94-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[<span data-ttu-id="74466-106">如何將信箱從一個 Office 365 租用戶移轉至另一個</span><span class="sxs-lookup"><span data-stu-id="74466-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
   
 

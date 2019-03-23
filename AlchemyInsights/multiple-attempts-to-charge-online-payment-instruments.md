@@ -1,5 +1,5 @@
 ---
-title: 多個嘗試收費線上付款儀器
+title: 多個嘗試計費線上付款儀器
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: e81f13c958d6a49eb038cc1595f346326288f722
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5d9acc81b18bc8f71efa5f8aea00bbb008672efc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918783"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755649"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a><span data-ttu-id="c7f6f-102">多個嘗試收費線上付款儀器</span><span class="sxs-lookup"><span data-stu-id="c7f6f-102">Multiple attempts to charge online payment instruments</span></span>
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a><span data-ttu-id="b8e05-102">多個嘗試計費線上付款儀器</span><span class="sxs-lookup"><span data-stu-id="b8e05-102">Multiple attempts to charge online payment instruments</span></span>
 
-<span data-ttu-id="c7f6f-p101">我們讓多個嘗試收費線上付款儀器之前在服務採取任何動作。付款之後方法已選取，所有超過到期日金額必須付費與所選的付款方法。若要更新您的訂閱的目前付款資訊，請遵循的步驟中[新增、 更新或移除信用卡或 Office 365 中的商務銀行帳戶](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)。</span><span class="sxs-lookup"><span data-stu-id="c7f6f-p101">We make multiple attempts to charge online payment instruments before taking any action on the service. After a payment method is selected, all past due amounts must be paid with the selected payment method. To update the current payment information for your subscription, follow the steps in [Add, update, or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
+<span data-ttu-id="b8e05-103">我們讓多個嘗試計費線上付款儀器之前在服務採取任何動作。</span><span class="sxs-lookup"><span data-stu-id="b8e05-103">We make multiple attempts to charge online payment instruments before taking any action on the service.</span></span> <span data-ttu-id="b8e05-104">付款後會選取方法，所有逾期必須與所選的付款方式付款金額。</span><span class="sxs-lookup"><span data-stu-id="b8e05-104">After a payment method is selected, all past due amounts must be paid with the selected payment method.</span></span> <span data-ttu-id="b8e05-105">若要更新您的訂閱的目前付款資訊，請依照下列中[新增、 更新或移除信用卡或銀行帳戶，在商務用 Office 365 中](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)的步驟。</span><span class="sxs-lookup"><span data-stu-id="b8e05-105">To update the current payment information for your subscription, follow the steps in [Add, update, or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
   
 

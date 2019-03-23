@@ -9,36 +9,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 3bc62deb513c809a25277295642394c5cab9436c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9b920dff8facdec51f005489e7433db738447e5e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917847"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754425"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a><span data-ttu-id="fcb60-102">與組織外部人員共用檔案的 onedrive</span><span class="sxs-lookup"><span data-stu-id="fcb60-102">Share files in OneDrive with people outside your organization</span></span>
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a><span data-ttu-id="9b775-102">與組織外部人員共用 onedrive 檔案</span><span class="sxs-lookup"><span data-stu-id="9b775-102">Share files in OneDrive with people outside your organization</span></span>
 
-1. <span data-ttu-id="fcb60-103">在網頁瀏覽器中移至 OneDrive 使用 app 啟動器。</span><span class="sxs-lookup"><span data-stu-id="fcb60-103">Use the app launcher to go to OneDrive in your web browser.</span></span> 
+1. <span data-ttu-id="9b775-103">若要在網頁瀏覽器中移至 OneDrive 使用應用程式啟動器。</span><span class="sxs-lookup"><span data-stu-id="9b775-103">Use the app launcher to go to OneDrive in your web browser.</span></span> 
     
-2. <span data-ttu-id="fcb60-104">選取的檔案或資料夾您想要共用，然後再選取 [**共用**。</span><span class="sxs-lookup"><span data-stu-id="fcb60-104">Select the file or folder you want to share, and then select **Share**.</span></span> 
+2. <span data-ttu-id="9b775-104">選取您想要共用的資料夾的檔案，然後選取 [**共用**。</span><span class="sxs-lookup"><span data-stu-id="9b775-104">Select the file or folder you want to share, and then select **Share**.</span></span> 
     
-3. <span data-ttu-id="fcb60-105">如果連結類型設為"中人員\<組織\>，"按一下 [向下箭號，選取下列其中之一：</span><span class="sxs-lookup"><span data-stu-id="fcb60-105">If the link type is set to "People in \<your organization\>," click the down arrow and select one of the following:</span></span> 
+3. <span data-ttu-id="9b775-105">如果連結類型設為 「 人員在\<組織\>，「 按一下向下箭號，然後選取下列其中：</span><span class="sxs-lookup"><span data-stu-id="9b775-105">If the link type is set to "People in \<your organization\>," click the down arrow and select one of the following:</span></span> 
     
-  - <span data-ttu-id="fcb60-p101">**任何人都**可以讓存取收到此連結，不論其接收直接從您或轉寄來自其他人的任何人。這可能包括組織外的人員。</span><span class="sxs-lookup"><span data-stu-id="fcb60-p101">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.</span></span> 
+  - <span data-ttu-id="9b775-106">**任何人都**可以讓存取收到此連結，不論其直接從您接收到或從其他人轉寄的人。</span><span class="sxs-lookup"><span data-stu-id="9b775-106">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else.</span></span> <span data-ttu-id="9b775-107">這可能包括組織外的人員。</span><span class="sxs-lookup"><span data-stu-id="9b775-107">This may include people outside of your organization.</span></span> 
     
-  - <span data-ttu-id="fcb60-p102">**特定人員**提供的存取只以人員您指定，但其他人可能已經有存取。人員轉寄共用邀請，如果已經有存取權之項目的人員將能夠使用連結。</span><span class="sxs-lookup"><span data-stu-id="fcb60-p102">**Specific people** gives access only to the people you specify, although other people may already have access. If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
+  - <span data-ttu-id="9b775-108">**特定人員**提供存取給人員只指定，雖然其他人可能已經有存取。</span><span class="sxs-lookup"><span data-stu-id="9b775-108">**Specific people** gives access only to the people you specify, although other people may already have access.</span></span> <span data-ttu-id="9b775-109">如果人員轉寄共用邀請，僅已經有存取權之項目的的人員將能夠使用的連結。</span><span class="sxs-lookup"><span data-stu-id="9b775-109">If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="fcb60-p103">如果其中一個選項無法使用，或者您想要顯示預設的不同的連結類型，您可以變更整個組織的設定值依移至 OneDrive 系統管理中心的左窗格中按一下 [**共用**。[了解更多](https://go.microsoft.com/fwlink/?linkid=871961)</span><span class="sxs-lookup"><span data-stu-id="fcb60-p103">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the OneDrive admin center and clicking **Sharing** in the left pane. [Learn more](https://go.microsoft.com/fwlink/?linkid=871961)</span></span>
+    > <span data-ttu-id="9b775-110">如果其中一個選項無法使用，或者如果您想預設會出現的不同的連結類型，您可以變更您的全組織設定移至 OneDrive 系統管理中心，然後按一下左窗格中的**共用**。</span><span class="sxs-lookup"><span data-stu-id="9b775-110">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the OneDrive admin center and clicking **Sharing** in the left pane.</span></span> [<span data-ttu-id="9b775-111">深入了解</span><span class="sxs-lookup"><span data-stu-id="9b775-111">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. <span data-ttu-id="fcb60-p104">根據預設，**允許編輯**已開啟。如果您想僅檢視您的檔案，請取消勾選核取方塊。</span><span class="sxs-lookup"><span data-stu-id="fcb60-p104">By default, **Allow editing** is turned on. If you want people to only view your files, uncheck the check box.</span></span> 
+4. <span data-ttu-id="9b775-112">根據預設，**允許編輯**已開啟。</span><span class="sxs-lookup"><span data-stu-id="9b775-112">By default, **Allow editing** is turned on.</span></span> <span data-ttu-id="9b775-113">如果您想人只能檢視您的檔案，請取消選取此核取方塊。</span><span class="sxs-lookup"><span data-stu-id="9b775-113">If you want people to only view your files, uncheck the check box.</span></span> 
     
-5. <span data-ttu-id="fcb60-114">若要輸入您想要與共用的人員和訊息的名稱。</span><span class="sxs-lookup"><span data-stu-id="fcb60-114">Enter the names of the people you want to share with and a message, if you want.</span></span>
+5. <span data-ttu-id="9b775-114">如果您想要請輸入您想要與共用的人員和郵件的名稱。</span><span class="sxs-lookup"><span data-stu-id="9b775-114">Enter the names of the people you want to share with and a message, if you want.</span></span>
     
-6. <span data-ttu-id="fcb60-115">當您準備好傳送連結時，按一下 [**傳送**]。</span><span class="sxs-lookup"><span data-stu-id="fcb60-115">When you're ready to send the link, click **Send**.</span></span> 
+6. <span data-ttu-id="9b775-115">當您準備好傳送連結時，請按一下 [**傳送**]。</span><span class="sxs-lookup"><span data-stu-id="9b775-115">When you're ready to send the link, click **Send**.</span></span> 
     
-[<span data-ttu-id="fcb60-116">深入了解</span><span class="sxs-lookup"><span data-stu-id="fcb60-116">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871861)
+[<span data-ttu-id="9b775-116">深入了解</span><span class="sxs-lookup"><span data-stu-id="9b775-116">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871861)
   
 

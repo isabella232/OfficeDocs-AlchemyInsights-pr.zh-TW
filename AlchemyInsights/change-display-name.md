@@ -1,0 +1,35 @@
+---
+title: 959 變更顯示名稱
+ms.author: pdigia
+author: pebaum
+ms.date: 7/17/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.custom: 959
+ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
+description: ''
+ms.openlocfilehash: 81acd9bee4593e60446d1fc2c0422dd1ea306cea
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30773553"
+---
+# <a name="change-your-display-name"></a><span data-ttu-id="e0758-102">變更您的顯示名稱</span><span class="sxs-lookup"><span data-stu-id="e0758-102">Change your display name</span></span>
+  
+<span data-ttu-id="e0758-103">若要變更您在 Outlook 中的顯示名稱，請使用下列步驟。</span><span class="sxs-lookup"><span data-stu-id="e0758-103">To change your display name in Outlook, use the following steps.</span></span>
+  
+1. <span data-ttu-id="e0758-104">在 Outlook 中，選取 [**檔案** \> **帳戶設定** \> **帳戶設定**。</span><span class="sxs-lookup"><span data-stu-id="e0758-104">In Outlook, select **File** \> **Account Settings** \> **Account Settings**.</span></span>
+    
+2. <span data-ttu-id="e0758-105">選取的電子郵件帳戶，然後選取 [**變更**。</span><span class="sxs-lookup"><span data-stu-id="e0758-105">Select the email account and then select **Change**.</span></span>
+    
+    > [!NOTE]
+    > <span data-ttu-id="e0758-106">如果看不到 [若要變更您的顯示名稱] 選項，您可能使用的 Microsoft Exchange 電子郵件帳戶。</span><span class="sxs-lookup"><span data-stu-id="e0758-106">If you do not see the option to change your display name, you are probably using a Microsoft Exchange email account.</span></span> <span data-ttu-id="e0758-107">在此情況下，您必須連絡您的系統管理員，若要變更您的顯示名稱。</span><span class="sxs-lookup"><span data-stu-id="e0758-107">In this case, you need to contact your administrator to change your display name.</span></span> <span data-ttu-id="e0758-108">請參閱[變更的使用者名稱和電子郵件地址中 Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)。</span><span class="sxs-lookup"><span data-stu-id="e0758-108">See [Change a user name and email address in Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).</span></span> 
+  
+3. <span data-ttu-id="e0758-109">您已變更您的顯示名稱之後，按一下 **[確定]** 以儲存變更。</span><span class="sxs-lookup"><span data-stu-id="e0758-109">After you've changed your display name, click **OK** to save your changes.</span></span> <span data-ttu-id="e0758-110">可能需要您的變更以反映在整個組織的幾個小時。</span><span class="sxs-lookup"><span data-stu-id="e0758-110">It can take a few hours for your changes to reflect throughout your organization.</span></span> 
+    
+<span data-ttu-id="e0758-111">如需詳細資訊，請參閱[變更電子郵件收件者查看的顯示名稱](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx)。</span><span class="sxs-lookup"><span data-stu-id="e0758-111">For more information, see [Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span></span>
+  
+

@@ -1,5 +1,5 @@
 ---
-title: 將公用資料夾資料移轉至 Office 365
+title: 將公用資料夾資料移轉到 Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2a9be935-d798-4b5f-a1b8-15b1f25d1451
-ms.openlocfilehash: ac949148ff0af6eeae61914420bf782a4110f562
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0b970917e53fce266e0a16100f3deb869f9f7007
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915075"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754713"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a><span data-ttu-id="3cae2-102">將公用資料夾資料移轉至 Office 365</span><span class="sxs-lookup"><span data-stu-id="3cae2-102">Migrate public folder data to Office 365</span></span>
+# <a name="migrate-public-folder-data-to-office-365"></a><span data-ttu-id="498ba-102">將公用資料夾資料移轉到 Office 365</span><span class="sxs-lookup"><span data-stu-id="498ba-102">Migrate public folder data to Office 365</span></span>
 
-<span data-ttu-id="3cae2-p101">如果您有只有幾個的公用資料夾移至 Office 365，最簡單的方法是將資料複製至 PST 檔案並再匯入 Office 365。真正只有小量的資料，可以有用簡單拖放式至 PST 檔案的公用資料夾。如果您有更多的資訊 (最多 30 GB) 有[記載的程序](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx#PSTMigrate)可用於匯出至 PST 檔案的資料夾。</span><span class="sxs-lookup"><span data-stu-id="3cae2-p101">If you have only a few public folders to move to Office 365, the easiest way is to copy the data into PST files and then import them into Office 365. For a really small amount of data, a simple drag and drop of public folder into a PST file can work. If you have more information (up to 30GB) we have [documented a process](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx#PSTMigrate) you can use to export folders to PST files.</span></span> 
+<span data-ttu-id="498ba-103">如果您有只有少數的公用資料夾移至 Office 365，最簡單的方法是將資料複製到 PST 檔案並再將它們匯入 Office 365。</span><span class="sxs-lookup"><span data-stu-id="498ba-103">If you have only a few public folders to move to Office 365, the easiest way is to copy the data into PST files and then import them into Office 365.</span></span> <span data-ttu-id="498ba-104">真正少量資料，針對 [簡單拖曳和拖放至 PST 檔案的公用資料夾可以運作。</span><span class="sxs-lookup"><span data-stu-id="498ba-104">For a really small amount of data, a simple drag and drop of public folder into a PST file can work.</span></span> <span data-ttu-id="498ba-105">如果您有的詳細資訊 (最多 30 GB) 我們有[所記載的程序](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx#PSTMigrate)可用於匯出至 PST 檔案的資料夾。</span><span class="sxs-lookup"><span data-stu-id="498ba-105">If you have more information (up to 30GB) we have [documented a process](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx#PSTMigrate) you can use to export folders to PST files.</span></span> 
   
-<span data-ttu-id="3cae2-106">會將公用資料夾移至 Office 365 的較大型組織，我們有數個指南提供：</span><span class="sxs-lookup"><span data-stu-id="3cae2-106">For larger organizations that are moving public folders into Office 365, we have several guides available:</span></span>
+<span data-ttu-id="498ba-106">會將公用資料夾移到 Office 365 的大型組織，我們有幾個指南可：</span><span class="sxs-lookup"><span data-stu-id="498ba-106">For larger organizations that are moving public folders into Office 365, we have several guides available:</span></span>
   
-- [<span data-ttu-id="3cae2-107">移轉舊版公用資料夾 (Exchange 2010 及舊版)</span><span class="sxs-lookup"><span data-stu-id="3cae2-107">Migrate legacy public folders (Exchange 2010 and earlier)</span></span>](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx)
+- [<span data-ttu-id="498ba-107">移轉舊版公用資料夾 (Exchange 2010 和更早版本)</span><span class="sxs-lookup"><span data-stu-id="498ba-107">Migrate legacy public folders (Exchange 2010 and earlier)</span></span>](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx)
     
-- [<span data-ttu-id="3cae2-108">將 Exchange 2013 公用資料夾移轉</span><span class="sxs-lookup"><span data-stu-id="3cae2-108">Migrate Exchange 2013 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
+- [<span data-ttu-id="498ba-108">Exchange 2013 公用資料夾移轉</span><span class="sxs-lookup"><span data-stu-id="498ba-108">Migrate Exchange 2013 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
     
-- [<span data-ttu-id="3cae2-109">移轉 Exchange 2016 公用資料夾</span><span class="sxs-lookup"><span data-stu-id="3cae2-109">Migrate Exchange 2016 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
+- [<span data-ttu-id="498ba-109">Exchange 2016 的公用資料夾移轉</span><span class="sxs-lookup"><span data-stu-id="498ba-109">Migrate Exchange 2016 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
     
-<span data-ttu-id="3cae2-110">您也可以[移轉公用資料夾遷移至 Office 365 群組](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx)的選項。</span><span class="sxs-lookup"><span data-stu-id="3cae2-110">You also have the option of [Migrating public folders to Office 365 Groups](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span></span>
+<span data-ttu-id="498ba-110">您也必須[將公用資料夾移轉至 Office 365 群組](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx)的選項。</span><span class="sxs-lookup"><span data-stu-id="498ba-110">You also have the option of [Migrating public folders to Office 365 Groups](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span></span>
   
 
