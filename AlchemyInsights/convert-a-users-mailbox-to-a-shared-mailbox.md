@@ -1,5 +1,5 @@
 ---
-title: 將使用者信箱轉換成共用信箱
+title: 將使用者信箱轉換為共用信箱
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 95ac1ca824458fe215ebbcd09b3e1dfc00338afc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6130d1c73804f4fabf4c6bf449f5b4b0473deb63
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918891"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756945"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="5c4bc-102">將使用者信箱轉換成共用信箱</span><span class="sxs-lookup"><span data-stu-id="5c4bc-102">Convert a user mailbox to a shared mailbox</span></span>
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="0dd57-102">將使用者信箱轉換為共用信箱</span><span class="sxs-lookup"><span data-stu-id="0dd57-102">Convert a user mailbox to a shared mailbox</span></span>
 
-<span data-ttu-id="5c4bc-p101">當您將使用者的信箱轉換成共用信箱時，會保留所有現有的電子郵件和行事曆。僅限現在是在其中數個人員將能夠存取，而不是某個人共用信箱。日後，您可以回到使用者 （私人） 信箱轉換共用的信箱。</span><span class="sxs-lookup"><span data-stu-id="5c4bc-p101">When you convert a user's mailbox to a shared mailbox, all of the existing email and calendar is retained. Only now it's in a shared mailbox where several people will be able to access it instead of one person. At a later date, you can convert a shared mailbox back to a user (private) mailbox.</span></span>
+<span data-ttu-id="0dd57-103">當您將使用者信箱轉換為共用信箱時，會保留所有現有的電子郵件和行事曆。</span><span class="sxs-lookup"><span data-stu-id="0dd57-103">When you convert a user's mailbox to a shared mailbox, all of the existing email and calendar is retained.</span></span> <span data-ttu-id="0dd57-104">僅限現在是都能夠存取而不是一位人員數名人員共用信箱中。</span><span class="sxs-lookup"><span data-stu-id="0dd57-104">Only now it's in a shared mailbox where several people will be able to access it instead of one person.</span></span> <span data-ttu-id="0dd57-105">日後，您可以回到使用者 （私人） 信箱轉換為共用的信箱。</span><span class="sxs-lookup"><span data-stu-id="0dd57-105">At a later date, you can convert a shared mailbox back to a user (private) mailbox.</span></span>
   
-<span data-ttu-id="5c4bc-106">[閱讀更多...]](https://support.office.com/article/2e122487-e1f5-4f26-ba41-5689249d93ba)</span><span class="sxs-lookup"><span data-stu-id="5c4bc-106">[Read more...](https://support.office.com/article/2e122487-e1f5-4f26-ba41-5689249d93ba)</span></span>
+[<span data-ttu-id="0dd57-106">讀取的其他眾多功能...</span><span class="sxs-lookup"><span data-stu-id="0dd57-106">Read more...</span></span>](https://support.office.com/article/2e122487-e1f5-4f26-ba41-5689249d93ba)
   
 

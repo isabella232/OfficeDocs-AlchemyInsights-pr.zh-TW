@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 7dda3aae2e692d9ecf1c83cfe598139a7aba3df4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ce476961ac8126b8de2f63dc52b9ff26d02711b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906435"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760185"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="e2118-102">黑色背景出現，或儲存格格式看起來不正確</span><span class="sxs-lookup"><span data-stu-id="e2118-102">A black background appears, or cell formatting doesn't look right</span></span>
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="0f86a-102">黑色背景出現，或儲存格格式看起來不正確</span><span class="sxs-lookup"><span data-stu-id="0f86a-102">A black background appears, or cell formatting doesn't look right</span></span>
 
-<span data-ttu-id="e2118-p101">在 Excel 2016 可能會看到未預期的黑色背景，或您可能會看到儲存格的格式顯示不正常。這可以將頁首或頁尾新增在整頁模式，並套用圖樣填滿格式的儲存格之後發生。此問題已修正的版本 1708 (建置 8431.2094)。若要修正此問題，更新為最新版本的 Office。選取**檔案** \> **帳戶** \> **更新選項** \> **立即更新**。</span><span class="sxs-lookup"><span data-stu-id="e2118-p101">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly. This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell. This problem was fixed in version 1708 (Build 8431.2094). To fix this, update to the latest version of Office. Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="0f86a-103">在 Excel 2016 中，您可能會看到非預期的黑色背景，或您可能會看到儲存格的格式，顯示不正常。</span><span class="sxs-lookup"><span data-stu-id="0f86a-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="0f86a-104">這可以在整頁模式中新增頁首或頁尾並將圖樣填滿格式套用至儲存格之後發生。</span><span class="sxs-lookup"><span data-stu-id="0f86a-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="0f86a-105">版本 1708 (組建 8431.2094) 已修正此問題。</span><span class="sxs-lookup"><span data-stu-id="0f86a-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="0f86a-106">若要修正此問題，更新為最新版的 Office。</span><span class="sxs-lookup"><span data-stu-id="0f86a-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="0f86a-107">選取**檔案** \> **帳戶** \> **更新選項** \> **立即更新**。</span><span class="sxs-lookup"><span data-stu-id="0f86a-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 
