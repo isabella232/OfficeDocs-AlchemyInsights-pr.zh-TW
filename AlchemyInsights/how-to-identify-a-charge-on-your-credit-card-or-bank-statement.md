@@ -1,5 +1,5 @@
 ---
-title: 如何識別收費信用卡或銀行陳述式
+title: 找出您的信用卡或銀行陳述式的費用方法
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: d349d107642ed042c8878d3703a1def89e2906d5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c698c085fc7d1d62eb5c615061198cd5395fbbab
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936963"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758529"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>如何識別收費信用卡或銀行陳述式
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>找出您的信用卡或銀行陳述式的費用方法
 
-Office 365 訂閱收費描述看起來如下：
+Office 365 訂閱的費用描述看起來像這樣：
   
 MSFT \* E012345ABC 0000-MSBILL.INFO，WA
   
-遵循 MSFT 10 個字元英數字元字串\*是收費與發票數字。尋找發票、 移至 [[帳單](https://go.microsoft.com/fwlink/p/?linkid=848039)] 頁面或選擇 [**計費** \> **帳單**來檢視您最近發票。發票數目是附近發票文件的右上角。 
+下列 MSFT 10 個字元英數字元字串\*是費用與相關的發票號碼。 若要找出電子發票，請移至[帳單](https://go.microsoft.com/fwlink/p/?linkid=848039)頁面，或選擇 [**計費** \> **帳單**若要檢視您最近的發票。 發票號碼是附近發票文件的右上角。 
   
 

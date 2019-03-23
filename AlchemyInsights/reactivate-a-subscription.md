@@ -1,5 +1,5 @@
 ---
-title: 重新啟用訂閱
+title: 重新啟動的訂閱
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: e15b6e7c958d3efdfe8baa21494c356c7b7d7614
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 628115092db868a22e173b5b3b9a1cea852683cd
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209440"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759033"
 ---
-# <a name="reactivate-a-subscription"></a>重新啟用訂閱
+# <a name="reactivate-a-subscription"></a>重新啟動的訂閱
 
-如果您的訂閱過期、 已停用 microsoft 或您取消訂閱字詞中間，您可以在 Microsoft 365 系統管理中心中重新啟用。
+如果您的訂閱到期，因已停用 Microsoft，或您取消訂閱字詞中間，您可以在 Microsoft 365 系統管理中心中重新啟動。
   
-1. 在管理中心中，移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面或選擇 [**計費** \> **訂閱**。
+1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
 2. 選擇您想要重新啟用，然後選擇 [**重新啟用**的訂閱。
     
-    如果看不**重新啟用**為可用的動作，使用 「 我們呼叫您"選項與重新啟動您的訂閱支援工程師對話。 
+    如果您看不到**重新啟用**可用的動作，請連絡支援工程師重新啟動您的訂閱使用 」 讓我們撥話給您 」 選項。 
     
-3. 輸入付款詳細資料。您可以更新現有付款資訊此處。
+3. 輸入您的付款詳細資料。 您可以更新您現有的付款資訊以下。
     
 

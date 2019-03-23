@@ -1,28 +1,33 @@
 ---
-title: 存取電子郵件時取得 TenantAccessBlockedException 錯誤？
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/21/2017
-ms.audience: ITPro
+title: 127 存取電子郵件時，收到 TenantAccessBlockedException 錯誤？
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: e473a74523c927fca2ab3087d382543890766981
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.collection: Adm_O365
+ms.custom:
+- "127"
+- "128"
+ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
+ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912015"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754245"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>存取電子郵件時取得 TenantAccessBlockedException 錯誤？
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>存取電子郵件時，請取得 TenantAccessBlockedException 錯誤？
 
-有幾個不同的原因為何您可能會收到的錯誤訊息的封鎖存取您的租用戶。若要修正此問題，您可嘗試下列步驟：
+有幾個不同的原因為何您可能會收到此錯誤。 例如：
   
-- 檢查您的訂閱是有效[的訂閱](https://admin.microsoft.com/adminportal/home#/subscriptions)」 頁面上。 
+- 確認您的訂閱是適用於 live @**帳單** \> **訂閱**] 頁面上，在 Microsoft 365 系統管理中心 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions)。
     
-- 檢查 [[計費](https://admin.microsoft.com/adminportal/home#/billoverview)] 頁面上的任何會費過去在您的帳戶。 
+- 檢查是否有任何逾期中的 **[帳單**通知\>**帳單**] 頁面上，在 Microsoft 365 系統管理中心 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview)。
     
-- 如果您的帳戶順序現在，但是最近已變更，則可能需要一些時間的變更傳播至所有伺服器。試試看另一個在幾分鐘，以及如果問題仍然存在，請與我們連絡。
+- 帳務和訂閱帳戶最近已更新，那麼就會花時間，變更才會傳播。 再試一次在幾分鐘，以及如果問題仍然存在，請與我們連絡。
     
 

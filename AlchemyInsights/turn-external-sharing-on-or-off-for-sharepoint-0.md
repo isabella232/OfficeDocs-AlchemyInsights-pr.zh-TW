@@ -1,5 +1,5 @@
 ---
-title: 開啟外部的 SharePoint 共用開啟或關閉
+title: 開啟外部共用 SharePoint 開啟或關閉
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 1e1e80839b167fc7c99ad94daca10c9affa427a1
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: e966b80c8709ae24b9600b63e089d8ca06c1e131
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209764"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758637"
 ---
-# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>開啟外部的 SharePoint 共用開啟或關閉
+# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>開啟外部共用 SharePoint 開啟或關閉
 
 1. 在 Microsoft 365 系統管理中心，移至[服務&amp;增益集] 頁面上](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)，並按一下 [**網站**]。
     
-2. 開啟或關閉、 開啟設定或如果它開啟選取共用選項。
+2. 開啟設定，或關閉，或如果它已開啟，請選取 [共用] 選項。
     
 > [!NOTE]
-> 關閉 sharepoint 共用關閉它 OneDrive。若要允許外部共用任何網站上，在整個組織設定必須位於上。若要允許外部 OneDrive 或任何個別的 SharePoint 網站、 共用 > 您必須加以開啟全組織 for SharePoint。您可以再關閉它的特定網站集合。若要管理共用設定外部通訊的網站與 Office 365 群組所屬的網站，您需要使用新的 SharePoint 系統管理中心 （預覽） 或 PowerShell。如需管理外部的共用設定的詳細資訊，請參閱[開啟外部共用開啟或關閉](https://go.microsoft.com/fwlink/?linkid=866426)。 
+> 關閉共用 SharePoint 關閉其 onedrive。 若要允許的外部共用在任何網站上，您的全組織的設定必須位於。 > 可允許外部共用 OneDrive 或任何個別的 SharePoint 網站，您必須將它開啟全組織的 SharePoint。 您可以再將它關閉特定網站集合。 若要管理通訊網站和網站隸屬於 Office 365 群組的外部共用設定，您需要使用新的 SharePoint 系統管理中心 （預覽） 或 PowerShell。 如需管理外部共用設定的詳細資訊，請參閱[開啟或關閉外部共用](https://go.microsoft.com/fwlink/?linkid=866426)。 
   
 [深入了解在 SharePoint 中的外部共用](https://go.microsoft.com/fwlink/?linkid=734908)
   

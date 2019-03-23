@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c0fde770-ba1d-4aeb-8c9a-83b646fc80ce
-ms.openlocfilehash: 443bc10ce0e8d9d6aa78a043357e0f5ed1a6f065
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a29d55b634cae68d859010c1099baab4c516c203
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900279"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754569"
 ---
 # <a name="delete-a-sharepoint-page"></a>刪除 SharePoint 頁面
 
-1. 移至 [] 頁面上的所在的網站。
+1. 移至 [] 頁面上所在的網站。
     
 2. 在左側，按一下 [**網站內容**]。 
     
-3. 在 [網站內容] 頁面的左側，按一下 [**頁面**]。 
+3. 在 [網站內容] 頁面上的左側，按一下 [**頁面**]。 
     
-4. 選取 [] 頁面上，然後按一下 [頁面的右邊的**省略符號 （...）** 。 
+4. 選取 [] 頁面，然後按一下 [頁面的右邊的**省略符號 （...）** 。 
     
 5. 按一下 [* * 刪除 * *。 
     

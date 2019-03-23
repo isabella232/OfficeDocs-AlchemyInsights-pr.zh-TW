@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: 8239f72c41c45b42b467c05e249b284e0a2c1afb
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: cd40d53606d857eee3a02277b7c1266e0e15f28e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208252"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753198"
 ---
 # <a name="restore-a-deleted-onedrive"></a>還原已刪除的 OneDrive
 
-刪除使用者之後，您可以透過 Microsoft 365 系統管理中心存取使用者的 OneDrive，30 天的項目。其他使用者仍可繼續存取共用的內容的 onedrive for OneDrive 系統管理中心中已設定的時間長度。（若要了解如何將此設定，請參閱[設定預設檔案的保留已刪除的 OneDrive 使用者](https://go.microsoft.com/fwlink/?linkid=874267)）。之後的時間、 OneDrive 已移至資源回收筒 93 天，且再將其刪除。
+在刪除使用者之後，您可以透過 Microsoft 365 系統管理中心存取使用者的 OneDrive，30 天的項目。 其他使用者可繼續存取您已在 OneDrive 系統管理中心中設定的時間長度 OneDrive 中的共用的內容。 （若要了解如何將此設定，請參閱[設定預設檔案保留已刪除的 OneDrive 使用者](https://go.microsoft.com/fwlink/?linkid=874267)）。在該時間之後 OneDrive 93 天內，移至 [資源回收筒]，然後將它刪除。
   
-初始 30 天後，時已刪除的使用者不會再出現在 Microsoft 365 系統管理中心內，您可以透過 PowerShell 存取使用者的 OneDrive。資訊，請參閱[還原已刪除的 OneDrive](https://go.microsoft.com/fwlink/?linkid=874269)。
+初始 30 天之後，當已刪除的使用者不會再出現在 Microsoft 365 系統管理中心中，您可以透過 PowerShell 存取使用者的 OneDrive。 如需資訊，請參閱[還原已刪除的 OneDrive](https://go.microsoft.com/fwlink/?linkid=874269)。
   
 

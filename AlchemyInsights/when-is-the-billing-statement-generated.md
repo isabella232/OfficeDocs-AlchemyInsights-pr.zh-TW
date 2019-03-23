@@ -1,5 +1,5 @@
 ---
-title: 產生帳務陳述式的時機
+title: 何時產生帳單明細？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: dd4152d2942e93b1fa4d291fcead2266b9e31e91
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 911d4a61ebdfc8b7c1ff084cba268b0509b59955
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208324"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755793"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>產生帳務陳述式的時機
+# <a name="when-is-the-billing-statement-generated"></a>當產生帳單明細
 
-每個月會收到將會告訴您新計費 Microsoft 365 系統管理中心中是可用的電子郵件。您的發票包含兩個頁面。第 1 頁摘要、 發票且包含發票、 order、 量到期如何讓付款以及如何連絡支援人員的一般資訊。第 2 頁包含計費活動的每一個訂閱詳細資料。
+每個月，您會收到一封電子郵件，告訴您，新帳單明細均提供 Microsoft 365 系統管理中心。 您的帳單包含兩頁。 第 1 頁是帳單摘要，且包含有關帳單、 訂單、 應付金額、 付款，以及如何連絡技術支援的一般資訊。 第 2 頁包含每個訂閱的帳單活動詳細資料。
   
-若要深入了解帳務概念，請參閱[了解您發票](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507)。
+若要深入了解帳單概念，請參閱[了解帳單](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507)。
   
 

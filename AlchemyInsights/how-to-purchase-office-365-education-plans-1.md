@@ -1,5 +1,5 @@
 ---
-title: 如何購買 Office 365 教育版計劃
+title: 如何購買 Office 365 教育版方案
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 264121f762e6ec86949fcd1c2baa89d1e38f7d8c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e7320ef0d75655e89bb01c4b47326e051878a296
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29934839"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765799"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>如何購買 Office 365 教育版計劃
+# <a name="how-to-purchase-office-365-education-plans"></a>如何購買 Office 365 教育版方案
 
-我們檢閱您的要求，並決定此組織不是以 Microsoft 合格 Academic 機構合格。您目前 academic 試用版產品項目即將到期的試用期結尾處。
+我們檢閱您的要求，並決定此組織並不合格為 Microsoft 完整 Academic 機構。 您目前的 academic 試用版提供將過期的試用期結尾處。
   
-商業上購買 Office 365，請參閱[可用的產品項目](https://go.microsoft.com/fwlink/p/?linkid=868433)。
+若要進行商業購買 Office 365，請參閱[可用產品項目](https://go.microsoft.com/fwlink/p/?linkid=868433)。
   
 

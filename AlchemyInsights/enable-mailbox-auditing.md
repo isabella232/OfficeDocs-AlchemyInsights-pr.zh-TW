@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 3a7ffccadf6b415f7dd0d0871d368402332a0cd7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 81041685cf383a231a9a9739d6daffd6039b4602
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916731"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757809"
 ---
 # <a name="enable-mailbox-auditing"></a>啟用信箱稽核
 
-單一使用者或整個組織啟用信箱稽核必須從遠端 Power 命令介面執行下列 cmdlet：
+若要啟用單一使用者或整個組織的信箱稽核，必須從 Power 的遠端命令介面執行下列 cmdlet:
   
  **單一使用者**
   
@@ -28,7 +28,7 @@ Set-mailbox-Identity"Jane Dow"-AuditEnabled $true
   
  **組織**
   
-Get-mailbox ResultSize 不受限制-篩選 {RecipientTypeDetails-eq"UserMailbox"} |Set-mailbox AuditEnabled $true
+Get-mailbox ResultSize Unlimited-篩選 {RecipientTypeDetails-eq"UserMailbox"} |Set-mailbox-AuditEnabled $true
   
 [深入了解](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
   

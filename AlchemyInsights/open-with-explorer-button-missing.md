@@ -1,5 +1,5 @@
 ---
-title: 開啟瀏覽器] 按鈕遺失
+title: 開啟檔案總管] 按鈕遺失
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
-ms.openlocfilehash: 321bc01462306f85d21b028a321875eb6e64fbe4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ff1a135cc9c93ea00019d3e6646998d46dbd720f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912105"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759141"
 ---
-# <a name="the-open-with-explorer-button-is-missing"></a>開啟瀏覽器] 按鈕會遺失
+# <a name="the-open-with-explorer-button-is-missing"></a>使用檔案總管] 按鈕開啟遺漏
 
-[**檔案總管中開啟**] 按鈕不會出現在 SharePoint 和 OneDrive 的現代經驗。若要在檔案總管] 中開啟文件庫，並瀏覽至 Internet explorer 並選取 [檢視] 功能表\>**檔案總管] 中的檢視**。無法使用 Microsoft Edge、 Google Chrome 或 Firefox 中**檔案總管] 中的檢視**選項。 
+[**檔案總管中開啟**] 按鈕不會出現在 SharePoint 和 OneDrive 的新式體驗。 若要在檔案總管中開啟的文件庫，瀏覽至其在 Internet Explorer 中，然後選取 [檢視] 功能表\>**檔案總管] 中的檢視**。 無法使用 Microsoft Edge、 Google Chrome 或 Firefox 中**檔案總管] 中的檢視**選項。 
   
 > [!NOTE]
-> 開啟瀏覽器支援只能透過 Internet Explorer。而是[同步處理 SharePoint 檔案與新 OneDrive sync 用戶端](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx)會提供[檔案隨選](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)。存取您所有的 onedrive 的檔案而不需使用本機儲存空間。 
+> 只有透過 Internet Explorer 支援檔案總管中的開啟。 相反地，[同步處理 SharePoint 檔案與新的 OneDrive 同步處理用戶端](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx)提供[檔案隨選](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)。 存取您在 OneDrive 中的所有檔案，而不使用本機儲存空間。 
   
 
