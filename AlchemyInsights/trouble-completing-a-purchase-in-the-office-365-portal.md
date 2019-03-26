@@ -1,5 +1,5 @@
 ---
-title: 完成購買 Office 365 入口網站中的問題
+title: 無法在 Office 365 入口網站完成購買
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 3933a621a50812f2e03813664c36cca1a5e23a4f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 2364912c0753d649536e3d98c358ed4c726dbfad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405134"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754749"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a><span data-ttu-id="cde71-102">完成購買 Office 365 入口網站中的問題</span><span class="sxs-lookup"><span data-stu-id="cde71-102">Trouble completing a purchase in the Office 365 portal</span></span>
+# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a><span data-ttu-id="14101-102">無法在 Office 365 入口網站完成購買</span><span class="sxs-lookup"><span data-stu-id="14101-102">Trouble completing a purchase in the Office 365 portal</span></span>
 
-<span data-ttu-id="cde71-p101">當嘗試進行購買，如果已被系統提示您多次登入 Office 365 入口網站，或您收到訊息，找不到問題，最佳的第一個步驟是嘗試使用您的瀏覽器 inprivate/incognito 模式。之後開啟 [inprivate/incognito 視窗，移至[portal.office.com](https://portal.office.com)網站並登入您的系統管理員認證。然後繼續完成購買。</span><span class="sxs-lookup"><span data-stu-id="cde71-p101">When attempting to make a purchase, if you've been prompted multiple times to sign in to the Office 365 portal, or you receive a message that an issue was found, the best first step is to try using your browser's inprivate/incognito mode. After opening an inprivate/incognito window, go to the [portal.office.com](https://portal.office.com) site and log in with your admin credentials. Then proceed to complete your purchase.</span></span> 
+<span data-ttu-id="14101-103">嘗試進行購買時，如果系統已多次提示您登入 Office 365 入口網站，或您收到發現問題的訊息，請先使用瀏覽器的 InPrivate/無痕模式。</span><span class="sxs-lookup"><span data-stu-id="14101-103">When attempting to make a purchase, if you've been prompted multiple times to sign in to the Office 365 portal, or you receive a message that an issue was found, the best first step is to try using your browser's inprivate/incognito mode.</span></span> <span data-ttu-id="14101-104">開啟 InPrivate/無痕視窗後，移至 [portal.office.com](https://portal.office.com) 網站並使用您的系統管理員認證登入。</span><span class="sxs-lookup"><span data-stu-id="14101-104">After opening an inprivate/incognito window, go to the [portal.office.com](https://portal.office.com) site and log in with your admin credentials.</span></span> <span data-ttu-id="14101-105">然後繼續完成購買。</span><span class="sxs-lookup"><span data-stu-id="14101-105">Then proceed to complete your purchase.</span></span> 
   
 
