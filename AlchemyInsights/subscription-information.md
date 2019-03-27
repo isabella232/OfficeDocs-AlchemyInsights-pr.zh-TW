@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: e8ce1a06ba230b6907e1e3cc7dfdc829ab8b49cf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a90c9b76d5ad80508d1e38fabe21eb944fe9681e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905175"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766663"
 ---
 # <a name="subscription-information"></a>訂閱資訊
 
-訂閱的相關資訊的您擁有、 移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面或選擇 [**計費** \> **訂閱**。
+如需有關訂用帳戶資訊您擁有、 移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上，或選擇 [**計費** \> **訂用帳戶**。
   
-每一個訂閱的重要資訊：
+每個訂閱的相關的重要資訊：
   
 - 每個狀態
     
 - 購買的授權
     
-- 指定授權
+- 指派授權
     
-- 週期性帳務狀態
+- 週期性的帳單狀態
     
 - 達到負載平衡
     
-- 付款方法
+- 付款方式
     
-- 下一個帳單到期日期
+- 下一步的帳單或到期日期
     
 

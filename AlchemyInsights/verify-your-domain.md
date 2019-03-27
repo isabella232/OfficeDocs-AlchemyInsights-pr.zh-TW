@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 7332650d1763e2bbd13be48f406fb04b8849a6c1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d215f3af0cf4b46b12c8cb51a9572adb00f354e4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911223"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766338"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 
- **可能是尚未更新記錄在網際網路。**
+ **記錄可能尚未在網際網路上更新。**
   
-它通常只需幾分鐘，讓我們能夠將新的記錄，請參閱 ＜ 但是有時可能需要幾個小時只要。 
+它通常只需幾分鐘，我們會看到新的記錄，但有時可能需要長達幾個小時。 
   
-- 如果您已所等待的時間已經，再次檢查您是否已複製並貼到 TXT 驗證記錄的實際值在您 DNS 主機。不包括一個的一般問題"MS ="之記錄的一部分。我們太需要的 ！
+- 如果您已所等待的時間已，再次檢查您是否已複製並貼入 TXT 驗證記錄中的實際值，在您的 DNS 主機。 常見的問題是記錄中未包含 "MS="。 我們也需要這個！
     
-- 在某些 DNS 主機，您必須採取額外的步驟來儲存區域檔案 （的 DNS 記錄儲存） 如此將會更新經由網際網路。請確定您已儲存您的變更，讓 Office 365 可以看到並確認該記錄。
+- 在某些 DNS 主機中，您還需要額外採取一個步驟來儲存區域檔案 (DNS 記錄的儲存位置)，以便在網際網路上更新該檔案。 請確定已儲存您的變更，如此 Office 365 才可以看到並驗證記錄。
     
 

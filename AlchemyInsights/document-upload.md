@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: 58339542cd1530c912c9c7e37bbc18960aa32691
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 960331625e01a4b6ec71cf09184cfdde8f9e4bde
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905715"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766195"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>檔案上傳至 onedrive for SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>將檔案上傳至 OneDrive 或 SharePoint
 
-1. 在網頁瀏覽器中移至您要上傳檔案的位置。
+1. 在網頁瀏覽器，移至您要上傳檔案的位置。
     
-2. 開啟檔案總管] 並瀏覽至您要上傳的檔案。
+2. 開啟 [檔案總管，瀏覽至您要上傳的檔案。
     
-3. 選取的檔案並將其拖曳至 onedrive for SharePoint 中的位置。請注意： 如果您使用 Microsoft Edge、 Mozilla FireFox 或 Google Chrome，您也可以上載資料夾及中的所有檔案。
+3. 選取檔案，並將其拖曳到 OneDrive 或 SharePoint 中的位置。 附註： 如果您使用 Microsoft Edge、 Mozilla FireFox 或 Google Chrome，您也可以上載資料夾及其中的所有檔案。
     
 > [!NOTE]
->  您可以上傳檔案大小中最多 15 GB。> （包括檔案名稱） 檔案的完整路徑不能超過 400 個字元長。如果您要上傳 100 個以上的檔案、[使用 OneDrive sync 用戶端](https://go.microsoft.com/fwlink/?linkid=866427)>。 
+>  您可以上傳檔案大小的最多 15 GB。 > （包括檔案名稱） 檔案的完整路徑不能有超過 400 個字元的長度。 如果您要上傳 100 個以上的檔案，[使用 OneDrive 同步處理用戶端](https://go.microsoft.com/fwlink/?linkid=866427)>。 
   
 
