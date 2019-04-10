@@ -1,5 +1,5 @@
 ---
-title: 如何使用 SharePoint Online 字詞儲存區
+title: 如何使用 SharePoint Online 字詞庫
 ms.author: kirks
 author: Techwriter40
 ms.date: 12/17/2018
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: a1eb23c097e8540856df9d350798a0cdfeb73f15
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ac2e27eac4110def1ab91e5124b21b216ddbc178
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932463"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747661"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>如何使用 SharePoint Online 字詞儲存區
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>如何使用 SharePoint Online 字詞庫
 
-字詞庫已可供 Office 365 全域管理員、 SharePoint 管理及字詞儲存區管理員及可在傳統的 SharePoint Online 系統管理中心中找到。 
+術語存放區可用於 Office 365 全域系統管理員、 SharePoint 系統管理員和字詞儲存區系統管理員，並在新的 SharePoint Online 系統管理中心中，可以找到。 
   
-如需如何使用 SharePoint Online 字詞儲存區與分類內 SharePoint Online 的詳細資訊，請參閱 ＜ [Introduction to 受管理的中繼資料](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)。
+如需有關如何使用 SharePoint Online 字詞庫及分類內 SharePoint Online 的詳細資訊，請參閱 < <b0>Introduction to 受管理的中繼資料</b0>。
   
-期間若發生問題沒有出現或間歇性出現的詞彙，建議您等候 24 小時及支援要求如果問題仍然存在然後記錄。即使 24 小時可以很長的時間，可能是快取問題或我們可能已在此問題的解決方案上運作。
+如果您遇到此問題： 未出現，或出現間歇性地，我們建議您請等候 24 小時，如果問題仍然存在，然後再登支援要求的字詞。 即使 24 小時可能很長的時間，可能的快取問題或建議可能已經處理這個問題的解決方案。
   
 

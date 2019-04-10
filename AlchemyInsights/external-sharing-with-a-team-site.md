@@ -8,27 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 8753cb5595607a7ea63e1861affcd16d61e7827e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cc5f917522f31349c48c8232496dc862d6769539
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936267"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747481"
 ---
 # <a name="external-sharing-with-a-team-site"></a>外部共用與小組網站
 
-若要開啟共用之小組網站的外部使用者，請遵循下列步驟： 
+若要開啟外部共用的小組網站的使用者，請遵循下列步驟： 
   
-1. 開啟 **（現代） 系統管理中心**-如果您正處於傳統系統管理中心您會看見來自右上方**請試著其立即**或**預覽**] 按鈕。這將會前往 （現代） 系統管理中心。 
+1. 在新的 SharePoint 系統管理中心中，按一下 [**作用中網站**。
   
-2. 選取 [**使用中網站**。 
+2. 選取具有**小組網站**範本的網站。 
   
-3. 選取 [**小組網站**範本的網站。 
+3. 從頂端功能表中選取 [**共用**] 按鈕。 
   
-4. 從上方的功能表中選取 [**共用**] 按鈕。 
+ **附註**： 根據預設，當建立新式小組網站時，外部共用選項應會設新增和現有的外部使用者。 
   
- **請注意**： 根據預設時建立摩登的小組網站、, 共用選項將會設定外部新增和現有的外部使用者。 
-  
- **附註：** 如果您有多個選取的網站，會顯示已停用 [**共用**] 按鈕。選取 [只有一個網站]。 
+ **附註：** 如果您有多個選取的站台時，[**共用**] 按鈕會出現已停用。 選取 [只有一個站台。 
   
 

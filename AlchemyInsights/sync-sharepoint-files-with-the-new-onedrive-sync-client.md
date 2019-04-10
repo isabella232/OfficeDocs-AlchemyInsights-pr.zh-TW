@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: f410e09f2ef7acee9b24686193a7ce6fb6ab706b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755037"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747337"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>將 SharePoint 檔案與新的 OneDrive 同步處理用戶端同步
 
-1. 在傳統 SharePoint 系統管理中心，選取 [設定]****。
+1. 在新 SharePoint 系統管理中心，選取 [設定]****。
     
 2. 確認 [OneDrive 同步處理按鈕] 已設定為 [顯示同步處理按鈕]。
     

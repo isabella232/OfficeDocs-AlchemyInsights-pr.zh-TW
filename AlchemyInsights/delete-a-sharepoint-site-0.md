@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754641"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747985"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>刪除網站隸屬於 Office 365 群組：
 
-當使用者從 SharePoint 首頁建立新的小組網站 （或從新的 SharePoint 系統管理中心預覽建立新的小組網站） 時，會自動建立對應的 Office 365 群組。 當您在 Microsoft Teams 中建立 Office 365 群組或小組，也會建立 office 365 群組連線的小組網站。 若要刪除屬於 Office 365 群組的 SharePoint 網站，您需要刪除 Office 365 群組本身。 
+當使用者從 SharePoint 首頁建立新的小組網站或從新的 SharePoint 系統管理中心建立新的小組網站時，會自動建立對應的 Office 365 群組。 當您在 Microsoft Teams 中建立 Office 365 群組或小組，也會建立 office 365 群組連線的小組網站。 若要刪除屬於 Office 365 群組的 SharePoint 網站，您需要刪除 Office 365 群組本身。 
   
 1. 移至[Microsoft 365 系統管理中心的 [群組] 頁面](https://portal.office.com/adminportal/home#/groups)。
     
@@ -40,11 +40,11 @@ ms.locfileid: "30754641"
   
 **刪除 SharePoint 網站集合：**
 
-若要刪除傳統網站集合：
+若要刪除網站：
   
-1. 在傳統 SharePoint 系統管理中心中，在網站集合] 頁面上，選取網站集合旁的**核取方塊**。 
+1. 在新 SharePoint 系統管理中心中，在 [網站] 頁面上，按一下您想要刪除的網站旁的**核取方塊**。 
     
-2. 在 [網站集合] 索引標籤上選取 [**刪除。**
+2. 在功能區] 工具列中，按一下 [**刪除。**
     
 **意外刪除網站？**
 

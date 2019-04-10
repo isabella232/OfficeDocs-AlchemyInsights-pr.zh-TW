@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761192"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747301"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>管理您的 SharePoint 或 OneDrive 儲存空間
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761192"
   
 對大多數的組織而言，，，您不需要設定每個網站集合的限制，是自動管理 SharePoint 儲存空間。 若要檢查您有多少 SharePoint 儲存空間：
   
-- 在傳統 SharePoint 系統管理中心中，在右上角的網站集合] 頁面上，尋找您可以使用與總計的儲存區。
+- 在新 SharePoint 系統管理員中心] 中的右上角的網站] 頁面上，尋找您可以使用與總計的儲存區。
     
 如需您限制的計算方式的資訊，請參閱 < <b0>SharePoint Online 限制</b0>。 若要購買額外儲存空間，請參閱[變更您訂閱的儲存空間](https://go.microsoft.com/fwlink/?linkid=866428)。
   
