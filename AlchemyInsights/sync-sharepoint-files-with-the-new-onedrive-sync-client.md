@@ -11,26 +11,26 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: f410e09f2ef7acee9b24686193a7ce6fb6ab706b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755037"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747337"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a><span data-ttu-id="81d7b-102">將 SharePoint 檔案與新的 OneDrive 同步處理用戶端同步</span><span class="sxs-lookup"><span data-stu-id="81d7b-102">Sync SharePoint files with the new OneDrive sync client</span></span>
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a><span data-ttu-id="fc766-102">將 SharePoint 檔案與新的 OneDrive 同步處理用戶端同步</span><span class="sxs-lookup"><span data-stu-id="fc766-102">Sync SharePoint files with the new OneDrive sync client</span></span>
 
-1. <span data-ttu-id="81d7b-103">在傳統 SharePoint 系統管理中心，選取 [設定]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="81d7b-103">In the classic SharePoint admin center, select **sharing** in the left pane.</span></span>
+1. <span data-ttu-id="fc766-103">在新 SharePoint 系統管理中心，選取 [設定]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="fc766-103">In the classic SharePoint admin center, select **settings**.</span></span>
     
-2. <span data-ttu-id="81d7b-104">確認 [OneDrive 同步處理按鈕] 已設定為 [顯示同步處理按鈕]。</span><span class="sxs-lookup"><span data-stu-id="81d7b-104">Make sure "OneDrive Sync Button" is set to "Show the Sync button."</span></span>
+2. <span data-ttu-id="fc766-104">確認 [OneDrive 同步處理按鈕] 已設定為 [顯示同步處理按鈕]。</span><span class="sxs-lookup"><span data-stu-id="fc766-104">Make sure "OneDrive Sync Button" is set to "Show the Sync button."</span></span>
     
-3. <span data-ttu-id="81d7b-105">針對 [SharePoint 同步處理用戶端]，請選取 [開始新的用戶端]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="81d7b-105">For "Sync Client for SharePoint," select **Start the new client**.</span></span>
+3. <span data-ttu-id="fc766-105">針對 [SharePoint 同步處理用戶端]，請選取 [開始新的用戶端]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="fc766-105">For "Sync Client for SharePoint," select **Start the new client**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="81d7b-106">如果未出現此選項，表示貴組織已設定使用新版 OneDrive 同步處理用戶端來同步處理 SharePoint 檔案。</span><span class="sxs-lookup"><span data-stu-id="81d7b-106">If this option doesn't appear, your organization is already set up to use the new OneDrive sync client to sync SharePoint files.</span></span> 
+    > <span data-ttu-id="fc766-106">如果未出現此選項，表示貴組織已設定使用新版 OneDrive 同步處理用戶端來同步處理 SharePoint 檔案。</span><span class="sxs-lookup"><span data-stu-id="fc766-106">If this option doesn't appear, your organization is already set up to use the new OneDrive sync client to sync SharePoint files.</span></span> 
   
-4. <span data-ttu-id="81d7b-107">按一下 [確定]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="81d7b-107">Click **OK**.</span></span>
+4. <span data-ttu-id="fc766-107">按一下 [確定]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="fc766-107">Click **OK**.</span></span>
     
-<span data-ttu-id="81d7b-108">如需詳細資訊，請參閱[讓使用者以新版 OneDrive 同步處理用戶端對 SharePoint 檔案進行同步處理](https://go.microsoft.com/fwlink/?linkid=866433)。</span><span class="sxs-lookup"><span data-stu-id="81d7b-108">[Enable users to sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866433)</span></span> <span data-ttu-id="81d7b-109">如需給予使用者的指示，請參閱[使用新版 OneDrive 同步處理用戶端對 SharePoint 檔案進行同步處理](https://go.microsoft.com/fwlink/?linkid=866427) (機器翻譯)。</span><span class="sxs-lookup"><span data-stu-id="81d7b-109">For instructions to give to your users, see [Sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span>
+<span data-ttu-id="fc766-108">如需詳細資訊，請參閱[讓使用者以新版 OneDrive 同步處理用戶端對 SharePoint 檔案進行同步處理](https://go.microsoft.com/fwlink/?linkid=866433)。</span><span class="sxs-lookup"><span data-stu-id="fc766-108">For more info, see [Enable users to sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866433).</span></span> <span data-ttu-id="fc766-109">如需給予使用者的指示，請參閱[使用新版 OneDrive 同步處理用戶端對 SharePoint 檔案進行同步處理](https://go.microsoft.com/fwlink/?linkid=866427) (機器翻譯)。</span><span class="sxs-lookup"><span data-stu-id="fc766-109">For instructions to give to your users, see [Sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span>
   
 
