@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1081
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 3c8defa2a49682011a58854f49e8d065555b5c5d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: f2fcaac1d841a673e16c7105d98541d22506f1be
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772643"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858051"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>建立及管理會議室信箱
 
 若要建立及修改會議室信箱，請參閱[建立及管理會議室信箱](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)。
-  
-若要深入了解關於會議室與設備信箱 （也稱為資源信箱） 的詳細資訊，請參閱[會議室與設備信箱](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx)。
-  
 
+若要深入了解關於會議室與設備信箱 （也稱為資源信箱） 的詳細資訊，請參閱[會議室與設備信箱](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx)。

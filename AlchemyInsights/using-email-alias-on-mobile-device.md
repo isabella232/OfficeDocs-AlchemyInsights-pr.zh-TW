@@ -11,17 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 725
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 9fc309c8749af81f378ce51bcd65fa8e8021c465
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 4a8d5baa9f917339277b01c6560356ca3cad1c0b
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785628"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858483"
 ---
 # <a name="email-aliases-on-mobile-devices"></a>在行動裝置上的電子郵件別名
 
 電子郵件別名是另一個信箱設定的電子郵件地址，讓郵件傳送給使用者的別名將會傳遞至其信箱，將讀取其行動裝置上。 需要進行其他設定。
-  
-但是，使用者無法回覆郵件，或傳送新郵件使用的別名做為其從地址。 所有外寄郵件會從他們的主要電子郵件地址。
-  
 
+但是，使用者無法回覆郵件，或傳送新郵件使用的別名做為其從地址。 所有外寄郵件會從他們的主要電子郵件地址。
