@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 610
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 3e054959355739686a348f36158c29f88e339b98
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 3e643745ec178217714fb111d2f822880879baec
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773658"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859635"
 ---
 # <a name="learn-about-office-365-groups"></a>了解 Office 365 群組
 
 如需詳細資訊，請參閱 <<c0>了解 Office 365 群組。
-  
-
