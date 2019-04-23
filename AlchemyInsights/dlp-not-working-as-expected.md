@@ -1,5 +1,5 @@
 ---
-title: DLP 未運作如預期般運作
+title: DLP 未如預期般運作
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,38 +10,38 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 1e5ff53d903a14064147621df0a883152c32eff5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6d8e3e540494e99e42f04080681f46324f2936bd
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919647"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869550"
 ---
-# <a name="dlp-not-working-as-expected"></a>DLP 未運作如預期般運作
+# <a name="dlp-not-working-as-expected"></a>DLP 未如預期般運作
 
 
-您已在 Office 365 中無法運作如預期般運作有**資料遺失防護 (DLP)** 的問題嗎？若是如此，請確定您的**DLP 原則**已設定正確，與您的資料包含哪些**DLP 原則**尋找時所評估。 
+您有問題**的資料外洩防護 (DLP)** 未如預期般運作的 Office 365 中？ 如果是的話，請確定您的**DLP 原則**設定正確，以及您的資料包含哪些**DLP 原則**會尋找時進行評估。 
   
  **DLP 設定：**
   
-DLP 原則可讓您識別並保護組織中的機密資訊。若要設定 DLP 原則、 使用的資訊[如下](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)。
+DLP 原則可讓您識別和保護您的組織中的敏感資訊。 若要設定 DLP 原則，請使用資訊[以下](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)。
   
- **尋找 DLP 原則：**
+ **查看哪些 DLP 原則：**
   
-在 Office 365 安全性和規範中心使用**內建的敏感資訊類型**、 時 DLP 原則尋找特定模式和項目時偵測這些機密的類型。 
+當使用**內建的敏感資訊類型**在 Office 365 安全性與合規性中心，DLP 原則查看特定模式和項目時偵測這些敏感類型。 
   
 - **內建的敏感資訊類型：**
     
-    如需內建的機密類型及新 DLP 原則會尋找偵測敏感類型時，請參閱：[尋找敏感資訊類型](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)。
+    如需內建的敏感類型和功能的 DLP 原則會尋找時偵測敏感類型的資訊，請參閱：[敏感資訊類型在找什麼](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)。
     
-- **自訂的敏感資訊類型：**
+- **自訂機密資訊類型：**
     
-    如果您嘗試建立自訂的敏感資訊類型，如需如何建立自訂的機密類型中使用下列文章：[建立自訂的敏感資訊類型](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)。
+    如果您想要建立自訂機密資訊類型，如需如何建立自訂的敏感類型中使用下列文章：[建立自訂機密資訊類型](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)。
     
  **報告：**
   
-- 取得與機密資料前瞻[DLP 報告。](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
+- 取得與敏感資料見解[DLP 報告。](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
     
-- 查看搭配[附隨報告](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports)事件的特定詳細的資料。
+- 請參閱 <<c0>附隨報告的事件的特定詳細的資料。
     
 

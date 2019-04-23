@@ -10,22 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000052
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: 1663d471655e080a692be9562cbb1451f13e3f74
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: ea64b9d4a8153867e9752b57c3d3a35836772053
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30780483"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903691"
 ---
 # <a name="how-to-attach-files"></a>如何將附加檔案
 
-若要附加傳統 Outlook.com 中的檔案：
-  
-1. 撰寫新郵件或回覆郵件。
-    
-2. 在 [撰寫] 窗格的頂端，選取 [**附加**]。 
-    
-若要附加 Outlook.com beta 版中的檔案：
   
 1. 撰寫新郵件或回覆郵件。
     

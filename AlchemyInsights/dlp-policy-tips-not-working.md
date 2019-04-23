@@ -1,5 +1,5 @@
 ---
-title: 無法正常運作的 DLP 原則提示
+title: 無法運作的 DLP 原則祕訣
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: ffed863e8d44d2513fbcf53edd9bfa14b859b913
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900783"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869586"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP 原則提示的問題
 
-當使用**DLP 原則**，請搭配**原則提示**原則違規可以會通知使用者。系統管理員可以設定原則提示來測試其 DLP 原則時或原則是完整的強制執行模式中顯示。 
+時使用**DLP 原則**，使用者就可以收到的原則違規情形搭配**原則提示**通知。 系統管理員可以設定原則提示來測試其 DLP 原則時或原則已顯示完整的強制執行模式中顯示。 
   
-若要設定原則提示您在完整強制執行模式中的安全性和規範中心的 DLP 原則上執行下列動作：
+若要在安全性與合規性中心] 中完整的強制執行模式設定上您的 DLP 原則的原則提示，請執行下列動作：
   
-- 確定原則提示已使用步驟的 DLP 規則上的 [**啟用**[此處](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)。
+- 原則提示已**啟用**DLP 規則的步驟來確保[在這裡](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)。
     
-- 確定您的**內容會比對**功能**需要**觸發本文所述的規則[此處](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)。
+- 確定您的**內容符合**為何**需要**觸發這篇文章所述的規則[在這裡](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)。
     
-- 在 OWA 和 Outlook 中顯示原則提示。不過時使用**Outlook 2013 或更新版本**、, 原則提示只會顯示在某些情況下。以下列出這些條件：[支援條件為 Outlook 2013 或更新版本的顯示原則提示](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- 在 OWA 和 Outlook 中顯示原則提示。 不過，當使用**Outlook 2013 或更新版本**，原則提示只會顯示在某些情況下。 這些條件都會列在這裡：[支援條件 for Outlook 2013 或更新版本的顯示原則提示](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
     
-如需有關 DLP 原則提示的詳細資訊，請參閱：[顯示的 DLP 原則原則提示](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+如需有關 DLP 原則提示的詳細資訊，請參閱：[顯示原則提示的 DLP 原則](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
   
 

@@ -10,15 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000059
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: 4b76cc006933a266d51ad06f6f5d2cf1a460a840
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7e28c8593639a759876f2a91c7d6ffefdeef77a4
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30781568"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903619"
 ---
 # <a name="how-to-change-your-layout"></a>如何變更您的版面配置
 
-很容易變更 Outlook.com 中的設定，使它的外觀與呈現您想要的方式。 若要查看您的選擇工具列上，請選取 [**設定**]。 
+很容易變更 Outlook.com 中的設定，使它的外觀與呈現您想要的方式。 選取 [最常用的選項] 工具列上的 [**設定**]。 
+
+若要查看所有版面配置選項，請選取 [**設定** > **郵件** > [**版面配置**](https://outlook.live.com/mail/options/mail/layout)。 
   
 

@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000015
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: ce2ee427887ac51dfbbcbc7b7d9e511cab7e3da7
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 2c58a22878b5d36554a17d4363303ccf6207a4ac
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30788498"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903547"
 ---
 # <a name="block-or-unblock-senders"></a>封鎖或解除封鎖的寄件者
 
 將任何電子郵件地址或網域新增至您的封鎖寄件者清單，這些郵件直接移到垃圾郵件] 資料夾。 電子郵件會自動移除垃圾郵件資料夾 14 天之後，就無法復原。
   
-1. 移至 [**設定** \> **檢視完整的設定**。 
+1. 移至 [**設定** \> **檢視所有的 Outlook 設定**。 
     
-2. 選取 [**郵件** \> **垃圾電子郵件**。 
+2. 選取[**郵件** \> **垃圾郵件**](https://outlook.live.com/mail/options/mail/junkEmail)。 
     
 3. 若要封鎖的寄件者，請輸入的電子郵件地址或網域，您想要封鎖，並選取 [**新增]**。 
     
