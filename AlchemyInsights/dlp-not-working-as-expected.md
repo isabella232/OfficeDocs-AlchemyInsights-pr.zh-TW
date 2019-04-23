@@ -1,5 +1,5 @@
 ---
-title: DLP 未運作如預期般運作
+title: DLP 未如預期般運作
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,38 +10,38 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 1e5ff53d903a14064147621df0a883152c32eff5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6d8e3e540494e99e42f04080681f46324f2936bd
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919647"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869550"
 ---
-# <a name="dlp-not-working-as-expected"></a><span data-ttu-id="22fdb-102">DLP 未運作如預期般運作</span><span class="sxs-lookup"><span data-stu-id="22fdb-102">DLP not working as expected</span></span>
+# <a name="dlp-not-working-as-expected"></a><span data-ttu-id="fc281-102">DLP 未如預期般運作</span><span class="sxs-lookup"><span data-stu-id="fc281-102">DLP not working as expected</span></span>
 
 
-<span data-ttu-id="22fdb-p101">您已在 Office 365 中無法運作如預期般運作有**資料遺失防護 (DLP)** 的問題嗎？若是如此，請確定您的**DLP 原則**已設定正確，與您的資料包含哪些**DLP 原則**尋找時所評估。</span><span class="sxs-lookup"><span data-stu-id="22fdb-p101">Are you having problems with **Data Loss Prevention (DLP)** in Office 365 not working as expected? If so, make sure that your **DLP policy** is setup correctly, and that your data contains what the **DLP policy** is looking for when it is being evaluated.</span></span> 
+<span data-ttu-id="fc281-103">您有問題**的資料外洩防護 (DLP)** 未如預期般運作的 Office 365 中？</span><span class="sxs-lookup"><span data-stu-id="fc281-103">Are you having problems with **Data Loss Prevention (DLP)** in Office 365 not working as expected?</span></span> <span data-ttu-id="fc281-104">如果是的話，請確定您的**DLP 原則**設定正確，以及您的資料包含哪些**DLP 原則**會尋找時進行評估。</span><span class="sxs-lookup"><span data-stu-id="fc281-104">If so, make sure that your **DLP policy** is set up correctly, and that your data contains what the **DLP policy** is looking for when it is being evaluated.</span></span> 
   
- <span data-ttu-id="22fdb-105">**DLP 設定：**</span><span class="sxs-lookup"><span data-stu-id="22fdb-105">**Setting up DLP:**</span></span>
+ <span data-ttu-id="fc281-105">**DLP 設定：**</span><span class="sxs-lookup"><span data-stu-id="fc281-105">**Setting up DLP:**</span></span>
   
-<span data-ttu-id="22fdb-p102">DLP 原則可讓您識別並保護組織中的機密資訊。若要設定 DLP 原則、 使用的資訊[如下](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)。</span><span class="sxs-lookup"><span data-stu-id="22fdb-p102">DLP policies allows you to identify and protect sensitive information in your organization. To setup DLP policies, use the information [here](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).</span></span>
+<span data-ttu-id="fc281-106">DLP 原則可讓您識別和保護您的組織中的敏感資訊。</span><span class="sxs-lookup"><span data-stu-id="fc281-106">DLP policies allows you to identify and protect sensitive information in your organization.</span></span> <span data-ttu-id="fc281-107">若要設定 DLP 原則，請使用資訊[以下](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)。</span><span class="sxs-lookup"><span data-stu-id="fc281-107">To setup DLP policies, use the information [here](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).</span></span>
   
- <span data-ttu-id="22fdb-108">**尋找 DLP 原則：**</span><span class="sxs-lookup"><span data-stu-id="22fdb-108">**What DLP policies look for:**</span></span>
+ <span data-ttu-id="fc281-108">**查看哪些 DLP 原則：**</span><span class="sxs-lookup"><span data-stu-id="fc281-108">**What DLP policies look for:**</span></span>
   
-<span data-ttu-id="22fdb-109">在 Office 365 安全性和規範中心使用**內建的敏感資訊類型**、 時 DLP 原則尋找特定模式和項目時偵測這些機密的類型。</span><span class="sxs-lookup"><span data-stu-id="22fdb-109">When using the **built-in sensitive information types** in Office 365 Security and Compliance center, DLP policies look for specific patterns and elements when detecting these sensitive types.</span></span> 
+<span data-ttu-id="fc281-109">當使用**內建的敏感資訊類型**在 Office 365 安全性與合規性中心，DLP 原則查看特定模式和項目時偵測這些敏感類型。</span><span class="sxs-lookup"><span data-stu-id="fc281-109">When using the **built-in sensitive information types** in Office 365 Security and Compliance center, DLP policies look for specific patterns and elements when detecting these sensitive types.</span></span> 
   
-- <span data-ttu-id="22fdb-110">**內建的敏感資訊類型：**</span><span class="sxs-lookup"><span data-stu-id="22fdb-110">**Built-in Sensitive Information Types:**</span></span>
+- <span data-ttu-id="fc281-110">**內建的敏感資訊類型：**</span><span class="sxs-lookup"><span data-stu-id="fc281-110">**Built-in Sensitive Information Types:**</span></span>
     
-    <span data-ttu-id="22fdb-111">如需內建的機密類型及新 DLP 原則會尋找偵測敏感類型時，請參閱：[尋找敏感資訊類型](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)。</span><span class="sxs-lookup"><span data-stu-id="22fdb-111">For information on the built-in Sensitive types and what a DLP policy looks for when detecting the Sensitive type, see: [What the sensitive information types look for](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).</span></span>
+    <span data-ttu-id="fc281-111">如需內建的敏感類型和功能的 DLP 原則會尋找時偵測敏感類型的資訊，請參閱：[敏感資訊類型在找什麼](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)。</span><span class="sxs-lookup"><span data-stu-id="fc281-111">For information on the built-in Sensitive types and what a DLP policy looks for when detecting the Sensitive type, see: [What the sensitive information types look for](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).</span></span>
     
-- <span data-ttu-id="22fdb-112">**自訂的敏感資訊類型：**</span><span class="sxs-lookup"><span data-stu-id="22fdb-112">**Custom Sensitive Information Types:**</span></span>
+- <span data-ttu-id="fc281-112">**自訂機密資訊類型：**</span><span class="sxs-lookup"><span data-stu-id="fc281-112">**Custom Sensitive Information Types:**</span></span>
     
-    <span data-ttu-id="22fdb-113">如果您嘗試建立自訂的敏感資訊類型，如需如何建立自訂的機密類型中使用下列文章：[建立自訂的敏感資訊類型](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)。</span><span class="sxs-lookup"><span data-stu-id="22fdb-113">If you are trying to create custom sensitive information types, use the following article for information on how to create a custom sensitive type: [Create a custom sensitive information type](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).</span></span>
+    <span data-ttu-id="fc281-113">如果您想要建立自訂機密資訊類型，如需如何建立自訂的敏感類型中使用下列文章：[建立自訂機密資訊類型](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)。</span><span class="sxs-lookup"><span data-stu-id="fc281-113">If you are trying to create custom sensitive information types, use the following article for information on how to create a custom sensitive type: [Create a custom sensitive information type](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).</span></span>
     
- <span data-ttu-id="22fdb-114">**報告：**</span><span class="sxs-lookup"><span data-stu-id="22fdb-114">**Reports:**</span></span>
+ <span data-ttu-id="fc281-114">**報告：**</span><span class="sxs-lookup"><span data-stu-id="fc281-114">**Reports:**</span></span>
   
-- <span data-ttu-id="22fdb-115">取得與機密資料前瞻[DLP 報告。](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span><span class="sxs-lookup"><span data-stu-id="22fdb-115">Get sensitive data insights with [DLP Reports.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span></span>
+- <span data-ttu-id="fc281-115">取得與敏感資料見解[DLP 報告。](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span><span class="sxs-lookup"><span data-stu-id="fc281-115">Get sensitive data insights with [DLP Reports.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)</span></span>
     
-- <span data-ttu-id="22fdb-116">查看搭配[附隨報告](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports)事件的特定詳細的資料。</span><span class="sxs-lookup"><span data-stu-id="22fdb-116">See specific details of the event with an [Incident Report](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).</span></span>
+- <span data-ttu-id="fc281-116">請參閱 <<c0>附隨報告的事件的特定詳細的資料。</span><span class="sxs-lookup"><span data-stu-id="fc281-116">See specific details of the event with an [Incident Report](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).</span></span>
     
 
