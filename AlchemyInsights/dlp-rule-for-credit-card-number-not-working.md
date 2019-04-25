@@ -1,5 +1,5 @@
 ---
-title: 信用卡號無法正常運作的 DLP 規則
+title: 無法使用的信用卡號碼的 DLP 規則
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,42 +10,42 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
 ms.openlocfilehash: e1d60c493a27efb7f724d57051e21fad5bd0242f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919071"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404470"
 ---
-您已有**資料遺失防護 (DLP)** 無法正常運作的內容時使用 DLP 敏感資訊類型 O365 中包含**信用卡號**的問題嗎？若是如此，請確定您的內容包含所需的資訊來觸發時會評估當中的 DLP 原則。例如**信用卡原則**設定的 85%的信賴等級，下列會評估和必須偵測到的工作流程觸發此規則： 
+您遇到問題的**資料外洩防護 (DLP)** 無法運作時使用 O365 中的 DLP 敏感資訊類型，其中包含**信用卡號碼**的內容？ 如果是的話，請確定您的內容包含要觸發的所需的資訊的 DLP 原則評估時。 例如，對於**信用卡原則**設定信賴等級的 85%，下列會評估，並必須要觸發的規則偵測到： 
   
-- **[格式：](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 位數可格式化 (dddddddddddddddd) 和必須通過 Luhn 測試。 
+- **[格式為：](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 位數，可格式化或未格式化 (dddddddddddddddd)，且必須通過 Luhn 測試。 
     
-- **[模式：](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** 偵測從所有主要品牌全世界，包括因為撰寫、 Mastercard、 探索卡片、 JCB、 American Express、 gift 卡及大來卡卡很複雜且完善圖樣。 
+- **[模式：](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** 偵測全球，包括 Visa、 Mastercard、 Discover Card、 JCB、 American Express、 禮品卡和大來卡所有主要品牌的非常複雜且健全的模式。 
     
-- **[總和檢查碼：](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** 是、 Luhn 總和檢查碼 
+- **[總和檢查碼：](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** 是，Luhn 總和檢查碼 
     
-- **[定義：](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** DLP 原則是 85%有信心它已偵測到這種類型的機密資訊時，300 個字元的距離： 
+- **[定義：](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** DLP 原則是 85%以內，已偵測到此敏感資訊類型的如果鄰近性是 300 個字元： 
     
   - 函數 Func_credit_card 找到符合模式的內容。
     
   - 下列其中一項為真： 
     
-  - 找到來自於 Keyword_cc_verification 的關鍵字。
+  - 找不到來自 Keyword_cc_verification 的關鍵字。
     
-  - 找到從 Keyword_cc_name 關鍵字
+  - 找到來自 Keyword_cc_name 的關鍵字
     
   - 函數 Func_expiration_date 找到正確日期格式的日期。
     
-  - 總和檢查碼會傳遞
+  - 總和檢查碼通過
     
-    例如，在下列範例會觸發 DLP 信用卡號碼原則：
+    例如，下列範例會觸發 DLP 信用卡號碼原則：
     
-  - 因為撰寫： 4485 3647 3952 7352 
+  - Visa: 4485 3647 3952 7352 
     
   - 到期： 2/2009
     
-什麼是**信用卡號**來偵測的內容所需的詳細資訊，請參閱本文的下列章節：[什麼敏感資訊類型尋找信用卡 #](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
+如需有關為何需要**Credit Card Number** ，偵測到您的內容的詳細資訊，請參閱這篇文章中的下列章節：[項目敏感資訊類型尋找信用卡 #](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
   
-使用不同的內建敏感資訊類型，請參閱上功能所需的其他類型的資訊的下列文章：[尋找什麼敏感資訊類型](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+使用不同的內建敏感資訊類型，請參閱 < 上為何需要其他類型的資訊的下列文章：<b0>項目敏感資訊類型在找</b0>
   
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 723
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
 ms.openlocfilehash: fcd588428ef75efa81763f1fa418304e692a7b5c
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859023"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409357"
 ---
 # <a name="make-an-email-alias-the-primary-address-for-a-user"></a>讓使用者的主要地址的電子郵件別名
 

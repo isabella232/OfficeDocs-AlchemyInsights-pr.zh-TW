@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
 ms.openlocfilehash: 8d6f8da557d74f5c731f7e9f0d65f06257faa03b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757161"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419611"
 ---
 # <a name="manage-your-onedrive-storage"></a>管理您的 OneDrive 儲存空間
 

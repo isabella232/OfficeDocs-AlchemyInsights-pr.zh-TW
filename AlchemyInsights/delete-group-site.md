@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
 ms.openlocfilehash: f72c1d59dba7d742945ea5db0842f696825eb660
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762595"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405180"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>刪除 Office 365 群組所屬的 SharePoint 網站
 
 全域系統管理員和 SharePoint 系統管理員現在可以刪除屬於 Office 365 群組的網站。 刪除這些網站將會刪除此群組及所有其資源，包括 Outlook 信箱和行事曆，以及任何小組通道。
   
-重要事項：
+重要：
 - 您可以復原已刪除的網站 93 天。 如需詳細資訊，請參閱檢視並還原已刪除的網站。 請注意，必須在 30 天內還原已刪除的群組。 
 - 如果網站是保留原則的一部分，您可能無法刪除它，直到網站已從[安全性&amp;Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/retention)。 如需詳細資訊，請參閱[保留原則的概觀](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)。 
   
