@@ -10,11 +10,11 @@ ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 31d81e48cfbc02ad5f93faf1aa707f98a3c67f8e
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773238"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32373523"
 ---
 # <a name="spam-and-junk-email-in-outlookcom"></a>在 Outlook.com 中的垃圾郵件和垃圾電子郵件
 
