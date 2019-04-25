@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
 ms.openlocfilehash: 5a72a74710a01cf958fa468b80ee67a4034c4383
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752193"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372335"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a><span data-ttu-id="72d62-102">在 SharePoint 中的權限繼承的運作方式</span><span class="sxs-lookup"><span data-stu-id="72d62-102">How permissions inheritance works in SharePoint</span></span>
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a><span data-ttu-id="da3f3-102">在 SharePoint 中的權限繼承的運作方式</span><span class="sxs-lookup"><span data-stu-id="da3f3-102">How permissions inheritance works in SharePoint</span></span>
 
-<span data-ttu-id="72d62-103">根據預設，在 SharePoint 中的權限被繼承自階層中的較高向上。</span><span class="sxs-lookup"><span data-stu-id="72d62-103">By default, permissions in SharePoint are inherited from higher up in the hierarchy.</span></span> <span data-ttu-id="72d62-104">因此檔案是繼承其權限] 資料夾，這是文件庫，是它的權限繼承的網站集合的網站是繼承其權限繼承其權限。</span><span class="sxs-lookup"><span data-stu-id="72d62-104">So a file inherits its permissions from the folder, which inherits its permissions from the library, which inherits its permissions from the site, which inherits its permissions from the site collection.</span></span>
+<span data-ttu-id="da3f3-103">根據預設，在 SharePoint 中的權限被繼承自階層中的較高向上。</span><span class="sxs-lookup"><span data-stu-id="da3f3-103">By default, permissions in SharePoint are inherited from higher up in the hierarchy.</span></span> <span data-ttu-id="da3f3-104">因此檔案是繼承其權限] 資料夾，這是文件庫，是它的權限繼承的網站集合的網站是繼承其權限繼承其權限。</span><span class="sxs-lookup"><span data-stu-id="da3f3-104">So a file inherits its permissions from the folder, which inherits its permissions from the library, which inherits its permissions from the site, which inherits its permissions from the site collection.</span></span>
   
-<span data-ttu-id="72d62-105">移除唯一權限和還原繼承的相關資訊，請參閱[編輯和管理清單或文件庫的權限](https://go.microsoft.com/fwlink/?linkid=869946)。</span><span class="sxs-lookup"><span data-stu-id="72d62-105">For info about removing unique permissions and restoring inheritance, see [Edit and manage permissions for a list or library](https://go.microsoft.com/fwlink/?linkid=869946).</span></span>
+<span data-ttu-id="da3f3-105">移除唯一權限和還原繼承的相關資訊，請參閱[編輯和管理清單或文件庫的權限](https://go.microsoft.com/fwlink/?linkid=869946)。</span><span class="sxs-lookup"><span data-stu-id="da3f3-105">For info about removing unique permissions and restoring inheritance, see [Edit and manage permissions for a list or library](https://go.microsoft.com/fwlink/?linkid=869946).</span></span>
   
 
