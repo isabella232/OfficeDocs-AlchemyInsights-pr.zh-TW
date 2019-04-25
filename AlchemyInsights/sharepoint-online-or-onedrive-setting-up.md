@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.openlocfilehash: 3f4f6cf96f8197b0840f26e922e1158c18d07c63
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932391"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369525"
 ---
-<span data-ttu-id="bd73e-102">「 設定 」</span><span class="sxs-lookup"><span data-stu-id="bd73e-102">"Setting up"</span></span>
+<span data-ttu-id="89588-102">「 設定 」</span><span class="sxs-lookup"><span data-stu-id="89588-102">"Setting up"</span></span>
 
-# <a name="sharepoint-online-or-onedrive-setting-up"></a><span data-ttu-id="bd73e-103">SharePoint Online 或 OneDrive"設定"</span><span class="sxs-lookup"><span data-stu-id="bd73e-103">SharePoint Online or OneDrive "Setting up"</span></span>
+# <a name="sharepoint-online-or-onedrive-setting-up"></a><span data-ttu-id="89588-103">SharePoint Online 或 OneDrive 「 設定 」</span><span class="sxs-lookup"><span data-stu-id="89588-103">SharePoint Online or OneDrive "Setting up"</span></span>
 
-<span data-ttu-id="bd73e-104">當將使用者新增至現有的 Office 365 租用戶時，他們可能請參閱 SharePoint Online 或 OneDrive 已經完成佈建程序之前，顯示為 「 設定 」 的商務圖示。</span><span class="sxs-lookup"><span data-stu-id="bd73e-104">When a user is added to an existing Office 365 tenant, they may see the SharePoint Online or OneDrive for Business icons displayed as "Setting up" until the provisioning process has been completed.</span></span>
+<span data-ttu-id="89588-104">當將使用者新增至現有的 Office 365 租用戶時，他們可能會看到 SharePoint Online 或 OneDrive 商務圖示已經完成佈建程序之前，顯示為 「 設定 」。</span><span class="sxs-lookup"><span data-stu-id="89588-104">When a user is added to an existing Office 365 tenant, they may see the SharePoint Online or OneDrive for Business icons displayed as "Setting up" until the provisioning process has been completed.</span></span>
   
-<span data-ttu-id="bd73e-p101">如果超過 24 小時已經過自您第一次看到此問題，請登支援案例。在許多情況下，我們已使用解決方案。請提供給我們至少 24 小時才能完成解決方案。</span><span class="sxs-lookup"><span data-stu-id="bd73e-p101">If more than 24 hours have passed since you first saw this issue, please log a support case. In many cases, we're already working on a solution. Please give us at least 24 hours to complete a solution.</span></span>
+<span data-ttu-id="89588-105">如果您第一次看到此問題以來超過 24 小時，請登支援案例。</span><span class="sxs-lookup"><span data-stu-id="89588-105">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="89588-106">在許多情況下，我們已使用的方案。</span><span class="sxs-lookup"><span data-stu-id="89588-106">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="89588-107">請讓我們至少 24 小時才能完成解決方案。</span><span class="sxs-lookup"><span data-stu-id="89588-107">Please give us at least 24 hours to complete a solution.</span></span>
   
 

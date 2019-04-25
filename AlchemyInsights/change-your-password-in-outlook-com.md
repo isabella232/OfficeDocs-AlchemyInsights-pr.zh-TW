@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: 8000002
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
 ms.openlocfilehash: 50364ec6457819c3d574a42a80420ca47514ebdb
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773063"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394185"
 ---
-# <a name="change-your-password"></a><span data-ttu-id="26d40-102">變更您的密碼</span><span class="sxs-lookup"><span data-stu-id="26d40-102">Change your password</span></span>
+# <a name="change-your-password"></a><span data-ttu-id="a89f8-102">變更您的密碼</span><span class="sxs-lookup"><span data-stu-id="a89f8-102">Change your password</span></span>
 
-<span data-ttu-id="26d40-103">您的 Outlook.com 密碼是您 Microsoft 帳戶的密碼相同。</span><span class="sxs-lookup"><span data-stu-id="26d40-103">Your Outlook.com password is the same as your Microsoft account password.</span></span>
+<span data-ttu-id="a89f8-103">您的 Outlook.com 密碼是您 Microsoft 帳戶的密碼相同。</span><span class="sxs-lookup"><span data-stu-id="a89f8-103">Your Outlook.com password is the same as your Microsoft account password.</span></span>
   
-<span data-ttu-id="26d40-104">若要變更您的密碼，請移至[https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409)，然後選取 [**變更密碼**。</span><span class="sxs-lookup"><span data-stu-id="26d40-104">To change your password, go to [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) and select **Change Password**.</span></span> 
+<span data-ttu-id="a89f8-104">若要變更您的密碼，請移至[https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409)，然後選取 [**變更密碼**。</span><span class="sxs-lookup"><span data-stu-id="a89f8-104">To change your password, go to [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) and select **Change Password**.</span></span> 
   
-<span data-ttu-id="26d40-105">如果您忘記您的密碼，請移至[Microsoft 帳戶的密碼重設] 頁面](https://go.microsoft.com/fwlink/p/?linkid=841909)。</span><span class="sxs-lookup"><span data-stu-id="26d40-105">If you forgot your password, go to the [Microsoft account password reset page](https://go.microsoft.com/fwlink/p/?linkid=841909).</span></span>
+<span data-ttu-id="a89f8-105">如果您忘記您的密碼，請移至[Microsoft 帳戶的密碼重設] 頁面](https://go.microsoft.com/fwlink/p/?linkid=841909)。</span><span class="sxs-lookup"><span data-stu-id="a89f8-105">If you forgot your password, go to the [Microsoft account password reset page](https://go.microsoft.com/fwlink/p/?linkid=841909).</span></span>
   
-<span data-ttu-id="26d40-106">若要深入了解，請參閱[變更您在 Outlook.com 中的密碼](https://go.microsoft.com/fwlink/?linkid=873109)。</span><span class="sxs-lookup"><span data-stu-id="26d40-106">To learn more, see [Change your password in Outlook.com](https://go.microsoft.com/fwlink/?linkid=873109).</span></span>
+<span data-ttu-id="a89f8-106">若要深入了解，請參閱[變更您在 Outlook.com 中的密碼](https://go.microsoft.com/fwlink/?linkid=873109)。</span><span class="sxs-lookup"><span data-stu-id="a89f8-106">To learn more, see [Change your password in Outlook.com](https://go.microsoft.com/fwlink/?linkid=873109).</span></span>
   
 
