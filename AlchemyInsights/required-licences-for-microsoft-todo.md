@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
 ms.openlocfilehash: c492b46fa507c75a166eb4a8cfa48019a3ec7d4c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757845"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32383980"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Microsoft 待辦事項需要的授權
 

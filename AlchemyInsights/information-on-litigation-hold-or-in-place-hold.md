@@ -1,5 +1,5 @@
 ---
-title: 訴訟資料暫留在就地保留的資訊
+title: 訴訟暫止狀態或在暫止的詳細資訊
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
 ms.openlocfilehash: 9ecfb5bb167a0c959d39d47713bbb0e64862abb8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926919"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410401"
 ---
-- 若要套用訴訟保留或就地保留信箱皆需有[Exchange Online 計劃 2 授權](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)。如果您有任何其他計劃、 指派不同的[Exchange Online 封存](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)授權給帳戶。 
+- 若要套用訴訟暫止或就地保留到信箱，則需要[Exchange Online Plan 2 授權](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)。 如果您有任何其他方案，將個別的[Exchange Online Archiving](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)授權指派給帳戶。 
     
-- **若要啟用訴訟暫止**的單一使用者，請遵循下文概述的步驟[如下](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)。啟用訴訟資料暫留時，信箱內的所有內容被都處於保留狀態。
+- **若要啟用訴訟資料暫留**為單一使用者，請依照下列所述的步驟[以下](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)。 啟用訴訟資料暫留時，信箱中的所有內容都會都被保留。
     
-- 若要將**就地保留在單一使用者**或保留套用至**整個組織中的所有信箱**，您可以使用保留原則在 Office 365 安全性和規範中心遵循下列步驟概述[如下](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )。
+- **原有範圍暫止於單一使用者**套用到**整個組織中的所有信箱**，您可以依照下列步驟所述[以下](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )保留原則使用在 Office 365 安全性與合規性中心。
     
     > [!NOTE]
-    > 整個組織的保留原則，新的使用者會自動新增至保留。 
+    > 全組織保留原則，新的使用者將會自動新增至保留。 
   
-- 若要檢視或探索處於保留狀態的信箱內容，請使用**eDiscovery 搜尋及匯出**。如需使用**eDiscovery 搜尋和匯出**，請依照下列步驟概述[如下](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。
+- 若要檢視或探索保留信箱內容，請使用**eDiscovery 搜尋並匯出**。 如需使用**eDiscovery 搜尋和匯出**的資訊，請依照下列步驟所述[以下](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。
     
 
