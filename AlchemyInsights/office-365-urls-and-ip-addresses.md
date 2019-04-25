@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
 ms.openlocfilehash: 16d52acc83f2074236c79493ebd64ae3fd9eec37
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767671"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389146"
 ---
 # <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 URL 和 IP 位址範圍
 

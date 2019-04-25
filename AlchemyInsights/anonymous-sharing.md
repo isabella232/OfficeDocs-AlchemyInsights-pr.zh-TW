@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
 ms.openlocfilehash: 402e10c131a0c331938854e2176983f1007fb315
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747409"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397523"
 ---
 # <a name="anonymous-sharing"></a>匿名共用
 

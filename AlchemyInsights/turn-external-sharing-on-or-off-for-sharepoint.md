@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ad290ba4-169e-4866-9c78-2763319e9ed0
 ms.openlocfilehash: c3917c73b2503039b0ebaf82fba561b2ee0a1c1d
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747517"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32366898"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>開啟外部共用 SharePoint 開啟或關閉
 

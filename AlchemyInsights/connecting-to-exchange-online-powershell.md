@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 760
 ms.assetid: 0f9e4dc5-1e06-4941-860b-4474a6f63247
 ms.openlocfilehash: 23a8e81367a8f94b5f2d72bde917264f53b9d3be
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31857799"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393496"
 ---
 # <a name="connect-to-exchange-online-powershell"></a>連線至 Exchange Online PowerShell
 

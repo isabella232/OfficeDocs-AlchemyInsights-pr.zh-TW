@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
 ms.openlocfilehash: cd5bac5efe3a16d32f9b695c8cb452a1eaa3a796
-ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2019
-ms.locfileid: "31872258"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399097"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP 可能需要的自訂類型
 
@@ -27,7 +27,7 @@ ms.locfileid: "31872258"
   
 如果內建的敏感資訊類型會符合您需求的僅是其中幾更多內容，您還可以[自訂內建的敏感資訊類型](https://docs.microsoft.com/en-us/office365/securitycompliance/customize-a-built-in-sensitive-information-type)。 例如，您可以新增或移除關鍵字，或新增或移除支援辨識項，例如日期或地址。
   
- **建立自訂的敏感性資訊類型**
+ **建立自訂機密資訊類型**
   
 但如果您需要識別及保護完全不同的敏感資訊類型，您可以在安全性 & 合規性中心的 UI 中的 [[建立自訂機密資訊類型](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type)。 
   

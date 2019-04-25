@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
 ms.openlocfilehash: ff1a135cc9c93ea00019d3e6646998d46dbd720f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759141"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388087"
 ---
 # <a name="the-open-with-explorer-button-is-missing"></a>使用檔案總管] 按鈕開啟遺漏
 

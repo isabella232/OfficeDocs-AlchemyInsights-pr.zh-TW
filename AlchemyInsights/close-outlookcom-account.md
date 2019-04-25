@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000005
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
 ms.openlocfilehash: e56fb71a239312c3ff85c2f3d0c6433a3d0b9d62
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785733"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393783"
 ---
 # <a name="close-your-outlookcom-email-account"></a>關閉您的 Outlook.com 電子郵件帳戶
 

@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 1800018
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
 ms.openlocfilehash: 1c9fa4155bd0927b0328cc0023c91862b76d50fe
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30780063"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401466"
 ---
 # <a name="find-your-pop-or-imap-server-settings"></a>找到 POP 或 IMAP 伺服器設定
 

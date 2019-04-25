@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000043
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
 ms.openlocfilehash: 0fb770a3dc34da662410d8992ce53fba32006cd1
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30788183"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32392279"
 ---
 # <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>如 Outlook.com 的 POP、 IMAP 和 SMTP 設定
 

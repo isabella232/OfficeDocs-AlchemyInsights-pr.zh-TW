@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 646
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
 ms.openlocfilehash: 44b2532c634bf17d87c562f9506cc1e81cc7e84a
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31856647"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399762"
 ---
 # <a name="configure-sync-features"></a>設定同步處理功能
 

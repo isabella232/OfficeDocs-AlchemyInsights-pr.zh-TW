@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
 ms.openlocfilehash: 584024a2acc3594722f80cb14e499a48d502d087
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767527"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32391429"
 ---
 # <a name="too-many-licenses"></a>太多的授權？
 
@@ -24,7 +24,7 @@ ms.locfileid: "30767527"
   
  **減少所購買的授權數目**
   
-1. 在系統管理中心中，移至 [訂閱][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面，或選擇 [計費]**** \> [訂閱]****。
+1. 移至系統管理中心中的 [[訂閱]](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面，或選擇 **[計費]** \> **[訂閱]**。
     
 2. 在左邊，選擇您想要移除授權的訂閱。
     
