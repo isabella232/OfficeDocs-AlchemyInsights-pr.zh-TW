@@ -3,7 +3,7 @@ title: 魔力-重新建立您的 Outlook 設定檔
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 678a881b70b2117dc2d93b5835aafc0389706cdb
-ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
+ms.openlocfilehash: 254cb5284a0acc989ce01c59636e7f156302a639
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2019
-ms.locfileid: "31869622"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397879"
 ---
-# <a name="create-an-outlook-profile"></a><span data-ttu-id="d7251-102">建立 Outlook 設定檔</span><span class="sxs-lookup"><span data-stu-id="d7251-102">Create an Outlook Profile</span></span>
+# <a name="create-an-outlook-profile"></a><span data-ttu-id="d75e9-102">建立 Outlook 設定檔</span><span class="sxs-lookup"><span data-stu-id="d75e9-102">Create an Outlook Profile</span></span>
 
-<span data-ttu-id="d7251-103">若要建立或重新建立您的 Outlook 設定檔，您可以執行 [Outlook 設定檔工具] (https://aka.ms/ SaRA-OutlookSetupProfile-魔力) 上受影響的電腦。</span><span class="sxs-lookup"><span data-stu-id="d7251-103">To create or re-create your Outlook profile, you can run the [Outlook profile tool](https://aka.ms/ SaRA-OutlookSetupProfile-Alchemy) on the affected machine.</span></span> 
-  
-<span data-ttu-id="d7251-104">此工具會執行各種檢查，，，當您準備好將建立的 Outlook 設定檔與您的電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="d7251-104">The tool will perform various checks, and when you're ready will create an Outlook profile with your email address.</span></span>
-  
+<span data-ttu-id="d75e9-103">若要建立或重新建立您的 Outlook 設定檔，您可以在受影響的電腦上執行[Outlook 設定檔工具](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="d75e9-103">To create or re-create your Outlook profile, you can run the [Outlook profile tool](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) on the affected machine.</span></span>
 
+<span data-ttu-id="d75e9-104">此工具會執行各種檢查，，，當您準備好將建立的 Outlook 設定檔與您的電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="d75e9-104">The tool will perform various checks, and when you're ready will create an Outlook profile with your email address.</span></span>

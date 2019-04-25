@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
 ms.openlocfilehash: ff1a135cc9c93ea00019d3e6646998d46dbd720f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759141"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388087"
 ---
-# <a name="the-open-with-explorer-button-is-missing"></a><span data-ttu-id="a686f-102">使用檔案總管] 按鈕開啟遺漏</span><span class="sxs-lookup"><span data-stu-id="a686f-102">The Open with Explorer button is missing</span></span>
+# <a name="the-open-with-explorer-button-is-missing"></a><span data-ttu-id="5c647-102">使用檔案總管] 按鈕開啟遺漏</span><span class="sxs-lookup"><span data-stu-id="5c647-102">The Open with Explorer button is missing</span></span>
 
-<span data-ttu-id="a686f-103">[**檔案總管中開啟**] 按鈕不會出現在 SharePoint 和 OneDrive 的新式體驗。</span><span class="sxs-lookup"><span data-stu-id="a686f-103">The **Open with Explorer** button doesn't appear in the modern experience of SharePoint and OneDrive.</span></span> <span data-ttu-id="a686f-104">若要在檔案總管中開啟的文件庫，瀏覽至其在 Internet Explorer 中，然後選取 [檢視] 功能表\>**檔案總管] 中的檢視**。</span><span class="sxs-lookup"><span data-stu-id="a686f-104">To open a document library in File Explorer, browse to it in Internet Explorer and select the view menu \> **View in File Explorer**.</span></span> <span data-ttu-id="a686f-105">無法使用 Microsoft Edge、 Google Chrome 或 Firefox 中**檔案總管] 中的檢視**選項。</span><span class="sxs-lookup"><span data-stu-id="a686f-105">The **View in File Explorer** option is not available in Microsoft Edge, Google Chrome or Firefox.</span></span> 
+<span data-ttu-id="5c647-103">[**檔案總管中開啟**] 按鈕不會出現在 SharePoint 和 OneDrive 的新式體驗。</span><span class="sxs-lookup"><span data-stu-id="5c647-103">The **Open with Explorer** button doesn't appear in the modern experience of SharePoint and OneDrive.</span></span> <span data-ttu-id="5c647-104">若要在檔案總管中開啟的文件庫，瀏覽至其在 Internet Explorer 中，然後選取 [檢視] 功能表\>**檔案總管] 中的檢視**。</span><span class="sxs-lookup"><span data-stu-id="5c647-104">To open a document library in File Explorer, browse to it in Internet Explorer and select the view menu \> **View in File Explorer**.</span></span> <span data-ttu-id="5c647-105">無法使用 Microsoft Edge、 Google Chrome 或 Firefox 中**檔案總管] 中的檢視**選項。</span><span class="sxs-lookup"><span data-stu-id="5c647-105">The **View in File Explorer** option is not available in Microsoft Edge, Google Chrome or Firefox.</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="a686f-106">只有透過 Internet Explorer 支援檔案總管中的開啟。</span><span class="sxs-lookup"><span data-stu-id="a686f-106">Open with Explorer is supported only through Internet Explorer.</span></span> <span data-ttu-id="a686f-107">相反地，[同步處理 SharePoint 檔案與新的 OneDrive 同步處理用戶端](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx)提供[檔案隨選](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)。</span><span class="sxs-lookup"><span data-stu-id="a686f-107">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="a686f-108">存取您在 OneDrive 中的所有檔案，而不使用本機儲存空間。</span><span class="sxs-lookup"><span data-stu-id="a686f-108">Access all your files in OneDrive without using local storage space.</span></span> 
+> <span data-ttu-id="5c647-106">只有透過 Internet Explorer 支援檔案總管中的開啟。</span><span class="sxs-lookup"><span data-stu-id="5c647-106">Open with Explorer is supported only through Internet Explorer.</span></span> <span data-ttu-id="5c647-107">相反地，[同步處理 SharePoint 檔案與新的 OneDrive 同步處理用戶端](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx)提供[檔案隨選](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)。</span><span class="sxs-lookup"><span data-stu-id="5c647-107">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="5c647-108">存取您在 OneDrive 中的所有檔案，而不使用本機儲存空間。</span><span class="sxs-lookup"><span data-stu-id="5c647-108">Access all your files in OneDrive without using local storage space.</span></span> 
   
 

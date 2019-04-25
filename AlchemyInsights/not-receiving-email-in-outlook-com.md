@@ -11,16 +11,16 @@ localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
 ms.openlocfilehash: ba0fdd7f59d566a8f214cc57d63aa637665cb770
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30776878"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32391357"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a><span data-ttu-id="2db86-102">不在 Outlook.com 中接收郵件</span><span class="sxs-lookup"><span data-stu-id="2db86-102">Not receiving mail in Outlook.com</span></span>
+# <a name="not-receiving-mail-in-outlookcom"></a><span data-ttu-id="764c8-102">不在 Outlook.com 中接收郵件</span><span class="sxs-lookup"><span data-stu-id="764c8-102">Not receiving mail in Outlook.com</span></span>
 
-<span data-ttu-id="2db86-103">如果您不接收電子郵件來自特定寄件者，例如您的銀行陳述式或密碼重設郵件，您需要連絡寄件者，並讓他們知道您未收到電子郵件在您的 Outlook.com 帳戶。</span><span class="sxs-lookup"><span data-stu-id="2db86-103">If you're not receiving email from a specific sender, such as your bank statements or password reset messages, you'll need to contact the sender and let them know you aren't receiving email at your Outlook.com account.</span></span> <span data-ttu-id="2db86-104">寄件者，請參閱[https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135)，他們可以在其中找到最佳作法，建議進行疑難排解，以及連結連絡支援小組，我們寄件者的相關資訊。</span><span class="sxs-lookup"><span data-stu-id="2db86-104">Please refer the sender to [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), where they can find information about best practices, recommend troubleshooting, and a link to contact our sender support team.</span></span>
+<span data-ttu-id="764c8-103">如果您不接收電子郵件來自特定寄件者，例如您的銀行陳述式或密碼重設郵件，您需要連絡寄件者，並讓他們知道您未收到電子郵件在您的 Outlook.com 帳戶。</span><span class="sxs-lookup"><span data-stu-id="764c8-103">If you're not receiving email from a specific sender, such as your bank statements or password reset messages, you'll need to contact the sender and let them know you aren't receiving email at your Outlook.com account.</span></span> <span data-ttu-id="764c8-104">寄件者，請參閱[https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135)，他們可以在其中找到最佳作法，建議進行疑難排解，以及連結連絡支援小組，我們寄件者的相關資訊。</span><span class="sxs-lookup"><span data-stu-id="764c8-104">Please refer the sender to [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), where they can find information about best practices, recommend troubleshooting, and a link to contact our sender support team.</span></span>
   
-<span data-ttu-id="2db86-105">如果您的 Outlook.com 帳戶不所有接收電子郵件，請參閱[修正 Outlook.com 電子郵件同步處理問題](https://go.microsoft.com/fwlink/p/?linkid=874363)。</span><span class="sxs-lookup"><span data-stu-id="2db86-105">If your Outlook.com account isn't receiving email at all, see [Fix Outlook.com email sync issues](https://go.microsoft.com/fwlink/p/?linkid=874363).</span></span>
+<span data-ttu-id="764c8-105">如果您的 Outlook.com 帳戶不所有接收電子郵件，請參閱[修正 Outlook.com 電子郵件同步處理問題](https://go.microsoft.com/fwlink/p/?linkid=874363)。</span><span class="sxs-lookup"><span data-stu-id="764c8-105">If your Outlook.com account isn't receiving email at all, see [Fix Outlook.com email sync issues](https://go.microsoft.com/fwlink/p/?linkid=874363).</span></span>
   
 
