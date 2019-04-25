@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
 ms.openlocfilehash: 4b39951da279f67d4ece472277cc39c667fb0041
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31903404"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32416822"
 ---
-# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a><span data-ttu-id="a0cbe-102">如何登入或移出 Outlook.com</span><span class="sxs-lookup"><span data-stu-id="a0cbe-102">How to sign in to or out of Outlook.com</span></span>
+# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a><span data-ttu-id="e6f0a-102">如何登入或移出 Outlook.com</span><span class="sxs-lookup"><span data-stu-id="e6f0a-102">How to sign in to or out of Outlook.com</span></span>
 
-<span data-ttu-id="a0cbe-103">如果您無法登入您的 Outlook.com、 Hotmail、 Live 或 MSN 電子郵件帳戶，或您不確定如何登入或登出，[以下是一些解決方案](https://go.microsoft.com/fwlink/p/?linkid=2005840)。</span><span class="sxs-lookup"><span data-stu-id="a0cbe-103">If you can't sign in to your Outlook.com, Hotmail, Live, or MSN email account, or you're not sure how to sign in or sign out, [here are some solutions](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span></span>
+<span data-ttu-id="e6f0a-103">如果您無法登入您的 Outlook.com、 Hotmail、 Live 或 MSN 電子郵件帳戶，或您不確定如何登入或登出，[以下是一些解決方案](https://go.microsoft.com/fwlink/p/?linkid=2005840)。</span><span class="sxs-lookup"><span data-stu-id="e6f0a-103">If you can't sign in to your Outlook.com, Hotmail, Live, or MSN email account, or you're not sure how to sign in or sign out, [here are some solutions](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span></span>
   
-<span data-ttu-id="a0cbe-104">如果您仍然登入的問題，請參閱[當您無法登入您的 Microsoft 帳戶](https://go.microsoft.com/fwlink/p/?linkid=837479)。</span><span class="sxs-lookup"><span data-stu-id="a0cbe-104">If you're still having problems with signing in, see [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
+<span data-ttu-id="e6f0a-104">如果您仍然登入的問題，請參閱[當您無法登入您的 Microsoft 帳戶](https://go.microsoft.com/fwlink/p/?linkid=837479)。</span><span class="sxs-lookup"><span data-stu-id="e6f0a-104">If you're still having problems with signing in, see [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
   
 

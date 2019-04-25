@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000066
 ms.openlocfilehash: 511cb5f193e55a852b55b6c39a293d8003599321
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30787903"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418964"
 ---
-# <a name="han-hackeada-mi-cuenta-de-outlookcom"></a><span data-ttu-id="b14a9-102">漢字 hackeada 英哩 cuenta de Outlook.com</span><span class="sxs-lookup"><span data-stu-id="b14a9-102">Han hackeada mi cuenta de Outlook.com</span></span>
+# <a name="han-hackeada-mi-cuenta-de-outlookcom"></a><span data-ttu-id="aa13a-102">漢字 hackeada 英哩 cuenta de Outlook.com</span><span class="sxs-lookup"><span data-stu-id="aa13a-102">Han hackeada mi cuenta de Outlook.com</span></span>
 
-<span data-ttu-id="b14a9-103">Si su cuenta se 高可用性 pirateado significa que alguien robó la contraseña y es posible que esté usando la cuenta 段落 obtener acceso su información 個人 o enviar correo 沒有 deseado。</span><span class="sxs-lookup"><span data-stu-id="b14a9-103">Si su cuenta se ha pirateado significa que alguien robó la contraseña y es posible que esté usando la cuenta para obtener acceso a su información personal o enviar correo no deseado.</span></span>
+<span data-ttu-id="aa13a-103">Si su cuenta se 高可用性 pirateado significa que alguien robó la contraseña y es posible que esté usando la cuenta 段落 obtener acceso su información 個人 o enviar correo 沒有 deseado。</span><span class="sxs-lookup"><span data-stu-id="aa13a-103">Si su cuenta se ha pirateado significa que alguien robó la contraseña y es posible que esté usando la cuenta para obtener acceso a su información personal o enviar correo no deseado.</span></span>
 
-[<span data-ttu-id="b14a9-104">Siga 實現 instrucciones 段落 recuperar su cuenta。</span><span class="sxs-lookup"><span data-stu-id="b14a9-104">Siga las instrucciones para recuperar su cuenta.</span></span>](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES)
+[<span data-ttu-id="aa13a-104">Siga 實現 instrucciones 段落 recuperar su cuenta。</span><span class="sxs-lookup"><span data-stu-id="aa13a-104">Siga las instrucciones para recuperar su cuenta.</span></span>](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES)
 
-<span data-ttu-id="b14a9-105">一個段落 restablecer la cuenta mediante el teléfono u otro equipo，vaya [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814)。</span><span class="sxs-lookup"><span data-stu-id="b14a9-105">Para restablecer la cuenta mediante el teléfono u otro equipo, vaya a [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).</span></span>
+<span data-ttu-id="aa13a-105">一個段落 restablecer la cuenta mediante el teléfono u otro equipo，vaya [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814)。</span><span class="sxs-lookup"><span data-stu-id="aa13a-105">Para restablecer la cuenta mediante el teléfono u otro equipo, vaya a [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).</span></span>
