@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
 ms.openlocfilehash: ab04deaeea52f2105b67d89fdc3f230efe2fdeed
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755973"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409969"
 ---
 # <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>在 OneDrive 和 SharePoint 中無效的檔案和資料夾名稱
 

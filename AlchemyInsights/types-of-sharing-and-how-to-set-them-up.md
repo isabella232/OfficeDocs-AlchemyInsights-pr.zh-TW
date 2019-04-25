@@ -14,11 +14,11 @@ ms.custom:
 - "878"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
 ms.openlocfilehash: feaa70c077f50cfd76ac2efedd8760462482a840
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859383"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389678"
 ---
 # <a name="different-types-of-shared-calendars-and-how-to-set-them-up"></a>不同類型的共用行事曆，以及如何設定共用行事曆
 
