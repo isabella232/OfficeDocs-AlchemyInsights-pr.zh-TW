@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000009
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
 ms.openlocfilehash: a26f041d658f202876f4c03f6b4309133ced8b77
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30787623"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407403"
 ---
 # <a name="create-a-folder"></a>建立資料夾
 

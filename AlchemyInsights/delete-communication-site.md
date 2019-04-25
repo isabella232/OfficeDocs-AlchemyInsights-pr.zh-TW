@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d132106a-d55b-4233-8664-56ae8e4c226b
 ms.openlocfilehash: 5587aa34a45877bb814cab1d443a1bb21a41eeb5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764251"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405483"
 ---
 # <a name="delete-a-communication-site"></a>刪除通訊網站
 

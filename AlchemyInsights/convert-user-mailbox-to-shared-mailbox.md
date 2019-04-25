@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab08e594-ded6-4ad8-a0e1-b365960a4293
 ms.openlocfilehash: c38c3f9156c87ef15cd01abfc77d181978c28887
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762739"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407769"
 ---
 # <a name="convert-a-user-mailbox-to-a-room-or-equipment-mailbox"></a>將使用者信箱轉換成會議室或設備信箱
 

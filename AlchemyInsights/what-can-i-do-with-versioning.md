@@ -1,5 +1,5 @@
 ---
-title: 項目執行內含版本設定？
+title: 我可以使用版本設定來做什麼？
 ms.author: toresing
 author: tomresing
 ms.date: 6/21/2018
@@ -9,21 +9,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
 ms.openlocfilehash: 5f47dbb2b4cc8ce2959318011174eddabefacbd5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917235"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422927"
 ---
-# <a name="what-can-i-do-with-versioning"></a>項目執行內含版本設定？
+# <a name="what-can-i-do-with-versioning"></a>我可以使用版本設定來做什麼？
 
-您可以使用 SharePoint 清單和程式庫中的版本設定：
+您可以使用 SharePoint 清單與文件庫至中的版本設定：
   
-- **追蹤記錄的版本**。啟用版本設定時，您會看見某個項目或檔案已變更及其誰已變更。您也可以參閱時已變更屬性 （檔案的資訊）。例如，如果某人變更的清單項目到期時，該資訊會出現在版本歷程記錄。您也可以參閱人員進行其檢查檔案到文件庫時的註解。 
+- **追蹤版本歷程記錄**。 啟用版本設定時，您可以看到的項目或檔案已變更時，以及由誰變更它。 您也可以查看時已變更屬性 （該檔案的相關資訊）。 例如，若有人變更了清單項目的到期日，該資訊便會出現在版本歷程記錄中。 您也可以查看人員進行檔案簽入文件庫的註解。 
     
-- **還原先前版本**。進行錯誤中目前的版本，如果目前的版本已損毀，或如果您只想要舊版更妥善地，如果您可以將目前的版本取代前一個。還原的版本會成為新的目前版本。 
+- **還原先前的版本**。 如果您犯了在目前的版本中，如果目前的版本已損毀，或如果您只想舊版更妥善地，您可以與前一個取代目前的版本。 還原的版本會成為新的目前版本。 
     
-- **檢視先前版本**。您可以檢視先前版本不覆寫目前的版本。如果您正在檢視版本歷程記錄中 Microsoft Office 文件，例如 Word 或 Excel 檔案，您可以比較兩個版本來判斷差異。 
+- **檢視先前的版本**。 您可以檢視先前的版本不覆寫您目前的版本。 如果您正在檢視內的 Microsoft Office 文件版本歷程記錄，例如 Word 或 Excel 檔案，您可以比較兩個版本來判斷的差異為何。 
     
 [深入了解版本設定 SharePoint Online 中的運作方式](https://go.microsoft.com/fwlink/?linkid=875710)
   
