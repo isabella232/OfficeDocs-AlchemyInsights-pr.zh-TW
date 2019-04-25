@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000078
 ms.openlocfilehash: 0d08c38e624d293a58ddad0463016dace3283510
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30778943"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418647"
 ---
 # <a name="inbox-not-loading-with-firefox"></a>無法載入與 Firefox 的收件匣
 

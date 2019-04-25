@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
 ms.openlocfilehash: 4b39951da279f67d4ece472277cc39c667fb0041
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31903404"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32416822"
 ---
 # <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>如何登入或移出 Outlook.com
 

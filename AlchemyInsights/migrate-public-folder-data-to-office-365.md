@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a9be935-d798-4b5f-a1b8-15b1f25d1451
 ms.openlocfilehash: 0b970917e53fce266e0a16100f3deb869f9f7007
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754713"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418532"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>將公用資料夾資料移轉到 Office 365
 
