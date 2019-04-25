@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
 ms.openlocfilehash: 008318a50875b3d585b95dd8d9566db09af1d3ff
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759465"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419359"
 ---
 # <a name="migrate-mailboxes-between-two-different-tenants"></a>兩個不同的租用戶之間移轉信箱
 

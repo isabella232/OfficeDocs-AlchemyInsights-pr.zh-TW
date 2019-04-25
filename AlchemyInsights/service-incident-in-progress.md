@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
 ms.openlocfilehash: ffd148918b684c21affd3859d55721d89b9bbaab
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29934047"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421735"
 ---
 # <a name="service-incident-in-progress"></a>進行中的服務事件
 
-您可能會影響的服務事件或 advisory 的目前正在調查。您可以檢查最新狀態移至 [[服務健康狀況](https://admin.microsoft.com/adminportal/home#/servicehealth)] 頁面上。 
+您可能會受到服務事件或建議的目前正在調查。 您可以移至 [[服務健康情況](https://admin.microsoft.com/adminportal/home#/servicehealth)] 頁面上檢查最新狀態。 
   
-針對您的方便您可以找到下此事件的摘要：
+以方便您使用，您可以找到下此事件的摘要：
   
 > **事件號碼：**[{} IncidentId](https://admin.microsoft.com/adminportal/home#/servicehealth)
     

@@ -1,5 +1,5 @@
 ---
-title: 測試魔力內嵌圖像
+title: 測試魔力內嵌影像
 ms.author: pebaum
 author: pebaum
 ms.date: 11/16/2017
@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 28d8036f-9df2-4dff-835b-9424bfe988a2
 ms.openlocfilehash: c21f9693b20fb435f6e46014e09e1c6c97e2744a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923031"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371253"
 ---
 # <a name="access-the-domains-page"></a>存取 [網域] 頁面
 
@@ -23,6 +23,6 @@ ms.locfileid: "29923031"
   
 然後您可以新增、 修改或移除您的網域。
   
-如需詳細資訊，請參閱[網域 FAQ。](https://support.office.com/article/1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx)
+如需詳細資訊，請參閱[網域的常見問題集。](https://support.office.com/article/1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx)
   
 

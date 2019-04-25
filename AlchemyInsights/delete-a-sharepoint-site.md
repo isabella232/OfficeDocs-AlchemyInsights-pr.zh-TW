@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 708365cefa79c9bc0268897ac34d980306a846c2
-ms.sourcegitcommit: 74e18e743273d5e759e8f00bd8fb16c471d42b40
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "30935592"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405615"
 ---
 # <a name="delete-a-sharepoint-site"></a>刪除 SharePoint 網站
 **刪除網站從新的 SharePoint 系統管理中心**藉由使用新的 SharePoint 系統管理中心，您可以刪除傳統和新式網站。 選取 [**作用中網站**，選取 [網站]，然後選取 [**刪除**。 若要[檢視和還原已刪除的網站在新的 SharePoint 系統管理中心中](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)，選取 [**已刪除的網站**。 如需詳細資訊，請參閱[刪除新的 SharePoint 系統管理中心中的網站](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center)。

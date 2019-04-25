@@ -11,11 +11,11 @@ ms.collection: Adm_O365
 ms.custom: 401
 ms.assetid: 13bb2a1b-6433-4249-8b0f-c01e23e5d7f1
 ms.openlocfilehash: aa5967ee93dff670d8bb7897e9703d1f833b199e
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31856539"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417095"
 ---
 # <a name="calendar-freebusy-issues-in-hybrid-environments"></a>混合式環境中的 [行事曆空閒/忙碌資訊問題
 

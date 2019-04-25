@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
 ms.openlocfilehash: 5ea256a03def0cf07503efc77885dc3ff7a67b66
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915412"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422026"
 ---
-啟用封存信箱時，您可以使用可探索內容的主要和封存信箱中的**eDiscovery 搜尋及匯出**。若要找出該內容中使用**eDiscovery 搜尋匯出**資訊，請遵循步驟大綱顯示[此處](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。
+啟用封存信箱時，您可以使用可探索內容的主要和封存信箱中的**eDiscovery 搜尋並匯出**。 如需使用**eDiscovery 搜尋匯出**至找到該內容的資訊，請依照下列步驟所述[以下](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。
   
-您也可以新增至保留原則的信箱保留的內容。這會置於保留的主要和封存信箱的內容。如需有關建立保留 emailsee 步驟大綱顯示[以下](https://docs.microsoft.com/Office365/securitycompliance/retention-policies)的保留原則。
+您也可以將信箱新增至保留原則，以保留內容。 這會將內容放在保留主要和封存信箱中。 如需有關建立保留原則，以保留 emailsee 步驟所述[以下](https://docs.microsoft.com/Office365/securitycompliance/retention-policies)。
   
 

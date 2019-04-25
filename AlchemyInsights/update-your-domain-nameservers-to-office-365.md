@@ -9,15 +9,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.openlocfilehash: 724e9f7501826dc238932ec08e8628d077e20e2c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918429"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423627"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>將您的網域名稱伺服器更新為 Office 365
 
-請注意： 名稱變更有時可能需要最多達 48 小時傳播。
+附註：名稱伺服器變更最多可能需要 48 小時才會傳播。
   
 若要在 Office 365 設定網域，請在您的註冊機構更新名稱伺服器。在網域註冊機構建立或編輯網域名稱伺服器記錄。
   

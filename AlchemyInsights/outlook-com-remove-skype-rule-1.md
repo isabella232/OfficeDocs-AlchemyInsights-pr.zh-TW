@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000082
 ms.openlocfilehash: 2ef958ed8da16f7c0510b65e1ddec890b10c7c75
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31903440"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32392081"
 ---
 # <a name="skype-icon-missing"></a>遺失的 Skype 圖示
 

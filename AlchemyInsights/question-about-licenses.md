@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
 ms.openlocfilehash: a5d701f61b0987978c759aa27d8e4f06e4be2b92
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760293"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371433"
 ---
 # <a name="question-about-licenses"></a>授權的相關問題
 
 如果您想要知道您購買的授權數目或多少授權已指派來自訂用帳戶：
   
-1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
+1. 移至系統管理中心中的 [[訂閱]](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面，或選擇 **[計費]** \> **[訂閱]**。
     
 2. 選擇您想要深入瞭解有關的訂閱。
     

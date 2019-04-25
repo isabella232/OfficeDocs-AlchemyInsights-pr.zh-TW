@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 973
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
 ms.openlocfilehash: c866ec261e96552f04c4a71cbd34c9b200f7a895
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31857475"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418496"
 ---
 # <a name="stalleddueto-errors-during-migration"></a>在移轉期間的 StalledDueTo 錯誤
 

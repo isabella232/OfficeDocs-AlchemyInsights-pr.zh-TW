@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
 ms.openlocfilehash: 994d71ca6f140008336d7edb8387f6e044c22d2d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940383"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422706"
 ---
 # <a name="who-has-a-file-checked-out"></a>誰可以取出的檔案？
 
-若要查看哪些人員擁有已取出的檔案您可以執行下列步驟之一：
+若要查看誰可以取出的檔案中，您可以執行其中之一的下列步驟：
   
-1. 將滑鼠停留在**取出**查看工具提示，以告訴您具有已取出的檔案。 
+1. 將滑鼠停留**取出**若要查看工具提示，告知您具有已取出的檔案。 
     
-2. 新增 * * 取出者 * * 為預設檢視的文件庫] 欄。如此一來，所有人可以輕鬆地查看哪些人員擁有已取出的文件。 
+2. 新增 * * 取出者 * * 至文件庫的預設檢視的資料行。 如此一來，每個人都可以輕鬆地查看誰已取出的文件。 
     
-若要了解如何在 SharePoint 中新增取出者欄，請參閱[建立清單或文件庫中的資料行](https://go.microsoft.com/fwlink/?linkid=2019591)。 
+若要了解如何在 SharePoint 中新增取出者欄，請參閱[建立清單或文件庫中的欄](https://go.microsoft.com/fwlink/?linkid=2019591)。 
   
-請參閱多常常見問題解答存回或取出，請參閱[上方疑問簽出存回](https://go.microsoft.com/fwlink/?linkid=2018786)。
+更多經常常見問題解答存回或取出，請參閱[關於取出、 存回的常見問題](https://go.microsoft.com/fwlink/?linkid=2018786)，請參閱。
   
 

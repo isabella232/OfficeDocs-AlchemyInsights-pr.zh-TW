@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000087
 ms.openlocfilehash: 3785808654d5eb5e94a92c54f18fd94c931e5831
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30786258"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32392513"
 ---
 # <a name="keyboard-shortcuts-in-outlookcom"></a>在 Outlook.com 中的鍵盤快速鍵
 
