@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.openlocfilehash: 628115092db868a22e173b5b3b9a1cea852683cd
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759033"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32387978"
 ---
 # <a name="reactivate-a-subscription"></a>重新啟動的訂閱
 
 如果您的訂閱到期，因已停用 Microsoft，或您取消訂閱字詞中間，您可以在 Microsoft 365 系統管理中心中重新啟動。
   
-1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
+1. 移至系統管理中心中的 [[訂閱]](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面，或選擇 **[計費]** \> **[訂閱]**。
     
 2. 選擇您想要重新啟用，然後選擇 [**重新啟用**的訂閱。
     

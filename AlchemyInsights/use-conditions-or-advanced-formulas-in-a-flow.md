@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c25cae12-c04d-43ac-b26f-bc0264854f48
 ms.openlocfilehash: ce25e410a590fdf9739aa072e73270c2824f45b4
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30756549"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423462"
 ---
 # <a name="use-conditions-or-advanced-formulas-in-a-flow"></a>在流程中使用的條件或進階的公式
 

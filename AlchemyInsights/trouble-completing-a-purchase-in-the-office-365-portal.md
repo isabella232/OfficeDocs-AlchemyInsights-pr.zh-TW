@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
 ms.openlocfilehash: 2364912c0753d649536e3d98c358ed4c726dbfad
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754749"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420367"
 ---
 # <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>無法在 Office 365 入口網站完成購買
 
