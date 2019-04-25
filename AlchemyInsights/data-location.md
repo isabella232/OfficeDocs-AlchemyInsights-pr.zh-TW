@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
 ms.openlocfilehash: 2d284dd4b53fcd1c2b0d094cd16662d3686c6912
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29899775"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406513"
 ---
 # <a name="data-location"></a>資料位置
 
-我們維護您資料的多個複本之間的備援的資料中心。[請參閱您資料所在的位置](https://office.com/datamaps)。如果我們展開到新的國家或地區資料的位置，我們將會提供您 1 個月換頁另行通知。
+我們跨資料中心的備援維護多份您的資料。 [請參閱您資料所在的位置](https://office.com/datamaps)。 如果我們展開到新的國家或地區資料的位置，我們將提供您一個月事先通知。
   
-如需 Office 365 安全性、 隱私權和規範的詳細資訊，請參閱[Office 365 信任中心](https://products.office.com/business/office-365-trust-center-welcome)。 
+如需有關 Office 365 安全性、 隱私權和規範的詳細資訊，請參閱[Office 365 信任中心](https://products.office.com/business/office-365-trust-center-welcome)。 
   
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000029
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
 ms.openlocfilehash: f42e001ce889b28651c2d1cd70306bdcfa46fd83
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773763"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406375"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>處理收件匣中的網路釣魚詐騙
 
@@ -28,10 +28,10 @@ ms.locfileid: "30773763"
     
 3. 在頁面頂端，選取**不是垃圾郵件**] 旁的箭號，然後選取**網路釣魚**。 
     
-深入了解如何[處理濫用、 網路釣魚，或詐騙](https://go.microsoft.com/fwlink/p/?linkid=873139)。
+深入了解如何[處理不當使用、網路釣魚或詐騙](https://go.microsoft.com/fwlink/p/?linkid=873139)。
   
-如果您看見增加的垃圾郵件，請閱讀如何[協助保護垃圾郵件和收件匣超出垃圾郵件](https://go.microsoft.com/fwlink/p/?linkid=873140)。
+如果您看到垃圾郵件數量增加，請繼續閱讀如何[協助防止收件匣收到垃圾郵件](https://go.microsoft.com/fwlink/p/?linkid=873140)。
   
-若要封鎖電子郵件地址，請移至 [**設定** \> **選項** \> **封鎖的寄件者**。 若要將地址或網域新增至您的安全寄件者清單中，選取 [**安全寄件者**。 
+若要封鎖電子郵件地址，請參閱 [設定]**** \> [選項]**** \> [封鎖的寄件者]****。 若要新增地址或網域至安全寄件者清單中，請選取 [安全寄件者]****。 
   
 
