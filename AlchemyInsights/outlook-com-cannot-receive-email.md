@@ -10,11 +10,11 @@ ms.custom: 9000252
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: f5464f01bd33dd7cc34f02829dd50c377569cbd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30782618"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419262"
 ---
 # <a name="cant-receive-email"></a>無法接收電子郵件
 

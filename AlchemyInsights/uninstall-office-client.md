@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f34326-94dd-44e7-867f-c6cac0b4fa75
 ms.openlocfilehash: 026bffe79d86d2608862cbfced86e06f6d55771c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767635"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423822"
 ---
 # <a name="uninstall-office-client"></a>解除安裝 Office 用戶端
 

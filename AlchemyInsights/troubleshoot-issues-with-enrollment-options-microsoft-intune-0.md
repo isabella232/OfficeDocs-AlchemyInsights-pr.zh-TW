@@ -1,5 +1,5 @@
 ---
-title: 疑難排解問題註冊選項 Microsoft Intune （英文）
+title: 疑難排解註冊選項 Microsoft Intune 的問題
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.openlocfilehash: 03677ad3e2b9183796890fe993a305476521eae8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924795"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420403"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>疑難排解問題註冊選項 Microsoft Intune （英文）
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>疑難排解註冊選項 Microsoft Intune 的問題
 
-請檢閱下面列出現在解決問題的資源。 
+請先檢閱下列資源以立即解決您的問題。 
   
-- [檢閱 Intune TechNet 來尋找答案與一般問題的解決方案](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)。
+- [檢閱 Intune TechNet，找到答案和常見的問題的解決方案](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)。
     
-- 使用[Intune 疑難排解入口網站](https://aka.ms/intunetroubleshooting)來診斷及解決常見的註冊失敗。請檢閱[本文件](https://docs.microsoft.com/intune/help-desk-operators)如需詳細資訊。 
+- 使用[Intune 疑難排解入口網站](https://aka.ms/intunetroubleshooting)來診斷和解決常見註冊失敗。 檢閱[本文件](https://docs.microsoft.com/intune/help-desk-operators)如需詳細資訊。 
     
-- 請檢閱[本文件](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune)的每個防止註冊和解決方法的常見錯誤的清單。 
+- 檢閱[本文件](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune)的清單中的每個防止註冊和解決方法的常見錯誤。 
     
-- [解 Microsoft Intune 註冊選項](https://docs.microsoft.com/intune/enrollment-options)。
+- [解 Microsoft Intune 中註冊選項](https://docs.microsoft.com/intune/enrollment-options)。
     
 

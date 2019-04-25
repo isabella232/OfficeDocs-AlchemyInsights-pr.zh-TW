@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 1800014
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
 ms.openlocfilehash: 721061e0c1611c24df138ba3feb7180fd484c7a8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30778208"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423282"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>在行動裝置上使用共用的信箱
 

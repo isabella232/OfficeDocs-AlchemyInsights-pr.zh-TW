@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
 ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30786433"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401175"
 ---
 # <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>修正搜尋問題重建立即搜尋類別目錄
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
 ms.openlocfilehash: cdb0b8949e08f97679da4c598247a28f295d05af
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758565"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32395289"
 ---
 # <a name="canceling-your-office-365-subscription"></a>取消您的 Office 365 訂閱？
 

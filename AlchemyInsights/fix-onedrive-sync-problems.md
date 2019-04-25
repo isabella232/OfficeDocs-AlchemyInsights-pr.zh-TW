@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
 ms.openlocfilehash: c97444d0afa001f20e7c0edcd798501cc21bda46
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759429"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401338"
 ---
 # <a name="fix-onedrive-sync-problems"></a>修正 OneDrive 同步處理問題
 

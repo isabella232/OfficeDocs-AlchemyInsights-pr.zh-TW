@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: 目標位置不能超過 500 個字的文章。
 ms.openlocfilehash: fed43928bcf8a232901c0679376fed3f43705265
-ms.sourcegitcommit: b3cf5130ac8118f0fed66abe5286aa80ee91af52
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30683804"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421411"
 ---
 # <a name="setting-up-project"></a>設定專案
 

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.openlocfilehash: 7162b8b89c09834332eefc17f6e0f9a6e214f955
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859059"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420437"
 ---
 # <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Office 365 試用版使用者傳送電子郵件時發生錯誤： 使用 Spamhaus 封鎖的用戶端主機
 
