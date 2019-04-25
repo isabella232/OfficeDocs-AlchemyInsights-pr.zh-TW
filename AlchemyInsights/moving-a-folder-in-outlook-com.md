@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: 8000062
 ms.assetid: 5042f2a4-6edb-425e-8d6e-df4d9c6c5434
 ms.openlocfilehash: f0fce8670921128f1bbd405d00f91ac4119e25c1
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31903475"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420511"
 ---
-# <a name="moving-a-folder-in-outlookcom"></a><span data-ttu-id="0f3d1-102">移動 Outlook.com 中的資料夾</span><span class="sxs-lookup"><span data-stu-id="0f3d1-102">Moving a folder in Outlook.com</span></span>
+# <a name="moving-a-folder-in-outlookcom"></a><span data-ttu-id="6263d-102">移動 Outlook.com 中的資料夾</span><span class="sxs-lookup"><span data-stu-id="6263d-102">Moving a folder in Outlook.com</span></span>
 
-<span data-ttu-id="0f3d1-103">您可以到新的特別色拖曳 Outlook.com 中的資料夾，您最愛在階層中，或您可以使用 [**移動**] 選項中傳統 Outlook.com 的快顯功能表。</span><span class="sxs-lookup"><span data-stu-id="0f3d1-103">You can drag a folder in Outlook.com to a new spot in your Favorites hierarchy, or you can use the **Move** option in classic Outlook.com the shortcut menu.</span></span> 
+<span data-ttu-id="6263d-103">您可以到新的特別色拖曳 Outlook.com 中的資料夾，您最愛在階層中，或您可以使用 [**移動**] 選項中傳統 Outlook.com 的快顯功能表。</span><span class="sxs-lookup"><span data-stu-id="6263d-103">You can drag a folder in Outlook.com to a new spot in your Favorites hierarchy, or you can use the **Move** option in classic Outlook.com the shortcut menu.</span></span> 
   
-<span data-ttu-id="0f3d1-104">您可重新排列 **[我的最愛**] 中的任何資料夾，但您無法重新排序或子資料夾設為最上層 Outlook.com beta 版。</span><span class="sxs-lookup"><span data-stu-id="0f3d1-104">You can reorder any folders in **Favorites**, but you can't reorder or make a subfolder a top-level folder in the Outlook.com beta.</span></span> <span data-ttu-id="0f3d1-105">如果您不小心子資料夾，或移動的最上層資料夾，以便讓它成為子資料夾，建立新的資料夾及所有的電子郵件複製到新的最上層資料夾的子資料夾。</span><span class="sxs-lookup"><span data-stu-id="0f3d1-105">If you accidentally make a subfolder, or move a top-level folder so that it becomes a subfolder, create a new folder and copy all your email from the subfolder to the new top-level folder.</span></span> 
+<span data-ttu-id="6263d-104">您可重新排列 **[我的最愛**] 中的任何資料夾，但您無法重新排序或子資料夾設為最上層 Outlook.com beta 版。</span><span class="sxs-lookup"><span data-stu-id="6263d-104">You can reorder any folders in **Favorites**, but you can't reorder or make a subfolder a top-level folder in the Outlook.com beta.</span></span> <span data-ttu-id="6263d-105">如果您不小心子資料夾，或移動的最上層資料夾，以便讓它成為子資料夾，建立新的資料夾及所有的電子郵件複製到新的最上層資料夾的子資料夾。</span><span class="sxs-lookup"><span data-stu-id="6263d-105">If you accidentally make a subfolder, or move a top-level folder so that it becomes a subfolder, create a new folder and copy all your email from the subfolder to the new top-level folder.</span></span> 
   
-<span data-ttu-id="0f3d1-106">深入了解如何[移動或重新命名 Outlook.com 中的資料夾](https://support.office.com/article/c9c66fed-8a7c-426a-afc6-0d46a72080fb)。</span><span class="sxs-lookup"><span data-stu-id="0f3d1-106">Learn more about how to [Move or rename a folder in Outlook.com](https://support.office.com/article/c9c66fed-8a7c-426a-afc6-0d46a72080fb).</span></span>
+<span data-ttu-id="6263d-106">深入了解如何[移動或重新命名 Outlook.com 中的資料夾](https://support.office.com/article/c9c66fed-8a7c-426a-afc6-0d46a72080fb)。</span><span class="sxs-lookup"><span data-stu-id="6263d-106">Learn more about how to [Move or rename a folder in Outlook.com](https://support.office.com/article/c9c66fed-8a7c-426a-afc6-0d46a72080fb).</span></span>
   
 
