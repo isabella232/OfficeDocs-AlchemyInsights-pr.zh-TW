@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
 ms.openlocfilehash: 76570a37a8683863eba8ad18b7f92e86bafa97f6
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760005"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396479"
 ---
 # <a name="buy-additional-licenses"></a>購買額外的授權
 
-1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
+1. 移至系統管理中心中的 [[訂閱]](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面，或選擇 **[計費]** \> **[訂閱]**。
     
 2. 在 [**訂閱**] 頁面上，選擇您想要新增至授權的訂閱，然後選擇 [**新增/移除授權**。
     

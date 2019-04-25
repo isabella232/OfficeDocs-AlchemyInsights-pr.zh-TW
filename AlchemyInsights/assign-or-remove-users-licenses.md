@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
 ms.openlocfilehash: 13c2d59b244a98f5d72ca889ea392f1b6b80e384
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760365"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397071"
 ---
 # <a name="assign-or-remove-users-licenses"></a>指派或移除使用者的授權
 

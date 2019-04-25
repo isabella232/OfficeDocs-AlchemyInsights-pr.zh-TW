@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
 ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767419"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400014"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>如何新增或減少授權
 
 以下是如何移除或購買更多授權。
   
-1. 在系統管理中心中，移至 [訂閱][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面，或選擇 [計費]**** \> [訂閱]****。
+1. 移至系統管理中心中的 [[訂閱]](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面，或選擇 **[計費]** \> **[訂閱]**。
     
 2. 在左邊，選取您想要新增/移除授權的訂閱
     

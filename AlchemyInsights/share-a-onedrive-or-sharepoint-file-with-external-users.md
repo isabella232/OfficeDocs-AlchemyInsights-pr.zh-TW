@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
 ms.openlocfilehash: 24bb0e8a1ad5b1ef33c57b1bcb5bed939009749c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766483"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32377803"
 ---
 # <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>與外部使用者共用的 OneDrive 或 SharePoint 檔案或資料夾
 
