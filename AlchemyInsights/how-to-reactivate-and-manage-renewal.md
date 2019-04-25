@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
 ms.openlocfilehash: 2d9eca47bae44034573844c16af17229e16871e5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755217"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32416774"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>如何重新啟動及管理週期性帳單
 

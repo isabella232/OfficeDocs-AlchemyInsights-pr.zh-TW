@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
 ms.openlocfilehash: b3041ad829993480937fae111c9d43762ac86c3c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941427"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410841"
 ---
 # <a name="information-about-gdpr"></a>GDPR 的相關資訊
 
@@ -25,10 +25,10 @@ ms.locfileid: "29941427"
     
   - [稽核報告](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
     
-- 對**資料主體要求**(DSR)-的資訊探索、 存取、 修正、 限制、 delete、 匯出[此處。](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- 對**資料主體要求**(DSR)-資訊探索、 存取、 修正、 限制、 刪除匯出[此處。](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
     
-- **資料破壞通知**資訊是[此處。](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- 在 [**資料外洩通知**的資訊是[此處。](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
     
-- 在 [**資料位置**上的資訊[此處。](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- 在 [**資料位置**上的資訊是[此處。](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
     
 
