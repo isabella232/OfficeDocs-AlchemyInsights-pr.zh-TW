@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab08e594-ded6-4ad8-a0e1-b365960a4293
 ms.openlocfilehash: c38c3f9156c87ef15cd01abfc77d181978c28887
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762739"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407769"
 ---
-# <a name="convert-a-user-mailbox-to-a-room-or-equipment-mailbox"></a><span data-ttu-id="5a742-102">將使用者信箱轉換成會議室或設備信箱</span><span class="sxs-lookup"><span data-stu-id="5a742-102">Convert a user mailbox to a room or equipment mailbox</span></span>
+# <a name="convert-a-user-mailbox-to-a-room-or-equipment-mailbox"></a><span data-ttu-id="d2c6b-102">將使用者信箱轉換成會議室或設備信箱</span><span class="sxs-lookup"><span data-stu-id="d2c6b-102">Convert a user mailbox to a room or equipment mailbox</span></span>
 
-<span data-ttu-id="5a742-103">您也可以將轉換信箱從一個信箱類型到另一個，但是您必須執行這些工作，使用 Exchange Online PowerShell。</span><span class="sxs-lookup"><span data-stu-id="5a742-103">You can also convert a mailbox from one mailbox type to another, but you'll have to perform these tasks using Exchange Online PowerShell.</span></span> <span data-ttu-id="5a742-104">如需詳細資訊請參閱[將信箱轉換](https://go.microsoft.com/fwlink/p/?LinkId=832875)。</span><span class="sxs-lookup"><span data-stu-id="5a742-104">Check out [Convert a Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=832875) for more details.</span></span> 
+<span data-ttu-id="d2c6b-103">您也可以將轉換信箱從一個信箱類型到另一個，但是您必須執行這些工作，使用 Exchange Online PowerShell。</span><span class="sxs-lookup"><span data-stu-id="d2c6b-103">You can also convert a mailbox from one mailbox type to another, but you'll have to perform these tasks using Exchange Online PowerShell.</span></span> <span data-ttu-id="d2c6b-104">如需詳細資訊請參閱[將信箱轉換](https://go.microsoft.com/fwlink/p/?LinkId=832875)。</span><span class="sxs-lookup"><span data-stu-id="d2c6b-104">Check out [Convert a Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=832875) for more details.</span></span> 
   
 
