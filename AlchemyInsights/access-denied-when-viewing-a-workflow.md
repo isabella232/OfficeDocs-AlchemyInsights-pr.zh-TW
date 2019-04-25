@@ -1,5 +1,5 @@
 ---
-title: 檢視工作流程時拒絕存取
+title: 檢視工作流程時，拒絕存取
 ms.author: kirks
 author: Techwriter40
 ms.date: 11/27/2018
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
 ms.openlocfilehash: 43369c600687d6ac253f70a8535dc2bd0d41687e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918818"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389878"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="12ce9-102">檢視工作流程時拒絕存取</span><span class="sxs-lookup"><span data-stu-id="12ce9-102">Access denied when viewing a Workflow</span></span>
+# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="cdac4-102">檢視工作流程時，拒絕存取</span><span class="sxs-lookup"><span data-stu-id="cdac4-102">Access denied when viewing a Workflow</span></span>
 
-<span data-ttu-id="12ce9-103">如果 SharePoint 群組的成員資格] 未設為任何人使用 「 拒絕存取 」 錯誤訊息嘗試將電子郵件傳送至 SharePoint 群組的 SharePoint 2013 工作流程可能會失敗。</span><span class="sxs-lookup"><span data-stu-id="12ce9-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
+<span data-ttu-id="cdac4-103">如果 SharePoint 群組的成員資格不設為所有人，嘗試將電子郵件傳送至 SharePoint 群組的 SharePoint 2013 工作流程可能會失敗與 「 存取被拒 」 錯誤訊息。</span><span class="sxs-lookup"><span data-stu-id="cdac4-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
   
- <span data-ttu-id="12ce9-104">**若要解決此問題，請執行下列步驟：**</span><span class="sxs-lookup"><span data-stu-id="12ce9-104">**To resolve this issue, do these steps:**</span></span>
+ <span data-ttu-id="cdac4-104">**若要解決此問題，請執行下列步驟：**</span><span class="sxs-lookup"><span data-stu-id="cdac4-104">**To resolve this issue, do these steps:**</span></span>
   
- 1. <span data-ttu-id="12ce9-105">可讓所有人都可以看到的 SharePoint 群組的成員。</span><span class="sxs-lookup"><span data-stu-id="12ce9-105">Allow everybody to see the members of the SharePoint group.</span></span> 
+ 1. <span data-ttu-id="cdac4-105">允許所有人都可以查看 SharePoint 群組的成員。</span><span class="sxs-lookup"><span data-stu-id="cdac4-105">Allow everybody to see the members of the SharePoint group.</span></span> 
   
- 2. <span data-ttu-id="12ce9-106">SharePoint 群組移除 [收件者] 或 [副本] 行的電子郵件。</span><span class="sxs-lookup"><span data-stu-id="12ce9-106">Remove the SharePoint group from the To or CC line of the email.</span></span> 
+ 2. <span data-ttu-id="cdac4-106">SharePoint 群組移除 [收件者] 或 [副本] 行的電子郵件。</span><span class="sxs-lookup"><span data-stu-id="cdac4-106">Remove the SharePoint group from the To or CC line of the email.</span></span> 
   
- 3. <span data-ttu-id="12ce9-107">明確地將使用者新增至 [收件者] 或 [副本] 行如果成員資格不能變更可見度 SharePoint 群組。</span><span class="sxs-lookup"><span data-stu-id="12ce9-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span> 
+ 3. <span data-ttu-id="cdac4-107">明確地將使用者新增至 [收件者] 或 [副本] 行如果無法變更 SharePoint 群組成員資格可見性。</span><span class="sxs-lookup"><span data-stu-id="cdac4-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span> 
   
-<span data-ttu-id="12ce9-108">若要檢視的詳細資訊請參考[HTTP 未經授權至 /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)。</span><span class="sxs-lookup"><span data-stu-id="12ce9-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
+<span data-ttu-id="cdac4-108">若要檢視的詳細資訊請參閱[HTTP 未經授權至 /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)。</span><span class="sxs-lookup"><span data-stu-id="cdac4-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
   
 

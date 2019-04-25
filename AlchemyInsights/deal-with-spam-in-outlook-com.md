@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: 8000029
 ms.assetid: 6b5f15ba-ced9-4215-8c23-3ec1962a283a
 ms.openlocfilehash: fc6e01c94d885a9cec56080864756047a76e5ac3
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30778033"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406339"
 ---
-# <a name="reduce-junk-email-in-your-inbox"></a><span data-ttu-id="03dc3-102">減少垃圾郵件收件匣中</span><span class="sxs-lookup"><span data-stu-id="03dc3-102">Reduce junk email in your inbox</span></span>
+# <a name="reduce-junk-email-in-your-inbox"></a><span data-ttu-id="45c98-102">減少垃圾郵件收件匣中</span><span class="sxs-lookup"><span data-stu-id="45c98-102">Reduce junk email in your inbox</span></span>
 
-<span data-ttu-id="03dc3-103">如果您看見增加的垃圾郵件，請閱讀如何[協助保護垃圾郵件和收件匣超出垃圾郵件](https://go.microsoft.com/fwlink/p/?linkid=873140)。</span><span class="sxs-lookup"><span data-stu-id="03dc3-103">If you're seeing an increase in spam, read how to [help keep spam and junk email out of your inbox](https://go.microsoft.com/fwlink/p/?linkid=873140).</span></span>
+<span data-ttu-id="45c98-103">如果您看到垃圾郵件數量增加，請繼續閱讀如何[協助防止收件匣收到垃圾郵件](https://go.microsoft.com/fwlink/p/?linkid=873140)。</span><span class="sxs-lookup"><span data-stu-id="45c98-103">If you're seeing an increase in spam, read how to [help keep spam and junk email out of your inbox](https://go.microsoft.com/fwlink/p/?linkid=873140).</span></span>
   
-<span data-ttu-id="03dc3-104">如果您收到的電子郵件，看起來像垃圾郵件，您可以透過以滑鼠右鍵按一下 [郵件報告，然後選取 [**標記為垃圾郵件**。</span><span class="sxs-lookup"><span data-stu-id="03dc3-104">If you get an email that looks like spam, you can report it by right-clicking the message and select **Mark as junk**.</span></span> 
+<span data-ttu-id="45c98-104">如果您收到的電子郵件，看起來像垃圾郵件，您可以透過以滑鼠右鍵按一下 [郵件報告，然後選取 [**標記為垃圾郵件**。</span><span class="sxs-lookup"><span data-stu-id="45c98-104">If you get an email that looks like spam, you can report it by right-clicking the message and select **Mark as junk**.</span></span> 
   
-<span data-ttu-id="03dc3-105">在 Outlook.com 中的垃圾郵件篩選器改善當您將標示為垃圾郵件的郵件。</span><span class="sxs-lookup"><span data-stu-id="03dc3-105">The junk email filters in Outlook.com improve when you mark a message as junk.</span></span> <span data-ttu-id="03dc3-106">您也可以封鎖的電子郵件地址和您不想要接收郵件的網域。</span><span class="sxs-lookup"><span data-stu-id="03dc3-106">You can also block the email addresses and domains you don't want to receive messages from.</span></span>
+<span data-ttu-id="45c98-105">當您將郵件標示為垃圾郵件時，可改善 Outlook.com 中的垃圾郵件篩選器。</span><span class="sxs-lookup"><span data-stu-id="45c98-105">The junk email filters in Outlook.com improve when you mark a message as junk.</span></span> <span data-ttu-id="45c98-106">您也可以封鎖的電子郵件地址和您不想要接收郵件的網域。</span><span class="sxs-lookup"><span data-stu-id="45c98-106">You can also block the email addresses and domains you don't want to receive messages from.</span></span>
   
-<span data-ttu-id="03dc3-107">若要封鎖電子郵件地址，請移至 [**設定** \> **選項** \> **封鎖的寄件者**。</span><span class="sxs-lookup"><span data-stu-id="03dc3-107">To block email addresses, go to **Settings** \> **Options** \> **Blocked senders**.</span></span> <span data-ttu-id="03dc3-108">若要將地址或網域新增至您的安全寄件者清單中，選取 [**安全寄件者**。</span><span class="sxs-lookup"><span data-stu-id="03dc3-108">To add addresses or domains to your safe senders list, select **Safe senders**.</span></span> 
+<span data-ttu-id="45c98-107">若要封鎖電子郵件地址，請參閱 [設定]\*\*\*\* \> [選項]\*\*\*\* \> [封鎖的寄件者]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="45c98-107">To block email addresses, go to **Settings** \> **Options** \> **Blocked senders**.</span></span> <span data-ttu-id="45c98-108">若要新增地址或網域至安全寄件者清單中，請選取 [安全寄件者]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="45c98-108">To add addresses or domains to your safe senders list, select **Safe senders**.</span></span> 
   
 
