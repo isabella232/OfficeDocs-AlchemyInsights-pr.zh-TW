@@ -1,5 +1,5 @@
 ---
-title: 商務用 Skype 問題嗎？
+title: 您有商務用 Skype 的相關問題嗎？
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.openlocfilehash: d19659f203692e4aed2c947c4f8d3348d2286e77
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468438"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409897"
 ---
-# <a name="issue-with-skype-for-business"></a>商務用 Skype 問題嗎？
+# <a name="issue-with-skype-for-business"></a>您有商務用 Skype 的相關問題嗎？
 
-我們已偵測到以下 domain （s） 有問題，可能會導致商務用 Skype 無法正常運作：
+我們偵測到下列網域中可能發生了會讓商務用 Skype 無法正常運作的問題：
   
 {HealthCheckString}
   
-網域 (DNS) 設定 NS，CNAME 或 SRV 記錄未正確設定商務用 skype。 您可以如需詳細指示，請參閱[在 Office 365 中](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)的更新 DNS 記錄。 
+商務用 Skype 網域 (DNS) 設定中的 NS、CNAME 或 SRV 記錄設定不正確。 您可以參閱[在 Office 365 中更新 DNS 記錄](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)以獲得詳細指示。 
   
-若要修正此問題，請移至 Microsoft 365 系統管理中心中，在 [[網域](https://admin.microsoft.com/adminportal/home#/Domains)] 頁面上，我們會協助您使用它。 
+若要修正此問題，請移至 Microsoft 365 系統管理中心的 [網域][](https://admin.microsoft.com/adminportal/home#/Domains) 頁面，我們會提供協助。 
   
-如果您有問題與組織外部的使用者進行通訊，您可以參照來[設定商務用 Skype Online 的外部通訊](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx)如需詳細指示。 
+如果您與貴組織的外部使用者有通訊問題，請參閱[設定商務用 Skype Online 外部通訊](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx)以取得詳細指示。 
   
-[檢查網域常見問題集](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)的其他常用的解決方案。 
+如需其他常見解決方案，請參閱[網域常見問答集](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)。 
   
 
