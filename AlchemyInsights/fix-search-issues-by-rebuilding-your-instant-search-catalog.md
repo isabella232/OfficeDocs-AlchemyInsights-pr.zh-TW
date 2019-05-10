@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401175"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867929"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>修正搜尋問題重建立即搜尋類別目錄
+# <a name="troubleshoot-search-issues"></a>疑難排解搜尋問題
 
-1. 關閉 Outlook，並開啟 **[控制台]**。
-    
-    > [!NOTE]
-    > 根據您正在使用的 Office 版本，您可能需要按一下 [**開始**] 按鈕，並在 [**開始**] 功能表中，以滑鼠右鍵按一下 **[控制台]**。 
-  
-2. 執行下列其中一項動作：
-    
-  - 選擇 [**編製索引的選項**。
-    
-  - 在 [**搜尋**] 方塊中，輸入*編製索引*，然後再選擇**編製索引的選項**。
-    
-3. 在**索引位置**] 對話方塊的 [在下**變更所選的位置**，請選取您要修改的位置的核取方塊，然後按一下 [**確定]**。
-    
-4. 在 [**進階選項**] 對話方塊的 [**索引設定**] 索引標籤的 [**疑難排解**] 下按一下**重建**。
-    
-    > [!NOTE]
-    > **重建索引**] 對話方塊隨即開啟警告的 「 索引可能需要很長的時間才能完成。 」 選擇 **[確定]** 以啟動重建索引。 
-  
-如需詳細資訊，請參閱 < 已知的問題<b0>的 POP/IMAP 帳戶沒有搜尋結果</b0>。
-  
+如果您遇到問題的搜尋，請參閱下列連結，協助疑難排解。
 
+這些都是最常見的問題，而且會是不錯的起點：
+- [Outlook 搜尋未傳回任何結果](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook 搜尋會傳回不完整的結果](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Outlook 搜尋找不到較舊的電子郵件](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+對於較不常見的問題可能的解決方案可以在以下位置找到：
+- [僅限 outlook 2016： 會變為灰色，搜尋索引標籤](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [搜尋結果的共用信箱： 問題](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [錯誤： 會因為如何設定 Outlook 有問題影響搜尋效能](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [搜尋資料夾顯示沒有主旨的未預期的 PersonMetadata 項目](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
