@@ -1,0 +1,22 @@
+---
+title: 1491-search-not-returning-expected-results
+ms.author: kirks
+author: Techwriter40
+manager: pamgreen
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom: 1491
+ms.assetid: ''
+ms.openlocfilehash: cf098254fe5341317083ae932a9ab0b845da7e31
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34718913"
+---
+# <a name="content-search-tool-to-find-relevant-info"></a>若要尋找相關資訊的內容搜尋工具
+
+<p><span style="display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">使用內容搜尋工具安全性&amp;合規性中心，以快速找到 Exchange 信箱中的 [電子郵件文件中的 SharePoint 網站和 OneDrive 位置，以及立即訊息交談中商務用 Skype。您可以使用內容搜尋工具來搜尋電子郵件、 文件和立即訊息交談中 Office 365 共同作業工具，例如 Microsoft Teams 和 Office 365 群組。</span></p> <ol> <li><span style="display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">使用之前<a title="內容搜尋" href="https://sip.protection.office.com/contentsearchbeta?ContentOnly=1"><strong>內容搜尋</strong></a>從<a title="安全性&amp;合規性中心" href="https://sip.protection.office.com/homepage"><strong>安全性&amp;合規性中心</strong></a>，您會想要完成組態設定，包括<a title="設定內容搜尋的權限篩選" href="https://docs.microsoft.com/en-us/office365/securitycompliance/permissions-filtering-for-content-search"> 權限</a>、<a title="設定下載速度" href="https://docs.microsoft.com/en-us/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results">設定下載速度</a>和<a title="匯出設定" href="https://docs.microsoft.com/en-us/office365/securitycompliance/disable-reports-when-you-export-content-search-results">匯出設定</a>。</span></li> <li><span style="display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">深入了解內容搜尋來檢閱<a title="限制" href="https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search">需求和限制</a>、<a title="調查已局部編製索引的項目" href="https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery">調查已局部編製索引的項目</a>與要注意的其他結果。</span></li> <li><span style="display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">檢閱之後的組態設定和內容搜尋的限制，請參閱<a title="使用內容搜尋" href="https://docs.microsoft.com/en-us/office365/securitycompliance/content-search">使用內容搜尋</a>若要搜尋的電子郵件、 文件等立即訊息交談 Office 365 組織中的就地項目。</span></li> </ol> <p><span style="display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">完整逐步的內容搜尋，請參閱<a title="在 Office 365 中的搜尋內容" href="https://docs.microsoft.com/en-us/office365/securitycompliance/search-for-content">在 Office 365 中的搜尋內容</a>如需詳細資訊。&nbsp;</span></p> <p>&nbsp;</p>

@@ -1,0 +1,23 @@
+---
+title: 讓使用者能夠存取 SharePoint 和 OneDrive
+ms.author: kirks
+author: Techwriter40
+manager: pamgreen
+ms.date: 11/14/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom: ''
+ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
+ms.openlocfilehash: ae4d2c00be6387744bdc84e1d8a021530f80f8fa
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34715203"
+---
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>讓使用者能夠存取 SharePoint 和 OneDrive
+
+<p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">當使用者是刪除並重新建立具有相同使用者主體名稱 (UPN)，最常就會發生此問題。使用不同的 PUID （Passport 唯一識別碼） 值，會建立新的帳戶。當使用者嘗試存取網站集合或其 OneDrive 時，使用者會有不正確的 PUID。第二個案例牽涉到目錄同步處理與 Active Directory 組織單位 (OU)。如果使用者有已登入至 SharePoint]，然後會移至不同的 OU 和 resynced 與 SharePoint，否則可能會發生這個問題。</span></p> <p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">若要解決此問題，您應該可以還原原始的 UPN 與此文章中的步驟<a href="https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user?view=o365-worldwide">還原 Office 365 中的使用者。</a></span></p> <p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">完成此工作後，您可以確認使用者具有 OneDrive 網站系統管理員權限依照下列步驟以<a href="https://docs.microsoft.com/en-us/sharepoint/manage-user-profiles?redirectSourcePath=%252fen-us%252farticle%252fmanage-user-profiles-in-the-sharepoint-admin-center-494bec9c-6654-41f0-920f-f7f937ea9723#add-and-remove-admins-for-a-users-onedrive">新增管理員的使用者的 onedrive。</a></span></p> <p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">如需有關權限層級的詳細資訊，請參閱此文章<a href="https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels">了解在 SharePoint 中的權限等級。</a>&nbsp;</span></p>
