@@ -2,7 +2,7 @@
 title: 973 移轉 StalledDueTo * 規則
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 973
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: c866ec261e96552f04c4a71cbd34c9b200f7a895
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a3cce9e2e9abf8999d065c8e5d4de64c63183146
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418496"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755919"
 ---
 # <a name="stalleddueto-errors-during-migration"></a>在移轉期間的 StalledDueTo 錯誤
 

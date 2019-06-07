@@ -2,19 +2,19 @@
 title: 若要將移至 Office 365 使用基本混合式
 ms.author: dstrome
 author: dstrome
-manager: serdars
+manager: dansimp
 ms.date: 5/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
-ms.openlocfilehash: fe0972213218c09e3cf8b247a7b44b951a2a6521
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 228d7866f5a2594009ca838fe156aaf805ccde3f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423232"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757174"
 ---
 # <a name="using-minimal-hybrid-to-move-to-office-365"></a>若要將移至 Office 365 使用基本混合式
 
