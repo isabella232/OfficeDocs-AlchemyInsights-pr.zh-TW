@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ccf0ebf52112f0932d3a41000c6d6e76fce4180d
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 10f7f26af6e208872c25c2ff22e925408f9d42c1
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736009"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34758827"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>在 SharePoint 網站的網站和頁面導覽
 
@@ -23,14 +23,14 @@ ms.locfileid: "34736009"
 
  如需有關導覽選項的詳細資訊，請瀏覽下列連結。
 
- - [規劃新式 SharePoint 體驗的導覽](https://docs.microsoft.com/en-us/sharepoint/plan-navigation-modern-experience)
+ - [規劃新式 SharePoint 體驗的導覽](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
 
-- [自訂 SharePoint 網站上的瀏覽](https://support.office.com/en-us/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
+- [自訂 SharePoint 網站上的瀏覽](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
 
-- [SharePoint Online 的導覽選項](https://docs.microsoft.com/en-us/office365/enterprise/navigation-options-for-sharepoint-online)
+- [SharePoint Online 的導覽選項](https://docs.microsoft.com/office365/enterprise/navigation-options-for-sharepoint-online)
  
 - [使用 megamenu 瀏覽 SharePoint 網站組織](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-SharePoint-sites-with-megamenu-navigation-and-new/ba-p/328068)
 
-- [受管理的中繼資料和 SharePoint 中的導覽](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
+- [受管理的中繼資料和 SharePoint 中的導覽](https://docs.microsoft.com/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
 
 

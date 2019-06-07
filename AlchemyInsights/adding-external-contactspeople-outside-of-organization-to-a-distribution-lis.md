@@ -2,7 +2,7 @@
 title: 718 新增外部連絡人至通訊群組清單的組織外部人員 /
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 718
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: 02777d2c576ac79983d6df13a0f78a1b86dec038
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cbe01f20b4da6ef1517f937d1622b50fd2c29269
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398521"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34754302"
 ---
 # <a name="add-external-email-addresses-to-a-distribution-group"></a>將外部電子郵件地址新增至通訊群組
 

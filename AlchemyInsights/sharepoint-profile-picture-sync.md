@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: 467b6ddca96e04d814dc8d6669cd27c3f67c4f8d
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 73b1dcc9cd0220a05bfb9dfbb743693f7b6c117e
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735029"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34759037"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>何時執行動作我的設定檔變更同步處理至 SharePoint 使用者設定檔應用程式？
 
@@ -24,7 +24,7 @@ ms.locfileid: "34735029"
 
 - 使用其公司或學校帳戶，登入，然後按一下 [OneDrive 或 SharePoint] 磚。
 
-- [將您的設定檔相片新增至 Office 365](https://support.office.com/en-us/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
+- [將您的設定檔相片新增至 Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
 
-- [Office 365 中的設定檔圖片同步處理的相關資訊](https://support.office.com/en-us/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)。
+- [Office 365 中的設定檔圖片同步處理的相關資訊](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)。
 

@@ -2,7 +2,7 @@
 title: 714 讓外部寄件者電子郵件通訊群組清單
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 714
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 58dddb870c14cdd690059bb43bd63beaae2127b6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d39339deb0f4b64938e3d7a716dd75fdbcb11f0d
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397807"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34754482"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>允許外部寄件者傳送郵件給通訊群組
 

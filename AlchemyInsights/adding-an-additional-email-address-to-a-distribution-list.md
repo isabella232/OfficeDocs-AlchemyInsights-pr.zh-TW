@@ -2,7 +2,7 @@
 title: 713 將額外的電子郵件地址新增至通訊群組清單
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 713
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 491014e8f452faed4b78140b5fdf4bbd82ddba58
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7f43bbc893a3163eb76a3239b689c76f266adca5
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398593"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34754554"
 ---
 # <a name="add-an-email-address-for-a-distribution-group"></a>新增通訊群組的電子郵件地址
 
