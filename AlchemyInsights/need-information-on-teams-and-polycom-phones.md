@@ -2,22 +2,22 @@
 title: 1703 需要有關 Teams 和 Polycom 電話的資訊
 ms.author: heidip
 author: microsoftheidi
-manager: serdars
+manager: dansimp
 ms.date: 2/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: 1703
-ms.openlocfilehash: 3dfbec5c7e29a40d1fdc3c2dfe2edc0da6374f32
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5741aab79cd4647f2ad2ff01c05ccbac33c62a46
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417907"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34762320"
 ---
-# <a name="polycom-phones-and-microsoft-teams"></a><span data-ttu-id="67550-102">Polycom 電話及 Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="67550-102">Polycom phones and Microsoft Teams</span></span>
+# <a name="polycom-phones-and-microsoft-teams"></a><span data-ttu-id="05bb8-102">Polycom 電話及 Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="05bb8-102">Polycom phones and Microsoft Teams</span></span>
 
-<span data-ttu-id="67550-103">請查看此 [Polycom 連結](http://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf)，以取得有關使用 Polycom 電話搭配 Microsoft Teams 的詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="67550-103">Please check this [Polycom link](http://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf) for more specific information on using Polycom phones with Microsoft Teams.</span></span>
+<span data-ttu-id="05bb8-103">請查看此 [Polycom 連結](http://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf)，以取得有關使用 Polycom 電話搭配 Microsoft Teams 的詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="05bb8-103">Please check this [Polycom link](http://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf) for more specific information on using Polycom phones with Microsoft Teams.</span></span>
 
-<span data-ttu-id="67550-104">如果您想要深入了解如何使用電話搭配 Teams，請參閱[此文章](https://docs.microsoft.com/zh-TW/microsoftteams/phones-for-teams)。</span><span class="sxs-lookup"><span data-stu-id="67550-104">If you'd like to learn more about using phones with Teams, check out [this article](https://docs.microsoft.com/zh-TW/microsoftteams/phones-for-teams).</span></span>
+<span data-ttu-id="05bb8-104">如果您想要深入了解如何使用電話搭配 Teams，請參閱[此文章](https://docs.microsoft.com/zh-TW/microsoftteams/phones-for-teams)。</span><span class="sxs-lookup"><span data-stu-id="05bb8-104">If you'd like to learn more about using phones with Teams, check out [this article](https://docs.microsoft.com/en-us/microsoftteams/phones-for-teams).</span></span>
