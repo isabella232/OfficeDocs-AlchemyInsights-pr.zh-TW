@@ -2,22 +2,22 @@
 title: 設定混合式環境
 ms.author: dstrome
 author: dstrome
-manager: serdars
+manager: dansimp
 ms.date: 5/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 281c7bcbcffde8760ac67e2a296a7d37cda0ab2a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e14ef9c362aaac39c5730ceb44a7c4bc049c29e1
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421663"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761393"
 ---
-# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="ed65b-102">設定混合式環境</span><span class="sxs-lookup"><span data-stu-id="ed65b-102">Setting up a hybrid environment</span></span>
+# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="e422f-102">設定混合式環境</span><span class="sxs-lookup"><span data-stu-id="e422f-102">Setting up a hybrid environment</span></span>
 
-<span data-ttu-id="ed65b-103">若要讓使用者可以順暢地搭配使用，無論文如果其資料儲存在內部部署伺服器上或在 Office 365 中，您可能需要設定混合式環境。</span><span class="sxs-lookup"><span data-stu-id="ed65b-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="ed65b-104">若要取得您選項的概觀，請參閱[Office 365 與內部部署環境的整合](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx)。</span><span class="sxs-lookup"><span data-stu-id="ed65b-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span></span>
+<span data-ttu-id="e422f-103">若要讓使用者可以順暢地搭配使用，無論文如果其資料儲存在內部部署伺服器上或在 Office 365 中，您可能需要設定混合式環境。</span><span class="sxs-lookup"><span data-stu-id="e422f-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="e422f-104">若要取得您選項的概觀，請參閱[Office 365 與內部部署環境的整合](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx)。</span><span class="sxs-lookup"><span data-stu-id="e422f-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span></span>
   
 
