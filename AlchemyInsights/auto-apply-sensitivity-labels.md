@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408710"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769534"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>自動套用敏感度標籤
 
@@ -25,7 +25,7 @@ ms.locfileid: "32408710"
 若要自動套用標籤，以下是需要：
 
 - Azure 資訊保護 P2 訂用帳戶
-- [下載並安裝 Azure 資訊保護整合標示用戶端](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [下載並安裝 Azure 資訊保護整合標示用戶端](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 我們正在將不會在未來需要 Azure 資訊保護整合標示用戶端的原生支援。
 
@@ -33,5 +33,5 @@ ms.locfileid: "32408710"
 
 如需有關敏感度標籤，並自動套用至內容的詳細資訊，請參閱：
 
-- [敏感度標籤概觀](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [自動將敏感度標籤套用到內容](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [敏感度標籤概觀](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [自動將敏感度標籤套用到內容](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

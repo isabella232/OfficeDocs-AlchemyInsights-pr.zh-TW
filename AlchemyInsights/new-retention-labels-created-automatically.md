@@ -9,16 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 950b20b9982bbac8620a153315598a2b6ea08c6f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6f36420280cc016c1117d19c15c2887d4e308f77
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418105"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771191"
 ---
 # <a name="new-retention-labels-created-automatically"></a>自動建立新的保留標籤
 
-您可能會看到[三個新的保留標籤](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy)自動建立安全性或規範系統管理中心中的**保留標籤**在組織中。 標籤名稱如下：
+您可能會看到[三個新的保留標籤](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy)自動建立安全性或規範系統管理中心中的**保留標籤**在組織中。 標籤名稱如下：
 
 - 作業程序
 - 一般業務
@@ -30,4 +30,4 @@ ms.locfileid: "32418105"
 
 1. 選取您想要移除 >**刪除標籤**的保留標籤 > ]**[是]** 以刪除標籤。
 
-檔案計劃管理員] 中，您可以管理保留標籤與原則在您的組織-如需詳細資訊，請參閱[檔案計劃管理員的概觀](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager)。
+檔案計劃管理員] 中，您可以管理保留標籤與原則在您的組織-如需詳細資訊，請參閱[檔案計劃管理員的概觀](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager)。

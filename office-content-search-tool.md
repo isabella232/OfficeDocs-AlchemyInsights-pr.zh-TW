@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ee05de080a9bde2dd150cdfe340dd29875242f71
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756633"
+ms.locfileid: "34770624"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>若要尋找相關資訊的內容搜尋工具
 
 使用安全性 & 合規性中心，以快速找到 Exchange 信箱、 SharePoint 網站和 OneDrive 的位置，以及立即訊息中商務用 Skype 交談中的文件中的 [電子郵件的內容搜尋工具。 您可以使用內容搜尋工具來搜尋電子郵件、 文件和立即訊息交談中 Office 365 共同作業工具，例如 Microsoft Teams 和 Office 365 群組。
 
 
-之前使用[內容搜尋](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1)從[安全性 & 合規性中心](https://sip.protection.office.com/homepage)，您會想要完成組態設定，包括[設定權限](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search)、[設定下載速度](https://docs.microsoft.com/en-us/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results)和[匯出設定](https://docs.microsoft.com/en-us/office365/securitycompliance/disable-reports-when-you-export-content-search-results)。
+之前使用[內容搜尋](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1)從[安全性 & 合規性中心](https://sip.protection.office.com/homepage)，您會想要完成組態設定，包括[設定權限](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search)、[設定下載速度](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results)和[匯出設定](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results)。
 
 了解更多有關內容搜尋檢閱的[需求和限制](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search)、[調查已局部編製索引的項目](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery)和其他結果要注意。
 

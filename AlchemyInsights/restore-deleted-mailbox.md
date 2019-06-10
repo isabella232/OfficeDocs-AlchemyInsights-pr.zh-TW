@@ -14,12 +14,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: d3808cdee54b748abec16035ecb5c093ec6d37f3
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 760587c0e58662283c3c1a647d1cc5fb81187545
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370533"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770729"
 ---
 # <a name="restore-a-deleted-mailbox"></a>還原被刪除的信箱
 
@@ -33,6 +33,6 @@ ms.locfileid: "32370533"
     
 3. 指派 Exchange Online 授權，然後按 [**儲存**
     
-如果您嘗試復原共用信箱，它也是 [可復原的 30 天。 您可以在 [**使用者]** 找到\>**已刪除**的使用者;共用的信箱不需要授權。 如果您知道您需要還原已刪除的使用者，請參閱[還原 Office 365 中的使用者](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user)。
+如果您嘗試復原共用信箱，它也是 [可復原的 30 天。 您可以在 [**使用者]** 找到\>**已刪除**的使用者;共用的信箱不需要授權。 如果您知道您需要還原已刪除的使用者，請參閱[還原 Office 365 中的使用者](https://docs.microsoft.com/office365/admin/add-users/restore-user)。
   
 

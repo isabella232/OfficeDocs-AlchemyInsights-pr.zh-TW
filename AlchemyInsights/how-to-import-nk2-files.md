@@ -13,12 +13,12 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: ed0c679cf3ed9d363e552c04a5ae6d0fc72f88dd
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33630007"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770238"
 ---
 # <a name="how-to-import-nk2-files"></a>如何匯入.nk2 檔案 
 
@@ -37,4 +37,4 @@ ms.locfileid: "33630007"
 
 **附註**：.nk2 重新命名檔案副檔名.old 的下次啟動 Outlook 2013、 Outlook 2016、 Outlook 2019 或 Outlook for Office 365。 如果想要重新匯入.nk2 檔案，請先移除.old 副檔名。
 
-如需詳細資訊，請參閱[匯入] 或 [複製到另一部電腦自動完成清單](https://support.microsoft.com/en-us/help/2806550/how-to-import-nk2-files-into-outlook%)。
+如需詳細資訊，請參閱[匯入] 或 [複製到另一部電腦自動完成清單](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%)。
