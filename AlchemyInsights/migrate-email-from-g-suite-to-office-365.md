@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 1949ad3b6c7f34c4cd2f87f280145b7f8e151370
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 58bb1040c4bcdd279e3ecd17ffeb75abc45cef94
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418820"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769779"
 ---
-# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="4bfe6-102">將電子郵件從 G Suite 移轉到 Office 365</span><span class="sxs-lookup"><span data-stu-id="4bfe6-102">Migrate email from G Suite to Office 365</span></span>
+# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="3e36e-102">將電子郵件從 G Suite 移轉到 Office 365</span><span class="sxs-lookup"><span data-stu-id="3e36e-102">Migrate email from G Suite to Office 365</span></span>
 
-<span data-ttu-id="4bfe6-103">若要將電子郵件從 G Suite 移轉到 Office 365，請遵循此程序：[移轉 G Suite 信箱移轉到 Office 365](https://support.office.com/article/migrate-g-suite-mailboxes-to-office-365-665dc56c-581c-4e35-8028-6bc1e8497016)。</span><span class="sxs-lookup"><span data-stu-id="4bfe6-103">To migrate email from G Suite to Office 365, please follow this process: [Migrate G Suite mailboxes to Office 365](https://support.office.com/article/migrate-g-suite-mailboxes-to-office-365-665dc56c-581c-4e35-8028-6bc1e8497016).</span></span>
+<span data-ttu-id="3e36e-103">若要從 G Suite 的電子郵件移轉至 Office 365 中，使用我們的移轉工具來移轉電子郵件、 行事曆和連絡人：[執行 G Suite 移轉](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)。</span><span class="sxs-lookup"><span data-stu-id="3e36e-103">To migrate email from G Suite to Office 365, use our migration tools to migrate email, calendar and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
   
 
