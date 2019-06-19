@@ -1,28 +1,31 @@
 ---
-title: 網頁型 Outlook 中的讀取回條
+title: Outlook 網頁版中的閱讀回執
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 6/18/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000034"
-ms.openlocfilehash: 9c36ecb691fcd1a80690acac7673f4a010968226
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+- "2470"
+ms.openlocfilehash: 82591667d21902b43049f61c977017a9d4bec4b7
+ms.sourcegitcommit: c4e5c2c8062e1e0423c9c712fa222990da731f00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34682933"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35060387"
 ---
-# <a name="read-receipts"></a>讀信回條
+# <a name="read-receipts"></a>閱讀回執
 
-若要要求讀信回條或送達回條您的郵件： 
+若要為您的郵件要求閱讀回執或傳遞回執:
 
-1. 選取頂端郵件的三個點撰寫窗格。
+1. 選取郵件撰寫窗格頂端的三個點。
 1. 選取 [**顯示郵件選項**]。
-1. 選取 [**要求讀信回條**或**傳遞回條**，或兩者。
+1. 選取 [**要求已讀取的收貨**] 或 [**要求傳遞回執**], 或兩者皆選。
 
-若選擇 Outlook 讀取回條要求的回應，請移至 [**設定** > **檢視所有的 Outlook 設定** > **郵件處理**。
+若要選擇 Outlook 對閱讀回執要求的回應方式, 請移至 [**設定** > ] [**查看所有 Outlook 設定** > **訊息處理**]。
+
+如需詳細資訊, 請參閱[在 Outlook 網頁版中讀取回執](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157)。

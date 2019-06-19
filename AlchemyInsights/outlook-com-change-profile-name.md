@@ -1,5 +1,5 @@
 ---
-title: 變更您在 Outlook.com 中的設定檔名稱
+title: 在 Outlook.com 中變更您的設定檔名稱
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,16 +14,16 @@ ms.custom:
 - "777"
 - "806"
 ms.openlocfilehash: 38903d02b1231240d26da96f25e96d73ffa4548b
-ms.sourcegitcommit: fd08cc6c8723fff65cad612ef9092bfae89f5354
+ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34859207"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35062088"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a>變更您在 Outlook.com 中的設定檔名稱
+# <a name="change-your-profile-name-in-outlookcom"></a>在 Outlook.com 中變更您的設定檔名稱
 
-1. 移至[您的 Microsoft 帳戶的資訊](https://go.microsoft.com/fwlink/p/?linkid=860841)。
-2. 選取 [**編輯名稱**。
-3. 輸入名字和姓氏，然後選取 [**儲存**]。
+1. 移至[您的 Microsoft 帳戶資訊](https://go.microsoft.com/fwlink/p/?linkid=860841)。
+2. 選取 [**編輯名稱**]。
+3. 輸入名字和姓氏, 然後選取 [**儲存**]。
 
-請讓 24 小時的時間讓變更生效移您的設定檔的名稱。
+您的設定檔名稱變更生效時, 請等候最多24小時。

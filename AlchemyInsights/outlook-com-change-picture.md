@@ -1,5 +1,5 @@
 ---
-title: 在 Outlook.com 中變更圖片
+title: 變更 Outlook.com 中的圖片
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,18 +13,18 @@ ms.custom:
 - "8000036"
 - "793"
 ms.openlocfilehash: 84c8b7465c505ff911f0ee156d1eb0cdd8942afd
-ms.sourcegitcommit: fd08cc6c8723fff65cad612ef9092bfae89f5354
+ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34859172"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35062139"
 ---
 # <a name="change-your-account-picture"></a>變更您的帳戶圖片
 
-1. 移至[您的 Microsoft 帳戶的資訊](https://go.microsoft.com/fwlink/p/?linkid=860841)。
-2. 選取 [**變更圖片**。
-3. 選取**新的圖片**。
-4. 選擇您想要使用並選取 [**開啟**] 的圖片。
-5. 拖曳或調整大小圖像] 方塊中，並選取 [**儲存**]。
+1. 移至[您的 Microsoft 帳戶資訊](https://go.microsoft.com/fwlink/p/?linkid=860841)。
+2. 選取 [**變更圖片**]。
+3. 選取 [**新增圖片**]。
+4. 選擇您要使用的圖片, 然後選取 [**開啟**]。
+5. 拖動或調整圖像方塊的大小, 然後選取 [**儲存**]。
 
-請讓變更生效移您設定檔照片最多 24 小時。
+請允許最多24小時對您的設定檔進行變更相片使其生效。
