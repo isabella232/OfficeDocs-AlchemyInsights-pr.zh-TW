@@ -1,5 +1,5 @@
 ---
-title: 如何登出 outlook 網頁版
+title: 如何登出 web 上的 Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643288"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273585"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>如何登出 outlook 網頁版
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>如何登出 web 上的 Outlook
 
-1. 選取您的名稱或圖片在右上角。
-    
-    如果看不到您在螢幕頂端的圖片，請查看如果 ad 封鎖已開啟。 有時這防止顯示圖片。
-    
-2. 選取 [**登出**]。 
-    
-    若要停止自動登入您的工作或學校帳戶，取消核取方塊的**保持我登入**在您輸入密碼的位置] 頁面上。 
-    
-若要深入了解，請參閱[How to 剔除網頁型 Outlook 登入](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)。
+若要登出網頁上的 Outlook, 請在右上角選取您的名稱或圖片, 然後選取 [**登出**]。
+
+若要停止自動登入您的公司或學校帳戶:
+
+1. 選取您的名稱或圖片, 然後選取 [**登出**]。
+1. 移至[Outlook.office.com](https://outlook.office.com/) , 然後選取 [**使用另一個帳戶**]。
+1. 使用您想要使用的電子郵件地址登入。
+
+若要深入瞭解, 請參閱 how [to 登入或登出 web 上的 Outlook](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)。
