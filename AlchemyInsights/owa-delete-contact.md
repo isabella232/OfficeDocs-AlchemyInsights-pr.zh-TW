@@ -1,9 +1,9 @@
 ---
-title: 刪除網頁型 Outlook 中的連絡人
+title: 刪除網頁版 Outlook 中的連絡人
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/9/2019
+ms.date: 5/21/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "8000012"
 - "1997"
-ms.openlocfilehash: 9e9f4a4bd712fa961f1e7a4da7c78a8dfc4c5a35
-ms.sourcegitcommit: 2247a2e723b6c0a1cf3af1f2d82afa1f45803812
+ms.openlocfilehash: 7ad83d301230c81b4b3e635e6ef61faf683344f0
+ms.sourcegitcommit: c72efee4375c3462641639ec78a171d8eae6d631
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33866571"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34335408"
 ---
 # <a name="delete-a-contact"></a>刪除連絡人
 
-1. 選取 [螢幕的左上角的 [**人員**] 圖示。
+1. 在頁面的左下角, 選取 [**人員**] 圖示。
+2. 選取您要刪除的連絡人, 然後選取 [**刪除**]。
 
-2. 選取您想要刪除，然後選取 [**刪除**的連絡人。
-
-    如果無法選取 [**刪除**]，連絡人可能是來自 Skype 或已連線的社交網路帳戶。 若要刪除的連絡人，請移至 Skype 或帳戶連絡人所在的位置。
-
-3. 選取 [**刪除**] 以確認。
+如果您無法選取 [**刪除**], 則該連絡人可能來自 Skype 或連線的社交網路帳戶。 若要刪除連絡人, 請移至 [Skype] 或連絡人所在的帳戶。

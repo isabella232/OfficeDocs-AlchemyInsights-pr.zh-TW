@@ -1,9 +1,9 @@
 ---
-title: 無法刪除相片或檔案從 Outlook.com 中的檔案
+title: 無法從 Outlook.com 中的檔案刪除相片或檔案
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/31/2019
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +14,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 4b292661c4d9c58ad1ff3bb62c6d62f871c664d2
-ms.sourcegitcommit: 6a79e457f0326c2bf1ac96006e93603d94245f8b
+ms.openlocfilehash: 6126fcc1027b34ef44160e3d13c120c179457307
+ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "34669157"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35115835"
 ---
-# <a name="cant-delete-files-or-photos-from-files"></a>無法刪除檔案或相片檔案
+# <a name="cant-delete-files-or-photos-from-files"></a>無法從檔案刪除檔案或相片
 
-檔案會顯示檔案和相片附加至您的信箱中的郵件。 您無法直接從檔案刪除檔案或相片。 若要刪除檔案和相片，您需要刪除它們附加至電子郵件訊息：
+**** 檔案會顯示信箱中的郵件所附加的檔案與相片。 若要移除檔案中的檔案與相片, 您必須刪除他們所附加的電子郵件。 刪除郵件之後, 您也需要從 [刪除的郵件] 資料夾中將它們刪除。
 
-如需詳細資訊，請閱讀[如何刪除檔案或 Outlook.com 的相片](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx)。
+若要深入瞭解, 請參閱[如何刪除 Outlook.com 中的檔案或相片](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy)。

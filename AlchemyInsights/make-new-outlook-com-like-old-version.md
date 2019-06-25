@@ -1,35 +1,33 @@
 ---
-title: 8000035 如何讓新的 Outlook.com 看起來像是舊
+title: 如何讓新的 Outlook.com 看起來像舊的一樣
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409393"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117604"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>如何讓新的 Outlook.com 看起來像舊版本
 
-以下是一些設定和檢視您可以變更讓新的 Outlook.com 看起來像舊的版本。
+以下是您可以變更的一些設定, 讓新的 Outlook.com 看起來像舊的版本:
 
-1. 選取要開啟 [設定] 頁面頂端的齒輪圖示。
-2. 選取您偏好的**佈景主題**。
-3. 將 **[交談] 檢視**變更為**最上層的最新郵件**。
-4. 若要**隱藏**變更**讀取窗格**。
-5. 若要**關閉**切換**焦點收件匣**。
-6. 切換到 [**關閉**的**寄件者的影像**。 
-7. 若要**關閉**切換**依日期群組訊息**。 
-8. 切換到 [**關閉**的**附件預覽**。 
-9. 切換**訊息 「 預覽 」 文字****上**。
+1. 移至 [[版面配置] 設定](https://outlook.live.com/mail/options/mail/layout)。
+1. 在 [**焦點收件**匣] 底下, 選取 [**不要排序我的郵件**。
+1. 在 [**郵件組織**] 下, 選取 [最**新的郵件**]。
+1. 在 [**寄件者圖像**] 底下, 選取 [**不要顯示寄件者圖像**
+1. 在 [**讀取窗格]** 下, 選取 [**隱藏讀取窗格]**。
+1. 在 [**郵件預覽文字**] 底下, 選取 [**顯示預覽文字**]。
+1. 在 [**內嵌預覽**] 底下, 選取 [**不要在郵件中顯示附件] 清單**。
 
-附註： 這些是只是一些建議的設定可提供最接近的可能版面配置到 Outlook.com 的傳統版本。 它仍將取決於您所需的設定。
-
-若要讓收件匣的外觀與呈現您想要的方式，請變更您的郵件設定，請參閱[個人化您在 Outlook.com 中新的郵件體驗](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c)。
+若要變更您的收件匣外觀和行為的方式, 請參閱變更您的[信箱在 Outlook.com 中的外觀和新的 Outlook 網頁](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)版。
