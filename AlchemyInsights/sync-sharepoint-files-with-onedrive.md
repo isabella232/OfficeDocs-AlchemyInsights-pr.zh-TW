@@ -1,5 +1,5 @@
 ---
-title: 將 SharePoint 檔案與新的 OneDrive 同步處理用戶端同步
+title: 疑難排解 Sharepoint Online 中的「 在檔案總管中開啟」問題
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 74b79efeb7e46d03dc55f46252d152cd13e66c84
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: fcaca189741bd68878b1dcfab879e6e0f64e6794
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757793"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223631"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>將 SharePoint 檔案與新的 OneDrive 同步處理用戶端同步
+# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>疑難排解 Sharepoint Online 中的「 在檔案總管中開啟」問題
 
-[在檔案總管中開啟] 命令會開啟 [Windows 檔案總管] 的本機執行個體，其中顯示主控 SharePoint 網站的伺服器上的資料夾結構。 因此，我們建議您將 SharePoint 檔案與新的 OneDrive 同步處理用戶端同步](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>，其提供[檔案隨選]，因為它可讓您在本機存取您的檔案，並提供最佳效能。
+[在檔案總管中開啟] 命令會開啟 [Windows 檔案總管] 的本機執行個體，並顯示主控 SharePoint 網站的伺服器上的資料夾結構。 因此，我們建議您[將 SharePoint 檔案與新的 OneDrive 同步處理用戶端同步](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>，其提供[[檔案隨選]](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)，因為它可讓您在本機存取您的檔案，並提供最佳效能。
 
 
 如果您選擇使用總管檢視，而非使用新的同步用戶端，請務必遵循以下文章中提供的步驟及最佳做法。
