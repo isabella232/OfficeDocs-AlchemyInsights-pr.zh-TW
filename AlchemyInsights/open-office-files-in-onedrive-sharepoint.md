@@ -1,5 +1,5 @@
 ---
-title: 在檔案資源管理器中開啟 SharePoint 文件庫
+title: 從 Sharepoint 或 OneDrive 開啟檔案時的問題
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 0f72136d788167472be3b77e83034f5147bbc92c
-ms.sourcegitcommit: ed30ec6cae5e52b54aa1ac7248a847579ad16062
+ms.openlocfilehash: 58ee71bfc802bdd6fe1f1d892399dff4f71641fe
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35079304"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223667"
 ---
-# <a name="open-office-files-and-documents-from-sharepoint-and-onedrive"></a>從 SharePoint 和 OneDrive 開啟 Office 檔案和檔
+# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>從 Sharepoint 或 OneDrive 開啟檔案時的問題 
 
 
 如果您在從 SharePoint 或 OneDrive 文件庫開啟 Office 檔案和檔時發生問題, 以下是一些可協助您修正的建議。
