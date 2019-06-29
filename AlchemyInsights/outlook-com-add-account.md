@@ -8,28 +8,30 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000236
-ms.openlocfilehash: f0f4064d8ff6bed2412084e1041d7d3ab4fa653d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1819"
+- "9000236"
+ms.openlocfilehash: e9cd0cffaae247ee2442713434c9d8bb256dba19
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418253"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377760"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a><span data-ttu-id="35a8d-102">將其他電子郵件帳戶新增至 Outlook.com</span><span class="sxs-lookup"><span data-stu-id="35a8d-102">Add your other email accounts to Outlook.com</span></span>
+# <a name="add-your-other-email-accounts-to-outlookcom"></a><span data-ttu-id="ecb25-102">將其他電子郵件帳戶新增至 Outlook.com</span><span class="sxs-lookup"><span data-stu-id="ecb25-102">Add your other email accounts to Outlook.com</span></span>
 
-<span data-ttu-id="35a8d-103">當您將其他電子郵件帳戶新增至 Outlook.com 時，您可以使用 Outlook.com 來傳送及讀取這些帳戶中的電子郵件，而不需要離開 Outlook.com。</span><span class="sxs-lookup"><span data-stu-id="35a8d-103">When you add other email accounts to Outlook.com, you can use Outlook.com to send and read email messages from those accounts without leaving Outlook.com.</span></span> <span data-ttu-id="35a8d-104">您將新增至 Outlook.com 每個帳戶稱為 「 已連線的帳戶。</span><span class="sxs-lookup"><span data-stu-id="35a8d-104">Each account you add to Outlook.com is called a connected account.</span></span>
+<span data-ttu-id="ecb25-103">當您將其他電子郵件帳戶新增至 Outlook.com 時, 您可以使用 Outlook.com 從這些帳戶傳送及讀取電子郵件, 而不需離開 Outlook.com。</span><span class="sxs-lookup"><span data-stu-id="ecb25-103">When you add other email accounts to Outlook.com, you can use Outlook.com to send and read email messages from those accounts without leaving Outlook.com.</span></span> <span data-ttu-id="ecb25-104">您新增至 Outlook.com 的每個帳戶稱為「線上帳戶」。</span><span class="sxs-lookup"><span data-stu-id="ecb25-104">Each account you add to Outlook.com is called a connected account.</span></span>
 
-<span data-ttu-id="35a8d-105">附註： 從您已連線的帳戶同步處理至您的 Outlook.com 帳戶只有單向。</span><span class="sxs-lookup"><span data-stu-id="35a8d-105">Note: Syncing from your connected account to your Outlook.com account is one-way only.</span></span> <span data-ttu-id="35a8d-106">從您已連線的帳戶使用 Outlook.com 傳送電子郵件不會出現在您已連線的帳戶傳送的項目。</span><span class="sxs-lookup"><span data-stu-id="35a8d-106">Email sent from your connected account using Outlook.com will not appear in your connected account Sent Items.</span></span>
+<span data-ttu-id="ecb25-105">附注: 從連線的帳戶同步處理至您的 Outlook.com 帳戶只是單向的。</span><span class="sxs-lookup"><span data-stu-id="ecb25-105">Note: Syncing from your connected account to your Outlook.com account is one-way only.</span></span> <span data-ttu-id="ecb25-106">使用 Outlook.com 從您連線的帳戶傳送的電子郵件, 將不會出現在您已連線的帳戶傳送專案中。</span><span class="sxs-lookup"><span data-stu-id="ecb25-106">Email sent from your connected account using Outlook.com will not appear in your connected account Sent Items.</span></span>
 
-<span data-ttu-id="35a8d-107">若要新增的已連線的帳戶：</span><span class="sxs-lookup"><span data-stu-id="35a8d-107">To add a connected account:</span></span>
+<span data-ttu-id="ecb25-107">若要新增連線的帳戶:</span><span class="sxs-lookup"><span data-stu-id="ecb25-107">To add a connected account:</span></span>
 
-1. <span data-ttu-id="35a8d-108">開啟您[同步處理電子郵件設定](https://go.microsoft.com/fwlink/?linkid=875264)]。</span><span class="sxs-lookup"><span data-stu-id="35a8d-108">Open your [Sync Email settings](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
-2. <span data-ttu-id="35a8d-109">在 [**連線的帳戶**，請選取**Gmail**或**其他電子郵件帳戶**。</span><span class="sxs-lookup"><span data-stu-id="35a8d-109">Under **Connected accounts**, select **Gmail** or **Other email accounts**.</span></span>
-3. <span data-ttu-id="35a8d-110">在 [連線您的帳戶] 頁面中，輸入 （當他們收到來自您的電子郵件訊息時，會看到的名稱收件者） 的顯示名稱及完整的電子郵件地址，而且想要連線至您的 Outlook.com 帳戶的電子郵件帳戶的密碼。</span><span class="sxs-lookup"><span data-stu-id="35a8d-110">On the Connect your account page, enter a display name (the name recipients will see when they receive an email message from you) and the full email address and password of the email account you want to connect to your Outlook.com account.</span></span>
+1. <span data-ttu-id="ecb25-108">開啟 [[同步處理電子郵件] 設定](https://go.microsoft.com/fwlink/?linkid=875264)。</span><span class="sxs-lookup"><span data-stu-id="ecb25-108">Open your [Sync Email settings](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
+2. <span data-ttu-id="ecb25-109">在 [**連線的帳戶**] 下, 選取**Gmail**或**其他電子郵件帳戶**。</span><span class="sxs-lookup"><span data-stu-id="ecb25-109">Under **Connected accounts**, select **Gmail** or **Other email accounts**.</span></span>
+3. <span data-ttu-id="ecb25-110">在 [連接帳戶] 頁面上, 輸入顯示名稱 (當收件者收到您的電子郵件訊息時, 會看到的名稱), 以及您要連線至 Outlook.com 帳戶之電子郵件帳戶的完整電子郵件地址和密碼。</span><span class="sxs-lookup"><span data-stu-id="ecb25-110">On the Connect your account page, enter a display name (the name recipients will see when they receive an email message from you) and the full email address and password of the email account you want to connect to your Outlook.com account.</span></span>
 
-<span data-ttu-id="35a8d-111">您可以從任何已連線至您的 Outlook.com 帳戶的帳戶傳送電子郵件。</span><span class="sxs-lookup"><span data-stu-id="35a8d-111">You can send email from any account you've connected to your Outlook.com account.</span></span> <span data-ttu-id="35a8d-112">當您在撰寫電子郵件，**從**選取，然後選擇您要使用的電子郵件地址或[更新預設的從地址](https://go.microsoft.com/fwlink/?linkid=875264)。</span><span class="sxs-lookup"><span data-stu-id="35a8d-112">When composing an email, select **From** and choose which email address you want to use, or [update your default From address](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
+<span data-ttu-id="ecb25-111">您可以從您已連線至 Outlook.com 帳戶的任何帳戶傳送電子郵件。</span><span class="sxs-lookup"><span data-stu-id="ecb25-111">You can send email from any account you've connected to your Outlook.com account.</span></span> <span data-ttu-id="ecb25-112">在撰寫電子郵件時, 請選取 [**發件**人], 然後選擇您要使用的電子郵件地址, 或[更新預設的 [發件](https://go.microsoft.com/fwlink/?linkid=875264)人] 位址。</span><span class="sxs-lookup"><span data-stu-id="ecb25-112">When composing an email, select **From** and choose which email address you want to use, or [update your default From address](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
 
-<span data-ttu-id="35a8d-113">如需詳細資訊，請閱讀[新增其他電子郵件帳戶到 Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba)。</span><span class="sxs-lookup"><span data-stu-id="35a8d-113">For more information, read [Add your other email accounts to Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).</span></span>
+<span data-ttu-id="ecb25-113">如需詳細資訊, 請參閱[將其他電子郵件帳戶新增至 Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba)。</span><span class="sxs-lookup"><span data-stu-id="ecb25-113">For more information, read [Add your other email accounts to Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).</span></span>
 
-<span data-ttu-id="35a8d-114">如果您想要建立新的電子郵件地址，會使用相同的 Outlook.com 帳戶，請閱讀[新增或移除電子郵件別名](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2)。</span><span class="sxs-lookup"><span data-stu-id="35a8d-114">If you want to create a new email address that uses the same Outlook.com account, read [Add or remove an email alias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2).</span></span>
+<span data-ttu-id="ecb25-114">如果您想要建立使用相同 Outlook.com 帳戶的新電子郵件地址, 請閱讀 [[新增或移除電子郵件別名](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2)]。</span><span class="sxs-lookup"><span data-stu-id="ecb25-114">If you want to create a new email address that uses the same Outlook.com account, read [Add or remove an email alias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2).</span></span>

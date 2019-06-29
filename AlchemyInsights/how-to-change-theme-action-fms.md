@@ -1,5 +1,5 @@
 ---
-title: 8000059 如何變更的佈景主題巨集指令 (FMS)
+title: 8000059如何變更主題動作 (FMS)
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -8,17 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000059
+ms.custom:
+- "992"
+- "8000059"
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
-ms.openlocfilehash: fdfe600c07949e4d9b8c68a4211c10440aa6cc96
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fab69aa463903b902830086c820a9bdbcb359524
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399834"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385333"
 ---
-# <a name="how-to-change-your-theme"></a><span data-ttu-id="8bb30-102">如何變更您的佈景主題</span><span class="sxs-lookup"><span data-stu-id="8bb30-102">How to change your theme</span></span>
+# <a name="how-to-change-your-theme"></a><span data-ttu-id="d891f-102">如何變更您的主題</span><span class="sxs-lookup"><span data-stu-id="d891f-102">How to change your theme</span></span>
 
-<span data-ttu-id="8bb30-103">若要變更您 Outlook.com 或網頁型 Outlook 中的佈景主題，請移至 [**設定**，然後選擇 [**佈景主題**的佈景主題。</span><span class="sxs-lookup"><span data-stu-id="8bb30-103">To change your theme in Outlook.com or Outlook on the web, go to **Settings** and choose a theme under **Theme**.</span></span> <span data-ttu-id="8bb30-104">若要查看所有可用的佈景主題，請選取**佈景主題**] 下的**所有的檢視**。</span><span class="sxs-lookup"><span data-stu-id="8bb30-104">To see all available themes, select **View all** under **Theme**.</span></span> 
+<span data-ttu-id="d891f-103">若要在 Outlook.com 或 Outlook 網頁版中變更您的主題, 請移至 [**設定**], 然後選擇 [**主題**] 底下的主題。</span><span class="sxs-lookup"><span data-stu-id="d891f-103">To change your theme in Outlook.com or Outlook on the web, go to **Settings** and choose a theme under **Theme**.</span></span> <span data-ttu-id="d891f-104">若要查看所有可用的主題, 請選取 [**主題**] 底下的 [**全部查看**]。</span><span class="sxs-lookup"><span data-stu-id="d891f-104">To see all available themes, select **View all** under **Theme**.</span></span>
   
-

@@ -1,5 +1,5 @@
 ---
-title: 744 建立使用者時組織處於混合模式
+title: 744當組織處於混合模式時, 建立使用者
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,15 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 744
+ms.custom:
+- "744"
+- "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 8a8f66d7269bc0c2edb197d5bd1577935b48506d
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 29f53f709e1a0c3a6c6ee007c65149e196195a2e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753518"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35363176"
 ---
-# <a name="create-users-in-hybrid-deployments"></a><span data-ttu-id="338c1-102">混合式部署中建立使用者</span><span class="sxs-lookup"><span data-stu-id="338c1-102">Create users in hybrid deployments</span></span>
+# <a name="create-users-in-hybrid-deployments"></a><span data-ttu-id="0c122-102">在混合式部署中建立使用者</span><span class="sxs-lookup"><span data-stu-id="0c122-102">Create users in hybrid deployments</span></span>
 
-<span data-ttu-id="338c1-103">當您的組織內部部署環境與 Office 365 之間的混合式部署時，您需要在內部部署 Active Directory 中建立使用者的所有物件。</span><span class="sxs-lookup"><span data-stu-id="338c1-103">When your organization is a hybrid deployment between an on-premises environment and Office 365, you need to create all user objects in your on-premises Active Directory.</span></span> <span data-ttu-id="338c1-104">讓他們正在同步處理至 Office 365 組織，您可以建立適當的組織單位 (OU) 中的使用者物件。</span><span class="sxs-lookup"><span data-stu-id="338c1-104">You create the user objects in the appropriate organizational unit (OU) so they're synchronized into your Office 365 organization.</span></span>
+<span data-ttu-id="0c122-103">當您的組織是內部部署環境與 Office 365 之間的混合式部署時, 您必須在內部部署 Active Directory 中建立所有使用者物件。</span><span class="sxs-lookup"><span data-stu-id="0c122-103">When your organization is a hybrid deployment between an on-premises environment and Office 365, you need to create all user objects in your on-premises Active Directory.</span></span> <span data-ttu-id="0c122-104">您可以在適當的組織單位 (OU) 中建立使用者物件, 以同步處理至您的 Office 365 組織。</span><span class="sxs-lookup"><span data-stu-id="0c122-104">You create the user objects in the appropriate organizational unit (OU) so they're synchronized into your Office 365 organization.</span></span>

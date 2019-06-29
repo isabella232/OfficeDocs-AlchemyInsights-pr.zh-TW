@@ -1,34 +1,29 @@
 ---
-title: Outlook.com 垃圾郵件和垃圾郵件
+title: 在 Outlook.com 中處理垃圾郵件和垃圾郵件
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 31d81e48cfbc02ad5f93faf1aa707f98a3c67f8e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1896"
+- "9000290"
+ms.openlocfilehash: 37e37c7c810ef23182d6d31eec14b0dfa01b615e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373523"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372000"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a><span data-ttu-id="6afac-102">在 Outlook.com 中的垃圾郵件和垃圾電子郵件</span><span class="sxs-lookup"><span data-stu-id="6afac-102">Spam and junk email in Outlook.com</span></span>
+# <a name="mark-email-messages-as-junk"></a><span data-ttu-id="4795d-102">將電子郵件標示為垃圾郵件</span><span class="sxs-lookup"><span data-stu-id="4795d-102">Mark email messages as junk</span></span>
 
-<span data-ttu-id="6afac-103">若要將標示為垃圾郵件或垃圾郵件的電子郵件：</span><span class="sxs-lookup"><span data-stu-id="6afac-103">To mark an email as junk or spam:</span></span>
+<span data-ttu-id="4795d-103">若要將郵件標記為垃圾郵件或垃圾郵件, 請選取郵寄清單中的訊息, 並選取 [**垃圾** > \*\*\*\* 郵件]。</span><span class="sxs-lookup"><span data-stu-id="4795d-103">To mark a message as junk or spam, select the message in your message list and select **Junk** > **Junk**.</span></span>
 
-1. <span data-ttu-id="6afac-104">在郵件清單中選取郵件。</span><span class="sxs-lookup"><span data-stu-id="6afac-104">Select the message or messages in your message list.</span></span>
-1. <span data-ttu-id="6afac-105">在 [郵件] 清單中，選取 [**垃圾郵件** > **垃圾郵件**。</span><span class="sxs-lookup"><span data-stu-id="6afac-105">Above the message list, select **Junk** > **Junk**.</span></span>
+<span data-ttu-id="4795d-104">若要封鎖來自特定電子郵件地址的所有郵件, 請選取郵寄清單中的郵件, 然後選取 [**垃圾** > 郵件**封鎖**]。</span><span class="sxs-lookup"><span data-stu-id="4795d-104">To block all messages from a specific email address, select the message or messages in your message list and then select **Junk** > **Block**.</span></span>
 
-<span data-ttu-id="6afac-106">**附註：** 如果您發現電子郵件不是垃圾郵件，請選取郵件一次 （將會在您的垃圾郵件] 資料夾），然後選取 [**不是垃圾郵件** > **不是垃圾郵件**。</span><span class="sxs-lookup"><span data-stu-id="6afac-106">**Note:** If you discover that an email message was not spam, select the message again (it will be in your Junk Email folder) and select **Not junk** > **Not junk**.</span></span> <span data-ttu-id="6afac-107">垃圾郵件] 資料夾中的項目會刪除超過 30 天後。 [深入了解如何協助保留垃圾郵件和垃圾郵件不足 Outlook.com 收件匣。](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)</span><span class="sxs-lookup"><span data-stu-id="6afac-107">Items in your Junk Email folder are deleted after 30 days. [Learn more about how to Help keep spam and junk email out of your Outlook.com inbox.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)</span></span>
+<span data-ttu-id="4795d-105">如果您不小心將郵件標示為垃圾郵件, 請選取 [[垃圾郵件] 資料夾](https://outlook.live.com/mail/junkemail)中的郵件, 並選取 [**不** > \*\*\*\* 是垃圾郵件]。</span><span class="sxs-lookup"><span data-stu-id="4795d-105">If you accidentally mark a message as junk, select the message in your [Junk Email folder](https://outlook.live.com/mail/junkemail) and select **Not junk** > **Not junk**.</span></span> <span data-ttu-id="4795d-106">(*附注:* [垃圾郵件] 資料夾中的專案會在30天后刪除)。</span><span class="sxs-lookup"><span data-stu-id="4795d-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
 
-<span data-ttu-id="6afac-108">若要封鎖來自特定電子郵件地址或網域的所有郵件：</span><span class="sxs-lookup"><span data-stu-id="6afac-108">To block all messages from specific email addresses or domains:</span></span>
-
-1. <span data-ttu-id="6afac-109">在郵件清單中選取郵件，然後選取 [**垃圾郵件** > **封鎖** > **[確定]**。</span><span class="sxs-lookup"><span data-stu-id="6afac-109">Select the message or messages in your message list and then select **Junk** > **Block** > **OK**.</span></span> <span data-ttu-id="6afac-110">（如果已在新視窗中開啟電子郵件訊息，**封鎖**的會顯示為頂端的視窗] 選項）。</span><span class="sxs-lookup"><span data-stu-id="6afac-110">(If the email message is already open in a new window, **Block** appears as an option at the top of the window.)</span></span>
-1. <span data-ttu-id="6afac-111">開啟您的[垃圾電子郵件設定](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2)，輸入電子郵件地址或網域您想要封鎖，然後選取 [**新增** > **儲存**。</span><span class="sxs-lookup"><span data-stu-id="6afac-111">Open your [Junk email settings](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2), enter the email address or domain you want to block, and select **Add** > **Save**.</span></span>
-1. <span data-ttu-id="6afac-112">在您的[垃圾郵件篩選器](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption)，您可以選取只信任來自我的安全寄件者和網域清單和安全的郵件清單中的地址的電子郵件。</span><span class="sxs-lookup"><span data-stu-id="6afac-112">In your [Junk email filters](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption), you can select to only trust email from addresses in my Safe senders and domains list and Safe mailing lists.</span></span>
-
-[<span data-ttu-id="6afac-113">深入了解如何封鎖或解除封鎖寄件者在 Outlook.com 中。</span><span class="sxs-lookup"><span data-stu-id="6afac-113">Learn more about how to block or unblock senders in Outlook.com.</span></span>](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)
+<span data-ttu-id="4795d-107">若要深入瞭解, 請參閱[在 Outlook.com 中將電子郵件標示為垃圾郵件或封鎖寄件者](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)。</span><span class="sxs-lookup"><span data-stu-id="4795d-107">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span></span>

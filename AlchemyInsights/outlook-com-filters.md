@@ -9,18 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000203
-ms.openlocfilehash: ca17558a9e1f58f92eba6f9caa18b59cfaaccd45
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1772"
+- "1793"
+- "9000203"
+- "9000215"
+ms.openlocfilehash: 4078d614469bf5cf520d0d4e2378def29ee39acf
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417993"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374952"
 ---
-# <a name="filtering-in-outlookcom"></a><span data-ttu-id="f17e3-102">在 Outlook.com 中篩選</span><span class="sxs-lookup"><span data-stu-id="f17e3-102">Filtering in Outlook.com</span></span>
+# <a name="filtering-in-outlookcom"></a><span data-ttu-id="6216f-102">Outlook.com 中的篩選</span><span class="sxs-lookup"><span data-stu-id="6216f-102">Filtering in Outlook.com</span></span>
 
-<span data-ttu-id="f17e3-103">您可以篩選您的電子郵件數種方式在 Outlook.com 中：</span><span class="sxs-lookup"><span data-stu-id="f17e3-103">You can filter your email messages in a number of ways in Outlook.com:</span></span>
+<span data-ttu-id="6216f-103">您可以在 Outlook.com 中使用多種方式來篩選您的電子郵件:</span><span class="sxs-lookup"><span data-stu-id="6216f-103">You can filter your email messages in a number of ways in Outlook.com:</span></span>
 
-1. [<span data-ttu-id="f17e3-104">變更排序您的電子郵件的方式</span><span class="sxs-lookup"><span data-stu-id="f17e3-104">Change how your email is sorted</span></span>](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7)
-2. [<span data-ttu-id="f17e3-105">封鎖電子郵件地址或電子郵件網域</span><span class="sxs-lookup"><span data-stu-id="f17e3-105">Block an email address or email domain</span></span>](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)
-3. [<span data-ttu-id="f17e3-106">使用進階查詢搜尋來縮小結果</span><span class="sxs-lookup"><span data-stu-id="f17e3-106">Use Advanced Query Search to refine results</span></span>](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7)
+1. [<span data-ttu-id="6216f-104">變更您的電子郵件的排序方式</span><span class="sxs-lookup"><span data-stu-id="6216f-104">Change how your email is sorted</span></span>](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7)
+2. [<span data-ttu-id="6216f-105">封鎖電子郵件地址或電子郵件網域</span><span class="sxs-lookup"><span data-stu-id="6216f-105">Block an email address or email domain</span></span>](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)
+3. [<span data-ttu-id="6216f-106">使用高級查詢搜尋來精簡結果</span><span class="sxs-lookup"><span data-stu-id="6216f-106">Use Advanced Query Search to refine results</span></span>](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7)

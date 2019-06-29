@@ -1,5 +1,5 @@
 ---
-title: 修正 OneDrive 同步問題
+title: 修正 OneDrive 同步處理問題
 ms.author: matteva
 author: pebaum
 ms.date: 6/29/2018
@@ -7,16 +7,18 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "824"
+- "5800003"
 ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
-ms.openlocfilehash: 0c2d1b71e9a6b9376d0315965af80651cc99e9fb
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 507987f147a1b6a09df4da02d307fbf330d7fd8d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401247"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387480"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="bda89-102">修正 OneDrive 同步處理問題</span><span class="sxs-lookup"><span data-stu-id="bda89-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="462bb-102">修正 OneDrive 同步處理問題</span><span class="sxs-lookup"><span data-stu-id="462bb-102">Fix OneDrive sync problems</span></span>
 
-<span data-ttu-id="bda89-103">如果您預期的方式在 OneDrive 不同步檔案，您可以[針對 OneDrive 同步處理問題進行疑難排解](https://go.microsoft.com/fwlink/?linkid=866431)。</span><span class="sxs-lookup"><span data-stu-id="bda89-103">If OneDrive isn't syncing files the way you expect, you can [troubleshoot OneDrive sync issues](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
+<span data-ttu-id="462bb-103">如果 OneDrive 未以您預期的方式同步處理檔, 您可以[疑難排解 OneDrive 同步處理問題](https://go.microsoft.com/fwlink/?linkid=866431)。</span><span class="sxs-lookup"><span data-stu-id="462bb-103">If OneDrive isn't syncing files the way you expect, you can [troubleshoot OneDrive sync issues](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
   
-

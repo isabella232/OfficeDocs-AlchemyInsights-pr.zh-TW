@@ -1,23 +1,26 @@
 ---
-title: Outlook.com 錯誤 550
+title: Outlook.com 錯誤550
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 4/15/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 8000081
+ms.custom:
+- "1328"
+- "8000081"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d3e94779ebbc6d7e6b1ba1d3f445e6f34f2274e1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7f2ee8a5b8a027433d3ecf150ab9f7bd8bdcba47
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419001"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375240"
 ---
-# <a name="error-550553-in-outlookcom"></a><span data-ttu-id="1d123-102">在 Outlook.com 中的錯誤 550/553</span><span class="sxs-lookup"><span data-stu-id="1d123-102">Error 550/553 in Outlook.com</span></span>
+# <a name="error-550553-in-outlookcom"></a><span data-ttu-id="2366b-102">Outlook.com 中的錯誤550/553</span><span class="sxs-lookup"><span data-stu-id="2366b-102">Error 550/553 in Outlook.com</span></span>
 
-<span data-ttu-id="1d123-103">當您開首頁並從您已連線的帳戶使用 Outlook.com 傳送一封電子郵件時，您的電子郵件訊息可能會傳回與 550、 553 或禁止轉送錯誤訊息。</span><span class="sxs-lookup"><span data-stu-id="1d123-103">When you're away from home and send an email from your connected account using Outlook.com, your email message might be returned with a 550, 553, or relay-prohibited error message.</span></span>
-1. <span data-ttu-id="1d123-104">請檢查您的[電子郵件同步處理設定](https://go.microsoft.com/fwlink/?linkid=2031283)以確保您的預設地址從您的電子郵件網域名稱相同。</span><span class="sxs-lookup"><span data-stu-id="1d123-104">Check your [email sync settings](https://go.microsoft.com/fwlink/?linkid=2031283) to ensure your default from address is the same as your email domain name.</span></span> <span data-ttu-id="1d123-105">如果您有包含自己的電子郵件網域，請將其變更為您 outlook.com/live.com/hotmail.com 地址。</span><span class="sxs-lookup"><span data-stu-id="1d123-105">If you have your own email domain included, change it to your outlook.com/live.com/hotmail.com address.</span></span>
-2. <span data-ttu-id="1d123-106">檢查您[已連線的帳戶設定](https://go.microsoft.com/fwlink/?linkid=875264&clcid=0x409)以確定您有驗證已啟用。</span><span class="sxs-lookup"><span data-stu-id="1d123-106">Check your [connected account settings](https://go.microsoft.com/fwlink/?linkid=875264&clcid=0x409) to ensure you have authentication enabled.</span></span>
+<span data-ttu-id="2366b-103">當您離開家裡, 並使用 Outlook.com 從您連線的帳戶傳送電子郵件時, 您的電子郵件可能會傳回550、553或「禁止轉送」的錯誤訊息。</span><span class="sxs-lookup"><span data-stu-id="2366b-103">When you're away from home and send an email from your connected account using Outlook.com, your email message might be returned with a 550, 553, or relay-prohibited error message.</span></span>
+
+1. <span data-ttu-id="2366b-104">在 [**設定** > ] 中檢查您的[電子郵件同步處理設定](https://go.microsoft.com/fwlink/?linkid=2031283):**所有 Outlook 設定** > **郵件** > **同步處理電子郵件**。</span><span class="sxs-lookup"><span data-stu-id="2366b-104">Check your [email sync settings](https://go.microsoft.com/fwlink/?linkid=2031283) at **Settings** > **View all Outlook settings** > **Mail** > **Sync email**.</span></span>
+1. <span data-ttu-id="2366b-105">請確定您的預設 [寄件者] 位址與您的電子郵件功能變數名稱相同。</span><span class="sxs-lookup"><span data-stu-id="2366b-105">Make sure your default from address is the same as your email domain name.</span></span> <span data-ttu-id="2366b-106">如果您已包含自己的電子郵件網域, 請將它變更為您的 outlook.com、live.com 或 hotmail.com 位址。</span><span class="sxs-lookup"><span data-stu-id="2366b-106">If you have your own email domain included, change it to your outlook.com, live.com, or hotmail.com address.</span></span>

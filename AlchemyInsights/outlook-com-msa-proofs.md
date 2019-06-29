@@ -1,38 +1,38 @@
 ---
-title: 8000060 Outlook.com MSA 稿。
+title: Outlook.com MSA 樣張
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392326"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373872"
 ---
-# <a name="security-info-and-security-codes"></a><span data-ttu-id="73d5c-102">安全性資訊和安全性驗證碼</span><span class="sxs-lookup"><span data-stu-id="73d5c-102">Security info and security codes</span></span>
+# <a name="security-info-and-security-codes"></a><span data-ttu-id="06cf0-102">安全性資訊和安全性代碼</span><span class="sxs-lookup"><span data-stu-id="06cf0-102">Security info and security codes</span></span>
 
-1. <span data-ttu-id="73d5c-103">登入您的 Microsoft 帳戶具有您[安全性的基本概念](https://account.microsoft.com/security)] 頁面上。</span><span class="sxs-lookup"><span data-stu-id="73d5c-103">Sign in to your [Security basics](https://account.microsoft.com/security) page with your Microsoft account.</span></span> 
-    
-2. <span data-ttu-id="73d5c-104">選取 [**更新資訊**。</span><span class="sxs-lookup"><span data-stu-id="73d5c-104">Select **Update info**.</span></span> 
-    
-3. <span data-ttu-id="73d5c-105">您可能會要求您輸入安全性驗證碼才能繼續。</span><span class="sxs-lookup"><span data-stu-id="73d5c-105">You may be asked to enter a security code to continue.</span></span> <span data-ttu-id="73d5c-106">如果您不需要存取您的備用電子郵件或電話號碼，選擇 [**我沒有任何安全性**，並遵循指示來取代您的安全性資訊。</span><span class="sxs-lookup"><span data-stu-id="73d5c-106">If you don't have access to your alternate email or phone number, choose **I don't have any of these** and follow the instructions to replace your security info.</span></span> 
-    
-4. <span data-ttu-id="73d5c-107">選取 [**新增安全性資訊]** ，然後依照指示輸入新的電子郵件或電話號碼。</span><span class="sxs-lookup"><span data-stu-id="73d5c-107">Select **Add security info** then follow the instructions to enter a new email or phone number.</span></span> 
-    
-5. <span data-ttu-id="73d5c-108">我們將會傳送安全性驗證碼到該新的電子郵件或電話號碼。</span><span class="sxs-lookup"><span data-stu-id="73d5c-108">We'll send a security code to that new email or phone number.</span></span> <span data-ttu-id="73d5c-109">輸入該安全性驗證碼，然後選取 [**下一步**]。</span><span class="sxs-lookup"><span data-stu-id="73d5c-109">Enter that security code, and select **Next**.</span></span> <span data-ttu-id="73d5c-110">您新的安全性資訊將出現在清單中。</span><span class="sxs-lookup"><span data-stu-id="73d5c-110">Your new security info will appear in your list.</span></span> 
-    
-6. <span data-ttu-id="73d5c-111">選擇 [**移除**任何您想要移除。</span><span class="sxs-lookup"><span data-stu-id="73d5c-111">Choose **Remove** for any you want to remove.</span></span> 
-    
-7. <span data-ttu-id="73d5c-112">如果您想要更新的安全性資訊，我們將傳送提醒給，選取 [**變更警示選項**，不會再取消核取方塊選取一個您想要收到通知，除非它們重要。</span><span class="sxs-lookup"><span data-stu-id="73d5c-112">If you want to update which security info we'll send alerts to, select **Change alert options** and deselect the checkbox for the one you no longer want to receive alerts for, unless they're critical.</span></span> 
-    
-<span data-ttu-id="73d5c-113">閱讀的有關[安全性資訊和安全性驗證碼](https://support.microsoft.com/help/12428/)的詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="73d5c-113">Read more about [Security info and security codes](https://support.microsoft.com/help/12428/).</span></span>
-  
+<span data-ttu-id="06cf0-103">若要將安全性資訊新增至您的帳戶:</span><span class="sxs-lookup"><span data-stu-id="06cf0-103">To add security info to your account:</span></span>
 
+1. <span data-ttu-id="06cf0-104">使用您的 Microsoft 帳戶登入[安全性基本知識](https://account.microsoft.com/security)。</span><span class="sxs-lookup"><span data-stu-id="06cf0-104">Sign in to [Security basics](https://account.microsoft.com/security) with your Microsoft account.</span></span>
+1. <span data-ttu-id="06cf0-105">選取 [**安全性連絡人資訊**]。</span><span class="sxs-lookup"><span data-stu-id="06cf0-105">Select **Security contact info**.</span></span>
+1. <span data-ttu-id="06cf0-106">選取 [**新增安全性資訊**], 然後依照指示輸入電話號碼或電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="06cf0-106">Select **Add security info** and follow the instructions to enter a phone number or email address.</span></span>
+1. <span data-ttu-id="06cf0-107">您會收到位於該電話號碼或電子郵件地址的安全性代碼。</span><span class="sxs-lookup"><span data-stu-id="06cf0-107">You will receive a security code at that phone number or email address.</span></span> <span data-ttu-id="06cf0-108">在 [**新增安全性資訊**] 視窗中輸入您收到的安全性代碼, 然後選取 **[下一步]**。</span><span class="sxs-lookup"><span data-stu-id="06cf0-108">Enter the security code you received in the **Add security info** window and select **Next**.</span></span>
+
+<span data-ttu-id="06cf0-109">如果您想要移除電話號碼或電子郵件地址, 請選取旁邊的 [**移除**]。</span><span class="sxs-lookup"><span data-stu-id="06cf0-109">If you want to remove a phone number or email address, select **Remove** next to it.</span></span>
+
+<span data-ttu-id="06cf0-110">如果您想要變更接收安全性警示的電話號碼或電子郵件地址, 請選取 [**變更警示選項**]。</span><span class="sxs-lookup"><span data-stu-id="06cf0-110">If you want to change which phone number or email address receives security alerts, select **Change alert options**.</span></span>
+
+<span data-ttu-id="06cf0-111">若要深入瞭解, 請參閱[Microsoft 帳戶安全性資訊和驗證碼](https://support.microsoft.com/help/12428/)。</span><span class="sxs-lookup"><span data-stu-id="06cf0-111">To learn more, read [Microsoft account security info and verification codes](https://support.microsoft.com/help/12428/).</span></span>
