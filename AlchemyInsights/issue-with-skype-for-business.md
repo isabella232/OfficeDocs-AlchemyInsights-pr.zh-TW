@@ -8,12 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
-ms.openlocfilehash: d19659f203692e4aed2c947c4f8d3348d2286e77
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "66"
+- "4000001"
+ms.openlocfilehash: 606a3a8cd8fefade73e0024cdb75a86799b17a87
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409897"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381468"
 ---
 # <a name="issue-with-skype-for-business"></a>您有商務用 Skype 的相關問題嗎？
 
@@ -21,12 +24,11 @@ ms.locfileid: "32409897"
   
 {HealthCheckString}
   
-商務用 Skype 網域 (DNS) 設定中的 NS、CNAME 或 SRV 記錄設定不正確。 您可以參閱[在 Office 365 中更新 DNS 記錄](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)以獲得詳細指示。 
+商務用 Skype 網域 (DNS) 設定中的 NS、CNAME 或 SRV 記錄設定不正確。 您可以參閱[在 Office 365 中更新 DNS 記錄](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)以獲得詳細指示。
   
-若要修正此問題，請移至 Microsoft 365 系統管理中心的 [網域][](https://admin.microsoft.com/adminportal/home#/Domains) 頁面，我們會提供協助。 
+若要修正此問題，請移至 Microsoft 365 系統管理中心的 [網域][](https://admin.microsoft.com/adminportal/home#/Domains) 頁面，我們會提供協助。
   
-如果您與貴組織的外部使用者有通訊問題，請參閱[設定商務用 Skype Online 外部通訊](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx)以取得詳細指示。 
+如果您與貴組織的外部使用者有通訊問題，請參閱[設定商務用 Skype Online 外部通訊](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx)以取得詳細指示。
   
-如需其他常見解決方案，請參閱[網域常見問答集](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)。 
+如需其他常見解決方案，請參閱[網域常見問答集](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)。
   
-
