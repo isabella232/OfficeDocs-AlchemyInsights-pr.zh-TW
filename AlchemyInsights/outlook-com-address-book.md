@@ -8,18 +8,20 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000232
-ms.openlocfilehash: b602ffbd8416f9c3dc6dcfa1a129dc9179d16762
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1816"
+- "9000232"
+ms.openlocfilehash: 28e5d90f6c6ae6dde2754a05c8651d50672499c8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388301"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377292"
 ---
-# <a name="address-book-in-outlookcom"></a>在 Outlook.com 中的通訊錄
+# <a name="address-book-in-outlookcom"></a>Outlook.com 中的通訊錄
 
-您的 Outlook.com 「 通訊錄稱為 「 人員 」。
+您的 Outlook.com 通訊錄稱為人員。
 
-若要移至您的人員] 頁面上，選取 [每] 頁面上，或在頁面的左上角的應用程式選取器的右下角的**人員**。
+若要移至 [[人員](https://outlook.live.com/people/)] 頁面, 請選取頁面右下角的 [**人員**], 或在頁面上角的 [應用程式選取器] 中選取。
 
-了解如何[建立、 檢視和編輯在 Outlook.com 中的連絡人](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01)。
+瞭解如何[在 Outlook.com 中建立、查看和編輯連絡人](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01)。

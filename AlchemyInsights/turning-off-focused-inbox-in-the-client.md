@@ -1,24 +1,26 @@
 ---
-title: 911 關閉焦點收件匣中用戶端
+title: 911關閉用戶端中的焦點收件匣
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 5/30/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 911
+ms.custom:
+- "911"
+- "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 4d102d3b05de0ed2dc3fd035278d479c83c2653d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4b8af31f1bcb80b35aa79b62b3ab57463bc43664
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32366862"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353060"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a>電子郵件用戶端中關閉焦點收件匣
+# <a name="turn-off-focused-inbox-in-email-clients"></a>關閉電子郵件客戶程式中的焦點收件匣
 
-若要關閉焦點收件匣中 Outlook 2016、 outlook 網頁版，Outlook.com/Hotmail.com、 Outlook 2016 for Mac 或郵件適用於 Windows 10，請參閱[關閉焦點收件匣](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx)。
+若要關閉 Outlook 2016 中的焦點收件匣、Outlook 網頁版、Outlook.com/Hotmail.com、Outlook 2016 for Mac 或 Windows 10 的郵件, 請參閱[關閉焦點收件](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx)匣。
 
-若要在組織中的每個人關閉焦點收件匣，請參閱 <<c0>設定焦點收件匣貴組織中的每個人。
+若要關閉組織中所有人的焦點收件匣, 請參閱[為組織中的每個人設定焦點收件](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx)匣。

@@ -1,5 +1,5 @@
 ---
-title: problems-sharing-with-outlook-customer-manager
+title: 問題-與 outlook 共用-客戶經理
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,21 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9000274"
 - "1868"
+- "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 11a1bf07a081ce074dd9ab1fccb001f0bd3e39af
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 53f3dcc9e5ae1cde1f856bcd7c218afcbc6231da
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33629972"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371063"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>共用與 Outlook Customer Manager 的問題 
+# <a name="problems-sharing-with-outlook-customer-manager"></a>與 Outlook 客戶經理共用的問題
 
-如果您遇到共用問題與 Outlook Customer Manager 我們建議您先嘗試清除您的瀏覽器快取。 例如在 Internet Explorer 中您可以：
-1. 移至 [**設定** > **一般**>**瀏覽歷程記錄**] 下設定 > **快取，以及資料庫**。
-2. 刪除的網站 」 outlookapps.com。 「 快取檔案
-3. 重新啟動 Outlook。
+如果您有共用 Outlook 客戶經理的問題, 建議您先嘗試清除瀏覽器快取。 例如, 在 Internet Explorer 中, 您可以:
 
-如需共用的詳細資訊，請參閱 < <b0>Outlook Customer Manager 中的共用資訊</b0>。 
+1. 移至 **[設定** > **] [一般**> 設定] 下的 [**流覽記錄** > 快取**和資料庫**]。
+2. 刪除網站 "outlookapps.com" 的快取檔案。
+3. 重新開機 Outlook。
+
+如需共用的詳細資訊, 請參閱[在 Outlook 客戶經理中共用資訊](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20)。

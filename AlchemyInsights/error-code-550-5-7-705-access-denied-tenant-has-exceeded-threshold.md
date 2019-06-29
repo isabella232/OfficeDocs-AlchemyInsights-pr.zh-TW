@@ -1,5 +1,5 @@
 ---
-title: 錯誤碼 550 5.7.705 「 拒絕存取 」，租用戶已超出臨界值
+title: 錯誤碼 550 5.7.705 禁止存取, 租使用者已超出臨界值
 ms.author: chrisda
 author: chrisda
 ms.date: 4/9/2018
@@ -8,17 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: af84ef9cb3c9ed425b35d884ffaf4dcb94bff565
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "336"
+- "1948"
+- "3100014"
+ms.openlocfilehash: e05b799ae88b0e431397c5f17fd0eddbe39f9c95
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402430"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388056"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 存取被拒，租用戶已超出臨界值
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 拒絕存取, 租使用者已超過臨界值
 
-由您的組織已傳送太多垃圾郵件或大量郵件，我們將區塊放在外寄郵件上時發生此郵件。
-常見原因是遭入侵的內部部署伺服器或遭入侵的系統管理員帳戶的已用來建立連接器。 任一個條件可以允許通過您組織的垃圾郵件。
+當您的組織已傳送太多垃圾郵件或大宗郵件, 並將區塊置於外寄郵件時, 就會發生此訊息。
+常見的原因會受到內部部署伺服器或已遭破壞的系統管理員帳戶 (用來建立連接器) 的危害。 這兩種情況都可讓垃圾郵件通過您的組織。
 
-若要移除此區塊，您需要了解和支援代理程式說明原因，以及解決潛在的問題。
-一旦您已準備就緒，請按一下 [**與我們連絡**下方]。
+若要移除此區塊, 您必須瞭解並說明支援代理程式的原因, 並修正基本問題。
+在您準備好後, 請按一下 [**與我們聯繫**]。

@@ -8,17 +8,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000080
-ms.openlocfilehash: e1d2739ad5e1e3d2c3d5f19aee344ee1ee2ab458
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1326"
+- "8000080"
+ms.openlocfilehash: d0bacf2b5ca9dffcaa15e46520251f3adf3aaaf0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418834"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374556"
 ---
 # <a name="how-to-get-support-in-outlookcom"></a>如何在 Outlook.com 中取得支援
 
-很抱歉，Outlook.com 並不提供的電話支援，但我們有專用的小組可以幫助您。
-輸入您的問題或說明您在 [**說明**] 方塊中，與上述的問題，然後選取 [**取得說明**。
+很抱歉, Outlook.com 不提供電話支援, 但是我們有可協助您的專屬團隊。
+在上方的 [說明] 方塊中輸入**** 您的問題或說明您的問題, 然後選取 [**取得**說明]。
 
-
+[取得有關 Outlook.com 的說明](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d)

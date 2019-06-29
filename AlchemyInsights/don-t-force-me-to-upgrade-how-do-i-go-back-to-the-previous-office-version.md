@@ -1,5 +1,5 @@
 ---
-title: 不要強制升級。 如何移回至先前的 Office 版本？
+title: 不要強制升級。 如何回復到先前的 Office 版本？
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "265"
+- "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: b14b6c953a7520d248a7df5b4cbbd7e58e1c7817
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 566408a0c38057ee3090acbf155288d579e64b17
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404204"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389064"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>不要強制升級。 如何移回至先前的 Office 版本？
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>不要強制升級。 如何回復到先前的 Office 版本？
 
-當開啟 Office 檔案，試用版的 Office 應用程式可能會開啟，而不是另一個版本。 如果您有 Office 365 試用版，這將會發生。 
+開啟 Office 檔案時, Office 應用程式的試用版可能會開啟, 而不是另一個版本。 如果您有 Office 365 試用版, 就會發生這種情況。
   
-當您安裝 Office 365 試用版時，會安裝 2016年試用版的應用程式。 這些試用版的版本成為開啟 Word、 Excel 及 PowerPoint 檔案的預設值。 例如，如果您有安裝 Excel 2013 並也安裝 Office 365 試用版，然後您的活頁簿會在試用版本的 Excel 2016 中開啟。 
+當您安裝 Office 365 試用版時, 會安裝2016試用版的應用程式。 這些試用版會成為開啟 Word、Excel 及 PowerPoint 檔案的預設值。 例如, 如果您已安裝 Excel 2013, 而且也安裝了 Office 365 試用版, 則在 Excel 2016 的試用版中會開啟活頁簿。
   
-如果您有這個問題，您可以[解除安裝](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx)2016年應用程式]，並使用您已安裝的應用程式的較舊版本。 或者，您可以[解除安裝](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx)舊版的應用程式並升級至 Office 365 隨附的較新版本。 
-  
-
+如果您有此問題, 您可以[卸載](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx)2016 應用程式, 並使用已安裝的繼承應用程式。 或者, 您也可以[卸載](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx)舊版的應用程式, 並升級至 Office 365 隨附的更新版本。

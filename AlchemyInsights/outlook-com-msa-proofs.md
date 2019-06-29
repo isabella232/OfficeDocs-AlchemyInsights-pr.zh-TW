@@ -1,38 +1,38 @@
 ---
-title: 8000060 Outlook.com MSA 稿。
+title: Outlook.com MSA 樣張
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392326"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373872"
 ---
-# <a name="security-info-and-security-codes"></a>安全性資訊和安全性驗證碼
+# <a name="security-info-and-security-codes"></a>安全性資訊和安全性代碼
 
-1. 登入您的 Microsoft 帳戶具有您[安全性的基本概念](https://account.microsoft.com/security)] 頁面上。 
-    
-2. 選取 [**更新資訊**。 
-    
-3. 您可能會要求您輸入安全性驗證碼才能繼續。 如果您不需要存取您的備用電子郵件或電話號碼，選擇 [**我沒有任何安全性**，並遵循指示來取代您的安全性資訊。 
-    
-4. 選取 [**新增安全性資訊]** ，然後依照指示輸入新的電子郵件或電話號碼。 
-    
-5. 我們將會傳送安全性驗證碼到該新的電子郵件或電話號碼。 輸入該安全性驗證碼，然後選取 [**下一步**]。 您新的安全性資訊將出現在清單中。 
-    
-6. 選擇 [**移除**任何您想要移除。 
-    
-7. 如果您想要更新的安全性資訊，我們將傳送提醒給，選取 [**變更警示選項**，不會再取消核取方塊選取一個您想要收到通知，除非它們重要。 
-    
-閱讀的有關[安全性資訊和安全性驗證碼](https://support.microsoft.com/help/12428/)的詳細資訊。
-  
+若要將安全性資訊新增至您的帳戶:
 
+1. 使用您的 Microsoft 帳戶登入[安全性基本知識](https://account.microsoft.com/security)。
+1. 選取 [**安全性連絡人資訊**]。
+1. 選取 [**新增安全性資訊**], 然後依照指示輸入電話號碼或電子郵件地址。
+1. 您會收到位於該電話號碼或電子郵件地址的安全性代碼。 在 [**新增安全性資訊**] 視窗中輸入您收到的安全性代碼, 然後選取 **[下一步]**。
+
+如果您想要移除電話號碼或電子郵件地址, 請選取旁邊的 [**移除**]。
+
+如果您想要變更接收安全性警示的電話號碼或電子郵件地址, 請選取 [**變更警示選項**]。
+
+若要深入瞭解, 請參閱[Microsoft 帳戶安全性資訊和驗證碼](https://support.microsoft.com/help/12428/)。

@@ -1,5 +1,5 @@
 ---
-title: 8000091 Outlook.com 反應快顯畫面
+title: 8000091 Outlook.com 反應快顯視窗
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,18 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000091
-ms.openlocfilehash: f68a4d947c1698eadae9b4a8f8f4e01331c5211d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1412"
+- "1413"
+- "8000091"
+ms.openlocfilehash: e2347c94ac3741e8e455cab81db68ca7e747205d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392080"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373152"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com 已準備好進行質數時間
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com 已準備好進行主要時間
 
-我們知道有些客戶可能會看到 「 Outlook.com 已準備好進行質數時間 」 快顯視窗每次使用者登入，我們正在修正程式。
+我們知道, 部分客戶可能會看到「Outlook.com 已準備好的主要時間」彈出, 供每次登入, 而且我們正在進行修復。
 
-很抱歉，有關。
+對不起。
 
-[深入了解新的 Outlook.com。](https://go.microsoft.com/fwlink/p/?linkid=2001300)
+[深入瞭解新 Outlook.com。](https://go.microsoft.com/fwlink/p/?linkid=2001300)

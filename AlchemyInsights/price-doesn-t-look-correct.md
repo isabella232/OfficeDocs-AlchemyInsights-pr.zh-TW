@@ -1,5 +1,5 @@
 ---
-title: 價格看起來不正確？
+title: 價格看起來不正確嗎？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "473"
+- "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: 1bb010cac9727561554bf955f76ca0c3d3f15da1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e8da624ce045d31cf67dfbdf51cc06bf126f2ac0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372839"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371027"
 ---
-# <a name="price-doesnt-look-correct"></a>價格看起來不正確？
+# <a name="price-doesnt-look-correct"></a>價格看起來不正確嗎？
 
-如果在帳單上的價格看起來不正確，這可能是因為在更新後的價格變更。 如果您不認為這說明問題，請連絡支援工程師使用 「 讓我們撥話給您 」] 選項。
+如果您發票上的價格看起來不正確, 可能是因為更新時的價格變更。 如果您不相信此問題的說明, 請使用「我們呼叫您」選項, 與支援工程師交談。
   
-

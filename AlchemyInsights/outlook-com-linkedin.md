@@ -1,5 +1,5 @@
 ---
-title: 聲稱來自 LinkedIn 的垃圾郵件的問題
+title: 垃圾郵件聲稱來自 LinkedIn 的問題
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,18 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 8000079
-ms.openlocfilehash: 4f7e77758f2a3aa669c70b1b1b5c17f917023754
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.custom:
+- "1276"
+- "8000079"
+ms.openlocfilehash: 64e2349a329bee570685034ca4bab9988c71182f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643284"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374088"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>聲稱來自 LinkedIn 的垃圾郵件的問題
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>垃圾郵件聲稱來自 LinkedIn 的問題
 
-我們也請注意，有些使用者所接收其所宣稱 LinkedIn 垃圾電子郵件。
+我們知道部分使用者收到來自 LinkedIn 的垃圾郵件。
 
-我們建議使用收件匣規則來篩選這些電子郵件。
+建議使用收件匣規則來篩選這些電子郵件。
 
-如需詳細資訊，請閱讀如何[使用在 Outlook.com 中的收件匣規則](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d)。
+如需詳細資訊, 請參閱如何[在 Outlook.com 中使用收件匣規則](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d)。

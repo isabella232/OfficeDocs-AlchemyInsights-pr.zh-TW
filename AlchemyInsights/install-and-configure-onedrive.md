@@ -7,22 +7,23 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "845"
+- "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: 9ddafba4e83133127574e38542b6380b6002ac41
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a337b6db5b25a5b3af03ff62fef1b88f33562489
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32410365"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382152"
 ---
 # <a name="install-and-configure-onedrive"></a>安裝及設定 OneDrive
 
-OneDrive 同步處理用戶端是預先安裝與 Windows 10。 若要安裝 OneDrive 的 Windows 7 或 Mac，或您手機或平板電腦，取得行動應用程式，移至[http://onedrive.com/download](http://onedrive.com/download)。
+OneDrive 同步處理用戶端會隨 Windows 10 一起預先安裝。 若要安裝 OneDrive for Windows 7 或 Mac 版, 或為您的手機或平板電腦取得行動裝置應用[http://onedrive.com/download](http://onedrive.com/download)程式, 請移至。
   
-若要設定在 Windows 中的 OneDrive 同步處理用戶端，請參閱：
+若要在 Windows 中設定 OneDrive 同步處理用戶端, 請參閱:
   
-- [設定您的電腦，以同步處理您的 OneDrive for Office 365 中的商務檔案](https://go.microsoft.com/fwlink/?linkid=533375)
-    
-- [將 SharePoint 檔案與新的 OneDrive 同步處理用戶端同步](https://go.microsoft.com/fwlink/?linkid=871666)
-    
+- [設定您的電腦, 以同步處理 Office 365 的商務用 OneDrive 檔案](https://go.microsoft.com/fwlink/?linkid=533375)
 
+- [將 SharePoint 檔案與新的 OneDrive 同步處理用戶端同步](https://go.microsoft.com/fwlink/?linkid=871666)

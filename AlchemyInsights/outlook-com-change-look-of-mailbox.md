@@ -1,26 +1,28 @@
 ---
-title: Outlook.com 變更您的信箱的外觀
+title: Outlook.com 變更您信箱的外觀
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000257
+ms.custom:
+- "1849"
+- "9000257"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 16d519802535ccf6e5d50e1111911f0a34392961
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 001be203b46e2ec8becb82d0553335d0b4465c77
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418106"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376330"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>變更您的 Outlook.com 信箱的外觀
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>變更 Outlook.com 信箱的外觀
 
-您可以變更在 Outlook.com 中的郵件清單和讀取窗格的外觀。
+您可以在 Outlook.com 中變更郵寄清單和讀取窗格的外觀。
 
-- 若要變更 [訊息] 視窗的版面配置，請選取頂端的頁面以開啟 [**設定**] 齒輪圖示，然後選擇 [**讀取窗格**] 之下的選項。
-- 若要依交談群組您的郵件，選取要開啟 [**設定**] 頁面頂端的齒輪圖示，然後選擇 [**交談] 檢視**底下的選項。
-- 若要開啟或關閉焦點收件匣，選取要開啟 [**設定**] 頁面頂端的齒輪圖示，並移動到**焦點收件匣**] 旁的切換開啟或關閉。
-- 若要變更排序您的電子郵件的方式，可頂端的郵件] 清單中，選取 [**篩選器** > **排序依據]** ，然後選擇您要排序您的電子郵件的方式。
+- 若要變更郵件視窗的版面配置, 請開啟 [[讀取窗格]](https://outlook.live.com/mail/options/mail/layout/readingPane)選項。
+- 若要變更您的電子郵件的排序方式, 請在郵寄清單的頂端選取 [**篩選** > **排序依據**], 並選擇要如何排序您的電子郵件。
+- 若要依交談將郵件分組, 請開啟您的[郵件組織](https://outlook.live.com/mail/options/mail/layout/conversations)選項。
+- 若要開啟或關閉焦點收件匣, 請開啟您的[版面](https://outlook.live.com/mail/options/mail/layout/focused)配置選項。

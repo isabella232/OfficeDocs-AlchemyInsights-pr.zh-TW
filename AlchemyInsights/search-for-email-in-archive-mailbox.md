@@ -1,5 +1,5 @@
 ---
-title: 搜尋的封存信箱中的電子郵件
+title: 搜尋封存信箱中的電子郵件
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -8,16 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1055"
+- "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 359f6eb5b6a70ddcf90d5141c97285f7d0923e71
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 6a40c421d89d1caf89007ff25ed51712773e073e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761644"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35369548"
 ---
-啟用封存信箱時，您可以使用可探索內容的主要和封存信箱中的**eDiscovery 搜尋並匯出**。 如需使用**eDiscovery 搜尋匯出**至找到該內容的資訊，請依照下列步驟所述[以下](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。
+啟用封存信箱時, 您可以使用**EDiscovery 搜尋和匯出**來探索主要和封存信箱中的內容。 如需使用**EDiscovery 搜尋匯出**來尋找該內容的資訊, 請遵循[此處](https://docs.microsoft.com/office365/securitycompliance/export-search-results)所述的步驟。
   
-您也可以將信箱新增至保留原則，以保留內容。 這會將內容放在保留主要和封存信箱中。 如需有關建立保留原則，以保留 emailsee 步驟所述[以下](https://docs.microsoft.com/Office365/securitycompliance/retention-policies)。
+您也可以將信箱新增至保留原則, 以保留該內容。 這會將內容放在保留上的主要和封存信箱中。 如需建立保留原則以保留電子郵件的詳細資訊, 請參閱[這裡](https://docs.microsoft.com/Office365/securitycompliance/retention-policies)所述的步驟。
   
-

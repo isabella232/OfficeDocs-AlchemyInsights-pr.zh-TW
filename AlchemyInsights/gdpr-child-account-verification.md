@@ -1,5 +1,5 @@
 ---
-title: 8000038 GDPR 子帳戶驗證
+title: 8000038 GDPR 子項帳戶驗證
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -8,19 +8,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000038
+ms.custom:
+- "772"
+- "788"
+- "8000038"
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: c664adf9fdb0306b3407a5c23628aa4c7bbd5b83
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 035004602a439335380ec72ea65fd1bd70ebbf0d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400960"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387048"
 ---
-# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>顯示在您的 Microsoft 帳戶的出生日期不正確
+# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Microsoft 帳戶中顯示的出生日期不正確
 
-Microsoft 十分重視採用帳戶安全性。 您可能會有最近已系統提示您提供家長的同意子女的 Microsoft 帳戶。 如果您需要提供家長的同意或更新的 Microsoft 帳戶的出生日期的說明，請參閱 <<c0>的家長的同意的保留天數驗證。
+Microsoft 對帳戶的安全性非常嚴重。 您最近可能會收到提示, 以提供孩子的 Microsoft 帳戶家長同意。 如果您需要協助提供家長同意, 或更新 Microsoft 帳戶的出生日期, 請參閱「[家長同意的保留期限驗證](https://go.microsoft.com/fwlink/p/?linkid=874364)」。
   
-深入了解[家長的同意和子系的 Microsoft 帳戶](https://go.microsoft.com/fwlink/p/?linkid=874365)。
+深入瞭解[父母同意和 Microsoft 子女帳戶](https://go.microsoft.com/fwlink/p/?linkid=874365)。
   
-

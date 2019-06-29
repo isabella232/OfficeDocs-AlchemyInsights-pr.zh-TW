@@ -1,5 +1,5 @@
 ---
-title: 8000088 儲存在 Outlook.com 中的電子郵件
+title: 8000088在 Outlook.com 中儲存電子郵件
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,24 +9,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 8000088
-ms.openlocfilehash: 435415ca29d9ba26e6c27919ab1dcc0e64368357
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1398"
+- "1399"
+- "1626"
+- "8000088"
+ms.openlocfilehash: 897ee4d4708ce7cec352dbc50b8c7ded3214a971
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391609"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372288"
 ---
-# <a name="saving-messages-in-outlookcom"></a>在 Outlook.com 中儲存的郵件
+# <a name="saving-messages-in-outlookcom"></a>在 Outlook.com 中儲存郵件
 
-您無法將電子郵件訊息儲存 Outlook.com，但您可以將其列印為 PDF 您可儲存您的電腦上。
+您無法在 Outlook.com 中儲存電子郵件訊息, 但您可以將其列印至您可以儲存在電腦上的 PDF。
 
-在 Windows 10 中包含以 PDF Microsoft 列印公用程式可讓您列印直接以 pdf 格式的任何電子郵件訊息。
+Windows 10 隨附的 Microsoft 列印至 PDF 公用程式可讓您直接將任何電子郵件訊息列印到 PDF。
 
-1. 選取您想要儲存的郵件。
-2. 選取頂端郵件的三個點，然後選取 [**列印**。
-3. 同樣地，選取 [**列印**]，然後從印表機] 下拉式清單功能表中，選取 [ **Microsoft 列印為 PDF**。
+1. 選取您要儲存的郵件。
+2. 選取郵件頂端的三個點, 然後選取 [**列印**]。
+3. 再次選取 [**列印**], 然後從 [印表機] 下拉式功能表中選取 [ **MICROSOFT Print to PDF**]。
 4. 選取 [**列印**]。
-5. 輸入檔案名稱，然後選取 [**儲存**]。
+5. 輸入檔案名, 然後選取 [**儲存**]。
 
-**附註：** 建議您不要共用或公用電腦上為其他使用者仍可存取您儲存到電腦並不要刪除任何 Pdf。
+**附注:** 在共用或公用電腦上不建議這麼做, 因為其他使用者可以存取您儲存至電腦的任何 Pdf, 而且不會刪除。
+
+如需有關列印的詳細資訊, 請參閱[在 Outlook.com 中列印電子郵件、附件和行事曆](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855)。

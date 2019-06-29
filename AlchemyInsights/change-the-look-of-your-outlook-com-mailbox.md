@@ -1,28 +1,28 @@
 ---
-title: 8000041 變更您的 Outlook.com 信箱的外觀
+title: 變更 Outlook.com 信箱的外觀
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 11/2/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/4/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000041
+ms.custom:
+- "775"
+- "789"
+- "792"
+- "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
-ms.openlocfilehash: 20c8ac5d15d878f2ebddbe2b31831a89eb6a0cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9c9e7b18761d712b9e953276e5da7338bff15619
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394029"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362636"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>變更您的 Outlook.com 信箱的外觀
+# <a name="change-the-look-of-your-mailbox"></a>變更信箱的外觀
 
-您可以變更在 Outlook.com 中的郵件清單和讀取窗格的外觀。 選擇是否應排序您的郵件到焦點及其他索引標籤，以及是否想讓您的電子郵件顯示為個別郵件或交談。
+您可以變更 [[版面配置] 設定](https://outlook.live.com/mail/options/mail/layout)中的訊息清單和讀取窗格的外觀。 選擇您的電子郵件是否應顯示為個別郵件或交談, 如果新郵件應該出現在郵寄清單的頂端或底端, 等等。
   
-了解如何[變更您的 Outlook.com 信箱的外觀](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409)。
-  
- **附註：** 不再有保留 Outlook.com beta 並返回 [Outlook.com 的傳統版本。 [解更多關於新的 Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874356)。
-  
-
+若要深入瞭解, 請參閱[變更您 Outlook.com 信箱的外觀](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409)。

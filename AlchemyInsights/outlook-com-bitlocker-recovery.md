@@ -10,16 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- "2381"
 - "9000545"
-ms.openlocfilehash: 9c62e8a0ec18b0dd33f269b564b21d57c4d3d28c
-ms.sourcegitcommit: e4e5e373503819b0c0f36b659337f5f4bae8fb4f
+ms.openlocfilehash: e25bc485b3550f1985673ea59ca56cdf41e9044d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "34031663"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377184"
 ---
 # <a name="bitlocker-recovery"></a>BitLocker 復原
 
-移至 [[裝置](https://account.microsoft.com/devices/recoverykey)若要檢視您 BitLocker 復原機碼。
+移至 [[裝置](https://account.microsoft.com/devices/recoverykey)] 以查看您的 BitLocker 復原金鑰。
 
-請參閱[尋找我 BitLocker 復原金鑰](https://support.microsoft.com/help/4026181) 如需詳細資訊。
+如需詳細資訊, 請參閱[尋找我的 BitLocker 復原金鑰](https://support.microsoft.com/help/4026181) 。

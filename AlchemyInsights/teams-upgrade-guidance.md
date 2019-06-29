@@ -1,5 +1,5 @@
 ---
-title: Teams 升級指南
+title: 小組升級指引
 ms.author: heidip
 author: microsoftheidi
 ms.date: 1/9/2019
@@ -8,16 +8,18 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "982"
+- "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 58b7d89426295ff512180aacb52d368fcdb8bb29
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7b96e32acf616af648403d4925b22265893e534c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32369994"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367568"
 ---
-# <a name="upgrade-to-teams"></a>升級至 Teams
+# <a name="upgrade-to-teams"></a>升級至小組
 
-您可以找到的逐步指南從商務用 Skype 移至 Microsoft Teams[以下](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams)。
+您可以在[這裡](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams)找到從商務用 Skype 移至 Microsoft 小組的逐步指南。
   
-

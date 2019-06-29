@@ -1,5 +1,5 @@
 ---
-title: 1800019 焦點收件匣中 Outlook mobile
+title: 1800019 Outlook mobile 中的焦點收件匣
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -8,27 +8,28 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1800019
+ms.custom:
+- "910"
+- "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 46a69512b6d6495b3e211b6d1c7665638002d7b6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a34a94b53d878413a4ce8c04e9a40188f9a0acc5
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401139"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387336"
 ---
 # <a name="focused-inbox-for-outlook-mobile"></a>Outlook mobile 的焦點收件匣
 
 [什麼是焦點收件匣？](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[如何編輯移動我內外焦點收件匣的電子郵件的規則？](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[如何編輯將我的電子郵件移入或移出焦點收件匣的規則？](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[如何關閉焦點收件匣或變更是否我徽章計數和通知同步處理到焦點收件匣？](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[如何關閉焦點收件匣, 或變更我的徽章的數目和通知是否要與焦點收件匣同步？](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[如何關閉焦點收件匣或變更是否通知同步處理到焦點收件匣？](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[如何關閉焦點收件匣或變更通知是否同步到焦點收件匣？](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[如何將焦點和其他之間切換？](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[如何在焦點和其他之間切換？](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-了解更多： [outlook for iOS 和 Android 的應用程式內協助](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
+深入瞭解:[取得適用于 iOS 和 Android 的 Outlook 相關應用程式](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)說明
   
-

@@ -8,17 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
-ms.openlocfilehash: dda19e5e2ea5aef121f8d4949659bd594e4f00e7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "9"
+- "1"
+ms.openlocfilehash: eabc6652ba8e7d7b10f9e96378223ee79f0aa737
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398845"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358604"
 ---
 # <a name="add-or-remove-an-email-address-for-a-user"></a>新增或移除使用者的電子郵件地址
 
 [請移至這裡開始](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)。
-    
- **附註**： 您可以有多個電子郵件地址的使用者，但其他*電子郵件別名*可以只用於接收電子郵件。 如果您需要傳送電子郵件別名，建立[共用的信箱](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)。 如此一來，您會收到傳送和接收郵件的別名。 
-  
 
+ **附注**: 您可以為使用者提供多個電子郵件地址, 但額外的*電子郵件別名*只能用來接收電子郵件。 如果您需要使用別名傳送電子郵件, 請建立[共用信箱](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)。 如此一來, 您就可以取得別名來傳送和接收郵件。
+  

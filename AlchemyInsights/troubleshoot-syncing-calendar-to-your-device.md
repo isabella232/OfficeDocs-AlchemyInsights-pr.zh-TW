@@ -1,5 +1,5 @@
 ---
-title: 3800017 疑難排解同步處理至您的裝置的行事曆
+title: 3800017將行事曆同步處理至您的裝置疑難排解
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 3800017
+ms.custom:
+- "619"
+- "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
-ms.openlocfilehash: b0677d223baade9b46602ec7adad56fa9b41c909
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a524244ac5a70b60dec75d29f77202fb8d90f7e2
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420079"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367172"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>疑難排解同步處理至您的裝置行事曆
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>將您的行事曆同步處理至您的裝置疑難排解
 
-[行事曆及連絡人與 「 我的手機或平板電腦無法同步處理](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)
+[無法使用我的手機或平板電腦同步行事曆和連絡人](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)
   
-

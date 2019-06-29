@@ -7,20 +7,23 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "33"
+- "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: 目標位置不能超過 500 個字的文章。
-ms.openlocfilehash: fed43928bcf8a232901c0679376fed3f43705265
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+description: 目標文章不超過500的文字。
+ms.openlocfilehash: 944387230dc641af258e101de672430b49da5935
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421411"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355076"
 ---
 # <a name="setting-up-project"></a>設定專案
 
-看起來像需要協助您的 Office 365 訂閱設定的專案。
-請注意 for Mac 使用者： 專案產品不適用於 MacOS 這一次。 如果您有電腦應該能夠安裝軟體使用下列步驟。
+看起來您需要使用 Office 365 訂閱來設定專案。
+Mac 使用者注意事項: 目前無法使用 MacOS 專案產品。 如果您有電腦, 您應該可以使用下列步驟來安裝軟體。
   
-您可以遵循[本文](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)以取得完成設定中的步驟。
+您可以遵循[本文](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)中的步驟, 讓您的設定完成。
   
-如果您執行到錯誤，在安裝期間，[安裝專案使用的支援及修復小幫手](https://aka.ms/SaRA-ProjectSetupScenario)
+如果您在安裝期間發生錯誤, 請[使用支援與修復小幫手安裝專案](https://aka.ms/SaRA-ProjectSetupScenario)

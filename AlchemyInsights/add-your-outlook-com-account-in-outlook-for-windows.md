@@ -1,5 +1,5 @@
 ---
-title: 8000040 在 Windows 版 Outlook 中新增您的 Outlook.com 帳戶
+title: 8000040在 Outlook for Windows 中新增您的 Outlook.com 帳戶
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -8,17 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: ''
+ms.custom:
+- "774"
+- "8000040"
 ms.assetid: 9b130870-ce56-4505-b93b-d1f0d4e52b3c
-ms.openlocfilehash: c3a8921369489249a3dd27162a591f51374cc80e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f3d60fd8c5c865bf2a744ec9128a14293b48dc62
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398557"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358244"
 ---
 # <a name="add-your-outlookcom-account-to-another-mail-app"></a>將您的 Outlook.com 帳戶新增至另一個郵件應用程式
 
-若要了解如何將您的 Outlook.com 帳戶新增至您的 PC、 Mac、 或行動裝置上的 Outlook，請參閱[您 Outlook.com 將帳戶新增至另一個郵件應用程式](https://go.microsoft.com/fwlink/p/?linkid=2001206&amp;clcid=0x409)。
+若要瞭解如何將您的 Outlook.com 帳戶新增至您電腦、Mac 或行動裝置上的 Outlook, 請參閱[將您的 Outlook.com 帳戶新增至另一個郵件應用程式](https://go.microsoft.com/fwlink/p/?linkid=2001206&amp;clcid=0x409)。
   
-

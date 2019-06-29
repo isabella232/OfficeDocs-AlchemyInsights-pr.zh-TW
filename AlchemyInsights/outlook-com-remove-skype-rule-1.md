@@ -8,16 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000082
-ms.openlocfilehash: 2ef958ed8da16f7c0510b65e1ddec890b10c7c75
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1348"
+- "8000082"
+ms.openlocfilehash: 08ad9846feb52242459274f0ca75fa8facbd38e3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392081"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372648"
 ---
-# <a name="skype-icon-missing"></a>遺失的 Skype 圖示
+# <a name="skype-icon-missing"></a>遺失 Skype 圖示
 
-我們已從暫時移除的 Skype 圖示 Outlook.com 我們目前興奮，會推出的設計重新整理] 和 [功能更新的一部分。我們歡迎您耐心等候，雖然我們為您準備新增及改良的體驗。
+我們已暫時將 Skype 圖示從 Outlook.com 中移除, 做為設計重新整理的一部分, 而功能更新則非常高興。我們在準備新的和改善的體驗時, 感謝您的耐心。
 
-您仍然可以使用 Skype 透過[web.skype.com](https://web.skype.com/)在瀏覽器。
+您仍然可以在[web.skype.com](https://web.skype.com/)中使用 Skype 流覽瀏覽器。

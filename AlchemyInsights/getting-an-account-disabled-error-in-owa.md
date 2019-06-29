@@ -1,5 +1,5 @@
 ---
-title: 取得帳戶 123 停用在 OWA 中的錯誤？
+title: 123在 OWA 中取得帳戶停用錯誤？
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,15 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 123
+ms.custom:
+- "123"
+- "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: e58d4794c4e6d6dcef9f9a8c0790393501ec2690
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 20452966befec11d0084d235fa87985597d5ac63
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400708"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386724"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>取得帳戶已停用網頁型 Outlook 中的錯誤？
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>在網頁版 Outlook 中取得帳戶停用的錯誤？
 
-如果您收到**您的帳戶已停用**的錯誤與`X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException`當您嘗試開啟 （先前稱為 Outlook Web App） 網頁型 Outlook，您的組織系統管理員可能已停用 outlook 網頁版您存取。 您的系統管理員可以藉由[啟用或停用信箱的 Outlook Web App](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)的主題中的步驟修正此錯誤。
+如果您收到錯誤, 當您嘗試開啟網頁版`X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` outlook (先前稱為 Outlook web App) 時, 您的帳戶已**停**用, 您的組織系統管理員可能已停用您對網頁上 outlook 的存取。 您的系統管理員可以遵循[啟用或停用信箱的 Outlook Web App](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)主題中的步驟來修正此錯誤。

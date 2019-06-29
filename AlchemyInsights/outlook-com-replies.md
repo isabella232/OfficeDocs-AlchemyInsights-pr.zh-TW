@@ -1,5 +1,5 @@
 ---
-title: 9000240 Outlook.com 回覆
+title: 9000240 Outlook.com 回復
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,33 +8,35 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392351"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372540"
 ---
-# <a name="replying-in-outlookcom"></a>在 Outlook.com 中回覆
+# <a name="replying-in-outlookcom"></a>在 Outlook.com 中回復
 
-若要一次回覆一封郵件：
+若要一次回復一封郵件:
 
-1. 在郵件清單中，選擇您要轉寄傳送郵件。
-2. 在最右邊的 [郵件] 窗格中，選取 [**回覆**] 箭號] 或 [**全部回覆**箭號。
-3. 輸入您的郵件，然後選取 [**傳送**。
+1. 在郵寄清單中, 選擇您要回復的郵件。
+2. 在 [訊息] 窗格的右上方, 選取 [**回復**] 箭號或 [**全部回復**] 箭號。
+3. 輸入您的訊息, 然後選取 [**傳送**]。
 
-若要自動回覆的所有郵件：
+若要自動回復所有郵件:
 
-1. 開啟您的[自動回覆設定](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption)。
-2. 選取 [**開啟自動回覆**切換。
-3. 選取**傳送回覆只能在一段時間期間**] 核取方塊，可讓您：
-    - 當您選擇時，只能傳送回覆。 如果您不需要設定一段時間，直到您關閉自動回覆仍停留在上。
+1. 移至 **[設定** > ] [**查看所有 Outlook 設定** > **郵件** > **自動回復**], 以開啟您的[自動回復設定](https://outlook.live.com/mail/options/mail/automaticReplies)。
+2. 選取 [**開啟自動回復**] 切換。
+3. 選取 [**僅在時段傳送回復**] 核取方塊, 可讓您:
+    - 只在您選擇時傳送回復。 如果您未設定時段, 您的自動回復會保持開啟, 直到您將它關閉為止。
     - 封鎖您的行事曆
     - 自動拒絕新邀請
-    - 拒絕] 和 [我的會議取消這段期間
-4. 在 [郵件] 方塊中，輸入後立即訊息的時間內傳送給人員。
-5. 若要僅傳送回覆給您的連絡人，請選取 [**傳送回覆僅連絡人**] 核取方塊。
+    - 在此期間拒絕和取消我的會議
+4. 在訊息方塊中, 輸入您離開時要傳送給人員的訊息。
+5. 若只要將回復傳送給您的連絡人, 請選取 [**僅將回復回復至連絡人**] 核取方塊。
 6. 選取**儲存**。
 
-深入了解[在 Outlook.com 中的自動轉寄](https://support.office.com/article/14614626-9855-48dc-a986-dec81d07b1a0)。
+深入瞭解[Outlook.com 中的自動](https://support.office.com/article/14614626-9855-48dc-a986-dec81d07b1a0)轉寄。

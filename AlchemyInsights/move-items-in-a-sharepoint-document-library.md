@@ -1,5 +1,5 @@
 ---
-title: 在 SharePoint 文件庫中移動項目
+title: 移動 SharePoint 文件庫中的專案
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "453"
+- "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: d3b7b8504d4ffcdccfe39645ee462e4e2e36b660
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: af0421ff0734829e2b9f9455ecc98960db4b7ae2
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418208"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379344"
 ---
-# <a name="move-items-in-a-sharepoint-document-library"></a>在 SharePoint 文件庫中移動項目
+# <a name="move-items-in-a-sharepoint-document-library"></a>移動 SharePoint 文件庫中的專案
 
-您可以將項目移到不同的位置在文件庫。 如果您已[設定目標發行選項](https://go.microsoft.com/fwlink/?linkid=622980)，您也可以在網站之間移動項目。 當您移動文件時，也被移動其歷程記錄。
+您可以將專案移至文件庫中的不同位置。 如果您已[設定目標發行選項](https://go.microsoft.com/fwlink/?linkid=622980), 您也可以在網站間移動專案。 當您移動檔時, 也會移動檔的歷程記錄。
   
-1. 在網頁瀏覽器中，瀏覽至檔案、 資料夾或您想要移動，，然後按一下 [**移到**連結。
-    
+1. 在網頁瀏覽器中, 流覽至想要移動的檔案、資料夾或連結, 然後按一下 [**移至**]。
+
     > [!NOTE]
-    > **移到**無法使用如果您正在使用 SharePoint online 的傳統體驗。 
+    > 如果您使用的是 SharePoint Online 的傳統體驗, 則無法使用 [**移至**]。
   
-2. 在 [**選擇目的地**，選取您想要移動的項目的位置。 如果您要移動到另一個網站或子網站，並沒有看到它列，按一下 [若要查看您可以移動到的網站的完整清單的 [**瀏覽網站**]。 
-    
-    若要建立新的資料夾，以移動檔案的頁面，選取的資料夾階層中的位置，按一下 [**新增資料夾**、 輸入資料夾的名稱，然後按一下 [儲存名稱核取記號。
-    
-3. 按一下 [**移至這裡**。
-    
+2. 在 **[選擇目的地**] 底下, 選取要將專案移動到的位置。 如果您要移至不同的網站或子網站, 但未看到列出, 請按一下 **[流覽網站]** 以查看您可以移至的完整網站清單。
 
+    若要建立將檔案移至其中的新資料夾, 請選取資料夾階層中的位置, 按一下 [**新增資料夾**], 輸入資料夾的名稱, 然後按一下核取記號以儲存名稱。
+
+3. 按一下 [**移至此處**]。

@@ -2,41 +2,43 @@
 title: 1336 RecoverableItems 資料夾已滿
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1336
+ms.custom:
+- "1336"
+- "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 14d46980caf7dac90e73c34482a3aee34382fa1f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 05e7b47a2200c3b0500e7d786166966ea301179a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389074"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370378"
 ---
-# <a name="the-recoverable-items-folder-is-full"></a>[可復原的項目] 資料夾已滿
+# <a name="the-recoverable-items-folder-is-full"></a>[可復原的專案] 資料夾已滿
 
-在 Office 365 中的 Exchange Online 信箱，[可復原的項目] 資料夾的預設儲存量限制為 30 GB。 如果信箱處於訴訟暫止狀態，eDiscovery 保留] 中，或指派給 Office 365 保留原則，[可復原的項目] 資料夾的儲存量限制會自動增加到 100GB。
+對於 Office 365 中的 Exchange Online 信箱, [可復原的專案] 資料夾的預設儲存限制為 30 GB。 如果信箱處於訴訟暫止、eDiscovery 保留或指派給 Office 365 保留原則, 則 [可復原的專案] 資料夾的儲存限制會自動增加至 100 GB。
 
-當 [可復原的項目] 資料夾達到儲存量限制時，是以下列方式影響信箱功能：
+當 [可復原的專案] 資料夾達到儲存限制時, 信箱功能會受到下列方式的影響:
 
-- 使用者無法從信箱中刪除項目。
+- 使用者無法刪除信箱中的專案。
 
-- 受管理的資料夾助理員無法刪除保留標記或受管理的資料夾設定為基礎的項目。
+- 受管理的資料夾助理無法根據保留標記或受管理的資料夾設定來刪除專案。
 
-- 啟用單一項目復原或會處於保留狀態的信箱，寫入時複製頁面保護程序無法維護版本的使用者編輯項目。
+- 針對已啟用單一專案復原或處於保留狀態的信箱, 「寫入時複製」頁面保護程式無法維護使用者編輯的專案版本。
 
-- 針對已啟用信箱稽核記錄的信箱，沒有信箱稽核記錄項目可以儲存在 [可復原的項目] 資料夾中的 [稽核] 子資料夾中。
+- 如果是已啟用信箱審核記錄的信箱, 則 [可復原的專案] 資料夾中的 [audit] 子資料夾中不能儲存任何信箱審核記錄專案。
 
-針對不保留的信箱，系統管理員可以使用`Search-Mailbox -SearchDumpsterOnly -DeleteContent`命令在 Exchange Online PowerShell 中刪除 [可復原的項目] 資料夾中的項目。 如需詳細資訊，請參閱下列主題： 
+對於未保留的信箱, 系統管理員可以使用 Exchange `Search-Mailbox -SearchDumpsterOnly -DeleteContent` Online PowerShell 中的命令來刪除 [可復原的專案] 資料夾中的專案。 如需詳細資訊，請參閱下列主題：
 
 - [搜尋並刪除郵件](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
 
-- [搜尋信箱](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
+- [搜尋-信箱](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-針對要保留的信箱，系統管理員必須移除保留，他們可以從 [可復原的項目] 資料夾刪除項目之前。 如需詳細資訊，請參閱 <<c0>可復原的項目保留的雲端架構信箱上的資料夾內刪除項目。
+對於處於保留狀態的信箱, 系統管理員必須先移除保留, 才能從 [可復原的專案] 資料夾中刪除專案。 如需詳細資訊, 請參閱[刪除雲端式信箱的 [可復原的專案] 資料夾中的專案](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)。
 
-若要協助防止成為完整 [可復原的項目] 資料夾，系統管理員可以增加可復原的項目資料夾信箱的保留和設定將項目從 [可復原的項目] 資料夾移至使用者的封存的信箱保留原則的儲存限制信箱。 請參閱[增加可復原的項目配額的信箱保留](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold)。
+為了協助防止 [可復原的專案] 資料夾變滿, 系統管理員可以增加保留信箱的 [可復原的專案] 資料夾的儲存限制, 並設定將 [可復原的專案] 資料夾中的專案移至使用者的封存的信箱保留原則郵件. 請參閱[增加保留信箱的可復原專案配額](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold)。

@@ -1,5 +1,5 @@
 ---
-title: 做為共用信箱傳送電子郵件
+title: 以共用信箱傳送電子郵件
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,21 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "622"
+- "3500003"
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: b8c6a5ba5ab28912ef09a4b17468a917534a54f0
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a4108d4befc1df70596149a1aedcbc781d33c641
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421915"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35369368"
 ---
-# <a name="sending-email-as-the-shared-mailbox"></a>做為共用信箱傳送電子郵件
+# <a name="sending-email-as-the-shared-mailbox"></a>以共用信箱傳送電子郵件
 
-一旦您建立共用的信箱，使用者身為成員的信箱都能傳送電子郵件做為共用的信箱身分識別 (例如*info@contoso.com* )。 相關說明請參閱︰ 
+建立共用信箱之後, 屬於信箱成員的使用者就可以使用共用信箱身分識別 (例如*info@contoso.com* ) 來傳送電子郵件。 相關說明請參閱︰
   
 [在 Outlook 2016 和 Outlook 2013 中開啟並使用共用信箱](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   
-[將共用的信箱新增至網頁型 Outlook](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+[將共用信箱新增至網頁上的 Outlook](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
   
-

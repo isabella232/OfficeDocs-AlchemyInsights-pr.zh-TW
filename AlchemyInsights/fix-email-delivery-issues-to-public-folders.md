@@ -1,5 +1,5 @@
 ---
-title: 擁有郵件功能的公用資料夾修正電子郵件傳遞問題
+title: 修正已啟用郵件功能之公用資料夾的電子郵件傳遞問題
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -8,27 +8,29 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1956
+ms.custom:
+- "1956"
+- "3500007"
 ms.assetid: ''
-ms.openlocfilehash: 900b6cc2765937ee005c7e7dce5d33bbdf582601
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: e24a4db2deb3f691209a1634d932ed277a79c868
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752659"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387696"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>擁有郵件功能的公用資料夾修正電子郵件傳遞問題
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>修正已啟用郵件功能之公用資料夾的電子郵件傳遞問題
 
-如果外部寄件者無法傳送郵件至擁有郵件功能公用資料夾，並寄件者會收到錯誤：**找不到 (550 5.4.1)**，確認電子郵件網域的公用資料夾已設定為內部轉送網域，而不是授權網域：
+如果外部寄件者無法傳送郵件至擁有郵件功能的公用資料夾, 且寄件者收到錯誤:**無法找到 (550 5.4.1)**, 請確認公用資料夾的電子郵件網域設定為內部轉送網域, 而不是授權網域:
 
 1. 開啟[Exchange 系統管理中心 (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center)。
 
-2. 前往 [**郵件流程** \> **公認的網域**] 中，選取公認的網域，然後按一下 [**編輯**。
+2. 移至 [**郵件流程** \> ] [**公認的網域**], 選取公認的網域, 然後按一下 [**編輯**]。
 
-3. 內容中的頁面，會隨即開啟，如果網域類型設為 [**授權**將值變更為**內部轉送**，然後按一下 [**儲存**。
+3. 在開啟的 [屬性] 頁面中, 如果將網欄位型別設定為 [**授權**], 請將值變更為 [**內部轉送**], 然後按一下 [**儲存**]。
 
-如果外部寄件者會收到錯誤，**您沒有權限 (550 5.7.13)**，請查看在公用資料夾的匿名使用者的權限的[Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)中執行下列命令：
+如果外部寄件者收到錯誤, 表示**您沒有許可權 (550 5.7.13)**, 請在[Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)中執行下列命令, 以查看公用資料夾中匿名使用者的許可權:
 
-`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`例如， `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`。
+`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`例如, `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`。
 
-若要允許外部使用者能夠傳送電子郵件給此公用資料夾，請新增 CreateItems 存取權限給使用者匿名。 例如 `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`。
+若要允許外部使用者將電子郵件傳送至此公用資料夾, 請將 CreateItems 存取權限新增至匿名使用者。 例如 `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`。

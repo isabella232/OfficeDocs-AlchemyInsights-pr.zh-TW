@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online 公用網站已被終止
+title: SharePoint Online 公用網站即將停產
 ms.author: clake
 author: spowriter
 manager: scotv
@@ -9,19 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "99"
+- "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1c63fd905448d48bb8823ebcfcb4900c4aab86ff
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f6e09cc80d5fb4767a859f3b82c23d4b2ec256a7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32369561"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35368864"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Online 公用網站已被終止
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Online 公用網站即將停產
 
-如果您建立 SharePoint Online 公用網站，您可以繼續使用直到 2018 年 3 月 31 日。 如果您想要繼續遇到公用網站，您需要建立一個新與新的提供者。 在 SharePoint Online 公用網站上的內容將被刪除，因此您需要將複製任何您想要保留的內容。
+如果您建立 SharePoint Online 公用網站, 您可以繼續使用它直到2018年3月31日。 如果您想要繼續擁有公用網站, 您必須使用新的提供者來建立新的網站。 將會刪除 SharePoint Online 公用網站上的內容, 因此您需要複製任何您想要保留的內容。
   
-橫幅現在會顯示頂端的 SharePoint Online 公用網站為網站將會移除的通知。 您不能關閉此橫幅。 如需儲存及複製至合作夥伴網站內容的資訊，請參閱 <<c0>關於功能主題程序的詳細資訊。 
+現在, 橫幅會出現在 SharePoint Online 公用網站的頂端, 作為網站將被移除的通知。 您無法關閉此旗標。 如需有關將內容儲存及複製到合作夥伴網站的資訊, 請參閱[功能終止程式的詳細資料](https://go.microsoft.com/fwlink/?linkid=866980)。
   
-
