@@ -1,5 +1,5 @@
 ---
-title: 撰寫在 Outlook.com 中的電子郵件時，不能選取連絡人
+title: 在 Outlook.com 中撰寫電子郵件時, 無法選取連絡人
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
 ms.custom:
-- "8000048"
 - "818"
 - "879"
 - "880"
-ms.openlocfilehash: 4353fc8c043524f15b24e1949bed47d1ad1c5023
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+- "8000048"
+ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
+ms.openlocfilehash: 0cba5787b9964577b243b18e6dcdad71b15b2012
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34703109"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361268"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a>撰寫電子郵件時，不能選取連絡人
+# <a name="cant-select-contacts-when-composing-email"></a>撰寫電子郵件時無法選取連絡人
 
-當撰寫新電子郵件，有些客戶沒有看到其連絡人清單中的，當他們按一下 [**到**] 或 [**副本**] 按鈕。 若要選取 [連絡人]，開始輸入**收**件者或 **[副本]** 欄位中，並會顯示您相關的連絡人。
+撰寫新的電子郵件時, 有些客戶按一下 [**收件者**] 或 [**抄送**] 按鈕時, 看不到他們的連絡人清單。 若要選取連絡人, 請在 [**收件者**] 或**** [副本] 欄位中開始輸入, 並顯示您的相關連絡人。

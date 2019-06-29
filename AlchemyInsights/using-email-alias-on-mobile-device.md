@@ -1,5 +1,5 @@
 ---
-title: 行動裝置上的 725 使用電子郵件別名
+title: 725在行動裝置上使用電子郵件別名
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,17 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 725
+ms.custom:
+- "725"
+- "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 98d88570cd4c014de5a1e4b76a8192013b994521
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 89d8a469ea1145f993fb524327bd66ede70cf917
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757210"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35366020"
 ---
-# <a name="email-aliases-on-mobile-devices"></a>在行動裝置上的電子郵件別名
+# <a name="email-aliases-on-mobile-devices"></a>行動裝置上的電子郵件別名
 
-電子郵件別名是另一個信箱設定的電子郵件地址，讓郵件傳送給使用者的別名將會傳遞至其信箱，將讀取其行動裝置上。 需要進行其他設定。
+電子郵件別名只是在信箱上設定的另一個電子郵件地址, 因此傳送給使用者別名的郵件會傳遞至其信箱, 並可在其行動裝置上閱讀。 不需要額外的設定。
 
-但是，使用者無法回覆郵件，或傳送新郵件使用的別名做為其從地址。 所有外寄郵件會從他們的主要電子郵件地址。
+但是, 使用者無法回復郵件, 或使用別名作為寄件者位址來傳送新郵件。 所有外寄郵件都是來自其主要的電子郵件地址。

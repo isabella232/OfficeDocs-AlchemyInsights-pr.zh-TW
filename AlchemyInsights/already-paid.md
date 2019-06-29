@@ -1,5 +1,5 @@
 ---
-title: 已付費嗎？
+title: 已支付？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "466"
+- "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: 33897829d1ab902e423eb2f8e9e1b2dfc5f869fd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ec00594736ec3f4dab085127ffbd4fc688df7d01
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397605"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357092"
 ---
-# <a name="already-paid"></a>已付費嗎？
+# <a name="already-paid"></a>已支付？
 
-如果您已送出付款，讓我們知道您可以：
+如果您已傳送付款, 您可以讓我們知道:
   
-1. 移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上，或選擇 [**計費** \> **訂用帳戶**。
-    
-2. 選擇訂閱，並在 [**我的帳單**] 區段中，選擇 [**檢視帳單**。
-    
-3. 在 [**帳單的詳細資訊**] 頁面上，選擇 [**已付費嗎？** 系統要求您輸入所傳送的付款的相關資訊。 
-    
-4. 當輸入所有的必要的資訊後時，選擇 [**傳送**]。
-    
+1. 移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面, 或選擇 [**帳單** \> **訂閱**]。
 
+2. 選擇訂閱, 然後在 [**我的帳單**] 區段中, 選擇 [**查看帳單**]。
+
+3. 在 [**帳單明細**] 頁面上, 選擇 [**已支付]。** 系統會要求您輸入與所寄付款相關的資訊。
+
+4. 輸入所有必要的資訊後, 選擇 [**傳送**]。

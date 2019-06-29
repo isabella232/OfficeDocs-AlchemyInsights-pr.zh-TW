@@ -7,38 +7,39 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "918"
+- "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: c7e0e96f225030590fdd516eaf3115c93a6335b6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 998f914f38fa9d1925f7003e634d7f11550f47da
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423174"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365516"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>使用 Office 部署工具 (ODT)
 
-您可以使用 Office 部署工具 (ODT) 來部署 Office 365 版本的 Office。 Office 部署工具 (setup.exe) 執行從命令列，並使用設定 XML 檔案來決定要部署 Office 時，會套用哪些設定。
+您可以使用 Office 部署工具 (ODT) 來部署 Office 365 版本的 Office。 Office 部署工具 (setup.exe) 是從命令列執行, 並使用設定 XML 檔案來決定部署 Office 時要套用的設定。
   
-1. 從[Microsoft 下載中心](http://go.microsoft.com/fwlink/p/?LinkID=626065)下載最新版的 Office 部署工具。
-    
-2. 使用[Office 自訂工具 (OCT)](https://config.office.com)來選取您的部署喜好設定，並建立組態 XML 檔案。 匯出設定檔，並在本機上放在 setup.exe 所在的相同資料夾。 
-    
-    **附註：** Office 安裝問題通常就會發生到期，若要設定錯誤或 malformatted 組態檔。 若要避免這種問題，我們建議您使用 Office 自訂工具來建立組態檔。 您也可以在 Office 自訂工具匯現有設定檔。 
-    
-3. 從提升權限的命令提示字元處，切換至 setup.exe 所在的位置，以下載模式執行 Office 部署工具並指定您剛儲存的組態檔。 在這個範例中，組態檔名為 Configuration.xml:
+1. 從[Microsoft 下載中心](http://go.microsoft.com/fwlink/p/?LinkID=626065)下載最新版本的 Office 部署工具。
+
+2. 使用[Office 自訂工具 (OCT)](https://config.office.com)來選取您的部署喜好設定, 並建立設定 XML 檔案。 匯出設定檔, 並將它置於 setup.exe 所在的相同資料夾中。
+
+    **附注:** 由於誤設定或 malformatted 設定檔, 通常會發生 Office 安裝問題。 若要避免這類問題, 建議您使用 Office 自訂工具來建立設定檔。 您也可以將現有的設定檔匯入 Office 自訂工具。
+
+3. 從提升許可權的命令提示字元處, 切換到 setup.exe 所在的位置, 並在下載模式中執行 Office 部署工具, 並指定您剛儲存的設定檔。 在此範例中, 設定檔命名為 config.xml:
     
   ```
   setup.exe /download Configuration.xml  
   ```
 
-4. 執行 Office 部署工具以 configure 模式，並指定設定檔。
+4. 在 [設定] 模式中執行 Office 部署工具, 並指定設定檔。
     
   ```
   setup.exe /configure Configuration.xml
   ```
 
-    **附註：** 您必須從用戶端電腦您想要安裝 Office，您必須具備本機系統管理員權限在該電腦上執行此步驟。 
-    
-若要深入了解 Office 365 專業增強版的部署案例中使用 Office 部署工具的詳細資訊，請參閱[Office 部署工具概觀](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)。 如需如何使用 Office 自訂工具的詳細資訊，請參閱 < <b0>Office 自訂工具概觀</b0>。
-  
+    **附注:** 您必須在要安裝 Office 的用戶端電腦上執行此步驟, 而且必須具有該電腦的本機系統管理員許可權。
 
+若要深入瞭解如何使用 office 部署工具進行 Office 365 專業增強版部署案例, 請參閱[Office 部署工具的總覽](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)。 如需如何使用 Office 自訂工具的詳細資訊, 請參閱[Office 自訂工具的總覽](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)。

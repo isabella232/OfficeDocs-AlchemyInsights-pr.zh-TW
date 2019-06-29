@@ -9,21 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "56"
+- "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 68592c1fd0626bb1d0f75ad2465e857245b87e13
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9bd764984a3ea053e6135124c7d217280d2e4fe9
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421087"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367928"
 ---
-# <a name="subscription-notice-in-your-office-client"></a>訂閱請注意，在您的 Office 用戶端？
+# <a name="subscription-notice-in-your-office-client"></a>Office 用戶端中的訂閱通知？
 
-它看起來像您在您的 Office 365 訂閱的狀態與相關的 Office 用戶端中看到通知。 您可以找到如何修正此問題： 在本文中的資訊：[當我開啟 Office 365 應用程式時，會出現的訂閱通知](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+看起來您在 Office 用戶端中看到與 Office 365 訂閱狀態相關的通知。 您可以在本文中找到如何修正問題的資訊:[開啟 Office 365 應用程式時, 會出現訂閱通知](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)。
   
-如果您的 Office 365 訂閱是最新狀態，可能會有瀏覽的暫時問題導致失敗您 Office 啟用。 有簡單避免這類訊息，檢查您電腦的時間，以系統管理員身分，執行 Office 和登入啟動等時可採取的步驟。 您可以找到在本文中修正這些問題的詳細的步驟：[未授權產品和啟用錯誤 Office 中的](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx)。 
+如果您的 Office 365 訂閱是最新的, 您可能會遇到導致 Office 啟用失敗的暫時性問題。 您可以採取簡單的步驟來避免這些訊息, 例如檢查您的電腦時間、以系統管理員身分執行 Office, 以及登入啟動。 您可以在本文中找到修正這些問題的詳細步驟: [Office 中未授權的產品和啟用錯誤](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx)。
   
-如果這些不適合您，請與我們連絡以下的連結，我們將樂於提供協助。
+如果這些功能不適用於您, 請使用下面的連結與我們聯繫, 我們將為您提供協助。
   
-

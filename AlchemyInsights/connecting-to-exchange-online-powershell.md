@@ -1,23 +1,25 @@
 ---
-title: 760 連線至 Exchange Online PowerShell
+title: 760連線至 Exchange Online PowerShell
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/26/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 760
+ms.custom:
+- "760"
+- "3500011"
 ms.assetid: 0f9e4dc5-1e06-4941-860b-4474a6f63247
-ms.openlocfilehash: 23a8e81367a8f94b5f2d72bde917264f53b9d3be
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3caf3e361cccc05daf933af889c28649141d596d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393496"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35363896"
 ---
 # <a name="connect-to-exchange-online-powershell"></a>連線至 Exchange Online PowerShell
 
-若要在 Exchange Online 中使用 PowerShell，請參閱 < <b0>Connect to Exchange Online PowerShell</b0>。
+若要在 Exchange Online 中使用 PowerShell, 請參閱[Connect To Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)。

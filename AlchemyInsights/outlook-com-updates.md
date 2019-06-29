@@ -8,20 +8,22 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000250
-ms.openlocfilehash: fc463464b3f29dc2ce98dae75e9b17849471d410
-ms.sourcegitcommit: eb715fe9cb01f50bde3cae0f7739edcb24c95aad
+ms.custom:
+- "1840"
+- "9000250"
+ms.openlocfilehash: dc8cbefba8e85fcf19ac09d3c1d469ae0db4bc03
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33653796"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35390216"
 ---
 # <a name="outlookcom-updates"></a>Outlook.com 更新
 
 **最新的更新**
 
-- 取得更多出新的 outlook.com 電子郵件。 我們已精簡搜尋，以方便比以往來找出您正在尋找。 相片與附件預覽等新功能可讓您不必離開收件匣，請參閱圖片和檔案。 現在您可以將 emoji Gif 新增至您的郵件。 [深入了解新的 Outlook.com。](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d)
+- 使用新的 Outlook.com, 讓您的電子郵件更多。 我們已簡化搜尋, 讓您可以更輕鬆地找到您要尋找的專案。 新功能 (例如相片和附件預覽) 可讓您查看圖片和檔案, 而不需離開您的收件匣。 您現在可以將 emoji 和 Gif 新增至您的郵件。 [深入瞭解新 Outlook.com。](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d)
 
 **電子郵件更新**
 
-- 如果您的 Outlook.com 信箱無法更新，請參閱 [修正 Outlook.com 電子郵件同步處理問題](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642)。
+- 如果您的 Outlook.com 信箱未更新, 請參閱 [修正 Outlook.com 電子郵件同步](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642)處理的問題。

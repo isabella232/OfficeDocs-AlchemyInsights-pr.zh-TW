@@ -1,5 +1,5 @@
 ---
-title: 內容不會出現在 [SharePoint 搜尋結果
+title: 內容不會出現在 SharePoint 搜尋結果中
 ms.author: tlarsen
 author: tklarsen
 ms.date: 1/8/2019
@@ -7,28 +7,30 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "750"
+- "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: de607b75f973322359888c300ba1849e117d0092
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 8215b0a5cde5adffa3bec37d6699418557f914dd
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408063"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35363789"
 ---
-# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>內容不會出現在 [SharePoint 搜尋結果
+# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>內容不會出現在 SharePoint 搜尋結果中
 
-請遵循這些時預期的內容不會出現在搜尋結果的疑難排解步驟：
+如果預期的內容未出現在搜尋結果中, 請遵循下列疑難排解步驟:
   
-1. 檢查**網站**，其中包含預期的內容設為允許在搜尋結果中顯示的內容。 請依照[顯示搜尋結果中的網站上的內容](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results)中。
-    
-2. 檢查**清單**或**文件庫**包含預期的內容設定為允許在搜尋結果中顯示的內容。 請依照中[顯示清單或文件庫中的搜尋結果中的內容](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results)。 
-    
-3. 確認網頁、 文件或自訂的版面配置發佈為**的主要版本。** 請依照下列步驟 3 中[搜尋不會傳回 SharePoint Online 中的所有結果](https://go.microsoft.com/fwlink/?linkid=874525)。
-    
-4. 確認使用者具有**權限**，若要檢視的內容。 遵循[在 SharePoint 中的了解權限層級](https://go.microsoft.com/fwlink/?linkid=867071)中的步驟。
-    
-5. **重新編製索引**內容中[手動要求編目和重新編製索引的網站、 文件庫或清單中](https://docs.microsoft.com/sharepoint/crawl-site-content)的步驟執行。 這可能需要一段時間，請等候 24 小時前一次檢查結果。
-    
-如需詳細資訊，請參閱 <<c0>啟用可供搜尋網站上的內容。 
-  
+1. 檢查包含預期內容的**網站**是否設定為允許內容出現在搜尋結果中。 請依照在[搜尋結果中顯示網站內容](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results)的步驟進行。
 
+2. 檢查包含預期內容的**清單**或文檔**庫**是否已設定為允許內容出現在搜尋結果中。 請依照 [在[搜尋結果中顯示清單](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results)中的內容] 或 [文件庫] 中的步驟。
+
+3. 確認頁面、檔或自訂頁面配置已發佈為**主要版本。** 請遵循搜尋中的步驟 3,[不會傳回 SharePoint Online 中的所有結果](https://go.microsoft.com/fwlink/?linkid=874525)。
+
+4. 確認使用者具有查看內容的**許可權**。 請依照[瞭解 SharePoint 中的許可權層級](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels)中的步驟進行。
+    
+5. 如果已透過新增 managed 屬性來變更搜尋架構、編輯 managed 屬性, 或是移除 managed 屬性, 則需要進行編目和重新編制索引。 [請依照手動要求編目和重新編制網站、文件庫或清單的索引](https://docs.microsoft.com/sharepoint/crawl-site-content)中的步驟,**重新編制內容索引**。 這可能需要一段時間, 請等候24小時後再檢查結果。
+
+如需詳細資訊, 請參閱[啟用網站上的內容以](https://docs.microsoft.com/sharepoint/make-site-content-searchable)供搜尋。 
+  
