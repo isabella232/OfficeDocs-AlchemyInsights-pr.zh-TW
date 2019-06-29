@@ -1,5 +1,5 @@
 ---
-title: 魔力-Outlook 錯誤 ' 無法啟動 Microsoft Outlook'
+title: Alchemy-Outlook 錯誤 ' 無法啟動 Microsoft Outlook '
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "457"
+- "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: f35b769d5037b0b8dd4dec7af760124abacfd11a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e2ac82eda2de9e493ba3efb1bd3477d4a9eec10e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397997"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357422"
 ---
-「 無法啟動 Microsoft Outlook 」
+# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook 錯誤: 「無法啟動 Microsoft Outlook」
 
-# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook 錯誤: 「 無法啟動 Microsoft Outlook 」
-
-您遇到了問題啟動 Outlook 2016、 Outlook 2013 或 Outlook 2010 或收到 「 無法啟動 Microsoft Outlook。 無法開啟 Outlook 視窗 」 錯誤訊息？
+您在啟動 Outlook 2016、Outlook 2013 或 Outlook 2010 時遇到問題, 或收到「無法啟動 Microsoft Outlook。 無法開啟 Outlook 視窗「錯誤訊息？
   
-首先，使用[本文](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85)中的疑難排解步驟，協助您解決這些啟動問題。 
+首先, 請使用[本文](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85)中的疑難排解步驟來協助解決這些啟動問題。 
   
-您也可以在受影響的電腦上執行[進階診斷工具](https://aka.ms/SaRA-OutlookAdvDiagnostics)。 
+您也可以在受影響的機器上執行[高級診斷工具](https://aka.ms/SaRA-OutlookAdvDiagnostics)。 
   
 
