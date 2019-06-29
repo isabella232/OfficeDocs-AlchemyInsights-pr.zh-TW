@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "274"
+- "6200001"
 ms.assetid: 81f4dca4-7ae7-4dc9-929e-7b91b1711118
-ms.openlocfilehash: cfdfcb588f16f1871fa405b264be22a0bb1e074c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 62dfe61ebfc7cfcd78d21f8521024d1af7db6ea8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32374099"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354212"
 ---
 # <a name="submit-dynamics-365-support-requests"></a>提交 Dynamics 365 支援要求
 
@@ -24,4 +26,3 @@ ms.locfileid: "32374099"
   
 新的入口網站提供更直接的支援協助路徑，讓使用 Dynamics Customer Engagement 和其他 Power 平台產品更方便使用。
   
-

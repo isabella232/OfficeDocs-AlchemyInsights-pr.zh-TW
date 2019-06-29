@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "5"
+- "14"
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: ea25afd85e9ef1ae89f3a8908dc1e83a4433c890
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 148fbee1c14a8da6ede5ec5ccae90b1a4340ce32
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394494"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35363068"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>將您的網域名稱伺服器更新為 Office 365
 
@@ -25,15 +27,14 @@ ms.locfileid: "32394494"
 若要在 Office 365 設定網域，請在您的註冊機構更新名稱伺服器。在網域註冊機構建立或編輯網域名稱伺服器記錄。
   
 1. 移至您的網域註冊機構網站，並找到可編輯名稱伺服器的區域。
-    
+  
 2. 建立或編輯兩項名稱伺服器以符合這些值：
-    
+
   - ns1.bdm.microsoftonline.com
-    
+
   - ns2.bdm.microsoftonline.com
-    
+
 3. 儲存變更。
-    
+
 您也可以在這篇文章中找到詳細指示：[運用任何網域註冊機構變更名稱伺服器以設定 Office 365](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
   
-

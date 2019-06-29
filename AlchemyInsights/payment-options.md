@@ -9,13 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
+ms.custom:
+- "1639"
+- "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a3534000b8b8f3d8c2a2cd9b5b3cf1eb278d3c85
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372623"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360764"
 ---
 # <a name="payment-options"></a>付款選項
 
@@ -27,7 +30,7 @@ ms.locfileid: "32372623"
   
 若以信用卡或銀行帳戶付款，系統將會在發票日期隔天自動向您收取訂閱的款項，直到您的訂閱期結束為止。 您可以依需求隨時[更新信用卡或銀行帳戶資訊](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)。 您也可以選擇[透過電子郵件接收帳單明細的複本](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email)。
   
-如果您的信用卡遭到拒絕或有逾期餘額，您可以在 **[帳單]** \> [[訂閱]](https://portal.office.com/adminportal/home#/subscriptions) 頁面上，選擇 **[立即付款]** 選項。 
+如果您的信用卡遭到拒絕或有逾期餘額，您可以在 **[帳單]** \> [[訂閱]](https://portal.office.com/adminportal/home#/subscriptions) 頁面上，選擇 **[立即付款]** 選項。
   
  **使用發票付款 (支票或電匯)**
   
@@ -43,4 +46,3 @@ ms.locfileid: "32372623"
   
 [支付商務用 Office 365 訂閱費用](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
-
