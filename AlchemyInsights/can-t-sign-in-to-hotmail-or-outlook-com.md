@@ -1,5 +1,5 @@
 ---
-title: 8000077無法登入 Hotmail 或 Outlook.com？
+title: 8000077 [無法登入 Hotmail 或 Outlook.com 嗎？
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,16 +12,16 @@ ms.custom:
 - "1198"
 - "8000077"
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
-ms.openlocfilehash: bea7ed27748e67d15b4e1a3c666be0cc7bddab8e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1594aa3c819c528f5b8253654a55fe419d2f36d7
+ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361196"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35594957"
 ---
-# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>無法登入 Hotmail 或 Outlook.com？
+# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>無法登入 Hotmail 或 Outlook.com 嗎？
 
-若要讓您的 Outlook.com 帳戶保持在使用中, 您必須至少每隔365天登入該帳戶。 在365天的非活動狀態後, 您的電子郵件將會被刪除, 而且無法復原。
+若要保留您的 Outlook.com 帳戶作用中，您必須登入帳戶至少一次每隔 365 天。 在一段時間的 365 天之後, 您的電子郵件將被刪除，而且無法復原。
   
-如果您已在365天內登入, 但仍無法存取 Hotmail 或 Outlook.com 帳戶, 請閱讀[如何登入或登出 Outlook.com](https://go.microsoft.com/fwlink/?linkid=2005840&amp;clcid=0x409)。
+如果您已登入，365 天內，但仍無法存取您的 Hotmail 或 Outlook.com 帳戶，請閱讀[如何登入或移出 Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)。
   
