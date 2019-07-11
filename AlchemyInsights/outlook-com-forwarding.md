@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "1824"
 - "9000239"
-ms.openlocfilehash: c5bbaf6068c7a3f54982ee5de556888a2f2377ae
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 47798351cec9a4ef1296052fac1ae76d40966916
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35374736"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614042"
 ---
-# <a name="forwarding-email-in-outlookcom"></a>在 Outlook.com 中轉寄電子郵件
+# <a name="forwarding-email-in-outlookcom"></a>在 Outlook.com 中的轉寄電子郵件
 
-若要一次轉寄一封郵件:
+若要將一封郵件轉寄，一次：
 
-1. 在郵寄清單中, 選擇您要轉寄的郵件。
-2. 在 [訊息] 窗格的上角, 選取 [**轉寄**] 箭號。
-3. 輸入您的訊息, 然後選取 [**傳送**]。
+1. 在郵件清單中，選擇您要轉寄傳送郵件。
+2. 在 [訊息] 窗格的左上角，選取 [**轉寄**] 箭號。
+3. 輸入您的郵件，然後選取 [**傳送**。
 
-若要自動轉寄所有郵件:
+若要自動轉寄所有郵件：
 
-1. 開啟 [轉寄][設定](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption)。
-2. 選取 [**啟用**轉寄], 輸入轉寄電子郵件地址, 然後選取 [**儲存**]。
+1. 開啟您的[轉寄設定](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption)。
+2. 選取 [**啟用轉寄**，請輸入轉寄電子郵件地址，並選取 [**儲存**]。
 
-深入瞭解[Outlook.com 中的自動](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad)轉寄。
+深入了解[在 Outlook.com 中的自動轉寄](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad?wt.mc_id=Office_Outlook_com_Alchemy)。
