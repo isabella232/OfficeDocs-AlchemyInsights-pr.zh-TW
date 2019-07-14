@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 16fed7fc9995ba9b4143495fc268d5b3a31d2a01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
-ms.translationtype: MT
+ms.openlocfilehash: 33bd6fa8a26eb27c1d829268ac0956c2dbf90d58
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377616"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614161"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>將您的 Gmail 帳戶新增至 Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>將 Gmail 帳戶新增至 Outlook.com
 
-1. 開啟 [[同步處理電子郵件] 設定](https://go.microsoft.com/fwlink/?linkid=875264)。
-2. 在 [**連線的帳戶**] 下, 選取**Gmail**。
-3. 輸入顯示名稱 (當收件者收到您的電子郵件訊息時, 會看到的名稱)。
-4. 選擇 Outlook.com 是否應該從 Gmail 匯入您的電子郵件, 以及將儲存匯入電子郵件的位置。
-5. 選取 **[確定]** 以移至 Google 登入頁面。
+1. 開啟您的 [同步處理電子郵件設定][](https://go.microsoft.com/fwlink/?linkid=875264)。
+2. 在 [連結帳戶]**** 下方，選取 [Gmail]****。
+3. 輸入顯示名稱 (收件者在收到您傳送的電子郵件訊息時會看到此名稱)。
+4. 選擇 Outlook.com 是否應該從 Gmail 匯入電子郵件，以及將儲存所匯入電子郵件的位置。
+5. 選取 [確定]**** 以前往 Google 登入頁面。
 
-從連線的帳戶同步處理至您的 Outlook.com 帳戶只是單向的。 使用 Outlook.com 從您的 Gmail 帳戶傳送的電子郵件不會出現在 Gmail 的 [已傳送的專案] 中。
+從連結的帳戶同步處理至您的 Outlook.com 帳戶僅為單向作業。 使用 Outlook.com 透過 Gmail 帳戶傳送的電子郵件將不會出現在 Gmail 的 [寄件備份] 中。
 
-您可以從連接的 Gmail 帳戶, 從 Outlook.com 傳送電子郵件。 撰寫電子郵件時, 請選取 [**來源**] 並選擇您的 Gmail 位址, 或[更新您的預設 [發件](https://go.microsoft.com/fwlink/?linkid=875264)人] 位址。
+您可以在 Outlook.com 中透過連結的 Gmail 帳戶傳送電子郵件。 撰寫電子郵件時，請選取 [寄件者]**** 並選擇您的 Gmail 地址，或[更新您的預設寄件者地址](https://go.microsoft.com/fwlink/?linkid=875264)。
 
-如需詳細資訊, 請參閱[將其他電子郵件帳戶新增至 Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba)。
+如需詳細資訊，請參閱[將其他電子郵件帳戶新增至 Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)。
