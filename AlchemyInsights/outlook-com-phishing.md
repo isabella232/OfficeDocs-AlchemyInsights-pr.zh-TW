@@ -1,5 +1,5 @@
 ---
-title: 處理 Outlook.com 中的網路釣魚
+title: 在 Outlook.com 中的網路釣魚處理
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0551eb86016b572796a789e6e82fd4c46274bea7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d837096640d951e7fec289440f56b3339caf3680
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373548"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697290"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a><span data-ttu-id="ff945-102">如何處理網路釣魚電子郵件</span><span class="sxs-lookup"><span data-stu-id="ff945-102">How to deal with a phishing email</span></span>
+# <a name="how-to-deal-with-a-phishing-email"></a><span data-ttu-id="98cc1-102">如何處理的網路釣魚電子郵件</span><span class="sxs-lookup"><span data-stu-id="98cc1-102">How to deal with a phishing email</span></span>
 
-<span data-ttu-id="ff945-103">網路釣魚詐騙是看似合法的電子郵件, 但實際上是企圖竊取您的個人資訊或金錢。</span><span class="sxs-lookup"><span data-stu-id="ff945-103">A phishing scam is an email that appears legitimate but is actually an attempt to steal your personal information or money.</span></span> <span data-ttu-id="ff945-104">詐騙者也可以使用稱為詐騙的技術, 讓它看起來就像是您收到自己的電子郵件一樣。</span><span class="sxs-lookup"><span data-stu-id="ff945-104">Scammers can also use a technique called spoofing to make it appear as if you've received an email from yourself.</span></span>
+<span data-ttu-id="98cc1-103">網路釣魚詐騙郵件是一封電子郵件出現合法但實際上嘗試竊取您個人資訊] 或 [金額。</span><span class="sxs-lookup"><span data-stu-id="98cc1-103">A phishing scam is an email that appears legitimate but is actually an attempt to steal your personal information or money.</span></span> <span data-ttu-id="98cc1-104">發送者也可以使用稱為詐騙技術來讓它顯示為如果您收到一封電子郵件從您自己。</span><span class="sxs-lookup"><span data-stu-id="98cc1-104">Scammers can also use a technique called spoofing to make it appear as if you've received an email from yourself.</span></span>
 
-<span data-ttu-id="ff945-105">如果您收到的電子郵件看起來像是網路釣魚詐騙, 您可以選取郵件, 然後選取 [**垃圾** > **網路釣魚**] 來報告該郵件。</span><span class="sxs-lookup"><span data-stu-id="ff945-105">If you get an email that looks like a phishing scam, you can report it by selecting the message and then selecting **Junk** > **Phishing**.</span></span>
+<span data-ttu-id="98cc1-105">如果您收到的電子郵件，看起來像網路釣魚詐騙郵件時，可以報告所選取郵件，然後選取 [**垃圾郵件** > **網路釣魚**。</span><span class="sxs-lookup"><span data-stu-id="98cc1-105">If you get an email that looks like a phishing scam, you can report it by selecting the message and then selecting **Junk** > **Phishing**.</span></span>
 
-<span data-ttu-id="ff945-106">*附注:* 當您將郵件標示為網路釣魚時, 它只會報告寄件者。</span><span class="sxs-lookup"><span data-stu-id="ff945-106">*Note:* When you mark a message as phishing, it only reports the sender.</span></span><span data-ttu-id="ff945-107">它不會封鎖寄件者在未來傳送您的訊息。</span><span class="sxs-lookup"><span data-stu-id="ff945-107"> It doesn't block that sender from sending you messages in the future.</span></span> <span data-ttu-id="ff945-108">若要封鎖寄件者, 您必須將寄件者新增至您的 [封鎖的寄件者] 清單。</span><span class="sxs-lookup"><span data-stu-id="ff945-108">To block the sender, you need to add the sender to your blocked senders list.</span></span> <span data-ttu-id="ff945-109">如需詳細資訊, 請參閱[封鎖寄件者或解除封鎖 Outlook.com 中的寄件者](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)。</span><span class="sxs-lookup"><span data-stu-id="ff945-109">For more information, see [Block senders or unblock senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span></span>
+<span data-ttu-id="98cc1-106">*附註：* 當您將郵件標記為網路釣魚時，它只會報告寄件者。</span><span class="sxs-lookup"><span data-stu-id="98cc1-106">*Note:* When you mark a message as phishing, it only reports the sender.</span></span><span data-ttu-id="98cc1-107">它不會封鎖該寄件者傳送訊息給您未來。</span><span class="sxs-lookup"><span data-stu-id="98cc1-107"> It doesn't block that sender from sending you messages in the future.</span></span> <span data-ttu-id="98cc1-108">若要封鎖的寄件者，您需要將寄件者新增至封鎖的寄件者清單。</span><span class="sxs-lookup"><span data-stu-id="98cc1-108">To block the sender, you need to add the sender to your blocked senders list.</span></span> <span data-ttu-id="98cc1-109">如需詳細資訊，請參閱[寄件者封鎖或解除封鎖寄件者在 Outlook.com 中](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="98cc1-109">For more information, see [Block senders or unblock senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="ff945-110">瞭解如何[在 Outlook.com 中處理濫用、網路釣魚或詐騙](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3), 以及[Office 365 訂閱者的先進 Outlook.com 安全性](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2)。</span><span class="sxs-lookup"><span data-stu-id="ff945-110">Learn about how to [deal with abuse, phishing, or spoofing in Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3) and [advanced Outlook.com security for Office 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2).</span></span>
+<span data-ttu-id="98cc1-110">了解如何[處理濫用、 網路釣魚，或在 Outlook.com 中詐騙](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy)及[Office 365 訂閱者的進階的 Outlook.com 安全性](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="98cc1-110">Learn about how to [deal with abuse, phishing, or spoofing in Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) and [advanced Outlook.com security for Office 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
