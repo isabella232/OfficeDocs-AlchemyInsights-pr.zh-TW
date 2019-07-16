@@ -11,12 +11,12 @@ ms.custom:
 - "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4b3626cb02284e3527cc85142621febd5380a888
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5ed89ac0381760d7396d5920329c9eee6335ddd0
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377400"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697038"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>在 Outlook.com 中新增標幟及提醒
 
@@ -32,4 +32,4 @@ ms.locfileid: "35377400"
 1. 在 [郵件] 清單中，將游標的訊息，請參閱 [標幟] 選項。
 1. 選取要將郵件標示的旗標圖示。 若要查看所有您已標幟的郵件，請選取核取記號，前往 [工作] 頁面上的左下角處。
  
-若要深入了解，請[標幟或 pin 碼的郵件在 Outlook.com 中](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a)讀取。
+若要深入了解，請[標幟或 pin 碼的郵件在 Outlook.com 中](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy)讀取。

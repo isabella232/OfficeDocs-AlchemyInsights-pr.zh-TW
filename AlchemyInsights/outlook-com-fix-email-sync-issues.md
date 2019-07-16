@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.assetid: 6f48a145-b258-4d47-ac7e-c4c3f76bd1c1
 ms.custom:
 - "8000048"
-ms.openlocfilehash: ad2603be9f2a154daa18ebbab01f22988b434dcb
-ms.sourcegitcommit: 9f2869118b70ac3918d699474452bef2ff615e11
+ms.openlocfilehash: 68df24c1de3cc2395f3de60944250d6822ef64bc
+ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/17/2019
-ms.locfileid: "34116430"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35704119"
 ---
 # <a name="fix-outlookcom-email-sync-issues"></a>修正 Outlook.com 電子郵件同步處理問題
 
@@ -26,4 +26,4 @@ ms.locfileid: "34116430"
   
 如果寄件者不在封鎖的寄件者清單上，您需要連絡寄件者，並讓他們知道您未收到電子郵件在您的 Outlook.com 帳戶。 寄件者，請參閱[https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409)，他們可以在其中找到最佳作法，建議您進行疑難排解，以及連絡 Outlook.com 寄件者支援小組的連結的相關資訊。
   
-如果您未收到電子郵件，請參閱[修正 Outlook.com 電子郵件同步處理問題](https://go.microsoft.com/fwlink/p/?linkid=2001207&amp;clcid=0x409)。
+如果您未收到電子郵件，請參閱[修正 Outlook.com 電子郵件同步處理問題](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)。

@@ -1,5 +1,5 @@
 ---
-title: 8000059垃圾郵件篩選器無法運作
+title: 8000059 不正常的垃圾郵件篩選器
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,14 +12,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: 23d8e02c11df71497a199b5ca44bfd8114383eb3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 642b17adc4c362394995ff78dfc8a237a6484a12
+ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354932"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35704600"
 ---
 # <a name="spam-filter-not-working"></a>垃圾郵件篩選器無法運作
 
-如果您認為您收到的郵件是網路釣魚或詐騙詐騙, 請將郵件標記為 [垃圾郵件], 然後移至 [**垃圾郵件**], 選取該郵件, 然後選取 [**非垃圾** \>郵件**仿冒**], 以將其標示為網路釣魚詐騙。 若要深入瞭解濫用、網路釣魚和詐騙, 請[閱讀此](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3)資訊。 若要封鎖電子郵件地址、將位址或網域新增至您的安全寄件者清單, 或套用其他垃圾郵件選項, 請選取 [**垃圾郵件選項**]。
+如果您認為您是否已接收的郵件是否網路釣魚詐騙詐騙，將郵件標記為垃圾郵件，然後移至**垃圾郵件**，選取 [訊息]，然後選取 [**不是垃圾郵件** \> **網路釣魚**將標示為網路釣魚詐騙郵件。 若要深入了解濫用、 網路釣魚和詐騙，請[閱讀本文](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy)。 若要封鎖電子郵件地址、 將地址或網域新增至您的安全寄件者清單，或套用其他垃圾郵件] 選項，選取 [**垃圾郵件選項**。
   
