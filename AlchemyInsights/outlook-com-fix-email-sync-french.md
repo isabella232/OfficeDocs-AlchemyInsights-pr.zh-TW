@@ -1,5 +1,5 @@
 ---
-title: 8000071 Outlook.com 修正電子郵件同步-法文
+title: 8000071 Outlook.com 修正電子郵件同步處理-法文
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1147"
 - "1148"
 - "8000071"
-ms.openlocfilehash: ebe8219b9def164d9eb879164d0e744129c60f7f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fb1f39e29da3cbc3844890bebda2904198caa0da
+ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35374844"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35745752"
 ---
-# <a name="rsoudre-les-problmes-de-synchronisation-des-messages"></a><span data-ttu-id="bfebc-102">Résoudre les problèmes de 同步 des 郵件</span><span class="sxs-lookup"><span data-stu-id="bfebc-102">Résoudre les problèmes de synchronisation des messages</span></span>
+# <a name="rsoudre-les-problmes-de-synchronisation-des-messages"></a><span data-ttu-id="18772-102">Résoudre les problèmes de 同步處理 des 郵件</span><span class="sxs-lookup"><span data-stu-id="18772-102">Résoudre les problèmes de synchronisation des messages</span></span>
 
-<span data-ttu-id="bfebc-103">Si vous ne pouvez pas envoyer ou recevoir des courriers électroniques, ou ne peut pas se connecter à Outlook.com, [essayez ces 解決方案](https://support.office.com/fr-fr/article/résoudre-les-problèmes-de-synchronisation-des-messages-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=fr-FR&rs=fr-FR&ad=FR)。</span><span class="sxs-lookup"><span data-stu-id="bfebc-103">Si vous ne pouvez pas envoyer ou recevoir des courriers électroniques, ou ne peut pas se connecter à Outlook.com, [essayez ces solutions](https://support.office.com/fr-fr/article/résoudre-les-problèmes-de-synchronisation-des-messages-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=fr-FR&rs=fr-FR&ad=FR).</span></span>
+<span data-ttu-id="18772-103">Si vous ne pouvez pas envoyer ou recevoir des courriers électroniques，ou ne peut pas se 連接器連線 à Outlook.com、 [essayez ces 解決方案](https://support.office.com/fr-fr/article/résoudre-les-problèmes-de-synchronisation-des-messages-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="18772-103">Si vous ne pouvez pas envoyer ou recevoir des courriers électroniques, ou ne peut pas se connecter à Outlook.com, [essayez ces solutions](https://support.office.com/fr-fr/article/résoudre-les-problèmes-de-synchronisation-des-messages-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="bfebc-104">Si vous ne pouvez pas vous connecter à votre Hotmail ou Outlook.com, découvrez [comment se connecter ou se déconnecter de Outlook.com](https://support.office.com/fr-fr/article/comment-se-connecter-et-se-déconnecter-d-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e)。</span><span class="sxs-lookup"><span data-stu-id="bfebc-104">Si vous ne pouvez pas vous connecter à votre Hotmail ou Outlook.com, découvrez [comment se connecter ou se déconnecter de Outlook.com](https://support.office.com/fr-fr/article/comment-se-connecter-et-se-déconnecter-d-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e).</span></span>
+<span data-ttu-id="18772-104">Si vous ne pouvez pas vous 連接器連線 à votre Hotmail ou Outlook.com、 découvrez[註解 se 連接器連線 ou se déconnecter de Outlook.com](https://support.office.com/fr-fr/article/comment-se-connecter-et-se-déconnecter-d-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="18772-104">Si vous ne pouvez pas vous connecter à votre Hotmail ou Outlook.com, découvrez [comment se connecter ou se déconnecter de Outlook.com](https://support.office.com/fr-fr/article/comment-se-connecter-et-se-déconnecter-d-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
