@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 遺失的資料夾
+title: Outlook.com 遺漏資料夾
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,17 +15,17 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 1940b650ca61907fa9121cba4c67aa932086b108
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1139ddf9028e8e54ec467948705d10a456e4e84f
+ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373944"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35745598"
 ---
 # <a name="find-missing-folders"></a>尋找遺失的資料夾
 
-如果您看不到您的資料夾, 請檢查您的資料夾是否未折迭。 選取左窗格中 [**資料夾**] 旁邊的箭號。
+如果您不能看到您的資料夾，請檢查您的資料夾未摺疊。 在左窗格中選取**資料夾**旁的箭號。
   
-如果您不小心刪除資料夾, 您可以在它仍在 [刪除的郵件] 資料夾時予以復原。 若要深入瞭解, 請參閱[還原 Outlook.com 中已刪除的電子郵件](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)。
+如果您不小心刪除的資料夾，您可以復原時仍在您刪除項目] 資料夾中。 若要深入了解，請閱讀[還原已刪除的電子郵件在 Outlook.com 中](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)。
   
-找不到資料夾的已知問題。 我們正在努力修正此問題。 您仍然可以使用**搜尋**來尋找儲存在遺失的資料夾內的專案, 如果您登出後再重新登入, 可能會有所説明。 [請按一下這裡登出。](https://login.live.com/logout.srf)
+沒有已知的問題所在資料夾會遺失。 我們正在修正此問題。 您還是可以找到使用**搜尋**，將遺失資料夾內儲存的項目，這樣可能會有幫助您登出，然後再次登入。 [按一下這裡以登出。](https://login.live.com/logout.srf)

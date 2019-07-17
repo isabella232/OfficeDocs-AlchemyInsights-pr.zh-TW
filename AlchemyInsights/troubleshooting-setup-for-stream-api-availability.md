@@ -1,5 +1,5 @@
 ---
-title: 疑難排解安裝程式的資料流程-API 可用性
+title: 設定資料流-API 可用性的疑難排解
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2800001"
 - "1338"
-ms.openlocfilehash: 3c3096859e4196ac4a504c72bae5cf18daada110
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b012b15bf02c0bdb8488b362f0ea584f8c7bcf2f
+ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366776"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35752717"
 ---
-# <a name="api-availability"></a>API 可用性
-資料流程的 Api 目前無法使用。
-如需詳細資訊:https://stream.microsoft.com/support/
+# <a name="api-availability"></a>API 的可用性
+
+資料流的 Api 目前不提供。
+如需詳細資訊：https://stream.microsoft.com/support/

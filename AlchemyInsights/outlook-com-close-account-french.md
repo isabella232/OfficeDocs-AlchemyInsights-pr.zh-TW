@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1152"
 - "8000075"
-ms.openlocfilehash: 08c7faaf670823d5f29331686f52346941e913b8
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 35263682294da76eea10371169a218d865316cb2
+ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376032"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35745968"
 ---
 # <a name="fermer-votre-compte-outlookcom"></a>Fermer votre compte Outlook.com
 
-澆築 fermer définitivement votre compte de courrier Outlook.com, vous devez fermer votre Compte Microsoft。 Lorsque vous fermez votre Compte Microsoft, vos messages et vos contacts sont supprimés de nos serveurs et ne peuvent pas être récupérés。
+灌注 fermer définitivement votre compte de courrier Outlook.com、 vous devez fermer votre Compte Microsoft。 Lorsque vous fermez votre Compte Microsoft，vos 郵件 et vos 連絡人 sont supprimés de nos serveurs et ne peuvent pas être récupérés。
 
-Accédez à [Fermer votre compte](https://support.office.com/fr-fr/article/fermer-votre-compte-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=fr-FR&rs=fr-FR&ad=FR)。
+Accédez à [Fermer votre compte](https://support.office.com/fr-fr/article/fermer-votre-compte-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy)。
