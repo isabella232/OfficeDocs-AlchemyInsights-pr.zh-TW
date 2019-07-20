@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: b77e514da36701808d46248e8f2a45137751a1c7
-ms.sourcegitcommit: 5447031f9d0a320c49897b8adb5d29ac9437fbc5
+ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35786404"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800036"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>需要的魔力標頭 H1、 H2 的沒有作用。
 最佳作法和魔力製作的指導方針：
@@ -38,5 +38,3 @@ ms.locfileid: "35786404"
 這確實已經是有點太長。 最佳作法是 400 個字元為--
 
 準備您的內容之後，請至 live 分支提取。 然後，移至[魔力合作夥伴入口網站](https://alchemyportal.azurewebsites.net)，並在 [url] 欄位輸入檔案名稱。 
-
-
