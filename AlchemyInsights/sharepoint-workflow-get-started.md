@@ -19,8 +19,8 @@ ms.locfileid: "34758232"
 ---
 # <a name="workflows-in-sharepoint"></a>SharePoint 中的工作流程
 
-在 SharePoint 中的工作流程可讓您建立模型，並自動化商務程序。 SharePoint 支援兩種主要撰寫工作流程的開發環境： SharePoint Designer 和 Visual Studio。 
+在 SharePoint 中的工作流程可讓您建立模型，並自動化商務程序。 SharePoint 支援兩種主要撰寫工作流程的工作流程開發環境：SharePoint Designer 和 Visual Studio。 
 
-請參閱[在 SharePoint Designer 和 Visio 開發 SharePoint 工作流程](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio)或[使用 Visual Studio 開發 SharePoint 工作流程](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio)以評估其優缺點。 
+請參閱[在 SharePoint Designer 和 Visio 開發 SharePoint 工作流程](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) (英文) 或[使用 Visual Studio 開發 SharePoint 工作流程](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) (英文) 以評估其優缺點。 
 
-如果您正在決定是否使用工作流程做為您在 SharePoint 環境中的解決方案，或正在尋找快速入門的一般資訊，請參閱[在 SharePoint 中的工作流程的概觀](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint)。
+如果您正在決定是否使用工作流程做為您在 SharePoint 環境中的解決方案，或正在尋找快速入門的一般資訊，請參閱 [SharePoint 中的工作流程概觀](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint) (英文)。
