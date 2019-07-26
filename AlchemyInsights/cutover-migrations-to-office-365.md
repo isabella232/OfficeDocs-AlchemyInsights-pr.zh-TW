@@ -11,13 +11,12 @@ localization_priority: Priority
 ms.custom:
 - "695"
 - "3500010"
-ms.assetid: 11929899-2837-4b45-ba79-873bb5485810
-ms.openlocfilehash: 57d2d92396d8abebb7ed0046de77b784e31da714
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f50ac52c030a04b1125cff751b5b3e9dc538a566
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364472"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903748"
 ---
 # <a name="cutover-migrations-to-office-365"></a>完全移轉至 Office 365
 
