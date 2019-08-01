@@ -1,5 +1,5 @@
 ---
-title: Outlook.com over quota
+title: 透過配額 Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,21 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "1350"
 - "8000084"
-ms.openlocfilehash: d86f039cb0dba7cb7e4d21c0e43c1a3448265146
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b6863eaa0488207f3ac4b999168a58bc6cea84ce
+ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373656"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36048951"
 ---
-# <a name="email-and-storage-quota-in-outlookcom"></a>Outlook.com 中的電子郵件和儲存配額
+# <a name="email-and-storage-quota-in-outlookcom"></a>在 Outlook.com 中的電子郵件和儲存配額
 
 **傳送限制**
 
-為了協助減少垃圾郵件, Outlook.com 有每日電子郵件傳送限制。 若要瞭解您可以如何增加每日傳送限制, 請參閱[Outlook.com 中的傳送限制](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e)。
+若要協助減少垃圾郵件，Outlook.com 會有每日的電子郵件傳送限制。 若要了解如何您可以增加您每日的傳送限制，請參閱[傳送限制在 Outlook.com 中](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e?wt.mc_id=Office_Outlook_com_Alchemy)。
 
 **儲存限制**
 
-如果您的收件匣已滿, 您將無法傳送或接收任何郵件, 而且傳送電子郵件的人員會收到錯誤訊息, 指出您的收件匣已滿。 您可以透過[[**設定** > ]**查看 [所有 Outlook 設定** > ]**[一般**> ] 儲存區](https://outlook.live.com/mail/options/general/storage), 以查看您有多少儲存空間, 或是您可以[瞭解如何在信箱中騰出空間](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e)。
+如果收件匣已滿時，您將無法傳送或接收任何郵件，並傳送您的電子郵件的人員會收到錯誤訊息收件匣已滿。 您可以看到您必須移至 [可用多少儲存空間 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ [**設定**
+ > **檢視所有的 Outlook 設定** > **一般**> **存放裝置**] (https://outlook.live.com/mail/options/general/storage)，或者您可以[了解如何讓您的信箱中的會議室](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e?wt.mc_id=Office_Outlook_com_Alchemy)。
 
-如果您擁有 Premium 帳戶, 您可以移至 [ [**設定** > ], 以**查看所有 Outlook 設定** > 的**高級**> 功能](https://outlook.live.com/mail/options/premium/features), 以查看您的儲存空間。
+如果您有進階版帳戶，您可以檢視您儲存移至[**設定** > **檢視所有的 Outlook 設定** > **Premium**> 功能](https://outlook.live.com/mail/options/premium/features)。
