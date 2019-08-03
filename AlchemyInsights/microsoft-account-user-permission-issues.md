@@ -1,5 +1,5 @@
 ---
-title: 建立並使用共用的信箱
+title: 疑難排解問題-目錄中找不到使用者
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81bf8082198de1c44037291f23c434d06a77f02a
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 0909edc581c811fdc4683b004e0df0adbac88d1c
+ms.sourcegitcommit: 514ced512d0d7fff485b6fbf236cd27d6b4166e0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762392"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35249904"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>疑難排解問題-目錄中找不到使用者
 
@@ -29,7 +29,7 @@ ms.locfileid: "34762392"
 
 新增 「 / _layouts/15/people.aspx/membershipgroupid=0 」 （內雙引號） 的網站 URL 的結尾。 
 
-範例： https://_lT _"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0。
+範例： https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0。
 
 - 從清單中選取使用者。
 

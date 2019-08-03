@@ -1,5 +1,5 @@
 ---
-title: 在網頁版 Outlook 中插入圖片
+title: 網頁型 Outlook 中插入圖片
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: f56ccb4998a90d490acd44e567b0c35f76ec9c2d
-ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
+ms.openlocfilehash: a71d835c7500fb319c3ae95efaceb06835fd4032
+ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "35001111"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171385"
 ---
-# <a name="insert-a-picture-in-an-email-message"></a>在電子郵件訊息中插入圖片
+# <a name="insert-a-picture-in-an-email-message"></a>電子郵件中插入圖片
 
-如果您想要新增在電子郵件本文中顯示的影像, 您可以新增內嵌圖像。
+如果您想要新增您的電子郵件內文中顯示圖像，您可以新增內嵌影像。
 
-1. 在 [撰寫] 窗格的底部, 選取 [**插入圖片內嵌圖形**] 圖示。
-1. 流覽至電腦上的圖片位置, 選取它, 然後選取 [**開啟**]。
+1. 選取 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAUCAYAAAB4d5a9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wgCFhkMTGB6NwAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABaElEQVQ4je3VoavCUBTH8e/Gyq37F4RVNYlJ/wGrYcmg5cLAur/ANATFtQuaBJNNq2hWMBgE89pkQRYMe+nJe0+dzofl8X7xcDgf7j3haEmSJLw5+ruBv4UYPwuu6/56aKfTSUfCMERKiRAi8/A4jvF9/6p+hQDk8/nMQFoe7mQ8HrPf71N7ZrPZ64hSisPhgO/7qVAul3sNUUoRBAHNZhMpZSpkWVZ2ZDAYEAQBtm3T7/dZr9d3ocVikQrAncUfj0ds20YpRRRFrFYrNE27QFJKLMvCdV3CMASgUqlkQ1qtFr1ejyiKLrXlcglwgYQQFItFSqUS3W6XJEmoVqs3kZvfdTqdvgFfoc1mg5SSOI4pl8tst1scx2E6nTKfz59H0vIV8jyPQqHAbrfDcZy7yM3vOp/PtNvtVMwwDGq1Gp7n0Wg00HWder3OaDR6jJimyXA4fOZRAAghmEwmfJ4l0zSverT/o5UlH9oIn0RVbZJVAAAAAElFTkSuQmCC' /> **插入圖片內嵌**在撰寫窗格的底部。
+1. 瀏覽至您的電腦上的圖片的位置，加以選取，，然後選取 [**開啟**。
 
-若要瞭解其他個人化郵件的方式, 請參閱[在網頁版 Outlook 中自訂您的電子郵件訊息](https://support.office.com/article/079442eb-6b41-4ff5-b6e0-a83d3967ac41)。
+若要深入了解個人化您的郵件，請參閱[自訂您的電子郵件訊息，網頁型 Outlook 中](https://support.office.com/article/079442eb-6b41-4ff5-b6e0-a83d3967ac41)的其他方法。
