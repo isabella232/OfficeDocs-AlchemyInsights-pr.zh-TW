@@ -10,10 +10,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: a71d835c7500fb319c3ae95efaceb06835fd4032
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "36171385"
 ---
 # <a name="insert-a-picture-in-an-email-message"></a>電子郵件中插入圖片

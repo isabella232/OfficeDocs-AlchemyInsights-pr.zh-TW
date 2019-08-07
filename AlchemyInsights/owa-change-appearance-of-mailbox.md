@@ -1,5 +1,5 @@
 ---
-title: 在網頁版 Outlook 中變更信箱的外觀
+title: 變更您的信箱在 outlook 網頁版中的外觀
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,19 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 8cce6e27c2120389ca4b3778139528afa6f341e4
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34933923"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36171320"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>變更信箱的外觀
+# <a name="change-the-look-of-your-mailbox"></a>變更您的信箱的外觀
 
-您可以變更訊息清單和讀取窗格的外觀, 讓它看起來和行為您想要的方式。 選擇您的訊息應該個別顯示或交談, 如果新訊息應該出現在郵寄清單的頂端或底端, 等等。
+您可以變更訊息清單和讀取窗格的外觀，使它的外觀與呈現您想要的方式。 如果新的郵件應於出現的頂端或底部的郵件] 清單中，等等，選擇 [個別或以交談主旨、 是否應該顯示您的郵件。
 
-1. 選取頁面頂端的齒輪圖示, 以開啟 [設定] 窗格。
-1. 選擇 [焦點收件匣]、[顯示密度]、[交談模式] 及 [讀取窗格] 的設定。
-1. 在郵寄清單的頂端, 選取 [**篩選** > **排序依據**], 以選擇要如何排序您的電子郵件。
+1. 選取齒輪圖示 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ 若要開啟 [設定] 窗格的頁面頂端。
+1. 選擇 [焦點收件匣的設定，則顯示密度]、 [交談] 檢視中及 [讀取窗格。
+1. 在郵件清單的頂端，選取 [**篩選器** > **排序方式**]，以選擇您要排序您的電子郵件的方式。
 
-若要深入瞭解, 請參閱[變更您信箱的外觀](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c)。
+若要深入了解，請參閱[變更您的信箱的外觀](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c)。

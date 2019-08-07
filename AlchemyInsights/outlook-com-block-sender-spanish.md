@@ -1,5 +1,5 @@
 ---
-title: 封鎖 Outlook.com 中的寄件者-西班牙文
+title: 在 Outlook.com-西班牙文的封鎖寄件者
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1142"
 - "8000069"
-ms.openlocfilehash: 4651b6ad5cb551c86692ba338bcf5d6d018b20b5
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 069345e097a1a25901b30ad33aa3ec74c6699c5c
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376968"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "35745794"
 ---
-# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o desbloquear remitentes en Outlook.com
+# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o desbloquear remitentes en-us Outlook.com
 
-Puede bloquear los mensajes de direcciones de correo electrónico específica o dominio llegue a la Bandeja de entrada。 Cuando agrega una dirección de correo electrónico o dominio lista remitentes bloqueados de Outlook.com mueve, automáticamente mensajes remitente los carpeta de ese correo a la electrónico deseado no。
+Puede bloquear 洛斯 mensajes de 實現 direcciones de correo electrónico específica o dominio llegue a la Bandeja de entrada。 Cuando agrega una dirección de correo electrónico o 取消 dominio a la lista de remitentes bloqueados、 Outlook.com mueve automáticamente 洛斯 mensajes de ese remitente a la carpeta correo electrónico 沒有 deseado。
 
-段落 aprender más leer [Ayudar a mantener el correo no deseado y el correo no deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)。
+一個段落 aprender más leer [Ayudar mantener el correo 沒有 deseado y el correo 沒有 deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)。

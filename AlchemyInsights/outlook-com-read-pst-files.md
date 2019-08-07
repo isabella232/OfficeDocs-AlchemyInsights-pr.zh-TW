@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 中的 9000199 PST 檔案
+title: 在 Outlook.com 中 9000199 PST 檔案
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.custom:
 - "1761"
 - "1771"
 - "9000199"
-ms.openlocfilehash: 8902ae75c667e8a95da2950facfd70a3773a2ff6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fda78891486aa17efee91ca6653227e639006ba6
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373080"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "35612478"
 ---
-# <a name="pst-data-files-in-outlookcom"></a>Outlook.com 中的 PST 資料檔案
+# <a name="pst-data-files-in-outlookcom"></a>在 Outlook.com 中的 PST 資料檔案
 
-無法匯入 Outlook。使用瀏覽器的 Outlook.com 帳戶的 PST 資料檔案。
+您不能匯入 Outlook。您使用瀏覽器的 Outlook.com 帳戶 PST 資料檔案。
 
-匯入。PST 資料檔案, 您必須使用 Outlook 桌面應用程式。 若要深入瞭解, 請參閱[從 Outlook 中匯入電子郵件、連絡人和行事曆。](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+若要匯入。PST 資料檔案，您必須使用 Outlook 桌面應用程式。 若要深入了解，請閱讀[從 Outlook.pst 匯入電子郵件、 連絡人及行事曆。](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)

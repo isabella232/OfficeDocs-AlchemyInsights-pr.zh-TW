@@ -1,5 +1,5 @@
 ---
-title: 在網頁版 Outlook 中組織您的電子郵件
+title: 組織中的網頁型 Outlook 電子郵件
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,18 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 121e66ee21537564849ec9ed2df41d0a2848725d
-ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
+ms.openlocfilehash: e90c44b0310ee07ce6d60d991364495a0c5925c9
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "35001356"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36171525"
 ---
-# <a name="organize-your-email"></a>組織您的電子郵件
+# <a name="organize-your-email"></a>組織電子郵件
 
-您可以使用 [**掃描**] 和 [**移至**] 之類的命令, 自動刪除或移動特定寄件者的郵件。 當您在 [收件匣] 中選取郵件時, 這些命令會出現在郵寄清單上方。
+您可以使用命令類似 **(Sweep flag)** ，並**將移至**要自動刪除或移動郵件來自特定寄件者。 當您選取收件匣中的郵件時，這些命令會出現 [訊息] 清單上方。
 
-- **掃描**可讓您快速刪除收件匣中的郵件。 您可以自動刪除來自該寄件者的所有內送電子郵件、只保留最新的電子郵件並刪除其餘, 或刪除超過10天的電子郵件。
-- **移動以**讓您將郵件特定郵件移至另一個資料夾。
+- **(Sweep flag)** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAQCAYAAAAbBi9cAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh0YMtZrTgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABjElEQVQ4jaXTocvqUBzG8e/GAYOvDAxiEYMoKKIiZk2CzWqYC4LV4j8iWA1jgoh/gOiCRpthQXAgNplgmWDTecO9Xrw4X/C9Tz7nw++c5xzpfD7f+UE8z8O2bcbjMd1uF/l/kOFwSLPZJBQKfQ49I61Wi0QiAfAZ9A75CPoOARB+G/b7PYvFgvV6jed5ZLNZisUi0+nUFwGQnlu73W5YlsVkMqFer1Mqlbher6xWK+bzOY1Gg0Kh4DuxeAC73Q7TNLFtm6+vL8LhMEIIhBBUKhUkSWK5XL6FZNd1GY1G9Pt9yuUyvV4PTdPQdR3btn8vkmXS6TSXywXXdf0hRVGoVqvEYjEOhwOyLJNKpV4wSZIIBAK+CPxpLRqNomkalmUxm81esO12y2azQQiBoii+0D+X7TgOhmGQy+Wo1Wp/Kx8MBtzvdzqdDvF4/P1Ej/hNFolESCaTqKr6FgGfd/TADMMAIBgMcjqdyOfzb5GXoz3HcRx0Xed4PNJut8lkMj+DHphpmqiqiix//5t+AT3dz3bYNq1VAAAAAElFTkSuQmCC' />
+ 可讓您快速地刪除郵件收件匣中。 您可以自動刪除該寄件者的所有內送電子郵件、 保持最新電子郵件和刪除其餘部分，或刪除超過 10 天的電子郵件。
+- **移至** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMCAYAAABvEu28AAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh4VZ0pEMAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABG0lEQVQokZWSoc6CYBSGH74xRnLIyOpmshPszBvwEhhFb4AgkeuwEIxfN0kz4TXgnMZvNAqfBve7OWHwv/E8756dsx3j8Xg8pZTkeU5bXNcljmNc123lfzHKsnxKKQmCgOl0+gWbpuF4PFIUBXEcY5pmp6ibAIZhMJ/POZ1ObDab1o7jOOx2u7eormvSNG0tjkYjoihisVj8MKUUUkqqqnqLbNsmSZKf0/4T0TbUWnM+nymKYrDIHI/HhGH4bReCyWRClmVorfF9v1+klOJwOHC5XFoLt9sNz/OYzWb9G2232x9wv9/JsowgCHolAEIpxX6/pyzLz1BrzfV6ZbVaDToLOv5ICMFyuRwk+Igsy8KyrM4/6ovjOKzXa15yYmGtPwy4eAAAAABJRU5ErkJggg==' /> 可讓您將特定郵件的郵件移到另一個資料夾。
 
-若要深入瞭解, 請參閱[使用 Outlook 網頁版中的郵件資料夾](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)。
+若要深入了解，請參閱[Working with outlook 網頁版中的郵件資料夾](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)。
