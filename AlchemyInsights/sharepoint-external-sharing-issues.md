@@ -1,19 +1,19 @@
 ---
 title: 外部使用者將無法存取 SharePoint Online 中的內容
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 413a6b5c65eee4e9fc2df61ca9db752bce8b173a
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: a7927c77e419e104bab51481d8a6702d9361bf8e
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803101"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269439"
 ---
 # <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>外部使用者將無法存取 SharePoint Online 中的內容
 

@@ -2,6 +2,7 @@
 title: 在 SharePoint 和 OneDrive 的版本設定
 ms.author: efrene
 author: efrene
+ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+ms.openlocfilehash: 97cab1d3d88721b03e703623128229935074ebf1
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232649"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270411"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>在 SharePoint 和 OneDrive 的版本設定 
 
@@ -37,6 +38,7 @@ ms.locfileid: "36232649"
 
 - [版本設定限制](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-**附註：** 如果您是 Office 365 客戶，版本設定會立即開啟預設當您建立新的 OneDrive for Business 文件庫，並將會自動儲存文件的最後一個 500 版本。 這可協助您防止遺失重要的文件或資料。 如果您有現有文件庫，或您不需要啟用版本設定的小組網站上您的 OneDrive for Business 網站，您可以開啟版本設定為他們在任何時間。
+>[!Note] 
+>如果您是 Office 365 客戶，版本設定會立即開啟預設當您建立新的 OneDrive for Business 文件庫，並將會自動儲存文件的最後一個 500 版本。 這可協助您防止遺失重要的文件或資料。 如果您有現有文件庫，或您不需要啟用版本設定的小組網站上您的 OneDrive for Business 網站，您可以開啟版本設定為他們在任何時間。
 
 

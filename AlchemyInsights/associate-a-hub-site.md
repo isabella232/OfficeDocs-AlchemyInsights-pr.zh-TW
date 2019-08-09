@@ -1,21 +1,22 @@
 ---
 title: 建立中樞站台的關聯
-ms.author: kirks
-author: Techwriter40
-ms.date: 1/3/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "1012"
 - "5300012"
-ms.openlocfilehash: 651df67ea7eec0526cf6c1cc61232c3d31125596
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+- "1012"
+ms.openlocfilehash: 88fe29b4aa89f05609b7aefc7732bb2b78cf3002
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903028"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270128"
 ---
 # <a name="associate-a-hub-site"></a>建立中樞站台的關聯
 
@@ -27,6 +28,6 @@ ms.locfileid: "35903028"
 
  > [!Note]
 >如果中樞站台關聯選項不存在或不列出任何網站，可能不會啟用中樞站台或您沒有權限的網站關聯中樞站台。 如需詳細資訊，請連絡您的系統管理員。
-
+>
 >可與中樞站台相關聯的網站數目沒有限制。
   

@@ -1,5 +1,5 @@
 ---
-title: OneDrive 保留期與刪除資訊
+title: OneDrive 保留期與刪除
 ms.author: efrene
 author: efrene
 ms.date: 8/6/2019
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: ''
 ms.custom:
-- "2440"
 - "9000596"
-ms.openlocfilehash: 5e67d280b26512613dbe9ecc0cf8f18134f92686
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+- "2440"
+ms.openlocfilehash: 66156ee3bb9c1368326ad557f5f042fc8444694b
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232587"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269403"
 ---
 # <a name="onedrive-retention-and-deletion"></a>OneDrive 保留期與刪除
 

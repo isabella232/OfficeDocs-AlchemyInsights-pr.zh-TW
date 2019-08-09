@@ -1,9 +1,9 @@
 ---
 title: 疑難排解 Sharepoint Online 中的「 在檔案總管中開啟」問題
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
-ms.date: 5/17/2018
+ms.date: 8/7/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 13149d288336b487441c66521b32406e408911fd
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: afee367e250357b20b77f0ea5dfe66d68967eb2a
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803029"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270699"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>疑難排解 Sharepoint Online 中的「 在檔案總管中開啟」問題
 
@@ -31,9 +31,9 @@ ms.locfileid: "35803029"
 
 > [!Note]  
 > 新版文件庫不會顯示 [在檔案總管中開啟] **** 按鈕。 選取右上方的 [檢視]**** 下拉式清單 (下拉式清單的名稱依您的檢視畫面而定)，再選取 [在 [檔案總管] 中檢視]****。
-
+>
  >SharePoint 的 [在檔案總管中開啟] 使用 ActiveX 控制項，所以只支援 Internet Explorer 10 或 11。 [在檔案總管中開啟] 無法用於 Windows 的 Microsoft Edge、Google Chrome、Mozilla Firefox，或 Mac 平台上。 因為這個原因，[檔案總管檢視] 選項可能會呈現灰色。
-
+>
 > - [為什麼 SharePoint 功能區按鈕無法使用或呈現灰色](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca)。
   
 

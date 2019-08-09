@@ -1,40 +1,47 @@
 ---
-title: SharePoint 或 OneDrive 中的勒索軟體攻擊
-ms.author: kirks
-author: Techwriter40
-ms.date: 6/20/2019
+title: 在 SharePoint 或 OneDrive 勒索軟體攻擊
+ms.author: efrene
+author: efrene
+ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 0a30faed3991c1e49d25df51db09636660884bf4
-ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
+ms.collection: Adm_O365
+ms.custom:
+- "9000650"
+- "2487"
+ms.openlocfilehash: 2dc5a497fdb59acb58068e2db3f25293ee63995f
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "35199336"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269475"
 ---
-# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>SharePoint 或 OneDrive 中的勒索軟體攻擊
+# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>在 SharePoint 或 OneDrive 勒索軟體攻擊
 
-1.  如果您正在尋找在 OneDrive 或 SharePoint 或小組上找到惡意檔案時要執行的動作, 請參閱[找到惡意檔案時要執行的](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)動作。
+1.  如果您要尋找 OneDrive 或 SharePoint 或小組上找到的惡意檔案時要做什麼的說明，請參閱[找到惡意檔案時，該怎麼辦](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)。
+2. 如果您要尋找如何保護您的資料從勒索軟體，請參閱：
+    - [保護您在 SharePoint 和 OneDrive 中的資料](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
+    - [勒索軟體威脅防護](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-2.  您的 OneDrive 或 SharePoint 上的所有檔案是否都受到勒索軟體或惡意軟體或加密病毒的影響？ 
+3.  藉由勒索軟體或惡意程式碼或密碼編譯病毒會影響您 OneDrive 或 SharePoint 上的所有檔案都為何？ 
 
-立即停止/暫停 OneDrive 同步處理 (如果有的話) 或 [中斷連線瀏覽器] 視圖 (如果有的話) 對應至文件庫, 然後使用 [檔案還原] 功能, 將整個 OneDrive 或 SharePoint 文件庫還原至先前的時間。 
+立即停止/暫停 OneDrive 同步處理 （如果有的話），或中斷從受影響的電腦 （如果有的話），對應至文件庫的檔案總管檢視，然後還原您整個 OneDrive 或 SharePoint 文件庫至至上次所使用的檔案還原功能。 
 
-如需如何還原 OneDrive 的詳細資訊, 請參閱:
+如需有關如何還原的詳細資訊，請參閱：
 
 - [還原 OneDrive 文件庫](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
-- [還原文件庫](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
+- [還原的文件庫](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
 
-3. 如需高級威脅防護 (ATP) 的詳細資訊, 請參閱[ATP for SharePoint、OneDrive 和團隊](https://docs.microsoft.com/en-us/office365/securitycompliance/atp-for-spo-odb-and-teams)
-[威脅瀏覽器視圖](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
+如需進階威脅防護 (ATP) 的詳細資訊，請參閱：
+- [SharePoint、 OneDrive 及 microsoft Teams 的 ATP](https://docs.microsoft.com/en-us/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [威脅總管檢視](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
 
-其他資訊:
+其他資訊：
 
-[](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo) 
-在 ODB 中 SPO 資料加密的病毒偵測[, 以及 SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)
-[](https://support.office.com/en-ie/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)在 SharePoint
-
-[勒索軟體威脅防護中保護](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/ransomware-malware)[您的資料](https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data)
+- [SPO 中的病毒偵測](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)</br>
+- [ODB 和 SPO 中的資料加密](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [勒索軟體偵測和復原檔案](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
+- [威脅總管和即時偵測](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
