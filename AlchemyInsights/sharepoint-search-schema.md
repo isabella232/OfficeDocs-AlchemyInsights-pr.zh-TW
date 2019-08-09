@@ -1,30 +1,36 @@
 ---
-title: 管理 SharePoint Online 中的搜尋字典
-ms.author: kirks
-author: Techwriter40
+title: 管理 SharePoint Online 中的搜尋結構描述
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 6c019de453a2185f42fa2fcffd8510fd06a33759
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
-ms.translationtype: HT
+ms.openlocfilehash: f49195bec64f115063ccfb5256e27fbecd4a54f6
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758442"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270088"
 ---
-# <a name="manage-search-schema-in-sharepoint-online"></a><span data-ttu-id="a30a2-102">管理 SharePoint Online 的搜尋結構描述</span><span class="sxs-lookup"><span data-stu-id="a30a2-102">Manage the search schema in SharePoint Online</span></span>
+# <a name="manage-search-schema-in-sharepoint-online"></a><span data-ttu-id="d2373-102">管理 SharePoint Online 中的搜尋結構描述</span><span class="sxs-lookup"><span data-stu-id="d2373-102">Manage search schema in SharePoint Online</span></span>
 
-<span data-ttu-id="a30a2-103">搜尋結構描述能夠控制可以搜尋的內容、搜尋該內容的方法，以及結果呈現在搜尋網站上的方式。</span><span class="sxs-lookup"><span data-stu-id="a30a2-103">The search schema controls what users can search for, how users can search it, and how you can present the results on your search websites.</span></span> 
+<span data-ttu-id="d2373-103">搜尋結構描述可以控制使用者可以搜尋的使用者可以搜尋，您可以搜尋網站上顯示結果。</span><span class="sxs-lookup"><span data-stu-id="d2373-103">The search schema controls what users can search for, how users can search it, and how you can present the results on your search websites.</span></span> 
 
-<span data-ttu-id="a30a2-104">若要變更搜尋結構描述、建立 Managed 屬性，並將編目屬性對應至 Managed 屬性。請參閱[管理 Sharepoint 的搜尋結構描述 (機器翻譯)](https://docs.microsoft.com/sharepoint/manage-search-schema)。</span><span class="sxs-lookup"><span data-stu-id="a30a2-104">To change the search schema, create managed properties, and map crawled properties to managed properties, see [Manage the Search Schema in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema).</span></span> <span data-ttu-id="a30a2-105">如果您進行結構描述變更時收到「暫停應用程式」的警告，應該只是發生暫時服務維修。</span><span class="sxs-lookup"><span data-stu-id="a30a2-105">If you receive a warning 'the application is paused' when making a schema change, this is only temporary there is service maintenance occurring.</span></span> 
+<span data-ttu-id="d2373-104">請參閱[管理 SharePoint Online 的搜尋結構描述](https://docs.microsoft.com/sharepoint/manage-search-schema)]，以了解如何：</span><span class="sxs-lookup"><span data-stu-id="d2373-104">See [Manage the Search Schema in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema) to learn how to:</span></span> 
+- <span data-ttu-id="d2373-105">變更搜尋結構描述。</span><span class="sxs-lookup"><span data-stu-id="d2373-105">Change the search schema.</span></span>
+- <span data-ttu-id="d2373-106">建立 managed 的屬性。</span><span class="sxs-lookup"><span data-stu-id="d2373-106">Create managed properties.</span></span>
+- <span data-ttu-id="d2373-107">對應編目的對應至 managed 屬性的編目屬性。</span><span class="sxs-lookup"><span data-stu-id="d2373-107">Map crawled map crawled properties to managed properties.</span></span>
 
-<span data-ttu-id="a30a2-106">如果暫停 24 小時並且依然收到警告，請記錄支援案例。</span><span class="sxs-lookup"><span data-stu-id="a30a2-106">If more than 24 hours have passed and you still experience the warning, please log a support case.</span></span>
+<span data-ttu-id="d2373-108">請注意下列有關管理搜尋結構描述中：</span><span class="sxs-lookup"><span data-stu-id="d2373-108">Note the following in regards to managing your Search Schema:</span></span>
 
-<span data-ttu-id="a30a2-107">當您變更Managed 屬性或新增新屬性時，所做的變更只會在內容重新編目後才生效。</span><span class="sxs-lookup"><span data-stu-id="a30a2-107">When you change managed properties or add new ones, the changes take effect only after the content has been re-crawled.</span></span> <span data-ttu-id="a30a2-108">在 SharePoint Online 中，會根據已定義的編目排程進行自動編目。</span><span class="sxs-lookup"><span data-stu-id="a30a2-108">In SharePoint Online, crawling happens automatically based on the defined crawl schedule.</span></span>
+- <span data-ttu-id="d2373-109">如果您收到警告，告知**應用程式已暫停**的結構描述變更時，這是只有暫時服務維護為發生。</span><span class="sxs-lookup"><span data-stu-id="d2373-109">If you receive a warning stating **the application is paused** when making a schema change, this is only temporary as there is service maintenance occurring.</span></span> 
 
-<span data-ttu-id="a30a2-109">若要確保會對您的變更進行編目，可以明確[要求為清單或文件庫重新編製索引](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list)</span><span class="sxs-lookup"><span data-stu-id="a30a2-109">To make sure that your changes are crawled and reindexed, you can specifically request a reindexing of the list or library.</span></span> 
+    <span data-ttu-id="d2373-110">如果已經過了超過 24 小時後，仍然會出現警告，請登支援案例。</span><span class="sxs-lookup"><span data-stu-id="d2373-110">If more than 24 hours have passed and you still experience the warning, please log a support case.</span></span>
+- <span data-ttu-id="d2373-111">當您變更 managed 的屬性，或新增新的時內容已重新編目之後才所做的變更才會生效。</span><span class="sxs-lookup"><span data-stu-id="d2373-111">When you change managed properties or add new ones, the changes take effect only after the content has been re-crawled.</span></span> <span data-ttu-id="d2373-112">在 SharePoint Online 中，編目會發生自動根據已定義的編目的排程。</span><span class="sxs-lookup"><span data-stu-id="d2373-112">In SharePoint Online, crawling happens automatically based on the defined crawl schedule.</span></span>
+- <span data-ttu-id="d2373-113">若要確保您的變更進行編目，您可以特別[要求重新編製索引的清單或文件庫](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list)</span><span class="sxs-lookup"><span data-stu-id="d2373-113">To make sure that your changes are crawled, you can specifically [request a re-indexing of the list or library](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list)</span></span> 
 
-<span data-ttu-id="a30a2-110">如需完整搜尋結構描述的概觀，請參閱[簡介搜尋結構描述 (英文)](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/)</span><span class="sxs-lookup"><span data-stu-id="a30a2-110">For a complete overview of the Search Schema, see [Introducing Search Schema](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/)</span></span> 
+<span data-ttu-id="d2373-114">搜尋結構描述的完整概觀，請參閱[介紹搜尋結構描述](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/)</span><span class="sxs-lookup"><span data-stu-id="d2373-114">For a complete overview of the Search Schema, see [Introducing Search Schema](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/)</span></span> 
+
 
