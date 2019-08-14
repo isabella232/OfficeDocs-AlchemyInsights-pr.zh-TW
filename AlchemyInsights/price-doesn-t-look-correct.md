@@ -1,5 +1,5 @@
 ---
-title: 價格看起來不正確嗎？
+title: 價格看起來不正確？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: e8da624ce045d31cf67dfbdf51cc06bf126f2ac0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d48e28a3166b3b7f55abdd1e25b830c6dbe0ee56
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371027"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388483"
 ---
-# <a name="price-doesnt-look-correct"></a><span data-ttu-id="8dd48-102">價格看起來不正確嗎？</span><span class="sxs-lookup"><span data-stu-id="8dd48-102">Price doesn't look correct?</span></span>
+# <a name="price-doesnt-look-correct"></a><span data-ttu-id="18760-102">價格看起來不正確？</span><span class="sxs-lookup"><span data-stu-id="18760-102">Price doesn't look correct?</span></span>
 
-<span data-ttu-id="8dd48-103">如果您發票上的價格看起來不正確, 可能是因為更新時的價格變更。</span><span class="sxs-lookup"><span data-stu-id="8dd48-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="8dd48-104">如果您不相信此問題的說明, 請使用「我們呼叫您」選項, 與支援工程師交談。</span><span class="sxs-lookup"><span data-stu-id="8dd48-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
-  
+<span data-ttu-id="18760-103">如果在帳單上的價格看起來不正確，這可能是因為在更新後的價格變更。</span><span class="sxs-lookup"><span data-stu-id="18760-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="18760-104">如果您不認為這說明問題，請連絡支援工程師使用 「 讓我們撥話給您 」] 選項。</span><span class="sxs-lookup"><span data-stu-id="18760-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>

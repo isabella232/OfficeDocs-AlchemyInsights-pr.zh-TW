@@ -1,5 +1,5 @@
 ---
-title: 如何購買非盈利版的 Office 365
+title: 如何為非利潤購買 Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 21e5ff7bc5d4a8d88c1d99a52e89998867c20374
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 930c64aab2278471776f2530bf93892b4afb1f67
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383736"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390863"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="a8d78-102">如何購買非盈利版的 Office 365</span><span class="sxs-lookup"><span data-stu-id="a8d78-102">How to purchase Office 365 for Non-profits</span></span>
+# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="37ebf-102">如何為非利潤購買 Office 365</span><span class="sxs-lookup"><span data-stu-id="37ebf-102">How to purchase Office 365 for Non-profits</span></span>
 
-<span data-ttu-id="a8d78-103">您的狀態為 Microsoft 合格的非贏利組織已獲核准。</span><span class="sxs-lookup"><span data-stu-id="a8d78-103">Your status as a Microsoft Qualified Nonprofit Organization has been approved.</span></span> <span data-ttu-id="a8d78-104">若要購買:</span><span class="sxs-lookup"><span data-stu-id="a8d78-104">To purchase:</span></span>
+<span data-ttu-id="37ebf-103">已核准 Microsoft 完整非營利組織的狀態。</span><span class="sxs-lookup"><span data-stu-id="37ebf-103">Your status as a Microsoft Qualified Nonprofit Organization has been approved.</span></span> <span data-ttu-id="37ebf-104">若要購買：</span><span class="sxs-lookup"><span data-stu-id="37ebf-104">To purchase:</span></span>
   
-1. <span data-ttu-id="a8d78-105">在系統管理中心中, 移至 [[購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)] 頁面, 或選擇 [**帳單** \> **購買服務**]。</span><span class="sxs-lookup"><span data-stu-id="a8d78-105">In the Admin center, go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services**.</span></span>
+1. <span data-ttu-id="37ebf-105">在 [系統管理中心中，移至**帳單** \> [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)] 頁面。</span><span class="sxs-lookup"><span data-stu-id="37ebf-105">In the admin center, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-2. <span data-ttu-id="a8d78-106">從 [**非盈利計畫**] 下的清單中選擇。</span><span class="sxs-lookup"><span data-stu-id="a8d78-106">Choose from the list under **Non-Profits Plans**.</span></span>
+2. <span data-ttu-id="37ebf-106">選擇 [從清單中，於**非利潤計劃**。</span><span class="sxs-lookup"><span data-stu-id="37ebf-106">Choose from the list under **Non-Profits Plans**.</span></span>
 
-3. <span data-ttu-id="a8d78-107">將游標放在您想要購買的訂閱上, 然後選擇 [**立即購買**]。</span><span class="sxs-lookup"><span data-stu-id="a8d78-107">Hover over the subscription that you want to purchase, and choose **Buy Now**.</span></span>
+3. <span data-ttu-id="37ebf-107">將滑鼠停留您想要購買的訂閱，然後選擇 [**立即購買]**。</span><span class="sxs-lookup"><span data-stu-id="37ebf-107">Hover over the subscription that you want to purchase, and choose **Buy Now**.</span></span>
