@@ -1,5 +1,5 @@
 ---
-title: 預付更新
+title: 預付續約
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,23 +13,25 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 156b1b9563f2996dd4c9303ea1506e4c5e74917c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371179"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388591"
 ---
-# <a name="prepaid-renewal"></a>預付更新
+# <a name="prepaid-renewal"></a>預付續約
 
-1. 在系統管理中心中，移至 [訂閱][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面，或選擇 [計費]**** \> [訂閱]****。
+1. 在 [系統管理中心中，移至**帳單** \> [訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面。
 
-2. 選擇您想要擴充的預付訂閱, 然後選擇 [**延伸**]。
+2. 選擇您想要擴充，然後選擇 [ **Extend**預付的訂閱。
 
-3. 選擇 [**產品金鑰**] 選項。 (如果這是在零售位置購買的產品金鑰, 您可以選擇使用其他付款條件進行擴充。)
+3. 選擇 [**產品**金鑰] 選項。 （如果這是零售位置購買的產品金鑰，您可能必須與其他付款方式擴充選項）。
 
 4. 輸入產品金鑰。
 
-5. 請確定資訊正確無誤, 然後選擇 [**下一步]**。
+5. 確定資訊正確，然後選擇 [**下一步**]。
 
-6. 選擇選項按鈕以延伸現有授權的結束日期, 然後選擇 [**下一步]**。
+6. 選擇 [擴充現有的授權，結束日期，然後選擇 [**下一步**] 選項按鈕。
+
+您使用新版系統管理中心？ 新的步驟，請參閱[將授權指派給新增或擴充使用產品金鑰支付訂閱費用](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key)。

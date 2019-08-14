@@ -13,17 +13,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 73ea8fe0ba9ab6398af269f8fb99b8c8dc61a866
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 97191c9d0f267935485ccbdeaf5243c3b4e12a97
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369476"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388375"
 ---
-# <a name="send-email-from-an-alias-or-secondary-address"></a>從別名或次要位址傳送電子郵件
+# <a name="send-email-from-an-alias-or-secondary-address"></a>從 [別名] 或 [次要地址傳送電子郵件
 
-Office 365 目前不支援從別名或次要電子郵件地址傳送電子郵件。 電子郵件別名只能用來接收電子郵件。 如果您想要從其他電子郵件地址傳送電子郵件, 您必須建立共用信箱。 共用信箱會提供其他電子郵件地址, 而不需要另一個授權。
+Office 365 目前不支援傳送電子郵件別名或次要的電子郵件地址。 電子郵件別名可以用來接收電子郵件僅。 如果您想要從另一個電子郵件地址傳送電子郵件，您需要建立共用的信箱。 共用的信箱可讓您另一個電子郵件地址，而不需要另一個授權。
   
-- [請移至此處建立共用信箱](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [請移至這裡建立共用的信箱](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-您也可以閱讀 [[建立共用信箱](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)] 文章, 以告訴您需要瞭解的所有共用信箱的相關資訊, 包括如何加以使用。
+您也可以閱讀[建立共用信箱](https://docs.microsoft.com/en-us/office365/admin/email/create-a-shared-mailbox)本文將告訴您必須了解共用信箱，包括如何使用它們的所有項目。

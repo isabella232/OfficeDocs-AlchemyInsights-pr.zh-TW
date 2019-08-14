@@ -1,5 +1,5 @@
 ---
-title: 有關授權的問題
+title: 授權的相關問題
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,25 +13,25 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 369e6e8e5e8e2e5d9739415e2a4ab959ba706c80
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370666"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388447"
 ---
-# <a name="question-about-licenses"></a>有關授權的問題
+# <a name="question-about-licenses"></a>授權的相關問題
 
-如果您想要知道您購買的授權數目, 或是指派給訂閱的授權數目:
+如果您想要知道您購買的授權數目或多少授權已指派來自訂用帳戶：
   
-1. 在系統管理中心中，移至 [訂閱][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面，或選擇 [計費]**** \> [訂閱]****。
+1. 在 [系統管理中心中，移至**帳單** \> [訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面。
 
-2. 選擇您想要深入瞭解的訂閱。
+2. 選擇您想要深入瞭解有關的訂閱。
 
-3. 在訂閱卡片的左邊是您授權的相關資訊:
+3. 在左側的 [訂閱] 卡片上，您的授權的資訊：
 
-  - [**購買**號碼] 是您要支付的授權數目。
+  - **購買**編號是您支付的授權數目。
 
-  - [**指派**的號碼] 是指派給使用者的授權數目。
+  - **已指派**為指派給使用者的授權數目。
 
-4. 如果您想要新增更多授權, 或如果您有太多授權, 請選擇 [**新增/移除授權**] 以調整所購買的金額。
+4. 如果您想要新增更多授權，或者如果您太有許多，選擇 [**新增/移除授權**來調整購買的數量。

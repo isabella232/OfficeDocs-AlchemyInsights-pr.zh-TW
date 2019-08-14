@@ -1,5 +1,5 @@
 ---
-title: 多次嘗試進行線上付款儀器的充電
+title: 多個嘗試計費線上付款儀器
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 7738636d8004e6f64c8cafa9ad4edab03f775040
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0c3ca49bbe612f516a2947f823feae7e5ef7902
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379272"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389567"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>多次嘗試進行線上付款儀器的充電
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>多個嘗試計費線上付款儀器
 
-在服務上進行任何動作之前, 我們會先嘗試進行多次線上支付儀器。 選取付款條件之後, 必須使用選取的付款條件支付所有逾期到期金額。 若要更新您訂閱的目前付款資訊, 請遵循在[商務用 Office 365 中新增、更新或移除信用卡或銀行帳戶](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)中的步驟。
-  
+我們讓多個嘗試計費線上付款儀器之前在服務採取任何動作。 付款後會選取方法，所有逾期必須與所選的付款方式付款金額。 若要更新您的訂閱的目前付款資訊，請依照下列中[新增、 更新或移除信用卡或銀行帳戶，在商務用 Office 365 中](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)的步驟。

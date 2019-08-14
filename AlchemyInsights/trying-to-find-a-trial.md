@@ -1,5 +1,5 @@
 ---
-title: 嘗試尋找試用版嗎？
+title: 嘗試尋找試用版？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,24 +13,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366740"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387835"
 ---
-# <a name="trying-to-find-a-trial"></a>嘗試尋找試用版嗎？
+# <a name="trying-to-find-a-trial"></a>嘗試尋找試用版？
 
-如果您想要嘗試新的服務, 您可以在 Microsoft 365 系統管理中心找到可用於試用版的訂閱清單。
+如果您想要再試的新服務您可以尋找試用版訂閱提供的清單在系統管理中心。
   
-1. 移至 [[購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)] 頁面, 或選擇 [**帳單** \> **購買服務**]。
+1. 在 [系統管理中心中，移至**帳單** \> [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)] 頁面。
 
-2. 尋找符合您需求的訂閱, 然後依序按一下 [**開始免費試用**]。
+2. 尋找符合您的需求、 滑鼠移過，該訂閱，然後選擇 [**開始免費試用版**。
 
     > [!NOTE]
-    > 並非所有訂閱皆可做為試用版。 當您將滑鼠移到訂閱上時, 如果您沒有看到 [**開始免費試用**] 按鈕, 表示無法使用試用版。
+    > 並非所有的訂用帳戶可用為試用版。 如果您沒有看到 [**開始免費試用版**] 按鈕，當您滑鼠移過訂閱時，這表示不提供試用版。
   
-3. 您可能會要求您輸入信用卡或其他支付方法, 以提供額外的驗證做為安全性量值。 您不需要支付此免費試用版的費用。 我們會將您的付款資訊保留在檔案中, 而不需要您核准, 就不會使用它進行任何購買。
+3. 可能會要求您輸入的信用卡或其他付款方法，以提供額外的驗證，基於安全措施的考量。 您不需要付費嗎此免費試用版。 我們會保留您的付款資訊，在檔案上，且不會用於任何購買未經核准。
 
 4. 選擇 [**下單**]。

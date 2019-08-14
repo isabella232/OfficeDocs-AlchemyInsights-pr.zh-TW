@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: db0eedc41dfd1505c92b806ea077f7a7b297aa05
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: d9cd02a778a7a979271b38e3df06c5bc7c1bdf6a
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606604"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385711"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>啟動，並指派軟體做為對服務應用程式授權 
 
 ## <a name="to-activate-apps"></a>若要啟動的應用程式
 
-1. 移至**帳單** > [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上，然後選擇 [**應用程式**] 索引標籤。
+1. 在 [系統管理中心中，移至**帳單** > [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上，然後選擇 [**應用程式**] 索引標籤。
 
 2. 尋找並選取您想要管理的應用程式。
 
@@ -31,7 +31,7 @@ ms.locfileid: "35606604"
 
 ## <a name="to-assign-app-licenses"></a>若要指派應用程式授權
 
-1. 移至**帳單** > [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上，然後選擇 [**應用程式**] 索引標籤。
+1. 在 [系統管理中心中，移至**帳單** > [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上，然後選擇 [**應用程式**] 索引標籤。
 
 2. 尋找並選取您想要管理的應用程式。  
 

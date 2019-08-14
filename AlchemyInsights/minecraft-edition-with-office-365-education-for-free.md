@@ -1,5 +1,5 @@
 ---
-title: Minecraft Edition 與 Office 365 教育版免費
+title: Minecraft Edition 與 Office 365 用教育版空閒
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,28 +12,27 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: 66d53db659bcf8940a0572e88afeecc9a3781430
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e4e88f315b94e4b1318fada8abde8413233c41a6
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379704"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389639"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition 與 Office 365 教育版免費
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition 與 Office 365 用教育版空閒
 
-[Minecraft Edition 與 Office 365 教育版免費](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Minecraft Edition 與 Office 365 用教育版空閒](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: 教育版**需要 Windows 10
+- **Minecraft: Education Edition**需要 Windows 10
 
-- Minecraft 的試用版或訂閱 **: 教育版**是由 Azure Active Directory (Azure AD) 所管理的教育承租人所提供
+- Trials 或訂閱的**Minecraft: Education Edition**提供給由 Azure Active Directory (Azure AD) 所管理的教育版租用戶
 
-  - 如果您的學校沒有 Azure AD 租使用者, [IT 系統管理員可以](https://docs.microsoft.com/education/windows/school-get-minecraft)在取得**Minecraft: 教育版**的過程中設定一個。
+  - 如果您的學校都不會有 Azure AD 租用戶， [IT 系統管理員可以設定一個帳戶](https://docs.microsoft.com/education/windows/school-get-minecraft)的程序的一部分**Minecraft: Education Edition**。
 
-  - Office 365 教育版包含 Office 應用程式的線上版本, 還有 1 TB 線上儲存空間供教師和學生用。 [註冊您的學校參加 Office 365 教育](https://products.office.com/academic/office-365-education-plan)版。
+  - Office 365 教育版，其中包含線上版本的 Office 應用程式加上 1 TB 線上儲存空間是針對教師和學生免費的。 [註冊您的學校的 Office 365 教育版](https://products.office.com/academic/office-365-education-plan)。
 
-  - 如果您的學校有 Office 365 教育版訂閱, 它會包含免費的 Azure AD 訂閱。 [註冊免費的 AZURE AD 訂閱](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)。
+  - 如果您的學校的 Office 365 教育版訂閱，它包括免費 Azure AD 訂閱。 [註冊免費的 Azure AD 訂閱](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)。
 
-[瞭解教師如何取得和散佈 Minecraft: 教育版](https://docs.microsoft.com/education/windows/teacher-get-minecraft)。
+[了解如何教師可以取得及散佈 Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft)。
   
-[瞭解 IT 系統管理員可以如何取得和散佈 Minecraft: 教育版](https://docs.microsoft.com/education/windows/school-get-minecraft), 以及如何管理 Minecraft 的許可權。
-  
+[了解如何 IT 系統管理員可以取得及散佈 Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)，以及如何管理 Minecraft 的權限。
