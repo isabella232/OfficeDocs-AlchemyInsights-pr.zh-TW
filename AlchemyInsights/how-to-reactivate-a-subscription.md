@@ -13,18 +13,18 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 5d446cefffb1598a5d2c8cd17b6eba64205f00f2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383628"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390827"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>如何重新啟用訂閱
 
 如果 Microsoft 取消或停用您到期的訂閱，您可以在 Microsoft 365 系統管理中心重新啟用。
   
-1. 移至系統管理中心中的 [[訂閱]](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面，或選擇 **[計費]** \> **[訂閱]**。
+1. 在系統管理中心中，前往 [帳單]**** \> [訂閱][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
 
 2. 選擇您要重新啟用的訂閱。
 
@@ -36,5 +36,4 @@ ms.locfileid: "35383628"
 
 6. 如果幾分鐘後訂閱仍未顯示「啟用」，請重新整理頁面。
 
-如需詳細資訊，請參閱：[更新商務用 Office 365](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
-  
+如需詳細資訊，請參閱：[更新商務用 Office 365](https://docs.microsoft.com/zh-TW/office365/admin/subscriptions-and-billing/renew-your-subscription)
