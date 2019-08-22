@@ -1,5 +1,5 @@
 ---
-title: 移動 SharePoint 文件庫中的專案
+title: 在 SharePoint 文件庫中移動項目
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,24 +13,24 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: af0421ff0734829e2b9f9455ecc98960db4b7ae2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6e68e021525b9bff1c9666d0db5b44ea5d72c753
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379344"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549029"
 ---
-# <a name="move-items-in-a-sharepoint-document-library"></a><span data-ttu-id="72829-102">移動 SharePoint 文件庫中的專案</span><span class="sxs-lookup"><span data-stu-id="72829-102">Move items in a SharePoint document library</span></span>
+# <a name="move-items-in-a-sharepoint-document-library"></a><span data-ttu-id="f7c06-102">在 SharePoint 文件庫中移動項目</span><span class="sxs-lookup"><span data-stu-id="f7c06-102">Move items in a SharePoint document library</span></span>
 
-<span data-ttu-id="72829-103">您可以將專案移至文件庫中的不同位置。</span><span class="sxs-lookup"><span data-stu-id="72829-103">You can move items to different locations within a document library.</span></span> <span data-ttu-id="72829-104">如果您已[設定目標發行選項](https://go.microsoft.com/fwlink/?linkid=622980), 您也可以在網站間移動專案。</span><span class="sxs-lookup"><span data-stu-id="72829-104">If you've [set up the Targeted release option](https://go.microsoft.com/fwlink/?linkid=622980), you can also move items across sites.</span></span> <span data-ttu-id="72829-105">當您移動檔時, 也會移動檔的歷程記錄。</span><span class="sxs-lookup"><span data-stu-id="72829-105">When you move documents, their history is also moved.</span></span>
+<span data-ttu-id="f7c06-103">您可以將項目移到不同的位置在文件庫。</span><span class="sxs-lookup"><span data-stu-id="f7c06-103">You can move items to different locations within a document library.</span></span> <span data-ttu-id="f7c06-104">如果您已[設定目標發行選項](https://go.microsoft.com/fwlink/?linkid=622980)，您也可以在網站之間移動項目。</span><span class="sxs-lookup"><span data-stu-id="f7c06-104">If you've [set up the Targeted release option](https://go.microsoft.com/fwlink/?linkid=622980), you can also move items across sites.</span></span> <span data-ttu-id="f7c06-105">當您移動文件時，也被移動其歷程記錄。</span><span class="sxs-lookup"><span data-stu-id="f7c06-105">When you move documents, their history is also moved.</span></span>
   
-1. <span data-ttu-id="72829-106">在網頁瀏覽器中, 流覽至想要移動的檔案、資料夾或連結, 然後按一下 [**移至**]。</span><span class="sxs-lookup"><span data-stu-id="72829-106">In a web browser, browse to the files, folders, or links you want to move, and then click **Move to**.</span></span>
+1. <span data-ttu-id="f7c06-106">在網頁瀏覽器中，瀏覽至檔案、 資料夾或您想要移動，，然後按一下 [**移到**連結。</span><span class="sxs-lookup"><span data-stu-id="f7c06-106">In a web browser, browse to the files, folders, or links you want to move, and then click **Move to**.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="72829-107">如果您使用的是 SharePoint Online 的傳統體驗, 則無法使用 [**移至**]。</span><span class="sxs-lookup"><span data-stu-id="72829-107">**Move to** isn't available if you're using the classic experience of SharePoint Online.</span></span>
+    > <span data-ttu-id="f7c06-107">**移到**無法使用如果您正在使用 SharePoint online 的傳統體驗。</span><span class="sxs-lookup"><span data-stu-id="f7c06-107">**Move to** isn't available if you're using the classic experience of SharePoint Online.</span></span>
   
-2. <span data-ttu-id="72829-108">在 **[選擇目的地**] 底下, 選取要將專案移動到的位置。</span><span class="sxs-lookup"><span data-stu-id="72829-108">Under **Choose a destination**, select the location to which you want to move the items.</span></span> <span data-ttu-id="72829-109">如果您要移至不同的網站或子網站, 但未看到列出, 請按一下 **[流覽網站]** 以查看您可以移至的完整網站清單。</span><span class="sxs-lookup"><span data-stu-id="72829-109">If you're moving to a different site or subsite and don't see it listed, click **Browse sites** to see the full list of sites that you can move to.</span></span>
+2. <span data-ttu-id="f7c06-108">在 [**選擇目的地**，選取您想要移動的項目的位置。</span><span class="sxs-lookup"><span data-stu-id="f7c06-108">Under **Choose a destination**, select the location to which you want to move the items.</span></span> <span data-ttu-id="f7c06-109">如果您要移動到另一個網站或子網站，並沒有看到它列，按一下 [若要查看您可以移動到的網站的完整清單的 [**瀏覽網站**]。</span><span class="sxs-lookup"><span data-stu-id="f7c06-109">If you're moving to a different site or subsite and don't see it listed, click **Browse sites** to see the full list of sites that you can move to.</span></span>
 
-    <span data-ttu-id="72829-110">若要建立將檔案移至其中的新資料夾, 請選取資料夾階層中的位置, 按一下 [**新增資料夾**], 輸入資料夾的名稱, 然後按一下核取記號以儲存名稱。</span><span class="sxs-lookup"><span data-stu-id="72829-110">To create a new folder to move the files to, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
+    <span data-ttu-id="f7c06-110">若要建立新的資料夾，以移動檔案的頁面，選取的資料夾階層中的位置，按一下 [**新增資料夾**、 輸入資料夾的名稱，然後按一下 [儲存名稱核取記號。</span><span class="sxs-lookup"><span data-stu-id="f7c06-110">To create a new folder to move the files to, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
 
-3. <span data-ttu-id="72829-111">按一下 [**移至此處**]。</span><span class="sxs-lookup"><span data-stu-id="72829-111">Click **Move here**.</span></span>
+3. <span data-ttu-id="f7c06-111">按一下 [**移至這裡**。</span><span class="sxs-lookup"><span data-stu-id="f7c06-111">Click **Move here**.</span></span>
