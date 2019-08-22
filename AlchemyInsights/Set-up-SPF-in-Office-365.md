@@ -9,16 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 542d1c91b87e6d7b918d091f463cf56697213778
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c2e43788d674942b14bec3aa7316e34e7126d1be
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389582"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495994"
 ---
-<span data-ttu-id="5c610-102">若要設定所有的密碼永不過期，移至[安全性&amp;隱私權](https://portal.office.com/adminportal/home#/settings/security)。</span><span class="sxs-lookup"><span data-stu-id="5c610-102">To set ALL passwords to never expire, go to [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="5c610-103">按一下 [**編輯**] 旁**的密碼原則**，然後開啟滑桿來**上**。</span><span class="sxs-lookup"><span data-stu-id="5c610-103">Click **Edit** next to **Password Policy**, and turn the slider to **On**.</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="37f93-102">設定密碼永不過期</span><span class="sxs-lookup"><span data-stu-id="37f93-102">Set passwords to never expire</span></span> 
+
+<span data-ttu-id="37f93-103">若要設定所有的密碼，永遠不會過期，在 Microsoft 365 系統管理中心，移至 [**設定** > [安全性&amp;隱私權](https://portal.office.com/adminportal/home#/settings/security)] 頁面。</span><span class="sxs-lookup"><span data-stu-id="37f93-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="37f93-104">選取旁的 [**編輯\*\*\*\*密碼原則**，然後開啟滑桿來**上**。</span><span class="sxs-lookup"><span data-stu-id="37f93-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
   
-<span data-ttu-id="5c610-104">如需詳細資訊，請參閱：[設定貴組織的密碼到期原則。](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="5c610-104">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
+<span data-ttu-id="37f93-105">如需詳細資訊，請參閱：[設定貴組織的密碼到期原則。](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="37f93-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
   
-[<span data-ttu-id="5c610-105">設定為永不過期針對特定使用者的密碼</span><span class="sxs-lookup"><span data-stu-id="5c610-105">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[<span data-ttu-id="37f93-106">設定為永不過期針對特定使用者的密碼</span><span class="sxs-lookup"><span data-stu-id="37f93-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
   
