@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1326"
 - "8000080"
-ms.openlocfilehash: 40bdd0d5ecf6f96d7af95f39616c540470f1bdb6
-ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
+ms.openlocfilehash: 9e77e1bb55477ec1279bd9e0cae5a2f4875afac7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35595245"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536462"
 ---
 # <a name="how-to-get-support-in-outlookcom"></a>如何在 Outlook.com 中取得支援
 

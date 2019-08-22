@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1964"
 - "9000336"
-ms.openlocfilehash: ce74fa1ae968daf98d8bc9fbdf914d948ee7770b
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: b97c6eaaece5958e3c043551584625d365e59c24
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36048879"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535850"
 ---
-# <a name="permanently-delete-email"></a>永久刪除電子郵件
+# <a name="permanently-delete-email-in-outlookcom"></a>永久刪除在 Outlook.com 中的電子郵件
 
 如果您想要刪除的電子郵件或清空收件匣：
 

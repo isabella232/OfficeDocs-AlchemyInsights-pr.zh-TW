@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1e622e675b55edbd2a3b381ba3aa529bd84902f7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370353"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534194"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>將 SharePoint 檔案與新的 OneDrive 同步處理用戶端同步
 

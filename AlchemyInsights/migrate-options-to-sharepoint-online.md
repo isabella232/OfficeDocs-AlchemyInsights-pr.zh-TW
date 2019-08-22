@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: fadc34a277e8cf8dc085e647c14b8bd381782941
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 379505b6495cdfc8e85caf559031eaff82c58e9d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419113"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544715"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>移轉至 SharePoint Online 的選項
 

@@ -1,5 +1,5 @@
 ---
-title: 9000198 Outlook.com 行事曆 Beta
+title: 9000198 Outlook.com 行事曆 beta 版
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 10df70e027efb099f663d6e79dff6e73c6ff6140
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376896"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36548130"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>新的行事歷經驗即將推出 Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>新的行事曆體驗即將 Outlook.com
 
-新的外觀會將最佳的設計和 learnings 從郵件經驗帶入行事曆。
+全新的外觀會帶最佳的設計，以及從郵件檢討體驗行事曆。
 
-您將喜歡一種現代化的設計, 可減少視覺效果, 並提供更快速流覽行事曆的方式。 您也可以更輕鬆地尋找喜歡的活動行事曆, 從電視節目到體育小組和事件。
+您可以享有減少 visual 待過濾郵件，並讓您更快速的方法來瀏覽您的行事曆的現代設計。 它也很容易找到您最愛的活動有趣的行事曆-從電視顯示運動小組和事件。
 
-我們展開了事件圖示的集合, 並更新了現有專案的外觀和風格, 現在我們會自動將相關的圖示新增至您的事件, 讓您可以輕鬆看到即將發生的事情。
+我們展開我們的事件圖示的集合，並更新現有的外觀與風格 — 和我們現在會自動加入相關圖示您的事件，讓您可以輕鬆看見什麼一眼事。
 
-您可以透過[Outlook.com 行事曆 UserVoice 通道](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197), 授與新功能的意見反應。
+您可以透過[Outlook.com 行事曆 UserVoice 通道](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197)的新功能提供意見反應。

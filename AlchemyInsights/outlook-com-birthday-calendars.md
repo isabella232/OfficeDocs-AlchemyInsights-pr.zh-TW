@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1811"
 - "9000229"
-ms.openlocfilehash: e213d127ee889ddb01b01c42731c68be92a4ec2f
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: 5b1285bb6e28d7e28bae1a8d02c796940acabb67
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36044627"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36548274"
 ---
 # <a name="add-a-birthday-calendar-in-outlookcom"></a>在 Outlook.com 中新增生日行事曆
 

@@ -12,14 +12,14 @@ ms.assetid: 5042f2a4-6edb-425e-8d6e-df4d9c6c5434
 ms.custom:
 - "8000062"
 - "1070"
-ms.openlocfilehash: f2c30a51fde2d09320350a4a03b0e7cb6a85412d
-ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
+ms.openlocfilehash: f8de9ceaa7d249f187a5e96b2c728440e0e434b4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35746220"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546114"
 ---
-# <a name="move-a-folder"></a>移動資料夾
+# <a name="move-a-folder-in-outlookcom"></a>移動 Outlook.com 中的資料夾
 
 您可重新排列 [**我的最愛**] 資料夾，但您無法重新排序**資料夾**下的資料夾，或建立子資料夾的資料夾。 如果您不小心將資料夾移至另一個資料夾，建立新的資料夾及所有的電子郵件複製到新資料夾的子資料夾。
   

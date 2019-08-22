@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1431"
 - "8000093"
-ms.openlocfilehash: 4daff733a29dacfb55e1d8502d18d52355af8d46
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "35602134"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546870"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>如何修正 」 它看起來像我們不需要的權限 」
 

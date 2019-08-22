@@ -1,5 +1,5 @@
 ---
-title: 9000233 Outlook.com PIN 碼
+title: 9000233 Outlook.com pin 碼
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: 4a3813c9c926e7a6b9106703204dae644b06b84a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a6dee75a90bb299094a9075f96aad83b5355dac2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373440"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545970"
 ---
-# <a name="change-your-pin"></a>變更您的 PIN
+# <a name="change-your-pin"></a>變更您的 pin 碼
 
-Outlook.com 不會使用 PIN 碼, 但您可以使用 PIN 或 Windows Hello 登入您的電腦。 若要在 Windows 10 中變更您的 PIN 碼:
+Outlook.com 不會使用 pin 碼，但您可能登入您的電腦與 pin 碼或 Windows Hello。 若要變更您在 Windows 10 中的 pin 碼：
 
-1. 選取 [開始] 按鈕或按鍵盤上的 Windows 鍵, 然後選取 [**設定** > **帳戶** > 登**入選項**]。
-2. 選取 [ **PIN**] 底下的 [**變更**] 按鈕。
-3. 輸入您目前的 PIN 碼, 然後在下方輸入並確認新的 PIN 碼。
+1. 選取 [開始] 按鈕或在鍵盤上按下 Windows 鍵，然後選取 [**設定** > **帳戶** > **登入選項**。
+2. 選取 [ **pin 碼**的 [**變更**] 按鈕。
+3. 輸入您目前的 pin 碼，然後輸入並確認移至新的 pin 碼。
 
-[請閱讀更多有關 Windows Hello 的資訊。](https://support.microsoft.com/help/17215/)
+[閱讀的有關 Windows Hello。](https://support.microsoft.com/help/17215/)

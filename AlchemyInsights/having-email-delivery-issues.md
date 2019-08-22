@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: c7c90d9eb4e9ae40a7ea558528d42e91e666bb8b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e9c073f63249af80c83f2957ba7bb3931325f6b0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400492"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523394"
 ---
 # <a name="having-email-delivery-issues"></a>您遇到電子郵件傳送問題了嗎？
 

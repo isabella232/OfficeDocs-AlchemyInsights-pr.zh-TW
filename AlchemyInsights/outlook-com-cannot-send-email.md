@@ -12,12 +12,12 @@ ms.custom:
 - "9000251"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1500c2e0bc7ba40b4ee4d149899e5199ae926722
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 441511e694ab75d066d24beafb71396b5822dbf4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697182"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36548094"
 ---
 # <a name="cant-send-email-in-outlookcom"></a>無法在 Outlook.com 中傳送電子郵件
 
