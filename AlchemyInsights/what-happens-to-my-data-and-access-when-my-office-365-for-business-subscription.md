@@ -13,12 +13,12 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 55243adda44931a78ca2a8af06565b8a48dd10b5
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 162b6b1d84b41a62b56a800a1b41fc47b305097a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387558"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531242"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>會發生什麼情況我的資料與存取我的 Office 365 商務版訂閱結束時？
 
@@ -26,6 +26,6 @@ ms.locfileid: "36387558"
   
 訂閱實際達到其到期日期之前，您會有幾個選項可以**管理週期性訂用帳戶計費**。
   
-- 如果已開啟**週期性計費**，您不需要採取任何動作。 您的訂閱會要求在其**週期性帳單**的日期，以及您要支付額外年或月，視您目前的付款頻率。 如果有任何原因您已關閉**週期性計費**，您還可以一律[開啟週期性帳單重新開啟](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)。
+- 如果已開啟**週期性計費**，您不需要採取任何動作。 您的訂閱會要求在其**週期性帳單**的日期，以及您要支付額外年或月，視您目前的付款頻率。 如果有任何原因您已關閉**週期性計費**，您還可以一律[開啟週期性帳單重新開啟](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)。
 
-- 如果您是 Open 大量授權客戶預付、 一年的訂閱，請連絡您的合作夥伴購買新的產品金鑰。 您會收到透過電子郵件的指示來啟動您在[大量授權服務中心](https://go.microsoft.com/fwlink/p/?LinkID=282016)的金鑰。 若要了解如何尋找新的合作夥伴或您曾合作過的合作夥伴，請參閱[尋找您的 Office 365 合作夥伴或轉銷商](https://docs.microsoft.com/en-us/office365/admin/manage/find-your-partner-or-reseller)。
+- 如果您是 Open 大量授權客戶預付、 一年的訂閱，請連絡您的合作夥伴購買新的產品金鑰。 您會收到透過電子郵件的指示來啟動您在[大量授權服務中心](https://go.microsoft.com/fwlink/p/?LinkID=282016)的金鑰。 若要了解如何尋找新的合作夥伴或您曾合作過的合作夥伴，請參閱[尋找您的 Office 365 合作夥伴或轉銷商](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller)。

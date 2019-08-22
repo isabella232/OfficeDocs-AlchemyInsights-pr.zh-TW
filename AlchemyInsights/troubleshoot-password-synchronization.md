@@ -13,51 +13,51 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 165e0ff4b2136b727450946d2c47756ebee7d393
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2b0a1527ab1b16f56a97891445a2dcb4570302f5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353096"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533798"
 ---
 # <a name="troubleshoot-password-synchronization"></a>疑難排解密碼同步處理
 
-若要疑難排解與 Azure AD Connect 版本1.1.614.0 或更新版本不同步的密碼, 請執行下列動作:
+若要疑難排解其中沒有密碼會同步處理與 Azure AD Connect 版本 1.1.614.0 或更新版本的問題：
   
-1. 使用 [以**系統管理員身分執行**] 選項, 在 Azure AD Connect 伺服器上開啟新的 Windows PowerShell 會話。
+1. 開啟新的 Windows PowerShell 工作階段，您的 Azure AD Connect 伺服器上具有 [**以管理員身分執行**] 選項。
 
-2. 執行**ExecutionPolicy RemoteSigned**或**Set-ExecutionPolicy 無限制**。
+2. 執行**Set-executionpolicy RemoteSigned**或**Set-executionpolicy Unrestricted**。
 
-3. 啟動 Azure AD Connect 嚮導。
+3. 啟動 Azure AD Connect 精靈。
 
-4. 流覽至 [**其他**工作] 頁面, 選取 [**疑難排解**], 然後按 **[下一步]**。
+4. 瀏覽至 [**其他工作**] 頁面上，選取 [**疑難排解**]，然後按一下 [**下一步**。
 
-5. 在 [疑難排解] 頁面上, 按一下 [啟動],**以啟動 PowerShell 中的疑難排解**功能表。
+5. 在 [疑難排解] 頁面上，按一下**要啟動的疑難排解啟動**] 功能表 PowerShell 中。
 
-6. 在主功能表中, 選取 [**疑難排解密碼同步**處理]。
+6. 在 [主要] 功能表中，選取**疑難排解密碼同步處理**。
 
-7. 在 [子功能表] 中, 選取 [**密碼同步處理] 根本無法運作**。
+7. 子功能表中，選取 [**密碼同步處理未完全運作**。
 
-**瞭解疑難排解工作的結果**
+**了解疑難排解工作的結果**
   
-疑難排解工作會執行下列檢查:
+疑難排解工作會執行下列檢查：
   
-- 驗證您的 Azure AD 租使用者已啟用密碼同步處理功能。
+- 驗證您的 Azure AD 租用戶，已啟用密碼同步處理功能。
 
-- 驗證 Azure AD Connect 伺服器不在分段模式中。
+- 驗證 Azure AD Connect 伺服器不在執行模式。
 
-- 針對每個現有的內部部署 Active Directory 連接器 (對應至現有的 Active Directory 樹系):
+- 每個現有內部部署 Active Directory 連接器 （這會對應至現有的 Active Directory 樹系）：
 
 - 
-  - 驗證是否已啟用密碼同步處理功能。
+  - 驗證已啟用密碼同步處理功能。
 
-  - 在 Windows 應用程式事件記錄檔中搜尋密碼同步處理心跳事件。
+  - 在 Windows 應用程式事件記錄檔的密碼同步處理活動訊號事件的搜尋。
 
-  - 針對內部部署 Active Directory 連接器底下的每個 Active Directory 網域:
+  - 每個 Active Directory 網域下的內部部署 Active Directory 連接器：
 
-  - 驗證網域是否可從 Azure AD Connect 伺服器存取。
+  - 驗證的網域是可從 Azure AD Connect 伺服器。
 
-  - 驗證內部部署 Active Directory 連接器所使用的 Active Directory 網域服務 (AD DS) 帳戶是否有正確的使用者名稱、密碼, 以及密碼同步處理所需的許可權。
+  - 驗證內部部署 Active Directory 連接器所使用的 Active Directory 網域服務 (AD DS) 帳戶具有正確的使用者名稱、 密碼及權限所需的密碼同步處理。
 
-如需疑難排解密碼同步處理的詳細資訊, 請參閱[使用 AZURE AD Connect Sync 疑難排解密碼同步處理](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization)。
+疑難排解密碼同步處理的詳細說明，請參閱[使用 Azure AD Connect 同步處理的疑難排解密碼同步處理](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization)。
   

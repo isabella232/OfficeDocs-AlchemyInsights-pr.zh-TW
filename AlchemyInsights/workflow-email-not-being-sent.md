@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 49c510668f4c73a71495b89ee9f810d4e7244da3
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270663"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530855"
 ---
-# <a name="workflow-email-is-not-being-sent"></a>工作流程電子郵件就不會被傳送
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>工作流程電子郵件就不會被傳送 SharePoint 清單或文件庫
 
 1. 從工作流程的電子郵件並不會傳送給所有使用者或只有特定使用者，或您會看到錯誤**電子郵件無法傳送。請確定該電子郵件具有有效收件者**。
 
@@ -30,10 +30,10 @@ ms.locfileid: "36270663"
     - 如果使用者的權限] 群組中存在，請務必電子郵件地址正確無誤。
     - 如果使用者電子郵件地址不在此設定，然後建立該使用者可從的 SharePoint 使用者設定檔會強制使用者帳戶同步處理至這個網站集合的範例警示。
  
-2. 從工作流程的電子郵件傳送給網站集合管理員，但未提供給其他使用者，並查看錯誤**HTTP 禁止以<spam> <spam> ** <spam> <spam>。
+2. 從工作流程的電子郵件傳送給網站集合管理員，但未提供給其他使用者，並查看錯誤**HTTP 禁止<span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**。
  
 
-    請參閱[「 拒絕存取 」 時傳送電子郵件傳送到群組](https://docs.microsoft.com/sharepoint/support/server-admin/access-denied-when-send-an-email-to-groups)。
+    請參閱[「 拒絕存取 」 時您電子郵件傳送至 SharePoint 群組](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups)。
 
     此外，確認**限制存取使用者的權限鎖定模式**網站集合功能為非作用中。
 

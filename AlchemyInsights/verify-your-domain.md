@@ -14,19 +14,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 5bd6c32a246db9dfcdb475368ade0441df4dc9c3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3dd96a9731cfd75882dd3bb397005b19d471c882
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365408"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531350"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 
  **記錄可能尚未在網際網路上更新。**
   
-通常只需要幾分鐘的時間, 就能看到新的記錄, 但有時可能需要幾個小時的時間。 
+它通常只需幾分鐘，我們會看到新的記錄，但有時可能需要長達幾個小時。 
   
-- 如果您已等候長時間, 請仔細檢查您是否已將實際的值複製並貼到您 DNS 主機的 TXT 驗證記錄中。 常見的問題是記錄中未包含 "MS="。 我們也需要這個！
+- 如果您已所等待的時間已，再次檢查您是否已複製並貼入 TXT 驗證記錄中的實際值，在您的 DNS 主機。 常見的問題是記錄中未包含 "MS="。 我們也需要這個！
 
 - 在某些 DNS 主機中，您還需要額外採取一個步驟來儲存區域檔案 (DNS 記錄的儲存位置)，以便在網際網路上更新該檔案。 請確定已儲存您的變更，如此 Office 365 才可以看到並驗證記錄。
