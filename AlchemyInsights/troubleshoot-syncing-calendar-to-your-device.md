@@ -1,5 +1,5 @@
 ---
-title: 3800017將行事曆同步處理至您的裝置疑難排解
+title: 3800017 疑難排解同步處理至您的裝置的行事曆
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "619"
 - "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
-ms.openlocfilehash: a524244ac5a70b60dec75d29f77202fb8d90f7e2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ac534f2308ed031e59fac7d8888f758481f77fad
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367172"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533762"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="ccd11-102">將您的行事曆同步處理至您的裝置疑難排解</span><span class="sxs-lookup"><span data-stu-id="ccd11-102">Troubleshoot syncing your calendar to your device</span></span>
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="0a58b-102">疑難排解同步處理至您的裝置行事曆</span><span class="sxs-lookup"><span data-stu-id="0a58b-102">Troubleshoot syncing your calendar to your device</span></span>
 
-[<span data-ttu-id="ccd11-103">無法使用我的手機或平板電腦同步行事曆和連絡人</span><span class="sxs-lookup"><span data-stu-id="ccd11-103">Can't sync calendar and contacts with my phone or tablet</span></span>](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)
+<span data-ttu-id="0a58b-103">如果您遇到同步處理問題的第一次設定行動電子郵件時，請參閱[行事曆及連絡人與 「 我的手機或平板電腦無法同步處理](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)。</span><span class="sxs-lookup"><span data-stu-id="0a58b-103">If you're having sync issues while setting up your mobile email for the first time, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
   
