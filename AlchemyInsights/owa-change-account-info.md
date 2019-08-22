@@ -1,5 +1,5 @@
 ---
-title: 在網頁版 Outlook 中變更您的帳戶資訊
+title: 變更您的網頁型 Outlook 中的帳戶資訊
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 472386634e3a2c0b6f7886cc449df53fee313942
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.openlocfilehash: 71895ba9ab1f2ac78bbe59415dd59099c4270cc1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34933920"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510578"
 ---
-# <a name="change-your-account-information"></a>變更您的帳戶資訊
+# <a name="change-account-information-in-outlook-on-the-web"></a>變更 outlook 網頁版中的帳戶資訊
 
-1. 在頁面頂端, 選取您的名稱或設定檔圖片。
+1. 在頁面頂端，選取名稱] 或 [設定檔圖片。
 1. 選取 [**我的帳戶**]。
-1. 選取 [**個人資訊**]。
+1. 選取 [**個人資訊**。
 1. 變更或新增您自己的相關資訊。
 
-*附注:* 您的 IT 或人力資源部門可能會提供某些詳細資料, 例如您的名稱和職稱。 如果您想要更新這些詳細資料, 請與他們或您的系統管理員聯繫。
+*附註：* 部分的詳細資訊，例如您的名稱和職稱，可能會提供依您的 IT 或人力資源部門。 如果您想要更新的詳細資訊，請連絡他們或您的系統管理員。
 
-如需詳細資訊, 請參閱[在 Outlook 網頁版中變更您的相片和帳戶資訊](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)。
+如需詳細資訊，請參閱[變更您的相片與帳戶資訊，網頁型 Outlook 中](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)。

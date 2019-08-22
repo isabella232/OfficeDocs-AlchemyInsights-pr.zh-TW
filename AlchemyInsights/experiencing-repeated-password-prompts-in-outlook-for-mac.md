@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: 5459a2d29fd5847f5841142d77d84805c3d12b01
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7da849fbacbbc32272731cf5829b26437983af4e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402322"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526598"
 ---
 # <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>遭遇到重複 Outlook for Mac 中的密碼提示？
 

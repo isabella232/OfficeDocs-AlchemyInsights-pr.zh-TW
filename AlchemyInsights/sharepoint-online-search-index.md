@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059243"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507622"
 ---
-# <a name="search-in-sharepoint-online"></a>搜尋 SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>內容編目和編製索引 SharePoint Online 中
 
 內容必須被編目並新增至使用者尋找項目他們透過其中搜尋的 SharePoint Online 中的搜尋索引。 內容會自動編目根據預先定義的編目排程 （不能變更編目排程）。 編目程式挑選自前次編目以來已變更及更新的索引的內容。 若要確保編目內容，以及更新索引，請注意下列事項：
 
@@ -30,7 +30,8 @@ ms.locfileid: "36059243"
 
     如果您起始的編目和完整重新編製索引以來超過 24 小時，請登支援案例。 在許多情況下，我們已使用的方案。 請讓我們至少 24 小時才能完成解決方案。
 
->[!重要事項 ！]: 如果網站、 文件 （檔案庫） 或清單已刪除，仍會顯示在搜尋結果中的，使用者應該會收到**錯誤 404 找不到檔案**時，嘗試對其進行存取。 這個問題應該記錄為進一步調查的支援案例。 
+> [!IMPORTANT]
+> 如果網站、 文件 （檔案庫） 或清單已遭刪除，仍會顯示在搜尋結果中，使用者應該會收到**錯誤 404 找不到檔案**時，嘗試對其進行存取。 這個問題應該記錄為進一步調查的支援案例。 
 
 
 

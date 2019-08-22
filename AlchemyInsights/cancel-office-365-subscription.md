@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 353e0b4bb3ac1e0ecd9b7436dde6860ba8950925
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 19f21e93419a208229c64c874748f5f94acfe8b4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386143"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494122"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>取消您的 Office 365 訂閱？
 
@@ -28,4 +28,4 @@ ms.locfileid: "36386143"
 
 - 如果您有超過 25 個指派的授權，您可以移除使用者直到您擁有少於 25，或連絡技術支援工程師使用 「 讓我們撥話給您 」] 選項。
 
-- 若要深入了解取消訂閱，或如需逐步指示，請參閱[取消您的訂閱](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)。
+- 若要深入了解取消訂閱，或如需逐步指示，請參閱[取消您的訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)。

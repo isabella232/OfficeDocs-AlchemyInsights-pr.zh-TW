@@ -1,5 +1,5 @@
 ---
-title: Outlook 同步處理限制為 3.99 GB
+title: 3.99 GB 的 outlook 同步處理限制
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1773"
 - "9000169"
-ms.openlocfilehash: 630c5c6e44d5ad372ad2e37320b7b198e9c5a0c9
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8a31e9bfd325b395f142d0b34c927bdd97370a0d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390072"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511413"
 ---
-# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Outlook 同步處理狀態列保持在 3.99 GB
+# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Outlook 同步處理狀態] 列維持在 3.99 GB
 
-請嘗試減少資料夾內容的大小, 或為大型資料夾 (或接近 4 GB) 建立同步處理篩選。
+請嘗試減少資料夾的內容大小，或建立大型資料夾同步處理篩選器，在或接近 4 GB。
 
-請參閱 [狀態列進度絕對不會顯示超過 3.99 GB][的初始同步處理大型資料夾的詳細資訊](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial)。
+狀態列進度永遠不會顯示 3.99 GB 以上留在初始[同步處理的大型的資料夾，如需詳細資訊](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial)，請參閱。

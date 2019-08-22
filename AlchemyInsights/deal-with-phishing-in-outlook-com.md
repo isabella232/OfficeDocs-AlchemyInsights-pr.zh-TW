@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000029
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
-ms.openlocfilehash: f42e001ce889b28651c2d1cd70306bdcfa46fd83
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 591ecfa8809ea656a66d94441765859081d3ced0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406375"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514167"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>處理收件匣中的網路釣魚詐騙
 

@@ -1,5 +1,5 @@
 ---
-title: 744當組織處於混合模式時, 建立使用者
+title: 744 建立使用者時組織處於混合模式
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 29f53f709e1a0c3a6c6ee007c65149e196195a2e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3300b746e60158db4feac5b1df9f9f95a30c0d9f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363176"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514898"
 ---
-# <a name="create-users-in-hybrid-deployments"></a>在混合式部署中建立使用者
+# <a name="create-users-in-hybrid-deployments"></a>混合式部署中建立使用者
 
-當您的組織是內部部署環境與 Office 365 之間的混合式部署時, 您必須在內部部署 Active Directory 中建立所有使用者物件。 您可以在適當的組織單位 (OU) 中建立使用者物件, 以同步處理至您的 Office 365 組織。
+當您的組織內部部署環境與 Office 365 之間的混合式部署時，您需要在內部部署 Active Directory 中建立使用者的所有物件。 讓他們正在同步處理至 Office 365 組織，您可以建立適當的組織單位 (OU) 中的使用者物件。

@@ -1,5 +1,5 @@
 ---
-title: 您是否已為學生啟用團隊？
+title: 您是否已啟用 microsoft Teams 的學生？
 ms.author: heidip
 author: microsoftheidi
 ms.date: 1/9/2019
@@ -12,14 +12,14 @@ ms.custom:
 - "1576"
 - "9000067"
 ms.assetid: 3899a788-feaa-4ea4-a40b-09542f4cc148
-ms.openlocfilehash: 17a23719271df9b0b4a61f6cf5cf69efebb931ba
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f8931b8a59b7310b008d7d3aecd344c411ce97d4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386472"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523502"
 ---
-# <a name="have-you-enabled-teams-for-your-students"></a>您是否已為學生啟用團隊？
+# <a name="have-you-enabled-teams-for-your-students"></a>您是否已啟用 microsoft Teams 的學生？
 
-教職員工和教職員工是否可以存取小組, 但您的學生無法？ 小組必須明確啟用給學生, 以及教職員和教職員工。 若要執行這項操作, 請參閱[啟用學校的 Microsoft 團隊](https://docs.microsoft.com/education/get-started/enable-microsoft-teams)。
+教職員具有能夠存取小組，但您的學生無法嗎？ 小組您必須明確啟用您的學生，以及的教職人員。 若要這麼做，請參閱[啟用您的學校的 Microsoft Teams](https://docs.microsoft.com/education/get-started/enable-microsoft-teams)。
   

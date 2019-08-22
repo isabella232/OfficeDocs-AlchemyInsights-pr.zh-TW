@@ -13,21 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 3641fb38fa95173a6367c1c0754c26bd3ee3eb0f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386359"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527822"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>已離開員工，以及需要來封鎖對資料和電子郵件存取？
+# <a name="block-access-to-a-former-employee"></a>封鎖離職員工的存取
+
+已離開員工，以及需要來封鎖對 Office 365 的資料與電子郵件存取？ 請執行下列動作。
   
 1. 在系統管理中心，移至 [**使用者** \> [作用中使用者](https://go.microsoft.com/fwlink/p/?linkid=834822)頁面。
 
-2. 選取您想要封鎖的使用者。
+2. 選取您想要封鎖之使用者的名稱。
 
-3. 選擇 [登入狀態] 旁的 [**編輯**]。
+3. 使用者的名稱下，選取 [**封鎖這位使用者**。
 
-4. 選擇 [**封鎖登入使用者** \> **儲存**。
+4. 選擇 [**封鎖登入使用者** \> **儲存變更**。
 
-**附註**： 如部分應用程式可能無法立即登出。 使用本文中的多個動作待：[中移除前任員工從 Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)
+**附註**： 如部分應用程式可能無法立即登出。 使用本文中的多個動作待：[中移除前任員工從 Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

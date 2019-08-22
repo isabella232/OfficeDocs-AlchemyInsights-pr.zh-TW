@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6dfccf70f1d200a57b916b8aa7bea1a154a7cfad
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 062a0d9bfbd83ed40457f603cc739e3a916c7045
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35696930"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511910"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>停止郵件移至 [垃圾郵件] 資料夾
 
-如果您發現您的垃圾郵件] 資料夾中的電子郵件訊息不是垃圾郵件：
+如果您發現在 Outlook.com 中垃圾郵件資料夾中的電子郵件訊息不是垃圾郵件：
 
 1. 開啟 [[垃圾郵件] 資料夾](https://outlook.live.com/mail/junkemail)。
 1. 選取的郵件。 (*附註：* 垃圾郵件] 資料夾中的項目會刪除超過 30 天後。)

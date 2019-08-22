@@ -1,5 +1,5 @@
 ---
-title: 變更公用資料夾許可權
+title: 變更公用資料夾權限
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -12,19 +12,19 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 3bea0aff82cef78fc5aab892d6401d39e718ca94
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: cda46c32fcdb4e4dfbe3ab8323c2de9ab1420f32
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362492"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520730"
 ---
-# <a name="changing-public-folder-permissions"></a>變更公用資料夾許可權
+# <a name="changing-public-folder-permissions"></a>變更公用資料夾權限
 
-使用者和 Outlook 中的系統管理員可以變更公用資料夾許可權。 系統管理員也可以執行下列動作, 控制 Exchange 系統管理中心 (EAC) 的許可權:
+公用資料夾權限可以由使用者和系統管理員在 Outlook 中的變更。 系統管理員也可以控制權限從 Exchange 系統管理中心 (EAC)，執行下列動作：
   
-1. 在 O365 入口網站中, 使用左導覽功能表, 流覽至 [系統**管理中心** \> ] [ **Exchange**]。
+1. O365 入口網站中使用左側瀏覽功能表中，瀏覽至 [**系統管理中心** \> **Exchange**。
 
-2. 流覽至 [**公用資料夾**]。
+2. 瀏覽至 [**公用資料夾**。
 
-3. 從這裡開始, 您可以將安全性群組指派給許可權, 以變更個別公用資料夾的許可權。 若要讓使用者變更公用資料夾許可權, 使用者必須具有該資料夾的擁有者許可權。
+3. 從那裡，您可以變更個別公用資料夾的權限指派安全性群組權限。 若要變更公用資料夾權限的使用者，使用者必須具有該資料夾擁有者權限。

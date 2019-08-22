@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e7b1b58f0b5bf73d50721cf2715b366280867431
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404040"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527642"
 ---
 # <a name="enable-external-sharing"></a>啟用外部共用
 
- **如何確保共用已啟用：**
+ 若要確認 SharePoint Online 的已啟用共用：
   
 - **全域共用**
     
@@ -27,7 +27,7 @@ ms.locfileid: "32404040"
     
 - **設定共用的系統管理-SharePoint 系統管理中心**
     
-- 外部共用-確定已選取 [兩個選項之一：
+    外部共用-確定已選取 [兩個選項之一：
     
   - [允許外部使用者接受共用邀請，以驗證使用者的登入 」
     

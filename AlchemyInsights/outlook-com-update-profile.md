@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: e6eeeeb0452176d2795a0a5aa533d5333df61f80
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373019"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511334"
 ---
-# <a name="change-my-profile-picture-or-name"></a>變更我的設定檔圖片或名稱
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>變更我的設定檔圖片或 Outlook.com 中的名稱
 
 1. 移至[您的 Microsoft 帳戶的資訊](https://go.microsoft.com/fwlink/p/?linkid=860841)。
 1. 選取 [**編輯名稱**] 或 [**變更圖片**。

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: c869609fa4527f46121eda563e0735378bcb0d3d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394587"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519290"
 ---
 # <a name="change-intune-mdm-authority"></a>變更 Intune MDM 授權單位
 

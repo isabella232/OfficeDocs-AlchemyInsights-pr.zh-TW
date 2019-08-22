@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "8000002"
 - "1990"
-ms.openlocfilehash: d350f2292f759cb5a0e4674110e92036160f8985
-ms.sourcegitcommit: 8e4126e64eca48be458242d744650878b8bb89e5
+ms.openlocfilehash: 18aef4096e936138c85f22f343500f5f233f903f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33663709"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510470"
 ---
-# <a name="change-your-password"></a>變更您的密碼
+# <a name="change-your-office-365-password"></a>變更您的 Office 365 密碼
 
-[重設您的 Office 365 密碼](https://go.microsoft.com/fwlink/p/?linkid=841910)
+如果您需要變更或重設您的 Office 365 密碼，您可以直接前往此頁面：[重設您的 Microsoft 密碼](https://go.microsoft.com/fwlink/p/?linkid=841910)

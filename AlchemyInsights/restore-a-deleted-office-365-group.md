@@ -13,20 +13,20 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: edff65878d516ee8676ab99a26badf5ba7ff53c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e1f0ecaeca3154096c952c0a5018805ac46d8d3f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356156"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509244"
 ---
 # <a name="restore-a-deleted-office-365-group"></a>還原已刪除的 Office 365 群組
 
-已刪除的群組會保留30天。 若要還原刪除的群組:
+已刪除的群組會保留 30 天。 若要還原已刪除的群組：
   
-1. 在[Exchange 系統管理中心](https://outlook.office365.com/ecp/)中, 選取**** 左窗格中的 [收件者], 然後選取 [**群組**]。 如果群組已刪除30天以上, 它就會出現在清單中, 而且 [狀態] 欄會列出刪除的日期。
+1. 在[Exchange 系統管理中心](https://outlook.office365.com/ecp/)中，在左邊窗格中，選取**收件者**，然後選取**群組**。 如果群組已刪除小於 30 天，它會出現在清單中，[狀態] 欄會列出已刪除的日期。
 
-2. 選取群組, 然後按一下命令列上的 [**還原**], 或按一下 [詳細資料] 窗格中的 [按一下此處還原] 連結。
+2. 選取群組，然後的命令列上，按一下 [**還原**或按一下 [詳細資料窗格中的 「 按一下這裡以還原 」 連結。
 
-如需詳細資訊, 或若要瞭解如何使用 PowerShell 還原群組, 請參閱[還原已刪除的 Office 365 群組](https://go.microsoft.com/fwlink/?linkid=867802)。
+如需詳細資訊，或了解如何還原使用 PowerShell 的群組，請參閱[還原已刪除的 Office 365 群組](https://go.microsoft.com/fwlink/?linkid=867802)。
   

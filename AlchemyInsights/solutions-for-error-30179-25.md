@@ -1,5 +1,5 @@
 ---
-title: 錯誤30179-25 的解決方案
+title: 錯誤 30179 25 的解決方案
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.assetid: 858c2f23-bcf5-42e4-92c5-8749eed29dfb
 ms.custom:
 - "835"
 - "2000020"
-ms.openlocfilehash: 8ff674aed526a81be8539219fad68bbe08a17b9d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: dca552a2b2ec743c6d4a0feff81e93341b800443
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368180"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501574"
 ---
-# <a name="solutions-for-error-30179-25"></a>錯誤30179-25 的解決方案
+# <a name="solutions-for-error-30179-25"></a>錯誤 30179 25 的解決方案
 
-如果您的硬碟空間即將用盡, 您可能會看到訊息「無法串流 Office」 (錯誤碼[30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) 的錯誤。
+您可能會看到錯誤訊息，「 無法資料流 Office 」 （錯誤碼[30179 25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)） 如果您的硬碟空間不足。
   
-請[釋放硬碟上的空間](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space), 然後[重新安裝 Office](https://portal.office.com/OLS/MySoftware.aspx)。
+[免費上您的硬碟空間](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space)，然後[重新安裝 Office](https://portal.office.com/OLS/MySoftware.aspx)。
   

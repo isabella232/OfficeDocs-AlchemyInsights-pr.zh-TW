@@ -1,5 +1,5 @@
 ---
-title: 追蹤或取消追蹤 SharePoint 網站
+title: 遵循或取消追蹤 SharePoint 網站
 ms.author: kirks
 author: Techwriter40
 ms.date: 6/20/2019
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: ebbb69c987b331fb92e5149f972a4489288f8334
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222731"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524582"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>追蹤或取消追蹤 SharePoint 網站
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>遵循或取消追蹤 SharePoint 網站
 
-有多種方式可以追蹤您在 SharePoint 中感興趣的網站。 這可讓您輕鬆地在清單中尋找網站, 並讓您查看網站中的活動。 
+有多種方式追蹤您感興趣的 SharePoint 網站。 這將可讓您輕鬆地找到在清單中，您的網站，並讓您查看從站台的活動。 
 
-觀看影片以[遵循 SharePoint 網站](https://support.office.com/en-us/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0)。 
+觀賞影片來[追蹤 SharePoint 網站](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0)。 
 
-如果您無法追蹤或取消追蹤網站, 並認為結果不是預期, 請參閱問題是否與單一使用者或組織內的所有使用者有關。 如果所有使用者都遇到此問題, 可能是暫時性的服務問題。 
+如果您無法以遵循或取消追蹤網站並覺得結果未預期的請參閱此問題： 如果與單一使用者或組織內的所有使用者。 如果使用者遇到問題，則所有使用者，可能會暫時的服務問題。 
 
-檢查 [[服務健康情況] 儀表板](https://admin.microsoft.com/AdminPortal/Home#/servicehealth), 查看您的組織是否受到影響。
+檢查[服務健康狀況儀表板](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)若要查看您的組織會受到影響。

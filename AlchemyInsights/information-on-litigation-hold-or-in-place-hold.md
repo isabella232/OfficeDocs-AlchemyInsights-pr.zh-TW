@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 7d300bd006c3e7fae68da1245037819396122fc9
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754921"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498946"
 ---
+# <a name="about-litigation-holds-and-in-place-holds"></a>關於訴訟資料暫留和就地保留
+
 - 若要套用訴訟暫止或就地保留到信箱，則需要[Exchange Online Plan 2 授權](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)。 如果您有任何其他方案，將個別的[Exchange Online Archiving](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)授權指派給帳戶。 
     
 - **若要啟用訴訟資料暫留**為單一使用者，請依照下列所述的步驟[以下](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)。 啟用訴訟資料暫留時，信箱中的所有內容都會都被保留。

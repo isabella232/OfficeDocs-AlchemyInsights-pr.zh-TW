@@ -11,14 +11,14 @@ ms.custom:
 - "819"
 - "5800002"
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: 1614a7f34e289b5f927424b940974364e276e582
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4552d03c800bcb4a2f95db5beda5f4ab75ef03b5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355184"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509199"
 ---
-# <a name="set-up-onedrive"></a>設定 OneDrive
+# <a name="use-the-onedrive-syn-client-to-sync-onedrive-or-sharepoint-files"></a>使用 OneDrive syn-rcvd 用戶端來同步處理 OneDrive 或 SharePoint 檔案
 
-您可以[同步處理商務用 onedrive](https://go.microsoft.com/fwlink/?linkid=533375)檔案, 或將[SharePoint](https://go.microsoft.com/fwlink/?linkid=871666)檔案與 OneDrive 同步處理用戶端同步。
+您的 OneDrive 同步處理用戶端的情況下，可以[同步處理您的 OneDrive for Business 檔案](https://go.microsoft.com/fwlink/?linkid=533375)或[SharePoint 檔案同步處理](https://go.microsoft.com/fwlink/?linkid=871666)。
   

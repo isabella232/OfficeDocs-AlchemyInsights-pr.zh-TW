@@ -13,24 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 1a1977539b7dcfd2d99bac4779a6fcf28299e713
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353204"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559364"
 ---
-# <a name="troubleshoot-content-search-errors"></a>疑難排解內容搜尋錯誤
+# <a name="troubleshoot-content-search-errors"></a>針對內容搜尋錯誤進行疑難排解
 
-您在匯出搜尋結果時, 是否遇到內容搜尋問題或取得失敗？
-例如, 當您執行搜尋時, 您是否會收到下列資訊？
+當您匯出搜尋結果是您發生的問題中 Office 365 或取得失敗的內容搜尋？
+
+例如，會在執行搜尋時接收 [下列嗎？
 
 - CS008 或 CS012 錯誤
 
 - 伺服器忙碌/逾時錯誤
 
-- 發生應用程式錯誤
+- 應用程式錯誤發生
 
-或是從大量信箱 (超過100000個信箱) 搜尋或匯出結果時, 您是否取得匯出錯誤？
+或當搜尋或大量的信箱 （超過 100000 信箱） 從匯出結果時，是否收到匯出錯誤？
 
-針對這些類型的錯誤, 請重試搜尋失敗的內容位置。 如需詳細資訊, 請參閱[本文](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search)。
+這些類型的錯誤，重試失敗的內容位置的搜尋。 請參閱[這篇文章](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search)如需詳細資訊。

@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 9ad8935083d39a0f54fa23c450a571931db10a00
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606600"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519758"
 ---
 # <a name="change-app-license-quantity"></a>變更應用程式授權數量
+
+您可以檢視或變更您有，並將它們指派給使用者在 Microsoft 365 系統管理中心的授權數目。 
 
 ## <a name="to-change-license-quantity"></a>若要變更授權數量
 
