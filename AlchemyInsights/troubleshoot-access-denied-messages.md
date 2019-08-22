@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: f1a4803838b6511ef4fe7f03cafa4aa13b3c9734
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e4fea7188bd77ba876e2a245414372c3ff836059
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420691"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500387"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>針對 「 拒絕存取 」 訊息進行疑難排解
 
-如果某人會收到 「 拒絕存取 」 訊息的共用資料夾，網站集合管理員，可能就已啟用 「 限制存取使用者的權限鎖定模式。 」 若要關閉此功能： 
+如果某人會收到 「 拒絕存取 」 訊息到 SharePoint 中的共用資料夾，網站集合管理員，可能就已啟用 「 限制存取使用者的權限鎖定模式。 」 若要關閉此功能： 
   
 1. 瀏覽至網站，按一下 [設定] 圖示，然後按一下 [**網站設定]**。
     

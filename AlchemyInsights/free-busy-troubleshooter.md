@@ -1,5 +1,5 @@
 ---
-title: 607空閒/忙碌疑難排解程式
+title: 607 空閒/忙碌疑難排解員
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,12 +13,12 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: de4833568bf9d3ae5e96d740dea2d998cfb9c0ce
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d2d804868f570062831dd634ca74b7c10392349e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387120"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524366"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>查看行事曆空閒/忙碌資訊的問題
 

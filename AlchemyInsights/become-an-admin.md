@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: b45e63e26fa84e3ec125d16c1e156368288ca92d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f322a0252f1198b110f5558cf1e3c6aa28ec1f78
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35352772"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517670"
 ---
 # <a name="become-an-admin"></a>成為系統管理員
 
-若要假設此組織的系統管理員角色, 您必須接管租使用者。
+若要假設此組織的系統管理員角色，您需要接管租用戶。
   
-遵循本指南中的指示:[在 Office 365 中進行系統管理員接管](https://support.office.com/article/b9707ec8-2247-4e25-9bad-f11ddbc686e4)
+請遵循本指南中的指示：[接管系統管理員在 Office 365](https://support.office.com/article/b9707ec8-2247-4e25-9bad-f11ddbc686e4)

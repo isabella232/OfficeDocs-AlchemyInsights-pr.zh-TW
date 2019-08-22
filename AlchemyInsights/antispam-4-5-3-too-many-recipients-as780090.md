@@ -1,5 +1,5 @@
 ---
-title: 1049反垃圾郵件4.5.3 太多收件者 (AS780090)
+title: 1049 反垃圾郵件 4.5.3 太多收件者 (AS780090)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "1049"
 - "3100024"
 ms.assetid: fa3d4be9-c90a-4926-9754-4b708b038bf6
-ms.openlocfilehash: 841691026560692942dfd78442e91f2b57fcbb63
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d8bd1e91fdc7975b128ee5d53198585cc97de418
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357020"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516878"
 ---
 # <a name="453-too-many-recipients-as780090"></a>4.5.3 太多收件者 (AS780090)
 
-當來源 IP 位址的電子郵件流量超出來源 IP 位址的信譽 (或缺乏信譽) 時, 就會發生此錯誤。
+從來源 IP 位址的電子郵件流量的數量超過根據來源 IP 位址的信譽 （或缺乏信譽） 限制時，會發生這個錯誤。
 
-封鎖來自來源 IP 位址的電子郵件會在一小時內到期。 如果來源 IP 位址是屬於您的內部部署電子郵件伺服器, 請確認郵件流程連接器的設定。 如果行為持續超過一小時, 請與支援人員要求來源 IP 位址的例外狀況。
+封鎖來自來源 IP 位址的電子郵件，將一個小時內到期。 如果來源 IP 位址是屬於您內部部署電子郵件伺服器，請確認郵件流程連接器的組態。 如果問題持續超過一小時，請連絡客戶支援要求的來源 IP 位址的例外狀況。

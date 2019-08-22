@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: d16c98841f014559d94ef240219000e3fd69a456
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 12d895b6a9fdd9bc14b858d171acb8dccb1b6b80
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759632"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507982"
 ---
 # <a name="credential-messages-in-sharepoint-or-onedrive"></a>在 SharePoint 或 OneDrive 中的認證郵件
 

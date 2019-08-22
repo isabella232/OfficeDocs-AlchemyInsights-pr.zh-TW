@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: fb99e8a744ce014f23ea43e697d33c1a83d73a09
-ms.sourcegitcommit: 8e4126e64eca48be458242d744650878b8bb89e5
+ms.openlocfilehash: 7afa86c3f2d9a00606cfd371b07243c85aa8bdb8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33663713"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510506"
 ---
-# <a name="change-your-email-address"></a>變更您的電子郵件地址
+# <a name="change-your-office-365-email-address"></a>變更您的 Office 365 電子郵件地址 
 
 若要變更您的電子郵件地址，您需要系統管理員權限。
   

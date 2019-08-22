@@ -13,19 +13,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387730"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506110"
 ---
 # <a name="view-my-bill"></a>檢視我的帳單
 
-1. 在 [系統管理中心中，移至**帳單** \> [帳單](https://go.microsoft.com/fwlink/p/?linkid=848039)頁面。
+1. 在 Microsoft 365 系統管理中心，移至**帳單** \> [帳單 & 付款](https://go.microsoft.com/fwlink/p/?linkid=848039)] 頁面。
 
-2. 選擇月份與您想發票的日期，然後選擇 [**檢視**。
+2. 從下拉式清單中，選取日期範圍，然後選擇 [您想要檢視的順序。
 
-3. 選擇 [順序]，然後選擇 [**檢視詳細資料]**。
-
-如需詳細資訊，請參閱[檢視您的帳單或發票付款](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)。
+如需詳細資訊，請參閱[檢視您的帳單或發票付款](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)。

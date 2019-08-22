@@ -13,12 +13,12 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 84538224f9f00f5807489449f3d5e75b99656313
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 90f7a879b823648973ef52d9d34914871c046141
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386935"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518498"
 ---
 # <a name="canceling-your-office-365-subscription"></a>取消您的 Office 365 訂閱？
 
@@ -26,4 +26,4 @@ ms.locfileid: "36386935"
   
 根據您的組織資料，我們相信您目前的訂閱有少於 25 基座。 若要取消訂閱線上，移至**帳單** \> [訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上，然後選擇 [**更多動作** \> **取消訂閱**。
   
-若要深入了解取消訂閱或如需逐步指示，請參閱這篇文章：[取消您的訂閱](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+若要深入了解取消訂閱或如需逐步指示，請參閱這篇文章：[取消您的訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

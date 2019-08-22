@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: edcbab6f-09f6-44d7-9426-a2fcdda265db
-ms.openlocfilehash: 574f1161fb73c5b52ba37d3a5f3ba945df0c5ba8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0573a98b82539865d9ed1b16e12896e2e7879961
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408422"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520586"
 ---
 # <a name="changing-public-folder-permissions"></a>變更公用資料夾權限
 

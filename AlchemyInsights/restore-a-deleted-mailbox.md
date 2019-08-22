@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
 ms.custom: ''
-ms.openlocfilehash: 3fa5fe283ebc89faff984e85731cdd3d70f5a7e6
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 6ded2ad450725d9d3592c7763b24b3a211fa973e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34899513"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509568"
 ---
 # <a name="restore-a-deleted-mailbox"></a>還原被刪除的信箱
 

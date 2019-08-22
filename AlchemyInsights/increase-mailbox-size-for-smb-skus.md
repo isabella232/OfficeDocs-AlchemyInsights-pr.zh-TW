@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 8d0d846c97bac885e0082670dbeec3f4fd8c1129
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412562"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499270"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>切換方案增加信箱大小
 

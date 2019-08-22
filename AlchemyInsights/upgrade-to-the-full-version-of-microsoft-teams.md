@@ -1,5 +1,5 @@
 ---
-title: 升級至 Microsoft 小組的完整版本
+title: 升級至完整版的 Microsoft Teams
 ms.author: pebaum
 author: pebaum
 ms.date: 6/6/2018
@@ -11,19 +11,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 12f98e8fccaf5aa2538721fd5b4067d6de7e3ddf
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4fa566acd7fab0b43e4614c8a7c7ae76bcabaa5f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365813"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506208"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>升級至 Microsoft 小組的完整版本
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>升級至完整版的 Microsoft Teams
 
-需要從免費升級為 Microsoft 團隊的完整版本嗎？ 請參閱[升級 Microsoft 團隊免費的 Office 365 訂閱版本](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+需要從免費升級至 Microsoft Teams 的完整版本嗎？ 請參閱[Office 365 訂閱版本可用的 [升級 Microsoft Teams](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-您必須符合下列需求:
+您需要符合這些需求：
 
-- 您是註冊目前免費團隊版本的人員。
-- 如果您有自己的網域, 則它無法與 Azure Active Directory 相關聯。
-- 若要在升級時傳輸資料, 您必須在升級程式期間訂閱。 如果您在升級程式之外購買 Office 365, 您就無法傳輸資料。
+- 您正在註冊免費的 microsoft Teams 的新版的人員。
+- 如果您有自己的網域，則已不能與 Azure Active Directory 相關聯。
+- 若要傳輸資料，當您升級時，您必須訂閱升級程序期間。 如果您購買 Office 365 升級程序外，您無法將資料轉換。

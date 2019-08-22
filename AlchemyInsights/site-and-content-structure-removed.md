@@ -7,18 +7,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: d4d0f81cc129705d26a8dfeec7855350146d3dee
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 4cb7bd92ab2833d746da308277e3b2117fa1bb57
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770694"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36502258"
 ---
 # <a name="site-and-content-structure-removed"></a>網站與內容中移除的結構
 
 從 2018 年 10 月，網站內容與結構] 頁面上將不再支援或接收功能更新。 SiteManager.aspx] 頁面上的 [設定] 連結將會移除從 SharePoint Online，直接存取才會限制在網站集合系統管理員年 3 月 2019，此時 [網站內容與結構] 頁面上會完全停用。 
 
-附註： 因應措施完全淘汰的功能，直到網站集合管理員可以瀏覽至 [Office 365 入口網站-> 按一下 [SharePoint] 磚-> 附加或編輯 URL 取代 '/ Sharepoint.aspx' 與' / Sitemanager.aspx'。 
+附註： 因應措施完全淘汰的功能，直到網站集合管理員可以瀏覽至 [Office 365 入口網站-上 SharePoint] 磚 > 按一下 > 附加或編輯 URL 取代 '/ Sharepoint.aspx' 與' / Sitemanager.aspx'。 
 
 
 使用檔案移動和副本來管理網站內容與結構。 如需詳細資訊，請參閱[複製檔案和資料夾之間 OneDrive 和 SharePoint 網站](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f)。 
