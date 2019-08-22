@@ -1,5 +1,5 @@
 ---
-title: '收件匣規則: 作業失敗'
+title: 收件匣規則： 作業失敗
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1544"
 - "1800021"
-ms.openlocfilehash: 5ac1d37cf353a86bc729832efe55a8ce815b68bd
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: c36201e45945f4a718fc67682f8e1c94a012778e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382728"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499667"
 ---
-# <a name="rules-and-alerts-error-the-operation-failed"></a><span data-ttu-id="89101-102">規則及警示錯誤: 「作業失敗」</span><span class="sxs-lookup"><span data-stu-id="89101-102">Rules and Alerts error: "The Operation failed"</span></span>
+# <a name="rules-and-alerts-error-the-operation-failed"></a><span data-ttu-id="ad5ac-102">規則及通知錯誤: 「 此作業失敗 」</span><span class="sxs-lookup"><span data-stu-id="ad5ac-102">Rules and Alerts error: "The Operation failed"</span></span>
 
-<span data-ttu-id="89101-103">安裝下列更新之後, 您可能會看到收件匣規則錯誤:</span><span class="sxs-lookup"><span data-stu-id="89101-103">You may see an Inbox rules error after installing the following updates:</span></span>
+<span data-ttu-id="ad5ac-103">您可能會安裝下列更新之後，請參閱收件匣規則錯誤：</span><span class="sxs-lookup"><span data-stu-id="ad5ac-103">You may see an Inbox rules error after installing the following updates:</span></span>
 
-- [<span data-ttu-id="89101-104">Outlook 2016: 安全性更新 KB 的11月</span><span class="sxs-lookup"><span data-stu-id="89101-104">Outlook 2016: November Security Update KB</span></span>](https://support.microsoft.com/help/4461506)
-- [<span data-ttu-id="89101-105">Outlook 2013: 安全性更新 KB 的11月</span><span class="sxs-lookup"><span data-stu-id="89101-105">Outlook 2013: November Security Update KB</span></span>](https://support.microsoft.com/help/4461486)
-- [<span data-ttu-id="89101-106">Outlook 2010: 安全性更新 KB 的11月</span><span class="sxs-lookup"><span data-stu-id="89101-106">Outlook 2010: November Security Update KB</span></span>](https://support.microsoft.com/help/4461585)
+- [<span data-ttu-id="ad5ac-104">Outlook 2016: 11 月的安全性更新 KB</span><span class="sxs-lookup"><span data-stu-id="ad5ac-104">Outlook 2016: November Security Update KB</span></span>](https://support.microsoft.com/help/4461506)
+- [<span data-ttu-id="ad5ac-105">Outlook 2013: 11 月的安全性更新 KB</span><span class="sxs-lookup"><span data-stu-id="ad5ac-105">Outlook 2013: November Security Update KB</span></span>](https://support.microsoft.com/help/4461486)
+- [<span data-ttu-id="ad5ac-106">Outlook 2010: 11 月的安全性更新 KB</span><span class="sxs-lookup"><span data-stu-id="ad5ac-106">Outlook 2010: November Security Update KB</span></span>](https://support.microsoft.com/help/4461585)
 
-<span data-ttu-id="89101-107">您可以透過造訪 Outlook 錯誤來查看這個已知問題的最新狀態: 「作業[失敗 ...」選取 [管理規則] & 警示](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20)。</span><span class="sxs-lookup"><span data-stu-id="89101-107">You can see the latest status of this known issue by visiting [Outlook Error: "The operation failed..." when selecting Manage Rules & Alerts](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).</span></span>
+<span data-ttu-id="ad5ac-107">您可以看到此造訪[Outlook 錯誤已知問題的最新狀態: 「 此作業無法...」選取 [管理規則 & 提醒時](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20)。</span><span class="sxs-lookup"><span data-stu-id="ad5ac-107">You can see the latest status of this known issue by visiting [Outlook Error: "The operation failed..." when selecting Manage Rules & Alerts](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).</span></span>

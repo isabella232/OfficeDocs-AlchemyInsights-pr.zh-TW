@@ -7,16 +7,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 1c1893e40835066b1da5e95c301f21ccb0fcb4c1
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 05a9c689424ccf8b4ed5dd8ee168e640d6bb48a9
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760724"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36504166"
 ---
-# <a name="desktop-app-for-sharepoint"></a><span data-ttu-id="03a08-102">適用於 SharePoint 的桌面應用程式</span><span class="sxs-lookup"><span data-stu-id="03a08-102">Desktop app for SharePoint</span></span>
+# <a name="desktop-app-for-sharepoint"></a><span data-ttu-id="66232-102">適用於 SharePoint 的桌面應用程式</span><span class="sxs-lookup"><span data-stu-id="66232-102">Desktop app for SharePoint</span></span>
 
-<span data-ttu-id="03a08-103">您的組織在中輸入私人預覽程式桌面應用程式的 sharepoint。</span><span class="sxs-lookup"><span data-stu-id="03a08-103">Your organization is entered in the Private Preview program for the Desktop App for SharePoint.</span></span>
+<span data-ttu-id="66232-103">您的組織在中輸入私人預覽程式桌面應用程式的 sharepoint。</span><span class="sxs-lookup"><span data-stu-id="66232-103">Your organization is entered in the Private Preview program for the Desktop App for SharePoint.</span></span>
 
-<span data-ttu-id="03a08-104">Microsoft 目前不支援桌面應用程式的 SharePoint （私人預覽）。</span><span class="sxs-lookup"><span data-stu-id="03a08-104">Microsoft does not currently support the Desktop App for SharePoint (Private Preview).</span></span> <span data-ttu-id="03a08-105">請若要取得桌面應用程式與 sharepoint 的協助，使用登記的 Microsoft 私人預覽協力廠商。</span><span class="sxs-lookup"><span data-stu-id="03a08-105">Please use your enlisted Microsoft Private Preview partners to get assistance with the Desktop App for SharePoint.</span></span>
+<span data-ttu-id="66232-104">Microsoft 目前不支援桌面應用程式的 SharePoint （私人預覽）。</span><span class="sxs-lookup"><span data-stu-id="66232-104">Microsoft does not currently support the Desktop App for SharePoint (Private Preview).</span></span> <span data-ttu-id="66232-105">請若要取得桌面應用程式與 sharepoint 的協助，使用登記的 Microsoft 私人預覽協力廠商。</span><span class="sxs-lookup"><span data-stu-id="66232-105">Please use your enlisted Microsoft Private Preview partners to get assistance with the Desktop App for SharePoint.</span></span>
 

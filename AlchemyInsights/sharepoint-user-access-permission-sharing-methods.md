@@ -10,30 +10,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 61b6f12d5016085ff98cce0d4f8d293082c50f68
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 8d487ba57a63beb1910fe78652a7d83b0a2dba36
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758197"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36502553"
 ---
-# <a name="sharing-and-permission-methods-to-provide-or-restrict-user-access-to-sharepoint-site"></a><span data-ttu-id="ca9f8-102">允許或限制對 SharePoint 網站的使用者存取的共用和權限方法</span><span class="sxs-lookup"><span data-stu-id="ca9f8-102">Sharing and permission methods to provide or restrict user access to SharePoint site</span></span>
+# <a name="sharing-and-permission-methods-to-provide-or-restrict-user-access-to-sharepoint-site"></a><span data-ttu-id="603a0-102">允許或限制對 SharePoint 網站的使用者存取的共用和權限方法</span><span class="sxs-lookup"><span data-stu-id="603a0-102">Sharing and permission methods to provide or restrict user access to SharePoint site</span></span>
 
-<span data-ttu-id="ca9f8-103">建立 SharePoint 網站後，您可以允許或限制使用者存取網站或其內容。</span><span class="sxs-lookup"><span data-stu-id="ca9f8-103">After you have created a SharePoint site, you may want to provide or restrict user access to the site or its contents.</span></span> <span data-ttu-id="ca9f8-104">這可以透過各種如下所述的共用和權限方法。</span><span class="sxs-lookup"><span data-stu-id="ca9f8-104">This can be done via various sharing and permission methods noted below.</span></span>
+<span data-ttu-id="603a0-103">建立 SharePoint 網站後，您可以允許或限制使用者存取網站或其內容。</span><span class="sxs-lookup"><span data-stu-id="603a0-103">After you have created a SharePoint site, you may want to provide or restrict user access to the site or its contents.</span></span> <span data-ttu-id="603a0-104">這可以透過各種如下所述的共用和權限方法。</span><span class="sxs-lookup"><span data-stu-id="603a0-104">This can be done via various sharing and permission methods noted below.</span></span>
 
-- [<span data-ttu-id="ca9f8-105">共用 SharePoint 檔案或資料夾</span><span class="sxs-lookup"><span data-stu-id="ca9f8-105">Share SharePoint files or folders</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [<span data-ttu-id="603a0-105">共用 SharePoint 檔案或資料夾</span><span class="sxs-lookup"><span data-stu-id="603a0-105">Share SharePoint files or folders</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-- [<span data-ttu-id="ca9f8-106">共用網站</span><span class="sxs-lookup"><span data-stu-id="ca9f8-106">Share a site</span></span>](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)
+- [<span data-ttu-id="603a0-106">共用網站</span><span class="sxs-lookup"><span data-stu-id="603a0-106">Share a site</span></span>](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)
 
-- [<span data-ttu-id="ca9f8-107">當使用者取得共用連結，變更預設的連結類型</span><span class="sxs-lookup"><span data-stu-id="ca9f8-107">Change the default link type when users get links for sharing</span></span>](https://docs.microsoft.com/sharepoint/change-default-sharing-link)
+- [<span data-ttu-id="603a0-107">當使用者取得共用連結，變更預設的連結類型</span><span class="sxs-lookup"><span data-stu-id="603a0-107">Change the default link type when users get links for sharing</span></span>](https://docs.microsoft.com/sharepoint/change-default-sharing-link)
 
-- [<span data-ttu-id="ca9f8-108">停止共用 OneDrive 或 SharePoint 檔案或資料夾，或變更權限</span><span class="sxs-lookup"><span data-stu-id="ca9f8-108">Stop sharing OneDrive or SharePoint files or folders, or change permissions</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [<span data-ttu-id="603a0-108">停止共用 OneDrive 或 SharePoint 檔案或資料夾，或變更權限</span><span class="sxs-lookup"><span data-stu-id="603a0-108">Stop sharing OneDrive or SharePoint files or folders, or change permissions</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-- [<span data-ttu-id="ca9f8-109">共用和權限</span><span class="sxs-lookup"><span data-stu-id="ca9f8-109">Sharing and Permissions</span></span>](https://support.office.com/article/Sharing-and-permissions-ac85fbf1-2431-49bf-8690-f1a2b98af65f#ID0EAABAAA=Manage_permissions)
+- [<span data-ttu-id="603a0-109">共用和權限</span><span class="sxs-lookup"><span data-stu-id="603a0-109">Sharing and Permissions</span></span>](https://support.office.com/article/Sharing-and-permissions-ac85fbf1-2431-49bf-8690-f1a2b98af65f#ID0EAABAAA=Manage_permissions)
 
-- [<span data-ttu-id="ca9f8-110">開啟外部共用開啟或關閉 Sharepoint Online</span><span class="sxs-lookup"><span data-stu-id="ca9f8-110">Turn external sharing on or off for Sharepoint Online</span></span>](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [<span data-ttu-id="603a0-110">開啟外部共用開啟或關閉 Sharepoint Online</span><span class="sxs-lookup"><span data-stu-id="603a0-110">Turn external sharing on or off for Sharepoint Online</span></span>](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [<span data-ttu-id="ca9f8-111">OSE 共用 Sharepoint 和 OneDrive 中的錯誤</span><span class="sxs-lookup"><span data-stu-id="ca9f8-111">OSE Sharing errors in Sharepoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="603a0-111">OSE 共用 Sharepoint 和 OneDrive 中的錯誤</span><span class="sxs-lookup"><span data-stu-id="603a0-111">OSE Sharing errors in Sharepoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 
