@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 中的讀取回執
+title: 在 Outlook.com 中讀取回條
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,15 +14,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 9bf158d434704ec13878c78461bfeeec22a7ac81
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5c411bca304071938982406816cb945037eac2ed
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373008"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545286"
 ---
-# <a name="read-receipts"></a><span data-ttu-id="234db-102">閱讀回執</span><span class="sxs-lookup"><span data-stu-id="234db-102">Read receipts</span></span>
+# <a name="read-receipts"></a><span data-ttu-id="bd043-102">讀信回條</span><span class="sxs-lookup"><span data-stu-id="bd043-102">Read receipts</span></span>
 
-<span data-ttu-id="234db-103">您無法在 Outlook.com 中要求閱讀回執, 但是您可以為使用 Outlook for Windows 傳送的 Outlook.com 郵件要求讀取回執。</span><span class="sxs-lookup"><span data-stu-id="234db-103">You can't request a read receipt in Outlook.com, but you can request read receipts for Outlook.com messages sent using Outlook for Windows.</span></span> <span data-ttu-id="234db-104">若要深入瞭解, 請參閱[新增和要求讀取回執和傳遞通知](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="234db-104">To learn how, see [Add and request read receipts and delivery notifications](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="bd043-103">您無法要求讀信回條中 Outlook.com，但您可以要求讀信回條 Outlook.com 傳送的郵件使用 Outlook for Windows。</span><span class="sxs-lookup"><span data-stu-id="bd043-103">You can't request a read receipt in Outlook.com, but you can request read receipts for Outlook.com messages sent using Outlook for Windows.</span></span> <span data-ttu-id="bd043-104">若要深入了解，請參閱[Add 和要求讀取回條及傳送通知](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="bd043-104">To learn how, see [Add and request read receipts and delivery notifications](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   
-<span data-ttu-id="234db-105">若要選擇 Outlook.com 如何回應閱讀回執要求, 請移至 [[閱讀回執設定](https://outlook.live.com/mail/options/mail/handling/readReceipts)]。</span><span class="sxs-lookup"><span data-stu-id="234db-105">To choose how Outlook.com responds to read receipt requests, go to [Read receipt settings](https://outlook.live.com/mail/options/mail/handling/readReceipts).</span></span>
+<span data-ttu-id="bd043-105">若選擇 Outlook.com 讀取回條要求的回應方式，請移至 [[讀取回條設定](https://outlook.live.com/mail/options/mail/handling/readReceipts)。</span><span class="sxs-lookup"><span data-stu-id="bd043-105">To choose how Outlook.com responds to read receipt requests, go to [Read receipt settings](https://outlook.live.com/mail/options/mail/handling/readReceipts).</span></span>
