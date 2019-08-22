@@ -13,12 +13,12 @@ ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.custom:
 - "9000213"
 - "1788"
-ms.openlocfilehash: 6e9287d10b4ac436ecd7a2ab3a014d8f9216fb33
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 409845a2e62aaeb6027a4c9120f5fc84d9c9722a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36269259"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36503302"
 ---
 # <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>下載或防止下載的檔案從 OneDrive 或 SharePoint
 

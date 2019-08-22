@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: 9a5b157bb70e6c1ff445a2b51d0dca8f30890f4c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d5d1da516104d7c062038551142cdd9ccaad4407
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408207"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36504958"
 ---
 # <a name="configure-sharepoint-audit-settings"></a>設定 SharePoint 的稽核設定
 

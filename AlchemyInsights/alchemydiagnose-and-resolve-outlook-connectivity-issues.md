@@ -1,5 +1,5 @@
 ---
-title: Alchemy-診斷和解決 Outlook 連線問題
+title: 魔力-診斷及解決 Outlook 連線問題
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: 526b256dce0c0944f9d91bc586a98212f7963e11
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1072e12a74f708007cf9b89c989a9cc96510c2b9
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357524"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505445"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>診斷和解決 Outlook 連線問題
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>診斷及解決 Outlook 連線問題
 
-若要診斷和修正您的 Outlook 連線問題, 您可以在受影響的機器上執行[outlook 連線工具](https://aka.ms/SaRA-OutlookDisconnect-Alchemy)。
+以診斷並修正您的 Outlook 連線問題之後，您可以在受影響的電腦上執行[Outlook 連線工具](https://aka.ms/SaRA-OutlookDisconnect-Alchemy)。
   
-此工具會執行診斷檢查, 並建議您解決 Outlook 連線問題的可能解決方案。
+此工具會執行診斷檢查，並建議為您解決 Outlook 連線問題可能的解決方案。
   

@@ -1,5 +1,5 @@
 ---
-title: 606委派的資訊
+title: 606 委派的詳細資訊
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: dddff0f6ab0fec8d2f8cac41ca3440d181f1dc67
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7a4d3104072919a604ce828f95d59a7d1412a7b7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382440"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499090"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>疑難排解 Outlook 和 Outlook 網頁版中的委派
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>疑難排解 Outlook 和 outlook 網頁版中的委派
 
-**使用 SaRA 工具進行疑難排解:**
+**疑難排解使用 SaRA 工具：**
 
-1. 從這裡下載並安裝 SaRA 工具
-1. 選取 [Outlook], 然後按一下 [我的行事曆有問題]。
-1. 對受影響的機器說「是」
-1. 新增受影響使用者的電子郵件地址
-1. 選取「我有委派許可權的問題」
-1. 在下一個提示時, 如果您是授與許可權的人員, 請輸入代理人的電子郵件地址。 如果您收到許可權, 且您是代理人, 請輸入授予您許可權之人員的電子郵件地址。
-1. 在下一個功能表中, 選取符合您案例的選項。
-1. 在下一個功能表中, 選取許可權等級。
-1. 在此階段中, SaRA 工具會執行自動檢查, 並提供可能的解決方法, 也會提供診斷記錄, 以供進一步疑難排解。
-1. 您可以在位於 C:\Users\Username\AppData\Local\SaraResults 的 SaRA 結果資料夾中找到記錄檔
+1. 下載並安裝 SaRA 工具從這裡
+1. 選取 [Outlook]，然後 「 我所遇到的問題與我的行事曆 」
+1. 回答 [是] 的受影響的電腦
+1. 新增受影響之使用者的電子郵件地址
+1. 選取 「 我所遇到的委派權限問題 」
+1. 在下一個提示字元中，如果您是授與權限的人員，輸入您的代理人的電子郵件地址。 如果您收到的權限，而您是代理人，請輸入提供給您的權限的人員的電子郵件地址。
+1. 在下一步] 功能表中，選取適合您案例的選項。
+1. 在下一步] 功能表中，選取 [權限等級。
+1. 在這個階段中，SaRA 工具會執行自動的檢查，它會提供您可行的解決方法或或者會提供可用於更多疑難排解的診斷記錄。
+1. 您可以在位於 C:\Users\Username\AppData\Local\SaraResults SaRA 結果資料夾中尋找記錄檔

@@ -1,5 +1,5 @@
 ---
-title: 將 SharePoint 文件庫對應至網路磁碟機
+title: 對應網路磁碟機的 SharePoint 文件庫
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: ''
 ms.custom: ''
 ms.assetid: ''
-ms.openlocfilehash: c22b44b078e889de88382d2368253427cb9b3535
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: e0ae8bffe12df1066f27625e2b57e7e2fb11fb2d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34703359"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496930"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>將 SharePoint 文件庫對應至網路磁碟機
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>對應網路磁碟機的 SharePoint 文件庫
 
-將文件庫對應為網路磁片磁碟機是臨時性的, 而且僅支援透過 Internet Explorer。 相反地, 請[將 SharePoint 檔案與新的 OneDrive 同步處理用戶端同步處理](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx), 以[根據需要](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)提供檔案。 不使用本機儲存空間來存取 OneDrive 中的所有檔案。
+對應網路磁碟機為文件庫會暫時和只能透過 Internet Explorer 支援。 相反地，[同步處理 SharePoint 檔案與新的 OneDrive 同步處理用戶端](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx)提供[檔案隨選](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)。 存取您在 OneDrive 中的所有檔案，而不使用本機儲存空間。
   
-[取得關於設定和疑難排解對應網路磁片磁碟機的說明](https://go.microsoft.com/fwlink/?linkid=872946)
+[取得說明設定與疑難排解對應的網路磁碟機](https://go.microsoft.com/fwlink/?linkid=872946)
   
 

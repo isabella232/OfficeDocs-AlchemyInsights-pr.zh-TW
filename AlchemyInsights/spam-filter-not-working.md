@@ -12,14 +12,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: 642b17adc4c362394995ff78dfc8a237a6484a12
-ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.openlocfilehash: 53dcda5ca13c033e74d6d25ccf1e610752e0ca79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35704600"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501286"
 ---
 # <a name="spam-filter-not-working"></a>垃圾郵件篩選器無法運作
 
-如果您認為您是否已接收的郵件是否網路釣魚詐騙詐騙，將郵件標記為垃圾郵件，然後移至**垃圾郵件**，選取 [訊息]，然後選取 [**不是垃圾郵件** \> **網路釣魚**將標示為網路釣魚詐騙郵件。 若要深入了解濫用、 網路釣魚和詐騙，請[閱讀本文](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy)。 若要封鎖電子郵件地址、 將地址或網域新增至您的安全寄件者清單，或套用其他垃圾郵件] 選項，選取 [**垃圾郵件選項**。
+如果您認為您已在 Outlook.com 中接收的郵件是否網路釣魚詐騙詐騙，選取郵件，並選取 [**垃圾郵件** \> **網路釣魚**將標示為網路釣魚詐騙郵件。 若要深入了解濫用、 網路釣魚和詐騙，請[閱讀本文](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy)。 若要封鎖電子郵件地址、 將地址或網域新增至您的安全寄件者清單，或套用其他垃圾郵件] 選項，選取 [**垃圾郵件選項**。
   

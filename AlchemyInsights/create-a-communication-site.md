@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: b526a87740c44d2b247c202a92d9c35f85383500
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0ab2877a6192af1bf88016ca9cff5ec0aa967e5f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407569"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516267"
 ---
 # <a name="create-a-communication-site"></a>建立通訊網站
 
-若要建立通訊網站，請完成下列步驟： 
+若要在 SharePoint Online 中建立通訊網站，請完成下列步驟： 
   
 1. 在頁面左上角，按一下 [應用程式啟動器，選取 [SharePoint] 磚。 如果您沒有看到 [SharePoint] 磚，按一下 [**網站**] 或 [**所有應用程式**如果看不到 SharePoint。 
     

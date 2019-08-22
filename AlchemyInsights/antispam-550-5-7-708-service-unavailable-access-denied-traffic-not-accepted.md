@@ -1,5 +1,5 @@
 ---
-title: 1047反垃圾郵件 550 5.7.708 服務無法使用。 拒絕存取, 無法從這個 IP 接受流量
+title: 1047 反垃圾郵件 550 5.7.708 服務無法使用。 存取被拒，不接受來自此 IP 的流量
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: a35f0f7871dc8af5e38a1581cf145c7ff6a63b32
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 97a1e855730baba32768109f0fc4da29fe8e4e93
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356804"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505102"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 拒絕存取, 未接受此 IP 的流量
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>拒絕存取 550 5.7.708，流量不接受來自此 IP
 
-從已知、低信譽 IP 位址傳送電子郵件 (通常是由新客戶使用) 時, 就會發生此錯誤。
+從已知、 低信譽通常由新的客戶的 IP 位址傳送電子郵件時，會發生這個錯誤。
 
-如果您必須先從這些 IP 位址傳送電子郵件, 才能購買授權, 請聯繫支援部門要求例外, 直到您能夠購買授權為止。
+如果您必須來自這些 IP 位址傳送電子郵件，您可以購買授權之前，連絡客戶支援要求的例外狀況，直到您能夠購買的授權。

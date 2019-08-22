@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 66d20ca17287ee762266a22a376f59f5f8975a00
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c6ac69ab9a6063b2f42542c05cd7d21ec7d7be57
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399384"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495094"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>建立或新增使用者的電子郵件別名
 

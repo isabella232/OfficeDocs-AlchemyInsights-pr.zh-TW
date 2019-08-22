@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397925"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505822"
 ---
 # <a name="outlook-search-not-indexing"></a>Outlook 搜尋無法編製索引
 
 我們已經知道 Windows 版 Outlook 搜尋問題相關至最近使用的安全性更新。
   
-當您在 Outlook 中搜尋，您可能會收到此錯誤: * * 發生錯誤，無法完成您的搜尋 * *，或**搜尋結果可能不完整，因為仍在編製索引的項目**。 修正所發出為選用的 Windows 更新。 請安裝對應至您會看見這個問題的 Windows 版本的一個： 
+當您在 Outlook 中搜尋，您可能會收到下列其中一個這些錯誤：**發生錯誤，無法完成您的搜尋**，或**搜尋結果可能不完整，因為仍在編製索引的項目**。 修正所發出為選用的 Windows 更新。 請安裝對應至您會看見這個問題的 Windows 版本的一個： 
   
 > [Windows 7-2017 年 6 月 27 日更新](https://support.microsoft.com/kb/4022168.aspx)
     
