@@ -12,16 +12,16 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701422"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537448"
 ---
 # <a name="change-your-email-name"></a>變更您的電子郵件名稱
 
-如果您有一個電子郵件地址，而且想要變更的名稱收件者會看到您的郵件中：
+如果您有一個 Outlook.com 電子郵件地址，而且想要變更的名稱收件者會看到您的郵件中：
   
 1. 選取您的帳戶圖片，在頁面的右上角。
 2. 選取 [**我的設定檔**。

@@ -1,5 +1,5 @@
 ---
-title: 597 Microsoft 預約應用程式
+title: 597 Microsoft Bookings 應用程式
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: ff684984060e71cdcabe600d3a083db5816d432a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 080605b91f6efd2caf510f0086519bf6c78e3969
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380280"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544890"
 ---
-# <a name="microsoft-bookings-app"></a>Microsoft 預約應用程式
+# <a name="microsoft-bookings-app"></a>Microsoft Bookings 應用程式
 
-若要疑難排解新的預定應用程式中的問題, 請參閱預約[文章](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092)。
+Microsoft Bookings 是排程應用程式來協助您 bookings，您的員工，以及您的客戶追蹤的約會。 資訊或疑難排解 Bookings 應用程式，請參閱[Bookings 文件](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092)。

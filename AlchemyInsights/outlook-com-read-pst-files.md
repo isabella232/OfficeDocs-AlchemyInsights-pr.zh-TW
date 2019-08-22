@@ -13,12 +13,12 @@ ms.custom:
 - "1761"
 - "1771"
 - "9000199"
-ms.openlocfilehash: fda78891486aa17efee91ca6653227e639006ba6
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "35612478"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535598"
 ---
 # <a name="pst-data-files-in-outlookcom"></a>在 Outlook.com 中的 PST 資料檔案
 

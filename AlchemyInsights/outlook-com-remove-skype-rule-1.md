@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: 08ad9846feb52242459274f0ca75fa8facbd38e3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4ce51c6bc7af6cf1cd6d82feeff0d9be9159bdbd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372648"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535094"
 ---
-# <a name="skype-icon-missing"></a>遺失 Skype 圖示
+# <a name="skype-icon-missing"></a>遺失的 Skype 圖示
 
-我們已暫時將 Skype 圖示從 Outlook.com 中移除, 做為設計重新整理的一部分, 而功能更新則非常高興。我們在準備新的和改善的體驗時, 感謝您的耐心。
+我們已從暫時移除的 Skype 圖示 Outlook.com 我們目前興奮，會推出的設計重新整理] 和 [功能更新的一部分。我們歡迎您耐心等候，雖然我們為您準備新增及改良的體驗。
 
-您仍然可以在[web.skype.com](https://web.skype.com/)中使用 Skype 流覽瀏覽器。
+您仍然可以使用 Skype 透過[web.skype.com](https://web.skype.com/)在瀏覽器。

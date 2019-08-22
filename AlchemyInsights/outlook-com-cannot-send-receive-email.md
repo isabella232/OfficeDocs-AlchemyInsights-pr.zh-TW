@@ -9,12 +9,12 @@ ms.topic: article
 ms.custom: 9000251
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b27659802aa69ab372fe4ed22bff5fccdc23ff33
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 16801b9166e6b009e6c296dcf5a505d9a2b2f943
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419080"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537831"
 ---
 # <a name="cant-send-or-receive-email-in-outlookcom"></a>無法傳送或接收電子郵件中 Outlook.com
 

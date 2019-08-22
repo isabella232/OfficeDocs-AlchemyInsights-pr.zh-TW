@@ -12,16 +12,16 @@ ms.custom:
 - "1271"
 - "1963"
 - "8000078"
-ms.openlocfilehash: 6b3b8d2136236abe7ca71c613f5c991a67bf4f99
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: 0699b73e9df875f4fee2bb169540b43e48a72a95
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36049095"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536426"
 ---
 # <a name="empty-inbox"></a>空的收件匣
 
-**是空的我的收件匣**
+**我 Outlook.com 收件匣] 是空**
 
 - 某些 Firefox 瀏覽器中的附加元件可能會防止載入的收件匣。 請造訪 Firefox 支援，以了解如何[停用或移除附加元件](https://support.mozilla.org/kb/disable-or-remove-add-ons)。
 
