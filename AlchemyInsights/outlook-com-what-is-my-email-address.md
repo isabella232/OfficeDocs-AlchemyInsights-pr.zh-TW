@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 385865b4ff8827a2f26dac5ba61af9a12a555f5c
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: b7cd4910bea61f438e23dd2a520570d58d42bc22
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36166071"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511479"
 ---
-# <a name="see-your-own-email-address"></a><span data-ttu-id="58b48-102">請參閱您自己的電子郵件地址</span><span class="sxs-lookup"><span data-stu-id="58b48-102">See your own email address</span></span>
+# <a name="see-your-own-outlookcom-email-address"></a><span data-ttu-id="adad4-102">請參閱您自己的 Outlook.com 電子郵件地址</span><span class="sxs-lookup"><span data-stu-id="adad4-102">See your own Outlook.com email address</span></span>
 
-<span data-ttu-id="58b48-103">若要查看您傳送電子郵件時所使用的預設電子郵件地址，請移至您的[同步處理電子郵件設定](https://outlook.live.com/mail/options/mail/accounts)，並查看 [**設成預設值從地址**。</span><span class="sxs-lookup"><span data-stu-id="58b48-103">To see the default email address you use when sending email, go to your [Sync email settings](https://outlook.live.com/mail/options/mail/accounts) and look under **Set default From address**.</span></span>
+<span data-ttu-id="adad4-103">若要查看您傳送電子郵件時所使用的預設電子郵件地址，請移至您的[同步處理電子郵件設定](https://outlook.live.com/mail/options/mail/accounts)，並查看 [**設成預設值從地址**。</span><span class="sxs-lookup"><span data-stu-id="adad4-103">To see the default email address you use when sending email, go to your [Sync email settings](https://outlook.live.com/mail/options/mail/accounts) and look under **Set default From address**.</span></span>
 
-<span data-ttu-id="58b48-104">如果您已連接其他電子郵件帳戶到您的 Outlook.com 帳戶，您可以選擇從該位址傳送電子郵件。</span><span class="sxs-lookup"><span data-stu-id="58b48-104">If you've connected another email account to your Outlook.com account, you can choose to send email from that address.</span></span>
+<span data-ttu-id="adad4-104">如果您已連接其他電子郵件帳戶到您的 Outlook.com 帳戶，您可以選擇從該位址傳送電子郵件。</span><span class="sxs-lookup"><span data-stu-id="adad4-104">If you've connected another email account to your Outlook.com account, you can choose to send email from that address.</span></span>
 
-1. <span data-ttu-id="58b48-105">選取三個點</span><span class="sxs-lookup"><span data-stu-id="58b48-105">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- <span data-ttu-id="58b48-106">底部的撰寫] 視窗和選取 [**顯示從** 若要查看寄件者。</span><span class="sxs-lookup"><span data-stu-id="58b48-106">at the bottom of the compose window and select **Show From** to see the From line.</span></span>
-2. <span data-ttu-id="58b48-107">上方] 列中選取 [ **從** ，然後選擇您想要使用哪一個電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="58b48-107">Above the To line, select **From** and choose which email address you want to use.</span></span>
+1. <span data-ttu-id="adad4-105">選取三個點</span><span class="sxs-lookup"><span data-stu-id="adad4-105">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ <span data-ttu-id="adad4-106">底部的撰寫] 視窗和選取 [**顯示從** 若要查看寄件者。</span><span class="sxs-lookup"><span data-stu-id="adad4-106">at the bottom of the compose window and select **Show From** to see the From line.</span></span>
+2. <span data-ttu-id="adad4-107">上方] 列中選取 [ **從** ，然後選擇您想要使用哪一個電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="adad4-107">Above the To line, select **From** and choose which email address you want to use.</span></span>
 
-<span data-ttu-id="58b48-108">深入了解[在 Outlook.com 中不同的地址傳送電子郵件](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="58b48-108">Learn more about [sending email from a different address in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="adad4-108">深入了解[在 Outlook.com 中不同的地址傳送電子郵件](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="adad4-108">Learn more about [sending email from a different address in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

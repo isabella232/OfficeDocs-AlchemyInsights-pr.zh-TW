@@ -1,5 +1,5 @@
 ---
-title: 611行事曆共用
+title: 611 行事曆共用
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,17 +13,17 @@ ms.custom:
 - "611"
 - "3800009"
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
-ms.openlocfilehash: 76be981ad21534a2824a34eaa511e65dbc67e852
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 460e5b10f600dba22d82026c873651d09e188546
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359828"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518390"
 ---
-# <a name="calendar-sharing"></a><span data-ttu-id="5d8dd-102">行事曆共用</span><span class="sxs-lookup"><span data-stu-id="5d8dd-102">Calendar sharing</span></span>
+# <a name="calendar-sharing"></a><span data-ttu-id="fe60c-102">行事曆共用</span><span class="sxs-lookup"><span data-stu-id="fe60c-102">Calendar sharing</span></span>
 
-<span data-ttu-id="5d8dd-103">如需詳細資訊, 請參閱下列主題:</span><span class="sxs-lookup"><span data-stu-id="5d8dd-103">For more information, see these topics:</span></span>
+<span data-ttu-id="fe60c-103">如需詳細資訊，請參閱下列主題：</span><span class="sxs-lookup"><span data-stu-id="fe60c-103">For more information, see these topics:</span></span>
   
-- [<span data-ttu-id="5d8dd-104">與其他人共用 Outlook 行事曆</span><span class="sxs-lookup"><span data-stu-id="5d8dd-104">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [<span data-ttu-id="fe60c-104">與其他人共用 Outlook 行事曆</span><span class="sxs-lookup"><span data-stu-id="fe60c-104">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-- [<span data-ttu-id="5d8dd-105">在商務用 Outlook 網頁版中共用您的行事曆</span><span class="sxs-lookup"><span data-stu-id="5d8dd-105">Share your calendar in Outlook on the web for business</span></span>](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [<span data-ttu-id="fe60c-105">共用商務用網頁型 Outlook 中的行事曆</span><span class="sxs-lookup"><span data-stu-id="fe60c-105">Share your calendar in Outlook on the web for business</span></span>](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
