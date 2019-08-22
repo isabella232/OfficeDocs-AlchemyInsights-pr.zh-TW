@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
-ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: bccd19399ada810007ef810444822e58b3d3fcfb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "30404954"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36515510"
 ---
 # <a name="create-apps-with-powerapps"></a>使用 PowerApps 建立 App
 

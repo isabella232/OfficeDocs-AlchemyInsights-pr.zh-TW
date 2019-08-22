@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403666"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527462"
 ---
 # <a name="enable-multi-factor-authentication"></a>啟用多重要素驗證
 
-1. 瀏覽至**使用者** \> **作用中使用者**
+若要啟用 Microsoft 365 系統管理中心中的多重要素驗證：
+
+1. 移至**使用者** \> **作用中使用者**頁面。
     
-2. 按一下 [**更多** \> **安裝 Azure 多重要素驗證**。 
+2. 在頁面頂端，選取 [**多重要素驗證**]。 
     
-3. 尋找您想要啟用 MFA 的人員的使用者。 若要查看所有使用者，您可能需要變更頂端的多重要素驗證狀態] 檢視。
+3. 尋找使用者或想要啟用多重要素驗證的使用者。 若要查看所有使用者，您可能需要變更頂端的**多重要素驗證狀態**篩選。
     
-4. 請檢查您想要啟用的使用者旁的核取方塊。
+4. 選取您想要啟用的使用者旁的核取方塊。
     
-5.  在 [權限的使用者資訊] 窗格中，[**快速步驟**] 下，將請參閱 Enable 和管理使用者設定。 選擇 [啟用]****。 
+5.  權限的使用者資訊] 窗格中，[**快速步驟**，選取 [**啟用**]。 
     
-6. 在對話方塊中，會開啟，**按一下 [啟用多重要素驗證**。 
+6. 在 [開啟] 對話方塊方塊中，選取 [**啟用多重要素驗證**。 
     
 

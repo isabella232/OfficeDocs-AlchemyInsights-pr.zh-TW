@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: ab51b12a1005bfe304114065d05af2bbf5390567
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1708cc461888d903531422f9d272db12e8dd142f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420727"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530785"
 ---
 # <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>未顯示在 [群組] 清單中您群組"{AimKIObject}"
 
