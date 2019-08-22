@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1350"
 - "8000084"
-ms.openlocfilehash: b6863eaa0488207f3ac4b999168a58bc6cea84ce
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: b54c7d21dc3cc8f027f7c5d9136a361657d416f0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36048951"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546042"
 ---
 # <a name="email-and-storage-quota-in-outlookcom"></a>在 Outlook.com 中的電子郵件和儲存配額
 

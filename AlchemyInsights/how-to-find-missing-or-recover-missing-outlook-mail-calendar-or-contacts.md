@@ -1,5 +1,5 @@
 ---
-title: 204如何尋找遺失或復原遺失的 Outlook 郵件、行事曆或連絡人
+title: 204 如何尋找遺失或復原遺失 Outlook 郵件、 行事曆或連絡人
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,19 +13,19 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 9bf97ec7c5eee2218419cac73f23126086dd5c6e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ffedca61f5915c0a32a7e0ca903703802667b64e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384528"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540640"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>如何在 Outlook 中尋找及復原遺失的郵件、連絡人或行事曆專案
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>如何尋找並復原遺失的郵件、 連絡人或在 Outlook 中的行事曆項目
 
-- 您可以使用在受影響的機器上傳送[、接收或尋找電子郵件訊息工具時發生問題](https://aka.ms/SaRA-OutlookSendReceive)。 此工具會檢查許多問題, 並建議可能的解決方案。
+- 您可以使用[我所遇到問題傳送、 接收或找出電子郵件訊息工具](https://aka.ms/SaRA-OutlookSendReceive)，在受影響的電腦上。 此工具會檢查問題的數目，並將會建議可能的解決方案。
 
-- [判斷帳戶是否受到盜用](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)。 如果遭到破壞, 請遵循在[Office 365 中回應受損電子郵件帳戶](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)的步驟。
+- [判斷帳戶是否受到盜用](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)。 如果危害，請遵循步驟[回應中 Office 365 遭入侵電子郵件帳戶。](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)
 
-- [使用 [立即搜尋] 尋找郵件或專案](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+- [找出的郵件或使用立即搜尋的項目](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
 
 - [在 Windows 版 Outlook 復原已刪除的項目](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)

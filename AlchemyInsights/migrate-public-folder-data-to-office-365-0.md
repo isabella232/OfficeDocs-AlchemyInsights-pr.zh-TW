@@ -1,5 +1,5 @@
 ---
-title: 將公用資料夾資料移轉至 Office 365
+title: 將公用資料夾資料移轉到 Office 365
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -12,24 +12,24 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 4e870f153b37e141aa641c4a85a8d759a600ceed
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9bf21c6377d4587032cac0549d6e57ee0749c437
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379992"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544349"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a>將公用資料夾資料移轉至 Office 365
+# <a name="migrate-public-folder-data-to-office-365"></a>將公用資料夾資料移轉到 Office 365
 
-如果您沒有大量的公用資料夾可引入 Office 365, 將資料複製到的最簡單方法就是將資料複製到中。PST 檔案, 然後將它們匯入 Office 365。 對於少量的資料, 簡單的將公用資料夾拖放到其中。PST 檔案可能已足夠。 如果您的資料超過該數目 (最多 30GB), 我們已[記錄](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx)您可以用來將資料夾匯出至 PST 檔案的程式。
+如果您沒有將移入 Office 365 的公用資料夾的很多，使其最簡單的方法是複製資料匯入。PST 檔案，並再將它們匯入 Office 365。 少量資料中，為一種簡單將拖放到公用資料夾。PST 檔案可以足夠。 如果您有超過該 （最多 30 GB） 的詳細資料，我們有[所記載的程序](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx)，您可以使用 [匯出至 PST 檔案的資料夾。
   
-對於將公用資料夾移至 Office 365 的大型組織, 我們有數個可用的輔助線:
+針對較大型組織中會將公用資料夾移到 Office 365，我們有幾個指南可：
   
-- [遷移舊版公用資料夾](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx)(Exchange 2010 及更舊版本)
+- [移轉舊版公用資料夾](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx)(Exchange 2010 和更早版本)
 
-- [遷移 Exchange 2013 公用資料夾](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
+- [Exchange 2013 公用資料夾移轉](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
 
-- [遷移 Exchange 2016 公用資料夾](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
+- [Exchange 2016 的公用資料夾移轉](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
 
-您也可以選擇將[公用資料夾遷移至 Office 365 群組](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx)。
+您也可以選擇来[移轉到 Office 365 群組的公用資料夾](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx)。
   

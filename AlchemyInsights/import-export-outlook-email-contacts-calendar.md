@@ -1,5 +1,5 @@
 ---
-title: 1221-匯入-匯出-outlook-電子郵件-連絡人-行事曆
+title: 1221-import-export-outlook-email-contacts-calendar
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: f950e24039f57d5c1458265fadf0c6c8e943b16e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382800"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545146"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>匯入及匯出 Outlook 電子郵件、連絡人及行事曆專案
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>匯入及匯出 Outlook 電子郵件、 連絡人及行事曆項目
 
-1. 在 Outlook 中, **** 按一下 [檔案]。
+1. 在 Outlook 中，按一下 [**檔案**]。
 
-2. 按一下 [**開啟 & 匯出**], 然後按一下 [匯**入/匯出**]。
+2. 按一下 [**開啟 & 匯出**，，然後按一下 [**匯入/匯出**。
 
-    這會啟動 [匯入及匯出] 嚮導。
+    這會啟動匯入及匯出精靈]。
 
-如需適用于 Outlook 的完整匯入和匯出指示, 請參閱[本文](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)。
+完成設定匯入和匯出 Outlook 的指示，請參閱[這篇文章](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)。
 
-如果您是系統管理員, 而且想要大量將多個 PST 檔案匯入至 Office 365 信箱, 請參閱[本文](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)。
+如果您是系統管理員，而且想要大量匯入多個 PST 檔案複製到 Office 365 信箱，請參閱[這篇文章](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)。

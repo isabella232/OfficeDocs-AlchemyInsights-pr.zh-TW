@@ -12,12 +12,12 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: e12979eab0a5d7aada04e42403241bbc54d1f105
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3a1cc0b5cfed4a149641a1295898c8f0b77797dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389280"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529622"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>您是否將合法的郵件標示為垃圾郵件？
 

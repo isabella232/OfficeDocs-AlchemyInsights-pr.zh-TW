@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: d241612ec41247c36aa5806429c5b7b547e02098
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: 9a96bb18d06814164cd54e8183f67f2d2db55eac
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701278"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546078"
 ---
 # <a name="account-locked"></a>帳戶鎖定
 
-如果嘗試登入時，您會看到 「 已鎖定您的帳戶 」 的訊息，，是因為我們已經注意到某些不尋常的活動，在您的帳戶。 為了協助您免受潛在詐騙或濫用，我們已暫時鎖定您的帳戶。 我們知道這是令人沮喪，但是我們可以幫助您得到您只需要幾個步驟的帳戶。
+如果嘗試登入 Outlook.com 時，您會看到 「 已鎖定您的帳戶 」 的訊息，，是因為我們已經注意到某些不尋常的活動，在您的帳戶。 為了協助您免受潛在詐騙或濫用，我們已暫時鎖定您的帳戶。 我們知道這是令人沮喪，但是我們可以幫助您得到您只需要幾個步驟的帳戶。
 
 1. 移至 [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484)並登入您鎖定的帳戶。若要解除鎖定您的帳戶，您必須輸入從 Microsoft 提供的文字訊息的安全性程式碼。 若要取得的文字訊息，您必須具有支援文字訊息的電話號碼。 如果您的手機不支援文字訊息，您可以要求朋友或家族成員使用其電話。 Microsoft 不會儲存此電話號碼，讓您用來接收此文字訊息的電話號碼不一定要與您的帳戶相關聯。
 2. 如果您看到 「 超過流量限制 」 的訊息，請移至[帳戶 Reinstatement](https://go.microsoft.com/fwlink/?linkid=2090483) 與下列其中一個我們代理程式會檢閱您的帳戶。

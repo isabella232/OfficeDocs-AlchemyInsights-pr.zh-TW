@@ -12,12 +12,12 @@ ms.custom:
 - "1412"
 - "1413"
 - "8000091"
-ms.openlocfilehash: c1986cf591e9d2325bc8a89771b627ca3c719784
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35602062"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545466"
 ---
 # <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com 已準備好進行質數時間
 
