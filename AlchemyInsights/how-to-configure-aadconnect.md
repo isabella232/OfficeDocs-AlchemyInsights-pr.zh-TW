@@ -1,5 +1,5 @@
 ---
-title: 646如何設定 AADConnect
+title: 646 如何設定 AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,25 +12,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 0569cb10c1d1dd422709de5d2569e43ee9d75386
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 316d7253494c55a9bc94797d493897c2ddec516c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385321"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541576"
 ---
 # <a name="configure-sync-features"></a>設定同步處理功能
 
-Azure AD Connect 包含若干預設啟用的功能, 或您可以稍後啟用的功能。 某些功能需要在特定環境中進行其他設定。
+Azure AD Connect 包含數個功能，已啟用根據預設，或更新版本，您可以啟用。 有些功能需要在特定環境的其他設定。
 
-- [篩選](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering)會限制將物件同步處理至 Azure AD。 依預設, 會同步處理所有使用者、連絡人、群組及 Windows 10 電腦帳戶。 您可以根據網域、Ou 或其他屬性來包含或排除物件。
+- [篩選](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering)限制物件同步處理到 Azure AD。 依預設，所有使用者、 連絡人、 群組及 Windows 10 電腦帳戶已同步處理。 您可以包含或排除依據網域、 Ou、 或其他屬性的物件。
 
-- [密碼雜湊同步](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization)處理會將密碼雜湊從內部部署 Active Directory 同步處理至 Azure AD。 這可讓您在一個位置使用密碼管理, 但在內部部署和雲端環境中使用相同的密碼。 因為 Active Directory 是授權來源, 您可以使用自己的密碼原則。
+- [密碼雜湊同步處理](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization)會同步處理到 Azure AD 從內部部署 Active Directory 密碼雜湊。 這可讓密碼管理在一個位置，但使用相同的密碼，在這兩個內部部署和雲端環境。 因為 Active Directory 的授權來源，您可以使用您自己的密碼原則。
 
-- [自助密碼重設 (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr)可讓使用者在自己的內部部署密碼原則中重設自己在雲端中的密碼。
+- [自助式密碼重設 (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr)允許使用者自行重設密碼定域機組中的時，仍然套用您內部部署的密碼原則。
 
-- [裝置回寫](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback)允許 Azure AD 中的註冊裝置被寫回至內部部署 Active Directory, 讓它們可用於條件式存取。
+- [裝置寫回](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback)寫回至內部部署 Active Directory 讓他們可以使用條件式存取的 Azure AD 中允許已註冊的裝置。
 
-- [防止意外刪除](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes)預設為啟用, 以協助防止過多的同時刪除物件 (每個同步處理500個以上的物件)。 您可以變更此設定, 以符合組織的需求。
+- [防止意外刪除](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes)預設會啟用，協助防範太多同時刪除的物件 （同步處理每個超過 500 個物件）。 您可以變更此設定以符合組織的需求。
 
-- 預設會為快速安裝啟用[自動升級](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade), 並協助確保您的 Azure AD Connect 版本永遠是最新的。
+- 快速安裝預設會啟用[自動升級](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)，以協助確保您的 Azure AD Connect 版本永遠是最新。

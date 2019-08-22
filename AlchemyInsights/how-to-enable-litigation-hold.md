@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 5d88e5bf12d244943e1d985522deb2443f6bb844
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937849"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540748"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>信箱置於合法持有
 
@@ -26,4 +26,4 @@ ms.locfileid: "35937849"
 
 - 若要啟用訴訟暫止狀態的單一使用者，[請遵循下列步驟](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)。 啟用訴訟暫止狀態時，會保留在信箱中的所有內容。
 
-- 若要保留組織中的所有信箱，您可以遵循[下列步驟](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-litigation-hold)使用 Office 365 保留原則。 請注意，整個組織的保留原則，新的使用者將會自動指派給原則。
+- 若要保留組織中的所有信箱，您可以遵循[下列步驟](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold)使用 Office 365 保留原則。 請注意，整個組織的保留原則，新的使用者將會自動指派給原則。

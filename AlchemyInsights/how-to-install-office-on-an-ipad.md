@@ -13,15 +13,15 @@ ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
 ms.custom:
 - "649"
 - "2000016"
-ms.openlocfilehash: d618726191e2343f17e7690b807fa854959ac852
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: c6fc0c5f6c05767df6a4b2a5686b4383f4309047
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384636"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540352"
 ---
 # <a name="how-to-install-office-on-an-ipad"></a>如何在 iPad 上安裝 Office
 
-- 讓使用者從行動裝置 (Word、Excel、PowerPoint 和 OneNote)[點擊 [下載] 連結](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA)。
+- 擁有使用者[點選的下載連結](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA)從其行動裝置時，Word、 Excel、 PowerPoint 及 OneNote。
 
-- 讓使用者啟動應用程式, 請按一下 [登**入**], 然後輸入他們的公司或學校認證。
+- 將啟動應用程式，請點選 [**登入**並輸入他們的公司或學校認證的使用者。

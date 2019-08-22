@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ab43df8415f84d2cb289d8f3f93fa002faf783c2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417777"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540712"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>如何增加以便能夠儲存在商務用 OneDrive
 
