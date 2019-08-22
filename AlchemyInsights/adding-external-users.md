@@ -13,20 +13,20 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: 01fa1bfe0fa557dd5ba3cfca83baa160ba8493c3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f159770bc8f68344fac1386d4a8b5bd24282373f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357992"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499738"
 ---
-# <a name="adding-external-users"></a><span data-ttu-id="c9166-102">新增外部使用者</span><span class="sxs-lookup"><span data-stu-id="c9166-102">Adding external users</span></span>
+# <a name="adding-external-users"></a><span data-ttu-id="ccbd5-102">新增外部使用者</span><span class="sxs-lookup"><span data-stu-id="ccbd5-102">Adding external users</span></span>
 
-<span data-ttu-id="c9166-103">新增外部/來賓使用者的步驟可能會有所不同, 這取決於您需要他們存取的專案。</span><span class="sxs-lookup"><span data-stu-id="c9166-103">The steps for adding external / guest users can be different depending on what you need them to be able to access.</span></span> <span data-ttu-id="c9166-104">請選擇下列其中一項:</span><span class="sxs-lookup"><span data-stu-id="c9166-104">Please choose one of the following:</span></span>
+<span data-ttu-id="ccbd5-103">新增外部 / 來賓使用者的步驟可以是您需要它們能夠存取而有所不同。</span><span class="sxs-lookup"><span data-stu-id="ccbd5-103">The steps for adding external / guest users can be different depending on what you need them to be able to access.</span></span> <span data-ttu-id="ccbd5-104">請選擇下列其中一項：</span><span class="sxs-lookup"><span data-stu-id="ccbd5-104">Please choose one of the following:</span></span>
   
-- <span data-ttu-id="c9166-105">
-  [管理您的 SharePoint Online 環境外部共用](https://support.office.com/article/manage-external-sharing-for-your-sharepoint-online-environment-c8a462eb-0723-4b0b-8d0a-70feafe4be85)</span><span class="sxs-lookup"><span data-stu-id="c9166-105">[Manage external sharing for your SharePoint Online environment](https://support.office.com/article/manage-external-sharing-for-your-sharepoint-online-environment-c8a462eb-0723-4b0b-8d0a-70feafe4be85)</span></span>
+- <span data-ttu-id="ccbd5-105">
+  [管理您的 SharePoint Online 環境外部共用](https://support.office.com/article/manage-external-sharing-for-your-sharepoint-online-environment-c8a462eb-0723-4b0b-8d0a-70feafe4be85)</span><span class="sxs-lookup"><span data-stu-id="ccbd5-105">[Manage external sharing for your SharePoint Online environment](https://support.office.com/article/manage-external-sharing-for-your-sharepoint-online-environment-c8a462eb-0723-4b0b-8d0a-70feafe4be85)</span></span>
 
-- [<span data-ttu-id="c9166-106">Office 365 群組中的來賓存取權</span><span class="sxs-lookup"><span data-stu-id="c9166-106">Guest access in Office 365 Groups</span></span>](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [<span data-ttu-id="ccbd5-106">在 Office 365 群組的來賓存取</span><span class="sxs-lookup"><span data-stu-id="ccbd5-106">Guest access in Office 365 Groups</span></span>](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [<span data-ttu-id="c9166-107">Microsoft 小組中的來賓存取權</span><span class="sxs-lookup"><span data-stu-id="c9166-107">Guest access in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [<span data-ttu-id="ccbd5-107">Microsoft Teams 中的來賓存取</span><span class="sxs-lookup"><span data-stu-id="ccbd5-107">Guest access in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/guest-access-checklist)

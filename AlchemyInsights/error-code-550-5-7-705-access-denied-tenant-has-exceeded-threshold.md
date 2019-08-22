@@ -1,5 +1,5 @@
 ---
-title: 錯誤碼 550 5.7.705 禁止存取, 租使用者已超出臨界值
+title: 錯誤碼 550 5.7.705 「 拒絕存取 」，租用戶已超出臨界值
 ms.author: chrisda
 author: chrisda
 ms.date: 4/9/2018
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: e05b799ae88b0e431397c5f17fd0eddbe39f9c95
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388056"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527210"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="5d526-102">550 5.7.705 拒絕存取, 租使用者已超過臨界值</span><span class="sxs-lookup"><span data-stu-id="5d526-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="24ee1-102">550 5.7.705 存取被拒，租用戶已超出臨界值</span><span class="sxs-lookup"><span data-stu-id="24ee1-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="5d526-103">當您的組織已傳送太多垃圾郵件或大宗郵件, 並將區塊置於外寄郵件時, 就會發生此訊息。</span><span class="sxs-lookup"><span data-stu-id="5d526-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="5d526-104">常見的原因會受到內部部署伺服器或已遭破壞的系統管理員帳戶 (用來建立連接器) 的危害。</span><span class="sxs-lookup"><span data-stu-id="5d526-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="5d526-105">這兩種情況都可讓垃圾郵件通過您的組織。</span><span class="sxs-lookup"><span data-stu-id="5d526-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="24ee1-103">由您的組織已傳送太多垃圾郵件或大量郵件，我們將區塊放在外寄郵件上時發生此郵件。</span><span class="sxs-lookup"><span data-stu-id="24ee1-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="24ee1-104">常見原因是遭入侵的內部部署伺服器或遭入侵的系統管理員帳戶的已用來建立連接器。</span><span class="sxs-lookup"><span data-stu-id="24ee1-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="24ee1-105">任一個條件可以允許通過您組織的垃圾郵件。</span><span class="sxs-lookup"><span data-stu-id="24ee1-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="5d526-106">若要移除此區塊, 您必須瞭解並說明支援代理程式的原因, 並修正基本問題。</span><span class="sxs-lookup"><span data-stu-id="5d526-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="5d526-107">在您準備好後, 請按一下 [**與我們聯繫**]。</span><span class="sxs-lookup"><span data-stu-id="5d526-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="24ee1-106">若要移除此區塊，您需要了解和支援代理程式說明原因，以及解決潛在的問題。</span><span class="sxs-lookup"><span data-stu-id="24ee1-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="24ee1-107">一旦您已準備就緒，請按一下 [**與我們連絡**下方]。</span><span class="sxs-lookup"><span data-stu-id="24ee1-107">Click **Contact us** below once you're ready.</span></span>
