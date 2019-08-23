@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: d0af4c933f262fe1ec4c2a6ff16d5f6195398b0d
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 5d7b62546397c13b37540e8797b31123b2880280
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444799"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551334"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>在 Exchange 系統管理中心中的保留原則
 
@@ -58,7 +58,7 @@ ms.locfileid: "36444799"
  **附註：** 如果信箱小於 10 MB，受管理的資料夾助理員不會自動處理的信箱。
  
 如需在 Exchange 系統管理中心中的保留原則的詳細資訊，請參閱：
-- [保留標記和保留原則](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [將保留原則套用至信箱](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [新增或移除保留標記](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [如何識別的保留類型放在信箱上](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+- [保留標記和保留原則](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [將保留原則套用至信箱](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [新增或移除保留標記](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [如何識別的保留類型放在信箱上](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)

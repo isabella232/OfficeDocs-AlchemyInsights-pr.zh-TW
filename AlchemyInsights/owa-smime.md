@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: afd59218b674f6d88fb0def9182d54b2273704f3
-ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
+ms.openlocfilehash: 46de7befada6c67f9bc91f358201944cb1daaee2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "36204087"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555908"
 ---
 # <a name="encrypt-messages-using-smime"></a>使用 S/MIME 郵件加密
 

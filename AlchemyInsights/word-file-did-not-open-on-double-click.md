@@ -1,5 +1,5 @@
 ---
-title: WD 檔案未上按兩下開啟
+title: Word 檔案未上按兩下開啟
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 5eedc991d787c2e50d9f92eae3acf4fa367c08f1
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752753"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558176"
 ---
-# <a name="solutions-for-files-opening-in-wrong-apps"></a>錯誤的應用程式中開啟的檔案的解決方案
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word 文件錯誤的應用程式中開啟或並未開啟
 
 請嘗試下列其中一個這些建議：
 
 **預設值為選擇的文字**
 
-* 以滑鼠右鍵按一下文件上，選擇 [**開啟**]，然後選擇 [ **Word**
+- 以滑鼠右鍵按一下文件上，選擇 [**開啟**]，然後選擇 [ **Word**
 
 **執行快速修復**
 

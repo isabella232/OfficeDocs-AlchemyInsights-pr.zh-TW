@@ -1,5 +1,5 @@
 ---
-title: 1800009的 Outlook for Mac 應用程式支援
+title: 1800009 outlook for Mac 中應用程式支援
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -13,13 +13,13 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 100767ebc1ca2e9869dcd971e7ae0ce5872a040a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0784b7abfeee3f6be8e6f74084ef34934fc2f711
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390108"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557395"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>Mac 版 Outlook 中的應用程式內支援
+# <a name="in-app-support-in-outlook-for-mac"></a>在 Outlook for Mac 的應用程式內支援
 
-若要接收對 Outlook for Mac 問題的支援, 請開啟 Outlook, 然後按一下\> [說明連絡人支援]。 輸入您的問題, 而 Outlook for Mac 支援小組的成員將會與您聯繫。 [Mac 版 Outlook 中的連絡人支援](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+若要 outlook for Mac 問題接收支援應用程式內，開啟 Outlook，然後按一下 [說明]\>連絡支援。 輸入您的問題，以及支援小組會聯繫您的 Mac 版 Outlook 的成員。 [連絡客戶支援在 Outlook for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)

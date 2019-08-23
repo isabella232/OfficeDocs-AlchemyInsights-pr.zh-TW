@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: d1a72a85767e36fefbfa8eee266befcaf2e48af0
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b9b90dad6c5fa41afcd4e4c9a929594735eca066
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371975"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554324"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>何時執行動作我的設定檔變更同步處理至 SharePoint 使用者設定檔應用程式？
 

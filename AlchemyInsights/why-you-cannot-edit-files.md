@@ -1,5 +1,5 @@
 ---
-title: 檔案已鎖定以進行編輯
+title: 檔案鎖定進行編輯
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -9,24 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 83703435b5700bea2f03896ee9f154d5bb05e7d5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222659"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558212"
 ---
-# <a name="why-you-might-not-be-able-to-edit-files"></a>為何您可能無法編輯檔案？
+# <a name="why-cant-i-edit-files"></a>為什麼我無法編輯檔案？
 
-如果檔、工作表或簡報被鎖定, 無法進行編輯且無法開啟, 則可能是該檔案已由其他人編輯, 或已取出該檔案。讓我們快速瞭解[您可能無法編輯此](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)檔案的原因。
+如果文件、 工作表或簡報鎖定進行編輯，而且無法在 Windows 桌面應用程式中開啟，它可能檔案已經正在編輯由其他人，或其已取出的檔案。讓我們看快速查看一些理由[為什麼您可能無法編輯檔案](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)。
 
-附注: 具有 Checkout、必要欄/中繼資料的文件庫, 或將草稿專案安全性設定為僅可編輯的使用者, 或僅限可在文件庫版本設定中核准專案的使用者。
+如果您有文件庫與**簽出，需要**或**驗證**資料行或中繼資料，或當**草稿項目安全性**設為 [**可以編輯的使用者**] 或 [**僅限可核准項目的使用者**中的版本設定文件庫：
 
-對於 OneDrive 文件庫, OneDrive 會在同步處理狀態旁顯示鎖定圖示, 使用者將無法同步處理文件庫, 直到已移除上述設定為止。
+- SharePoint 文件庫，這些項目會以唯讀方式進行同步處理。
 
-如需關於 Word 或 Excel 的鎖定檔案的詳細資訊, 請參考下列文章。
+- 對於 OneDrive 文件庫，OneDrive 會顯示鎖形圖示 （OneDrive 檔案鎖定圖示） 旁同步處理狀態，使用者將無法同步處理文件庫，直到已移除所述的設定。 
 
-- [Excel 檔案已由其他使用者鎖定以供編輯](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+如 Word 或 Excel 關於鎖定檔案詳細資訊，請參閱以下文章。
 
-- [Word 檔案已由其他使用者鎖定以供編輯](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Excel 檔案鎖定進行編輯另一位使用者](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+
+- [Word 檔案鎖定進行編輯另一位使用者](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 
