@@ -1,5 +1,5 @@
 ---
-title: 1575-PowerApps 和 Microsoft Flow plan extension
+title: 1575 PowerApps 和 Microsoft Flow 規劃延伸模組
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2ed0157aff72c42a63898b03cdf8bd5ea3f980a5
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371175"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554698"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps 和 Microsoft 流程計畫延伸模組
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps 和 Microsoft Flow 計劃延伸模組
 
-如果您想要要求**Microsoft Flow**或**PowerApps**的計畫延伸, 而且您的租使用者已擁有下列其中一個功能的使用中使用者, 則不需要將支援要求歸檔。
+如果您想要為**Microsoft Flow**或**PowerApps**要求計劃分機，且您的租用戶已有作用中的其中一個下列功能的使用者，便不需要檔案的支援要求。
 
-- 在 PowerApps 和 Microsoft Flow 中建立及發佈自訂連接器
-- 整合至 SharePoint 和 OneDrive 外部流程的 HTTP 自訂動作
-- 透過內部部署資料閘道整合內部部署資料
+- 建立和發佈 PowerApps 和 Microsoft Flow 中的自訂連接器
+- HTTP 整合到 SharePoint 和 OneDrive 以外的流程的自訂動作
+- 透過內部部署資料閘道的內部部署資料的整合
 
-擁有這些功能之使用中使用者的客戶將會取得自動分機, 直到2020年1月31日, 或其現有 Office 365 訂閱期限到期為止。
+客戶與這些功能的作用中使用者會收到 2020 年 1 月 31，直到自動分機號碼或其現有的 Office 365 訂閱字詞的到期時間，以較長。

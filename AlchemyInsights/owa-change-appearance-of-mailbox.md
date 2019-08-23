@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171320"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557492"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>變更您的信箱的外觀
+# <a name="change-the-look-of-your-outlook-mailbox"></a>變更 Outlook 信箱的外觀
 
 您可以變更訊息清單和讀取窗格的外觀，使它的外觀與呈現您想要的方式。 如果新的郵件應於出現的頂端或底部的郵件] 清單中，等等，選擇 [個別或以交談主旨、 是否應該顯示您的郵件。
 

@@ -1,5 +1,5 @@
 ---
-title: 在網頁版 Outlook 中建立資料夾
+title: 網頁型 Outlook 中建立資料夾
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000009"
 - "1994"
-ms.openlocfilehash: d25cde334f4a4407cda0f15991ead3d9e918d707
-ms.sourcegitcommit: c72efee4375c3462641639ec78a171d8eae6d631
+ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34335338"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557240"
 ---
 # <a name="create-a-folder"></a>建立資料夾
 
-1. 在資料夾窗格的底部, 選取 [**新增資料夾**]。 您可能需要向下移動資料夾窗格以查看 [**新增資料夾**] 按鈕。
-1. 在文字方塊中, 輸入資料夾的名稱, 然後按 Enter。
+1. 在網頁型 Outlook 中的 [資料夾] 窗格底部，選取**新的資料夾**。 您可能需要向下捲動查看**新的資料夾**] 按鈕的 [資料夾] 窗格中。
+1. 在文字] 方塊中，輸入該資料夾的名稱，然後按 Enter。
 
-若要深入瞭解, 請參閱[使用 Outlook 網頁版中的郵件資料夾](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)。
+若要深入了解，請參閱[Working with outlook 網頁版中的郵件資料夾](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)。

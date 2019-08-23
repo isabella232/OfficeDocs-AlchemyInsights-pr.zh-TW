@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 2dc5a497fdb59acb58068e2db3f25293ee63995f
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 3ebb86895c65e1acd91d552ad28b8d5a44ef8335
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36269475"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553387"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>在 SharePoint 或 OneDrive 勒索軟體攻擊
 
@@ -36,12 +36,12 @@ ms.locfileid: "36269475"
 - [還原的文件庫](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
 
 如需進階威脅防護 (ATP) 的詳細資訊，請參閱：
-- [SharePoint、 OneDrive 及 microsoft Teams 的 ATP](https://docs.microsoft.com/en-us/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [威脅總管檢視](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
+- [SharePoint、 OneDrive 及 microsoft Teams 的 ATP](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [威脅總管檢視](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 其他資訊：
 
-- [SPO 中的病毒偵測](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)</br>
-- [ODB 和 SPO 中的資料加密](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [SPO 中的病毒偵測](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [ODB 和 SPO 中的資料加密](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
 - [勒索軟體偵測和復原檔案](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [威脅總管和即時偵測](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
+- [威脅總管和即時偵測](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)

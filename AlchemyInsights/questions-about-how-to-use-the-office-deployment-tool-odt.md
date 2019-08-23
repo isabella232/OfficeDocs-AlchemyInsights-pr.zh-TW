@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: e91d40f872dd401ee210ac05eb39d64b6fb88027
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 604fc200517316de6e0194bd64e6eb3039cfa61b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371759"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553531"
 ---
 # <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>如何使用 Office 部署工具 (ODT) 相關的問題
 

@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 3f5ce5dbd9307aae9fc497f501d1da9194c45ff9
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: bf4ae61907e2a179bba39edb4f8eb05608e00907
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171279"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556700"
 ---
 # <a name="print-email-calendars-and-attachments"></a>列印的電子郵件、 行事曆和附件
 
-若要列印的電子郵件訊息：
+若要列印的網頁型 Outlook 中的電子郵件訊息：
   
 1. 選取您想要列印的郵件。
 1. 在郵件的右上角，選取三個點，然後選取 [**列印**]。
