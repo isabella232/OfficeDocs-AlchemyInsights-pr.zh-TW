@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d7738bb8-3473-40fe-9a47-7f4b93e68ab8
-ms.openlocfilehash: f61266c59662e8ce1ccd6063753eeaaf3638dbb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f225705878065c06a2af75cc55780bd6cecf0a80
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421303"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549534"
 ---
 # <a name="how-to-share-in-onedrive"></a>如何在 OneDrive 中共用
 

@@ -14,18 +14,18 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372947"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555368"
 ---
 # <a name="enable-password-sync"></a>啟用密碼同步處理
 
-1.  在 [O365 系統管理中心] 首頁上，選擇 [**目錄同步狀態**。 
+1.  Microsoft 365 系統管理中心首頁上，選擇 [**目錄同步狀態**。 
     
-     * 或者，您可以移至 [**使用者** \> * * 作用中使用者 **，並在 [作用中使用者] 頁面上，選擇 [**更多** \> **目錄同步處理。** * 
+     *或者，您可以移至 [**使用者** \> **作用中的使用者**，並在 [作用中使用者] 頁面上，選擇 [**更多** \> **目錄同步處理。*** 
     
 2. 在 [目錄同步處理] 窗格中，選擇 [**移至 [目錄同步管理**。 
     

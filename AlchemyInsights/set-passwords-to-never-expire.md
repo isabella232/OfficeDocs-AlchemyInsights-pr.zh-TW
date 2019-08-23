@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
-ms.openlocfilehash: 0a44dd8fad248086046f995b7e4f223249d1644c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 835998c6adfbd7c0f0024aecaa5181fc5d1d89a5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421591"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36550074"
 ---
 # <a name="set-passwords-to-never-expire"></a>設定密碼永不過期
 

@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: ce55ab1025bd4b3f22c7313cc8cc91cef6e726f6
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.openlocfilehash: d9f199035251c8b4f8041fc8530d1eca2eb3c7e8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34682932"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556562"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>如何處理的網路釣魚電子郵件
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>如何處理網頁型 Outlook 中的網路釣魚電子郵件
 
 網路釣魚詐騙郵件是一封電子郵件出現合法但實際上嘗試竊取您個人資訊] 或 [金額。 發送者也可以使用稱為詐騙技術來讓它顯示為如果您收到一封電子郵件從您自己。
 

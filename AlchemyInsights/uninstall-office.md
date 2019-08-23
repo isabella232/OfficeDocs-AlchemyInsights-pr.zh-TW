@@ -1,5 +1,5 @@
 ---
-title: 卸載 Office
+title: 解除安裝 Office
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -12,25 +12,25 @@ ms.custom:
 - "937"
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
-description: 下列步驟說明如何從電腦卸載 Office。
-ms.openlocfilehash: 3878013d452cd03f378254a8dfbbe396e7509d0e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+description: 下列步驟說明如何從電腦解除安裝 Office。
+ms.openlocfilehash: a9d7b9b4239eeff76cb6934184224a2bcb5b98d3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366380"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558428"
 ---
-# <a name="uninstall-office"></a>卸載 Office
+# <a name="uninstall-office"></a>解除安裝 Office
 
-下載並安裝[支援與修復](https://aka.ms/SARA-OfficeUninstall-Alchemy)小幫手。
+下載並安裝的[支援及修復小幫手](https://aka.ms/SARA-OfficeUninstall-Alchemy)。
   
-1. 開啟時, 從 [**卸載 Office 產品**] 選取您要卸載的版本, 然後選取 **[下一步]**。
+1. 開啟時，從**解除安裝 Office 產品**中，選取您想要解除安裝，然後選取 [**下一步**的版本。
 
-2. 繼續進行畫面, 並在出現提示時重新開機電腦。
+2. 繼續經由畫面及時提示重新啟動電腦。
 
-    重新開機之後, 支援和修復小幫手會自動重新開啟, 以完成卸載程式。
+    重新啟動後，支援及修復小幫手會自動重新開啟完成解除安裝程序。
 
-3. 遵循其餘的提示, 然後[重新安裝 Office](https://portal.office.com/OLS/MySoftware.aspx)或關閉 [助手]。
+3. 請遵循其餘的提示，並[重新安裝 Office](https://portal.office.com/OLS/MySoftware.aspx)或關閉小幫手。
 
-如需其他卸載選項的清單, 請選取 [[從電腦卸載 Office](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA)]。
+如需其他解除安裝選項的清單，選取 [[從電腦解除安裝 Office](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA)。
   

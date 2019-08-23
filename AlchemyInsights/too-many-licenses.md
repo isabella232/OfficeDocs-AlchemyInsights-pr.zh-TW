@@ -1,5 +1,5 @@
 ---
-title: 授權太多？
+title: 太多的授權？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,25 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: e84f1102a5862bf76bbb24a99fa13835dedd6a79
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367388"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549066"
 ---
-# <a name="too-many-licenses"></a>授權太多？
+# <a name="too-many-licenses"></a>太多的授權？
 
-如果您認為您有太多授權需要支付, 這通常是因為您需要購買更多授權。
+如果您認為您正在付費太多的 Office 365 授權，則這通常是因為需要購買更多授權，則您需要。
   
- **減少購買的授權數目**
+**減少所購買的授權數目**
   
-1. 在系統管理中心中，移至 [訂閱][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面，或選擇 [計費]**** \> [訂閱]****。
+1. 在 [系統管理中心中，移至**帳單** \> [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面。
 
-2. 在左側, 選擇您要移除授權的訂閱。
+2. 尋找您要從中移除授權，該的訂閱，然後選取 [**新增/移除授權**。
 
-3. 選擇 [**新增/移除授權**]。
+3. 在 [**授權總數**] 方塊中，輸入此訂閱所需的授權總數，然後選取 [**送出變更**。 例如，若您有 110 個授權，而您需要移除 5 個授權，則輸入 105。
 
-4. 輸入所需的使用者總數。 例如, 如果您目前有25個授權, 而您想要移除5個, 請在此欄位中輸入20。
-
-5. Choose **Submit**.
+如需詳細資訊，請參閱[從您的商務用 Office 365 訂閱中移除授權](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)。
