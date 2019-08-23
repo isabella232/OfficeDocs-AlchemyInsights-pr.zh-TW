@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 88f91f897aacf22ae9c82c59d5eb50b3ffcd5330
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e9b05de875969ac8fa1876898069f134e2bd96bb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32369705"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549462"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a><span data-ttu-id="9fe83-102">如何在 SharePoint Online 中共用</span><span class="sxs-lookup"><span data-stu-id="9fe83-102">How to share in SharePoint Online</span></span>
+# <a name="how-to-share-in-sharepoint-online"></a><span data-ttu-id="2d5af-102">如何在 SharePoint Online 中共用</span><span class="sxs-lookup"><span data-stu-id="2d5af-102">How to share in SharePoint Online</span></span>
 
-<span data-ttu-id="9fe83-103">若要共用網站：</span><span class="sxs-lookup"><span data-stu-id="9fe83-103">To share a site:</span></span>
+<span data-ttu-id="2d5af-103">若要共用網站：</span><span class="sxs-lookup"><span data-stu-id="2d5af-103">To share a site:</span></span>
   
-1. <span data-ttu-id="9fe83-104">在網頁瀏覽器中開啟網站。</span><span class="sxs-lookup"><span data-stu-id="9fe83-104">Open the site in a web browser.</span></span>
+1. <span data-ttu-id="2d5af-104">在網頁瀏覽器中開啟網站。</span><span class="sxs-lookup"><span data-stu-id="2d5af-104">Open the site in a web browser.</span></span>
     
-2. <span data-ttu-id="9fe83-105">如果網站屬於 Office 365 群組，按一下右上方，在 [設定] 圖示，然後按一下 [**網站權限**。</span><span class="sxs-lookup"><span data-stu-id="9fe83-105">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="9fe83-106">按一下 [**邀請人員**]，然後選擇 [新增成員至 Office 365 群組或共用只有網站。</span><span class="sxs-lookup"><span data-stu-id="9fe83-106">Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
+2. <span data-ttu-id="2d5af-105">如果網站屬於 Office 365 群組，按一下右上方，在 [設定] 圖示，然後按一下 [**網站權限**。</span><span class="sxs-lookup"><span data-stu-id="2d5af-105">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="2d5af-106">按一下 [**邀請人員**]，然後選擇 [新增成員至 Office 365 群組或共用只有網站。</span><span class="sxs-lookup"><span data-stu-id="2d5af-106">Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
     
-    <span data-ttu-id="9fe83-107">通訊網站，按一下右上角中的 [**共用網站**，輸入人名，，然後選取權限等級 （讀取、 編輯或完全控制）。</span><span class="sxs-lookup"><span data-stu-id="9fe83-107">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
+    <span data-ttu-id="2d5af-107">通訊網站，按一下右上角中的 [**共用網站**，輸入人名，，然後選取權限等級 （讀取、 編輯或完全控制）。</span><span class="sxs-lookup"><span data-stu-id="2d5af-107">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
     
-    <span data-ttu-id="9fe83-108">傳統的小組網站，按一下 [在右上角的**共用**。</span><span class="sxs-lookup"><span data-stu-id="9fe83-108">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="9fe83-109">輸入您想要邀請或輸入所有人] 與所有人共用您的組織中的人員名稱。</span><span class="sxs-lookup"><span data-stu-id="9fe83-109">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="9fe83-110">按一下 [共用]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="9fe83-110">Click **Share**.</span></span>
+    <span data-ttu-id="2d5af-108">傳統的小組網站，按一下 [在右上角的**共用**。</span><span class="sxs-lookup"><span data-stu-id="2d5af-108">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="2d5af-109">輸入您想要邀請或輸入所有人] 與所有人共用您的組織中的人員名稱。</span><span class="sxs-lookup"><span data-stu-id="2d5af-109">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="2d5af-110">按一下 [共用]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="2d5af-110">Click **Share**.</span></span>
     
-[<span data-ttu-id="9fe83-111">了解如何共用的檔案或資料夾</span><span class="sxs-lookup"><span data-stu-id="9fe83-111">Learn how to share a file or folder</span></span>](https://go.microsoft.com/fwlink/?linkid=511430)
+[<span data-ttu-id="2d5af-111">了解如何共用的檔案或資料夾</span><span class="sxs-lookup"><span data-stu-id="2d5af-111">Learn how to share a file or folder</span></span>](https://go.microsoft.com/fwlink/?linkid=511430)
   
 

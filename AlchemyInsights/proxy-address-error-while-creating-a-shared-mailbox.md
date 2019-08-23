@@ -1,5 +1,5 @@
 ---
-title: 建立共用信箱時的 Proxy 位址錯誤
+title: 建立共用的信箱時發生的 proxy 位址錯誤
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -11,18 +11,18 @@ ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.custom:
 - "19"
 - "6"
-ms.openlocfilehash: 159125f8ce899cacac665fb8a7025a791c4cd9bb
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: cd3236c71868c2b625de407a9e4f160a8d47ddd1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370954"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554179"
 ---
-# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a><span data-ttu-id="bc4b6-102">建立共用信箱時的 Proxy 位址錯誤</span><span class="sxs-lookup"><span data-stu-id="bc4b6-102">Proxy address error while creating a shared mailbox</span></span>
+# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a><span data-ttu-id="610fd-102">建立共用的信箱時發生的 proxy 位址錯誤</span><span class="sxs-lookup"><span data-stu-id="610fd-102">Proxy address error while creating a shared mailbox</span></span>
 
-<span data-ttu-id="bc4b6-103">如果您嘗試建立共用信箱, 且收到此錯誤「proxy 位址 "SMTP:alias@domain.com" 已在使用 ...」, 您所選擇的電子郵件地址已由您組織中的另一個信箱所使用。</span><span class="sxs-lookup"><span data-stu-id="bc4b6-103">If you tried to create a shared mailbox and received this error "The proxy address "SMTP:alias@domain.com" is already being used…", the email address you chose is already taken by another mailbox in your organization.</span></span>
+<span data-ttu-id="610fd-103">如果您嘗試建立共用的信箱，且收到此錯誤 「 proxy 位址"SMTP:alias@domain.com 」 已在使用中...」，您所選擇的電子郵件地址是已採取的組織中的另一個信箱。</span><span class="sxs-lookup"><span data-stu-id="610fd-103">If you tried to create a shared mailbox and received this error "The proxy address "SMTP:alias@domain.com" is already being used…", the email address you chose is already taken by another mailbox in your organization.</span></span>
   
-<span data-ttu-id="bc4b6-104">您需要尋找具有此電子郵件地址的使用者、群組或共用信箱, 並將它刪除或變更其電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="bc4b6-104">You need to find the user, group, or shared mailbox that has this email address and delete it or change its email address.</span></span> <span data-ttu-id="bc4b6-105">然後, 您可以使用已釋放的電子郵件地址來建立共用信箱。</span><span class="sxs-lookup"><span data-stu-id="bc4b6-105">Then you can create a shared mailbox with the freed email address.</span></span> <span data-ttu-id="bc4b6-106">使用首頁上的搜尋來尋找。</span><span class="sxs-lookup"><span data-stu-id="bc4b6-106">Use Search on the Home page to find it.</span></span>
+<span data-ttu-id="610fd-104">您要尋找使用者、 群組或共用的信箱時此電子郵件地址，並將它刪除或變更其電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="610fd-104">You need to find the user, group, or shared mailbox that has this email address and delete it or change its email address.</span></span> <span data-ttu-id="610fd-105">然後您可以建立共用的信箱已釋放的電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="610fd-105">Then you can create a shared mailbox with the freed email address.</span></span> <span data-ttu-id="610fd-106">使用 [在首頁上的 [搜尋] 來尋找。</span><span class="sxs-lookup"><span data-stu-id="610fd-106">Use Search on the Home page to find it.</span></span>
   
-<span data-ttu-id="bc4b6-107">如果您不想要刪除現有的電子郵件地址, 請為您的共用信箱選擇新的電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="bc4b6-107">If you don't want to delete the existing email address, choose a new email address for your shared mailbox.</span></span>
+<span data-ttu-id="610fd-107">如果您不想要刪除現有的電子郵件地址，選擇您的共用信箱的新電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="610fd-107">If you don't want to delete the existing email address, choose a new email address for your shared mailbox.</span></span>
   

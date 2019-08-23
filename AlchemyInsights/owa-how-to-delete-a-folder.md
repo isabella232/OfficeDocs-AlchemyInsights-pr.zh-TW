@@ -13,18 +13,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: d6ae972c6d95b33612290b4ee20464e53f60327f
-ms.sourcegitcommit: 3ddd01d693d306d47509da7a2fd44737b3059dd0
+ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "34423044"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556519"
 ---
-# <a name="how-to-delete-a-folder"></a><span data-ttu-id="900a2-102">如何刪除資料夾</span><span class="sxs-lookup"><span data-stu-id="900a2-102">How to delete a folder</span></span>
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a><span data-ttu-id="9c5ab-102">如何刪除網頁型 Outlook 中的資料夾</span><span class="sxs-lookup"><span data-stu-id="9c5ab-102">How to delete a folder in Outlook on the web</span></span>
 
-1. <span data-ttu-id="900a2-103">在 [資料夾] 窗格中，以滑鼠右鍵按一下您想要刪除的子資料夾。</span><span class="sxs-lookup"><span data-stu-id="900a2-103">In the folder pane, right-click the folder or subfolder you want to delete.</span></span>
-2. <span data-ttu-id="900a2-104">選取 [**刪除] 資料夾**。</span><span class="sxs-lookup"><span data-stu-id="900a2-104">Select **Delete folder**.</span></span>
-3. <span data-ttu-id="900a2-105">選取 **[確定**] 以確認。</span><span class="sxs-lookup"><span data-stu-id="900a2-105">Select **OK** to confirm.</span></span>
+1. <span data-ttu-id="9c5ab-103">在 [資料夾] 窗格中，以滑鼠右鍵按一下您想要刪除的子資料夾。</span><span class="sxs-lookup"><span data-stu-id="9c5ab-103">In the folder pane, right-click the folder or subfolder you want to delete.</span></span>
+2. <span data-ttu-id="9c5ab-104">選取 [**刪除] 資料夾**。</span><span class="sxs-lookup"><span data-stu-id="9c5ab-104">Select **Delete folder**.</span></span>
+3. <span data-ttu-id="9c5ab-105">選取 **[確定**] 以確認。</span><span class="sxs-lookup"><span data-stu-id="9c5ab-105">Select **OK** to confirm.</span></span>
 
-<span data-ttu-id="900a2-106">若要深入了解，請參閱[Working with outlook 網頁版中的郵件資料夾](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)。</span><span class="sxs-lookup"><span data-stu-id="900a2-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
+<span data-ttu-id="9c5ab-106">若要深入了解，請參閱[Working with outlook 網頁版中的郵件資料夾](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)。</span><span class="sxs-lookup"><span data-stu-id="9c5ab-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
 
