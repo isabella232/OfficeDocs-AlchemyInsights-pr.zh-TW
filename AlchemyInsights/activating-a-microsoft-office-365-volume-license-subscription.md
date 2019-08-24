@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385856"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574461"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>啟動 Microsoft Office 365 大量授權訂閱
 
@@ -32,4 +32,4 @@ ms.locfileid: "36385856"
 
 5. 登入 Office 365 ([https://portal.office.com](https://portal.office.com)) 使用您現有的 Office 365 系統管理員認證。 您已成功登入後，您會收到確認您購買的另一個電子郵件。
 
-6. 您已登入之後，您可以移至**帳單** \> [訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上，若要確認您已購買的 Office 365 訂閱已在租用戶中啟動。 （您也可以選擇 [**訂閱**] 索引標籤中 [檢視詳細資料驗證您的訂閱有均存放 VLSC。）
+6. 您已登入之後，您可以移至**帳單** \> [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上，若要確認您已購買的 Office 365 訂閱已在租用戶中啟動。 （您也可以選擇 [**訂閱**] 索引標籤中 [檢視詳細資料驗證您的訂閱有均存放 VLSC。）

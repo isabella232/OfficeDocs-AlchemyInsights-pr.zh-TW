@@ -13,12 +13,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8177f08163c85856cf4446592d10177170ba1e28
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534158"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575975"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>切換到不同的 Office 365 商務版計劃
 
@@ -34,4 +34,4 @@ ms.locfileid: "36534158"
 
 5. 輸入數字的授權，您需要選擇是否要支付每月或按年，然後選取 [**簽出**。
    
-如需詳細資訊，請參閱[升級至不同的計劃](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)。  
+您使用舊版系統管理中心？ 舊的步驟，或如需詳細資訊，請參閱[升級至不同的計劃](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)。  

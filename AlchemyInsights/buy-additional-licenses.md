@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518030"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575939"
 ---
 # <a name="buy-additional-office-365-licenses"></a>購買其他 Office 365 授權
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518030"
 
     > [!NOTE]
     > 如果您是以信用卡或銀行帳戶支付訂閱費用，在收到訂單確認後，就可立刻使用所購買的所有新授權。 如果您的訂閱付款方式是使用發票，您可能需要等待信用查核，然後才能使用新授權。
-  
+
+您使用舊版系統管理中心？ 舊的步驟，或如需詳細資訊，請參閱[購買適用於 Office 365 商務版訂閱的授權](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)。  
+
 **其他資源**
 
 - [將授權指派給商務用 Office 365 中的使用者](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-如需詳細資訊，請參閱[購買適用於 Office 365 商務版訂閱的授權](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)。

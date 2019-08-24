@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840506"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620714"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>唯讀的維護郵件時嘗試使用 SharePoint 或 OneDrive
 
-當您嘗試使用 SharePoint 或 OneDrive 時，使用者可能會收到**唯讀維護的**郵件。  如果是的話，請檢查是否有發生在您的租用戶上由瀏覽至[訊息中心](https://portal.office.com/adminportal/home#/MessageCenter)的作用中維護。 此外，請務必檢查[服務健康狀況](https://portal.office.com/adminportal/home#/servicehealth)儀表板，以檢查有可能會發生任何諮詢/事件。
+當您嘗試使用下列其中一個下列案例 SharePoint 或 OneDrive 時，使用者可能會收到**唯讀維護的**郵件。 
 
-如果的訊息中心或服務健康狀況儀表板具有所述有關目前維護的任何項目租用戶，這可能會在瀏覽器快取問題。
+-   計劃或作用中的維護活動。  檢查其瀏覽至[訊息中心](https://portal.office.com/adminportal/home#/messagecenter)。
+-   高優先順序 active 服務事件，可能會發生。 瀏覽至[服務健康情況](https://portal.office.com/adminportal/home#/servicehealth)檢查任何諮詢/事件。
+-   次要自動修復復原案例中，就可能發生由於任何未預期的事件可能會持續小於 30 分鐘或操作的伺服器上。 
+    
+    有無訊息中心或服務健康情況文章，這些次要復原，但您應為 [正常很快。
+
+在極少情況下我們觀察到上述的三個案例的其中一個已原因，和已還原服務，但使用者瀏覽器快取尚未被清除。
 
 請嘗試瀏覽至網站之前，清除瀏覽器快取。
 
