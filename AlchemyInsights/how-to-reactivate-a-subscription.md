@@ -13,27 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390827"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574753"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="79fb9-102">如何重新啟用訂閱</span><span class="sxs-lookup"><span data-stu-id="79fb9-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="78def-102">如何重新啟用訂閱</span><span class="sxs-lookup"><span data-stu-id="78def-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="79fb9-103">如果 Microsoft 取消或停用您到期的訂閱，您可以在 Microsoft 365 系統管理中心重新啟用。</span><span class="sxs-lookup"><span data-stu-id="79fb9-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="78def-103">如果 Microsoft 取消或停用您到期的訂閱，您可以在 Microsoft 365 系統管理中心重新啟用。</span><span class="sxs-lookup"><span data-stu-id="78def-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="79fb9-104">在系統管理中心中，前往 [帳單]\*\*\*\* \> [訂閱][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。</span><span class="sxs-lookup"><span data-stu-id="79fb9-104">In the Admin center, go to the **Subscriptions** page, or choose \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) Subscriptions.</span></span>
+1. <span data-ttu-id="78def-104">在系統管理中心，移至 [帳單]\*\*\*\* \> [產品與服務][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。</span><span class="sxs-lookup"><span data-stu-id="78def-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="79fb9-105">選擇您要重新啟用的訂閱。</span><span class="sxs-lookup"><span data-stu-id="79fb9-105">Choose the subscription that you would like to reactivate.</span></span>
+2. <span data-ttu-id="78def-105">找到您想要重新啟動的訂閱。</span><span class="sxs-lookup"><span data-stu-id="78def-105">Choose the subscription that you want to renew.</span></span> <span data-ttu-id="78def-106">在 [帳單]\*\*\*\* 區段中，選擇 [重新啟動]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="78def-106">In the **Billing** section, choose **Reactivate**.</span></span>
 
-3. <span data-ttu-id="79fb9-106">選擇右側的 [重新啟用]\*\*\*\* 按鈕。</span><span class="sxs-lookup"><span data-stu-id="79fb9-106">Choose the **Reactivate** button on the right.</span></span>
+    <span data-ttu-id="78def-107">如果您在可用動作中沒有看到 [重新啟動]\*\*\*\*，請連絡客戶支援以重新啟動訂閱。</span><span class="sxs-lookup"><span data-stu-id="78def-107">If you don't see **Reactivate** as an available action, call support to reactivate your subscription.</span></span>
 
-4. <span data-ttu-id="79fb9-107">系統會要求您更新付款明細。</span><span class="sxs-lookup"><span data-stu-id="79fb9-107">You will be asked to update the payment details.</span></span> <span data-ttu-id="79fb9-108">所有資訊正確之後，請選擇 [提交]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="79fb9-108">When all information is correct, choose **Submit**.</span></span>
+3. <span data-ttu-id="78def-108">確認您的付款詳細資料。</span><span class="sxs-lookup"><span data-stu-id="78def-108">Confirm your payment details.</span></span> <span data-ttu-id="78def-109">您可以在這裡更新現有的付款資訊。</span><span class="sxs-lookup"><span data-stu-id="78def-109">You can update your existing payment information here.</span></span> <span data-ttu-id="78def-110">當您完成輸入您的付費方式時，請選擇 [重新啟動]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="78def-110">When you're finished entering your payment method, choose **Reactivate**.</span></span>
 
-5. <span data-ttu-id="79fb9-109">畫面底部會顯示確認訊息。</span><span class="sxs-lookup"><span data-stu-id="79fb9-109">A confirmation will show on the bottom of the screen.</span></span> <span data-ttu-id="79fb9-110">選擇 [關閉]\*\*\*\* 以回到 [訂閱]\*\*\*\* 頁面。</span><span class="sxs-lookup"><span data-stu-id="79fb9-110">Choose **Close** to return to the **Subscriptions** page.</span></span>
-
-6. <span data-ttu-id="79fb9-111">如果幾分鐘後訂閱仍未顯示「啟用」，請重新整理頁面。</span><span class="sxs-lookup"><span data-stu-id="79fb9-111">If the subscription does not appear Active after a few minutes, refresh the page.</span></span>
-
-<span data-ttu-id="79fb9-112">如需詳細資訊，請參閱：[更新商務用 Office 365](https://docs.microsoft.com/zh-TW/office365/admin/subscriptions-and-billing/renew-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="79fb9-112">For more information, see: [Renew Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription)</span></span>
+<span data-ttu-id="78def-111">您使用的是舊版系統管理中心嗎？</span><span class="sxs-lookup"><span data-stu-id="78def-111">Are you using the old admin center?</span></span> <span data-ttu-id="78def-112">若需要參考舊步驟，或進一步了解，請參閱[重新啟動您的訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)。</span><span class="sxs-lookup"><span data-stu-id="78def-112">For old steps, or to learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
