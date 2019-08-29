@@ -3,19 +3,18 @@ title: 詐騙、 網路釣魚或模擬的問題嗎？
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 62eb0d8b43f3673bbf05dda8d533333aaaa37ce1
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34764881"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661467"
 ---
 # <a name="issues-with-spoofing-phishing-or-impersonation"></a>詐騙、 網路釣魚或模擬的問題嗎？
 
@@ -33,6 +32,6 @@ ms.locfileid: "34764881"
 
 - 確認使用者尚未設定允許清單項目，可能會允許網路釣魚攻擊。
 
-- 請考慮高信賴度垃圾郵件和網路釣魚將郵件傳遞到隔離而不是垃圾郵件] 資料夾。
+- 請考慮高信賴垃圾郵件和網路釣魚將郵件傳遞到隔離而不是垃圾郵件] 資料夾。
 
-**有[回報給 Microsoft 此郵件](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2)嗎？這是讓我們知道如何執行篩選器的最佳方式。**
+**[報告給 Microsoft 的郵件](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2)是讓我們知道如何執行篩選器的最佳方式。**

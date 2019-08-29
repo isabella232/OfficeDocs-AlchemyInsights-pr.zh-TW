@@ -3,7 +3,6 @@ title: 1385-office-365-警示-原則
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 46a029f262fa05edffa6f681c7205e289fe448c5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496319"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661287"
 ---
 # <a name="office-365-alert-policies"></a>Office 365 警示原則
 
@@ -32,7 +31,7 @@ Office 365 安全性 # A0 觸發提醒具有 Office 365 企業版或 Office 365 
 若要檢閱並對警示：
 
 1. 移至[安全性 & 合規性中心](https://protection.office.com)並登入。
-2. 按一下 [**提醒 > 檢視警示**。
+2. 按一下 [**提醒** > **檢視警示**。
 3. 按一下 [顯示提醒的相關資訊的彈出式頁面的警示。
 
 您可以採取的警示，例如[移除可疑的收件匣規則](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)動作。 或者，您只可以藉由按一下警示彈出式頁面上的 [**解決**關閉提醒。
@@ -41,8 +40,8 @@ Office 365 安全性 # A0 觸發提醒具有 Office 365 企業版或 Office 365 
 
 **重要**： 來自 Microsoft 的警示電子郵件通知絕對不會要求您執行下列動作：
 
-- 提供的密碼。
-- 確認您的帳戶的安全性詳細資料。
-- 重新驗證自己。
+- 提供的密碼
+- 確認您的帳戶的安全性詳細資料
+- 重新驗證自行
 
 如果您收到的電子郵件就像這樣，它不由 Microsoft 所傳送，並考慮網路釣魚詐騙郵件。 如果發生這種情況，請[將其向 Microsoft 報告](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)。

@@ -3,7 +3,6 @@ title: 如何新增或減少授權
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574933"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664275"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>如何新增或減少授權
 
-以下是如何移除或購買更多 Office 365 授權。
+以下是如何移除 Office 365 授權，或購買更多授權。
   
 1. 在 [系統管理中心中，移至**帳單** \> [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面。
 
@@ -39,7 +38,7 @@ ms.locfileid: "36574933"
 > [!NOTE]
 > 任何新的計費 （授權增加） 或信用 （授權降低） 會顯示下一個帳單上。
 
-您使用舊版系統管理中心？ 舊的步驟，或如需詳細資訊，請參閱[購買適用於 Office 365 商務版訂閱的授權](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)。
+若要深入了解，請參閱[購買適用於 Office 365 商務版訂閱的授權](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)。
 
  **其他資源**
   

@@ -11,20 +11,20 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 39c9466f41002a1471a9fb81c93900f75260678d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494806"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660891"
 ---
 # <a name="setup-email-accounts"></a>設定電子郵件帳戶
 
-1. 在 Outlook 中，選取 [**檔案** \> **新增帳戶**。
+1. 在 Outlook 中，選取 [**檔案** > **資訊** > **新增帳戶**。
 
-2. 輸入您的電子郵件地址，然後按一下 [**連線**]。
+2. 輸入您的電子郵件地址，然後選取 [**連線**。
 
-3. 輸入您的密碼，然後按一下 [**確定]**。
+3. 輸入您的密碼，然後選取 **[確定]**。
 
 4. 您可以重複這些步驟來新增多個帳戶。
 
