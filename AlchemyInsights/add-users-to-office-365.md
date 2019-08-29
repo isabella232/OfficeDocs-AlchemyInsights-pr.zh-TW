@@ -12,22 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: fe5c4c7ca5fa5cce199c826f8488c564bf2cdef1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903064"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660675"
 ---
 # <a name="add-a-user-to-office-365"></a>將使用者新增至 Office 365
 
-使用這些步驟來將使用者新增至 Office 365：
-  
-1. 移至 [作用中使用者][](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (或在左側瀏覽列中選擇 [使用者]**** \> [作用中使用者]****)。
+1. 在 Microsoft 365 系統管理中心，移至 **[使用者]** >  [[作用中使用者]](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)。
 
 2. 按一下 [新增使用者]****。
 
-3. 填入該使用者的資訊。完成後，請選擇 [新增]****。
+3. 填入該使用者的資訊。 完成時，選擇 **[完成新增]**。
 
-[閱讀其他資訊...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+您使用的是舊版系統管理中心嗎？ 如需舊版的步驟或詳細資訊，請參閱[個別或大量將使用者新增至 Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)。
   

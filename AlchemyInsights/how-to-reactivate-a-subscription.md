@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 62f7af474db4eb99563744cfe266e1eac92bf53d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574753"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663987"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>如何重新啟用訂閱
 
@@ -30,6 +30,6 @@ ms.locfileid: "36574753"
 
     如果您在可用動作中沒有看到 [重新啟動]****，請連絡客戶支援以重新啟動訂閱。
 
-3. 確認您的付款詳細資料。 您可以在這裡更新現有的付款資訊。 當您完成輸入您的付費方式時，請選擇 [重新啟動]****。
+3. 確認您的付款詳細資料。 您可以在這裡更新現有的付款資訊。 當您完成輸入您的付費方式時，請選擇 **[重新啟動]**。
 
-您使用的是舊版系統管理中心嗎？ 若需要參考舊步驟，或進一步了解，請參閱[重新啟動您的訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)。
+若要深入了解，請參閱[重新啟動您的訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)。
