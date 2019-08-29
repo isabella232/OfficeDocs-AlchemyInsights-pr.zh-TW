@@ -1,23 +1,22 @@
 ---
 title: 將外部使用者新增至通訊群組
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/22/2017
+ms.author: chrisda
+author: chrisda
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: ce0c589e1661fb4607452fe2e8f897758b2718e8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 641636add2069fc395df9af156d8c011493a634a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494518"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660783"
 ---
-# <a name="add-external-users-to-a-distribution-group"></a>將外部使用者新增至通訊群組？
+# <a name="add-external-users-to-a-distribution-group"></a>將外部使用者新增至通訊群組
 
-新增外部連絡人至通訊群組 (DG) 是 2 雙步驟程序：
+新增外部連絡人至通訊群組 (DG) 是一個兩步驟程序：
   
 1. 建立郵件連絡人的外部使用者：
     
