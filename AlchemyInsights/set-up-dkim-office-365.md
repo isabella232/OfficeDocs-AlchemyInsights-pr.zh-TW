@@ -3,19 +3,18 @@ title: 安裝 Office 365 中的 DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: 0f81fe02135f3d0901ffe5a26d7aa3dad70c3770
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: dd908db6a4bc1739b3c1cff059387034d67e093d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34764901"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666255"
 ---
 # <a name="setup-dkim-in-office-365"></a>安裝 Office 365 中的 DKIM
 

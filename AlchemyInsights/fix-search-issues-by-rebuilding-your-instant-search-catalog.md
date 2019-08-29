@@ -3,7 +3,6 @@ title: 透過重建立即搜尋類別目錄的 1800005 修正搜尋問題
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 6/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "644"
 - "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: dc0bf1e51e603a63904d0478fe7bdc13019eac26
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cf167548c81b11e16aa98cd9a83b619a8087dcb0
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524870"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664887"
 ---
 # <a name="troubleshoot-search-issues"></a>疑難排解搜尋問題
 
-如果您在 Outlook 中有 search 的問題，請參閱下列連結，協助疑難排解。
+如果您在 Outlook 中有 search 的問題，請參閱的說明和疑難排解下的連結。
 
 這些都是最常見的問題，而且會是不錯的起點：
 

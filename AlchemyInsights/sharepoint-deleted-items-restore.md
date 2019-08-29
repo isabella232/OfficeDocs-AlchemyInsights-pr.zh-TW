@@ -2,7 +2,6 @@
 title: 還原已刪除的檔案或資料夾
 ms.author: efrene
 author: efrene
-ms.date: 8/6/2019
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -13,18 +12,18 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: b618c662a8a23f5a62ef01b328252ea198c4d831
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 544e65430cce72329933933927883521b2d79e7c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504274"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666111"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>從 SharePoint 還原已刪除項目
 
 當您從 Sharepoint 刪除項目或網站時，就無法立即被刪除。 已刪除的項目移至資源回收筒一段時間。 在這段時間，您可以還原已刪除的項目至其原始位置。 如需詳細資訊請瀏覽下列連結。
 
-- [在 SharePoint 網站資源回收筒還原項目](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)。
+- [還原 SharePoint 網站資源回收筒中的項目](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
 
 - [還原已刪除的檔案或 OneDrive 中的資料夾](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 

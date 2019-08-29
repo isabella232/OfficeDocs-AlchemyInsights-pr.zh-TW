@@ -3,7 +3,6 @@ title: 更新 DNS 記錄以便向目前的主機服務提供者保留網站
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,16 +13,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: a1ea0589def4945da64c73d68b2e4a3d64d6b83d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506398"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665751"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>更新 DNS 記錄以便向目前的主機服務提供者保留網站
 
-1. 在 [[網域](https://portal.office.com/adminportal/home#/Domains)] 頁面清單中的網域] 中，選取您對您的網站使用的網域。
+1. 在 Microsoft 365 系統管理中心，移至 [**設定** > [網域](https://portal.office.com/adminportal/home#/Domains)] 頁面上，然後在 [網域] 清單中選取您對您的網站使用的網域。
 
 2. 選取 [ **+ 新增自訂記錄**，並輸入下列項目：
 

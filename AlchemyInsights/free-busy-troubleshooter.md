@@ -3,7 +3,6 @@ title: 607 空閒/忙碌疑難排解員
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: d2d804868f570062831dd634ca74b7c10392349e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 707ead2a324374b6496c995855fd7d2400afaa17
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524366"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664851"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>查看行事曆空閒/忙碌資訊的問題
 

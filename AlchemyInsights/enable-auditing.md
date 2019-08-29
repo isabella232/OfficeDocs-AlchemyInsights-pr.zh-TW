@@ -3,7 +3,6 @@ title: 啟用及搜尋稽核記錄
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527714"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665067"
 ---
 # <a name="enable-and-search-the-audit-log"></a>啟用及搜尋稽核記錄
+
+**Office 365**
 
 若要搜尋的 Office 365 稽核記錄檔，請遵循[下列步驟](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)。
 
@@ -28,7 +29,7 @@ ms.locfileid: "36527714"
 
 - Exchange 系統管理員活動會依預設稽核。
 
-- 我們正在啟用信箱稽核由 Office 365 中的預設值。 在那之前，若要啟用稽核針對單一信箱或組織中的所有信箱，請參閱[這篇文章](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)。
+- 在 Office 365 中的預設會啟用信箱稽核。 如需詳細資訊，請參閱[這篇文章](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)。
 
 - Office 365 群組信箱和 Exchange Online 中的公用資料夾信箱不支援稽核記錄。
 
