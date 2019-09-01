@@ -2,7 +2,6 @@
 title: 帳戶遭到入侵時的建議步驟
 ms.author: pebaum
 author: pebaum
-ms.date: 10/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +9,12 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 71ccb6c4bd3c9f3d229a391f820df72e2d01ee37
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 6c18059616c0900f330e0cdb5d1076ff28a5b76c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904181"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666543"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>帳戶遭到入侵時的建議步驟
 
@@ -27,7 +26,7 @@ ms.locfileid: "35904181"
 
 3. 移除在信箱內設定的任何可疑[收件匣規則](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED)。
 
-4. 如果使用者遭到封鎖而無法傳送電子郵件，請[移至 [受限制的使用者]，以解除封鎖帳戶](https://protection.office.com/?hash=/restrictedusers)。 完成後，使用者應該在 1 小時內即可恢復傳送郵件。
+4. 如果使用者遭到封鎖而無法傳送電子郵件，請[移至 [受限制的使用者] 頁面以解除封鎖帳戶](https://protection.office.com/?hash=/restrictedusers)。 完成後，使用者應該在 1 小時內即可恢復傳送郵件。
 
 5. 從任何[系統管理角色群組](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504)移除使用者帳戶，直到您確定該帳戶不再受到入侵為止。
 
