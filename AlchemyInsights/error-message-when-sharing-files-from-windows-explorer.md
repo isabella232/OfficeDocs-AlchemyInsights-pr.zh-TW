@@ -1,6 +1,6 @@
 ---
 title: 共用 Windows 檔案總管中的檔案時的錯誤訊息
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/19/2018
 ms.audience: ITPro
@@ -11,12 +11,12 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 1460a73a0365c4fd170f6aea3a30cc4d6dcefce2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a8fe007084883b125b0ca538156a1576deb1c28e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527246"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755983"
 ---
 # <a name="error-message-when-sharing-files-from-windows-explorer"></a>共用 Windows 檔案總管中的檔案時的錯誤訊息
 

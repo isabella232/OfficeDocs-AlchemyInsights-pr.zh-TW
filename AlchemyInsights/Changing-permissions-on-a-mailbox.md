@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661395"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734372"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>變更在信箱上的權限
 
 如果使用者需要存取本身以外的 Office 365 信箱，他們必須能夠使用這些信箱的權限。 您將這些權限的指派，則信箱類型而定。 如果使用者需要存取：
   
-- 其他使用者的信箱位，請參閱[授與 Office 365 中的另一位使用者的信箱權限](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8)。
+- 其他使用者的信箱位，請參閱[授與 Office 365 中的另一位使用者的信箱權限](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user)。
     
 - 共用的信箱，請參閱[從共用信箱的 [新增或移除成員](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7)。
     

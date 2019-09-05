@@ -1,6 +1,6 @@
 ---
 title: 遺失工作流程無法啟動
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/3/2018
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: 44fd3c2d1e8b278b47c0fde6d48c7cbcbaa5c324
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f03d7e1441465050c4b0608f4100f217b183d2e2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543916"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753787"
 ---
 # <a name="missing-workflow-failed-to-activate"></a>遺失工作流程無法啟動
 

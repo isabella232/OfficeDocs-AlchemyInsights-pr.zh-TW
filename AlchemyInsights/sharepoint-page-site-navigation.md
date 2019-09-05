@@ -1,6 +1,6 @@
 ---
 title: 開始使用 SharePoint Online
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ec39c31baedc8e31a9806b5a6b107009de09ce4c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74ac6eb23552ccd70de3efabeb2eed7caf249dba
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502978"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750115"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>在 SharePoint 網站的網站和頁面導覽
 
