@@ -12,12 +12,12 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 05b961cec364bce694a8f39d9de245062bfdb859
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e977f1393bb47cd2a4cb27ddef18f48105214a9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666327"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744920"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>帳戶因傳送太多垃圾郵件而遭封鎖
 
@@ -27,5 +27,5 @@ ms.locfileid: "36666327"
 
 2. 在安全性與合規性中心，移至受限制的使用者以**[將帳戶解除封鎖](https://protection.office.com/?hash=/restrictedusers)**。 完成後，您應該在 *1 小時內*即可恢復傳送郵件。
 
-3. 若要避免帳戶未來不會再遭盜用，請遵照 [Office 365 的安全性最佳做法](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx)中的建議事項。
+3. 若要避免帳戶未來不會再遭盜用，請遵照 [Office 365 安全性藍圖](https://docs.microsoft.com/office365/securitycompliance/security-roadmap)中的建議事項。
   
