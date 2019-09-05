@@ -12,12 +12,12 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 5a200db8ea5dcfc4a1da0c984f299028ebc3b0f6
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 3a940182e831c03e040e5bb2dd9c73adcfd2c7b0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663853"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735452"
 ---
 # <a name="how-to-install-office"></a>如何安裝 Office
 
@@ -25,7 +25,7 @@ ms.locfileid: "36663853"
   
 *附註：[Office 家用及中小企業版](https://products.office.com/home-and-business)是[家用 Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) 產品以及非商務版訂閱的一部分。如需有關 Visio 或 Project 的特定指示，請參閱[安裝 Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) 或[安裝 Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*。
 
-建立使用者帳戶並新增網域。 請確認使用者擁有[已指派的授權](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA)。
+建立使用者帳戶並新增網域。 請確認使用者擁有[已指派的授權](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)。
 
 要求每個使用者：
 
