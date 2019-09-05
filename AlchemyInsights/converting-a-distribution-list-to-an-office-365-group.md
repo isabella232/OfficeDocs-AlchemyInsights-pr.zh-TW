@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 167c4e5fe0b1be2d4c0c3931db08c02feb8fa53d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516394"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738332"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="01a2e-102">通訊群組轉換至 Office 365 群組</span><span class="sxs-lookup"><span data-stu-id="01a2e-102">Convert a distribution group to an Office 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="03436-102">通訊群組轉換至 Office 365 群組</span><span class="sxs-lookup"><span data-stu-id="03436-102">Convert a distribution group to an Office 365 Group</span></span>
 
-<span data-ttu-id="01a2e-103">如果他們滿足特定條件，您可以將通訊群組轉換為 Office 365 群組中。</span><span class="sxs-lookup"><span data-stu-id="01a2e-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="01a2e-104">若要轉換的群組或轉換問題進行疑難排解，請參閱[升級至 Office 365 群組，在 Outlook 中的通訊群組清單](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F)。</span><span class="sxs-lookup"><span data-stu-id="01a2e-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).</span></span>
+<span data-ttu-id="03436-103">如果他們滿足特定條件，您可以將通訊群組轉換為 Office 365 群組中。</span><span class="sxs-lookup"><span data-stu-id="03436-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="03436-104">若要轉換的群組或轉換問題進行疑難排解，請參閱[升級至 Office 365 群組，在 Outlook 中的通訊群組清單](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists)。</span><span class="sxs-lookup"><span data-stu-id="03436-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>
