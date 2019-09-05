@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3b5f8296-6661-4721-83bc-bc7e310219ac
-ms.openlocfilehash: e87bdbbc400217e6f7cb86c210b9140bd60a31c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 91a14421af93580926ba97d65b9a6a6c8a687d23
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515838"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738224"
 ---
-# <a name="create-a-shared-mailbox"></a><span data-ttu-id="37d7d-102">建立共用信箱</span><span class="sxs-lookup"><span data-stu-id="37d7d-102">Create a shared mailbox</span></span>
+# <a name="create-a-shared-mailbox"></a><span data-ttu-id="97193-102">建立共用信箱</span><span class="sxs-lookup"><span data-stu-id="97193-102">Create a shared mailbox</span></span>
 
-<span data-ttu-id="37d7d-103">共用的信箱可讓多人傳送及接收電子郵件別名，例如**sales@contoso.com**，卻沒有指定另一個授權。</span><span class="sxs-lookup"><span data-stu-id="37d7d-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
+<span data-ttu-id="97193-103">共用的信箱可讓多人傳送及接收電子郵件別名，例如**sales@contoso.com**，卻沒有指定另一個授權。</span><span class="sxs-lookup"><span data-stu-id="97193-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
   
-<span data-ttu-id="37d7d-104">如需詳細資訊，請參閱[建立共用信箱](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9)。</span><span class="sxs-lookup"><span data-stu-id="37d7d-104">See [Create a shared mailbox](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) for more information.</span></span> 
+<span data-ttu-id="97193-104">如需詳細資訊，請參閱[建立共用信箱](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)。</span><span class="sxs-lookup"><span data-stu-id="97193-104">See [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) for more information.</span></span> 
   
 
