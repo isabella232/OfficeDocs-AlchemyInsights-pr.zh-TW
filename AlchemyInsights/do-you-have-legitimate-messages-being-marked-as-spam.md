@@ -12,22 +12,22 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: fca4150c6dbeed2d83d7d6d6503b9f8742a1ff6b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c70374055d650e5673c1110bcf7b8b8b9ceaff66
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665107"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740384"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="a52e9-102">您是否將合法的郵件標示為垃圾郵件？</span><span class="sxs-lookup"><span data-stu-id="a52e9-102">Do you have legitimate messages being marked as spam?</span></span>
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="0ddca-102">您是否將合法的郵件標示為垃圾郵件？</span><span class="sxs-lookup"><span data-stu-id="0ddca-102">Do you have legitimate messages being marked as spam?</span></span>
 
-<span data-ttu-id="a52e9-103">請嘗試上述診斷或這個[逐步指引，以便為 Office 365 中標示為垃圾郵件的正常郵件進行疑難排解](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0)。</span><span class="sxs-lookup"><span data-stu-id="a52e9-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
+<span data-ttu-id="0ddca-103">請嘗試上述診斷或這個[逐步指引，以便為 Office 365 中標示為垃圾郵件的正常郵件進行疑難排解](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0)。</span><span class="sxs-lookup"><span data-stu-id="0ddca-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
   
-<span data-ttu-id="a52e9-104">回報這類問題的最佳方式是：</span><span class="sxs-lookup"><span data-stu-id="a52e9-104">The best way to report these types of issues is to:</span></span>
+<span data-ttu-id="0ddca-104">回報這類問題的最佳方式是：</span><span class="sxs-lookup"><span data-stu-id="0ddca-104">The best way to report these types of issues is to:</span></span>
   
-1. <span data-ttu-id="a52e9-105">為使用者[啟用報告增益集](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in)。</span><span class="sxs-lookup"><span data-stu-id="a52e9-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
+1. <span data-ttu-id="0ddca-105">為使用者[啟用報告增益集](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in)。</span><span class="sxs-lookup"><span data-stu-id="0ddca-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
 
-2. <span data-ttu-id="a52e9-106">讓使用者[將郵件回報為非垃圾郵件](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US)。</span><span class="sxs-lookup"><span data-stu-id="a52e9-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
+2. <span data-ttu-id="0ddca-106">讓使用者[將郵件回報為非垃圾郵件](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2)。</span><span class="sxs-lookup"><span data-stu-id="0ddca-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2).</span></span>
 
-<span data-ttu-id="a52e9-107">如果您想要開啟支援票證，請附加至少以下**一整封原始郵件**的完整電子郵件標頭。</span><span class="sxs-lookup"><span data-stu-id="a52e9-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span>
+<span data-ttu-id="0ddca-107">如果您想要開啟支援票證，請附加至少以下**一整封原始郵件**的完整電子郵件標頭。</span><span class="sxs-lookup"><span data-stu-id="0ddca-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span>
   
