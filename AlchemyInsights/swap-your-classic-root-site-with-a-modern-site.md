@@ -12,18 +12,18 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501070"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749251"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>交換傳統根網站與新式網站
 
 如果您的環境設定成 [年 4 月 2019年之前，您可以變更至新式網站的根網站使用 Microsoft PowerShell:
 
-- 如果您有不同的網站，您想要作為根網站時，您可以將 （分頁） 的根網站取代它。 
+- 如果您有不同的網站，您想要作為根網站時，您可以將[（分頁） 的根網站](https://docs.microsoft.com/sharepoint/modern-root-site)取代它。 
     - 使用[Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)封存原始網站時切換網站與其他網站的位置。 適用於小組網站 （未連線至群組） 及通訊網站。 
 
 - 額外的功能將會引進推出，可讓您保留網站上，使用內容，但是在通訊網站轉換現有的網站。 

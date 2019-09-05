@@ -1,6 +1,6 @@
 ---
 title: 檔案鎖定進行編輯
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 243179d0501089ee4865aeaf6b340a68f428d6c1
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 4a1edf25cfcabb0e7f89978812624a86dab7c196
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631618"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754975"
 ---
 # <a name="cant-edit-files"></a>無法編輯檔案嗎？ 
 

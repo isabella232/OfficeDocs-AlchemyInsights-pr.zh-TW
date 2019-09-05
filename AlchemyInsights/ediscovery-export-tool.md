@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528254"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736316"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>無法安裝或執行 eDiscovery 匯出工具？
 
@@ -44,7 +44,7 @@ ms.locfileid: "36528254"
 
 - 您的組織可以連線到 Azure，也就是在端點**\*。 blob.core.windows.net** （萬用字元代表您匯出工作的唯一識別碼）。
 
-- 您要指派 Office 365 安全性中的匯出角色&amp;合規性中心。 根據預設，此角色只被指派給 「 eDiscovery 管理員 」 角色群組。 請參閱[指派 eDiscovery 權限](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo)。
+- 您要指派 Office 365 安全性中的匯出角色&amp;合規性中心。 根據預設，此角色只被指派給 「 eDiscovery 管理員 」 角色群組。 請參閱[指派 eDiscovery 權限](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)。
 
-如需詳細資訊，請參閱[匯出內容搜尋結果](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278)。
+如需詳細資訊，請參閱[匯出內容搜尋結果](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。
   

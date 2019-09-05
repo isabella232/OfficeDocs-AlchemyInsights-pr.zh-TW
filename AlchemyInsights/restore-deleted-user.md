@@ -13,12 +13,12 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551802"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745064"
 ---
 # <a name="restore-a-user-in-office-365"></a>還原 Office 365 使用者
 
@@ -32,4 +32,4 @@ ms.locfileid: "36551802"
 
 4. 按一下 [**傳送電子郵件，並關閉**]，大功告成 ！
 
-未容易嗎？ 如需詳細資訊和步驟的螢幕擷取畫面，請參閱這篇文章：[還原 Office 365 中的使用者](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)。 如果您發現您改為需要還原使用者的信箱，請參閱：[刪除或還原使用者信箱在 Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)。
+未容易嗎？ 如需詳細資訊和步驟的螢幕擷取畫面，請參閱這篇文章：[還原 Office 365 中的使用者](https://docs.microsoft.com/office365/admin/add-users/restore-user)。 如果您發現您改為需要還原使用者的信箱，請參閱：[刪除或還原使用者信箱在 Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)。

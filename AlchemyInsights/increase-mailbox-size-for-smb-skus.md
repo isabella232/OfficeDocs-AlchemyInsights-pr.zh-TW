@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499270"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739232"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>切換方案增加信箱大小
 
@@ -30,6 +30,6 @@ ms.locfileid: "36499270"
     
 4. 當您完成簽出時，Office 365 會需要數分鐘才能完成切換。 您可以開始使用新訂閱立即。
     
-如需詳細資訊，請參閱[切換到不同的 Office 365 計劃](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)。
+如需詳細資訊，請參閱[切換到不同的 Office 365 計劃](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)。
   
 

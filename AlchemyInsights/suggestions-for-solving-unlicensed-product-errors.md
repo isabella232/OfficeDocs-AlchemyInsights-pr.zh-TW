@@ -13,16 +13,16 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501034"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743264"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>如需解決 「 未授權產品 」 錯誤的建議
 
-請確定您有訂閱，可讓用戶端授權，例如 Office 365 商務版或商務進階版，並[確保使用者具有指派授權](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)。 若要檢查是否您有超過您的訂閱所支援的安裝數目[停用安裝](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA)。
+請確定您有訂閱，可讓用戶端授權，例如 Office 365 商務版或商務進階版，並[確保使用者具有指派授權](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)。 若要檢查是否您有超過您的訂閱所支援的安裝數目[停用安裝](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)。
   
 請確定使用者登入相同的帳戶已指派授權。
   

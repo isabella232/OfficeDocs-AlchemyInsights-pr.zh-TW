@@ -13,12 +13,12 @@ ms.custom:
 - "824"
 - "5800003"
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
-ms.openlocfilehash: 24aff29e854ba6e00a70737213dfaaafcb33eaf4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07239ddfeb313a7644226150000c09d5b861aa54
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525212"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739880"
 ---
 # <a name="fix-onedrive-sync-problems"></a>修正 OneDrive 同步處理問題
 
@@ -28,6 +28,6 @@ ms.locfileid: "36525212"
     
 - [取消連結 OneDrive，並再次執行 OneDrive 安裝程式： 通知區域中，在工作列的最右邊的藍色 OneDrive 雲端圖示上按一下滑鼠右鍵。 按一下 [**設定**]，然後按一下 [**取消連結任務此電腦]**。 依照在歡迎使用 OneDrive 精靈來設定 OneDrive。
     
-[同步處理問題的疑難排解的詳細步驟](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US)
+[同步處理問題的疑難排解的詳細步驟](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90)
   
 

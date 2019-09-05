@@ -15,12 +15,12 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509171"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734156"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>設定 Outlook 行動裝置 app 中的電子郵件
 
@@ -30,7 +30,7 @@ ms.locfileid: "36509171"
 
 3. 輸入您的電子郵件帳戶密碼，然後點選 [**登入**] 或 [**下一步**]。
 
-4. 如果已啟用[多重要素驗證](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx)，請確認使用您設定 （6 位數的程式碼、 電話或 Microsoft Authenticator app） 的方法。
+4. 如果已啟用[多重要素驗證](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication)，請確認使用您設定 （6 位數的程式碼、 電話或 Microsoft Authenticator app） 的方法。
 
 5. 如果其他 IT 系統原則已備妥，點選 [**啟動**加以啟用。
 

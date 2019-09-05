@@ -1,18 +1,18 @@
 ---
 title: 同步處理使用者設定檔圖片
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: f86606b86a4493730e68e50a6a965f1441556aed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 77b956c6239ee5d97e1358986807180055ee0525
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543672"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753679"
 ---
 # <a name="sync-a-users-profile-picture"></a>同步處理使用者設定檔圖片
 
@@ -30,5 +30,5 @@ ms.locfileid: "36543672"
 
 附註： 如果您已上傳圖片可能會想要再按一下 [SharePoint 或 OneDrive] 磚以重新同步處理該圖片。
 
-如需詳細資訊，請造訪[Office 365 中的設定檔圖片同步處理的相關資訊](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a?ui=en-US&amp;rs=en-US&amp;ad=US)
+如需詳細資訊，請造訪[Office 365 中的設定檔圖片同步處理的相關資訊](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557960"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738080"
 ---
 # <a name="workflow-is-not-starting"></a>無法啟動工作流程
 
@@ -33,7 +33,7 @@ ms.locfileid: "36557960"
 
     - 工作流程是並非特別設計用來執行即時，因此延遲是所設計的行為。
 
-   -  如果工作流程是複雜的 「 可延伸物件標記語言 」 (XMOL)，編譯可能會很慢。 請檢查[這](https://support.microsoft.com/en-us/kb/3043697)篇文章。
+   -  如果工作流程是複雜的 「 可延伸物件標記語言 」 (XMOL)，編譯可能會很慢。 請檢查[這](https://support.microsoft.com//kb/3043697)篇文章。
 
     - 您應該簡化工作流程或重新設計使用 Microsoft SharePoint 2013 工作流程平台類型。
 

@@ -13,16 +13,16 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: bcc23c54e38c0e3f06c243c53a6cc7fd1f8e7c0e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664563"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737101"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook 當機問題的疑難排解步驟
 
-如果您有 Outlook 桌面損毀問題，請啟動下列三個步驟，所有會列在本文中的詳細資料：[如何疑難排解問題，會造成 Outlook 當機或與 Office 365 搭配使用時停止回應。](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+如果您有 Outlook 桌面損毀問題，請啟動下列三個步驟，所有會列在本文中的詳細資料：[如何疑難排解問題，會造成 Outlook 當機或與 Office 365 搭配使用時停止回應。](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
 步驟 1： 調查可能的問題與增益集。
   

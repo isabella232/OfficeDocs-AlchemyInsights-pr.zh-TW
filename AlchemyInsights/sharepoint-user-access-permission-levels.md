@@ -1,6 +1,6 @@
 ---
 title: 使用者權限
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 5/21/2018
 ms.audience: ITPro
@@ -8,22 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: b5653648d2c5e136cc35e3fe98f777f5932e4ac8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca104d8b5ed2a472faae565a04d1926504b1a95f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502762"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749791"
 ---
 # <a name="user-permissions-in-sharepoint"></a>在 SharePoint 中的使用者權限
 
-建立 SharePoint 網站後，您可以允許或限制使用者存取網站或其內容。 若要使用的權限最簡單的方法是使用[預設群組](https://support.office.com/article/default-sharepoint-groups-13bb2b6b-dd8c-447e-b71b-0e4bb9efe1d3)與權限層級，提供，其中涵蓋最常見的案例。 但如果您有需要，也可以設定比預設等級更精細的微調權限。 如需詳細資訊，請參閱[了解 SharePoint 的權限等級](https://docs.microsoft.com/sharepoint/understanding-permission-levels)。
+建立 SharePoint 網站後，您可以允許或限制使用者存取網站或其內容。 若要使用的權限最簡單的方法是使用[預設群組](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)與權限層級，提供，其中涵蓋最常見的案例。 但如果您有需要，也可以設定比預設等級更精細的微調權限。 如需詳細資訊，請參閱[了解 SharePoint 的權限等級](https://docs.microsoft.com/sharepoint/understanding-permission-levels)。
 
 如需有關管理特定權限層級的詳細資訊，請瀏覽下列連結：
 
 - [編輯與管理 SharePoint 清單或文件庫的權限](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [建立與管理 SharePoint 群組](https://support.office.com/article/create-and-manage-sharepoint-groups-b1e3cd23-1a78-4264-9284-87fed7282048)
+- [建立與管理 SharePoint 群組](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
 - [如何建立及編輯權限等級](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
 

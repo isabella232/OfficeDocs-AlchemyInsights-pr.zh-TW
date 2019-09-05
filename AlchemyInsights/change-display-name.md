@@ -11,12 +11,12 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519794"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736712"
 ---
 # <a name="change-your-display-name"></a>變更您的顯示名稱
   
@@ -27,7 +27,7 @@ ms.locfileid: "36519794"
 2. 選取的電子郵件帳戶，然後選取 [**變更**。
 
     > [!NOTE]
-    > 如果看不到 [若要變更您的顯示名稱] 選項，您可能使用的 Microsoft Exchange 電子郵件帳戶。 在此情況下，您必須連絡您的系統管理員，若要變更您的顯示名稱。 請參閱[變更的使用者名稱和電子郵件地址中 Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)。
+    > 如果看不到 [若要變更您的顯示名稱] 選項，您可能使用的 Microsoft Exchange 電子郵件帳戶。 在此情況下，您必須連絡您的系統管理員，若要變更您的顯示名稱。 請參閱[變更的使用者名稱和電子郵件地址中 Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)。
   
 3. 您已變更您的顯示名稱之後，按一下 **[確定]** 以儲存變更。 可能需要您的變更以反映在整個組織的幾個小時。
 

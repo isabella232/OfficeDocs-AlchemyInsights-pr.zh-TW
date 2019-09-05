@@ -1,18 +1,18 @@
 ---
 title: 儲存為範本的網站或清單
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: a74d14f1743b9a016346f7bf0943523b1ab21f91
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551622"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752023"
 ---
 # <a name="save-site-or-list-as-a-template"></a>儲存為範本的網站或清單
 
@@ -39,7 +39,7 @@ SharePoint 網站範本是預先的定義專為特定的業務需求。 如需�
 - 網站使用太多的資源並因此網站範本超過 50 mb 的限制。
 
 
-- 有問題，顯示使用查閱欄的清單中的資料。 如需詳細資訊，請參閱[範本產生清單不會顯示來自 SharePoint Online 中正確的查閱清單的資料](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a)。
+- 有問題，顯示使用查閱欄的清單中的資料。 如需詳細資訊，請參閱[範本產生清單不會顯示來自 SharePoint Online 中正確的查閱清單的資料](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data)。
 
 
 常見的問題與解決方案的詳細資訊，請參考，請[建立及使用網站範本](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)。

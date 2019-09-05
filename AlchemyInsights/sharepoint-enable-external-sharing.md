@@ -8,12 +8,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: b5e546329fa05620b927db4742c3023f45289efc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503878"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744416"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>啟用 SharePoint Online 中的外部共用
 
@@ -35,7 +35,7 @@ ms.locfileid: "36503878"
 
 - [共用 SharePoint 檔案或資料夾](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [停止共用 OneDrive 或 SharePoint 檔案或資料夾，或變更權限](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [停止共用 OneDrive 或 SharePoint 檔案或資料夾，或變更權限](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
 - [刪除外部使用者](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
@@ -45,6 +45,6 @@ ms.locfileid: "36503878"
 
 - [在 Sharepoint 或 OneDrive OSE 共用錯誤](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [外部使用者接受使用另一個帳戶的 SharePoint Online 的邀請時出現錯誤訊息](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [外部使用者接受使用另一個帳戶的 SharePoint Online 的邀請時出現錯誤訊息](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [存取被拒的共用資料夾](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+- [存取被拒的共用資料夾](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)

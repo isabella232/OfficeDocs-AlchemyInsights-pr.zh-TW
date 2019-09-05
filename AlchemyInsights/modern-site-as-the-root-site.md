@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
-ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
+ms.openlocfilehash: a3cf44d52a3948634fc0eed64c852ff17515fd9b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620750"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753895"
 ---
 # <a name="modern-site-as-root-site"></a>新式網站作為根網站
 
-我們已開始導入可讓您將交換與新式網站您傳統網站的根網站的新功能。 使用[Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)封存原始網站時切換網站與其他網站的位置。 適用於小組網站 （未連線至群組） 及通訊網站。 
+我們已開始導入可讓您將[交換與新式網站您傳統網站的根網站](https://docs.microsoft.com/sharepoint/modern-root-site)的新功能。 使用[Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)封存原始網站時切換網站與其他網站的位置。 適用於小組網站 （未連線至群組） 及通訊網站。
 
 >[!Important]
 > 請勿刪除傳統的根網站以建立新式通訊網站。 Microsoft 不支援此。 刪除根網站會使所有的 SharePoint 網站組織中所有使用者，無法存取直到您還原的網站，或在相同的 URL 建立新的網站。 我們將通訊透過訊息中心這項功能。 您應該會開啟在您的租用戶中短時間內的功能。

@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498406"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735380"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>終端機伺服器上安裝 Office
 
@@ -26,7 +26,7 @@ ms.locfileid: "36498406"
 
 - 您要啟用[共用的電腦啟用](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)。
 
-如果您想要安裝 Office 365 專業增強版上 RDS 從 Office 365 入口網站，***其使用預設安裝的設定***，請遵循下列步驟：
+如果您想要安裝 Office 365 專業增強版上 RDS 從 Microsoft 365 系統管理中心中，***其使用預設安裝的設定***，請遵循下列步驟：
   
 1. 請檢查您有哪些 Office 365 計劃。 [了解如何](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -34,7 +34,7 @@ ms.locfileid: "36498406"
 
 3. 如果使用任何其他 Office 365 計劃在 RDS 伺服器上已安裝 Office，請將它解除安裝。 例如，可以移至 [控制台]\>解除安裝程式。 解除安裝使用[Microsoft 的支援及修復小幫手](https://aka.ms/SARA-OfficeUninstall-Alchemy)，如果您正在執行發生問題。
 
-4. 在 RDS 伺服器上，登入與您的系統管理員帳戶和[安裝 Office 365 專業增強版](https://portal.office.com/OLS/MySoftware.aspx)的 Office 365 入口網站。
+4. 在 RDS 伺服器上，登入與您的系統管理員帳戶和[安裝 Office 365 專業增強版](https://portal.office.com/OLS/MySoftware.aspx)的 Microsoft 365 系統管理中心。
 
 5. 安裝 Office 之後，***不要開啟或登入***任何 Office 應用程式。
 
