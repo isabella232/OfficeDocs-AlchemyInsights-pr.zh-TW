@@ -14,18 +14,18 @@ ms.custom:
 - "878"
 - "3500012"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
-ms.openlocfilehash: 6680b79ec120e28076f3de01818ea27334921a05
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e7dc184adbe1fe6345646850906805e28ac4b781
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558716"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742400"
 ---
 # <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a>不同類型的 Outlook 共用行事曆，以及設定共用行事曆的方法
 
-- [建立共用信箱](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)
+- [建立共用信箱](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
 
-- [會議室與設備信箱](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b)
+- [會議室與設備信箱](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
 
 - [建立行事曆群組](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
 

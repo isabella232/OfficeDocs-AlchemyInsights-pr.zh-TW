@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 52429314d1529d0d2df7886feaebbcfd27666a06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 73583b3b27143c708a4cc993cdff94a33131ab52
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559688"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743084"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>疑難排解 Sharepoint Online 中的「 在檔案總管中開啟」問題
 
@@ -25,7 +25,7 @@ ms.locfileid: "36559688"
 
 如果您選擇使用總管檢視，而非使用新的 OneDrive 同步用戶端，請務必遵循以下文章中提供的步驟及最佳做法：
 
-- [如何使用 [在檔案總管中開啟] 命令以在 SharePoint Online 中針對問題進行疑難排解](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) (英文)
+- [如何使用 [在檔案總管中開啟] 命令以在 SharePoint Online 中針對問題進行疑難排解](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) (英文)
 
 - [使用 [在檔案總管中開啟] 來複製或移動檔案](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2) (機器翻譯)
 
