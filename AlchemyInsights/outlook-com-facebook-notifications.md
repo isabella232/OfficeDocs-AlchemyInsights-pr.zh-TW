@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 80ddadfedb5a8a0dff2a7b9cf371e03fae58bdff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e389deb7347e13c0e4ba658da4d355ffe11049c
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536966"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822062"
 ---
 # <a name="facebook-notifications-using-outlookcom"></a>使用 Outlook.com 的 Facebook 通知
 
-如果您不想要從 Facebook 會收到通知，您可以變更您的[Facebook 設定](https://www.facebook.com/settings?tab=notifications)，或設定收件匣規則。
+如果您不想要從 Facebook 會收到通知，您可以變更您的[Facebook 設定](https://aka.ms/facebook-notifications-settings)，或設定收件匣規則。
 
 1. 移至 [[規則設定](https://outlook.live.com/mail/options/mail/rules/inboxRules)。
 1. 選取 [**新增新的規則**。

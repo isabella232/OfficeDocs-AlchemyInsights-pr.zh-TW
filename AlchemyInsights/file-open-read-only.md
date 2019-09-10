@@ -9,12 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 5c28d5f1c6951971aab329060e24b8458e848dd7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "765"
+- "2200014"
+ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525662"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822225"
 ---
 # <a name="file-open-read-only"></a>唯讀方式開啟檔案
 
@@ -22,7 +25,7 @@ ms.locfileid: "36525662"
   
  **我的防毒軟體會造成它們以唯讀方式開啟**
   
-部分防毒程式可能會防止您具有潛在危險性的檔案開啟其唯讀屬性。 您可能需要您防毒軟體的提供者了解如何調整這些設定，請洽詢。 BitDefender，例如，具有上新增應用程式排除以下內容： [How to： 新增應用程式或處理程序排除 Bitdefender 控制項置中的](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl)。
+部分防毒程式可能會防止您具有潛在危險性的檔案開啟其唯讀屬性。 您可能需要您防毒軟體的提供者了解如何調整這些設定，請洽詢。 BitDefender，例如，具有上新增應用程式排除以下內容： [How to： 新增應用程式或處理程序排除 Bitdefender 控制項置中的](https://aka.ms/AA6098i)。
   
  **檔案屬性設定為唯讀？**
   

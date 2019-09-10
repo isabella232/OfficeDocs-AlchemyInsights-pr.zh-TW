@@ -11,12 +11,12 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504750"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821793"
 ---
 # <a name="connected-accounts-are-no-longer-supported"></a>已連線的帳戶已不再支援
 
@@ -26,7 +26,7 @@ Microsoft 已移除的功能，將新帳戶新增至使用已連線的帳戶功�
   
 [開啟或關閉自動轉接中 Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[自動轉寄至另一個帳戶的 Gmail 郵件](https://support.google.com/mail/answer/10957?hl=en)
+[自動轉寄至另一個帳戶的 Gmail 郵件](https://aka.ms/forward-gmail-messages)
   
-[在 Yahoo mail 自動電子郵件轉寄](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[在 Yahoo mail 自動電子郵件轉寄](https://aka.ms/yahoo-email-forwarding)
   
