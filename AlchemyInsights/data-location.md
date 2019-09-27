@@ -2,7 +2,6 @@
 title: 資料位置
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514111"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207252"
 ---
 # <a name="data-location"></a>資料位置
 
-我們跨資料中心的備援維護多份您的資料。 [請參閱您資料所在的位置](https://office.com/datamaps)。 如果我們展開到新的國家或地區資料的位置，我們將提供您一個月事先通知。
-  
-如需有關 Office 365 安全性、 隱私權和規範的詳細資訊，請參閱[Office 365 信任中心](https://products.office.com/business/office-365-trust-center-welcome)。
-  
+在系統管理中心或連線到 Exchange Online 透過 PowerShell，您可以檢視您的 Office 365 租用戶的位置。
+
+
+**系統管理中心：**
+1. 登入[系統管理中心](https://admin.microsoft.com/Adminportal/Home)。
+2. 選取 [**設定** > **組織設定檔**。
+3. 在 [**資料位置**]，選取 [**檢視詳細資料**]。
+
+
+**PowerShell:**
+1. 使用 Windows PowerShell 連線到 Exchange Online。
+2. 執行[Get-organizationalunit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit)指令程式，來顯示您的租用戶內容的清單。 
+3. 查看 OrganizationId 屬性。
+
+當您有 EXO 和 SPO 的資料位置時，您可以判斷您可能會從[您的資料所在的位置](https://products.office.com/where-is-your-data-located)使用其他服務的資料位置。
