@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 5fa39c87550e6bacf60299c6420f5318ed99a73b
-ms.sourcegitcommit: 89b8d982f83ff8d269624e5745d3a186f1e3e6c1
+ms.openlocfilehash: 09cbbc28e3ad826dc3ed69a89e5ab3983c1aea24
+ms.sourcegitcommit: 3a7c40c232294878ac0c91302e86599ec6f5209e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350835"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37373102"
 ---
-#   <a name="teams-common-issues-and-resolutions"></a>Teams 常見的問題與解決方式
+# <a name="teams-common-issues-and-resolutions"></a>Teams 常見的問題與解決方式
 
 針對 Microsoft Teams 問題的相關更具體的答案，簡要重複您的問題，並包含任何您看到的錯誤或您使用的功能。
 
@@ -32,7 +32,7 @@ ms.locfileid: "37350835"
     - 若要復原已刪除的通道，請參閱[封存或還原小組](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7)。
 - **還原已刪除的檔案：** 請參閱[復原已刪除的 Teams 中的檔案](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e)。
 - **疑難排解遺失的撥號鍵台：**  
-    1. 請確定使用者有獲指派[Teams 授權](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)。
-    2. 請確定使用者有[通話方案](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)指派。
-    3. 為使用者啟用[Enterprise Voice](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)。
+    - 請確定使用者有獲指派[Teams 授權](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)。
+    - 請確定使用者有[通話方案](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)指派。
+    - 為使用者啟用[Enterprise Voice](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)。
 - **已知問題與小組：** 閱讀[已知問題的 Microsoft Teams](https://docs.microsoft.com/microsoftteams/known-issues)。
