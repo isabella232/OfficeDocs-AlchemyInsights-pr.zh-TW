@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
 ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529416"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a><span data-ttu-id="f1f0c-102">將檔案上傳至 OneDrive 或 SharePoint</span><span class="sxs-lookup"><span data-stu-id="f1f0c-102">Upload files to OneDrive or SharePoint</span></span>
+# <a name="upload-files-to-onedrive-or-sharepoint"></a><span data-ttu-id="78036-102">將檔案上傳至 OneDrive 或 SharePoint</span><span class="sxs-lookup"><span data-stu-id="78036-102">Upload files to OneDrive or SharePoint</span></span>
 
-1. <span data-ttu-id="f1f0c-103">在網頁瀏覽器，移至您要上傳檔案的位置。</span><span class="sxs-lookup"><span data-stu-id="f1f0c-103">In your web browser, go to the location where you want to upload files.</span></span>
+1. <span data-ttu-id="78036-103">在網頁瀏覽器，移至您要上傳檔案的位置。</span><span class="sxs-lookup"><span data-stu-id="78036-103">In your web browser, go to the location where you want to upload files.</span></span>
     
-2. <span data-ttu-id="f1f0c-104">開啟 [檔案總管，瀏覽至您要上傳的檔案。</span><span class="sxs-lookup"><span data-stu-id="f1f0c-104">Open File Explorer and browse to the files you want to upload.</span></span>
+2. <span data-ttu-id="78036-104">開啟 [檔案總管，瀏覽至您要上傳的檔案。</span><span class="sxs-lookup"><span data-stu-id="78036-104">Open File Explorer and browse to the files you want to upload.</span></span>
     
-3. <span data-ttu-id="f1f0c-105">選取檔案，並將其拖曳到 OneDrive 或 SharePoint 中的位置。</span><span class="sxs-lookup"><span data-stu-id="f1f0c-105">Select the files and drag them to the location in OneDrive or SharePoint.</span></span> <span data-ttu-id="f1f0c-106">附註： 如果您使用 Microsoft Edge、 Mozilla FireFox 或 Google Chrome，您也可以上載資料夾及其中的所有檔案。</span><span class="sxs-lookup"><span data-stu-id="f1f0c-106">Note: If you use Microsoft Edge, Mozilla FireFox, or Google Chrome, you can also upload a folder and all the files in it.</span></span>
+3. <span data-ttu-id="78036-105">選取檔案，並將其拖曳到 OneDrive 或 SharePoint 中的位置。</span><span class="sxs-lookup"><span data-stu-id="78036-105">Select the files and drag them to the location in OneDrive or SharePoint.</span></span> <span data-ttu-id="78036-106">附註： 如果您使用 Microsoft Edge、 Mozilla FireFox 或 Google Chrome，您也可以上載資料夾及其中的所有檔案。</span><span class="sxs-lookup"><span data-stu-id="78036-106">Note: If you use Microsoft Edge, Mozilla FireFox, or Google Chrome, you can also upload a folder and all the files in it.</span></span>
     
 > [!NOTE]
->  <span data-ttu-id="f1f0c-107">您可以上傳檔案大小的最多 15 GB。</span><span class="sxs-lookup"><span data-stu-id="f1f0c-107">You can upload files up to 15 GB in size.</span></span> <span data-ttu-id="f1f0c-108">> （包括檔案名稱） 檔案的完整路徑不能有超過 400 個字元的長度。</span><span class="sxs-lookup"><span data-stu-id="f1f0c-108">>  The full path for a file (including the file name) can't be more than 400 characters in length.</span></span> <span data-ttu-id="f1f0c-109">如果您要上傳 100 個以上的檔案，[使用 OneDrive 同步處理用戶端](https://go.microsoft.com/fwlink/?linkid=866427)的 # A0。</span><span class="sxs-lookup"><span data-stu-id="f1f0c-109">>  If you need to upload more than 100 files, [use the OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span> 
+>  <span data-ttu-id="78036-107">您可以上傳檔案大小的最多 15 GB。</span><span class="sxs-lookup"><span data-stu-id="78036-107">You can upload files up to 15 GB in size.</span></span> <span data-ttu-id="78036-108">> （包括檔案名稱） 檔案的完整路徑不能有超過 400 個字元的長度。</span><span class="sxs-lookup"><span data-stu-id="78036-108">>  The full path for a file (including the file name) can't be more than 400 characters in length.</span></span> <span data-ttu-id="78036-109">如果您要上傳 100 個以上的檔案，[使用 OneDrive 同步處理用戶端](https://go.microsoft.com/fwlink/?linkid=866427)的 # A0。</span><span class="sxs-lookup"><span data-stu-id="78036-109">>  If you need to upload more than 100 files, [use the OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span> 
   
 
