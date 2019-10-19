@@ -12,10 +12,10 @@ ms.custom:
 - "6"
 - "14"
 ms.openlocfilehash: 23d49c734148739ede0d5e5b53430a42b606c831
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36742160"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>將您的網域名稱伺服器更新為 Office 365

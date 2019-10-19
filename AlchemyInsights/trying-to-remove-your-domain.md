@@ -12,10 +12,10 @@ ms.custom:
 - "28"
 - "9"
 ms.openlocfilehash: a1ea38d29ff31e13fbcee0f18acb5627599a4be6
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36742544"
 ---
 # <a name="trying-to-remove-your-domain"></a>您正試著要移除網域嗎？

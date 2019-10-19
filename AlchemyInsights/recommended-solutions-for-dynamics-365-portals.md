@@ -11,12 +11,12 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: a7c6358af738ee1d7f1b65ade5a496d55f7fea27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: afd36494282e3974a903b7f9e4d34521d8e0faf4
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553062"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745496"
 ---
 # <a name="dynamics-365-portals-recommended-solutions"></a>Dynamics 365 入口網站建議的解決方案
 
@@ -26,7 +26,7 @@ ms.locfileid: "36553062"
 
 * [如何清除入口網站的伺服器端快取](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [如何變更的對象和 Dynamics 365 入口網站類型](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [如何變更的對象和 Dynamics 365 入口網站類型](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
 * [如何變更入口網站的基底 URL](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 

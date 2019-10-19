@@ -12,10 +12,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
 ms.openlocfilehash: 50a4888a3f8b366101cefeae6b382c728994d8a0
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753031"
 ---
 # <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>從 Sharepoint 或 OneDrive 開啟檔案的問題 

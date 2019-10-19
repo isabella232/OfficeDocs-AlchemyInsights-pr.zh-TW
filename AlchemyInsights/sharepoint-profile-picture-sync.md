@@ -7,12 +7,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: 695ad14555e92ccf5f1566012e4b4fc470a2630e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.custom:
+- "1828"
+- "9000231"
+ms.openlocfilehash: 32124a1fa46d5a42265e8ce326ae4effa19ca223
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750043"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36818777"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>何時執行動作我的設定檔變更同步處理至 SharePoint 使用者設定檔應用程式？
 
@@ -20,11 +23,11 @@ ms.locfileid: "36750043"
 
 如果使用者有從未執行提示同步處理的巨集指令或他們已更新其設定檔圖片，新的其中一個不會出現在 SharePoint Online，使用者可能需要提示以同步處理。以下是如何他們可以執行這項操作：
 
-- 開啟網頁瀏覽器中，在私人或 Incognito 工作階段並[移至 Office.com](http://www.office.com/)。
+1. 開啟網頁瀏覽器中，在私人或 Incognito 工作階段並[移至 Office.com](http://www.office.com/)。
 
-- 使用其公司或學校帳戶，登入，然後按一下 [OneDrive 或 SharePoint] 磚。
+2. 使用其公司或學校帳戶，登入，然後按一下 [OneDrive 或 SharePoint] 磚。
 
-- [將您的設定檔相片新增至 Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
+3. [新增至 Office 365 其設定檔照片](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)。
 
-- [Office 365 中的設定檔圖片同步處理的相關資訊](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)。
+[Office 365 中的設定檔圖片同步處理的相關資訊](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 
