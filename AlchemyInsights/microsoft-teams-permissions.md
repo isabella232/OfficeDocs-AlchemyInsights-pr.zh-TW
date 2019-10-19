@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: ab2349f71e1d75dd55a3efa39b076433d9d10546
-ms.sourcegitcommit: 3a7c40c232294878ac0c91302e86599ec6f5209e
+ms.openlocfilehash: 4bcf450b43ec2c27d7c47ee211c32d614bfedae3
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37373158"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37590413"
 ---
 # <a name="microsoft-teams-permissions"></a>Microsoft Teams 的權限
 
 Microsoft Teams 包含兩個使用者角色： 擁有者和成員。 根據預設，會建立新的小組的使用者會授與擁有者狀態。 此外，擁有者和成員都有通道的仲裁者功能 （如果已設定仲裁）。 如果從現有的 Office 365 群組建立小組時，會繼承的權限。 如需詳細資訊，請參閱：
 
-- [指派小組擁有者和 Microsoft Teams 中的成員](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [在 Microsoft Teams 中指派 Teams 擁有者和成員](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
 - [Microsoft Teams 應用程式的權限和考量](https://docs.microsoft.com/microsoftteams/app-permissions)
 - [在 [小組設定通道 guest 權限](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

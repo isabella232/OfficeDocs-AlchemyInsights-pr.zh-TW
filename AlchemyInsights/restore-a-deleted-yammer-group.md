@@ -12,10 +12,10 @@ ms.custom:
 - "1902"
 - "9000294"
 ms.openlocfilehash: 467dc14be08410397e08d6d0a4c33bffc7aea80e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36745136"
 ---
 # <a name="restore-a-deleted-yammer-group"></a>還原已刪除的 Yammer 群組

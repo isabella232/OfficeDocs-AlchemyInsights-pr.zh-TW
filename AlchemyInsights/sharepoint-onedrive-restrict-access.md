@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
 ms.openlocfilehash: bef0612903b9bb455aa34e90d35d6b7b9093b4e0
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750655"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>限制存取 SharePoint 或 OneDrive 中
@@ -25,7 +25,7 @@ ms.locfileid: "36750655"
 
 - [自訂 SharePoint 清單或文件庫的權限](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [自訂 SharePoint 網站的權限](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions) (機器翻譯)
+- [自訂 SharePoint 網站權限](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
 - [變更子資料夾的權限](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
@@ -35,7 +35,7 @@ ms.locfileid: "36750655"
 
 **網路位置限制**
 
-身為 IT 系統管理員，您可以控制存取 SharePoint 和 OneDrive 的資源，根據您信任的已定義的網路位置。 這也稱為是位置為基礎的原則。 如需詳細資訊，請參閱[SharePoint Online 和 OneDrive 資料是根據網路位置控制存取](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+身為 IT 系統管理員，您可以控制存取 SharePoint 和 OneDrive 的資源，根據您信任的已定義的網路位置。 這也稱為位置型原則。 如需詳細資訊，請參閱[SharePoint Online 和 OneDrive 資料是根據網路位置控制存取](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
 **網站鎖定限制** 
 

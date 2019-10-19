@@ -16,10 +16,10 @@ ms.custom:
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
 ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36734156"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>設定 Outlook 行動裝置 app 中的電子郵件

@@ -15,10 +15,10 @@ search.appverid:
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
 ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36555368"
 ---
 # <a name="enable-password-sync"></a>啟用密碼同步處理
@@ -31,8 +31,8 @@ ms.locfileid: "36555368"
     
 3. 現在您將看到您的狀態，並進行變更：
     
-    **啟用密碼同步處理：**（true 或 False）。 會指定您是否已啟用內部部署與您的 Office 365 租用戶之間的密碼同步處理。 
+    **啟用密碼同步處理：** （True 或 False）。 會指定您是否已啟用內部部署與您的 Office 365 租用戶之間的密碼同步處理。 
     
-    **上次的密碼同步處理：**（最後一次密碼同步處理執行）。 這會顯示一則警告，並連結至疑難排解工具如果上次同步處理已三天以上。 
+    **上次的密碼同步處理：** （最後一次密碼同步處理執行）。 這會顯示一則警告，並連結至疑難排解工具如果上次同步處理已三天以上。 
     
 

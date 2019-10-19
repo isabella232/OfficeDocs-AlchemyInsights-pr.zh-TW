@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
 ms.openlocfilehash: 3702311f55af63ba461bb680fe3eb57e63c5d9ef
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36741284"
 ---
 # <a name="encrypt-messages-using-smime"></a>使用 S/MIME 郵件加密
