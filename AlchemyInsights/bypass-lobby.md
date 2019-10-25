@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637768"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654247"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>控制項大廳設定和其他參與的層級
 
@@ -24,7 +24,7 @@ ms.locfileid: "37637768"
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-此 cmdlet 目前需要使用的 Skype for Business PowerShell 模組。 若要取得安裝程式以使用此指令程式，請參閱 Managing 透過 PowerShell 的原則。
+此 cmdlet 目前需要使用的 Skype for Business PowerShell 模組。 若要取得安裝程式以使用此指令程式，請參閱[透過 PowerShell 管理原則](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)。
 
 您可以設定新的原則，您必須將它套用至使用者。 如果您修改它將會自動套用至使用者的全域原則。 任何原則的變更，您需要等候至少 4 小時，並設定為 24 小時才會原則生效。
 

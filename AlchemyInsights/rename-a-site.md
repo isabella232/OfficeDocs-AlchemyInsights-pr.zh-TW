@@ -2,7 +2,6 @@
 title: 重新命名網站
 ms.author: pebaum
 author: Techwriter40
-ms.date: 9/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: ee92e2687da9e72d8551e74a0d179bf2c50f2adb
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 453b19d9a35e074a9b0e8aaae5a4256110d4a1f9
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752167"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658356"
 ---
 # <a name="rename-a-sharepoint-site"></a>重新命名 SharePoint 網站
 
-若要變更網站的名稱，例如從https://contoso.sharepoint.com/sites/sample1以https://contoso.sharepoint.com/sites/sample2，您必須建立新的網站，並再將所有內容從舊網站都移至新方案。 如需移動文件庫中的項目資訊，請參閱[移動或複製從 SharePoint 文件庫的項目](https://go.microsoft.com/fwlink/?Linkid=2018691)。
-  
-附註： 如果您試圖變更 SharePoint Online URL 中的網域名稱 （也就是上述 URL 的 contoso 部分），不可行。 請參閱[變更您的網域](https://go.microsoft.com/fwlink/?Linkid=2018696)。
+請依照下列步驟在[本文](https://docs.microsoft.com/sharepoint/change-site-address)中變更網站-的名稱，例如https://contoso.sharepoint.com/sites/sample1至https://contoso.sharepoint.com/sites/sample2。
+
+**附註：** 您無法變更網域名稱 （在上方，URL 的 contoso 部分範例） 在 SharePoint Online URL 中。 如需詳細資訊，請參閱[變更您的網域](https://go.microsoft.com/fwlink/?Linkid=2018696)。
   

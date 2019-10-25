@@ -1,9 +1,8 @@
 ---
-title: SharePoint 儲存體
+title: SharePoint 儲存空間
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 5d3c93a1e78d3481394a39aa484bf2cdd1435be2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354752"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658248"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>管理您的 SharePoint Online 儲存空間
+# <a name="manage-your-sharepoint-online-storage"></a>管理 SharePoint Online 的儲存空間
 
-針對大多數的組織, SharePoint 儲存裝置會自動管理, 因此您不需要為每個網站集合設定限制。 若要檢查您擁有的 SharePoint 儲存空間量:
-  
-- 在新的 SharePoint 系統管理中心中, 于 [網站] 頁面的右上方尋找您可用和總的儲存空間。
+了解如何[計算租用戶儲存](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)根據您的計劃。
 
-如需如何計算限制的相關資訊, 請參閱[SharePoint Online 限制](https://go.microsoft.com/fwlink/p/?LinkID=856113)。 若要購買額外的儲存空間, 請參閱[變更您訂閱的儲存空間](https://go.microsoft.com/fwlink/?linkid=866428)。
-  
-如需使用 PowerShell 來監視個別網站的儲存區和手動管理網站集合儲存的詳細資訊, 請參閱[管理網站集合儲存限制](https://go.microsoft.com/fwlink/?linkid=867833)
+對大多數的組織而言，，，您不需要設定每個網站集合的限制，是自動管理 SharePoint 儲存空間。
+
+了解如何[檢視您組織的總數和可用的儲存空間](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)。
+
+了解如何[管理個人網站集合儲存限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)。
+
+如果網站的空間不足，或您想要了解哪些文件庫或清單運用空間，請移至 [**網站設定** > **儲存計量**（網站集合管理員權限所需）。
+
+了解如何[藉由使用 PowerShell 監視器網站儲存量限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)。
+
+了解如何[購買額外儲存空間](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space)。 
   
