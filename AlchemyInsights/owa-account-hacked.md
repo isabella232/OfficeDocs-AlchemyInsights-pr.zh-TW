@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 72dada23e9d69ae1ad55d427766e8cb51b700fa2
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36511190"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a><span data-ttu-id="a2f15-102">Outlook web 帳戶駭客入侵</span><span class="sxs-lookup"><span data-stu-id="a2f15-102">Outlook on the web account hacked</span></span>
+# <a name="outlook-on-the-web-account-hacked"></a><span data-ttu-id="c4ea9-102">Outlook web 帳戶駭客入侵</span><span class="sxs-lookup"><span data-stu-id="c4ea9-102">Outlook on the web account hacked</span></span>
 
-<span data-ttu-id="a2f15-103">如果您的帳戶已遭駭客入侵，請遵循[如何保護及還原到可疑的電子郵件函數危害 Office 365 帳戶和信箱](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox)中的指示。</span><span class="sxs-lookup"><span data-stu-id="a2f15-103">If your account has been hacked, follow the instructions in [How to secure and restore email function to a suspected compromised Office 365 account and mailbox](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).</span></span>
+<span data-ttu-id="c4ea9-103">如果您的帳戶已遭駭客入侵，請遵循[如何保護及還原到可疑的電子郵件函數危害 Office 365 帳戶和信箱](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox)中的指示。</span><span class="sxs-lookup"><span data-stu-id="c4ea9-103">If your account has been hacked, follow the instructions in [How to secure and restore email function to a suspected compromised Office 365 account and mailbox](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).</span></span>
 
-<span data-ttu-id="a2f15-104">若要深入了解可防止危害您的帳戶的其他步驟，請參閱[入侵電子郵件帳戶，在 Office 365 中的回應](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)。</span><span class="sxs-lookup"><span data-stu-id="a2f15-104">To learn more about additional steps you can take to prevent your account from being compromised, see [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span>
+<span data-ttu-id="c4ea9-104">若要深入了解可防止危害您的帳戶的其他步驟，請參閱[入侵電子郵件帳戶，在 Office 365 中的回應](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)。</span><span class="sxs-lookup"><span data-stu-id="c4ea9-104">To learn more about additional steps you can take to prevent your account from being compromised, see [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span>
