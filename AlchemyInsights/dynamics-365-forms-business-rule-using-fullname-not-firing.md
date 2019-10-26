@@ -10,10 +10,10 @@ ms.custom:
 - "1928"
 - "6200018"
 ms.openlocfilehash: 91e091502f2b431c380663f3b938580b6cc963c4
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36528926"
 ---
 # <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>完整名稱] 欄位中不支援整合的 inteface 應用程式
