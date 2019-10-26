@@ -12,16 +12,16 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: ffdaca1ba45a6f273809dbe50a7c40e8610193e1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e971593b7a67e1bb40243fc762bace6b87a35741
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666507"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36745388"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>將多功能裝置或應用程式設定為使用 Office 365 傳送電子郵件
 
-若要深入了解您的選項和步驟，請參閱[如何將多功能裝置或應用程式設定為使用 Office 365 傳送電子郵件](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4)。
+若要深入了解您的選項和步驟，請參閱[如何將多功能裝置或應用程式設定為使用 Office 365 傳送電子郵件](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-3)。
   
 **附註：** 如果您的裝置或應用程式最近已停止運作，請注意我們最近依計劃已開始[停用 3DES 加密](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption)。 若要查看受影響的裝置，請移至 [SMTP 驗證用戶端報告](https://protection.office.com/mailflow/dashboard)。 常見錯誤可能類似於：身份驗證失敗/錯誤、TLS 失敗/錯誤、密碼演算法錯誤、演算法不相符或連線中斷。 若要解決此問題：
  - **將無法使用 Windows Server 2003 IIS SMTP – 需要較新版本的 Windows。**  
