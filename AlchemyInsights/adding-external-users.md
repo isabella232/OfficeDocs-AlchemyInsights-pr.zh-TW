@@ -3,7 +3,6 @@ title: 新增外部使用者
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: bf16fa05a2c878e11d28582258c3615923393cdc
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ee5aa6792e9399bc6c16ff2cfd26abf6a843693a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36737396"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766666"
 ---
-# <a name="adding-external-users"></a><span data-ttu-id="2cad9-102">新增外部使用者</span><span class="sxs-lookup"><span data-stu-id="2cad9-102">Adding external users</span></span>
+# <a name="adding-external-users"></a><span data-ttu-id="de507-102">新增外部使用者</span><span class="sxs-lookup"><span data-stu-id="de507-102">Adding external users</span></span>
 
-<span data-ttu-id="2cad9-103">新增外部 / 來賓使用者的步驟可以是您需要它們能夠存取而有所不同。</span><span class="sxs-lookup"><span data-stu-id="2cad9-103">The steps for adding external / guest users can be different depending on what you need them to be able to access.</span></span> <span data-ttu-id="2cad9-104">請選擇下列其中一項：</span><span class="sxs-lookup"><span data-stu-id="2cad9-104">Please choose one of the following:</span></span>
+<span data-ttu-id="de507-103">新增外部/來賓使用者的步驟可以是您需要它們能夠存取而有所不同。</span><span class="sxs-lookup"><span data-stu-id="de507-103">The steps for adding external/guest users can be different depending on what you need them to be able to access.</span></span> <span data-ttu-id="de507-104">請選擇下列其中一項：</span><span class="sxs-lookup"><span data-stu-id="de507-104">Please choose one of the following:</span></span>
   
-- [<span data-ttu-id="2cad9-105">外部共用概觀</span><span class="sxs-lookup"><span data-stu-id="2cad9-105">External sharing overview</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+- [<span data-ttu-id="de507-105">SharePoint Online 的外部共用概觀</span><span class="sxs-lookup"><span data-stu-id="de507-105">SharePoint Online external sharing overview</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [<span data-ttu-id="2cad9-106">在 Office 365 群組的來賓存取</span><span class="sxs-lookup"><span data-stu-id="2cad9-106">Guest access in Office 365 Groups</span></span>](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [<span data-ttu-id="de507-106">在 Office 365 群組的來賓存取</span><span class="sxs-lookup"><span data-stu-id="de507-106">Guest access in Office 365 Groups</span></span>](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [<span data-ttu-id="2cad9-107">Microsoft Teams 中的來賓存取</span><span class="sxs-lookup"><span data-stu-id="2cad9-107">Guest access in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [<span data-ttu-id="de507-107">Microsoft Teams 中的來賓存取</span><span class="sxs-lookup"><span data-stu-id="de507-107">Guest access in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
