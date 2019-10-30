@@ -2,7 +2,6 @@
 title: 變更郵件或附件的大小
 ms.author: pebaum
 author: pebaum
-ms.date: 6/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +10,18 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: 7c891034ac8d41bca4c4ee32130bcff306f9ed24
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520658"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769654"
 ---
 # <a name="changing-message-or-attachment-size"></a>變更郵件或附件的大小
 
-身為 Office 365 系統管理員，您可以變更最大 / 最小值的郵件大小 （這包括附件），您的使用者傳送。 您可以針對個別使用者或所有使用者 （組織預設值） 來這麼做。 變更此設定之後，所需大約 30 分鐘的時間生效移。
+身為 Office 365 系統管理員，您可以變更最多/最小值的郵件大小 （這包括附件），您的使用者傳送。 您可以針對個別使用者或所有使用者 （組織預設值） 來這麼做。 變更此設定之後，所需大約 30 分鐘的時間生效移。
   
-- 若要變更特定使用者的郵件大小，請移至**系統管理中心** \> **Exchange** \> **收件者** \> **信箱**。 選取使用者的信箱。 按一下 [編輯] 圖示，然後在 [**郵件大小限制**，選擇 [**檢視詳細資料]** ，指定新的郵件大小上限。
+- 若要變更特定使用者的郵件大小，請移至**系統管理中心** \> **Exchange** \> **收件者** \> **信箱**。 選取使用者的信箱。 選取 [編輯] 圖示，選取 [**信箱功能**，然後在 [**郵件大小限制**] 下選擇 [**檢視詳細資料]** ，再指定新的郵件大小上限。
 
 - 若要了解如何變更此設定的所有信箱，請參閱[這篇文章](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。
 

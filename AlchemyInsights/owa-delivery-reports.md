@@ -3,18 +3,17 @@ title: 網頁型 Outlook 中的未傳遞回報
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 1b39decd55f0bf63746a28866f880d42dd4d3001
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 2741f309a786ad04801ba2dd7a5b75cb30697b75
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36557096"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768647"
 ---
 # <a name="issues-with-email-delivery"></a>電子郵件傳遞問題
 

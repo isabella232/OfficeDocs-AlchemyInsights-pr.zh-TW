@@ -3,7 +3,6 @@ title: 718 新增外部連絡人至通訊群組清單的組織外部人員 /
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: e31a9f4213a69e84f78fcd00b767edb04bd9ec4e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57f8b5859a5a91b9ce83d7ca8da5330ac73413f9
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494554"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766630"
 ---
 # <a name="add-external-email-addresses-to-a-distribution-group"></a>將外部電子郵件地址新增至通訊群組
 

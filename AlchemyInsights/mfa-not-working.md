@@ -11,14 +11,14 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36545147"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768828"
 ---
-# <a name="issues-with-mfa"></a>MFA 的問題
+# <a name="issues-with-azure-mfa"></a>Azure MFA 的問題
 有幾個事項檢查是否使用者無法登入使用多重要素驗證 (MFA)
 
 1. 受影響的使用者可能被封鎖在 Azure Active Directory 入口網站。 如果是這種情況，驗證嘗試的特定使用者會自動拒絕。 [請遵循本篇文章以解除封鎖這些檔案中的步驟。](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)

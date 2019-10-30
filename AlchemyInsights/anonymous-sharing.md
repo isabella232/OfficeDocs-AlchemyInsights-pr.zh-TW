@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: eaf958932ee1c1b4e33bd5dae96a48c37505739e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c2b06cc64d071a80fa6cafe0f066a3885e388d6b
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36747810"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768287"
 ---
 # <a name="anonymous-sharing"></a>匿名共用
 
@@ -23,7 +23,7 @@ ms.locfileid: "36747810"
   
 - 選取下列：**允許與經過驗證外部使用者共用並使用匿名存取。**
   
-(您也可以選擇將連結設定在特定天數後到期，然後選取受邀者可使用連結的方式。)
+（選擇性地，您可以設定在特定天數，而到期，並且選取 [收件者可以如何使用連結的連結。）
     
  **匿名共用的檔案或資料夾**
   

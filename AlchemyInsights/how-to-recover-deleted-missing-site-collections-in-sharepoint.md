@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: fb29d30eb676de8d367002010d3eabebd73bc54b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c452169a260dd8b6f2aea32729c4228e54c18e77
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756127"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769006"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>復原遺失或已刪除網站集合
 
-如何復原遺失或已刪除網站集合。
+如何復原遺失或被刪除 SharePoint 中的網站集合，請參閱以下文章中的資訊。
 
 [還原已刪除的網站](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
@@ -27,6 +27,6 @@ ms.locfileid: "36756127"
 
 如果您找不到網站您可能想要[搜尋稽核記錄以在 Office 365 安全性&amp;合規性中心](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)。
 
-**附註**: 「 新式 」 小組網站不會顯示在**傳統**的 SharePoint 管理 UI。 您可以從[新的 Sharepoint 系統管理中心](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)存取 「 新式 」 網站的清單。
+**附註：** 在**傳統**的 SharePoint 管理 UI 中看不到 「 新式 」 小組網站。 您可以從[新的 Sharepoint 系統管理中心](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)存取 「 新式 」 網站的清單。
 
 

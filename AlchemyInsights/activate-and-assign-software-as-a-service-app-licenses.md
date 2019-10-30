@@ -3,7 +3,6 @@ title: 啟動，並指派軟體做為對服務應用程式授權
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: d9cd02a778a7a979271b38e3df06c5bc7c1bdf6a
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 9ea12fcd222f10890b0e6ee66a185d6f4acb4073
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36385711"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766306"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>啟動，並指派軟體做為對服務應用程式授權 
 
@@ -27,7 +26,7 @@ ms.locfileid: "36385711"
 
 2. 尋找並選取您想要管理的應用程式。
 
-3. 在 [**授權**、 選取**設定錯誤訊息中的帳戶**。  
+3. 在 [**授權**] 下選取 [**設定帳戶**。  
 
 ## <a name="to-assign-app-licenses"></a>若要指派應用程式授權
 

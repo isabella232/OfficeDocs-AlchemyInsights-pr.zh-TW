@@ -8,16 +8,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: c11d226c3c7105cea3abcc180a00262bb6e4244f
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 1bcaa2d45179e38a47569fba172300a259c5b661
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36754795"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769510"
 ---
-# <a name="create-and-edit-modern-pages-on-sharepoint-site"></a>建立及編輯 SharePoint 網站上的新式網頁
+# <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a>建立及編輯 SharePoint 網站上的新式網頁
 
-您快速且輕鬆地，可以編輯檔案和頁面，它們美觀在任何裝置上。 如需詳細資訊請瀏覽下列連結。
+您快速且輕鬆地，可以編輯檔案和頁面，它們美觀在任何裝置上。 如需詳細資訊，請瀏覽下列連結。
 
 
 - [建立及編輯 SharePoint 網站上的新式網頁](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)

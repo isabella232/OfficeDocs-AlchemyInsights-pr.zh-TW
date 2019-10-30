@@ -2,7 +2,6 @@
 title: 如何停用外部群組
 ms.author: pebaum
 author: pebaum
-ms.date: 8/1/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,14 +10,14 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: b62d53d1698f0afd3d89139f2cc2711a8a9b8ba6
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739556"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769042"
 ---
-# <a name="how-to-disable-external-groups"></a>如何停用外部群組
+# <a name="how-to-give-access-to-external-users-in-yammer"></a>如何讓 Yammer 中的外部使用者存取
 
 有四種外部使用者可以存取您的網路 Yammer 中的方式。
   

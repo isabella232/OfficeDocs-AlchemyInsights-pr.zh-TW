@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754183"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768792"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>疑難排解問題-目錄中找不到使用者
 
-如果使用者會收到錯誤訊息 「 使用者找不到 」 目錄中。 請再試一次其中問題類型是使用者不在目錄中。
+如果使用者會收到錯誤訊息 「 使用者找不到 」 目錄中，請嘗試再次其中問題類型是使用者不在目錄中。
 
 若要疑難排解問題，可以完成下列步驟。
 
