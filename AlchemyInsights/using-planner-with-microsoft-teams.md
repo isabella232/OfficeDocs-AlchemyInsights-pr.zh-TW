@@ -12,10 +12,10 @@ ms.custom:
 - "2653"
 - "9000727"
 ms.openlocfilehash: 04a0bcff06c9a52db4bc7ff55799a1cef8fd1eca
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37681697"
 ---
 # <a name="using-planner-with-microsoft-teams"></a>規劃使用 Microsoft Teams

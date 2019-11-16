@@ -12,10 +12,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
 ms.openlocfilehash: 1be9763ce7766c6261f0c1dae78ced6727c7a88d
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36523754"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>讓使用者能夠存取 SharePoint 和 OneDrive
