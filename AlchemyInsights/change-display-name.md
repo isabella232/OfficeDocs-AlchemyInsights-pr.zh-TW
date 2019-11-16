@@ -12,10 +12,10 @@ ms.custom:
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
 ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36736712"
 ---
 # <a name="change-your-display-name"></a>變更您的顯示名稱

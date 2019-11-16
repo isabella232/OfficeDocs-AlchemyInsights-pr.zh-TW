@@ -12,10 +12,10 @@ ms.custom:
 - "9000751"
 - "2689"
 ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768683"
 ---
 # <a name="empty-the-deleted-items-folder"></a>清空 [刪除的項目] 資料夾

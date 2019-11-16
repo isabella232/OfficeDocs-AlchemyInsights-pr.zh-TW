@@ -13,10 +13,10 @@ ms.custom:
 - "4000002"
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
 ms.openlocfilehash: 2c1b756dc73cd6a1befb41416086f1e353d1783d
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36661575"
 ---
 # <a name="install-skype-for-business"></a>安裝商務用 Skype

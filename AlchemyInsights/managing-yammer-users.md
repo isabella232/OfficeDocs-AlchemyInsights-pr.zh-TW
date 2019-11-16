@@ -12,10 +12,10 @@ ms.custom:
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
 ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36734912"
 ---
 # <a name="managing-yammer-users"></a>管理 Yammer 使用者
@@ -28,7 +28,7 @@ ms.locfileid: "36734912"
 
   - 從 Office 365 管理 Yammer 使用者
 
-2. 請參閱[新增、 封鎖或移除 Yammer 使用者](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365)的 Yammer 系統管理主控台從管理使用者的相關資訊。 其中包括：
+2. 請參閱[新增、 封鎖或移除 Yammer 使用者](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365)的 Yammer 系統管理主控台從管理使用者的相關資訊。 這包括：
 
   - 邀請或移除使用者
 
