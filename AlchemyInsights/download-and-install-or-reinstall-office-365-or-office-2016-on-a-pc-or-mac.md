@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8d7abd5a-5004-4d16-aad9-8083df213ea3
 ms.openlocfilehash: 54015c673e414772e9fd000f6bc012021852752b
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36529578"
 ---
 # <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>下載並安裝或重新安裝在 PC 或 Mac 上的 Office 365 或 Office 2016

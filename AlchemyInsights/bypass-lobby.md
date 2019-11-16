@@ -12,10 +12,10 @@ ms.custom:
 - "2673"
 - "9000740"
 ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768431"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>控制項大廳設定和其他參與的層級
@@ -38,6 +38,6 @@ ms.locfileid: "37768431"
 
 - [允許撥入式使用者略過大廳](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon)（**即將推出**） 是該控制項的撥號對應表中的人員電話加入會議直接，還是不論**自動准許人員**設定在大廳中等候的每個組合管理原則。
 
-- [若要覆寫大廳設定允許召集人](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon)（**即將推出**） 是會議召集人是否可以覆寫設定**自動准許人員**和**中的系統管理員允許撥號對應表中的大廳設定會控制每個組合管理原則略過大廳的使用者**當他們排定新會議。
+- [若要覆寫大廳設定允許召集人](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon)（**即將推出**） 是會議召集人是否可以覆寫為系統管理員設定**自動准許人員**和**允許電話撥入式使用者略過大廳**中，當他們排定新會議大廳設定會控制每個組合管理原則。
 
 **附註：** 請閱讀[管理小組中的會議原則](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams)Microsoft Teams 會議原則的完整概觀。
