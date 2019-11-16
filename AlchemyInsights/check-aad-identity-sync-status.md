@@ -14,21 +14,21 @@ ms.custom:
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
 ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36738512"
 ---
-# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="21492-102">檢查 AAD 身分識別同步處理狀態</span><span class="sxs-lookup"><span data-stu-id="21492-102">Check AAD Identity Sync status</span></span>
+# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="a5039-102">檢查 AAD 身分識別同步處理狀態</span><span class="sxs-lookup"><span data-stu-id="a5039-102">Check AAD Identity Sync status</span></span>
 
-<span data-ttu-id="21492-103">檢查同步處理狀態很簡單：</span><span class="sxs-lookup"><span data-stu-id="21492-103">Checking sync status is easy:</span></span>
+<span data-ttu-id="a5039-103">檢查同步處理狀態很簡單：</span><span class="sxs-lookup"><span data-stu-id="a5039-103">Checking sync status is easy:</span></span>
   
-- <span data-ttu-id="21492-104">登入 Microsoft 365 系統管理中心，選擇 [**目錄同步狀態**]，請在 [首頁] 頁面上。</span><span class="sxs-lookup"><span data-stu-id="21492-104">Sign in to the Microsoft 365 admin center and choose **DirSync Status** on the home page.</span></span>
+- <span data-ttu-id="a5039-104">登入 Microsoft 365 系統管理中心，選擇 [**目錄同步狀態**]，請在 [首頁] 頁面上。</span><span class="sxs-lookup"><span data-stu-id="a5039-104">Sign in to the Microsoft 365 admin center and choose **DirSync Status** on the home page.</span></span>
 
-- <span data-ttu-id="21492-105">或者，您可以移至 [使用者\>作用中的使用者，並在 [作用中使用者] 頁面上，選擇 [更多\>目錄同步處理。</span><span class="sxs-lookup"><span data-stu-id="21492-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
+- <span data-ttu-id="a5039-105">或者，您可以移至 [使用者\>作用中的使用者，並在 [作用中使用者] 頁面上，選擇 [更多\>目錄同步處理。</span><span class="sxs-lookup"><span data-stu-id="a5039-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
 
-- <span data-ttu-id="21492-106">在 [目錄同步處理] 窗格中，選擇 [移至 DirSync 管理。</span><span class="sxs-lookup"><span data-stu-id="21492-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span>
+- <span data-ttu-id="a5039-106">在 [目錄同步處理] 窗格中，選擇 [移至 DirSync 管理。</span><span class="sxs-lookup"><span data-stu-id="a5039-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span>
 
-<span data-ttu-id="21492-107">目錄同步處理的問題時，此頁面上列出錯誤。</span><span class="sxs-lookup"><span data-stu-id="21492-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="21492-108">如需不同的錯誤您可能會遇到，請參閱[在 Office 365 中的檢視目錄同步處理錯誤](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors)。</span><span class="sxs-lookup"><span data-stu-id="21492-108">For more information about different errors you might encounter, see [View directory synchronization errors in Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span></span>
+<span data-ttu-id="a5039-107">目錄同步處理的問題時，此頁面上列出錯誤。</span><span class="sxs-lookup"><span data-stu-id="a5039-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="a5039-108">如需不同的錯誤您可能會遇到，請參閱[在 Office 365 中的檢視目錄同步處理錯誤](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors)。</span><span class="sxs-lookup"><span data-stu-id="a5039-108">For more information about different errors you might encounter, see [View directory synchronization errors in Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span></span>
   

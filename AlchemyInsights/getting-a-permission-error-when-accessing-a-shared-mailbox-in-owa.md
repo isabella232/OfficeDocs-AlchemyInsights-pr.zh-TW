@@ -14,13 +14,13 @@ ms.custom:
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
 ms.openlocfilehash: bc682538ae8683c8b419d33bfccf96ac080304a6
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36735749"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="ee65b-102">網頁型 Outlook 中開啟共用的信箱時，請取得權限錯誤？</span><span class="sxs-lookup"><span data-stu-id="ee65b-102">Getting a permission error when opening a shared mailbox in Outlook on the web?</span></span>
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="12080-102">網頁型 Outlook 中開啟共用的信箱時，請取得權限錯誤？</span><span class="sxs-lookup"><span data-stu-id="12080-102">Getting a permission error when opening a shared mailbox in Outlook on the web?</span></span>
 
-<span data-ttu-id="ee65b-103">如果您收到錯誤**發生錯誤。您不需要開啟此信箱的權限。**</span><span class="sxs-lookup"><span data-stu-id="ee65b-103">If you get the error **Something went wrong. You don't have permission to open this mailbox.**</span></span> <span data-ttu-id="ee65b-104">當您嘗試在網頁型 Outlook 中開啟共用的信箱，您的帳戶可能沒有存取共用的信箱的權限。</span><span class="sxs-lookup"><span data-stu-id="ee65b-104">when you try to open a shared mailbox in Outlook on the web, your account might not have permission to access the shared mailbox.</span></span> <span data-ttu-id="ee65b-105">您的組織系統管理員可以將您的帳戶權限指派給共用信箱，遵循主題[建立共用信箱](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)中的指示進行。</span><span class="sxs-lookup"><span data-stu-id="ee65b-105">Your organization administrator can assign your account permissions to the shared mailbox by following the instructions in the topic [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
+<span data-ttu-id="12080-103">如果您收到錯誤**發生錯誤。您不需要開啟此信箱的權限。**</span><span class="sxs-lookup"><span data-stu-id="12080-103">If you get the error **Something went wrong. You don't have permission to open this mailbox.**</span></span> <span data-ttu-id="12080-104">當您嘗試在網頁型 Outlook 中開啟共用的信箱，您的帳戶可能沒有存取共用的信箱的權限。</span><span class="sxs-lookup"><span data-stu-id="12080-104">when you try to open a shared mailbox in Outlook on the web, your account might not have permission to access the shared mailbox.</span></span> <span data-ttu-id="12080-105">您的組織系統管理員可以將您的帳戶權限指派給共用信箱，遵循主題[建立共用信箱](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)中的指示進行。</span><span class="sxs-lookup"><span data-stu-id="12080-105">Your organization administrator can assign your account permissions to the shared mailbox by following the instructions in the topic [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
   
