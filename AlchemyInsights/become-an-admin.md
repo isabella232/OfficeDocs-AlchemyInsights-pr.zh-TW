@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: 16f99b3bfce3513ada0e0c14ee8e3106cb7565d7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4bcf4a433fe5d49a61125dff60586ac717024da1
+ms.sourcegitcommit: 4ecd61b709d3ccb730dc120df9445754d5ae4f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768359"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704344"
 ---
 # <a name="become-an-admin"></a>成為系統管理員
 
 若要將假設貴組織的系統管理員角色，您需要參加透過 Office 365 中的租用戶。
   
-請遵循本指南中的指示：[接管系統管理員在 Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)
+請遵循本指南中的指示：[系統接管](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#azure-ad-powershell-cmdlets-for-the-forcetakeover-option)
