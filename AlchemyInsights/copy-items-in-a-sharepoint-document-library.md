@@ -13,12 +13,12 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 3b63262a289261bc1e040f745096645e7f2c784c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5f9e1fdc74d4d2264d6daacbb96d03cd1b98bd82
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516348"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711783"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>複製 SharePoint 文件庫中的項目
 
@@ -39,3 +39,7 @@ ms.locfileid: "36516348"
 > [!NOTE]
 > 您可以一次複製最多 500 MB 的檔案和資料夾。 當您使用文件版本歷程記錄，只最新版本已**複製到**> 會複製。
   
+如需詳細資訊，請參閱：
+
+ - [移動或複製 SharePoint 中的檔案](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc)（Office 支援文件）
+ - [將檔案從 Office 365 中的任何資料夾移動](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973)（Microsoft 技術社群部落格文章）   
