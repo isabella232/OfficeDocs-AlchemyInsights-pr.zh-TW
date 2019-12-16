@@ -1,7 +1,7 @@
 ---
-title: OneDrive 保留期與刪除
-ms.author: efrene
-author: efrene
+title: OneDrive 保留與刪除
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,14 +12,14 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521558"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053324"
 ---
-# <a name="onedrive-retention-and-deletion"></a>OneDrive 保留期與刪除
+# <a name="onedrive-retention-and-deletion"></a>OneDrive 保留與刪除
 
 - 您可以[還原已刪除的使用者 OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)自己。 它們 93 天是在資源回收筒]。 
 

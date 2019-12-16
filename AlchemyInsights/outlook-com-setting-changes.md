@@ -1,7 +1,7 @@
 ---
 title: Outlook.com 設定
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386356"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053252"
 ---
 # <a name="settings-in-outlookcom"></a>在 Outlook.com 中的設定
 
-如果收件者是組織內部或外部，而且如果他們使用 Office 365 或 Outlook.com 電子郵件帳戶，下列用戶端不應該進行特別開啟的郵件： **Outlook 2016、 在網頁型 Outlook / Outlook Web AppOutlook 行動裝置 app**
+如果收件者是組織內部或外部，而且如果他們使用 Office 365 或 Outlook.com 電子郵件帳戶，下列用戶端不應該進行特別開啟的郵件： **Outlook 2016、 在網頁型 Outlook / Outlook Web App、 Outlook 行動裝置 app**
 
 **委派**的受保護的電子郵件的使用者已傳送至，無法開啟受保護的郵件。 只有原始收件者 （人員保護電子郵件已傳送至） 可以檢視電子郵件中的資訊。
 

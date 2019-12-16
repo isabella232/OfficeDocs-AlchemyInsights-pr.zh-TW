@@ -1,19 +1,19 @@
 ---
 title: 編輯唯讀檔案
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 9/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: bdfd516dd151addf874ea6ee4d9d7c6f23aa1da6
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c6fec0e837ed9e1d39620aa73bb12bd17095e518
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756091"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052784"
 ---
 # <a name="edit-a-read-only-file"></a>編輯唯讀檔案
 

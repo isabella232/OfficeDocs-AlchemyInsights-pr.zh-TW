@@ -1,18 +1,18 @@
 ---
 title: 同步處理使用者設定檔圖片
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 77b956c6239ee5d97e1358986807180055ee0525
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 4af871b33d4e5f438584076891fff7a430f41b5e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36753679"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053360"
 ---
 # <a name="sync-a-users-profile-picture"></a>同步處理使用者設定檔圖片
 
