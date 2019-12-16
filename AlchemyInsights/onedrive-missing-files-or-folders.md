@@ -1,18 +1,18 @@
 ---
 title: OneDrive： 遺漏的檔案或資料夾
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: f94eb6f08485c28e0c98e084b25f2bc6456d3350
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 0d0d0f726cebfb6e1c78d9c7b89c220758628996
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36753247"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049112"
 ---
 # <a name="onedrive-missing-files-or-folders"></a>OneDrive： 遺漏的檔案或資料夾
 

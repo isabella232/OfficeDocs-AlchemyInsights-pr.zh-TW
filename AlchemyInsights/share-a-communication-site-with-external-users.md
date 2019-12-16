@@ -1,19 +1,19 @@
 ---
 title: 與外部使用者共用通訊網站
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 1/3/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: e41b296f3ac02d766c55133c1d31f687f7854641
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 393ee0bb9c5ac01f2d948b1a772c7b9915caed87
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36751951"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054152"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>與外部使用者共用通訊網站
 

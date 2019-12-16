@@ -1,17 +1,17 @@
 ---
 title: 佈建 OneDrive 和 SharePoint 中的問題
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: 9dd38f3db7e74a82748e6db526f48b8e1c28c63d
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 5a34fe8821f4f0f314c43b58782cac4546faceac
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752455"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054332"
 ---
 # <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>佈建 OneDrive 和 SharePoint 中的問題
 

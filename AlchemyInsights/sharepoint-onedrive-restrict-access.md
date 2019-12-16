@@ -1,19 +1,19 @@
 ---
 title: 限制存取 SharePoint 或 OneDrive 中
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 8/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: bef0612903b9bb455aa34e90d35d6b7b9093b4e0
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 242388af3ae8887616fc123f24502a8e5ac8dfbe
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750655"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053756"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>限制存取 SharePoint 或 OneDrive 中
 

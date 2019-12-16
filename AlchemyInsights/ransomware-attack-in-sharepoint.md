@@ -1,7 +1,7 @@
 ---
 title: 在 SharePoint 或 OneDrive 勒索軟體攻擊
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 4f8e77cbbf7385fefbd30ca0e5e59134fd2a2f4e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: a95973cbb1a3b61c03c05bceeb9d85c17c6db5bb
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745532"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054260"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>在 SharePoint 或 OneDrive 勒索軟體攻擊
 

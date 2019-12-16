@@ -1,7 +1,7 @@
 ---
 title: OneDrive 一般問題與解決方案
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +11,12 @@ ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: 1aaac66a914b159dad64cce0950e46b04bf4685a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 48e479de381dc5bd969002a6257416fdd5b3cac4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734264"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054621"
 ---
 # <a name="onedrive-common-issues-and-resolutions"></a>OneDrive 一般問題與解決方案
 

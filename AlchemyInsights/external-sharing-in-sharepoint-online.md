@@ -1,7 +1,7 @@
 ---
 title: 外部 SharePoint Online 中共用
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+- "2389"
+ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735956"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049760"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>外部 SharePoint Online 中共用
 
-如果您的組織會執行涉及共用文件或直接與廠商、 用戶或客戶，共同作業的工作，則您可以使用[外部共用的 SharePoint Online 的功能](https://docs.microsoft.com/sharepoint/external-sharing-overview)與外部人員共用的內容您組織。
+如果您的組織會執行涉及共用文件或直接與廠商、 用戶或客戶共同作業的工作，然後您可以使用[SharePoint online 的外部共用功能](https://docs.microsoft.com/sharepoint/external-sharing-overview)組織外部人員共用內容。
 
 如需有關外部共用的詳細資訊，請瀏覽下列連結：
 

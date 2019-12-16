@@ -1,19 +1,19 @@
 ---
 title: 無法新增 2010年核准工作流程
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 12/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 13e3ed6db8c31adb1eb5a556c0e5fbc437b3fdb1
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 11ba9bf04f826b0d7465a9a81a36c327e79f4d13
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36748675"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049544"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>無法新增 2010年核准工作流程
 

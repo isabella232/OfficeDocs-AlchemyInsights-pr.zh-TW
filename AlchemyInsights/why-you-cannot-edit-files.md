@@ -1,7 +1,7 @@
 ---
 title: 檔案鎖定進行編輯
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 4/26/2018
 ms.audience: ITPro
@@ -9,18 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: b73797749acae52aae66875691669930e1589904
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.custom:
+- "9000123"
+- "1622"
+- "1713"
+ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36748351"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049400"
 ---
 # <a name="why-cant-i-edit-files"></a>為什麼我無法編輯檔案？
 
 如果文件、 工作表或簡報鎖定進行編輯，而且無法在 Windows 桌面應用程式中開啟，它可能檔案已經正在編輯由其他人，或其已取出的檔案。讓我們看快速查看一些理由[為什麼您可能無法編輯檔案](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)。
 
-如果您有文件庫與**簽出，需要**或**驗證**資料行或中繼資料，或當**草稿項目安全性**設為 [**可以編輯的使用者**] 或 [**僅限可核准項目的使用者**中的版本設定文件庫：
+如果您有文件庫與**簽出，需要**或**驗證**資料行或中繼資料，或當**草稿項目安全性**設為 [**可以編輯的使用者**] 或 [**僅限可核准項目的使用者**中的文件庫的版本設定：
 
 - SharePoint 文件庫，這些項目會以唯讀方式進行同步處理。
 
