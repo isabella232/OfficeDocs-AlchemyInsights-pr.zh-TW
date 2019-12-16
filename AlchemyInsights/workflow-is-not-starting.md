@@ -1,7 +1,7 @@
 ---
 title: 無法啟動工作流程
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.date: 8/2/2019
 ms.audience: Admin
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: cf7bd95e9a8f1d0842f0abcf82c758d649e80c0f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36738080"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049328"
 ---
-# <a name="workflow-is-not-starting"></a><span data-ttu-id="03f52-102">無法啟動工作流程</span><span class="sxs-lookup"><span data-stu-id="03f52-102">Workflow is not starting</span></span>
+# <a name="workflow-is-not-starting"></a><span data-ttu-id="02b5e-102">無法啟動工作流程</span><span class="sxs-lookup"><span data-stu-id="02b5e-102">Workflow is not starting</span></span>
 
-- <span data-ttu-id="03f52-103">無法啟動 SharePoint 2010 和 SharePoint 2013 工作流程。</span><span class="sxs-lookup"><span data-stu-id="03f52-103">SharePoint 2010 and SharePoint 2013 workflows are not starting.</span></span>
+- <span data-ttu-id="02b5e-103">無法啟動 SharePoint 2010 和 SharePoint 2013 工作流程。</span><span class="sxs-lookup"><span data-stu-id="02b5e-103">SharePoint 2010 and SharePoint 2013 workflows are not starting.</span></span>
 
-    - <span data-ttu-id="03f52-104">如果無法啟動您的工作流程，可能有的暫時的服務問題： 使用者可能會遇到間歇性延遲與工作流程進度。</span><span class="sxs-lookup"><span data-stu-id="03f52-104">If your workflow is not starting, there may be a temporary service issue where users may experience intermittent delays with workflow progress.</span></span> <span data-ttu-id="03f52-105">檢查[服務健康狀況儀表板](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth)若要查看您的組織會受到影響。</span><span class="sxs-lookup"><span data-stu-id="03f52-105">Check the [Service Health Dashboard](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+    - <span data-ttu-id="02b5e-104">如果無法啟動您的工作流程，可能有的暫時的服務問題： 使用者可能會遇到間歇性延遲與工作流程進度。</span><span class="sxs-lookup"><span data-stu-id="02b5e-104">If your workflow is not starting, there may be a temporary service issue where users may experience intermittent delays with workflow progress.</span></span> <span data-ttu-id="02b5e-105">檢查[服務健康狀況儀表板](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth)若要查看您的組織會受到影響。</span><span class="sxs-lookup"><span data-stu-id="02b5e-105">Check the [Service Health Dashboard](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
 
-    - <span data-ttu-id="03f52-106">如果您第一次看到此問題以來超過 24 小時，請登支援票證。</span><span class="sxs-lookup"><span data-stu-id="03f52-106">If more than 24 hours have passed since you first saw this issue, please log a support ticket.</span></span> <span data-ttu-id="03f52-107">在許多情況下，我們已使用的方案。</span><span class="sxs-lookup"><span data-stu-id="03f52-107">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="03f52-108">請讓我們至少 24 小時才能完成解決方案。</span><span class="sxs-lookup"><span data-stu-id="03f52-108">Please give us at least 24 hours to complete a solution.</span></span>
+    - <span data-ttu-id="02b5e-106">如果您第一次看到此問題以來超過 24 小時，請登支援票證。</span><span class="sxs-lookup"><span data-stu-id="02b5e-106">If more than 24 hours have passed since you first saw this issue, please log a support ticket.</span></span> <span data-ttu-id="02b5e-107">在許多情況下，我們已使用的方案。</span><span class="sxs-lookup"><span data-stu-id="02b5e-107">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="02b5e-108">請讓我們至少 24 小時才能完成解決方案。</span><span class="sxs-lookup"><span data-stu-id="02b5e-108">Please give us at least 24 hours to complete a solution.</span></span>
 
-- <span data-ttu-id="03f52-109">SharePoint 2010 工作流程延遲開始。</span><span class="sxs-lookup"><span data-stu-id="03f52-109">SharePoint 2010 workflows delayed on start.</span></span>
+- <span data-ttu-id="02b5e-109">SharePoint 2010 工作流程延遲開始。</span><span class="sxs-lookup"><span data-stu-id="02b5e-109">SharePoint 2010 workflows delayed on start.</span></span>
 
-    - <span data-ttu-id="03f52-110">如果在大型的批次中觸發工作流程時，發生此情況。</span><span class="sxs-lookup"><span data-stu-id="03f52-110">This occurs if the workflow is triggered in large batches.</span></span> <span data-ttu-id="03f52-111">（例如，當多個項目會新增一次）。</span><span class="sxs-lookup"><span data-stu-id="03f52-111">(for example, when several items are added at once).</span></span>
+    - <span data-ttu-id="02b5e-110">如果在大型的批次中觸發工作流程時，發生此情況。</span><span class="sxs-lookup"><span data-stu-id="02b5e-110">This occurs if the workflow is triggered in large batches.</span></span> <span data-ttu-id="02b5e-111">（例如，當多個項目會新增一次）。</span><span class="sxs-lookup"><span data-stu-id="02b5e-111">(for example, when several items are added at once).</span></span>
 
-    - <span data-ttu-id="03f52-112">工作流程是並非特別設計用來執行即時，因此延遲是所設計的行為。</span><span class="sxs-lookup"><span data-stu-id="03f52-112">Workflows are not designed to run real-time, so a delay is by-design behavior.</span></span>
+    - <span data-ttu-id="02b5e-112">工作流程是並非特別設計用來執行即時，因此延遲是所設計的行為。</span><span class="sxs-lookup"><span data-stu-id="02b5e-112">Workflows are not designed to run real-time, so a delay is by-design behavior.</span></span>
 
-   -  <span data-ttu-id="03f52-113">如果工作流程是複雜的 「 可延伸物件標記語言 」 (XMOL)，編譯可能會很慢。</span><span class="sxs-lookup"><span data-stu-id="03f52-113">If the Workflow is complex Extensible Object Markup Language (XMOL), compilation can be slow.</span></span> <span data-ttu-id="03f52-114">請檢查[這](https://support.microsoft.com//kb/3043697)篇文章。</span><span class="sxs-lookup"><span data-stu-id="03f52-114">Check [this](https://support.microsoft.com//kb/3043697) article.</span></span>
+   -  <span data-ttu-id="02b5e-113">如果工作流程是複雜的 「 可延伸物件標記語言 」 (XMOL)，編譯可能會很慢。</span><span class="sxs-lookup"><span data-stu-id="02b5e-113">If the Workflow is complex Extensible Object Markup Language (XMOL), compilation can be slow.</span></span> <span data-ttu-id="02b5e-114">請檢查[這](https://support.microsoft.com//kb/3043697)篇文章。</span><span class="sxs-lookup"><span data-stu-id="02b5e-114">Check [this](https://support.microsoft.com//kb/3043697) article.</span></span>
 
-    - <span data-ttu-id="03f52-115">您應該簡化工作流程或重新設計使用 Microsoft SharePoint 2013 工作流程平台類型。</span><span class="sxs-lookup"><span data-stu-id="03f52-115">You should simplify the workflow or redesign it using the Microsoft SharePoint 2013 Workflow platform type.</span></span>
+    - <span data-ttu-id="02b5e-115">您應該簡化工作流程或重新設計使用 Microsoft SharePoint 2013 工作流程平台類型。</span><span class="sxs-lookup"><span data-stu-id="02b5e-115">You should simplify the workflow or redesign it using the Microsoft SharePoint 2013 Workflow platform type.</span></span>
 
-    - <span data-ttu-id="03f52-116">如果您的工作流程歷程記錄有變大，您可能想要清除的項目，或建立新的歷程記錄清單。</span><span class="sxs-lookup"><span data-stu-id="03f52-116">If your workflow history has grown large, you may want to purge the items or create a new history list.</span></span>
+    - <span data-ttu-id="02b5e-116">如果您的工作流程歷程記錄有變大，您可能想要清除的項目，或建立新的歷程記錄清單。</span><span class="sxs-lookup"><span data-stu-id="02b5e-116">If your workflow history has grown large, you may want to purge the items or create a new history list.</span></span>
 
-        <span data-ttu-id="03f52-117">[清除工作流程歷程記錄](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)的詳細資訊：</span><span class="sxs-lookup"><span data-stu-id="03f52-117">More Information : [Purge Workflow History](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)</span></span>
+        <span data-ttu-id="02b5e-117">[清除工作流程歷程記錄](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)的詳細資訊：</span><span class="sxs-lookup"><span data-stu-id="02b5e-117">More Information : [Purge Workflow History](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)</span></span>
 
 
-## <a name="related-topics"></a><span data-ttu-id="03f52-118">相關主題</span><span class="sxs-lookup"><span data-stu-id="03f52-118">Related topics</span></span>
-<span data-ttu-id="03f52-119">想要在 SharePoint Online 中的 Microsoft Flow？</span><span class="sxs-lookup"><span data-stu-id="03f52-119">Want to try Microsoft Flow in SharePoint Online?</span></span>
-- [<span data-ttu-id="03f52-120">建立流程</span><span class="sxs-lookup"><span data-stu-id="03f52-120">Create Flow</span></span>](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [<span data-ttu-id="03f52-121">SharePoint 和流程</span><span class="sxs-lookup"><span data-stu-id="03f52-121">SharePoint and Flow</span></span>](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+## <a name="related-topics"></a><span data-ttu-id="02b5e-118">相關主題</span><span class="sxs-lookup"><span data-stu-id="02b5e-118">Related topics</span></span>
+<span data-ttu-id="02b5e-119">想要在 SharePoint Online 中的 Microsoft Flow？</span><span class="sxs-lookup"><span data-stu-id="02b5e-119">Want to try Microsoft Flow in SharePoint Online?</span></span>
+- [<span data-ttu-id="02b5e-120">建立流程</span><span class="sxs-lookup"><span data-stu-id="02b5e-120">Create Flow</span></span>](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [<span data-ttu-id="02b5e-121">SharePoint 和流程</span><span class="sxs-lookup"><span data-stu-id="02b5e-121">SharePoint and Flow</span></span>](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
