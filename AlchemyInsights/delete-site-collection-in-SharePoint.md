@@ -1,5 +1,5 @@
 ---
-title: 刪除 SharePoint 中的網站集合
+title: 刪除網站
 ms.author: pebaum
 author: pebaum
 ms.date: 6/20/2019
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: e15682af9069f8cd9e8f2893100a0044a51b2f04
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053000"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770378"
 ---
-# <a name="delete-a-site-collection"></a>刪除網站集合
+# <a name="delete-a-site"></a>刪除網站
 
-當您為全域或 SharePoint 系統管理員在 Office 365，刪除網站 （先前稱為 「 網站集合 」），已移至網站集合資源回收筒，並保留 93 天。 
+當您刪除網站時，已移至[刪除的網站](https://admin.microsoft.com/sharepoint)，並保留 93 天。 若要刪除網站，移至[作用中網站](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)。 
 
 當您刪除網站時，其內每個項目會刪除包括：
 
@@ -26,6 +26,6 @@ ms.locfileid: "40053000"
 - 網站設定與歷程記錄。
 - 任何子網站和其內容。
 
-在刪除網站，讓他們可以將其資料移至另一個位置，並將會刪除網站時，也告訴使用者之前，應該通知網站系統管理員和任何子網站擁有者。 
+在刪除網站，讓他們可以將其資料移至另一個位置，並將會刪除網站時，也告訴使用者之前，應該通知網站系統管理員和任何子網站擁有者。
 
-如需詳細資訊，請參閱[刪除網站集合](https://docs.microsoft.com/sharepoint/delete-site-collection)。 
+如需詳細資訊，請參閱[刪除網站](https://docs.microsoft.com/sharepoint/delete-site-collection)。

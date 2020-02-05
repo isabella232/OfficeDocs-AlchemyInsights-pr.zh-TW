@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049400"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771134"
 ---
 # <a name="why-cant-i-edit-files"></a>為什麼我無法編輯檔案？
 
-如果文件、 工作表或簡報鎖定進行編輯，而且無法在 Windows 桌面應用程式中開啟，它可能檔案已經正在編輯由其他人，或其已取出的檔案。讓我們看快速查看一些理由[為什麼您可能無法編輯檔案](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)。
+快速看看一些理由[為什麼您可能無法編輯檔案](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)。
 
 如果您有文件庫與**簽出，需要**或**驗證**資料行或中繼資料，或當**草稿項目安全性**設為 [**可以編輯的使用者**] 或 [**僅限可核准項目的使用者**中的文件庫的版本設定：
 

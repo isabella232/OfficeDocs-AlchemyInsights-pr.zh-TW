@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051524"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771170"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online 的一般問題與解決方案
 
 以下是一些經常要求的主題的 SharePoint Online 的問題：
+
+- **快速入門**： 使用[SharePoint 尋找活頁簿](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf)建立出色、 強大的內部網路連線的工作場所。 請參閱[範例](https://lookbook.microsoft.com/)，並取得[設計指導方針](https://spdesign.azurewebsites.net/)。 如需整體簡介 SharePoint Online，請參閱[SharePoint Online 簡介](https://docs.microsoft.com/sharepoint/introduction)。
 
 - **權限**：[建置的權限策略](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)和[了解權限等級](https://docs.microsoft.com/sharepoint/understanding-permission-levels)。
 
@@ -33,4 +35,4 @@ ms.locfileid: "40051524"
 
 - **現代化 SharePoint**： 檢閱[SharePoint 中的新式體驗指南](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)和[現代化傳統的 SharePoint 網站](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)來啟動移動。
 
-- **快速入門**： 了解如何[開始使用 SharePoint Online](https://docs.microsoft.com/sharepoint/introduction)網站管理策略。
+**附註：** SharePoint 問題的相關更具體的答案，如簡要重複您的問題，並包含任何您看到的錯誤或您使用的功能。
