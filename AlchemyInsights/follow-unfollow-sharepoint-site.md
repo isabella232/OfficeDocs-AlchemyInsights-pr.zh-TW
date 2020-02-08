@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611688"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855542"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>遵循或取消追蹤 SharePoint 網站
 
-有多種方法來找出並遵循網站、 新聞和 SharePoint 中有興趣的內容。 這將可讓您輕鬆地在清單中，尋找的資訊，並讓您查看 SharePoint 中的活動。
+如果使用者遇到問題追蹤或 unfollowing SharePoint 資源，請完成下列步驟：
 
-觀賞影片來[找出並遵循網站和最新消息](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c)。
-
-如果您無法以遵循或取消追蹤網站、 新聞或內容和風格結果未預期的請參閱此問題： 如果與單一使用者或組織內的所有使用者。 如果使用者遇到問題，則所有使用者，可能會暫時的服務問題。
-
-檢查[服務健康狀況儀表板](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)若要查看您的組織會受到影響。
+* 詢問使用者要登出回 SharePoint 登入並嘗試追蹤/unfollow SharePoint 資源的相同步驟。
+* 判斷問題是否與特定站台或所有網站。 如果與特定網站發生問題，請確定 「 下列內容 」 功能已啟用網站移至 [**網站設定 > 管理網站功能 > 下列內容**。 如果此功能設為作用中，嘗試停用與啟動一次該網站的功能。
+* 詢問使用者要嘗試不同的網際網路瀏覽器，看看是否問題是專屬於使用者的瀏覽器。
+* 如果所有使用者] 和 [所有網站會發生同樣的問題，請檢查[服務健康狀況儀表板](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)若要查看您的組織會受到影響。
