@@ -11,21 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 9ae5014aef14dc6478282348cf89f75062129ab7
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
+ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42033827"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42162903"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>在 Yammer 網路中的 eDiscovery
 
 您現在可以在 Office 365 中執行 Yammer 內容的 eDiscovery 搜尋。  執行 eDiscovery 搜尋] 或 [匯出 Yammer 內容上的需要下列項目：
 
-1. 您第一次必須將 Yammer 企業網路移轉至原生模式] 以讓您的 Yammer 訊息及檔案可供搜尋。
-
-   > [!NOTE] 
-   >如果您是 Office 365 新客戶 9th 2020 年 1 月起，您的 Yammer 網路已在原生模式是現在與 eDiscovery 可被探索到您的資料。
+1. 您第一次必須將 Yammer 企業網路移轉至原生模式] 以讓您的 Yammer 訊息及檔案可供搜尋。 **附註： 如果您是新的 Office 365 客戶 9th 2020 年 1 月起，而且您的 Yammer 網路已在原生模式，您的資料是現在可被探索到與 eDiscovery**。
 
 2. 結束的客戶，一旦發行原生模式對齊工具和原生模式移轉完成 yammer 租用戶中將提供使用 Yammer 的 eDiscovery。
 
