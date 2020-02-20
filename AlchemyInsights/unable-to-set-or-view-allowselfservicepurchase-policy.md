@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: a9b6e36e8034e71b3e72c49e3cc68a126ef97aca
-ms.sourcegitcommit: cb9505f9eca032af3a4194c68d18c91789365690
+ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/16/2020
-ms.locfileid: "42091670"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158551"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>無法設定或檢視 AllowSelfServicePurchase 原則
 
@@ -29,11 +29,11 @@ ms.locfileid: "42091670"
 請嘗試下列步驟來啟用/集 1.2 TLS 通訊協定、 確認，然後重試。
  1. 在 PowerShell 命令提示字元 (PS C:>\)輸入下列命令，以 TLS 通訊協定設 1.2 版：
 
-    \[Net.ServicePointManager]::SecurityProtocol = \[Net.SecurityProtocolType]::Tls12
+    `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
 2. 確認 TLS 通訊協定，在使用中，使用下列命令：
 
-    \[Net.ServicePointManager]::SecurityProtocol 
+    `[Net.ServicePointManager]::SecurityProtocol` 
 
 3. 視需要再試一次 [取得] 或 [更新命令。
 
