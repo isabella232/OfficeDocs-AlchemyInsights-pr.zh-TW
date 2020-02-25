@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536174"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260233"
 ---
 # <a name="find-missing-folders"></a>尋找遺失的資料夾
 
-如果您不能看到您的資料夾，請檢查您的資料夾未摺疊。 在左窗格中選取**資料夾**旁的箭號。
-  
-如果您不小心刪除的資料夾，您可以復原時仍在您刪除項目] 資料夾中。 若要深入了解，請閱讀[還原已刪除的電子郵件在 Outlook.com 中](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)。
-  
-沒有已知的問題所在資料夾會遺失。 我們正在修正此問題。 您還是可以找到遺失使用**搜尋**的資料夾內儲存的項目 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />並這樣可能會有幫助您登出，然後再次登入。 [按一下這裡以登出。](https://login.live.com/logout.srf)
+某些使用者可能無法檢視在小型] 畫面上時，請參閱左的資料夾窗格。
+
+- 只有當您在需要時，請展開 [資料夾] 窗格。 在左側列中顯示或隱藏資料夾選取三行圖示。
+- 開啟 [[版面設定](https://outlook.live.com/mail/options/mail/layout)]，然後選取 [**隱藏讀取窗格**，然後**儲存**。 這樣可提供更多空間來顯示資料夾] 畫面。
+
+如果您不小心刪除的資料夾，您可以復原時仍在您刪除項目] 資料夾中。 若要深入了解，請閱讀[還原已刪除的電子郵件在 Outlook.com 中](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)。
