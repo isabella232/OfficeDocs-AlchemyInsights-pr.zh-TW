@@ -11,16 +11,18 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: f012aedd1d133b8706b4dbdc296ae6ca19942a06
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
+ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855709"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "42322745"
 ---
 # <a name="modernize-the-classic-home-page"></a>現代化傳統首頁
 
 傳統 SharePoint 小組網站的首頁以新的更新會影響的傳統的小組網站 (STS #0) 的 [首頁] 頁面時首頁包含*僅限輸出的方塊預設網頁組件*快速入門、 等文件庫、 新聞摘要。
+
+檢視變更的逐步解說[以下](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif)。 
 
 **附註： 傳統的小組網站，其中包含自訂的內容將不會自動更新。**
 
