@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
+ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626375"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42371513"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Teams 常見的問題與解決方式
 
 針對 Microsoft Teams 問題的相關更具體的答案，簡要重複您的問題，並包含任何您看到的錯誤或您使用的功能。
+
+如果您需要支援遠端工作者 (WFH) 與小組的說明，請檢閱[支援遠端工作者使用 Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
 
 以下是一些額外的資源：
 
