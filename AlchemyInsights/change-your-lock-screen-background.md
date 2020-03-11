@@ -1,5 +1,5 @@
 ---
-title: 變更鎖定畫面背景
+title: 變更您的鎖定畫面背景
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 369774c569a027d206f05494663409e36390bf5e
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: 2ec68eb164748f27ef0f43a48994c61c9e67d310
+ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278820"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42588100"
 ---
-# <a name="change-your-lock-screen-background"></a>變更鎖定畫面背景
+# <a name="change-your-lock-screen-background"></a>變更您的鎖定畫面背景
 
-- 移至 [**設定** > **個人化** > **鎖定畫面**。 按一下或點選 [[這裡](ms-settings:lockscreen?activationSource=GetHelp)。
+- 移至 [**設定** > **個人** >化 **鎖定] 畫面**。 或者按一下或點擊[這裡](ms-settings:lockscreen?activationSource=GetHelp)。
 
-- 若要設定的自訂背景圖片，從 [**背景**] 下拉式清單中，選取**圖片**，然後選擇 [或**瀏覽**至圖片。 
+- 若要設定自訂背景圖片，請從 [**背景**] 下拉式清單中選取 [**圖片**]，然後選擇或**流覽**至圖片。
 
-- 若要設定自訂的圖片的幻燈片秀，從 [**背景**] 下拉式清單中，選取 [**投影片放映**並選擇 [專輯或新增包含投影片放映圖片的資料夾。 
+  ![設定自訂背景圖片。](media/set-custom-background-pic.png)
 
+- 若要設定自訂圖片的幻燈播放清單，請從 [**背景**] 下拉式清單中選取 [**投影片放映**]，然後選擇曲集或新增包含幻燈的圖片的資料夾。
+
+  ![設定自訂圖片的幻燈。](media/set-up-slideshow-background.png)

@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: 0467bd04eb2f46a88f7e429aa7cf6d085d416dbc
-ms.sourcegitcommit: 867184426f2ed48e3e845544d7ce185d731c2fb3
+ms.openlocfilehash: c96cf829c192456291e2926e4a8e7312e43583bd
+ms.sourcegitcommit: c6c5d3f753038e3eee852111c6581e55c2f6c686
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39814273"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42574362"
 ---
 # <a name="change-account-picture"></a>變更帳戶圖片
 
-如果您使用使用者名稱和密碼來登入 Windows 10 時，您正在使用本機帳戶。 若要變更您的本機帳戶圖片：
+如果您使用使用者名稱和密碼登入 Windows 10，則表示您使用的是本機帳戶。 **若要變更您的本機使用者頭像**：
 
 1. 移至**開始** > **設定** > **帳戶** > **您的資訊**。
-2. 在 [**建立您的圖片**，選取 [**瀏覽的其中一個**。 或者，如果您的裝置有網路攝影機] 中，選取 [**網路攝影機**，並採取 selfie。 
-    附註： Windows 會記下您已使用的最後三個圖片。 選取 [切換至的話，將**您的資訊]** 頁面上的圖片。
+2. 在 [**建立圖片**] 底下，按一下 **[流覽一個]**。 或者，如果您的裝置有相機，請按一下 [**觀景窗**] 並使用 selfie。 
+    **附注**： Windows 會記住最近使用過的三張圖片。 按一下 [您的資訊] 頁面上的圖片以切換到該圖片。
 
-如果您使用電子郵件地址和密碼登入，您使用 Microsoft 帳戶。 若要變更您的 Microsoft 帳戶圖片：
+如果您使用電子郵件地址和密碼登入，則表示您使用的是 Microsoft 帳戶。 若要變更您的 Microsoft 帳戶圖片：
 
-1. 登入 Microsoft 帳戶的 [**您的資訊**] 頁面上。
-2. 選取**新增圖片**] 或 [**變更圖片**]，然後依照指示。
+1. 使用您的 Microsoft 帳戶登入您的 [**資訊**] 頁面。
+2. 按一下 [**新增圖片**] 或 [**變更圖片**]，然後依照指示執行。
 
-[取得更多說明設定與管理您的 Microsoft 帳戶](https://support.microsoft.com/products/microsoft-account?category=manage-account)
+[取得更多有關設定及管理 Microsoft 帳戶的說明](https://support.microsoft.com/products/microsoft-account?category=manage-account)。

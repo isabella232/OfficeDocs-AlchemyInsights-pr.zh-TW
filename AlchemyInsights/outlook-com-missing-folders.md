@@ -1,9 +1,9 @@
 ---
-title: Outlook.com 遺漏資料夾
+title: Outlook.com 遺失的資料夾
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 3/9/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,18 +15,19 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
-ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
+ms.openlocfilehash: e6a5170655d98eaa914f686753e0aea3873fc058
+ms.sourcegitcommit: e1307138631f9a5489f5309dfc5dd1bc6be3dc96
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/24/2020
-ms.locfileid: "42260233"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42572566"
 ---
 # <a name="find-missing-folders"></a>尋找遺失的資料夾
 
-某些使用者可能無法檢視在小型] 畫面上時，請參閱左的資料夾窗格。
+當您在小型畫面上進行查看時，有些使用者可能無法看到左資料夾窗格。
 
-- 只有當您在需要時，請展開 [資料夾] 窗格。 在左側列中顯示或隱藏資料夾選取三行圖示。
-- 開啟 [[版面設定](https://outlook.live.com/mail/options/mail/layout)]，然後選取 [**隱藏讀取窗格**，然後**儲存**。 這樣可提供更多空間來顯示資料夾] 畫面。
+- 如果您看不到資料夾窗格，請最大化瀏覽器視窗或向左滾動，以查看資料夾清單。
+- 只有在您需要時才展開資料夾窗格。 選取左側欄中的三個線條圖示，以顯示或隱藏資料夾。
+- 開啟[版面配置設定](https://outlook.live.com/mail/options/mail/layout)，然後選取 [**隱藏讀取窗格]** ，然後再進行**儲存**。 這可讓螢幕顯示資料夾的更多空間。
 
-如果您不小心刪除的資料夾，您可以復原時仍在您刪除項目] 資料夾中。 若要深入了解，請閱讀[還原已刪除的電子郵件在 Outlook.com 中](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)。
+如果您不小心刪除資料夾，您可以在它仍然位於 [刪除的郵件] 資料夾時進行復原。 若要深入瞭解，請參閱[還原 Outlook.com 中已刪除的電子郵件](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)。

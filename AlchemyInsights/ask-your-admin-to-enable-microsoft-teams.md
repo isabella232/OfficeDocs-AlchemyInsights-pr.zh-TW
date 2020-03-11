@@ -1,5 +1,5 @@
 ---
-title: 請詢問您的系統管理員，才能啟用 Microsoft Teams
+title: 要求您的系統管理員啟用 Microsoft 團隊
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962288"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573123"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>您出遺漏了 ！ 請詢問您的系統管理員，才能啟用 Microsoft Teams
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>您已錯過！ 要求您的系統管理員啟用 Microsoft 團隊
 
-教師及人員能存取小組但學生無法使用，或已授權的 F1 使用者無法存取小組？
+如果您有 EDU 租使用者，您必須手動啟用 Microsoft 團隊。 若要這麼做，請移至 Microsoft 365 系統管理中心 > **服務和增益集 > Microsoft 團隊**。 如果您使用的是新的小組系統管理中心，您必須先關閉 **嘗試新** 的系統管理中心，以尋找 **服務和增益集**。 
 
-小組必須明確啟用學生和 F1 授權。 您可以找到關於如何為您的學校[設定 microsoft Teams 教育版](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education)中啟用 microsoft Teams 的詳細的指示。 
+**重要**：您可能需要等候24小時，您的變更才會生效。
