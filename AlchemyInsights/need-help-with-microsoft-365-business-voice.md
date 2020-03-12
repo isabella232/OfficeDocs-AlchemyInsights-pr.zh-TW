@@ -1,5 +1,5 @@
 ---
-title: 需要使用 Microsoft 365 企業語音的協助嗎？
+title: 需要 Microsoft 365 商務語音的協助嗎？
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 5fc7cecaea046d4de429e5fc3be30f62681c299b
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 55490f1e04f02af83d0ce786543117aa48ecb340
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42558890"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600447"
 ---
-# <a name="need-help-with-microsoft-365-business-voice"></a>需要使用 Microsoft 365 企業語音的協助嗎？
+# <a name="need-help-with-microsoft-365-business-voice"></a>需要 Microsoft 365 商務語音的協助嗎？
 
-Microsoft 365 商務版 Voice，可以方便小型和中型組織若要開啟 Microsoft Teams 功能強大且更有彈性的電話系統。 如需有關企業語音的詳細資訊，請參閱[什麼是 Microsoft 365 商務版語音？](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Microsoft 365 商務語音可簡化小型和中型組織，將 Microsoft 團隊變成強大且靈活的電話系統。 如需商務語音的詳細資訊，請參閱[什麼是 Microsoft 365 商務語音？](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-如果您已取得 Microsoft 365 商務版語音，[快速入門精靈](https://docs.microsoft.com/en-us/microsoftteams/business-voice/use-getting-started-wizard)可協助您取得的內容。 
+如果您已取得 Microsoft 365 商務語音，「快速入門」[嚮導](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard)可協助您進行某些動作。 

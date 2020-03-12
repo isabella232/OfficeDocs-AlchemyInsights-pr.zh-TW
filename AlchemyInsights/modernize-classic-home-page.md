@@ -1,5 +1,5 @@
 ---
-title: 現代化傳統首頁
+title: 將傳統首頁現代化
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -11,23 +11,23 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
-ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
+ms.openlocfilehash: e727f40b725cefa8a09c15fe2d65ab3307d4e3e1
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42322745"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600555"
 ---
-# <a name="modernize-the-classic-home-page"></a>現代化傳統首頁
+# <a name="modernize-the-classic-home-page"></a>將傳統首頁現代化
 
-傳統 SharePoint 小組網站的首頁以新的更新會影響的傳統的小組網站 (STS #0) 的 [首頁] 頁面時首頁包含*僅限輸出的方塊預設網頁組件*快速入門、 等文件庫、 新聞摘要。
+當首頁*只包含現成的預設網頁元件*（例如「快速入門」、「文件庫」及「新聞摘要」）時，「傳統 SharePoint 小組網站」首頁的最近更新會影響傳統小組網站（STS#0）的首頁。
 
-檢視變更的逐步解說[以下](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif)。 
+在[這裡](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif)查看變更的流覽。 
 
-**附註： 傳統的小組網站，其中包含自訂的內容將不會自動更新。**
+**附注：包含自訂內容的傳統小組網站不會自動更新。**
 
-* 深入了解在[傳統首頁現代化](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)的更新準則。
+* 深入瞭解在[傳統首頁現代化](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)的更新準則。
 
-* [升級其他網站首頁，也未自動現代化的一部分](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)。
+* [升級不屬於自動現代化之其他首頁](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)。
 
-* 停用此升級對特定網站使用的[SharePoint 模式和實例 (PnP) PowerShell cmdlet](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)。
+* 在特定網站上使用[SharePoint 模式和慣例（PnP） PowerShell Cmdlet](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)來停用此升級。

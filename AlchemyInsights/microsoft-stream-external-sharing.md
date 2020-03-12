@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 06ec178a2012872a0a4d5462b795229aeca67016
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
+ms.openlocfilehash: 74aa7e926604e62054100b8a99d62fe403dd3b16
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371560"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600519"
 ---
 # <a name="microsoft-stream-external-sharing"></a>Microsoft Stream 外部共用
 
-Microsoft Stream 尚未不支援外部共用案例來賓或組織外的人員。 我們知道高度需要這些功能，以及我們正在計劃如何建立這些功能。
+Microsoft Stream 尚未支援來賓或組織外部人員的外部共用案例。 我們知道這些功能都是非常必要的，我們正在處理如何建立這些功能的計畫。
 
-- [外部共用資料流中](https://docs.microsoft.com/en-us/stream/portal-share-video#external-sharing)
+- [資料流程中的外部共用](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
-- [共用您在 Microsoft 資料流的視訊](https://docs.microsoft.com/en-us/stream/portal-share-video)
+- [在 Microsoft Stream 中共用您的影片](https://docs.microsoft.com/stream/portal-share-video)

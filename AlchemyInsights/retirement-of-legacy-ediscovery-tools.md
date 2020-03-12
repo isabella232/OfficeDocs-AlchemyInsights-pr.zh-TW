@@ -1,5 +1,5 @@
 ---
-title: 淘汰網站的舊版電子文件探索工具
+title: 舊的 eDiscovery 工具退休
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157524"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600351"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>淘汰網站的舊版電子文件探索工具
+# <a name="retirement-of-legacy-ediscovery-tools"></a>舊的 eDiscovery 工具退休
 
-在 Microsoft 365 合規性中心的新增和改善 eDiscovery 功能，因為下列舊版電子文件探索工具和 commandlets 即將停用在接下來的月份中：
+由於 Microsoft 365 規範中心的新的和改良的 eDiscovery 功能的結果，下列舊的 eDiscovery 工具和 commandlets 將在未來的幾個月內淘汰：
 
-- [就地 eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery)和[就地保留](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds)在 Exchange 系統管理中心。
+- 在 Exchange 系統管理中心中[In-Place eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery)和[In-Place 存放](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds)。
 
-- 支援就地 eDiscovery 和就地保留 Exchange Online PowerShell cmdlet。 (這些 cmdlet 統稱會被識別為 *-MailboxSearch cmdlet。)這包括下列 cmdlet:
+- 支援 In-Place eDiscovery 和 In-Place 保留的 Exchange Online PowerShell Cmdlet。 （這些 Cmdlet 共同識別為 *-MailboxSearch Cmdlet。）這包括下列 Cmdlet：
 
-    - [新 MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [Start-mailboxsearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Stop-mailboxsearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [Set-mailboxsearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [New-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [Stop-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- 在 Exchange Online PowerShell [Search-mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps)指令程式。
-- Exchange Web Services API 中的下列作業：
+- Exchange Online PowerShell 中的[Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) Cmdlet。
+- Exchange Web 服務 API 中的下列作業：
     - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 進階電子文件 v1.0](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Office 365 Advanced eDiscovery 1.0 版](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**退休時間表**：
-- 2020 年 4 月 1： 您無法建立新的搜尋及保留，但您可以仍執行、 編輯和刪除現有的搜尋自行承擔風險。 Microsoft 支援服務將沒有較長的支援就地 eDiscovery & 保留在 EAC 中。
+**退休的時程表**：
+- 2020年4月1日：您將無法建立新的搜尋和保留，但是您仍然可以自行承擔執行、編輯和刪除現有的搜尋。 Microsoft 支援將不再支援 EAC 中 In-Place eDiscovery & 保留。
 
-- 2020 年 7 月 1： 在 EAC 中的就地 eDiscovery & 保留功能將會處於唯讀模式。 這表示您只可以移除現有的搜尋並保留。
+- 2020年7月1日： In-Place eDiscovery & 保留 EAC 中的功能將會置於唯讀模式。 這表示您只可以移除現有的搜尋和保留。
 
 **如需詳細資訊，請參閱**：
 
- - [移轉舊版的 eDiscovery 搜尋，並保留至 Microsoft 365 合規性中心](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [淘汰網站的舊版電子文件探索工具](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [就地 eDiscovery 和就地保留相關的常見問題集](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [將舊版 eDiscovery 搜尋和保留遷移至 Microsoft 365 規範中心](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [舊的 eDiscovery 工具退休](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [有關 In-Place eDiscovery 和 In-Place 保留的 FAQs](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
