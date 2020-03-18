@@ -1,40 +1,49 @@
 ---
-title: Teams 佈景主題 catchall
+title: Teams 佈景主題 CatchAll
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
-ms.translationtype: MT
+ms.openlocfilehash: 02dacb9a6126d99c1c95637212d94c3266b230d6
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371513"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707470"
 ---
-# <a name="teams-common-issues-and-resolutions"></a><span data-ttu-id="6ff47-102">Teams 常見的問題與解決方式</span><span class="sxs-lookup"><span data-stu-id="6ff47-102">Teams common issues and resolutions</span></span>
+# <a name="teams-common-issues-and-resolutions"></a><span data-ttu-id="e6e19-102">Teams 常見問題和解決方案</span><span class="sxs-lookup"><span data-stu-id="e6e19-102">Teams common issues and resolutions</span></span>
 
-<span data-ttu-id="6ff47-103">針對 Microsoft Teams 問題的相關更具體的答案，簡要重複您的問題，並包含任何您看到的錯誤或您使用的功能。</span><span class="sxs-lookup"><span data-stu-id="6ff47-103">For a more specific answer about a Microsoft Teams issue, briefly rephrase your question, and include any errors you're seeing or features you're using.</span></span>
+<span data-ttu-id="e6e19-103">如需特定答案，請嘗試修改您的問題，改為包含您所看到的錯誤，或所使用的Teams 功能。</span><span class="sxs-lookup"><span data-stu-id="e6e19-103">For a more specific answer, try rephrasing your question to include any errors you're seeing or Teams features you're using.</span></span>
 
-<span data-ttu-id="6ff47-104">如果您需要支援遠端工作者 (WFH) 與小組的說明，請檢閱[支援遠端工作者使用 Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)</span><span class="sxs-lookup"><span data-stu-id="6ff47-104">If you need help supporting Remote Workers (WFH) with Teams, please review [Support remote workers using Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)</span></span>
+<span data-ttu-id="e6e19-104">如需協助部署 Teams 以支援起因於 COVID-19 的遠端工作人員 (WFH)，請參閱[支援使用 Microsoft Teams 的遠端工作者](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)。</span><span class="sxs-lookup"><span data-stu-id="e6e19-104">If you need help deploying Teams to support Remote Workers (WFH) due to COVID-19, please review  [Support remote workers using Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams).</span></span> <span data-ttu-id="e6e19-105">此外，您可能符合 Microsoft 365 FastTrack 計畫的部署協助，請造訪 [[FastTrack 中心]](https://www.microsoft.com/fasttrack) 以提交要求。</span><span class="sxs-lookup"><span data-stu-id="e6e19-105">Also, you may be eligible for deployment assistance from the Microsoft 365 FastTrack Program - please visit the [FastTrack Center](https://www.microsoft.com/fasttrack) to submit a request.</span></span>
 
-<span data-ttu-id="6ff47-105">以下是一些額外的資源：</span><span class="sxs-lookup"><span data-stu-id="6ff47-105">Here are some additional resources:</span></span>
+<span data-ttu-id="e6e19-106">適用於所有 Teams 客戶：</span><span class="sxs-lookup"><span data-stu-id="e6e19-106">For all Teams customers:</span></span>
 
-- <span data-ttu-id="6ff47-106">**啟用 Teams guest 存取：** 檢閱[Teams guest 存取檢查清單](https://docs.microsoft.com/microsoftteams/guest-access-checklist)，並確定已完成所有步驟。</span><span class="sxs-lookup"><span data-stu-id="6ff47-106">**Enable Teams guest access:** Review the [Teams guest access checklist](https://docs.microsoft.com/microsoftteams/guest-access-checklist) and make sure all steps have been completed.</span></span>
-- <span data-ttu-id="6ff47-107">**疑難排解 Teams 登入：** 首先，請確定[Microsoft Teams 服務正常](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)。</span><span class="sxs-lookup"><span data-stu-id="6ff47-107">**Troubleshoot Teams sign-in:** First, make sure the [Microsoft Teams service is healthy](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth).</span></span> <span data-ttu-id="6ff47-108">然後檢查任何常見的錯誤代碼，並檢閱[為什麼我有登入 Microsoft Teams 的問題？](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)</span><span class="sxs-lookup"><span data-stu-id="6ff47-108">Then check for any common error codes and review [Why am I having trouble signing in to Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)</span></span>  <span data-ttu-id="6ff47-109">您也可能需要檢閱[身分識別模型及 Microsoft Teams 中的驗證](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication)。</span><span class="sxs-lookup"><span data-stu-id="6ff47-109">You may also need to review [Identity models and authentication in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).</span></span>
-- <span data-ttu-id="6ff47-110">**還原已刪除的小組或通道：**</span><span class="sxs-lookup"><span data-stu-id="6ff47-110">**Restore a deleted Team or channel:**</span></span> 
-    - <span data-ttu-id="6ff47-111">請參閱[還原已刪除的 Microsoft Teams 小組](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)。</span><span class="sxs-lookup"><span data-stu-id="6ff47-111">See [Restore a Deleted Team in Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/).</span></span>
-    - <span data-ttu-id="6ff47-112">刪除的通道團隊內可以還原最多可在刪除通道之後 21 天。</span><span class="sxs-lookup"><span data-stu-id="6ff47-112">Deleted channels within a team can be restored for up to 21 days after the channel has been deleted.</span></span> 
-    - <span data-ttu-id="6ff47-113">若要復原已刪除的通道，請參閱[封存或還原小組](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7)。</span><span class="sxs-lookup"><span data-stu-id="6ff47-113">To recover a deleted channel, see [Archive or restore a team](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7).</span></span>
-- <span data-ttu-id="6ff47-114">**還原已刪除的檔案：** 請參閱[復原已刪除的 Teams 中的檔案](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e)。</span><span class="sxs-lookup"><span data-stu-id="6ff47-114">**Restore deleted files:** See [Recover deleted files in Teams](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e).</span></span>
-- <span data-ttu-id="6ff47-115">**疑難排解遺失的撥號鍵台：**</span><span class="sxs-lookup"><span data-stu-id="6ff47-115">**Troubleshoot a missing dial pad:**</span></span>  
-    - <span data-ttu-id="6ff47-116">請確定使用者有獲指派[Teams 授權](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)。</span><span class="sxs-lookup"><span data-stu-id="6ff47-116">Make sure the user has been assigned a [Teams license](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).</span></span>
-    - <span data-ttu-id="6ff47-117">請確定使用者有[通話方案](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)指派。</span><span class="sxs-lookup"><span data-stu-id="6ff47-117">Make sure the user has a [Calling Plan](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) assigned.</span></span>
-    - <span data-ttu-id="6ff47-118">為使用者啟用[Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)。</span><span class="sxs-lookup"><span data-stu-id="6ff47-118">Enable the users for [Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).</span></span>
-- <span data-ttu-id="6ff47-119">**已知問題與小組：** 閱讀[已知問題的 Microsoft Teams](https://docs.microsoft.com/microsoftteams/known-issues)。</span><span class="sxs-lookup"><span data-stu-id="6ff47-119">**Known issues with Teams:** Read [Known issues for Microsoft Teams](https://docs.microsoft.com/microsoftteams/known-issues).</span></span>
+- <span data-ttu-id="e6e19-107">**Teams 的新使用者嗎？**</span><span class="sxs-lookup"><span data-stu-id="e6e19-107">**New to Teams?**</span></span> <span data-ttu-id="e6e19-108">請參閱[開始使用 Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)。</span><span class="sxs-lookup"><span data-stu-id="e6e19-108">Check out [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span>
+
+- <span data-ttu-id="e6e19-109">**啟用 Teams 來賓存取：** 參閱 [Teams 來賓存取檢查清單](https://docs.microsoft.com/microsoftteams/guest-access-checklist)，並確定已完成所有步驟。</span><span class="sxs-lookup"><span data-stu-id="e6e19-109">**Enable Teams guest access:** Review the [Teams guest access checklist](https://docs.microsoft.com/microsoftteams/guest-access-checklist) and make sure all steps have been completed.</span></span>
+
+- <span data-ttu-id="e6e19-110">**[設定 Teams 的音訊會議](https://docs.microsoft.com/alchemyinsights/how-do-i-set-up-audio-conferencing-for-teams)**</span><span class="sxs-lookup"><span data-stu-id="e6e19-110">**[Setup Audio Conferencing for Teams](https://docs.microsoft.com/alchemyinsights/how-do-i-set-up-audio-conferencing-for-teams)**</span></span>
+
+- <span data-ttu-id="e6e19-111">**遺失撥號鍵台的疑難排解：**</span><span class="sxs-lookup"><span data-stu-id="e6e19-111">**Troubleshoot a missing dial pad:**</span></span>  
+
+    - <span data-ttu-id="e6e19-112">請確認已指派使用者 [[Teams 授權]](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)。</span><span class="sxs-lookup"><span data-stu-id="e6e19-112">Make sure the user has been assigned a [Teams license](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).</span></span>
+
+    - <span data-ttu-id="e6e19-113">請確認已指派使用者 [[通話方案]](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)。</span><span class="sxs-lookup"><span data-stu-id="e6e19-113">Make sure the user has a [Calling Plan](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) assigned.</span></span>
+
+    - <span data-ttu-id="e6e19-114">為使用者啟用 [[企業語音]](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)。</span><span class="sxs-lookup"><span data-stu-id="e6e19-114">Enable the users for [Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).</span></span>
+
+- <span data-ttu-id="e6e19-115">**疑難排解 Teams 登入問題：** 首先，請確認 [Microsoft Teams 服務狀況良好](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)。</span><span class="sxs-lookup"><span data-stu-id="e6e19-115">**Troubleshoot Teams sign-in:** First, make sure the [Microsoft Teams service is healthy](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth).</span></span> <span data-ttu-id="e6e19-116">然後檢查是否有任何常見的錯誤碼，並參閱[為何我無法登入 Microsoft Teams？](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)</span><span class="sxs-lookup"><span data-stu-id="e6e19-116">Then check for any common error codes and review [Why am I having trouble signing in to Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)</span></span>  <span data-ttu-id="e6e19-117">您可能還需要參閱 [Microsoft Teams 中的身分識別模型和驗證方式](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication) (部分機器翻譯)。</span><span class="sxs-lookup"><span data-stu-id="e6e19-117">You may also need to review [Identity models and authentication in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).</span></span>
+
+<span data-ttu-id="e6e19-118">**適用於教育版客戶：**</span><span class="sxs-lookup"><span data-stu-id="e6e19-118">**For Education customers:**</span></span>
+
+<span data-ttu-id="e6e19-119">如果您的使用者看到「您錯過了！」的訊息，</span><span class="sxs-lookup"><span data-stu-id="e6e19-119">If your users are seeing the message "You're missing out!"</span></span> <span data-ttu-id="e6e19-120">請確定要[為您的學校啟用 Microsoft Teams](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams)。</span><span class="sxs-lookup"><span data-stu-id="e6e19-120">Be sure to [Enable Microsoft Teams for your School](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams).</span></span> <span data-ttu-id="e6e19-121">在 EDU 租用戶中不會預設啟用 Microsoft Teams；您必須先將它開啟。</span><span class="sxs-lookup"><span data-stu-id="e6e19-121">In EDU tenants, Microsoft Teams isn't enabled by default; you'll have to turn it on first.</span></span>
+
+<span data-ttu-id="e6e19-122">接下來請參閱 [Office 365 教育版中的遠端教學和學習](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)，以了解如何設定學校、課程規劃、虛擬會議，以及與學生共用內容的最新指導方針。</span><span class="sxs-lookup"><span data-stu-id="e6e19-122">Next, review [Remote teaching and learning in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) to learn the most up-to-date guidance on setting up your school, lesson planning, meeting virtually, and sharing content with students.</span></span> 
