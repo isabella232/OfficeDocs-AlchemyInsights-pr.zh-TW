@@ -1,40 +1,49 @@
 ---
-title: Teams 佈景主題 catchall
+title: Teams 佈景主題 CatchAll
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
-ms.translationtype: MT
+ms.openlocfilehash: 02dacb9a6126d99c1c95637212d94c3266b230d6
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371513"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707470"
 ---
-# <a name="teams-common-issues-and-resolutions"></a>Teams 常見的問題與解決方式
+# <a name="teams-common-issues-and-resolutions"></a>Teams 常見問題和解決方案
 
-針對 Microsoft Teams 問題的相關更具體的答案，簡要重複您的問題，並包含任何您看到的錯誤或您使用的功能。
+如需特定答案，請嘗試修改您的問題，改為包含您所看到的錯誤，或所使用的Teams 功能。
 
-如果您需要支援遠端工作者 (WFH) 與小組的說明，請檢閱[支援遠端工作者使用 Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
+如需協助部署 Teams 以支援起因於 COVID-19 的遠端工作人員 (WFH)，請參閱[支援使用 Microsoft Teams 的遠端工作者](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)。 此外，您可能符合 Microsoft 365 FastTrack 計畫的部署協助，請造訪 [[FastTrack 中心]](https://www.microsoft.com/fasttrack) 以提交要求。
 
-以下是一些額外的資源：
+適用於所有 Teams 客戶：
 
-- **啟用 Teams guest 存取：** 檢閱[Teams guest 存取檢查清單](https://docs.microsoft.com/microsoftteams/guest-access-checklist)，並確定已完成所有步驟。
-- **疑難排解 Teams 登入：** 首先，請確定[Microsoft Teams 服務正常](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)。 然後檢查任何常見的錯誤代碼，並檢閱[為什麼我有登入 Microsoft Teams 的問題？](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  您也可能需要檢閱[身分識別模型及 Microsoft Teams 中的驗證](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication)。
-- **還原已刪除的小組或通道：** 
-    - 請參閱[還原已刪除的 Microsoft Teams 小組](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)。
-    - 刪除的通道團隊內可以還原最多可在刪除通道之後 21 天。 
-    - 若要復原已刪除的通道，請參閱[封存或還原小組](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7)。
-- **還原已刪除的檔案：** 請參閱[復原已刪除的 Teams 中的檔案](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e)。
-- **疑難排解遺失的撥號鍵台：**  
-    - 請確定使用者有獲指派[Teams 授權](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)。
-    - 請確定使用者有[通話方案](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)指派。
-    - 為使用者啟用[Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)。
-- **已知問題與小組：** 閱讀[已知問題的 Microsoft Teams](https://docs.microsoft.com/microsoftteams/known-issues)。
+- **Teams 的新使用者嗎？** 請參閱[開始使用 Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)。
+
+- **啟用 Teams 來賓存取：** 參閱 [Teams 來賓存取檢查清單](https://docs.microsoft.com/microsoftteams/guest-access-checklist)，並確定已完成所有步驟。
+
+- **[設定 Teams 的音訊會議](https://docs.microsoft.com/alchemyinsights/how-do-i-set-up-audio-conferencing-for-teams)**
+
+- **遺失撥號鍵台的疑難排解：**  
+
+    - 請確認已指派使用者 [[Teams 授權]](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)。
+
+    - 請確認已指派使用者 [[通話方案]](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)。
+
+    - 為使用者啟用 [[企業語音]](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)。
+
+- **疑難排解 Teams 登入問題：** 首先，請確認 [Microsoft Teams 服務狀況良好](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)。 然後檢查是否有任何常見的錯誤碼，並參閱[為何我無法登入 Microsoft Teams？](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  您可能還需要參閱 [Microsoft Teams 中的身分識別模型和驗證方式](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication) (部分機器翻譯)。
+
+**適用於教育版客戶：**
+
+如果您的使用者看到「您錯過了！」的訊息， 請確定要[為您的學校啟用 Microsoft Teams](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams)。 在 EDU 租用戶中不會預設啟用 Microsoft Teams；您必須先將它開啟。
+
+接下來請參閱 [Office 365 教育版中的遠端教學和學習](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)，以了解如何設定學校、課程規劃、虛擬會議，以及與學生共用內容的最新指導方針。 
