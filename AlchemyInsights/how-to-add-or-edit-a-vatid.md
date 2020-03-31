@@ -12,27 +12,31 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664311"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059727"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>如何新增或編輯 VatID
 
-1. 在 Microsoft 365 系統管理中心，移至**帳單** \> [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面。
+**附注**：如果您的國家/地區是使用加值稅（加值稅）（如英國），Microsoft 開具發票會為您計算加值稅，並將該金額套用到您的發票。 如需詳細資訊，請參閱歐洲委員會發佈的[VIES 免責聲明](https://go.microsoft.com/fwlink/?LinkID=841741)。
 
-2. 尋找您想要更新的訂閱訂閱卡。
+**新增或編輯 VatID**
 
-3. 在 [**設定 & 動作**] 區段中，選取 [**編輯服務使用地址**]。
+1. 在 Microsoft 365 系統管理中心中，移至 [**帳單** \> [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面。
 
-4. 在 [**編輯服務使用地址**] 頁面上，在 [ **VAT 編號**] 方塊中，輸入您的 VAT 識別碼，然後選取 [**儲存**。
+2. 尋找您要更新之訂閱的訂閱卡。
 
-    完成後，VAT 將不會收取下一步帳單上。
+3. 在 [**設定 & 動作**] 區段中，選取 [**編輯服務使用位址**]。
 
-若要深入了解，請參閱[支付哪些稅我是 Office 365？](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+4. 在 [**編輯服務使用位址**] 頁面的 [ **vat 號碼**] 方塊中，輸入您的 vat ID，然後選取 [**儲存**]。
+
+    完成時，將不會在下一個帳單上收取加值稅。
+
+若要深入瞭解，請參閱[我要向 Office 365 收取哪些稅收？](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
 
 **其他資源**
 
-[新增您的 VAT ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only)。
+[新增您的 加值稅 ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only)。
