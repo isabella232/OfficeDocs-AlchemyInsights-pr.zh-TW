@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856458"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030391"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Teams 常見問題和解決方案
+
+**重要**：因為最近的 Teams 使用量增加，當您指派 Teams 授權給使用者時，可能需要 24 小時的時間才能完成設定。 在此之前，您無法將 Teams 原則指派給他們，而他們可能無法存取某些 Teams 功能，例如通話和音訊會議。
+
+**常見問題和解決方案**
 
 如需特定答案，請嘗試修改您的問題，改為包含您所看到的錯誤，或所使用的Teams 功能。
 
