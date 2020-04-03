@@ -13,21 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: b12540bbd7e7e3524f259736fec440b712289754
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 14c1c3af556eff16abbc4d1e0f8046ce1aa8343f
+ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664455"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43100282"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>如何新增信用卡？
 
 1. 在 Microsoft 365 系統管理中心，移至 [帳單]**** \> [付款方式][](https://go.microsoft.com/fwlink/p/?linkid=2018806) 頁面。
 
-2. 選取 [新增付款方式]****。
+2. 按一下 **[新增付款方式]**。
 
 3. 在 [付款方式]**** 頁面上，從下拉式功能表選取付款方法。
 
-4. 輸入新信用卡或銀行帳戶的相關資訊，然後選取 **[儲存]**。
+4. 輸入新信用卡或銀行帳戶的資訊，然後按一下 **[儲存]**。
 
 若要深入了解，請參閱[新增、更新或移除用於商務用 Office 365 的信用卡或銀行帳戶](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)。
