@@ -10,17 +10,19 @@ ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: d0eccaf7d953dd6ac9f80394314dbdd71a1bccf5
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: b1bccc3ccdcbccfdbc68bbfd4ed40560b45f1797
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953767"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105302"
 ---
 # <a name="service-numbers-in-teams"></a>Teams 中的服務號碼
 
 服務電話號碼的並行通話能力比使用者或訂閱者電話號碼還要高。 
 
-- [請檢閱**取得服務號碼**](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers)的各種方式。 
+- [請檢閱取得服務號碼的各種方式](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers)。 
 
-- [檢閱如何**將使用者號碼轉換為服務號碼**](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s)。
+- [檢閱如何將使用者號碼轉換為服務號碼](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s)。
+
+如需詳細資訊，請參閱[管理貴組織的電話號碼](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) (英文)。
