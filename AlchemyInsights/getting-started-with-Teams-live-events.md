@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 66c9cb9f95ff83df9e50189971411d82484b7707
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034160"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43142980"
 ---
 # <a name="getting-started-with-teams-live-events"></a>開始使用 Teams 即時活動
 
@@ -24,7 +24,7 @@ Microsoft Teams 即時活動是 Teams 會議的延伸，可讓您排程並產生
 
 若要建立即時活動，您需要下列項目：
 
-- [Office 365 企業版 E1、E3 或 E5 授權，或 Office 365 A3 或 A5 授權](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses) (部分機器翻譯)。
+- [Office 365 企業版 E1、E3 或 E5 授權，或 Office 365 A3 或 A5 授權](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses) (部分機器翻譯)。 **注意**：因為最近的 Teams 使用量增加，當您指派 Teams 授權給使用者時，可能需要 24 小時的時間才能完成設定。 在此之前，您無法將 Teams 原則指派給他們，而他們可能無法存取某些 Teams 功能，例如通話和音訊會議。
 
 - 對於[在 Microsoft Teams 系統管理中心建立即時活動](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy) (部分機器翻譯) 的權限。
 
