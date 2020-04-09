@@ -13,10 +13,10 @@ ms.custom:
 - "9000191"
 - "2734"
 ms.openlocfilehash: 738e17393af628d5b19aa7e047a736f78615ff57
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
+ms.lasthandoff: 04/08/2020
 ms.locfileid: "43100318"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-site"></a>開啟或關閉網站的外部共用
