@@ -11,20 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: f8790a26ec7c5de57f5dbfc9e1c162767c599f03
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 21f80a7cc8b00ac56acdb05add1e1bfdfac9d827
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518750"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286240"
 ---
 # <a name="change-strong-password-requirement"></a>變更強式密碼需求
 
-根據預設，Microsoft 會要求強式密碼。 
+Microsoft 預設會需要強密碼。 
 
-使用 PowerShell，您可以停用特定使用者使用此命令的強式的密碼：<br>
-*Set-msoluser – UserPrincipalName <UserPrincipalName> – StrongPasswordRequired $false*
+使用 PowerShell，您可以使用此命令，針對特定使用者停用強式密碼：<br>
+*Set-MsolUser –UserPrincipalName <UserPrincipalName> – StrongPasswordRequired $false*
 
-- [在 [密碼原則的詳細資訊](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
-- [如何連線到 Office 365 powershell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
-- [在 PowerShell MsolUser 命令的詳細資訊](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [密碼原則的詳細資訊](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
+- [如何使用 PowerShell 連接至 Office 365](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
+- [PowerShell Get-msoluser 命令的詳細資訊](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [設定個別使用者的密碼永不過期](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
