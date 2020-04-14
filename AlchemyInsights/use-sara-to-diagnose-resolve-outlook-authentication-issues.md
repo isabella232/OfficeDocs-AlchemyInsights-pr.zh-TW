@@ -1,0 +1,31 @@
+---
+title: 使用 SaRA 來診斷和解決 Outlook 驗證問題
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+munlocking-an-account s.custom:
+- "9002370"
+- "4605"
+ms.openlocfilehash: d9486254a507e38e91365df39413990ff6737e5a
+ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 04/12/2020
+ms.locfileid: "43232673"
+---
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a><span data-ttu-id="d71f5-102">使用 SaRA 來診斷和解決 Outlook 驗證問題</span><span class="sxs-lookup"><span data-stu-id="d71f5-102">Use SaRA to diagnose and resolve Outlook authentication issues</span></span>
+
+<span data-ttu-id="d71f5-103">若要診斷和修正 Outlook 驗證或重複認證提示的問題，請安裝並執行 [Office 365 支援及修復小幫手](https://diagnostics.office.com/#/) (SaRA)。</span><span class="sxs-lookup"><span data-stu-id="d71f5-103">In order to diagnose & fix your Outlook authentication or repeated credential prompt issues, please install and run the [Office 365 Support and Recovery Assistant](https://diagnostics.office.com/#/) (SaRA).</span></span>
+
+1. <span data-ttu-id="d71f5-104">執行 SaRA。</span><span class="sxs-lookup"><span data-stu-id="d71f5-104">Run SaRA.</span></span>
+
+2. <span data-ttu-id="d71f5-105">在第一個畫面上選擇 [Outlook]\*\*\*\*，然後按 [下一步]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="d71f5-105">Choose **Outlook** on the first screen, click **Next**.</span></span>
+
+3. <span data-ttu-id="d71f5-106">選擇 [Outlook 持續要求輸入密碼]\*\*\*\*，然後按 [下一步]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="d71f5-106">Choose **Outlook keeps asking for my password**, click **Next**.</span></span>
+
+<span data-ttu-id="d71f5-107">「支援及修復小幫手」隨即會執行某些診斷檢查，檢查完畢後便會向您提出可能的解決方案，以解決 Outlook 驗證或認證提示的問題。</span><span class="sxs-lookup"><span data-stu-id="d71f5-107">The Support and Recovery Assistant will then run some diagnostic checks, and come back with possible solutions for you to address the Outlook authentication or credential prompt issue.</span></span>
