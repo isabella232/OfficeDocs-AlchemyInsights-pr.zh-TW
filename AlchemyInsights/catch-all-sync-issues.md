@@ -1,5 +1,5 @@
 ---
-title: 找出所有同步處理問題
+title: 捕捉所有同步處理問題
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000037"
 - "1674"
-ms.openlocfilehash: 80ae27c88793211e5b2be3a3f6a26273cbd87a6e
-ms.sourcegitcommit: 3530e3818d5bac438ed8e402b394a7ef3b4c72de
+- "9000241"
+- "1951"
+ms.openlocfilehash: 727fcdb4b206650ec42a16925a42cd208a91d8b8
+ms.sourcegitcommit: 23e5b94f1758bfe202008384e300b81816975375
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "41550988"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43506281"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a>基本 Outlook 同步處理的疑難排解
+# <a name="basic-outlook-sync-troubleshooting"></a>基本 Outlook 同步處理疑難排解
 
-如果您遇到同步處理問題，請嘗試下列動作：
+如果您有同步處理問題，請嘗試下列步驟：
 
-- 在受影響的電腦上執行[此診斷工具](https://aka.ms/sara-outlooksendreceive)。
-- 減少主要或共用信箱中的資料夾數目。 請參閱[時有太多項目或資料夾快取模式.ost 或.pst 檔資料夾中的 Outlook 效能問題。](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)
-- 請確認使用者可以連線到網際網路。 
-- [確認您在線上](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)。
-- [決定是否要套用規則](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59)。
-- 確認已啟用**下載共用資料夾**移至 [**檔案** > **帳戶設定** > **帳戶設定** > **其他設定** > **進階**。
+- 在受影響的機器上執行[此診斷工具](https://aka.ms/sara-outlooksendreceive)。
+- 減少主要或共用信箱中的資料夾數目。 當快取[模式 .ost 或 .pst 檔案資料夾中有太多專案或資料夾時，請查看 Outlook 效能問題](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)。
+- 停用所有共用資料夾的快取。
+- 將次要 Exchange 信箱的設定變更為設定檔中的第二個 Exchange 帳戶。
+- 請確定使用者可以連接到網際網路。 
+- [確認您已在線上](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)。
+- [決定是否](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59)要套用規則。
+- 移至 [**檔** > **帳戶設定** > ] [**帳戶設定** > **More Settings** > ] [**高級**]，確認已啟用**下載共用資料夾**。
