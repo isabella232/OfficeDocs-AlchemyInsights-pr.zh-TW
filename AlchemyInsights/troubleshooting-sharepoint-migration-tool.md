@@ -13,16 +13,14 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 6432d32a4424c13f38077b37aa5f689a573a876e
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: c634596b42e672f635bb50d080429c94fe2da258
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541646"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552876"
 ---
 # <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>疑難排解 SharePoint 遷移工具問題和錯誤
-
-**重要**：在這些前所未有的情況下，我們會採取下列步驟以確保 SharePoint Online 和 OneDrive 服務保持高度可用 – 請造訪 [SharePoint Online 暫時功能調整](https://aka.ms/ODSPAdjustments)以取得詳細資訊。
 
 當您使用 SharePoint 遷移工具（SPMT）時，您可能會遇到一些常見的問題和錯誤。 如需詳細資訊，請參閱下列連結。
 

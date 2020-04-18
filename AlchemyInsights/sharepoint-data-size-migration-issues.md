@@ -11,16 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: e3543815937c45323051171ea8be3c43e4ec7c89
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 7a801bb6ff5b5c1d48cbc99f27e5f398dd76db5f
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958637"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552912"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>將資料移轉至 SharePoint 線上時的問題
-
-**重要**事項：在這些空前的時間內，我們採取步驟來確保 SharePoint 線上和 OneDrive 服務保持高可用性–請流覽[SharePoint 線上暫存功能](https://aka.ms/ODSPAdjustments)，以取得詳細資訊。
 
 **透過資料100TB 進行遷移**
 
@@ -33,7 +31,3 @@ ms.locfileid: "42958637"
     - 您的遷移預估大小。
     - 您要開始及完成遷移的預估。
     - 描述您要從何處遷移內容，例如 SharePoint Server、Box、GDrive、檔案共用等等。
-
-
-  
-

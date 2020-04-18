@@ -12,12 +12,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 6641544379b47e5b6db25e4ae1d4c9bef8f03840
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: 0e38edf7f3e10486b0ce3313dfcb004d848ed1bf
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198771"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552718"
 ---
 # <a name="cancel-visio-subscription"></a>取消 Visio 訂閱
 
@@ -30,3 +30,9 @@ ms.locfileid: "43198771"
 3. 找到要取消的 Visio 方案。
 
 4. 按一下 [**取消訂閱**]。
+
+**退款：在下一個計費週期內，任何按比例支付的信用額度都會傳回給您。** 
+
+**附注**：如果您沒有看到 [取消] 選項，請按一下訂閱以查看詳細資料，您應該會在 [**設定 & 動作**] 中看到 [**取消訂閱**] 選項。 
+
+若要深入瞭解，請參閱[取消您的訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)。 
