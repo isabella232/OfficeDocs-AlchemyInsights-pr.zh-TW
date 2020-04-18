@@ -1,5 +1,5 @@
 ---
-title: 會議規劃一般問題與解決方案
+title: Planner 常見問題和解決方法
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "3193"
-ms.openlocfilehash: da8e935abf42375b695cf162da30c0c82dfdf959
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: 5d0c8fd5d6bb5c9fe0c70f46bc05aec95ef1fdef
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959766"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43556942"
 ---
-# <a name="planner-common-issues-and-resolutions"></a><span data-ttu-id="5a45b-102">會議規劃一般問題與解決方案</span><span class="sxs-lookup"><span data-stu-id="5a45b-102">Planner common issues and resolutions</span></span>
+# <a name="planner-common-issues-and-resolutions"></a><span data-ttu-id="44b40-102">Planner 常見問題和解決方法</span><span class="sxs-lookup"><span data-stu-id="44b40-102">Planner common issues and resolutions</span></span>
 
-<span data-ttu-id="5a45b-103">以下是與 Microsoft Planner 某些經常要求的主題。</span><span class="sxs-lookup"><span data-stu-id="5a45b-103">Here are some frequently requested topics with Microsoft Planner.</span></span>
+<span data-ttu-id="44b40-103">以下是 Microsoft Planner 的一些經常要求主題。</span><span class="sxs-lookup"><span data-stu-id="44b40-103">Here are some frequently requested topics with Microsoft Planner.</span></span>
  
-- <span data-ttu-id="5a45b-104">**快速入門：** [開始使用 Planner](https://support.office.com/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc?ui=en-US&rs=en-US&ad=US)，並了解如何[啟用組織的規劃工具新增來賓使用者，並管理您的環境中的存取](https://docs.microsoft.com/office365/planner/planner-for-admins)。</span><span class="sxs-lookup"><span data-stu-id="5a45b-104">**Getting started:** [Start using Planner](https://support.office.com/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc?ui=en-US&rs=en-US&ad=US), and learn how to [activate Planner for your organization, add guest users, and manage access in your environment](https://docs.microsoft.com/office365/planner/planner-for-admins).</span></span>
- 
-- <span data-ttu-id="5a45b-105">**訪客使用者：** 管理規劃的[來賓使用者存取](https://support.office.com/article/guest-access-in-microsoft-planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6?ui=en-US&rs=en-US&ad=US)。</span><span class="sxs-lookup"><span data-stu-id="5a45b-105">**Guest users:** Manage [guest user access](https://support.office.com/article/guest-access-in-microsoft-planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6?ui=en-US&rs=en-US&ad=US) to Planner.</span></span>
- 
-- <span data-ttu-id="5a45b-106">**通知：** 檢閱[類型的您會收到的通知](https://support.office.com/article/stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859)，會觸發，而且您可以在此變更通知設定的活動。</span><span class="sxs-lookup"><span data-stu-id="5a45b-106">**Notifications:** Review the [types of notifications you'll receive](https://support.office.com/article/stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859), the activities that trigger them, and where you can change notification settings.</span></span>
- 
-- <span data-ttu-id="5a45b-107">**註解]:**</span><span class="sxs-lookup"><span data-stu-id="5a45b-107">**Comments:**</span></span> 
-   - <span data-ttu-id="5a45b-108">了解不使用 Exchange Online 信箱的任務[檢視或新增註解的問題](https://docs.microsoft.com/office365/planner/planner-for-admins#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox)。</span><span class="sxs-lookup"><span data-stu-id="5a45b-108">Learn about [issues with viewing or adding comments](https://docs.microsoft.com/office365/planner/planner-for-admins#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox) to a task without an Exchange Online mailbox.</span></span>
-   - <span data-ttu-id="5a45b-109">了解如何[確定所有使用者都可以都取得規劃人員的電子郵件](https://docs.microsoft.com/office365/planner/planner-for-admins#how-do-i-make-sure-all-my-users-can-get-emails-forplanner)。</span><span class="sxs-lookup"><span data-stu-id="5a45b-109">Learn how to [make sure all users can get emails for Planner](https://docs.microsoft.com/office365/planner/planner-for-admins#how-do-i-make-sure-all-my-users-can-get-emails-forplanner).</span></span>
+- <span data-ttu-id="44b40-104">**快速入門：** [開始使用 Planner](https://support.office.com/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc)，並瞭解如何為[您的組織啟用 Planner、新增來賓使用者，以及管理環境中的存取](https://docs.microsoft.com/office365/planner/planner-for-admins)。</span><span class="sxs-lookup"><span data-stu-id="44b40-104">**Getting started:** [Start using Planner](https://support.office.com/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc), and learn how to [activate Planner for your organization, add guest users, and manage access in your environment](https://docs.microsoft.com/office365/planner/planner-for-admins).</span></span>
 
-- <span data-ttu-id="5a45b-110">**管理工作：** 檢閱[任務上註解](https://support.office.com/article/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1?ui=en-US&rs=en-US&ad=US)及[刪除工作或計劃](https://support.office.com/article/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a)的相關資訊。</span><span class="sxs-lookup"><span data-stu-id="5a45b-110">**Managing tasks:** Review information about [commenting on tasks](https://support.office.com/article/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1?ui=en-US&rs=en-US&ad=US) and [deleting tasks or plans](https://support.office.com/article/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a).</span></span>
+- <span data-ttu-id="44b40-105">**使用小組中的規劃**人員：如需與 microsoft 小組整合 planner 的一般綜述，請參閱[Use Planner in microsoft 團隊](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)。</span><span class="sxs-lookup"><span data-stu-id="44b40-105">**Using Planner in Teams**: For a general overview of Planner integration with Microsoft Teams, see [Use Planner in Microsoft Teams](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0).</span></span>
+
+     - <span data-ttu-id="44b40-106">[將 [Planner] 索引標籤新增至小組通道](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel)。</span><span class="sxs-lookup"><span data-stu-id="44b40-106">[Add a Planner tab to a team channel](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel).</span></span> <span data-ttu-id="44b40-107">新增索引標籤的使用者必須是該小組的成員，而不只是擁有者。</span><span class="sxs-lookup"><span data-stu-id="44b40-107">The user who adds the tab must be a member of the team, not just an owner.</span></span> <span data-ttu-id="44b40-108">您可以透過團隊介面將使用者新增為成員。</span><span class="sxs-lookup"><span data-stu-id="44b40-108">You can add the user as a member via the Teams interface.</span></span> <span data-ttu-id="44b40-109">您也可以[將現有的計畫新增至 Microsoft 團隊](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)。</span><span class="sxs-lookup"><span data-stu-id="44b40-109">You can also [add an existing plan to Microsoft Teams](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).</span></span>
+
+    - <span data-ttu-id="44b40-110">[移除 [Planner] 索引標籤或刪除方案](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan)。</span><span class="sxs-lookup"><span data-stu-id="44b40-110">[Remove a Planner tab or delete a plan](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan).</span></span> <span data-ttu-id="44b40-111">無法在小組中復原已刪除的計畫。</span><span class="sxs-lookup"><span data-stu-id="44b40-111">Deleted plans cannot be recovered in Teams.</span></span> <span data-ttu-id="44b40-112">若已刪除群組，您可以[復原已刪除的計畫和群組](https://techcommunity.microsoft.com/t5/planner-blog/microsoft-planner-now-you-can-recover-deleted-plans-and-groups/ba-p/362242
+)。</span><span class="sxs-lookup"><span data-stu-id="44b40-112">If a group is deleted already, you can [recover deleted plans and groups](https://techcommunity.microsoft.com/t5/planner-blog/microsoft-planner-now-you-can-recover-deleted-plans-and-groups/ba-p/362242
+).</span></span>
+ 
+- <span data-ttu-id="44b40-113">**來賓使用者：** 管理對 Planner 的[來賓使用者存取](https://support.office.com/article/guest-access-in-microsoft-planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6)。</span><span class="sxs-lookup"><span data-stu-id="44b40-113">**Guest users:** Manage [guest user access](https://support.office.com/article/guest-access-in-microsoft-planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6) to Planner.</span></span>
+ 
+- <span data-ttu-id="44b40-114">**通知：** 檢查[您將會收到的通知類型](https://support.office.com/article/stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859)、觸發這些通知的活動，以及您可以變更通知設定的位置。</span><span class="sxs-lookup"><span data-stu-id="44b40-114">**Notifications:** Review the [types of notifications you'll receive](https://support.office.com/article/stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859), the activities that trigger them, and where you can change notification settings.</span></span>
+ 
+- <span data-ttu-id="44b40-115">**評論：**</span><span class="sxs-lookup"><span data-stu-id="44b40-115">**Comments:**</span></span> 
+   - <span data-ttu-id="44b40-116">深入瞭解在沒有 Exchange Online 信箱的情況下[，查看或新增批註](https://docs.microsoft.com/office365/planner/planner-for-admins#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox)的相關問題。</span><span class="sxs-lookup"><span data-stu-id="44b40-116">Learn about [issues with viewing or adding comments](https://docs.microsoft.com/office365/planner/planner-for-admins#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox) to a task without an Exchange Online mailbox.</span></span>
+   - <span data-ttu-id="44b40-117">瞭解如何[確保所有使用者均可取得 Planner 的電子郵件](https://docs.microsoft.com/office365/planner/planner-for-admins#how-do-i-make-sure-all-my-users-can-get-emails-forplanner)。</span><span class="sxs-lookup"><span data-stu-id="44b40-117">Learn how to [make sure all users can get emails for Planner](https://docs.microsoft.com/office365/planner/planner-for-admins#how-do-i-make-sure-all-my-users-can-get-emails-forplanner).</span></span>
+
+- <span data-ttu-id="44b40-118">**管理工作：** 查看有關[任務批註](https://support.office.com/article/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1)和[刪除任務或計畫](https://support.office.com/article/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a)的資訊。</span><span class="sxs-lookup"><span data-stu-id="44b40-118">**Managing tasks:** Review information about [commenting on tasks](https://support.office.com/article/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1) and [deleting tasks or plans](https://support.office.com/article/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a).</span></span>

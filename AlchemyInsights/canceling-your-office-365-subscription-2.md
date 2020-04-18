@@ -1,5 +1,5 @@
 ---
-title: 取消您的 Office 365 訂閱？
+title: 取消 Office 365 訂閱？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,23 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665463"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552588"
 ---
-# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="f264a-102">取消您的 Office 365 訂閱？</span><span class="sxs-lookup"><span data-stu-id="f264a-102">Canceling your Office 365 subscription?</span></span>
+# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="24f00-102">取消 Office 365 訂閱？</span><span class="sxs-lookup"><span data-stu-id="24f00-102">Canceling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="f264a-103">很抱歉若要查看您移 ！</span><span class="sxs-lookup"><span data-stu-id="f264a-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="24f00-103">很抱歉看到您離開！</span><span class="sxs-lookup"><span data-stu-id="24f00-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="f264a-104">根據您的組織資料，我們相信您目前的訂閱已指派的授權超過 25 個。</span><span class="sxs-lookup"><span data-stu-id="f264a-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="f264a-105">您可以移除使用者，直到您擁有少於 25，然後移至**帳單** \> [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面。</span><span class="sxs-lookup"><span data-stu-id="f264a-105">You can remove users until you have fewer than 25, then go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="f264a-106">在 [**設定 & 動作**] 區段中，選擇 [**取消訂閱**]。</span><span class="sxs-lookup"><span data-stu-id="f264a-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
+<span data-ttu-id="24f00-104">根據您的組織資料，我們相信您目前的所有訂閱都有超過25個指派的授權。</span><span class="sxs-lookup"><span data-stu-id="24f00-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="24f00-105">您可以移除使用者，直到您少於25個，然後移至 [**帳單** \> [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面。</span><span class="sxs-lookup"><span data-stu-id="24f00-105">You can remove users until you have fewer than 25, then go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="24f00-106">在 [**設定 & 動作**] 區段中，選擇 [**取消訂閱**]。</span><span class="sxs-lookup"><span data-stu-id="24f00-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
   
-<span data-ttu-id="f264a-107">或者，選擇 [**需要協助**連絡技術支援工程師。</span><span class="sxs-lookup"><span data-stu-id="f264a-107">Alternatively, choose **Need help** to talk to a support engineer.</span></span>
+<span data-ttu-id="24f00-107">或者，選擇 [**需要協助**您與支援工程師交談。</span><span class="sxs-lookup"><span data-stu-id="24f00-107">Alternatively, choose **Need help** to talk to a support engineer.</span></span>
   
-<span data-ttu-id="f264a-108">若要深入了解，請參閱[取消您的訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)。</span><span class="sxs-lookup"><span data-stu-id="f264a-108">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
+<span data-ttu-id="24f00-108">**退款：在下一個計費週期內，任何按比例支付的信用額度都會傳回給您。**</span><span class="sxs-lookup"><span data-stu-id="24f00-108">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span> 
+
+<span data-ttu-id="24f00-109">**附注**：如果您沒有看到 [取消] 選項，請按一下訂閱以查看詳細資料，您應該會在 [**設定 & 動作**] 中看到 [**取消訂閱**] 選項。</span><span class="sxs-lookup"><span data-stu-id="24f00-109">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span> 
+
+<span data-ttu-id="24f00-110">若要深入瞭解，請參閱[取消您的訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)。</span><span class="sxs-lookup"><span data-stu-id="24f00-110">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
