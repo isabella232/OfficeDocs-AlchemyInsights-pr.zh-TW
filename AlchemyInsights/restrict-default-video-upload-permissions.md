@@ -17,7 +17,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591476"
+ms.locfileid: "43599380"
 ---
 # <a name="restrict-default-video-upload-permissions"></a>限制預設的影片上傳許可權
 
