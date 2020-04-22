@@ -1,9 +1,9 @@
 ---
-title: 使用 OneDrive 安裝程式精靈]
+title: 使用 OneDrive 安裝精靈
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b711af6-3d0e-4334-ae67-8b3cb76293de
-ms.openlocfilehash: 54d36f7b557ac948ff2746b77cc6c51220d50559
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cfe35f7788c5baa4f21ebc4c1593ca616c85a2ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049436"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710650"
 ---
 # <a name="set-up-onedrive"></a>設定 OneDrive
 
-若要設定 OneDrive 快速地為您的組織，[使用 OneDrive 安裝程式精靈]](https://portal.office.com/onboarding/odfbquickstartguide)。
+若要為您的組織快速設定 OneDrive，請[使用 OneDrive 安裝精靈](https://portal.office.com/onboarding/odfbquickstartguide)。
   
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600340"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706084"
 ---
 # <a name="compliance-score"></a>合規性分數
 
@@ -33,7 +33,7 @@ Microsoft 規範分數（預覽）是 Microsoft 365 中的一項功能，可協�
 
 **如需詳細資訊**：
 
-- 設定合規性分數的存取權限，請參閱[授與使用者存取 Office 365 Security & 合規性中心](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)。
+- 設定合規性分數的存取權限，請參閱[授與使用者存取 Microsoft 365 Security & 合規性中心的](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)許可權。
 - 使用合規性分數中的改進動作，請參閱使用[合規性分數](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)。
 - 合規性分數的計算方式，請參閱[相容性分數方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)。
 - 合規性分數與合規性管理員一起，請參閱[與合規性管理員的關聯性](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager)。

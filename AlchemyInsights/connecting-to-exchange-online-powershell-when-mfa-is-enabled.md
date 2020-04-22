@@ -1,9 +1,9 @@
 ---
-title: 761 連線到 Exchange Online PowerShell 時啟用 MFA
+title: 761在啟用 MFA 時連線到 Exchange Online PowerShell
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: efcc1138a6ae71e7093f665722c8bafe730d70d6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517058"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705796"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>當啟用 MFA 連線到 Exchange Online PowerShell
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>啟用 MFA 時，連線至 Exchange Online PowerShell
 
-如果您的帳戶已啟用的多重要素驗證 (MFA)，您必須遵循這些指示來連線到 Exchange Online PowerShell: [Connect to Exchange Online PowerShell 使用多重要素驗證](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)。
+如果您的帳戶已啟用多重要素驗證（MFA），您必須遵循下列指示，[使用多重要素驗證](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)連線至 exchange online PowerShell: PowerShell 連線至 exchange online。
 
-**附註**： 即使您已連線至 Exchange Online PowerShell，在過去使用[一般的連線指示](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)，您需要使用 MFA 連線指示，為您的帳戶已啟用 MFA 之後。
+**附注**：即使您已使用[一般連線指示](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)連線到過去的 Exchange Online PowerShell，您還是必須在為您的帳戶啟用 mfa 之後，才使用 mfa 連接指示。

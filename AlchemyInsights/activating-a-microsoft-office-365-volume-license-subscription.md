@@ -1,9 +1,9 @@
 ---
-title: 啟動 Microsoft Office 365 大量授權訂閱
+title: 啟用 Microsoft 大量授權訂閱
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661179"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708750"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>啟動 Microsoft Office 365 大量授權訂閱
+# <a name="activating-a-microsoft-volume-license-subscription"></a>啟用 Microsoft 大量授權訂閱
 
-1. 登入您的[大量授權服務中心 (VLSC) 入口網站](http://go.microsoft.com/fwlink/p/?LinkId=329762)。
+1. 登入[大量授權服務中心（VLSC）入口網站](https://go.microsoft.com/fwlink/p/?LinkId=329762)。
 
-2. 瀏覽至您的 Office 365 訂閱，然後選擇 [**啟用]**。
+2. 流覽至您的訂閱，然後選擇 [**啟動**]。
 
-3. 電子郵件將傳送至您的線上服務 (OLS) 連絡人。
+3. 電子郵件會傳送給您的線上服務（OLS）連絡人。
 
-4. 啟用電子郵件將會為您提供兩個選項：**註冊**，或**登入**。 如果您先前建立的試用版，選擇 [**登入**]。 如果您還沒有 Office 365 租用戶，請選擇 [**註冊**]。
+4. 啟用電子郵件將提供兩個選項：**註冊**或登**入**。 如果您先前已建立試用版，請選擇 [登**入**]。 如果您還沒有 Microsoft 365 租使用者，請選擇 [**註冊**]。
 
-5. 登入 Microsoft 365 系統管理中心 ([https://admin.microsoft.com](https://admin.microsoft.com)) 使用您現有的 Office 365 系統管理員認證。 您已成功登入後，您會收到確認您購買的另一個電子郵件。
+5. 使用您現有的系統管理員認證登入[https://admin.microsoft.com](https://admin.microsoft.com)Microsoft 365 系統管理中心（）。 成功登入後，您會收到另一封確認您購買的電子郵件。
 
-6. 您已登入之後，您可以移至**帳單** \> [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上，若要確認您已購買的 Office 365 訂閱已在租用戶中啟動。 （您也可以選擇 [**訂閱**] 索引標籤中 [檢視詳細資料驗證您的訂閱有均存放 VLSC。）
+6. 登入之後，您可以移至**帳單** \> [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面，確認您購買的訂閱已在您的租使用者內啟用。 （您也可以選擇 VLSC 中的 [**訂閱**] 索引標籤，以查看詳細資料以驗證您的訂閱是否已存放）。

@@ -1,5 +1,5 @@
 ---
-title: 714 讓外部寄件者電子郵件通訊群組清單
+title: 714允許外部寄件者加入電子郵件通訊群組清單
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 165c84715d38f46f076941ec9eb4a4624ffcd5a6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768215"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708202"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>允許外部寄件者傳送郵件給通訊群組
 
-如果在傳送郵件給通訊群組，或您想要確認您的通訊群組設定為接收來自外部寄件者的郵件時，您的組織外部的使用者會收到錯誤，請遵循下列步驟：
+如果貴組織外部的使用者在傳送郵件給通訊群組時收到錯誤，或是您想要確認您的通訊群組已設定為接收來自外部寄件者的郵件，請遵循下列步驟：
 
-1. 在 Office 365 系統管理中心，移至 [**群組** > [群組](https://portal.office.com/adminportal/home#/groups)] 頁面。  
+1. 在 Microsoft 365 系統管理中心中，移至 [**群組** > [群組](https://portal.office.com/adminportal/home#/groups)] 頁面。  
 
-2. 選取通訊群組，然後在 [群組內容] 窗格中，選取 [**設定**] 索引標籤。
+2. 選取通訊群組，然後在群組屬性窗格中，選取 [**設定**] 索引標籤。
 
-3. 選取 [**允許外部寄件者電子郵件至此群組**，然後再選取 [**儲存**。
+3. 選取 [**允許外部寄件者傳送此群組的電子郵件**]，然後選取 [**儲存**]。

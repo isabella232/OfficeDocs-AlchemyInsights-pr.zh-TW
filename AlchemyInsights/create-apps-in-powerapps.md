@@ -2,18 +2,18 @@
 title: 在 PowerApps 中建立 App
 ms.author: toresing
 author: tomresing
-ms.date: 5/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
-ms.openlocfilehash: bccd19399ada810007ef810444822e58b3d3fcfb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9a8897f29fb0c787853fd4ae4ff409751de59af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515510"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705436"
 ---
 # <a name="create-apps-with-powerapps"></a>使用 PowerApps 建立 App
 

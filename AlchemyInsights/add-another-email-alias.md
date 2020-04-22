@@ -3,7 +3,7 @@ title: 新增另一個電子郵件別名
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 09edadb004fefd1bda92a5242886aa0414f87752
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737324"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708510"
 ---
-# <a name="create-or-add-an-email-alias-for-a-user"></a>建立或新增使用者的電子郵件別名
+# <a name="create-or-add-an-email-alias-for-a-user"></a>為使用者建立或新增電子郵件別名
 
-需要建立使用者的電子郵件別名或新增其他電子郵件地址？ 只要按照這些步驟 ！
+需要為使用者建立電子郵件別名，還是要新增其他電子郵件地址？ 請遵循下列步驟！
   
-1. 在 Microsoft 365 系統管理中心中，移至 [[使用者](https://go.microsoft.com/fwlink/p/?linkid=834822)] 頁面上，或選擇 [**使用者**] \> **作用中的使用者**。
+1. 在 Microsoft 365 系統管理中心中，移至 [[使用者](https://go.microsoft.com/fwlink/p/?linkid=834822)] 頁面，或選擇 [**使用者** \> ] [作用中**使用者**]。
     
-2. 在 [**作用中使用者**] 頁面上，選取您想要編輯的人員名稱。 
+2. 在 [作用中**使用者**] 頁面上，選取您要編輯之人員的名稱。 
     
-3. 右側，在 [**的使用者名稱 / 電子郵件別名**列中，選擇 [**編輯**。
+3. 在右側的 [使用者**名稱/電子郵件別名**] 列中，選擇 [**編輯**]。
     
-4. 在 [**別名**] 方塊中，輸入新的電子郵件，然後選擇 [**新增]**。 如果您是從 GoDaddy 或其他協力廠商購買訂閱，您必須移至 GoDaddy/協力廠商管理主控台，才能將新別名設為主要電子郵件地址。 
+4. 在 [**別名**] 方塊中，輸入新的電子郵件，**然後選擇 [新增]**。 如果您是從 GoDaddy 或其他協力廠商購買訂閱，您必須移至 GoDaddy/協力廠商管理主控台，才能將新別名設為主要電子郵件地址。 
     
-    **重要**： 如果您收到錯誤訊息 「**參數找不到符合參數名稱 ' EmailAddresses**」 就表示，花費的時間較長的時間來完成設定您的租用戶或您的自訂網域，如果您最近新增的 Office 365. 設定程序最多可能需要 4 個小時才能完成。 請稍候，讓設定程序完成，然後再試一次。 如果問題仍然存在，請連絡支援人員，他們會為您執行完整的同步處理。
+    **重要**事項：如果您收到錯誤訊息「**找不到符合參數名稱 ' EmailAddresses 的參數**」，表示要花很長的時間讓 Microsoft 完成設定您的租使用者或您的自訂網域（如果您最近新增一個）。 設定程序最多可能需要 4 個小時才能完成。 請稍候，讓設定程序完成，然後再試一次。 如果問題仍然存在，請連絡支援人員，他們會為您執行完整的同步處理。
     
-    通常需大約 30 分鐘做為新的別名才會生效。
+    新的別名通常需要30分鐘的時間才能生效。
     
-    **如需詳細資訊，請參閱這篇文章：**[新增另一個使用者的電子郵件別名](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
+    **如需詳細資訊，請參閱本文：** [新增其他使用者的電子郵件別名](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
     
 

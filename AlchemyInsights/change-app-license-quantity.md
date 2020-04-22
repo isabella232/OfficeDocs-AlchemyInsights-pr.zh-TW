@@ -3,7 +3,7 @@ title: 變更應用程式授權數量
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 9914a95ddbebf376e740b2d7b3d88ae58aed4a45
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36519758"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707034"
 ---
 # <a name="change-app-license-quantity"></a>變更應用程式授權數量
 
-您可以檢視或變更您有，並將它們指派給使用者在 Microsoft 365 系統管理中心的授權數目。 
+您可以查看或變更您擁有的授權數目，並將其指派給 Microsoft 365 系統管理中心中的使用者。 
 
-## <a name="to-change-license-quantity"></a>若要變更授權數量
+## <a name="to-change-license-quantity"></a>變更授權數量
 
-1. 移至**帳單** > [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上，然後選擇 [**應用程式**] 索引標籤。
+1. 移至**帳單** > [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面，然後選擇 [**應用程式**] 索引標籤。
 
-2. 尋找並選取您想要管理的應用程式。  
+2. 尋找並選取您要管理的應用程式。  
 
 3. 選取 [**新增/移除授權**]。
 
-4. 輸入新的所需的授權數目。 例如，如果您目前有 5 個授權，而且只需要 4，請在 [**授權總數**] 方塊中輸入 4。 如果您目前有 5 個授權，並且需要 10 個授權總數，請在 [**授權總數**] 方塊中輸入 10。
+4. 輸入所需的新授權數目。 例如，如果您目前有5個授權，而且只需要4個，請在 [**授權總數**] 方塊中輸入4。 如果您目前有5個授權，而且需要全部10個授權，請在 [**授權總數**] 方塊中輸入10。
 
-## <a name="to-assign-app-licenses"></a>若要指派應用程式授權
+## <a name="to-assign-app-licenses"></a>指派應用程式授權
 
-1. 移至**帳單** > [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上，然後選擇 [**應用程式**] 索引標籤。
+1. 移至**帳單** > [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面，然後選擇 [**應用程式**] 索引標籤。
 
-2. 尋找並選取您想要管理的應用程式。  
+2. 尋找並選取您要管理的應用程式。  
 
-3. **設定 & 動作**] 下選取連結至**發行者的入口網站中的管理**。
+3. 在 [**設定 & 動作**] 底下，選取要**在 publisher 入口網站中管理**的連結。

@@ -1,9 +1,9 @@
 ---
-title: 1050 反垃圾郵件 4.7.500 伺服器忙碌中。 請嘗試稍後再從 [選擇]
+title: 1050反垃圾郵件4.7.500 伺服器忙碌。 請稍後從 [XXX.XXX.XXX.XXX] 再試一次。
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "1050"
 - "3100024"
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: 7f6a8bee1417741e7a8145778f03bf6fd8c9bdcd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f6d7d6db0b229c116de79ae66bac48ef81bac8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494302"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707938"
 ---
-# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 伺服器忙碌中，請稍後再試一次
+# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 伺服器忙碌，請稍後再試一次
 
-從來源 IP 位址的電子郵件流量的數量超過根據來源 IP 位址的信譽 （或缺乏信譽） 限制時，會發生這個錯誤。
+當來源 IP 位址的電子郵件流量超過來源 IP 位址的信譽（或缺乏信譽）限制時，就會發生此錯誤。
 
-封鎖來自來源 IP 位址的電子郵件，將一個小時內到期。 如果來源 IP 位址是屬於您內部部署電子郵件伺服器，請確認郵件流程連接器的組態。 如果問題持續超過一小時，請連絡客戶支援要求的來源 IP 位址的例外狀況。
+封鎖來自來源 IP 位址的電子郵件會在一小時內到期。 如果來源 IP 位址是屬於您的內部部署電子郵件伺服器，請確認郵件流程連接器的設定。 如果此行為持續超過一小時以上，請聯繫我們支援人員要求來源 IP 位址的例外狀況。

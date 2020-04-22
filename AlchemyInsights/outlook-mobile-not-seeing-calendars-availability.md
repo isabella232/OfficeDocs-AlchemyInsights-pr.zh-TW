@@ -1,9 +1,9 @@
 ---
-title: Outlook Mobile 找不到行事曆時選擇可用性
+title: Outlook Mobile 在選擇可用性時未看到行事曆
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/24/2020
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "3070"
 - "9001109"
-ms.openlocfilehash: 68727ed641b05e5641424de55e98f16e428011ab
-ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
+ms.openlocfilehash: 334384f74080d44a4ee47e0514a2b6877edaacd5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/24/2020
-ms.locfileid: "42260363"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707322"
 ---
-# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>我沒有看到預期時選擇 [我的可用性的行事曆
+# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>我在選擇可用時看不到預期的行事曆
 
-如果您沒有看到您所預期的行事曆，移至行事曆點選 [功能表] 按鈕，與螢幕左上角中的，確定已選取您會看到的行事曆。 選擇時間傳送可用性時，會出現僅啟用此功能表中的行事曆。
+如果您看不到預期的行事曆，請移至 [行事曆]，並在螢幕的左上角點擊 [功能表] 按鈕，並確定已選取您期望看到的行事曆。 選擇 [傳送可用性] 的時間時，只會顯示此功能表中啟用的行事曆。

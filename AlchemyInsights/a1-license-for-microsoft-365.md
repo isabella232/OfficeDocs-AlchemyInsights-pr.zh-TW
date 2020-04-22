@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 2d8f0be45b21db7295099b376959bfcafcd6ba38
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 88394297d391b7c8ec949cf2d82727f9def819c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529987"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687393"
 ---
 # <a name="a1-license-for-microsoft-365"></a>Microsoft 365 的 A1 授權
 
@@ -25,9 +25,9 @@ ms.locfileid: "43529987"
 
 - 如果您的機構尚未設定 Microsoft 365 教育版，但是您想要免費新增 Office 365，您可以提供您的電子郵件來[開始使用](https://www.microsoft.com/education/products/office)。 
 
-- 如果您想要從不同的學術方案「切換」**** 為 A1 方案，請參閱[切換到其他方案](https://docs.microsoft.com/zh-TW/microsoft-365/commerce/subscriptions/switch-plans-manually)。 
+- 如果您想要從不同的學術方案「切換」**** 為 A1 方案，請參閱[切換到其他方案](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually)。 
 
-- 若要將使用者指派至 A1 方案，請參閱[將授權指派給使用者](https://docs.microsoft.com/zh-TW/microsoft-365/admin/manage/assign-licenses-to-users)。 
+- 若要將使用者指派至 A1 方案，請參閱[將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。 
 
 **重要事項**：您可能需要等候 24 小時，變更才會生效。 
 

@@ -1,9 +1,9 @@
 ---
-title: 在 Excel 2016 中的字型格式設定問題
+title: Excel 2016 的字型格式問題
 ms.author: pebaum
 author: pebaum
 manager: jecon
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: a727f1ffc7b90db53d10223a4bd3017d25eeda6c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 476a6ad39a16880e9513012a33efd4bec1f89efd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051956"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708630"
 ---
-# <a name="font-formatting-problems-in-excel"></a>在 Excel 中的字型格式設定問題
+# <a name="font-formatting-problems-in-excel"></a>Excel 中的字型格式問題
 
-在 Excel 2016 中，字型格式設定可能未正確出現在儲存格。 如果儲存格包含超過一種字型格式設定，也可能會發生。 例如，如果有些字元是粗體，與其他人不是粗體，您可能不會看到出現的粗體格式。 或者，如果您在相同的儲存格中有不同的彩色的字元，您可能不會看到顯示正確的色彩。 我們工程團隊所知的這個問題，以及目前正在進行修正。 同時，請嘗試使用不同的字型。 或者，請嘗試避免使用多個的幾種類型的格式的相同的儲存格內，直到已修正此問題。
+在 Excel 2016 中，儲存格中的字型格式可能無法正確顯示。 如果儲存格包含一種以上的字型格式設定，就會發生這種情況。 例如，如果某些字元是粗體，而其他字元不是粗體，則您可能不會看到粗體格式出現。 或者，如果您在相同的儲存格中有不同的色彩字元，您可能無法看到正確顯示色彩。 我們的工程小組已注意到這項問題，目前正致力於修正程式。 同時，請嘗試使用不同的字型。 或者，請嘗試避免在同一儲存格中使用多種格式設定，直到此問題得以修正為止。
   

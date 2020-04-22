@@ -1,9 +1,9 @@
 ---
-title: 變更網域的 Office 365 群組
+title: 變更 Office 365 群組的網域
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
-ms.date: 4/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 34a9832c035dd5ea523df954dbdf2e6d9d1a0618
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4257191c183e4a20943c56c382b5fc78176330b8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393983"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706480"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>變更網域的 Office 365 群組
+# <a name="change-the-domain-for-office-365-group"></a>變更 Office 365 群組的網域
 
-如果您想要變更網域的 Office 365 群組在建立時，請遵循的步驟，在 [[選擇建立 Office 365 群組時要使用的網域](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups)。
+如果您想要在建立時變更 Office 365 群組的網域，請依照[選擇建立 Office 365 群組時所使用的網域](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups)中的步驟進行。
 
-已經建立 Office 365 群組之後，目前沒有任何方法可以變更的網域。 唯一方法是建立新的 Office 365 群組，並刪除舊，必要時 （透過[Exchange 系統管理中心](https://outlook.office365.com/ecp)可以新增其他電子郵件地址。
+在建立 Office 365 群組之後，目前沒有任何方法可以變更網域。 唯一的方式是建立新的 Office 365 群組，必要時刪除舊的電子郵件地址（可以透過[Exchange 系統管理中心](https://outlook.office365.com/ecp)新增其他電子郵件地址。

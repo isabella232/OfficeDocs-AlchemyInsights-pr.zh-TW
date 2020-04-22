@@ -3,7 +3,7 @@ title: ADFS 同盟憑證到期
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 14e7da6220dfa96edca5d9ec5c32e003480a9eaf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737180"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710398"
 ---
 # <a name="adfs-federation-certificate-expiring"></a>ADFS 同盟憑證到期
 
 若要解決此問題，請遵循下列步驟：
   
-1. （如果尚未安裝模組），請在電腦上安裝 Microsoft Azure Active Directory 的 Windows PowerShell 模組。 若要這麼做，請前往[管理使用 Windows PowerShell 的 Azure AD](https://aka.ms/aadposh)。
+1. 在電腦上安裝 Windows PowerShell 的 Microsoft Azure Active Directory 模組（如果尚未安裝模組）。 若要這麼做，請移至[使用 Windows PowerShell 管理 AZURE AD](https://aka.ms/aadposh)。
 
-2. 請遵循的步驟 」 案例 1: AD FS 權杖簽署憑證過期 」] 區段中的[「 時發生問題，存取的網站 」 的錯誤，AD FS 的同盟的使用者登入 Office 365、 Azure 或 Intune 時](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)。
+2. 請遵循「案例1： AD FS 權杖簽署憑證已過期」一節中的「案例」[當同盟使用者登入 Microsoft 365、Azure 或 Intune 時，「存取網站時發生問題](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)」一節。
 
-3. 請依照[更新或修復 Office 365、 Azure 或 Intune 中的同盟網域的設定](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)。
+3. 依照[更新或修復 Microsoft、Azure 或 Intune 中](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)的同盟網域的設定中的步驟進行。
 
-    若要深入了解更新同盟憑證，請參閱[Office 365 和 Azure Active Directory 的續約同盟憑證](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)。
+    若要深入瞭解如何更新同盟憑證，請參閱[更新 Microsoft 365 和 Azure Active Directory 的同盟憑證](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)。

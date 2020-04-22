@@ -1,9 +1,9 @@
 ---
-title: 必須有 620 調整時區和網頁型 Outlook 中設定的語言
+title: 620在 web 上的 Outlook 中調整時區及語言設定
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 64e58d9ff51543919418668971c08ad90acee32f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9099628059ab11b30b4f44395fd3764331e84732
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499918"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709362"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>調整時區和網頁型 Outlook 中的語言設定
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>在 web 上的 Outlook 中調整時區及語言設定
 
-若要調整的時區和網頁型 Outlook 中的語言設定，您存取使用您的 Office 365 工作或學校帳戶，請參閱[變更的時區和網頁型 Outlook 中的語言設定](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)。
+若要在 Outlook 網頁版中調整時區及語言設定，使用您的公司或學校帳戶進行存取，請參閱在[web 上的 outlook 中變更時區及語言設定](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)。
   

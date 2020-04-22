@@ -1,5 +1,5 @@
 ---
-title: 如何啟用 Windows 10 的訂閱
+title: 如何啟動 Windows 10 訂閱
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3470"
 - "9001461"
-ms.openlocfilehash: d03f9cd62a1867619f0b7ed8f449ff638164a836
-ms.sourcegitcommit: bd80dd0469556397c3f48a9276afe8e9d793a2ae
+ms.openlocfilehash: 2e3f9b789db6d8e581440c6decc4a1ea748eabf6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40744549"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709650"
 ---
-# <a name="activating-windows-10-subscriptions"></a>啟動 Windows 10 的訂閱
+# <a name="activating-windows-10-subscriptions"></a>啟用 Windows 10 訂閱
 
-Microsoft 365 商務版，Microsoft 365 教育版、 Microsoft 365 企業版提供數位授權適用於 Windows 10，做為訂閱的一部分。 若要啟用訂閱，您的裝置必須已有啟用 Windows 10 專業版 （1703年或更新版本）。 若要啟用 Windows 10 訂閱，請參閱[Windows 10 訂閱啟用需求](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)需求的完整清單。
+Microsoft 365 商務版 Premium，Microsoft 365 教育版，Microsoft 365 和 Enterprise 會提供 Windows 10 的數位授權做為訂閱的一部分。 若要啟用訂閱，您的裝置必須已啟用 Windows 10 專業版 (1703 或更新版本)。 若要查看啟用 Windows 10 訂閱的完整需求清單，請參閱[Windows 10 訂閱啟用需求](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)。

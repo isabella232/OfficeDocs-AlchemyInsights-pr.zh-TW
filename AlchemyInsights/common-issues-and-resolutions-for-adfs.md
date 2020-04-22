@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286471"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706192"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>ADFS 的常見問題和解決方案
 
@@ -28,4 +28,4 @@ ms.locfileid: "43286471"
 
 - [2647020](https://support.microsoft.com/help/2647020)：當同盟使用者嘗試登入 Office 365、Azure 或 Intune 時，發生「很抱歉，我們無法將您登入」及 "80041317" 或 "80043431" 錯誤。
 
-如需詳細資訊，請參閱[在 Office 365、Azure 或 Intune 中更新或修復同盟網域的設定](https://docs.microsoft.com/zh-TW/office365/troubleshoot/active-directory/update-federated-domain-office-365)。
+如需詳細資訊，請參閱[在 Office 365、Azure 或 Intune 中更新或修復同盟網域的設定](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365)。
