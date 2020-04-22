@@ -1,8 +1,8 @@
 ---
-title: 進行中的服務事件
+title: 服務事件正在進行中
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -18,19 +18,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: 7512c264fafddb993683929ad7ccc2a50ffc691c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c667331c4ba4f5fd7b03f0f8a7f26c669ddde6df
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550614"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719722"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="19baa-102">進行中的服務事件</span><span class="sxs-lookup"><span data-stu-id="19baa-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="d145b-102">服務事件正在進行中</span><span class="sxs-lookup"><span data-stu-id="d145b-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="19baa-103">您可能會受到服務事件或建議的目前正在調查。</span><span class="sxs-lookup"><span data-stu-id="19baa-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="19baa-104">您可以移至 [[服務健康情況](https://admin.microsoft.com/adminportal/home#/servicehealth)] 頁面上檢查最新狀態。</span><span class="sxs-lookup"><span data-stu-id="19baa-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="d145b-103">您可能會受到目前正在調查的服務事件或建議所影響。</span><span class="sxs-lookup"><span data-stu-id="d145b-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="d145b-104">您可以移至 [[服務健康](https://admin.microsoft.com/adminportal/home#/servicehealth)情況] 頁面，檢查最近的狀態。</span><span class="sxs-lookup"><span data-stu-id="d145b-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="19baa-105">以方便您使用，您可以找到下此事件的摘要：</span><span class="sxs-lookup"><span data-stu-id="19baa-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="d145b-105">為方便您使用，您可以在下面找到此事件的摘要：</span><span class="sxs-lookup"><span data-stu-id="d145b-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="19baa-106">**事件號碼：**[{} IncidentId](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="19baa-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="d145b-106">**事件編號：**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="d145b-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="19baa-107">影響描述: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="19baa-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="d145b-107">影響描述： {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="d145b-107">Impact description: {ImpactDescription}</span></span>

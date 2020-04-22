@@ -1,9 +1,9 @@
 ---
-title: 傳統的 SharePoint audit 記錄報告
+title: 傳統 SharePoint 的審計記錄報告
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +12,40 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 80625a2d3a10c1316dc369db344bb077aeb548b0
-ms.sourcegitcommit: 23f4af808f08643cc7d356dd4abc1d079c28e6dc
+ms.openlocfilehash: 3270f1ab03bacb235cbdc3d710053c858f0a5183
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35411839"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741956"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a><span data-ttu-id="bfc70-102">SharePoint 和 OneDrive 的審核記錄檔</span><span class="sxs-lookup"><span data-stu-id="bfc70-102">SharePoint and OneDrive audit logs</span></span>
+# <a name="sharepoint-and-onedrive-audit-logs"></a><span data-ttu-id="c62a3-102">SharePoint 和 OneDrive 審核記錄檔</span><span class="sxs-lookup"><span data-stu-id="c62a3-102">SharePoint and OneDrive audit logs</span></span>
 
-<span data-ttu-id="bfc70-103">**SharePoint 和 OneDrive 現代化的統一核查記錄與合規性**</span><span class="sxs-lookup"><span data-stu-id="bfc70-103">**SharePoint and OneDrive Modern Unified Audit logs from compliance**</span></span>
+## <a name="sharepoint-classic-audit-logs"></a><span data-ttu-id="c62a3-103">SharePoint 傳統的審計記錄</span><span class="sxs-lookup"><span data-stu-id="c62a3-103">SharePoint classic Audit logs</span></span>
 
-- [<span data-ttu-id="bfc70-104">開啟/關閉整合的審計記錄</span><span class="sxs-lookup"><span data-stu-id="bfc70-104">Turn on/off Unified Audit Logging</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+<span data-ttu-id="c62a3-104">SPO 舊版審核已遷移至整合的審計記錄檔（UAL）。</span><span class="sxs-lookup"><span data-stu-id="c62a3-104">SPO legacy auditing was migrated to Unified Audit Log (UAL).</span></span> <span data-ttu-id="c62a3-105">所有 SPO 的舊版審核報告現在都會透過 UAL 供電，舊版的審核信號也會遷移至 UAL。</span><span class="sxs-lookup"><span data-stu-id="c62a3-105">All SPO legacy audit reports will now be powered through UAL, and the legacy audit signals have been migrated to UAL.</span></span>
 
-<span data-ttu-id="bfc70-105">SharePoint 或 OneDrive 中不需要額外的設定。</span><span class="sxs-lookup"><span data-stu-id="bfc70-105">No additional configuration is required within SharePoint or OneDrive.</span></span>
+<span data-ttu-id="c62a3-106">主要變更：</span><span class="sxs-lookup"><span data-stu-id="c62a3-106">Key changes:</span></span>
 
-- <span data-ttu-id="bfc70-106">使用 [審核記錄搜尋] 來檢查檔案的活動、資料夾、使用者、許可權:</span><span class="sxs-lookup"><span data-stu-id="bfc70-106">Use audit logging search to check activity of the file(s), folder(s), user(s), permissions:</span></span>
+* <span data-ttu-id="c62a3-107">無法使用修整功能。</span><span class="sxs-lookup"><span data-stu-id="c62a3-107">Trimming is NOT available as a capability.</span></span>
+* <span data-ttu-id="c62a3-108">無法使用選擇要進行審核的特定事件。</span><span class="sxs-lookup"><span data-stu-id="c62a3-108">Choosing specific events to audit is NOT available.</span></span> <span data-ttu-id="c62a3-109">請參閱[本檔](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)，以取得預設可供使用之審核事件的完整清單。</span><span class="sxs-lookup"><span data-stu-id="c62a3-109">Refer to [this document](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) for a complete list of audited events available by default.</span></span>
+* <span data-ttu-id="c62a3-110">無法使用 [**自訂報告**] 底下的 [**位置**] 選項。</span><span class="sxs-lookup"><span data-stu-id="c62a3-110">The **Location** option under **Customized reports** is NOT available.</span></span>
+* <span data-ttu-id="c62a3-111">無法使用「**開啟或下載檔案**的事件] 選項。</span><span class="sxs-lookup"><span data-stu-id="c62a3-111">The **Opening or downloading documents** events option is NOT available.</span></span>
 
-    - [<span data-ttu-id="bfc70-107">檔案和頁面活動</span><span class="sxs-lookup"><span data-stu-id="bfc70-107">File and page activities</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-    - [<span data-ttu-id="bfc70-108">資料夾活動</span><span class="sxs-lookup"><span data-stu-id="bfc70-108">Folder activities</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [<span data-ttu-id="bfc70-109">共用和存取要求活動</span><span class="sxs-lookup"><span data-stu-id="bfc70-109">Sharing and access request activities</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [<span data-ttu-id="bfc70-110">同步處理活動</span><span class="sxs-lookup"><span data-stu-id="bfc70-110">Synchronization activities</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-    - [<span data-ttu-id="bfc70-111">網站管理活動</span><span class="sxs-lookup"><span data-stu-id="bfc70-111">Site administration activities</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- <span data-ttu-id="bfc70-112">如需如何取得這些事件的詳細資訊, 請參閱[Search the audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)。</span><span class="sxs-lookup"><span data-stu-id="bfc70-112">For more information about how to retrieve these events, see [Search the audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>
+[<span data-ttu-id="c62a3-112">設定網站集合的審核設定</span><span class="sxs-lookup"><span data-stu-id="c62a3-112">Configure Audit settings for a site collection</span></span>](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
 
-<span data-ttu-id="bfc70-113">**SharePoint 傳統的核查記錄**</span><span class="sxs-lookup"><span data-stu-id="bfc70-113">**SharePoint classic Audit logs**</span></span>
+## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a><span data-ttu-id="c62a3-113">從相容性中 SharePoint 和 OneDrive 現代化的整合審計記錄檔</span><span class="sxs-lookup"><span data-stu-id="c62a3-113">SharePoint and OneDrive Modern Unified Audit logs from compliance</span></span>
 
-- [<span data-ttu-id="bfc70-114">查看及啟用傳統的 SharePoint Audit 記錄</span><span class="sxs-lookup"><span data-stu-id="bfc70-114">View and enable classic SharePoint Audit logs</span></span>](https://support.office.com/en-us/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+* [<span data-ttu-id="c62a3-114">開啟/關閉整合的審計記錄</span><span class="sxs-lookup"><span data-stu-id="c62a3-114">Turn on/off Unified Audit Logging</span></span>](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-<span data-ttu-id="bfc70-115">每個網站集合都必須啟用審核。</span><span class="sxs-lookup"><span data-stu-id="bfc70-115">Auditing need to be enabled per each site collection.</span></span> 
+<span data-ttu-id="c62a3-115">SharePoint 或 OneDrive 中不需要進行其他設定。</span><span class="sxs-lookup"><span data-stu-id="c62a3-115">No additional configuration is required within SharePoint or OneDrive.</span></span>
 
-<span data-ttu-id="bfc70-116">**請注意**: 我們建議使用新式的統一核查記錄, 以取得比這些傳統的審計記錄檔更佳且更高的審核選項。</span><span class="sxs-lookup"><span data-stu-id="bfc70-116">**Note**: We recommend using Modern Unified Audit logs for better and advanced audit options than these classic audit logs.</span></span>
+<span data-ttu-id="c62a3-116">使用「審核記錄搜尋」檢查檔案的活動、資料夾（s）、使用者的許可權：</span><span class="sxs-lookup"><span data-stu-id="c62a3-116">Use audit logging search to check activity of the file(s), folder(s), user(s), permissions:</span></span>
 
+* [<span data-ttu-id="c62a3-117">檔案和頁面活動</span><span class="sxs-lookup"><span data-stu-id="c62a3-117">File and page activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+* [<span data-ttu-id="c62a3-118">資料夾活動</span><span class="sxs-lookup"><span data-stu-id="c62a3-118">Folder activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [<span data-ttu-id="c62a3-119">共用及存取要求活動</span><span class="sxs-lookup"><span data-stu-id="c62a3-119">Sharing and access request activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [<span data-ttu-id="c62a3-120">同步處理活動</span><span class="sxs-lookup"><span data-stu-id="c62a3-120">Synchronization activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [<span data-ttu-id="c62a3-121">網站管理活動</span><span class="sxs-lookup"><span data-stu-id="c62a3-121">Site administration activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+
+<span data-ttu-id="c62a3-122">如需如何取得這些事件的詳細資訊，請參閱[搜尋審核記錄](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)檔。</span><span class="sxs-lookup"><span data-stu-id="c62a3-122">For more information about how to retrieve these events, see [Search the audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>

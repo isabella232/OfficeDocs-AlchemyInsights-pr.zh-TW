@@ -1,31 +1,31 @@
 ---
-title: 網頁型 Outlook 中的 POP、 IMAP 和 SMTP 設定
+title: Outlook 網頁版中的 POP、IMAP 和 SMTP 設定
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d25e3ea650bcd337640ab44574d109721639ce17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d106e02fbb7e67de707679bc226868b600c4f534
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556484"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721126"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a><span data-ttu-id="c36ed-102">網頁型 Outlook 的 POP、 IMAP & SMTP 設定</span><span class="sxs-lookup"><span data-stu-id="c36ed-102">POP, IMAP & SMTP settings for Outlook on the web</span></span>
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a><span data-ttu-id="b2902-102">POP、IMAP & 網頁版 Outlook 的 SMTP 設定</span><span class="sxs-lookup"><span data-stu-id="b2902-102">POP, IMAP & SMTP settings for Outlook on the web</span></span>
 
-<span data-ttu-id="c36ed-103">如果您想要將您的 Office 365 帳戶新增至另一個支援 POP、 IMAP 或 SMTP 郵件應用程式，以下是您將需要手動伺服器設定：</span><span class="sxs-lookup"><span data-stu-id="c36ed-103">If you want to add your Office 365 account to another mail app that supports POP, IMAP, or SMTP, here are the manual server settings you'll need:</span></span>
+<span data-ttu-id="b2902-103">若要將 Microsoft 365 帳戶新增至另一個支援 POP、IMAP 或 SMTP 的郵件應用程式，以下是您將需要的手動伺服器設定：</span><span class="sxs-lookup"><span data-stu-id="b2902-103">If you want to add your Microsoft 365 account to another mail app that supports POP, IMAP, or SMTP, here are the manual server settings you'll need:</span></span>
   
-- <span data-ttu-id="c36ed-104">**IMAP 伺服器名稱：** outlook.office365.com</span><span class="sxs-lookup"><span data-stu-id="c36ed-104">**IMAP server name:** outlook.office365.com</span></span>
-- <span data-ttu-id="c36ed-105">**IMAP 通訊埠：** 993</span><span class="sxs-lookup"><span data-stu-id="c36ed-105">**IMAP port:** 993</span></span>
-- <span data-ttu-id="c36ed-106">**IMAP 加密方法：** SSL/TLS</span><span class="sxs-lookup"><span data-stu-id="c36ed-106">**IMAP encryption method:** SSL/TLS</span></span>
-- <span data-ttu-id="c36ed-107">**POP 伺服器名稱：** outlook.office365.com</span><span class="sxs-lookup"><span data-stu-id="c36ed-107">**POP server name:** outlook.office365.com</span></span>  
-- <span data-ttu-id="c36ed-108">**POP 連接埠：** 995</span><span class="sxs-lookup"><span data-stu-id="c36ed-108">**POP port:** 995</span></span>  
-- <span data-ttu-id="c36ed-109">**POP 加密方法：** SSL/TLS</span><span class="sxs-lookup"><span data-stu-id="c36ed-109">**POP encryption method:** SSL/TLS</span></span>  
-- <span data-ttu-id="c36ed-110">**SMTP 伺服器名稱：** smtp.office365.com</span><span class="sxs-lookup"><span data-stu-id="c36ed-110">**SMTP server name:** smtp.office365.com</span></span>
-- <span data-ttu-id="c36ed-111">**SMTP 連接埠：** 587</span><span class="sxs-lookup"><span data-stu-id="c36ed-111">**SMTP port:** 587</span></span>
-- <span data-ttu-id="c36ed-112">**SMTP 加密方法：** STARTTLS</span><span class="sxs-lookup"><span data-stu-id="c36ed-112">**SMTP encryption method:** STARTTLS</span></span>
+- <span data-ttu-id="b2902-104">**IMAP 伺服器名稱：** outlook.office365.com</span><span class="sxs-lookup"><span data-stu-id="b2902-104">**IMAP server name:** outlook.office365.com</span></span>
+- <span data-ttu-id="b2902-105">**IMAP 通訊埠：** 993</span><span class="sxs-lookup"><span data-stu-id="b2902-105">**IMAP port:** 993</span></span>
+- <span data-ttu-id="b2902-106">**IMAP 加密方法：** SSL/TLS</span><span class="sxs-lookup"><span data-stu-id="b2902-106">**IMAP encryption method:** SSL/TLS</span></span>
+- <span data-ttu-id="b2902-107">**POP 伺服器名稱：** outlook.office365.com</span><span class="sxs-lookup"><span data-stu-id="b2902-107">**POP server name:** outlook.office365.com</span></span>  
+- <span data-ttu-id="b2902-108">**POP 埠：** 995</span><span class="sxs-lookup"><span data-stu-id="b2902-108">**POP port:** 995</span></span>  
+- <span data-ttu-id="b2902-109">**POP 加密方法：** SSL/TLS</span><span class="sxs-lookup"><span data-stu-id="b2902-109">**POP encryption method:** SSL/TLS</span></span>  
+- <span data-ttu-id="b2902-110">**SMTP 伺服器名稱：** smtp.office365.com</span><span class="sxs-lookup"><span data-stu-id="b2902-110">**SMTP server name:** smtp.office365.com</span></span>
+- <span data-ttu-id="b2902-111">**SMTP 通訊埠：** 587</span><span class="sxs-lookup"><span data-stu-id="b2902-111">**SMTP port:** 587</span></span>
+- <span data-ttu-id="b2902-112">**SMTP 加密方法：** STARTTLS</span><span class="sxs-lookup"><span data-stu-id="b2902-112">**SMTP encryption method:** STARTTLS</span></span>

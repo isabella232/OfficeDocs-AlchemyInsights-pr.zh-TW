@@ -3,7 +3,7 @@ title: 如何在 iPhone 上安裝 Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,15 +13,15 @@ ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
 ms.custom:
 - "753"
 - "2000016"
-ms.openlocfilehash: ad3b921941c6cfa09a49952707af50f027e7e75b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1dbfe6151fefd812281009dc68c39474dadf1203
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540208"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759179"
 ---
-# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="a7f2c-102">如何在 iPhone 上安裝 Office</span><span class="sxs-lookup"><span data-stu-id="a7f2c-102">How to install Office on an iPhone</span></span>
+# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="1235d-102">如何在 iPhone 上安裝 Office</span><span class="sxs-lookup"><span data-stu-id="1235d-102">How to install Office on an iPhone</span></span>
 
-- <span data-ttu-id="a7f2c-103">擁有使用者[點選的下載連結](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA)從其行動裝置時，Word、 Excel、 PowerPoint 及 OneNote。</span><span class="sxs-lookup"><span data-stu-id="a7f2c-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
+- <span data-ttu-id="1235d-103">讓使用者點擊其行動裝置[的 [下載] 連結](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA)，以供 Word、Excel、PowerPoint 和 OneNote 使用。</span><span class="sxs-lookup"><span data-stu-id="1235d-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
 
-- <span data-ttu-id="a7f2c-104">將啟動應用程式，請點選 [**登入**並輸入他們的公司或學校認證的使用者。</span><span class="sxs-lookup"><span data-stu-id="a7f2c-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
+- <span data-ttu-id="1235d-104">讓使用者啟動應用程式，請點擊 [登**入**]，然後輸入他們的工作或學校認證。</span><span class="sxs-lookup"><span data-stu-id="1235d-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
