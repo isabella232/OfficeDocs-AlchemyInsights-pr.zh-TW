@@ -1,9 +1,9 @@
 ---
-title: SharePoint Online 公用網站已被終止
+title: 已停用 SharePoint Online 公用網站
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 1/2/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 3ff7447fa347d2b48ecb0b2701624c942a223518
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 215a90ee4c3c93c4d8e35183aa81e2db889fbcd0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044106"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764216"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a><span data-ttu-id="ea73e-102">已終止 SharePoint Online 公用網站</span><span class="sxs-lookup"><span data-stu-id="ea73e-102">SharePoint Online public websites have been discontinued</span></span>
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a><span data-ttu-id="9dbb0-102">已廢止 SharePoint 線上公用網站</span><span class="sxs-lookup"><span data-stu-id="9dbb0-102">SharePoint Online public websites have been discontinued</span></span>
 
-<span data-ttu-id="ea73e-103">已終止 SharePoint Online 公用網站。</span><span class="sxs-lookup"><span data-stu-id="ea73e-103">SharePoint Online public websites have been discontinued.</span></span>
+<span data-ttu-id="9dbb0-103">SharePoint 線上公用網站已停止使用。</span><span class="sxs-lookup"><span data-stu-id="9dbb0-103">SharePoint Online public websites have been discontinued.</span></span>
 
-<span data-ttu-id="ea73e-104">如果您建立 SharePoint Online 公用網站，您就可以繼續使用到 2018 年 3 月 31 日。</span><span class="sxs-lookup"><span data-stu-id="ea73e-104">If you created a SharePoint Online public website, you were able to continue using it thru March 31, 2018.</span></span> <span data-ttu-id="ea73e-105">如果您想要繼續遇到公用網站，您需要建立一個新與新的提供者。</span><span class="sxs-lookup"><span data-stu-id="ea73e-105">If you want to continue having a public website, you need to create a new one with a new provider.</span></span> <span data-ttu-id="ea73e-106">在 SharePoint Online 公用網站上的內容已被刪除。</span><span class="sxs-lookup"><span data-stu-id="ea73e-106">The content on your SharePoint Online public website has been deleted.</span></span>
+<span data-ttu-id="9dbb0-104">如果您建立了 SharePoint Online 公用網站，您可以繼續在2018年3月31日使用它。</span><span class="sxs-lookup"><span data-stu-id="9dbb0-104">If you created a SharePoint Online public website, you were able to continue using it thru March 31, 2018.</span></span> <span data-ttu-id="9dbb0-105">若要繼續使用公用網站，您必須使用新的提供者建立新的網站。</span><span class="sxs-lookup"><span data-stu-id="9dbb0-105">If you want to continue having a public website, you need to create a new one with a new provider.</span></span> <span data-ttu-id="9dbb0-106">您 SharePoint Online 公用網站上的內容已遭刪除。</span><span class="sxs-lookup"><span data-stu-id="9dbb0-106">The content on your SharePoint Online public website has been deleted.</span></span>
 
-<span data-ttu-id="ea73e-107">公用網站主題的相關資訊，請參閱[功能主題程序的相關詳細資料](https://go.microsoft.com/fwlink/?linkid=866980)。</span><span class="sxs-lookup"><span data-stu-id="ea73e-107">For info about the public website discontinuation, see [Details about the feature discontinuation process](https://go.microsoft.com/fwlink/?linkid=866980).</span></span>
+<span data-ttu-id="9dbb0-107">如需有關公用網站停產的資訊，請參閱[功能終止過程的詳細資料](https://go.microsoft.com/fwlink/?linkid=866980)。</span><span class="sxs-lookup"><span data-stu-id="9dbb0-107">For info about the public website discontinuation, see [Details about the feature discontinuation process](https://go.microsoft.com/fwlink/?linkid=866980).</span></span>

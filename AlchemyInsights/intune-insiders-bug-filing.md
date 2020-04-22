@@ -1,9 +1,9 @@
 ---
-title: Intune 測試人員 bug 歸檔
+title: Intune 內幕人員錯誤歸檔
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 11/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: beca7f1b13492997c3c0568f77afee308635e5cb
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 1c95c7cc4e758d649717df25ecffb87650dff1c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663529"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765944"
 ---
-# <a name="intune-insider-bug-filing"></a><span data-ttu-id="a5a91-102">Intune 測試人員 bug 歸檔</span><span class="sxs-lookup"><span data-stu-id="a5a91-102">Intune Insider bug filing</span></span>
+# <a name="intune-insider-bug-filing"></a><span data-ttu-id="76376-102">Intune 內幕人員錯誤歸檔</span><span class="sxs-lookup"><span data-stu-id="76376-102">Intune Insider bug filing</span></span>
 
-<span data-ttu-id="a5a91-103">感謝您感興趣 Intune 測試人員計畫。</span><span class="sxs-lookup"><span data-stu-id="a5a91-103">Thank you for your interest in the Intune Insiders program.</span></span> <span data-ttu-id="a5a91-104">如果您已在上的架 Intune 測試人員計畫，且需要支援服務歸檔，然後：</span><span class="sxs-lookup"><span data-stu-id="a5a91-104">If you're already onboarded for the Intune Insiders program, and need to file a support request, then:</span></span>
+<span data-ttu-id="76376-103">感謝您關注 Intune 預覽體驗計畫。</span><span class="sxs-lookup"><span data-stu-id="76376-103">Thank you for your interest in the Intune Insiders program.</span></span> <span data-ttu-id="76376-104">如果您已經為 Intune 預覽人員計畫架，且需要將支援要求歸檔，請執行下列動作：</span><span class="sxs-lookup"><span data-stu-id="76376-104">If you're already onboarded for the Intune Insiders program, and need to file a support request, then:</span></span>
 
-1. <span data-ttu-id="a5a91-105">說明您在上述] 欄位中的問題。</span><span class="sxs-lookup"><span data-stu-id="a5a91-105">Describe your issue in the field above.</span></span>
-2. <span data-ttu-id="a5a91-106">建立新的服務要求使用下列選項。</span><span class="sxs-lookup"><span data-stu-id="a5a91-106">Create a new service request using the options below.</span></span>
+1. <span data-ttu-id="76376-105">在上述欄位中描述您的問題。</span><span class="sxs-lookup"><span data-stu-id="76376-105">Describe your issue in the field above.</span></span>
+2. <span data-ttu-id="76376-106">使用下列選項來建立新的服務要求。</span><span class="sxs-lookup"><span data-stu-id="76376-106">Create a new service request using the options below.</span></span>
 
-<span data-ttu-id="a5a91-107">Intune 支援工程師將會與您連絡。</span><span class="sxs-lookup"><span data-stu-id="a5a91-107">An Intune support engineer will contact you.</span></span>
+<span data-ttu-id="76376-107">Intune 支援工程師會與您聯繫。</span><span class="sxs-lookup"><span data-stu-id="76376-107">An Intune support engineer will contact you.</span></span>
 
-<span data-ttu-id="a5a91-108">如果您不是 Intune 測試人員計畫，您感興趣的感謝您。</span><span class="sxs-lookup"><span data-stu-id="a5a91-108">If you're not in the Intune Insiders program, thank you for your interest.</span></span> <span data-ttu-id="a5a91-109">我們目前正在不招募新參與者。</span><span class="sxs-lookup"><span data-stu-id="a5a91-109">We're currently not recruiting new participants.</span></span>
+<span data-ttu-id="76376-108">如果您不是在 Intune 預覽體驗計畫中，請謝謝您的興趣。</span><span class="sxs-lookup"><span data-stu-id="76376-108">If you're not in the Intune Insiders program, thank you for your interest.</span></span> <span data-ttu-id="76376-109">我們目前並未招聘新的參與者。</span><span class="sxs-lookup"><span data-stu-id="76376-109">We're currently not recruiting new participants.</span></span>

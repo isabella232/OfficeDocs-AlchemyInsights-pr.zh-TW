@@ -1,9 +1,9 @@
 ---
-title: 如何為非利潤購買 Office 365
+title: 如何購買 Office 365 以取得非盈利
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/21/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: ac35c253b326e94a21d176d6e439c548b5ea88a6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389963"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763532"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="92d03-102">如何為非利潤購買 Office 365</span><span class="sxs-lookup"><span data-stu-id="92d03-102">How to purchase Office 365 for Non-profits</span></span>
+# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="874f6-102">如何購買 Office 365 以取得非盈利</span><span class="sxs-lookup"><span data-stu-id="874f6-102">How to purchase Office 365 for Non-profits</span></span>
 
-<span data-ttu-id="92d03-103">[檢閱] 下，是您為 Microsoft 完整非營利組織的資格。</span><span class="sxs-lookup"><span data-stu-id="92d03-103">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review.</span></span> <span data-ttu-id="92d03-104">您可以預計會收到一則通知上您的資格決定試用版到期之前。</span><span class="sxs-lookup"><span data-stu-id="92d03-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span> <span data-ttu-id="92d03-105">您可以追蹤您的應用程式的狀態[在這裡](http://eligibilityweb.azurewebsites.net/)。</span><span class="sxs-lookup"><span data-stu-id="92d03-105">You can track the status of your application [here](http://eligibilityweb.azurewebsites.net/).</span></span>
+<span data-ttu-id="874f6-103">您的資格是 Microsoft 合格的非盈利性組織，正在進行審閱。</span><span class="sxs-lookup"><span data-stu-id="874f6-103">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review.</span></span> <span data-ttu-id="874f6-104">您可以在試用期到期之前，收到決定資格的通知。</span><span class="sxs-lookup"><span data-stu-id="874f6-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span> <span data-ttu-id="874f6-105">您可以在[這裡](https://eligibilityweb.azurewebsites.net/)追蹤應用程式的狀態。</span><span class="sxs-lookup"><span data-stu-id="874f6-105">You can track the status of your application [here](https://eligibilityweb.azurewebsites.net/).</span></span>
