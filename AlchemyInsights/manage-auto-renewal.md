@@ -3,7 +3,7 @@ title: 管理自動更新
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 046a753bcea55e4419f562cbf9a5a7e94cfa5c32
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0e1fc4fc2c0905b957de6d6db9b4a19bda4965a7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380712"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762596"
 ---
 # <a name="manage-recurring-billing"></a>管理週期性帳單
 
-若要管理週期性帳單, 您可以開啟或關閉**週期性帳單**。
+您可以在 Microsoft 365 系統管理中心中開啟或關閉「重複帳單」。
   
-1. 在系統管理中心中, 移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面, 或移至 [**帳單** \> **訂閱**]。
+1. 在系統管理中心，移至 [帳單]**** \> [產品與服務][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
 
-2. 選擇您想要管理週期性帳單的訂閱。
+2. 在 [**帳單**] 底下的 [**續訂開啟**] 或 [**到期**日] 旁邊，選取 [**編輯**]。
 
-3. 將**週期性帳單**開關切換為 [**開啟**] 或 [**關閉**]。
+3. 在 [**週期性計費設定**] 窗格中，選取 [**關閉**] 以關閉該功能。 如果已關閉定期計費，請選取 [**每月**] 或 [**一次**] 開啟。
 
-如需詳細資訊, 請參閱:[管理您訂閱的週期性帳單](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)。
-  
+4. 選取 [**提交變更**]。
+
+若要深入了解，請參閱[關閉或開啟週期性計費](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on)。

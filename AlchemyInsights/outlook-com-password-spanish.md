@@ -3,7 +3,7 @@ title: Outlook.com 密碼西班牙文
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,15 +11,15 @@ ms.custom:
 - "8000055"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b6c4e5906f42701bcef2e62e6db51184c646b9c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8fb08b3b5034d9cce594b663047570d96149a523
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545898"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745002"
 ---
-# <a name="cmo-iniciar-o-cerrar-sesin-en-outlookcom"></a>Cómo iniciar o cerrar sesión en-us Outlook.com
+# <a name="cmo-iniciar-o-cerrar-sesin-en-outlookcom"></a>Cómo iniciar o cerrar sesión en Outlook.com
 
-Si 沒有 puede iniciar sesión en-us su cuenta de correo electrónico de Outlook.com、 Hotmail、 即時，o MSN、 o 沒有 sabe con seguridad cómo iniciar o cerrar sesión， [aquí tiene algunas soluciones](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)。
+Si no puede iniciar sesión en su cuenta de correo electrónico de Outlook.com，Hotmail，Live，o MSN，o 無 sabe con seguridad cómo iniciar o cerrar sesión， [aquí tiene](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)algunas soluciones。
 
-Si todavía tiene problemas con el inicio de sesión，vea [Cuando 沒有 puede iniciar sesión en-us su cuenta de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479)。
+Si todavía tiene problemas con el inicio de sesión，vea [Cuando no puede iniciar sesión en su cuenta De Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479)。

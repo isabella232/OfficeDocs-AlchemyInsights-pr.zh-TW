@@ -1,9 +1,9 @@
 ---
-title: 識別保留暫留信箱
+title: 識別放在信箱上的封存
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538749"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724767"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>識別信箱的保留
+# <a name="identify-holds-placed-on-mailboxes"></a>識別放在信箱上的保留
 
-您必須已被**保留****保留**，您無法辨識的 Office 365 內容？ 需要**了解**保留在**信箱**中的位置？ 保留 （*保留功能*） 可以套用的 Office 365 中的下列方法之一：
+您是否有**保留**無法**識別的 Microsoft** 365 內容？ 需要**找出**保留位於**信箱**上的何處？ 可透過下列其中一種方法套用保留（*保留功能*）：
   
-- 訴訟資料暫留
+- 訴訟暫止
 
 - eDiscovery 保留
 
 - 原有範圍暫止
 
-- Office 365 保留原則 
+- Microsoft 365 保留原則 
 
   - 特定位置保留原則
 
-  - 整個組織的保留原則
+  - 全組織保留原則
 
-- Office 365 標籤
+- Microsoft 365 標籤
 
-若要識別哪種類型的保留套用到使用者的信箱，請參閱[如何識別的型別 hold 放在 Exchange Online 信箱](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)。
+若要識別對使用者的信箱套用哪種類型的保留，請參閱 how [to 識別位於 Exchange Online 信箱的保留類型](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)。

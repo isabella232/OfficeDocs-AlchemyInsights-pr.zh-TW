@@ -1,9 +1,9 @@
 ---
-title: 網頁型 Outlook 中變更電子郵件地址
+title: 變更 Outlook 網頁版中的電子郵件地址
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: 7afa86c3f2d9a00606cfd371b07243c85aa8bdb8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a56f88f09a8a3a14ce63cebabe0281ba68a359f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510506"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743084"
 ---
-# <a name="change-your-office-365-email-address"></a>變更您的 Office 365 電子郵件地址 
+# <a name="change-your-email-address"></a>變更您的電子郵件地址 
 
-若要變更您的電子郵件地址，您需要系統管理員權限。
+若要變更您的電子郵件地址，您需要系統管理員許可權。
   
-遵循[變更的使用者名稱和電子郵件地址中 Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)中的指示。
+依照[變更 Microsoft 365 中的使用者名稱和電子郵件地址](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)中的指示進行。

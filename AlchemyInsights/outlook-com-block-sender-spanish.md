@@ -1,9 +1,9 @@
 ---
-title: 在 Outlook.com-西班牙文的封鎖寄件者
+title: 封鎖 Outlook.com 中的寄件者-西班牙文
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1142"
 - "8000069"
-ms.openlocfilehash: 01b8a14bf11a6b32b806997911bb99e8ff45ba5e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 00cd42649e62908dc55d8ce45ec311b07d76286f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537794"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717589"
 ---
-# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o desbloquear remitentes en-us Outlook.com
+# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o desbloquear remitentes en Outlook.com
 
-Puede bloquear 洛斯 mensajes de 實現 direcciones de correo electrónico específica o dominio llegue a la Bandeja de entrada。 Cuando agrega una dirección de correo electrónico o 取消 dominio a la lista de remitentes bloqueados、 Outlook.com mueve automáticamente 洛斯 mensajes de ese remitente a la carpeta correo electrónico 沒有 deseado。
+Puede bloquear los mensajes de 拉斯維加斯 direcciones de correo electrónico específica o dominio llegue a la Bandeja de entrada。 Cuando agrega una dirección de correo electrónico o 未 dominio lista a la remitentes de bloqueados Outlook.com，mueve automáticamente mensajes los remitente de ese carpeta a la correo electrónico deseado no。
 
-一個段落 aprender más leer [Ayudar mantener el correo 沒有 deseado y el correo 沒有 deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)。
+段落 aprender más leer [Ayudar a mantener el correo no deseado y el correo no deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)。

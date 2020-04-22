@@ -3,7 +3,7 @@ title: 資源回收桶
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 3ba566f02cad31b6c3c8cb8ba281f66fa3c78e14
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36552964"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720200"
 ---
-# <a name="restore-items-in-sharepoint-online"></a>還原 SharePoint Online 中的項目
+# <a name="restore-items-in-sharepoint-online"></a>在 SharePoint Online 中還原專案
 
-當您刪除 SharePoint Online 中的項目時，它們被保留 93 天的總計。 仍留在網站資源回收筒的整個時間，除非您空白它，或從中刪除的項目。 在此情況下，項目移至網站集合資源回收筒，它們留 93 天的其餘部分。 結束的時間時，會永久刪除項目。 若要還原已刪除的項目從網站資源回收筒：
+當您在 SharePoint Online 中刪除專案時，其總保留93天。 除非您將其清空或從專案中刪除專案，否則它們會保持整個網站回收站。 在此情況下，這些專案會移至網站集合的回收站，而這些專案會在剩餘的93天內保留。 在時間結束時，會永久刪除專案。 若要從網站回收站還原已刪除的專案：
   
-1. 移至網站，然後按一下左窗格中的 [**資源回收筒**。 
+1. 移至網站，然後按一下左窗格中的 [**回收站**]。 
     
-    如果您沒有看到**資源回收筒**的左窗格中，按一下右上方，在 [設定] 圖示，然後按一下 [**網站內容**。 [資源回收筒] 是在最右邊的頂端的命令列。
+    如果您在左窗格中看不到 [**回收站**]，請按一下右上角的 [設定] 圖示，然後按一下 [**網站內容**]。 回收站位於命令列上方的最右邊。
     
-2. 在 [**資源回收筒**] 頁面上，選取您想要還原指向它們並按一下出現的勾號圖示的項目。 
+2. 在 [**回收站**] 頁面上，選取您要還原的專案，方法是指向這些專案，然後按一下出現的核取記號圖示。 
     
 3. 按一下 [**還原**]。
     
-[從網站集合資源回收筒還原已刪除的項目](https://go.microsoft.com/fwlink/?linkid=866439)
+[從網站集合回收站還原已刪除的專案](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

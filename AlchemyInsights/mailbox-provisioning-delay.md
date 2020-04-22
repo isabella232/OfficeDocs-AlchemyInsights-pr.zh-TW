@@ -1,25 +1,25 @@
 ---
-title: 信箱佈建延遲
+title: 信箱布建延遲
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 2/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: ef9b7663b8230366764e5ff7bfa176d5cea3f4a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 03d5f0e5cf8bf0d74dcef488de2c1fbc12d82cf0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542396"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762668"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>要建立使用者的信箱
+# <a name="your-users-mailbox-is-being-created"></a>正在建立使用者的信箱
 
-它可以佔用 1 小時的時間之前已準備好使用新的信箱。
+最多可能需要一小時，新的信箱才可供使用。
   
-如果使用者的信箱已被 「 準備 」 超過一小時，您可以嘗試刪除並重新建立使用者，或連絡技術支援工程師使用 「 讓我們撥話給您 」 選項。
+如果使用者的信箱已 "準備" 超過一小時，您可以嘗試刪除然後重新建立使用者，或使用「讓我們撥打您」選項與支援工程師交談。
   
 

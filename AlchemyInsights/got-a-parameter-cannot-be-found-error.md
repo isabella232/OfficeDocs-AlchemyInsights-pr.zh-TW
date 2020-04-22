@@ -1,8 +1,8 @@
 ---
-title: 獲得 '找不到參數 」 錯誤訊息？
+title: "[找不到 ' 參數找不到 ' 參數？] 錯誤？"
 ms.author: pebaum
 author: pebaum
-ms.date: 5/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 5549801bfd0fd84c232f483f8d9fbd250c389aec
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8f07a2dc92315e5466ea126243adf46cff192934
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36739844"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722223"
 ---
-# <a name="migrating-email-from-imap-email-system-to-office-365"></a>從 IMAP 電子郵件系統移轉電子郵件到 Office 365
+# <a name="migrating-email-from-imap-email-system-to-microsoft-365"></a>將電子郵件從 IMAP 電子郵件系統移轉至 Microsoft 365
 
-若要從 IMAP 郵件系統移轉電子郵件，請遵循此程序：[在 Microsoft 365 系統管理中心進行 IMAP 移轉](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
+若要從 IMAP 郵件系統移轉電子郵件，請執行下列程式： [Microsoft 365 系統管理中心的 IMAP 遷移](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
   
-許多大型組織需要仔細規劃來管理使用者的期望。 [您需要了解 Office 365 將 IMAP 信箱移轉](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes)的文章可協助您管理變更。
+許多大型組織都需要仔細規劃，以管理使用者預期。 將[IMAP 信箱遷移至 Microsoft 365 文章時，所需注意的事項](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes)，可協助您管理變更。
 
-請也檢查[與 FastTrack 採用 Office 365](https://www.microsoft.com/fasttrack/microsoft-365/office-365) ] 頁面的移轉，以協助說明如果合格。
+請另外檢查 [[採用 Microsoft 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) ] 頁面，以取得遷移的輔助協助（如有資格）。
   
 
-請也檢查[與 FastTrack 採用 Office 365](https://www.microsoft.com/fasttrack/microsoft-365/office-365) ] 頁面的移轉，以協助說明如果合格。
+請另外檢查 [[採用 Microsoft 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) ] 頁面，以取得遷移的輔助協助（如有資格）。
   

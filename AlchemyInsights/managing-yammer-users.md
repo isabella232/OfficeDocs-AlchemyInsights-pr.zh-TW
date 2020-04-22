@@ -2,7 +2,7 @@
 title: 管理 Yammer 使用者
 ms.author: pebaum
 author: pebaum
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1a7d3aa3512732dd245856c3746aff7487080cab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734912"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762452"
 ---
 # <a name="managing-yammer-users"></a>管理 Yammer 使用者
 
-1. 如需從 Office 365 管理 Yammer 使用者的相關資訊，請參閱[從 Office 365 生命週期期間管理 Yammer 使用者](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)。 這在包含詳細資料：
+1. 如需從 Microsoft 365 管理 Yammer 使用者的詳細資訊，請參閱[管理其整個生命週期中的 yammer 使用者](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)。 這包括下列各專案的詳細資料：
 
   - 建立使用者
 
   - 刪除使用者
 
-  - 從 Office 365 管理 Yammer 使用者
+  - 從 Microsoft 365 管理 Yammer 使用者
 
-2. 請參閱[新增、 封鎖或移除 Yammer 使用者](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365)的 Yammer 系統管理主控台從管理使用者的相關資訊。 這包括：
+2. 如需從 Yammer 系統管理主控台管理使用者的資訊，請參閱[新增、封鎖或移除 yammer 使用者](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365)。 這包括：
 
   - 邀請或移除使用者
 
@@ -36,4 +36,4 @@ ms.locfileid: "36734912"
 
   - 匯出使用者清單
 
-3. 新增、 移除及管理外部使用者的相關資訊，請參閱[新增外部訊息的參與者在 Yammer 網路](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)。
+3. 如需新增、移除及管理外部使用者的詳細資訊，請參閱[將外部郵件參與者新增至 Yammer 網路](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)。

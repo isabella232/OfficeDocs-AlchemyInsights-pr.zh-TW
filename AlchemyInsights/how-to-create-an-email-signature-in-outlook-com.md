@@ -1,9 +1,9 @@
 ---
-title: 8000047 如何在 Outlook.com 中建立電子郵件簽章
+title: 8000047如何在 Outlook.com 中建立電子郵件簽名
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "1401"
 - "8000047"
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: 0ba88b28f8f3754cdc6475a10b0df22ec87e654d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f331cc789a50f44fc62e22b5bf8f6f3e3daa6c00
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541252"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724501"
 ---
-# <a name="how-to-create-an-email-signature"></a>如何建立電子郵件簽章
+# <a name="how-to-create-an-email-signature"></a>如何建立電子郵件簽名
 
-移至您的[撰寫及回覆的設定](https://go.microsoft.com/fwlink/?linkid=2006164)(**設定** \> **檢視所有的 Outlook 設定** \> **撰寫及回覆**)。
+移至您的[撰寫和回復設定](https://go.microsoft.com/fwlink/?linkid=2006164)（**設定** \>會**顯示所有 Outlook 設定** \> **撰寫及回復**）。
   
- **附註：** 您可以讓每個帳戶只能有一個簽章。
+ **附注：** 每個帳戶只能有一個簽名。
   
-深入了解如何[建立及新增中 Outlook.com 電子郵件簽章](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy)。
+深入瞭解如何[在 Outlook.com 中建立及新增電子郵件簽名](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy)。

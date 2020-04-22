@@ -1,9 +1,9 @@
 ---
-title: 976-how-to-enable-litigation-hold
+title: 976-啟用-保留-保留
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398618"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720723"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>信箱置於合法持有
+# <a name="place-a-mailbox-on-legal-hold"></a>將信箱設為法定暫止狀態
 
-- 要放置訴訟暫止或就地保留信箱，則需要 Exchange Online Plan 2 授權[Exchange Online Plan 2 授權](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)。 如果信箱指派計劃 1 授權，您可以指派不同 Exchange Online Archiving 附加元件授權[Exchange Online Archiving 附加元件授權](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)。
+- 若要將信箱設為訴訟暫止或 In-Place 暫止狀態，需要 Exchange Online Plan 2 授權[Exchange Online plan 2 授權](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)。 如果有指派方案1授權的信箱，您可以指派個別的 Exchange Online 封存附加元件授權[Exchange online 封存附加元件授權](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)。
 
-- 若要啟用訴訟暫止狀態的單一使用者，[請遵循下列步驟](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold)。 啟用訴訟暫止狀態時，會保留在信箱中的所有內容。
+- 若要對單一使用者啟用訴訟暫止，[請遵循下列步驟](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold)。 啟用訴訟暫止時，會保留信箱中的所有內容。
 
-- 若要保留組織中的所有信箱中的內容，您可以使用[全組織的 Office 365 保留原則](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)。 請注意，整個組織的保留原則，新的使用者將會自動指派給原則。
+- 若要保留組織中所有信箱的內容，您可以使用[全組織的保留原則](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)。 請注意，針對整個組織的保留原則，系統會自動將新的使用者指派給原則。

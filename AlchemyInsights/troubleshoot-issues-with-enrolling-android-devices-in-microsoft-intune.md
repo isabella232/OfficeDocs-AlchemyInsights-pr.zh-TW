@@ -1,9 +1,9 @@
 ---
-title: 疑難排解問題註冊 Microsoft Intune 中的 Android 裝置
+title: 在 Microsoft Intune 中註冊 Android 裝置的問題疑難排解
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +12,35 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: 1e1d50c31df588a3416d758d40fbd7bde3f73b21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd6d278ebf6cca7fb6e4ac1049deae600b516707
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500062"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759611"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>疑難排解問題註冊 Microsoft Intune 中的 Android 裝置
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>在 Microsoft Intune 中註冊 Android 裝置的問題疑難排解
 
-請先檢閱下列資源以立即解決您的問題。
+立即查看下列資源，以解決您的問題。
   
-部分一般問題及解決步驟：
+一些常見的問題和解決步驟：
   
- **裝置未加密的公司入口網站中的錯誤：** 較新版本的 Android，尤其開頭 v7.0，需要啟動密碼以確保您的裝置已完全加密。 若要啟用啟動 pin 碼，或完全加密裝置是常見的解決方案。 檢閱[本文件](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android)如需詳細資訊。
+ **公司入口網站中的裝置未加密錯誤：** 較新版本的 Android （特別是從 v 7.0 開始）需要啟動密碼，以確保您的裝置已完全加密。 常見的解決方案是啟用啟動 pin 碼或完全加密裝置。 如需詳細資訊，請參閱[本檔](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android)。
   
- **裝置無法簽入 Intune 服務或 Intune 管理主控台中顯示為 「 Unhealthy 」:** 某些 Samsung 4.4 和 5.5 裝置可能會檢查恢復服務。 有 3 可能的解決方案，此問題：
+ 在**intune 管理主控台中，裝置無法存回 intune 服務或顯示為「不良」：** 有些 Samsung 4.4 和5.5 裝置可能無法存回服務。 此問題有三種可能的解決方案：
   
-1. 以手動方式開啟 Intune 公司入口網站應用程式，將會自動啟動裝置同步處理。
+1. 手動開啟 Intune 公司入口網站應用程式，此應用程式會自動啟動裝置同步處理。
 
-2. 更新裝置 Android 6.0 或更高版本。
+2. 將裝置更新為 Android 6.0 或更高版本。
 
-3. 停用 Samsung 智慧管理員從管理 Intune 公司入口網站。 檢閱[本文件](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console)如需這些問題與解決方法的詳細資訊。
+3. 停用 Samsung Smart Manager 管理 Intune 公司入口網站。 如需這些問題和解決方法的詳細資訊，請參閱[本檔](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console)。
 
- **使用者授權類型不正確**或**使用者名稱無法辨識的錯誤：** 使用者需要已獲得 Intune 或 EMS 授權。 檢閱這些文件以透過將授權指派： Office 系統管理中心或 Azure 入口網站。
+ **使用者授權類型無效**或**使用者名稱無法辨識錯誤：** 使用者必須被指派一個 Intune 或 EMS 授權。 檢查這些檔，以指派授權至： Office 系統管理中心或 Azure 入口網站。
   
-其他資源，可以協助解決您的問題：
+其他可協助您解決問題的資源：
   
-1. 使用[Intune 疑難排解入口網站](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)來診斷和解決常見註冊失敗。 檢閱[本文件](https://docs.microsoft.com/intune/help-desk-operators)如需詳細資訊。
+1. 使用[Intune 疑難排解入口網站](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)來診斷及解決一般註冊失敗。 如需詳細資訊，請參閱[本檔](https://docs.microsoft.com/intune/help-desk-operators)。
 
-2. 檢閱[本文件](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune)的清單中的每個防止註冊和解決方法的常見錯誤。
+2. 請參閱[本檔](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune)，以取得避免每個專案的註冊和解析度的常見錯誤清單。
 
-3. [了解如何註冊 Microsoft Intune 中的 Android 裝置](https://docs.microsoft.com/intune/android-enroll)。
+3. [瞭解如何在 Microsoft Intune 中註冊 Android 裝置](https://docs.microsoft.com/intune/android-enroll)。

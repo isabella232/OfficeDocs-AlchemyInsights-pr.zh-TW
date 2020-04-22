@@ -1,5 +1,5 @@
 ---
-title: 重新命名 onmicrosoft 網域
+title: 重新命名您的 name.onmicrosoft.com17 網域
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 357524491dc26b3a6101eb0d39d1f446aaf052c3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36741212"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720164"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>重新命名您的 onmicrosoft.com 網域
 
- **您無法重新命名後的 onmicrosoft 網域註冊。** 例如，如果您選擇的初始網域*fourthcoffee.onmicrosoft.com*，您無法變更其設為*fabrikam.onmicrosoft.com*。 若要使用不同的 onmicrosoft.com 網域，您必須使用 Office 365 中開始新的訂閱。
+ **您無法在註冊後重新命名 name.onmicrosoft.com17 網域。** 例如，如果您所選擇的初始網域是*fourthcoffee.onmicrosoft.com*，您就無法將它變更為*fabrikam.onmicrosoft.com*。 若要使用不同的 onmicrosoft.com 網域，您必須開始使用 Microsoft 365 的新訂閱。
   
-如果您想要使用的自訂網域，例如*contoso.com* ，您可以[新增一個您擁有](https://docs.microsoft.com/office365/admin/setup/add-domain)或[向 Microsoft 購買](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name)。
+如果您想要使用像是*contoso.com*的自訂網域，您可以[從 Microsoft](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name)[新增您自己](https://docs.microsoft.com/office365/admin/setup/add-domain)的網域，或是購買一個。
   

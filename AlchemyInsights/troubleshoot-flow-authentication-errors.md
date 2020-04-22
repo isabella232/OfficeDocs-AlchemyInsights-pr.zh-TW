@@ -1,32 +1,32 @@
 ---
 title: 疑難排解流程驗證錯誤
-ms.author: kaarins
-author: kaarins
-ms.date: 6/27/2018
+ms.author: pebaum
+author: pebaum
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
-ms.openlocfilehash: e578149e37c86178b98cf6073f6ed6325f42c455
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 70451f074a65a4454faeadd188a31783be8e6c7e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393604"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759719"
 ---
 # <a name="troubleshoot-flow-authentication-errors"></a>疑難排解流程驗證錯誤
 
-在許多情況下，流程因驗證錯誤而失敗。 如果您有這類錯誤，錯誤訊息包含 「 未授權 」，或 401 或 403 錯誤碼出現。 您通常可以藉由更新連線修正驗證錯誤：
+在許多情況下，資料流程會因為驗證錯誤而失敗。 如果您有這種錯誤類型，錯誤訊息會包含「未授權」，或是錯誤代碼401或403出現。 您通常可以透過更新 connection 修正驗證錯誤：
   
-1. 在入口網站頂端，按一下或點選 [開啟 [設定] 功能表中，然後按一下或點選 [**連線**的齒輪圖示。
+1. 在 [網頁入口網站] 的頂端，按一下或點擊齒輪圖示以開啟 [設定] 功能表，然後按一下或點擊 [**連接**]。
     
-2. 捲動到您所看到的未經授權的錯誤訊息的連線。
+2. 向您看到未授權錯誤訊息的連線。
     
-3. 旁連線，按一下或點選 [未驗證連線的相關訊息中的 [**確認密碼**] 連結。 
+3. 在連線旁，按一下或點擊 [**驗證密碼**] 連結（有關未驗證的連線訊息）。 
     
-4. 確認您的認證，會出現，返回您流程隨選即用失敗時，然後按一下或點選 [**重新提交**的指示。
+4. 遵循顯示的指示來驗證您的認證，並回到您的流程執行失敗，然後按一下或點擊 [**重新提交**]。
     
-如需詳細的說明，請參閱 < <b0>Troubleshooting 流程</b0>。
+如需詳細資訊，請參閱[疑難排解流程](https://go.microsoft.com/fwlink/?linkid=872110)。
   
 
