@@ -1,5 +1,5 @@
 ---
-title: SharePoint 移轉效能
+title: SharePoint 移轉效能指引
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+- "3179"
+ms.openlocfilehash: 500406e0f19610fe884df1faf3537aa7cb947e47
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958725"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552706"
 ---
-# <a name="sharepoint-migration-performance"></a>SharePoint 移轉效能
-
-**重要**：在這些前所未有的情況下，我們會採取下列步驟以確保 SharePoint Online 和 OneDrive 服務保持高度可用 – 請造訪 [SharePoint Online 暫時功能調整](https://aka.ms/ODSPAdjustments)以取得詳細資訊。
-
-**移轉效能**
+# <a name="sharepoint-migration-performance-guidance"></a>SharePoint 移轉效能指引
 
 移轉效能可能會受到網路基礎結構、檔案大小、移轉時間和節流的影響。了解這些可協助您規劃並最佳化您的移轉效能。
 
-如需詳細資訊，請瀏覽以下連結。
+如需詳細資訊，請造訪：
 
-- [SharePoint Online 和 ODB 的移轉速度](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [一般移轉效能指引](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [如何避免在 SharePoint Online 中受到節流控制或封鎖](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
