@@ -1,8 +1,8 @@
 ---
-title: 建立共用的信箱時發生的 proxy 位址錯誤
+title: 建立共用信箱時的 Proxy 位址錯誤
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/21/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.custom:
 - "19"
 - "6"
-ms.openlocfilehash: cd3236c71868c2b625de407a9e4f160a8d47ddd1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a02c57da97e76cec1cd3bdcd84b92c73530bdfa1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554179"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767888"
 ---
-# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>建立共用的信箱時發生的 proxy 位址錯誤
+# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>建立共用信箱時的 Proxy 位址錯誤
 
-如果您嘗試建立共用的信箱，且收到此錯誤 「 proxy 位址"SMTP:alias@domain.com 」 已在使用中...」，您所選擇的電子郵件地址是已採取的組織中的另一個信箱。
+如果您嘗試建立共用信箱，且收到此錯誤 "proxy 位址" SMTP:alias@domain.com "已在使用中 ..."，您所選擇的電子郵件地址已由您組織中的另一個信箱所使用。
   
-您要尋找使用者、 群組或共用的信箱時此電子郵件地址，並將它刪除或變更其電子郵件地址。 然後您可以建立共用的信箱已釋放的電子郵件地址。 使用 [在首頁上的 [搜尋] 來尋找。
+您需要找出具有此電子郵件地址的使用者、群組或共用信箱，並將其刪除或變更其電子郵件地址。 然後，您就可以使用已釋放的電子郵件地址來建立共用信箱。 在首頁上使用搜尋來尋找。
   
-如果您不想要刪除現有的電子郵件地址，選擇您的共用信箱的新電子郵件地址。
+如果您不想刪除現有的電子郵件地址，請選擇您共用信箱的新電子郵件地址。
   

@@ -1,9 +1,9 @@
 ---
-title: 對 Intune 原則和設定檔進行疑難排解
+title: 疑難排解 Intune 原則及設定檔
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: fb739d776f5a9a384ecdb948eee4b06daba81e90
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366956"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766659"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>疑難排解 Intune 原則和設定檔
+# <a name="troubleshooting-intune-policy-and-profiles"></a>疑難排解 Intune 原則及設定檔
 
-若要查看現有的原則、疑難排解衝突、審閱記錄資料, 以及查看常見問題和問題, 請參閱下列指南。
+若要查看現有的原則、疑難排解衝突、複查記錄資料，並查看常見問題和問題，下列指南可能有所説明。
 
-- [對 Intune 中的原則和設定檔進行疑難排解](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [在 Intune 中疑難排解原則及設定檔](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-- [使用 Intune 中的裝置原則和設定檔的常見問題、問題及解決方法](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [在 Intune 中使用裝置原則及設定檔的常見問題、問題及解決方法](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [監視裝置設定設定檔, 並在 Intune 中查看衝突](https://docs.microsoft.com/intune/device-profile-monitor)
+- [監視裝置設定檔，並在 Intune 中查看衝突](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [對 Intune 中的裝置合規性和條件式存取進行疑難排解](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [在 Intune 中對裝置規範和條件式存取進行疑難排解](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [監視 Intune 中的合規性原則及查看衝突](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [監視 Intune 中的合規性原則和查看衝突](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [將 Intune 記錄資料傳送至 Azure 儲存區、事件中心或記錄分析](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [將 Intune 記錄資料傳送至 Azure 存放區、事件中心或記錄分析](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-請參閱[設定裝置](https://docs.microsoft.com/intune/device-profiles)或[使用規範原則](https://docs.microsoft.com/intune/device-compliance-get-started)的概述。
+請參閱簡介以[設定裝置](https://docs.microsoft.com/intune/device-profiles)或[使用符合性原則](https://docs.microsoft.com/intune/device-compliance-get-started)。

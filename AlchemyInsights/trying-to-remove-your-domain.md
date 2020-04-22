@@ -2,7 +2,7 @@
 title: 您正試著要移除網域嗎？
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/21/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "28"
 - "9"
-ms.openlocfilehash: a1ea38d29ff31e13fbcee0f18acb5627599a4be6
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 3401b2faaf15867801f8a4c0462e5b43d609e5d2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36742544"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759431"
 ---
 # <a name="trying-to-remove-your-domain"></a>您正試著要移除網域嗎？
 
-若要從 Office 365 中移除您的網域，請遵循本文中的步驟：[移除來自 Office 365 的網域](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
+若要從 Microsoft 移除您的網域，請遵循本文中的步驟：[移除網域](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
   
-您必須更新任何使用者或群組指派給該網域名稱，然後再移除網域。
+移除網域之前，您必須更新指派給該功能變數名稱的任何使用者或群組。
   
-[檢查網域文章](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)其他常用的解決方案。
+如需其他一般解決方案，[請參閱網域文章](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。
   

@@ -3,7 +3,7 @@ title: Outlook.com AdBlock
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: 4f0eb41b63d7654ea793952c7d7eac6e16856310
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a2755867c118f4ced86add738e8de11c7364d25a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538263"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761051"
 ---
 # <a name="adblock"></a>AdBlock
 
-某些使用者目前遇到問題時讀取或撰寫電子郵件時使用 Google Chrome AdBlock 副檔名。 若要解決此問題：
+當使用 Google Chrome 搭配 AdBlock extension 時，有些使用者目前在閱讀或撰寫電子郵件時遇到問題。 若要解決此問題：
 
-1. 使用 [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) 或另一個網頁瀏覽器。
-1. 排除 AdBlock 設定 Outlook.com。在 Google Chrome 右上角，選擇 [ **AdBlock** ，然後選取 [ **不要在這個網域的頁面上執行**。重新整理瀏覽器以重新載入 Outlook.com。
+1. 使用 [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) 或其他網頁瀏覽器。
+1. 從 AdBlock 設定中排除 Outlook.com。在 Google Chrome 的右上角，選取 [ **AdBlock** ]，然後選取 [ **不要在此網域上的頁面上執行**]。重新整理您的瀏覽器，以重新載入 Outlook.com。

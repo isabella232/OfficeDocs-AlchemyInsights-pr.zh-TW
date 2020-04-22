@@ -1,37 +1,37 @@
 ---
-title: 設定您的 O365 商務基本版訂閱
+title: 設定 O365 商務基本版訂閱
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744704"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767780"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>設定您的 O365 商務基本版訂閱
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>設定 O365 商務基本版訂閱
 
-建立 Office 365 帳戶並新增您的網域
+建立 Microsoft 365 帳戶並新增您的網域
   
-- 在此步驟中，您將使用設定精靈來為您的使用者建立 Office 365 帳戶並新增您自己的網域。 精靈可讓您個人化每個人的使用者識別碼和電子郵件為貴公司，例如[rob@contoso.com](mailto:rob@contoso.com)。
+- 在這個步驟中，您會使用設定向導為使用者建立 Microsoft 365 帳戶，並新增您自己的網域。 此嚮導可讓您針對您的公司個人化個人的使用者識別碼和電子郵件，如[rob@contoso.com](mailto:rob@contoso.com)。
     
 - 移至[Microsoft 365 系統管理中心](https://login.partner.microsoftonline.cn/)。
     
-- 若要啟動精靈]，選擇 [**移至 [設定**]。 若要深入了解，請參閱[新增網域至 Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain)。
+- 若要啟動該嚮導，請選擇 [**移至設定**]。 若要深入瞭解，請參閱[Add a domain To Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain)。
     
 匯入電子郵件
   
-- 移動現有的電子郵件和連絡人從其他電子郵件系統到您的 Office 365 信箱這樣您就可以看到它全部在同一個位置。 移轉選項，[移轉電子郵件和連絡人移轉到 Office 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin)。
+- 將現有的電子郵件和連絡人從其他電子郵件系統移至您的 Microsoft 365 信箱，這樣您就可以在一個地方看到所有的電子郵件和連絡人。 若為遷移選項，請[將電子郵件和連絡人遷移至 Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin)。
     
-- 將電子郵件帳戶連接
+- 連接電子郵件帳戶
     
-  - 除了管理您 Outlook 中的 Office 365 電子郵件，您也可以將其他電子郵件帳戶連接至 Outlook，例如 Gmail 和 Yahoo 帳戶。 這可讓您在單一位置集中管理您所有的電子郵件。 您最多可以將 5 個電子郵件帳戶連接至 Outlook。 如需詳細資訊，請參閱[連接 Outlook 網頁 (Office 365) 中的電子郵件帳戶](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d)。 
+  - 除了在 Outlook 中管理電子郵件之外，您還可以將其他電子郵件帳戶連線到 Outlook，例如 Gmail 和 Yahoo 帳戶。 這可讓您在單一位置集中管理您所有的電子郵件。 您最多可以將 5 個電子郵件帳戶連接至 Outlook。 如需詳細資訊，請參閱[Connect Outlook in web （Microsoft 365）中的電子郵件帳戶](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d)。 
     
 安裝商務用 Skype
   
@@ -39,8 +39,8 @@ ms.locfileid: "36744704"
     
 線上儲存檔案
   
-- 若要了解最適合貴公司的儲存位置，請參閱[您可以在 Office 365 中儲存文件的位置](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)。 所有人取得**OneDrive**雲端儲存位置自動時為他們建立 Office 365 帳戶。 有了 OneDrive，您可以透過電腦、手機和平板電腦來存取檔案。 
+- 若要瞭解哪一種儲存位置最適合您的企業，請參閱[您可以在 Microsoft 365 中儲存](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)檔案的位置。 當您為使用者建立 Microsoft 365 帳戶時，任何人都會自動取得**OneDrive**雲端儲存位置。 有了 OneDrive，您可以透過電腦、手機和平板電腦來存取檔案。 
     
-詳細的步驟，安裝程式可以在[本文](https://docs.microsoft.com/office365/admin/setup/setup)中找到。
+您可以在[本文](https://docs.microsoft.com/office365/admin/setup/setup)中找到安裝程式的詳細步驟。
   
 

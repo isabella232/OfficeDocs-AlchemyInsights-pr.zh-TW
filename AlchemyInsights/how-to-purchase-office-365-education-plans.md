@@ -3,7 +3,7 @@ title: 如何購買 Office 365 教育版方案
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,12 +14,12 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 0c949a6e611fadc19340711d7fa9aa19dd602c6f
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: fad1dda39adc5e95ae56d3a4f2e49401052350c4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286233"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763640"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>如何購買 Office 365 教育版方案
 

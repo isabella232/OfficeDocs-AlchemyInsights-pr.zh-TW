@@ -1,5 +1,5 @@
 ---
-title: 終端機伺服器-未經授權上安裝 office
+title: 在終端機伺服器上安裝 office-未授權
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,47 +10,47 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37205400"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763208"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>終端機伺服器上安裝 Office
+# <a name="installing-office-on-a-terminal-server"></a>在終端機伺服器上安裝 Office
 
-部署 Office 365 專業增強版使用遠端桌面服務 (RDS) 的 Windows 伺服器上，以前稱為終端機服務：
+若要在使用遠端桌面服務（RDS）的 Windows Server （以前稱為終端機服務）上部署 Microsoft 365 應用程式，請執行下列步驟：
   
-- 您必須擁有 Office 365 方案包含 Office 365 專業增強版，例如 Office 365 企業版 E3 或企業版 E5。 Office 365 商務版和 Office 365 商務進階版方案並未包含 Office 365 專業增強版。
+- 您必須擁有包含 Microsoft 365 應用程式（如 Office 365 企業版 E3 或企業版 E5）的 Microsoft 365 訂閱。 適用于商務用的 Microsoft 365 應用程式和 Microsoft 365 應用程式特優方案不包含適用于企業的 Microsoft 365 應用程式。
 
-- 您要啟用[共用的電腦啟用](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)。
+- 您需要啟用[共用電腦](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)啟用。
 
-如果您想要安裝 Office 365 專業增強版上從 Microsoft 365 系統管理中心中，***其使用預設安裝的設定***，RDS 使用下列步驟。
+如果您想要在 Microsoft 365 系統管理中心（***使用預設安裝設定***）的 RDS 上安裝 Microsoft 365 應用程式，請使用下列步驟。
 
 > [!TIP]
-> 您也可以下載並執行[Microsoft 支援及修復小幫手](https://aka.ms/SaRA_OfficeSCA_M365Portal)來共用的電腦啟用模式中安裝 Office 365 專業增強版。
+> 您也可以下載並執行[Microsoft 支援及修復](https://aka.ms/SaRA_OfficeSCA_M365Portal)小幫手，以在共用電腦啟用模式中安裝適用于企業的 Microsoft 365 應用程式。
   
-1. 請檢查您有哪些 Office 365 計劃。 [了解如何](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. 檢查您擁有的 Microsoft 365 訂閱。 [瞭解](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. 如果有需要時，切換至不同的 Office 365 計劃。 [了解如何](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. 如有必要，請切換至不同的 Microsoft 365 訂閱。 [瞭解](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. 如果使用任何其他 Office 365 計劃在 RDS 伺服器上已安裝 Office，請將它解除安裝。 例如，可以移至 [控制台]\>解除安裝程式。 解除安裝使用[Microsoft 的支援及修復小幫手](https://aka.ms/SARA-OfficeUninstall-Alchemy)，如果您正在執行發生問題。
+3. 如果已使用任何其他 Microsoft 365 訂閱在 RDS 伺服器上安裝 Office，請將其卸載。 例如，移至 [控制台] 中\>的 [卸載程式]。 如果您正在執行問題，請使用[Microsoft 支援和修復](https://aka.ms/SARA-OfficeUninstall-Alchemy)小幫手卸載。
 
-4. 在 RDS 伺服器上，登入與您的系統管理員帳戶和[安裝 Office 365 專業增強版](https://portal.office.com/OLS/MySoftware.aspx)的 Microsoft 365 系統管理中心。
+4. 在 RDS 伺服器上，使用您的系統管理員帳戶登入 Microsoft 365 系統管理中心，並[安裝適用于企業的 microsoft 365 應用程式](https://portal.office.com/OLS/MySoftware.aspx)。
 
-5. 安裝 Office 之後，***不要開啟或登入***任何 Office 應用程式。
+5. 安裝 Office 後，***請勿開啟或登入***任何 office 應用程式。
 
-6. 在 RDS 伺服器上，啟用共用的電腦啟用編輯登錄遵循下列步驟：
+6. 在 RDS 伺服器上，遵循下列步驟以編輯登錄以啟用共用電腦啟用：
 
-1. 以滑鼠右鍵按一下您的螢幕左上角的 [Windows] 按鈕，選取 [執行]。 在 [開啟] 方塊中，輸入**regedit**，，然後選取 [確定]。
+1. 在螢幕左下角的 [Windows] 按鈕上按一下滑鼠右鍵，然後選取 [執行]。 在 [開啟] 方塊中輸入**regedit**，然後選取 [確定]。
 
-2. 選取 [是] 以允許登錄編輯程式出現提示時若要變更您的裝置。
+2. 當系統提示允許登錄編輯程式對您的裝置進行變更時，請選取 [是]。
 
-3. 在登錄編輯程式中，使用設定為 1 下 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration 新增**SharedComputerLicensing**的字串值。
+3. 在 [登錄編輯程式] 的 [\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.] 底下，新增**SharedComputerLicensing**的設定為 HKEY_LOCAL_MACHINE 1 的字串值。
 
-7. 在 RDS 伺服器上，***以使用者身分登入***並[確認 Office 365 專業增強版已啟用共用的電腦啟用](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)。
+7. 在 RDS 伺服器上，以使用者身分登***入***，並[確認已針對 enterprise 的 Microsoft 365 應用程式啟用共用電腦啟用](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)。
 
-如需必要條件、 安裝指示和指引自訂安裝使用 Office 部署工具的詳細資訊，請參閱[部署 Office 365 專業增強版使用遠端桌面服務](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)。
+如需有關使用 Office 部署工具自訂安裝的必要條件、設定指示和指導方針的詳細資訊，請參閱[使用遠端桌面服務部署適用于企業的 Microsoft 365 應用程式](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)。
   
-若要修正錯誤相關的共用的電腦啟用，請參閱[Office 365 專業增強版的共用的電腦啟用的疑難排解問題](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)。
+若要修正與共享電腦啟用相關的錯誤，請參閱[Microsoft 365 應用程式的共用電腦啟用問題疑難排解](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)。
   

@@ -1,9 +1,9 @@
 ---
-title: 9000238 Outlook.com 別名新增
+title: 9000238 Outlook.com 新增別名
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 48645126925cd5e40fae435c55847501ec1c17d8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36542692"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760943"
 ---
 # <a name="add-an-email-alias-in-outlookcom"></a>在 Outlook.com 中新增電子郵件別名
 
-別名是使用相同的收件匣、 連絡人清單中及帳戶設定為您的主要電子郵件地址的其他電子郵件地址。 您可以選擇其電子郵件地址傳送的郵件，而且您可以使用登入您的 Outlook.com 帳戶任何您別名 — 它們全都使用相同的密碼。
+別名是另一個電子郵件地址，其使用與您的主要電子郵件地址相同的收件匣、連絡人清單和帳戶設定。 您可以選擇要傳送郵件的電子郵件地址，而且您可以使用任何別名登入您的 Outlook.com 帳戶，全部都使用相同的密碼。
 
-若要新增的電子郵件地址：
+若要新增電子郵件地址：
 
-1. 前往 [[新增別名](https://go.microsoft.com/fwlink/p/?linkid=864833)]。 如果系統提示您，登入您的 Microsoft 帳戶。
-2. 在 [**新增別名**] 可以是：
+1. 移至 [[新增別名](https://go.microsoft.com/fwlink/p/?linkid=864833)]。 如有提示，請登入您的 Microsoft 帳戶。
+2. 在 [**新增別名**] 底下，您可以：
     1. 建立新的 Outlook.com 電子郵件地址，並將其新增為別名。
-    2. 新增現有的電子郵件地址的別名。
-3. 選取 [**新增別名**。
+    2. 新增現有的電子郵件地址做為別名。
+3. 選取 [**新增別名**]。
 
-更多有關如何[新增或移除電子郵件別名在 Outlook.com 中的](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)讀取。  
+請參閱如何[在 Outlook.com 中新增或移除電子郵件別名](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)。  
 
-閱讀[如何連接其他電子郵件帳戶](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)到您的 Outlook.com 帳戶。
+閱讀[如何將其他電子郵件帳戶](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)連線到您的 Outlook.com 帳戶。

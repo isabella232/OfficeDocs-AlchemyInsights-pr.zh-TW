@@ -1,9 +1,9 @@
 ---
-title: Outlook 不同步資料夾
+title: Outlook 未同步資料夾
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: 5b256edb711d194584871c8072af9a266479e1bb
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390036"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768680"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook 不同步資料夾
+# <a name="outlook-not-synching-folders"></a>Outlook 未同步資料夾
 
-如果 Outlook 未如預期同步資料夾, 您可以嘗試修正某些事項。
+如果 Outlook 沒有如預期同步資料夾，您可以嘗試修正某些事項。
 
-1. 減少主要或共用信箱中的資料夾數目。 [當快取的 mode .ost 或 .pst 檔案資料夾中有太多的專案或資料夾時, 請參閱 Outlook 效能問題](https://support.microsoft.com/help/2768656)。
+1. 減少主要或共用信箱中的資料夾數目。 [當快取模式 .ost 或 .pst 檔案資料夾中有太多專案或資料夾時，請查看 Outlook 效能問題](https://support.microsoft.com/help/2768656)。
 2. 停用所有共用資料夾的快取。
 3. 將次要 Exchange 信箱的設定變更為設定檔中的第二個 Exchange 帳戶。
 
-如需詳細資訊, 請參閱[當您在 Outlook 中使用次要信箱中的資料夾時, 的效能與同步處理問題](https://support.microsoft.com/help/3115602)。
+如需詳細資訊，請參閱[當您在 Outlook 中處理次要信箱中的資料夾時的效能及同步處理問題](https://support.microsoft.com/help/3115602)。

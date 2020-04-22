@@ -1,9 +1,9 @@
 ---
-title: 兩個不同的租用戶之間移轉信箱
+title: 在兩個不同的承租人間遷移信箱
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2bfce9766552fd55159fb87433ae4ff791c2e814
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734444"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762272"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a>兩個不同的租用戶之間移轉信箱
+# <a name="migrate-mailboxes-between-two-different-tenants"></a>在兩個不同的承租人間遷移信箱
 
-您可能需要之間移轉信箱兩個不同租用戶中 Office 365，例如，組織併購時。 這些移轉應審慎規劃。 請下列指引，參閱：
+您可能需要在兩個不同的承租人間遷移信箱，例如，當組織合併時。 這些遷移應該應該特別周密規劃。 請參閱下列指導方針：
   
-[如何將信箱從一個 Office 365 租用戶移轉到另一個租用戶](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+[如何將信箱從一個租使用者遷移至另一個租使用者](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

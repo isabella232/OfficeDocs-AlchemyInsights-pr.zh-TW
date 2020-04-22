@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 33e94eac6a2982b8036e13d17bf60015f244f2cb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053216"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764863"
 ---
-# <a name="encrypt-email-messages-in-outlook"></a>在 Outlook 中的電子郵件加密
+# <a name="encrypt-email-messages-in-outlook"></a>加密 Outlook 中的電子郵件
 
-Office 365 郵件加密是內建於 Microsoft Azure 版權管理 (Azure RMS)，也就是 Azure 資訊保護的一部分。 如果您的訂閱包含 Azure 版權管理 」 或 「 Azure 資訊保護，**您不需要採取任何動作，以手動啟用或啟動**版權管理服務。
+Microsoft 365 郵件加密是以 Microsoft Azure Rights Management （Azure RMS）為基礎，這是 Azure 資訊保護的一部分。 如果您的訂閱包含 Azure 版權管理或 Azure 資訊保護，**您不需要採取任何動作手動啟用或啟用**Rights Management 服務。
 
-根據客戶意見反應，我們將不再讓 Exchange 郵件流程規則來自動加密預設包含特定類型的租用戶中的敏感資訊的外寄電子郵件。 相反地，我們會提供的詳細的指示上如何可以進行自己。 如需如何建立傳輸規則以加密敏感資訊的其他詳細資訊，請參閱[這篇文章](https://aka.ms/OmeEtr)。
+根據客戶的意見反應，我們將不再啟用 Exchange 郵件流程規則，以預設會在您的租使用者中自動加密包含特定類型敏感資訊的輸出電子郵件。 相反地，我們會提供如何進行此作業的詳細指示。 如需如何建立傳輸規則以加密機密資訊的其他詳細資料，請參閱[本文](https://aka.ms/OmeEtr)。
 
-- 如果使用 Outlook 網頁 (先前稱為**OWA**): 當您在撰寫電子郵件，只要按一下 [在 OWA 中的**保護**。 這將會套用 「 不要轉寄 」 權限。 按一下 [**變更權限**，然後選擇 [僅加密訊息**加密**。
+- 如果使用網頁上的 Outlook （以前稱為**OWA**）：撰寫電子郵件時，只要按一下 OWA 中的 [**保護**] 即可。 這將會套用「不要轉寄」許可權。 按一下 [**變更許可權**]，然後選擇 [**加密**] 以只加密郵件。
 
-- 如果使用**Outlook 用戶端**： 從來傳送加密的郵件 Outlook 2013 或 2016 或 Outlook 2016 for Mac 中，選取 [**選項** > **權限**，然後選取您需要的保護選項。
+- 若使用**outlook 用戶端**：若要從 outlook 2013 或2016（或 outlook 2016 Mac）傳送加密的郵件，請選取 [**選項** > **許可權**]，然後選取所需的保護選項。
 
-- 若要**自動加密所有電子郵件**傳送給特定收件者或外部夥伴組織，您需要在 Exchange 系統管理中心中建立郵件流程傳輸規則。 [支援本文](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities)所提供的詳細的指示。
+- 若要**自動加密所有**傳送給特定收件者或外部夥伴組織的電子郵件，您必須在 Exchange 系統管理中心中建立郵件流程傳輸規則。 [此支援文章](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities)中提供詳細指示。
 

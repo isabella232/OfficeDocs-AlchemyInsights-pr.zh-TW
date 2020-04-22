@@ -1,30 +1,30 @@
 ---
-title: 誰可以取出的檔案？
+title: 誰已取出檔案？
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 4fcf59f7f803f4824bedc38c1a57ff2368367c11
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1f834d972829aa643edd90f7ae2419b402e3a8f5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054873"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765116"
 ---
-# <a name="who-has-a-file-checked-out"></a>誰可以取出的檔案？
+# <a name="who-has-a-file-checked-out"></a>誰已取出檔案？
 
-若要查看誰可以在 SharePoint 中取出的檔案，您可以執行下列步驟之一：
+若要查看在 SharePoint 中取出檔案的使用者，您可以執行下列其中一個步驟：
   
-1. 將滑鼠停留**取出**若要查看工具提示，告知您具有已取出的檔案。 
+1. 將滑鼠停留在**已檢出**的上方，以查看工具提示，告知您已取出檔。 
     
-2. **取出者**將欄新增至文件庫的預設檢視。 如此一來，每個人都可以輕鬆地查看誰已取出的文件。 
+2. 將 [取出**者**] 欄新增至文件庫的預設視圖。 如此一來，每個人都可以輕鬆查看已取出檔的使用者。 
     
-若要了解如何在 SharePoint 中新增取出者欄，請參閱[建立清單或文件庫中的欄](https://go.microsoft.com/fwlink/?linkid=2019591)。 
+若要瞭解如何在 SharePoint 中新增 [取出者] 欄，請參閱[建立清單或文件庫中的欄](https://go.microsoft.com/fwlink/?linkid=2019591)。 
   
-更多經常常見問題解答存回或取出，請參閱[關於取出、 存回的常見問題](https://go.microsoft.com/fwlink/?linkid=2018786)，請參閱。
+查看更多關於存回或取出的常見問題，請參閱[關於取出的主要問題，存回](https://go.microsoft.com/fwlink/?linkid=2018786)。
   
 

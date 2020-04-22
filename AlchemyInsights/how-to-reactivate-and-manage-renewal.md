@@ -3,7 +3,7 @@ title: 如何重新啟用和管理更新
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,34 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383520"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763424"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>如何重新啟用及管理週期性計費
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>如何重新啟用和管理週期性帳單
 
-看起來您的訂閱已過期。 如果您想要重新啟用, 請參閱以下方法。
+您的訂閱似乎已過期。 如果您想要重新啟用它，請參閱操作方法。
   
-1. 在系統管理中心中, 移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面, 或移至 [**帳單** \> **訂閱**]。
+1. 在系統管理中心，移至 [帳單]**** \> [產品與服務][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
 
-2. 選擇已**到期**或**已停用**的訂閱。
+2. 找到您想要重新啟動的訂閱。 在 [**帳單**] 區段中，選取 [**重新**啟用]。
 
-3. 選擇 [**重新**啟用]。
+    如果您沒有看到 [**重新**啟用] 做為選項，請使用「需要協助」按鈕與支援工程師交談，以重新啟用您的訂閱。
 
-    如果您沒有看到 [**重新**啟用] 做為選項, 請使用「讓我們呼叫您」選項與支援工程師交談, 以重新啟用您的訂閱。
+3. 確認您的付款詳細資料。 您可以在這裡更新現有的付款資訊。 當您完成輸入支付方式時，請選取 [**重新**啟用]。
 
-4. 若要重新啟用, 系統會要求您更新付款詳細資料。 輸入您的付款詳細資料, 然後選擇 [**提交**]。
+若要深入了解，請參閱[重新啟動您的訂閱](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription)。 
 
-若要管理每月或每年帳單, 您可以開啟或關閉**週期性帳單**。
+若要管理每月或每年帳單，您可以切換**定期計費**。
   
-1. 在系統管理中心中, 移至 [[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面, 或移至 [**帳單** \> **訂閱**]。
+1. 在系統管理中心，移至 [帳單]**** \> [產品與服務][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
 
-2. 選擇您想要管理週期性帳單的訂閱。
+2. 選擇您想要管理週期性計費的訂閱。
 
-3. 將**週期性帳單**開關切換為 [**開啟**] 或 [**關閉**]。
+3. 在 [**帳單**] 底下的 [**續訂開啟**] 或 [**到期**日] 旁邊，選取 [**編輯**]。
 
-如需詳細資訊, 請參閱:[管理您訂閱的週期性帳單](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)。
-  
+4. 在 [**週期性計費設定**] 窗格中，選取 [**關閉**] 以關閉該功能。 如果已關閉定期計費，請選取 [**每月**] 或 [**一次**] 開啟。
+
+5. 選取 [**提交變更**]。
+
+若要深入了解，請參閱[關閉或開啟週期性計費](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)。
