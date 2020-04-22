@@ -3,7 +3,7 @@ title: 1829-ediscovery-問題
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 96a473093c3de1a75f29f633890e08043f2b29b6
-ms.sourcegitcommit: a340858cfbe1c34b147cffd1b0d4573160200f1d
+ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33544533"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714469"
 ---
 # <a name="ediscovery-issues"></a>eDiscovery 問題
 
-尋找電子文件探索選項嗎？ 使用安全性 & 合規性中心中重新設計的導覽，可能已經移動電子文件探索的選項。  您可以在規範中心根據您嘗試執行動作安全性 & 的下列位置中找到的 eDiscovery 選項：
+尋找 eDiscovery 選項？ 透過安全性 & 規範中心內重新設計導覽，您的 eDiscovery 選項可能已經移走。  您可以根據您要執行的工作，在安全性 & 合規性中心的下列位置中找到 eDiscovery 選項：
 
-- 使用內容搜尋來搜尋您的組織內容以電子郵件、 文件，Skype 商務交談，然後匯出資料-移至**搜尋 > 內容搜尋**
+- 使用內容搜尋來搜尋您的組織中的電子郵件、檔、商務用 Skype 交談中的內容，然後匯出資料-移至**搜尋 > 內容搜尋**
 
-- 建立 eDiscovery 案例搜尋的內容和就地保留的內容的位置移至**eDiscovery > eDiscovery**
+- 建立 eDiscovery 案例以搜尋內容，並將內容位置置於保留狀態-移至**ediscovery > ediscovery**
 
-- 使用新的端對端進階電子文件解決方案，以識別並彼此 custodians、 保存 custodian 資料相關的大小寫、 收集資料並將其新增至檢閱設定，並減少資料量藉由套用至 cull 出不必要的資料分析和專注於項目最相關的大小寫-移至**eDiscovery > 進階電子文件**
+- 使用新的端對端高級 eDiscovery 解決方案來識別及與保管人進行通訊，保留與案例相關的保管人資料，收集資料並將其新增至複查集，並將分析方式套用分析，以挑選出不必要的資料，並將重點放在與案例相關的情況-移至**eDiscovery > Advanced ediscovery** ，以降低資料量。
 
 如需詳細資訊，請參閱：
 
-- [Office 365 中的內容搜尋](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [內容搜尋](https://docs.microsoft.com/office365/securitycompliance/content-search)
 
-- [安全性 & 合規性中心中的 eDiscovery 案例](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+- [安全性 & 規範中心的 eDiscovery 案例](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-- [在 Microsoft 365 進階電子文件方案](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)
+- [Microsoft 365 中的進階電子文件探索解決方案](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)

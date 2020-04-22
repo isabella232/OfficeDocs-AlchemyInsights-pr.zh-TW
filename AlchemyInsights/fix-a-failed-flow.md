@@ -3,7 +3,7 @@ title: 修正失敗的流程
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: d99abced5627599380ba8b1e5e8d7f8d1109a8f2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 465c4e9fe300eecb05b38abe589c8d845dc6e440
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36525198"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714105"
 ---
-# <a name="fix-a-flow-that-failed"></a>修正失敗流程
+# <a name="fix-a-flow-that-failed"></a>修正失敗的流程
 
-1. 移至[Microsoft Flow](https://flow.microsoft.com/)，然後按一下右上角的 [通知] 圖示。 （或是在行動裝置 app 中，選取 [活動] 索引標籤）。選取的流程，以查看其詳細資料失敗。
+1. 移至 [ [Microsoft 流程](https://flow.microsoft.com/)]，然後按一下右上角的 [通知] 圖示。 （或在行動應用程式中，選取 [活動] 索引標籤。）選取無法查看詳細資料的流程。
     
-2. 尋找與紅色的驚嘆號圖示以會看見錯誤訊息流程的步驟。
+2. 找到具有紅色驚嘆號圖示的步驟，以查看流程的錯誤訊息。
     
-3. 根據錯誤訊息中，您應該能夠編輯流程並修正問題。 
+3. 視錯誤訊息而定，您應該可以編輯流程並修正該流程。 
     
-[常見的流程失敗](https://go.microsoft.com/fwlink/?linkid=872110)
+[常見流程失敗](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

@@ -4,29 +4,29 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
-ms.date: 8/7/2019
+ms.date: 04/21/2020
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 2e2bb02b9dbaf7f8ede0b4c5ba8c8f29453309cb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0388f95e2b7815dcbbb6aca200f44e55e9c5724f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054693"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713782"
 ---
-# <a name="modern-site-as-root-site"></a>新式網站作為根網站
+# <a name="modern-site-as-root-site"></a>新式網站為根網站
 
-我們已開始導入可讓您將[交換與新式網站您傳統網站的根網站](https://docs.microsoft.com/sharepoint/modern-root-site)的新功能。 使用[Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)封存原始網站時切換網站與其他網站的位置。 適用於小組網站 （未連線至群組） 及通訊網站。
+我們已開始推出新功能，可讓您將[傳統網站根網站與現代網站交換](https://docs.microsoft.com/sharepoint/modern-root-site)。 使用[SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)在封存原始網站時，將網站的位置交換為另一個網站。 可用於兩個小組網站（未連接至群組）和通訊網站。
 
 >[!Important]
-> 請勿刪除傳統的根網站以建立新式通訊網站。 Microsoft 不支援此。 刪除根網站會使所有的 SharePoint 網站組織中所有使用者，無法存取直到您還原的網站，或在相同的 URL 建立新的網站。 我們將通訊透過訊息中心這項功能。 您應該會開啟在您的租用戶中短時間內的功能。
+> 請勿刪除傳統的根網站來建立新式的通訊網站。 Microsoft 不支援此功能。 刪除根網站會使所有的使用者都無法存取組織中的所有 SharePoint 網站，直到您還原網站或在相同 URL 上建立新網站為止。 我們將透過訊息中心來傳遞這項功能。 您應該會在您的租使用者中立即開啟此功能。
 
-## <a name="known-issues-with-swapping-sites"></a>交換網站的已知的問題
-- 目標網站可能會傳回 「 找不到 」 (HTTP 404) 錯誤的短時間內。
-- 內容必須重新編目要更新的搜尋索引。 並沒有手動步驟是這裡所需，這將會自動完成。
-- 取決於 「 靜態 」 連結 （例如檔案同步處理和 OneNote 檔案） 的任何項目將會需要手動修正。
-- Project Server 網站可能需要驗證，以確保其仍然關聯正確。 
+## <a name="known-issues-with-swapping-sites"></a>交換網站的已知問題
+- 目標網站可能會傳回一小段時間的「找不到」（HTTP 404）錯誤。
+- 內容將需要重新編目更新搜尋索引。 沒有必要手動步驟，這將會自動完成。
+- 任何依存于「靜態」連結的專案（例如，檔案同步處理及 OneNote 檔案）都必須手動修正。
+- 可能需要驗證 Project Server 網站，以確保它們仍然有正確相關聯。 

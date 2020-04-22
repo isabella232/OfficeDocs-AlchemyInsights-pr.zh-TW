@@ -1,5 +1,5 @@
 ---
-title: 購買商務用 Office 365 訂閱
+title: 從免費試用版購買為商務用 Microsoft 365 的訂閱
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218086"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712198"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>購買商務用 Office 365 訂閱
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>從免費試用版購買 Microsoft 365 訂閱
 
-您試用過 Office 365，準備好要購買了。 從您的試用版購買 Office 365 時，您有兩個選項：
+您已嘗試 Microsoft 365，現在您已準備好購買。 從您的試用版購買 Microsoft 365 時，您有兩個選項：
   
  **購買與試用版相同的方案**
   
@@ -35,7 +35,7 @@ ms.locfileid: "43218086"
 
 3. 找到您要購買的訂閱，然後選取 [**購買**]，然後依照步驟取出。
 
-若要深入瞭解，請參閱[從免費試用版購買商務用 Office 365 訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)。
+若要深入瞭解，請參閱[從免費試用版購買 Microsoft 365 for business 訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)。
 
 **疑難排解**
 

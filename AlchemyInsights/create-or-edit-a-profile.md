@@ -1,9 +1,9 @@
 ---
-title: 1800001 建立或編輯設定檔
+title: 1800001建立或編輯設定檔
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7e98c9bd2feb9f36c2f9486e4e31e4882b68f6df
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36515150"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715479"
 ---
 # <a name="create-or-edit-an-outlook-profile"></a>建立或編輯 Outlook 設定檔
 
-若要建立新的 Outlook 設定檔，編輯設定檔，或重新命名設定檔，請使用下列步驟。
+若要建立新的 Outlook 設定檔、編輯設定檔或重新命名設定檔，請使用下列步驟。
   
-1. 在 Outlook 中，選取 [**檔案** \> **帳戶設定** \> **管理設定檔**。
+1. 在 Outlook 中，選取 [**檔** \> **帳戶設定** \> ]**管理設定檔**。
     
-2. 從 [**郵件設定**] 對話方塊中，選取 [**顯示設定檔**]。
+2. 在 [**郵件設定**] 對話方塊中，選取 [**顯示設定檔**]。
     
 3. 執行下列其中一項動作：
     
-  - 若要建立新的設定檔，選取 [**新增]**。
+  - 若要建立新的設定檔，**請選取 [新增]**。
     
-  - 若要編輯或重新命名設定檔，選取 [**屬性**]。
+  - 若要編輯或重新命名設定檔，請選取 [**屬性**]。
     
-如果您遇到問題，建立或編輯 Outlook 設定檔，您可以在受影響的電腦上執行[Outlook 設定檔工具](https://aka.ms/SaRA-OutlookSetupProfile)。 它會執行某些檢查，以及當您準備好將建立的 Outlook 設定檔與您的電子郵件地址。 
+如果您在建立或編輯 Outlook 設定檔時遇到問題，可以在受影響的機器上執行[Outlook 設定檔工具](https://aka.ms/SaRA-OutlookSetupProfile)。 它會執行一些檢查，當您準備就緒時，將會建立具有您電子郵件地址的 Outlook 設定檔。 
   
 

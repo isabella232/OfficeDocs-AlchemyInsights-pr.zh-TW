@@ -14,22 +14,22 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769294"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714761"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>無法安裝或執行 eDiscovery 匯出工具？
 
-如果您不能安裝或執行 Office 365 電子文件探索匯出工具，以下載搜尋結果，請檢查下列事項：
+如果您無法安裝或執行 eDiscovery 匯出工具來下載搜尋結果，請檢查下列事項：
   
-- 您正在使用的電腦必須符合下列先決條件：
+- 您所使用的電腦符合下列先決條件：
 
-  - 32 位元或 64 位元版本的 Windows 7 和更新版本
+  - 32或64位版本的 Windows 7 和更新版本
 
-  - Microsoft.NET Framework 4.7
+  - Microsoft .NET Framework 4。7
 
   - 支援的瀏覽器：
 
@@ -37,13 +37,13 @@ ms.locfileid: "37769294"
 
     或
 
-  - Internet Explorer 10 或更新版本
+  - Internet Explorer 10 和更新版本
 
-    其他瀏覽器，例如 Google Chrome 和 Mozilla Firefox 不受支援。
+    其他瀏覽器（如 Google Chrome 和 Mozilla Firefox）都不受支援。
 
-- 您的組織可以連線到 Azure，也就是在端點**\*。 blob.core.windows.net** （萬用字元代表您匯出工作的唯一識別碼）。
+- 您的組織可以連線到 Azure 中的端點，也就是** \*blob.core.windows.net** （萬用字元代表匯出工作的唯一識別碼）。
 
-- 您要指派 Office 365 安全性中的匯出角色&amp;合規性中心。 根據預設，此角色只被指派給 「 eDiscovery 管理員 」 角色群組。 請參閱[指派 eDiscovery 權限](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)。
+- 您已在 Microsoft 365 安全性&amp;與合規性中心內指派「匯出」角色。 根據預設，此角色只會指派給 eDiscovery 管理員角色群組。 請參閱[指派 eDiscovery 許可權](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)。
 
 如需詳細資訊，請參閱[匯出內容搜尋結果](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。
   

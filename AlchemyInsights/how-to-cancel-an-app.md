@@ -3,7 +3,7 @@ title: 如何取消應用程式
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2eb0e1f521baf1458530f8557f55fdda69d1a23f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36542087"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711298"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>如何取消軟體做為對服務應用程式 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>如何取消軟體即服務應用程式 
 
-1. 在 Microsoft 365 系統管理中心中，以**帳單** > [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上，然後選擇 [**應用程式**] 索引標籤。
+1. 在 Microsoft 365 系統管理中心的 [**帳單** > [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上，選擇 [**應用程式**] 索引標籤。
 
-2. 尋找並選取您想要管理的應用程式。
+2. 尋找並選取您要管理的應用程式。
 
-3. **設定 & 動作**] 下選取 [**取消訂閱**]。
+3. 在 [**設定] & 動作**] 下，選取 [**取消訂閱**]。

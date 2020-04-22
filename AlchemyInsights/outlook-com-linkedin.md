@@ -1,9 +1,9 @@
 ---
-title: 聲稱來自 LinkedIn 的垃圾郵件的問題
+title: 您聲稱來自 LinkedIn 的垃圾郵件發生問題
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: e0c2029ce40e4c105c7a4790f15555f9cd3b1fee
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1cac908edee18c92219a46d24e38f9aed7cb2249
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36536487"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715911"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>聲稱來自 LinkedIn 的垃圾郵件的問題
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>您聲稱來自 LinkedIn 的垃圾郵件發生問題
 
-我們知道部分使用者會收到其所宣稱 LinkedIn 垃圾電子郵件。
+我們知道有些使用者收到垃圾郵件，聲稱來自 LinkedIn。
 
-我們建議使用收件匣規則來篩選這些電子郵件。
+建議使用收件匣規則來篩選這些電子郵件。
 
-如需詳細資訊，請閱讀如何[使用在 Outlook.com 中的收件匣規則](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)。
+如需詳細資訊，請參閱如何[在 Outlook.com 中使用收件匣規則](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)。

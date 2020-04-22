@@ -1,9 +1,9 @@
 ---
-title: 取消您的 Office 365 訂閱？
+title: 取消 Microsoft 365 訂閱？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 58c4de02cf6833b05cc0579e1e9df11226acb298
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2525550ada33d33dddc391cb87080ba9af4a37b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520298"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711478"
 ---
-# <a name="canceling-your-office-365-subscription"></a>取消您的 Office 365 訂閱？
+# <a name="canceling-your-microsoft-365-subscription"></a>取消 Microsoft 365 訂閱？
 
-很抱歉若要查看您移，但以下是您要取消訂閱的選項：
+很抱歉看到您，但您可以選擇取消您的訂閱：
   
-- **根據您的組織資料，我們相信您目前的訂閱是試用版訂閱。不需要明確取消試用訂閱，因為試用版訂閱需要沒有付款，且沒有試用版結束後的沒有義務。**
+- **根據您的組織資料，我們相信您目前的所有訂閱都是試用訂閱。不需要明確取消試用訂閱，因為試用訂閱不需要付款，且試用期之後沒有義務。**
 
-- 若要深入了解取消訂閱，或如需逐步指示，請參閱這篇文章：[取消您的訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- 若要深入瞭解取消訂閱或逐步指示，請參閱本文：[取消您的訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

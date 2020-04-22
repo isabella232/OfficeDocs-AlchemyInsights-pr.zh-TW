@@ -1,8 +1,8 @@
 ---
-title: 監視 OneDrive 和 SharePoint 的使用狀況和活動
+title: 監視 OneDrive 和 SharePoint 使用狀況和活動
 ms.author: pebaum
 author: pebaum
-ms.date: 6/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "865"
 - "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 0eae0f18067d99fdc6bd9a61fcd97b4d690bc946
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 669599f5ab0195a05c290a2e857b60e1ea3165d8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052568"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713745"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>在 OneDrive 和 SharePoint 活動] 和 [使用狀況檢視報告
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>View OneDrive 和 SharePoint 活動和使用狀況的報告
 
-移至[Microsoft 365 系統管理中心中的使用狀況報告] 頁面](https://admin.microsoft.com/AdminPortal/Home)。 在 [**選取報告**] 選擇 [OneDrive 或 SharePoint 的活動] 或 [使用狀況報告]。
+移至[Microsoft 365 系統管理中心中的 [使用狀況報告] 頁面](https://admin.microsoft.com/AdminPortal/Home)。 在 [**選取報告**] 底下，選擇 [OneDrive] 或 [SharePoint 活動或使用狀況報告]。
   
 [OneDrive 報告的詳細資訊](https://go.microsoft.com/fwlink/?linkid=875239)
   
