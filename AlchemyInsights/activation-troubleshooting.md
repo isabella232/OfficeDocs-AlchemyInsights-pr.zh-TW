@@ -1,8 +1,8 @@
 ---
-title: 啟用進行疑難排解
+title: 啟用疑難排解
 ms.author: jillz
 author: jillz
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: a9dfbdd5b8b1dc34eded716ac7162f7188e622df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495562"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676416"
 ---
-# <a name="activation-troubleshooting"></a>啟用進行疑難排解
+# <a name="activation-troubleshooting"></a>啟用疑難排解
 
-在**控制台中** \> **程式和功能**，搜尋 Office。 您應該會看到 Microsoft Office 365 專業增強版或 Microsoft Office 365 商務版。 如果您看到一個以上所列的 Office 版本，請先解除安裝您未使用的版本。
+在 [**控制台** \> ] 的 [**程式和功能**] 中，搜尋 Office。 您應該會看到適用于企業的 Microsoft 365 應用程式或 Microsoft 365 應用程式。 如果您看到列出多個 Office 版本，請解除安裝您不使用的版本。
   
-如果您無法解除安裝成功使用 [控制台]，請使用[支援及修復小幫手](https://aka.ms/SARA-OfficeUninstall-Alchemy)解除安裝您未使用的版本。
+如果您無法使用 [控制台] 順利卸載，請使用[支援與修復](https://aka.ms/SARA-OfficeUninstall-Alchemy)小幫手卸載您未使用的版本。
   
-仍未授權 Office 時，請回到 **[控制台]** ， \> **程式和功能**。 其餘的 Office 安裝上按一下滑鼠右鍵，選取 [ **Modify** ] （或變更），然後選取 [**線上修復**。 線上修復可能需要一段時間。 然後，重新啟動 Office 並登入您的工作或學校帳戶]，如果系統提示。
+如果 Office 仍未獲授權，請回到 [**控制台** \> ] 的 [**程式和功能**]。 以滑鼠右鍵按一下其餘的 Office 安裝，選取 [**修改**（或變更）]，然後選取 [**線上修復**]。 線上修復可能需要一些時間。 然後，如果出現提示，請重新啟動 Office 並使用您的公司或學校帳戶登入。
   
-仍未授權 Office 時，下載並修正啟用問題受影響的電腦上執行 「[啟用疑難排解員](https://aka.ms/SARA-OfficeActivation-Alchemy)。
+如果 Office 仍未獲授權，請下載並執行受影響電腦上的[啟動疑難排解](https://aka.ms/SARA-OfficeActivation-Alchemy)以修正啟用問題。
   
-如需詳細資訊，請參閱：[未授權產品和啟用錯誤 Office 中的](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)。
+如需詳細資訊，請參閱： [Office 中的未經許可產品和啟用錯誤](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)。

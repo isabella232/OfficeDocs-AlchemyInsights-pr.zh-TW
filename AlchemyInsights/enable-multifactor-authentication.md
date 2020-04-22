@@ -2,7 +2,7 @@
 title: 啟用多重要素驗證
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527462"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703453"
 ---
 # <a name="enable-multi-factor-authentication"></a>啟用多重要素驗證
 
-若要啟用 Microsoft 365 系統管理中心中的多重要素驗證：
+若要在 Microsoft 365 系統管理中心啟用多重要素驗證，請執行下列動作：
 
-1. 移至**使用者** \> **作用中使用者**頁面。
+1. 移至 [**使用者** \>作用中**使用者**] 頁面。
     
 2. 在頁面頂端，選取 [**多重要素驗證**]。 
     
-3. 尋找使用者或想要啟用多重要素驗證的使用者。 若要查看所有使用者，您可能需要變更頂端的**多重要素驗證狀態**篩選。
+3. 尋找要啟用多重要素驗證的使用者或使用者。 若要查看所有使用者，您可能需要變更頁首的**Multi-Factor 驗證狀態**篩選。
     
-4. 選取您想要啟用的使用者旁的核取方塊。
+4. 選取您要啟用之使用者旁邊的核取方塊。
     
-5.  權限的使用者資訊] 窗格中，[**快速步驟**，選取 [**啟用**]。 
+5.  在 [右使用者資訊] 窗格中的 [**快速步驟**] 底下，選取 [**啟用**]。 
     
-6. 在 [開啟] 對話方塊方塊中，選取 [**啟用多重要素驗證**。 
+6. 在開啟的對話方塊中，選取 [**啟用多重要素驗證**]。 
     
 

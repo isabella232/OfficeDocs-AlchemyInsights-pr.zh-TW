@@ -10,22 +10,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 18a313ef54d94374b475ebc7f98c8ad62c5b0ee7
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3e703bfb7ac8a1932231e9a6f7bcd942c13cc2e0
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054477"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43641991"
 ---
 # <a name="organization-policy-settings-for-external-users"></a>外部使用者的組織原則設定
 
-當他們嘗試與您組織的外部使用者共用，使用者可能會看到下列警告訊息： 
+當使用者嘗試與您組織的外部使用者共用時，可能會看到下列警告訊息： 
 
-   **貴組織的原則不允許您將與這些使用者共用。移至 [外部共用 Office 365 系統管理中心來啟用它。** 
+   **您組織的原則不允許您與這些使用者共用。移至 Microsoft 365 系統管理中心的 [外部共用] 以啟用它。** 
 
-這通常是第一次嘗試共用與外部使用者，或與新的外部使用者共用時。 如需詳細資訊，請參閱下列文章：
+這通常會在嘗試與外部使用者共用時，或與新的外部使用者共用時出現。 如需詳細資訊，請參閱下列文章：
 
-[貴組織的原則不允許您與這些使用者共用](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+[您的組織的原則不允許與這些使用者共用](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 
 
 

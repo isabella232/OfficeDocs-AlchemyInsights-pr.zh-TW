@@ -1,5 +1,5 @@
 ---
-title: 'CSS: PSTN 圓柱深層連結規則'
+title: CSS： PSTN Pillar 深層連結規則
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2555"
 - "9000675"
-ms.openlocfilehash: 5da1c6f2aa01a0db76167672112f5d98012e73de
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: bd0c6c244a5aff05f475f8310b49cf4ae10180c6
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469189"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655345"
 ---
-# <a name="pstn-calling-with-microsoft-teams"></a>PSTN 通話使用 Microsoft Teams
+# <a name="pstn-calling-with-microsoft-teams"></a>與 Microsoft 團隊的 PSTN 通話
 
-若要了解更多關於電話系統和 PSTN 通話中 Microsoft Teams，請參閱[什麼是 Office 365 中的電話系統？](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)
+若要深入瞭解 Microsoft 小組中的電話系統和 PSTN 通話，請參閱[什麼是 microsoft 365 中的電話系統？](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)

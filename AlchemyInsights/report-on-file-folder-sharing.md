@@ -1,9 +1,9 @@
 ---
-title: 報告檔案和共用 SharePoint 網站中的資料夾
+title: 在 SharePoint 網站中共用檔案和資料夾的報告
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/16/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 8dbad3df0c53a1167d5399efcfd9c0f7a71f928a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627349"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43693153"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>報告檔案和共用 SharePoint 網站中的資料夾
+# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>在 SharePoint 網站中共用檔案和資料夾的報告
 
-您可以建立 CSV 檔案，其中詳細說明每個唯一的檔案、 使用者、 權限及指定的 SharePoint 網站或 OneDrive 文件庫上的連結。 這可協助您了解如何共用正在使用，以及是否使用來賓共用任何檔案或資料夾。
+您可以建立 CSV 檔案，詳述指定 SharePoint 網站或 OneDrive 庫上的每個唯一檔案、使用者、許可權及連結。 這可協助您瞭解如何使用共用，以及是否要與來賓共用任何檔案或資料夾。
 
-如需詳細資訊，[在檔案和資料夾共用 SharePoint 網站中的報表](https://docs.microsoft.com/sharepoint/sharing-reports)。
+如需詳細資訊，請[報告 SharePoint 網站中的檔案與資料夾共用](https://docs.microsoft.com/sharepoint/sharing-reports)。
 
 > [!NOTE]
-> 此功能目前部署至第一版租用戶，並將逐步推行至所有實際執行租用戶。
+> 此功能目前已部署至第一個版本租使用者，並將逐步推出至所有的實際執行承租人。

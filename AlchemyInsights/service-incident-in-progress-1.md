@@ -1,8 +1,8 @@
 ---
-title: 進行中的服務事件
+title: 服務事件正在進行中
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.assetid: 2ed85d10-162f-4e4a-a843-7ad20e00a077
 ms.custom:
 - "121"
 - "1600017"
-ms.openlocfilehash: 60f3f1519a35be77dcb6c31bd2d2f3aa4c2949f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5dd353c68aeda88c9adf3264eecc40f8e84a1f3f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550578"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681779"
 ---
-# <a name="service-incident-in-progress"></a>進行中的服務事件
+# <a name="service-incident-in-progress"></a>服務事件正在進行中
 
-您可能會受到服務事件或建議的目前正在調查。 您可以移至 [[服務健康情況](https://admin.microsoft.com/adminportal/home#/servicehealth)] 頁面上檢查最新狀態。
+您可能會受到目前正在調查的服務事件或建議所影響。 您可以移至 [[服務健康](https://admin.microsoft.com/adminportal/home#/servicehealth)情況] 頁面，檢查最近的狀態。
   
-以方便您使用，您可以找到下此事件的摘要：
+為方便您使用，您可以在下面找到此事件的摘要：
   
-> **事件號碼：**[{} IncidentId](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **事件編號：**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> 影響描述: {ImpactDescription}
+> 影響描述： {ImpactDescription}

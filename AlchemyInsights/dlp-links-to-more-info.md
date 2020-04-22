@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: a171c30d9e58aeafc270e60a5a4fa4cd7db4135f
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 804ed86b45d73d17931c18ee23c7fb120c68723e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977465"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704516"
 ---
 # <a name="information-about-dlp-issues"></a>有關 DLP 問題的資訊
 
@@ -24,7 +24,7 @@ ms.locfileid: "42977465"
 
 **DLP 原則的資訊**
 
-使用 DLP 原則，您可以識別、監視和自動保護 Office 365 中的機密資訊。
+使用 DLP 原則，您可以識別、監視和自動保護所有 Microsoft 365 中的機密資訊。
 
 如需詳細資訊，請流覽下列連結：
 

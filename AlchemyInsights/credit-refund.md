@@ -3,7 +3,7 @@ title: 信用/退款
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/11/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 72b765ddd33d01be03c5dbd44600670fd26e5370
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 717e6e7547c9b60d9ddc490f66bcc4b689bbb2ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389203"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705292"
 ---
 # <a name="creditrefund"></a>信用/退款
 
 **取消**
   
-當取消訂閱，您會收到與信用最終發票付款到期日的下一個帳單日期。 這可能需要 30 天的時間可以接收來自訂閱已取消的日期。
+當您取消訂閱時，您會收到最後一筆帳單日到期的最終發票。 這可能需要30天才能從取消訂閱的日期接收。
   
-**基座變更**
+**座位變更**
   
-當從訂閱中移除授權時上這些授權, 的未使用的時間會套用為下一份帳單上額度。 這可能需要 30 天的時間可以接收來自已授權的日期。
+從訂閱中移除授權時，這些授權中未使用的時間會在下一個帳單上套用為貸項。 這可能需要30天才能從授權移除的日期接收。

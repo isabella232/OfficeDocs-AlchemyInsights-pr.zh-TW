@@ -1,31 +1,31 @@
 ---
-title: 檢視工作流程時，拒絕存取
+title: 在查看工作流程時存取遭到拒絕
 ms.author: pebaum
 author: pebaum
-ms.date: 11/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 1cfda8e08ada05858a28f2bede8c31261f9de351
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: c576bf88225582f2577e0b59506a7482cf9f38d5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050516"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687321"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>檢視工作流程時，拒絕存取
+# <a name="access-denied-when-viewing-a-workflow"></a>在查看工作流程時存取遭到拒絕
 
-如果 SharePoint 群組的成員資格不設為所有人，嘗試將電子郵件傳送至 SharePoint 群組的 SharePoint 2013 工作流程可能會失敗與 「 存取被拒 」 錯誤訊息。
+如果 SharePoint 群組的成員資格未設定為 [所有人]，則 SharePoint 2013 嘗試將電子郵件傳送至 SharePoint 群組的工作流程會失敗，並顯示「拒絕存取」錯誤訊息。
   
  **若要解決此問題，請執行下列步驟：**
   
- 1. 允許所有人都可以查看 SharePoint 群組的成員。
+ 1. 允許所有人查看 SharePoint 群組的成員。
   
- 2. SharePoint 群組移除 [收件者] 或 [副本] 行的電子郵件。
+ 2. 從電子郵件的 [收件者] 或 [抄送] 行中移除 SharePoint 群組。
   
- 3. 明確地將使用者新增至 [收件者] 或 [副本] 行如果無法變更 SharePoint 群組成員資格可見性。
+ 3. 如果無法變更 SharePoint 群組的成員資格可見度，請明確將使用者新增至 [收件者] 或 [副本] 行。
   
-若要檢視的詳細資訊請參閱[HTTP 未經授權至 /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)。
+若要查看更多詳細資料[，請參閱 HTTP 未經授權的/_vti_bin/client.svc/sp.utilities.utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)。
   

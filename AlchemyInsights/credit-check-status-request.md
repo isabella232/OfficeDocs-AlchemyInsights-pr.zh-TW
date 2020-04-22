@@ -3,7 +3,7 @@ title: 信用檢查狀態要求
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: c7489cd4e37cc7a55c0db597aabc96c3a8592d0f
-ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
+ms.openlocfilehash: 73e2faec9593bb0399056b614632a853f189ee65
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43105266"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705328"
 ---
 # <a name="credit-check-status-request"></a>信用檢查狀態要求
 

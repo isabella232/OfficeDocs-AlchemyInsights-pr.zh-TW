@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600351"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43650559"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>舊的 eDiscovery 工具退休
 
@@ -37,7 +37,7 @@ ms.locfileid: "42600351"
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 Advanced eDiscovery 1.0 版](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Advanced eDiscovery v 1。0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **退休的時程表**：
 - 2020年4月1日：您將無法建立新的搜尋和保留，但是您仍然可以自行承擔執行、編輯和刪除現有的搜尋。 Microsoft 支援將不再支援 EAC 中 In-Place eDiscovery & 保留。
@@ -47,7 +47,7 @@ ms.locfileid: "42600351"
 **如需詳細資訊，請參閱**：
 
  - [將舊版 eDiscovery 搜尋和保留遷移至 Microsoft 365 規範中心](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [舊的 eDiscovery 工具退休](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [舊版電子文件探索工具淘汰](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
  - [有關 In-Place eDiscovery 和 In-Place 保留的 FAQs](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 

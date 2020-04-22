@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132602"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703670"
 ---
 # <a name="enable-an-archive-mailbox"></a>啟用封存信箱
 
@@ -25,7 +25,7 @@ Office 365 中的封存信箱（也稱為*線上*封存或*In-Place*封存）為
   
 1. 請移至 [https://protection.office.com](https://protection.office.com)。
 
-2. 使用您的系統管理員帳戶登入 Office 365。
+2. 使用您的系統管理員帳戶登入 Microsoft 365。
 
 3. 在安全性&amp;與合規性中心的左窗格中，選取 [**資訊管理** \>封存 **]。**
 
@@ -51,6 +51,6 @@ Office 365 中的封存信箱（也稱為*線上*封存或*In-Place*封存）為
 
 如需詳細資訊，請參閱：
   
-- [啟用 Office 365 中的封存信箱](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [啟用封存信箱](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [在 Office 365 中設定封存與刪除原則](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [設定封存和刪除原則](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

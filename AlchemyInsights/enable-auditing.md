@@ -1,5 +1,5 @@
 ---
-title: 啟用及搜尋稽核記錄
+title: 啟用和搜尋審核記錄
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,38 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665067"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703634"
 ---
-# <a name="enable-and-search-the-audit-log"></a>啟用及搜尋稽核記錄
+# <a name="enable-and-search-the-audit-log"></a>啟用和搜尋審核記錄
 
-**Office 365**
+**Microsoft 365**
 
-若要搜尋的 Office 365 稽核記錄檔，請遵循[下列步驟](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)。
+若要搜尋 Microsoft 365 的審計記錄檔，請遵循下列[步驟](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)。
 
 **Exchange**
 
-- Exchange 系統管理員活動會依預設稽核。
+- 預設會審核 Exchange 系統管理員活動。
 
-- 在 Office 365 中的預設會啟用信箱稽核。 如需詳細資訊，請參閱[這篇文章](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)。
+- 在 Microsoft 365 中，信箱審核預設為啟用。 如需詳細資訊，請參閱[本文](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)。
 
-- Office 365 群組信箱和 Exchange Online 中的公用資料夾信箱不支援稽核記錄。
+- Exchange Online 中的 Office 365 群組信箱和公用資料夾信箱不支援審核記錄。
 
 **SharePoint 和 OneDrive**
 
-- 沒有任何額外的設定，才能啟用 SharePoint 和 OneDrive 的稽核。
+- 啟用 SharePoint 和 OneDrive 的審計時，不需要進行其他設定。
 
-- SharePoint 和 OneDrive 支援稽核下列類型的活動：
+- SharePoint 和 OneDrive 支援審計下列類型的活動：
 
-    - 檔案、 資料夾和] 頁面上的活動
-    - 共用和存取要求活動
+    - 檔、資料夾及頁面活動
+    - 共用及存取要求活動
     - 網站管理活動
-    - 檔案同步處理活動
+    - 檔同步處理活動
 
-- 如需其他 Office 365 服務中的稽核活動資訊，請參閱[這篇文章中的表格](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities)。
+- 如需其他服務中已審核活動的詳細資訊，請參閱[本文中的表格](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities)。
 
-- 以下有關搜尋稽核記錄檔的常見問題集[常見問題集](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions)清單。
+- 以下是有關搜尋審核記錄檔[常見問題的](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions)常見問題解答清單。

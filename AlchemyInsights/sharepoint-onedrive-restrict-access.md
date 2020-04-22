@@ -1,29 +1,29 @@
 ---
-title: 限制存取 SharePoint 或 OneDrive 中
+title: 在 SharePoint 或 OneDrive 中限制存取權
 ms.author: pebaum
 author: pebaum
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 242388af3ae8887616fc123f24502a8e5ac8dfbe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 39aa8cd6e649eca4a1e196eeb589a825364d0977
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053756"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692756"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>限制存取 SharePoint 或 OneDrive 中
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>在 SharePoint 或 OneDrive 中限制存取權
 
-有許多方式可以限制存取 SharePoint Online/OneDrive 服務。 這些不同的存取限制方法概述如下。 
+有許多方式可以限制存取 SharePoint 線上/OneDrive 服務。 下列列出各種訪問限制方法。 
 
-**權限限制**
+**許可權限制**
 
-在 SharePoint Online 和商務用 OneDrive，我們要限制存取網站、 檔案及資料夾等項目只授與存取這些群組/個人應該具有存取權。
+在 SharePoint Online 和商務 OneDrive 中，我們只會將存取權授與網站、檔案和資料夾等專案的存取權授與應該具有存取權的那些群組/個人。
 
-- [自訂 SharePoint 清單或文件庫的權限](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [自訂 SharePoint 清單或文件庫的許可權](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
 - [自訂 SharePoint 網站權限](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
@@ -31,17 +31,17 @@ ms.locfileid: "40053756"
 
 - [從未受控裝置中控制存取權](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-為 SharePoint 或 Office 365 全域系統管理員，您可以封鎖或限制存取 SharePoint 和 OneDrive 內容來自未受管理的裝置 (這些混合式 AD 加入或相容 Intune 中)。
+做為 SharePoint 或全域系統管理員，您可以封鎖或限制存取未受管理的裝置（即 Intune 中未加入或相容的混合式 AD）中的 SharePoint 和 OneDrive 內容。
 
 **網路位置限制**
 
-身為 IT 系統管理員，您可以控制存取 SharePoint 和 OneDrive 的資源，根據您信任的已定義的網路位置。 這也稱為位置型原則。 如需詳細資訊，請參閱[SharePoint Online 和 OneDrive 資料是根據網路位置控制存取](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+做為 IT 管理員，您可以根據您信任的定義網路位置，控制對 SharePoint 和 OneDrive 資源的存取。 這也稱為位置型原則。 如需詳細資訊，請參閱[以網路位置為基礎的 SharePoint 線上及 OneDrive 資料的控制存取權](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
 **網站鎖定限制** 
 
-在 SharePoint Online 中，您必須鎖定網站集合，因此沒有人有權存取的能力。 這是透過 PowerShell 和[SharePoint Online 管理命令介面](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)使用[Set-sposite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -LockState 屬性設定。
+在 SharePoint Online 中，您可以鎖定網站集合，因此沒有人能夠存取。 這是透過 PowerShell 和使用[Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) LockState 屬性[SharePoint Online 管理命令](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)介面來設定。
 
-**限制使用者只能建立網站或子網站**
+**限制使用者建立網站或子網站**
 
-為 SharePoint 系統管理員或 Office 365 全域系統管理員，您可以讓您的使用者建立及管理自己的 SharePoint 網站，請決定何種網站他們可以建立，並指定網站的位置。 如需詳細資訊，請參閱[在 SharePoint Online 中的管理網站架設](https://docs.microsoft.com/sharepoint/manage-site-creation)
+做為 SharePoint 系統管理員或全域管理員，您可以讓您的使用者建立及管理自己的 SharePoint 網站、決定可以建立的網站類型，並指定網站的位置。 如需詳細資訊，請參閱[在 SharePoint Online 中管理網站建立](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

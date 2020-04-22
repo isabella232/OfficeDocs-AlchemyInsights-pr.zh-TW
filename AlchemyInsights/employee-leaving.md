@@ -1,9 +1,9 @@
 ---
-title: 員工離開
+title: 離開員工
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54b7dc2cceb75b71ad70bcc4e681cff2e68f61be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527822"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703706"
 ---
-# <a name="block-access-to-a-former-employee"></a>封鎖離職員工的存取
+# <a name="block-access-to-a-former-employee"></a>封鎖對離職員工的存取
 
-已離開員工，以及需要來封鎖對 Office 365 的資料與電子郵件存取？ 請執行下列動作。
+是否有員工離開並需要封鎖資料和電子郵件的存取？ 請執行下列動作。
   
-1. 在系統管理中心，移至 [**使用者** \> [作用中使用者](https://go.microsoft.com/fwlink/p/?linkid=834822)頁面。
+1. 在系統管理中心中，移至 [**使用者** \>作用中[使用者](https://go.microsoft.com/fwlink/p/?linkid=834822)] 頁面。
 
-2. 選取您想要封鎖之使用者的名稱。
+2. 選取您要封鎖的使用者名稱。
 
-3. 使用者的名稱下，選取 [**封鎖這位使用者**。
+3. 在使用者的名稱下，選取 [**封鎖此使用者**]。
 
-4. 選擇 [**封鎖登入使用者** \> **儲存變更**。
+4. 選擇 [**封鎖使用者簽署** \> **儲存變更**]。
 
-**附註**： 如部分應用程式可能無法立即登出。 使用本文中的多個動作待：[中移除前任員工從 Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
+**附注**：登出某些應用程式可能不會立即登出。 追蹤本文中的更多動作：[移除離職員工](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

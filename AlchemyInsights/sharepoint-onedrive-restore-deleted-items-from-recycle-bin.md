@@ -1,5 +1,5 @@
 ---
-title: 「 疑難排解遺失的檔案或資料夾
+title: 疑難排解遺失的檔案或資料夾
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 0987be6bed4bdc98d6f0162d333c2797fda6b559
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053828"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692828"
 ---
-# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>疑難排解遺失的檔案或 OneDrive 或 SharePoint 中的資料夾
+# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>疑難排解 OneDrive 或 SharePoint 中遺失的檔案或資料夾
 
-- [檢查網站的資源回收筒](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [檢查網站的回收站](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
 - [還原 SharePoint 網站資源回收筒中的項目](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
@@ -27,19 +27,19 @@ ms.locfileid: "40053828"
 
 **檔案還原功能**
 
-如果您的 OneDrive 或 SharePoint 檔案大量取得刪除、 覆寫、 損毀，或感染惡意程式碼，您可以還原您整個 OneDrive 或 Sharepoint 文件庫至前一次使用的檔案還原功能。
+如果有大量 OneDrive 或 SharePoint 檔案遭到惡意程式碼的刪除、覆寫、損毀或感染，您可以使用 [檔案還原] 功能，將整個 OneDrive 或 Sharepoint 文件庫還原至先前的時間。
 
 - [還原 OneDrive 文件庫](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
-- [還原的文件庫](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+- [還原文件庫](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-**使用稽核記錄或檔案的 [活動] 窗格來檢查檔案的歷程記錄**
+**使用 [審計記錄] 或 [檔案活動] 窗格，檢查檔的記錄**
 
-[檢查稽核報告](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c)</a>由瀏覽[以下](https://protection.office.com/#/unifiedauditlog)
+[Check the audit reports](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) </a>在[這裡](https://protection.office.com/#/unifiedauditlog)流覽以檢查審核報告
 
-使用 [[檔案活動](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0)] 窗格來檢查檔案的歷程記錄。
+使用 [檔案[活動](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0)] 窗格來檢查檔案的記錄。
 
-請檢查您本機電腦上的 OneDrive 同步處理用戶端。  如果您正在同步處理透過 OneDrive 同步處理用戶端電腦上的檔案，請檢查，以確定它具有已正確傳本機同步處理] 資料夾。 請確定您在本機電腦上也檢查資源回收筒。
+檢查您的本機電腦上的 OneDrive 同步處理用戶端。  如果您是透過 OneDrive 同步處理用戶端來同步處理電腦上的檔案，請檢查 [本地同步處理] 資料夾，以確保已正確上傳。 確定您也在本機電腦上檢查回收站。
 
 
 

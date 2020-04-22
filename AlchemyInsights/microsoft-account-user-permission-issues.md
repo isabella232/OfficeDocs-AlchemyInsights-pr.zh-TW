@@ -1,5 +1,5 @@
 ---
-title: 疑難排解問題-目錄中找不到使用者
+title: 疑難排解問題-在目錄中找不到使用者
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 0f1e427801107109e31486a4d300f53084880caf
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3b863c5e9962dd29ca2ed41d113041d74830f615
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054801"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702729"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>疑難排解問題-目錄中找不到使用者
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>疑難排解問題-在目錄中找不到使用者
 
-如果使用者會收到錯誤訊息 「 使用者找不到 」 目錄中，請嘗試再次其中問題類型是使用者不在目錄中。
+如果使用者在目錄中收到錯誤訊息「找不到使用者」，請再試一次問題類型為使用者不在目錄中的地方。
 
-若要疑難排解問題，可以完成下列步驟。
+您可以完成下列步驟以進行問題的疑難排解。
 
-- 確定公認的電子郵件邀請是相同的帳戶是用來以稍後再登入的帳戶。 請確定使用者以接受邀請，並登入網站使用相同的帳戶。 
+- 確定接受的電子郵件邀請的帳戶與以後用於登入的帳戶相同。 請確定使用者使用相同的帳戶來接受邀請並登入網站。 
 
-如需詳細資訊，請參閱[如何管理您的 Microsoft 帳戶的別名</a>來管理 Office 365 登入](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases)。 
+如需詳細資訊，請參閱 how [to 365 manage</a> ](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases)a a a a a a a a a a a a a a 
 
-- 瀏覽至每個網站中的使用者會收到錯誤。 
+- 流覽至使用者收到錯誤的每個網站。 
 
-新增 「 / _layouts/15/people.aspx/membershipgroupid=0 」 （內雙引號） 的網站 URL 的結尾。 
+在網站 URL 的結尾新增 "/_layouts/15/people.aspx/membershipgroupid = 0" （雙引號內）。 
 
-範例： https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0。
+範例： HTTPs://< "contoso" > sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0。
 
 - 從清單中選取使用者。
 
-- 按一下 [從功能區的 [**移除使用者權限**。 
--  將使用者新增回並重新邀請傳送給使用者。
+- 按一下功能區中的 [**移除使用者**權力]。 
+-  新增回使用者，然後將邀請重新傳送給使用者。
 
