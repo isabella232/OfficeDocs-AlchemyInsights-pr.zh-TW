@@ -1,9 +1,9 @@
 ---
-title: 無法建立新的簽章
+title: 無法建立新的簽名
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: a6cfdd6d9329b002d3bc55b6eeff02a25157aa18
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5b7f44b8a629f4781c4d953cc24ccb21c99c333
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519830"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711334"
 ---
-# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a><span data-ttu-id="77067-102">無法新增或在 Outlook 中建立新的簽章</span><span class="sxs-lookup"><span data-stu-id="77067-102">Cannot add or create a new signature in Outlook</span></span>
+# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a><span data-ttu-id="8d7f1-102">無法在 Outlook 中新增或建立新的簽名</span><span class="sxs-lookup"><span data-stu-id="8d7f1-102">Cannot add or create a new signature in Outlook</span></span>
 
-<span data-ttu-id="77067-103">此為已知問題。</span><span class="sxs-lookup"><span data-stu-id="77067-103">This is a known issue.</span></span> <span data-ttu-id="77067-104">我們正在修正此問題，狀態就會更新中[Outlook 會凍結按一下 [簽章] 按鈕](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)。</span><span class="sxs-lookup"><span data-stu-id="77067-104">We're working to fix it and the status will be updated in [Outlook freezes clicking the Signature button](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).</span></span>
+<span data-ttu-id="8d7f1-103">此為已知問題。</span><span class="sxs-lookup"><span data-stu-id="8d7f1-103">This is a known issue.</span></span> <span data-ttu-id="8d7f1-104">我們正在努力修正該問題，Outlook 中的狀態將會在 Outlook 中更新，並[凍結按一下 [](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)簽章] 按鈕。</span><span class="sxs-lookup"><span data-stu-id="8d7f1-104">We're working to fix it and the status will be updated in [Outlook freezes clicking the Signature button](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).</span></span>
 
-<span data-ttu-id="77067-105">若要解決此問題，第一個[嘗試的步驟](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)來解除安裝預先安裝的 Microsoft Office 桌面應用程式。</span><span class="sxs-lookup"><span data-stu-id="77067-105">To work around this issue, first [try the steps](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) to uninstall the pre-installed Microsoft Office Desktop Apps.</span></span> 
+<span data-ttu-id="8d7f1-105">若要解決此問題，請先嘗試卸載預先安裝的 Microsoft Office 桌面應用程式的[步驟](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)。</span><span class="sxs-lookup"><span data-stu-id="8d7f1-105">To work around this issue, first [try the steps](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) to uninstall the pre-installed Microsoft Office Desktop Apps.</span></span> 
 
-<span data-ttu-id="77067-106">如果還是沒有用的受影響的電腦，請嘗試[登錄為基礎的因應措施](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)。</span><span class="sxs-lookup"><span data-stu-id="77067-106">If that doesn’t work for the affected machine, please try the [registry-based workaround](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).</span></span>
+<span data-ttu-id="8d7f1-106">如果不適用於受影響的機器，請嘗試以登錄[為基礎的變通方法](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)。</span><span class="sxs-lookup"><span data-stu-id="8d7f1-106">If that doesn’t work for the affected machine, please try the [registry-based workaround](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).</span></span>
