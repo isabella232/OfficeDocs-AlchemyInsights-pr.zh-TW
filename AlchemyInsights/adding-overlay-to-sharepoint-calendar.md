@@ -1,9 +1,9 @@
 ---
-title: 新增至 SharePoint 行事曆覆疊
+title: 將疊加新增至 SharePoint 行事曆
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 456e05a839ad5182cd91c534cbd13004fb14df83
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122640"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709398"
 ---
-# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a><span data-ttu-id="59a2b-102">新增至 SharePoint 行事曆覆疊</span><span class="sxs-lookup"><span data-stu-id="59a2b-102">Adding an Overlay to a SharePoint calendar</span></span>
+# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a><span data-ttu-id="23f50-102">將疊加新增至 SharePoint 行事曆</span><span class="sxs-lookup"><span data-stu-id="23f50-102">Adding an Overlay to a SharePoint calendar</span></span>
 
-<span data-ttu-id="59a2b-103">SharePoint 行事曆是傳統的清單類型有時會與 Office 365 群組行事曆混淆。</span><span class="sxs-lookup"><span data-stu-id="59a2b-103">SharePoint Calendars are classic list types which are sometimes confused with Office 365 Group Calendars.</span></span>
+<span data-ttu-id="23f50-103">SharePoint 的行事曆是傳統清單類型，有時會與 Office 365 群組行事曆混淆。</span><span class="sxs-lookup"><span data-stu-id="23f50-103">SharePoint Calendars are classic list types which are sometimes confused with Office 365 Group Calendars.</span></span>
  
-<span data-ttu-id="59a2b-104">如果您使用 SharePoint 行事曆上您的網站，您可以覆疊到其建立合併的行事曆檢視上您的 Exchange 行事曆。</span><span class="sxs-lookup"><span data-stu-id="59a2b-104">If you use a SharePoint calendar on your site, you can overlay your own Exchange calendar onto it to create a combined calendar view.</span></span> <span data-ttu-id="59a2b-105">或者，您可以覆疊其他的 SharePoint 行事曆，只要兩個 SharePoint 行事曆位於相同網站集合。</span><span class="sxs-lookup"><span data-stu-id="59a2b-105">Alternatively, you can overlay another SharePoint calendar as long as both SharePoint calendars are in the same site collection.</span></span>
+<span data-ttu-id="23f50-104">如果您在網站上使用 SharePoint 的行事曆，您可以覆迭您自己的 Exchange 行事曆，以建立組合的行事曆視圖。</span><span class="sxs-lookup"><span data-stu-id="23f50-104">If you use a SharePoint calendar on your site, you can overlay your own Exchange calendar onto it to create a combined calendar view.</span></span> <span data-ttu-id="23f50-105">此外，您也可以在相同的網站集合中，將其他 SharePoint 的行事曆疊加，只要這兩 SharePoint 的行事曆都一樣。</span><span class="sxs-lookup"><span data-stu-id="23f50-105">Alternatively, you can overlay another SharePoint calendar as long as both SharePoint calendars are in the same site collection.</span></span>
  
-<span data-ttu-id="59a2b-106">若要新增傳統的 SharePoint 行事曆覆疊，請依照下列[重疊的 SharePoint 行事曆與 Exchange 或 SharePoint 行事曆](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)] 中的步驟。</span><span class="sxs-lookup"><span data-stu-id="59a2b-106">To add an Overlay to a classic SharePoint calendar, follow the steps in [Overlay a SharePoint calendar with a calendar from Exchange or SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).</span></span>
+<span data-ttu-id="23f50-106">若要將覆迭新增至傳統的 SharePoint 行事曆中，請遵循以[Exchange 或 SharePoint 中的行事曆](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)覆迭 SharePoint 行事曆中的步驟。</span><span class="sxs-lookup"><span data-stu-id="23f50-106">To add an Overlay to a classic SharePoint calendar, follow the steps in [Overlay a SharePoint calendar with a calendar from Exchange or SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).</span></span>

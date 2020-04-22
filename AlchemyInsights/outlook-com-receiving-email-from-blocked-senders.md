@@ -1,9 +1,9 @@
 ---
-title: 在 Outlook.com 中接收來自封鎖寄件者的電子郵件
+title: 從 Outlook.com 中的封鎖寄件者接收電子郵件
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,21 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: f827cb6b55aa7ea0eee27b85786c6fced933e621
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 56989e57c590fa8c16dbff493b1de88cc4424f18
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372936"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709326"
 ---
-# <a name="receiving-email-from-blocked-senders"></a><span data-ttu-id="06b99-102">接收來自封鎖寄件者的電子郵件</span><span class="sxs-lookup"><span data-stu-id="06b99-102">Receiving email from blocked senders</span></span>
+# <a name="receiving-email-from-blocked-senders"></a><span data-ttu-id="36c18-102">從封鎖的寄件者接收電子郵件</span><span class="sxs-lookup"><span data-stu-id="36c18-102">Receiving email from blocked senders</span></span>
 
-<span data-ttu-id="06b99-103">如果來自封鎖寄件者的電子郵件仍出現在您的收件匣中, 則寄件者可能會隱藏其實際的電子郵件地址</span><span class="sxs-lookup"><span data-stu-id="06b99-103">If email from a blocked sender still appears in your inbox, the sender might be hiding their real email address.</span></span> <span data-ttu-id="06b99-104">若要檢查寄件者的實際電子郵件地址:</span><span class="sxs-lookup"><span data-stu-id="06b99-104">To check a sender's real email address:</span></span>
+<span data-ttu-id="36c18-103">如果已封鎖寄件者的電子郵件仍會出現在 Outlook.com 收件匣中，寄件者可能會隱藏其實際的電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="36c18-103">If email from a blocked sender still appears in your Outlook.com inbox, the sender might be hiding their real email address.</span></span> <span data-ttu-id="36c18-104">若要檢查寄件者的實際電子郵件地址：</span><span class="sxs-lookup"><span data-stu-id="36c18-104">To check a sender's real email address:</span></span>
   
-1. <span data-ttu-id="06b99-105">選取郵件視窗頂端的三個點, 然後選取 [**查看訊息來源**]。</span><span class="sxs-lookup"><span data-stu-id="06b99-105">Select the three dots at the top of the message window and select **View message source**.</span></span>
-2. <span data-ttu-id="06b99-106">在 [**郵件來源**] 視窗中, 向下滾動直到您找到 [**寄件者**] 欄位。</span><span class="sxs-lookup"><span data-stu-id="06b99-106">In the **Message source** window, scroll down until you find the **From** field.</span></span>
-3. <span data-ttu-id="06b99-107">反白顯示包含在中\< \>的電子郵件地址, 並以滑鼠右鍵按一下以**複製**</span><span class="sxs-lookup"><span data-stu-id="06b99-107">Highlight the email address enclosed within \< \> and right-click to **Copy**</span></span>
-4. <span data-ttu-id="06b99-108">使用您複製的位址來封鎖寄件者。</span><span class="sxs-lookup"><span data-stu-id="06b99-108">Use the address you copied to block the sender.</span></span> <span data-ttu-id="06b99-109">若要瞭解如何封鎖寄件者, 請參閱[在 Outlook.com 中將電子郵件標示為垃圾郵件或封鎖寄件者](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="06b99-109">To learn how to block senders, see [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+1. <span data-ttu-id="36c18-105">選取三個點</span><span class="sxs-lookup"><span data-stu-id="36c18-105">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ <span data-ttu-id="36c18-106">，然後選取 [ **View message source**] （訊息視窗頂端）。</span><span class="sxs-lookup"><span data-stu-id="36c18-106">at the top of the message window and select **View message source**.</span></span>
+2. <span data-ttu-id="36c18-107">在 [**郵件來源**] 視窗中，向下滾動直到找到 [**寄件者**] 欄位。</span><span class="sxs-lookup"><span data-stu-id="36c18-107">In the **Message source** window, scroll down until you find the **From** field.</span></span>
+3. <span data-ttu-id="36c18-108">反白顯示中\< \>所包含的電子郵件地址，並以滑鼠右鍵按一下以**複製**</span><span class="sxs-lookup"><span data-stu-id="36c18-108">Highlight the email address enclosed within \< \> and right-click to **Copy**</span></span>
+4. <span data-ttu-id="36c18-109">使用您複製來封鎖寄件者的位址。</span><span class="sxs-lookup"><span data-stu-id="36c18-109">Use the address you copied to block the sender.</span></span> <span data-ttu-id="36c18-110">若要瞭解如何封鎖寄件者，請參閱將[電子郵件標示為垃圾郵件或封鎖 Outlook.com 中的收件](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)者。</span><span class="sxs-lookup"><span data-stu-id="36c18-110">To learn how to block senders, see [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="06b99-110">如需詳細資訊, 請參閱[在 Outlook.com 中接收來自封鎖寄件者的電子郵件](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="06b99-110">For more information, see [Receiving email from blocked senders in Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="36c18-111">如需詳細資訊，請參閱[從 Outlook.com 中的封鎖寄件者接收電子郵件](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="36c18-111">For more information, see [Receiving email from blocked senders in Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
