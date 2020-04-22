@@ -1,9 +1,9 @@
 ---
-title: 價格看起來不正確？
+title: Price 看起來是否正確？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: d48e28a3166b3b7f55abdd1e25b830c6dbe0ee56
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 7bba6524807f17ddc786319f469bf22b50f4a845
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388483"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666696"
 ---
-# <a name="price-doesnt-look-correct"></a><span data-ttu-id="18760-102">價格看起來不正確？</span><span class="sxs-lookup"><span data-stu-id="18760-102">Price doesn't look correct?</span></span>
+# <a name="price-doesnt-look-correct"></a><span data-ttu-id="27619-102">Price 看起來是否正確？</span><span class="sxs-lookup"><span data-stu-id="27619-102">Price doesn't look correct?</span></span>
 
-<span data-ttu-id="18760-103">如果在帳單上的價格看起來不正確，這可能是因為在更新後的價格變更。</span><span class="sxs-lookup"><span data-stu-id="18760-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="18760-104">如果您不認為這說明問題，請連絡支援工程師使用 「 讓我們撥話給您 」] 選項。</span><span class="sxs-lookup"><span data-stu-id="18760-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="27619-103">如果發票上的價格看起來不正確，這可能是因為更新時的價格變更。</span><span class="sxs-lookup"><span data-stu-id="27619-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="27619-104">如果您不相信這會說明問題，請使用「我們撥打您的電話」選項與支援工程師交談。</span><span class="sxs-lookup"><span data-stu-id="27619-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
