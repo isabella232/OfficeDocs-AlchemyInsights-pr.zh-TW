@@ -1,24 +1,24 @@
 ---
-title: 8000036 變更設定檔 pic/中 Outlook.com 名稱
+title: 8000036 Outlook.com 中的變更設定檔 pic/名稱
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d3e2f8c326bcac939ad7f6eadb8e3d5060620054
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36511334"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719367"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>變更我的設定檔圖片或 Outlook.com 中的名稱
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>在 Outlook.com 中變更我的設定檔圖片或名稱
 
-1. 移至[您的 Microsoft 帳戶的資訊](https://go.microsoft.com/fwlink/p/?linkid=860841)。
-1. 選取 [**編輯名稱**] 或 [**變更圖片**。
+1. 移至[您的 Microsoft 帳戶資訊](https://go.microsoft.com/fwlink/p/?linkid=860841)。
+1. 選取 [**編輯名稱**] 或 [**變更圖片**]。
 
-請讓 24 小時的時間，變更您的設定檔相片或移入效果的名稱。
+請允許長達24小時的時間讓您的設定檔照片或名稱變更生效。

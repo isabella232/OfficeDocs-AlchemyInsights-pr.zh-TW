@@ -2,29 +2,29 @@
 title: 開始使用流程
 ms.author: toresing
 author: tomresing
-ms.date: 5/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
-ms.openlocfilehash: 008f17cd8e266497ad339e79c2095e06d7184d67
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2c248929987ebd01c5b80ca49ab19e4424cde642
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36524186"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720874"
 ---
 # <a name="get-started-with-microsoft-flow"></a>開始使用 Microsoft Flow
 
-Microsoft Flow，您可以進行下列作業：
+透過 Microsoft 流程，您可以：
   
-- 輕鬆地搜尋範本和服務。
+- 輕鬆搜尋範本及服務。
     
-- 選擇 [從最受歡迎的服務]。
+- 選擇最常用的服務。
     
-- 請參閱每個流程的概觀。
+- 請參閱每個流程的概述。
     
-[深入了解 Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=874446)
+[深入瞭解 Microsoft 流程](https://go.microsoft.com/fwlink/?linkid=874446)
   
 
