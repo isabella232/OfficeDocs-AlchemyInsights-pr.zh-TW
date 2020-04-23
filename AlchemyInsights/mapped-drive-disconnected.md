@@ -1,9 +1,9 @@
 ---
-title: 中斷連線的對應磁碟機
+title: 中斷連線的對應磁片磁碟機
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
-ms.openlocfilehash: 16346f2f8edee6a4386f6f324424a86bc5d92b4a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 67179efe497079a28ec2801d4ca1e5feab7ea708
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734840"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762416"
 ---
-# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a><span data-ttu-id="0bb4c-102">中斷連線至網路磁碟機對應的 SharePoint 文件庫</span><span class="sxs-lookup"><span data-stu-id="0bb4c-102">SharePoint libraries mapped to network drives become disconnected</span></span>
+# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a><span data-ttu-id="badfd-102">對應至網路磁碟機的 SharePoint 程式庫遭到中斷連線</span><span class="sxs-lookup"><span data-stu-id="badfd-102">SharePoint libraries mapped to network drives become disconnected</span></span>
 
-<span data-ttu-id="0bb4c-103">網路磁碟機對應的 SharePoint 文件庫是暫時性的。</span><span class="sxs-lookup"><span data-stu-id="0bb4c-103">Mapping a SharePoint document library to a network drive is temporary.</span></span> <span data-ttu-id="0bb4c-104">您有時必須在 Internet Explorer 中開啟的 SharePoint 網站，然後選取 [若要防止工作階段過期**保持登入**。</span><span class="sxs-lookup"><span data-stu-id="0bb4c-104">You must occasionally open the SharePoint site in Internet Explorer and select **Stay signed in** to prevent the session from expiring.</span></span> 
+<span data-ttu-id="badfd-103">將 SharePoint 文件庫對應至網路磁片磁碟機是暫時的。</span><span class="sxs-lookup"><span data-stu-id="badfd-103">Mapping a SharePoint document library to a network drive is temporary.</span></span> <span data-ttu-id="badfd-104">您必須偶爾在 Internet Explorer 中開啟 SharePoint 網站，然後選取 [**保留登入**] 以防止會話過期。</span><span class="sxs-lookup"><span data-stu-id="badfd-104">You must occasionally open the SharePoint site in Internet Explorer and select **Stay signed in** to prevent the session from expiring.</span></span> 
   
-<span data-ttu-id="0bb4c-105">[取得說明設定與疑難排解對應的網路磁碟機](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)。</span><span class="sxs-lookup"><span data-stu-id="0bb4c-105">[Get help configuring and troubleshooting mapped network drives](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).</span></span>
+<span data-ttu-id="badfd-105">[取得有關設定及疑難排解對應網路磁碟機](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)的說明。</span><span class="sxs-lookup"><span data-stu-id="badfd-105">[Get help configuring and troubleshooting mapped network drives](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).</span></span>
   
-<span data-ttu-id="0bb4c-106">若要使用中檔案總管] 中，[同步處理 SharePoint 檔案與新的 OneDrive 同步處理用戶端](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx)包括[檔案隨選](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)文件庫。</span><span class="sxs-lookup"><span data-stu-id="0bb4c-106">To work with a library in File Explorer, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which includes [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="0bb4c-107">存取您在 OneDrive 中的所有檔案，而不使用本機儲存空間。</span><span class="sxs-lookup"><span data-stu-id="0bb4c-107">Access all your files in OneDrive without using local storage space.</span></span>
+<span data-ttu-id="badfd-106">若要在檔案瀏覽器中使用文件庫，請[使用新的 OneDrive 同步用戶端](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx)（包括所[需](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)的檔案）同步處理 SharePoint 檔案。</span><span class="sxs-lookup"><span data-stu-id="badfd-106">To work with a library in File Explorer, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which includes [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="badfd-107">在 OneDrive 中存取所有檔案，而不使用本機儲存空間。</span><span class="sxs-lookup"><span data-stu-id="badfd-107">Access all your files in OneDrive without using local storage space.</span></span>
   
 
