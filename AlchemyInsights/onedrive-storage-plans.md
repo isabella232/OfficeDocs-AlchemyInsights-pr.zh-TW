@@ -18,6 +18,6 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 04/21/2020
 ms.locfileid: "43591477"
 ---
-# <a name="onedrive-storage-plans"></a><span data-ttu-id="489e4-102">OneDrive 儲存空間方案</span><span class="sxs-lookup"><span data-stu-id="489e4-102">OneDrive storage plans</span></span>
+# <a name="onedrive-storage-plans"></a><span data-ttu-id="49274-102">OneDrive 儲存空間方案</span><span class="sxs-lookup"><span data-stu-id="49274-102">OneDrive storage plans</span></span>
 
-<span data-ttu-id="489e4-103">深入了解 OneDrive 儲存空間方案。</span><span class="sxs-lookup"><span data-stu-id="489e4-103">Learn about OneDrive storage plans.</span></span> <span data-ttu-id="489e4-104">[閱讀其他資訊...](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28)</span><span class="sxs-lookup"><span data-stu-id="489e4-104">[Read more](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28).</span></span>
+<span data-ttu-id="49274-103">深入了解 OneDrive 儲存空間方案。</span><span class="sxs-lookup"><span data-stu-id="49274-103">Learn about OneDrive storage plans.</span></span> <span data-ttu-id="49274-104">[閱讀其他資訊](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28)。</span><span class="sxs-lookup"><span data-stu-id="49274-104">[Read more](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28).</span></span>
