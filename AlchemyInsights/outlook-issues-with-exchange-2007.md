@@ -1,24 +1,24 @@
 ---
 ms.author: pebaum
-title: 與 Exchange 2007 的 outlook 問題
+title: Exchange 2007 的 Outlook 問題
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: 1ebcbc27f1a508f56c82c7706be9209c22baa1c6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5fea63cad08955d340a0382145c433bbc48b40ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372803"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743300"
 ---
-# <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>錯誤 「 您將無法接收來自目前的信箱的郵件 」 的方案
-如果您嘗試使用 Outlook 365/2016年與 Exchange 2007 伺服器，您會收到下列錯誤：
+# <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>解決方案錯誤 "您將無法從目前的信箱接收郵件"
+如果您嘗試將 Outlook 365/2016 與 Exchange 2007 伺服器搭配使用，則會收到下列錯誤：
 
-*停駐點，您應該等候安裝 Office 2016。您無法從目前的信箱接收郵件。Outlook 2016 不相容於 Exchange 2007。若要連絡您的信箱提供者或此問題的相關的系統管理員。您試圖使用的資源位於不支援的 Microsoft Exchange 版本。請連絡您的電子郵件系統管理員以取得協助。*
+*Stop，您應該等候安裝 Office 2016。您將無法從目前的信箱接收郵件。Outlook 2016 與 Exchange 2007 不相容。您可能會想要聯繫您的信箱提供者或系統管理員，瞭解此問題。您嘗試使用的資源位於不支援的 Microsoft Exchange 版本。請與您的電子郵件管理員聯繫以取得協助。*
 
-若要使用 Outlook 與 Exchange 2007，您可以安裝 Outlook 2013，如果您從舊版 Outlook 升級。 如需詳細資訊，請參閱[如何執行我重新安裝 Office 2013 的 Office 2016 升級後？](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)
+若要使用 Outlook 與 Exchange 2007，您可以安裝 Outlook 2013 （如果您已從舊版 Outlook 升級）。 如需詳細資訊，請參閱[如何在 office 2016 升級後重新安裝 office 2013？](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)

@@ -1,9 +1,9 @@
 ---
-title: DeflectTransport 規則 929 收件匣規則
+title: deflectTransport 規則的929收件匣規則
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 140cb6e85d0f08393439b023578457998a84dc62
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6b6e64c0332a579e8f6132b08f2f89b15eb4de27
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499575"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724583"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>郵件流程規則 （也稱為傳輸規則）
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>郵件流程規則（又稱為傳輸規則）
 
-- 郵件流程規則的一般概觀：[郵件流程規則 （傳輸規則） 在 [Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
+- 郵件流程規則的一般概況： [Exchange Online 中的郵件流程規則（傳輸規則）](https://technet.microsoft.com/library/jj919238.aspx)
 
-- 設定郵件流程規則：[郵件流程規則程序在 Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
+- 設定郵件流程規則：[郵件流程規則程式在 Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
 
-- 建立、 修改及刪除郵件流程規則：[管理郵件流程規則](https://technet.microsoft.com/library/jj657505.aspx)
+- 建立、修改及刪除郵件流程規則：[管理郵件流程規則](https://technet.microsoft.com/library/jj657505.aspx)
 
-您也可以管理 Exchange Online PowerShell 中的郵件流程規則。 如需詳細資訊，請參閱[Get-transportrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) （檢視）， [New-transportrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) （建立）， [Remove-transportrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) （刪除）、 [Set-transportrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) （修改現有）， [Disable-transportrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) （停用現有），和[Enable-transportrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule)（啟用現有）。
+您也可以在 Exchange Online 中管理郵件流程規則 PowerShell。 如需詳細資訊，請參閱[Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) （view）、 [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) （建立）、 [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) （刪除）、 [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) （修改現有）、 [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) （停用現有）及[Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) （啟用現有）。
 
-其他郵件流程規則指令程式： [Get-transportruleaction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) （清單中可用的動作）、 [Get-transportrulepredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) （清單中可用的條件和例外狀況）、 [Export-transportrulecollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) （匯出規則），以及[Import-transportrulecollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) （匯入規則）。
+其他郵件流程規則指令程式： [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) （列出可用的動作）、 [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) （列出可用條件和例外狀況）、 [Export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) （匯出規則）及[Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) （匯入規則）。
