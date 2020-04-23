@@ -12,12 +12,12 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: cfe884a207490a19325ce059652de158c16dc801
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5af843c2b70b5b2e1aaf82c9f01356546929d840
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704076"
+ms.locfileid: "43788693"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>使用社交安全性號碼的 DLP 問題
 
@@ -25,7 +25,7 @@ ms.locfileid: "43704076"
 
 **主旨 ssn 的 DLP 問題**
 
-當您在 Office 365 中使用敏感資訊類型時，**資料遺失防護（DLP）** 未使用包含**社交安全性號碼（SSN）** 的內容時，是否發生問題？ 如果是的話，請確定您的內容包含 DLP 原則所要的內容所需的資訊。 
+當您在 Microsoft 365 中使用敏感資訊類型時，**資料遺失防護（DLP）** 未使用包含**社交安全性號碼（SSN）** 的內容時，是否發生問題？ 如果是的話，請確定您的內容包含 DLP 原則所要的內容所需的資訊。 
   
 例如，對於設定置信級為85% 的 SSN 原則，會評估下列專案，而且必須偵測到要觸發的規則：
   

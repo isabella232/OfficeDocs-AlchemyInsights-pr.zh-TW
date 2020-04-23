@@ -1,5 +1,5 @@
 ---
-title: 如何進行 Office 365 購買
+title: 如何進行 Microsoft 365 購買
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 19e4a7ffd7f64f744eeba2a7a34390309bfe9bb8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b7436583f6aa8e0fe22c1bff71271a94b3de583c
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759107"
+ms.locfileid: "43787865"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>如何進行 Microsoft 365 購買
 

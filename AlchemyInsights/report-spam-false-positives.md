@@ -1,5 +1,5 @@
 ---
-title: 975 您要向 Microsoft 回報垃圾郵件為誤判嗎？
+title: 975是否要向 Microsoft 報告垃圾郵件：否肯定？
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: a35b7217b28001bbe23fab0d78f855b50c353bc4
-ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
+ms.openlocfilehash: 169d5c276f56f4941de73925e21cc045a65fd0c1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911586"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722693"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>您要向 Microsoft 回報垃圾郵件為誤判嗎？
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>您是否要將垃圾郵件誤報報告給 Microsoft？
 
-身為系統管理員，若要判斷網路釣魚或垃圾郵件已傳遞的原因，最好是提交給 Microsoft[提交檔案總管](https://protection.office.com/reportsubmission)中的範例。 若要讓 easer，您可以允許使用者直接向 Microsoft 報告以透過[報告訊息增益集](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)。
+身為系統管理員，判斷網路釣魚或垃圾郵件傳遞原因的最佳方式是在[提交的瀏覽器](https://protection.office.com/reportsubmission)中將範例送出至 Microsoft。 若要讓它 easer，您可以讓您的使用者透過[報告郵件增益集](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)直接向 Microsoft 報告。
 
-我們建議注意如果您決定[略過 Office 365 垃圾郵件篩選器](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)。
+如果您決定[略過 Microsoft 365 垃圾郵件篩選器](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)，我們建議您注意。
 
-**您知道嗎？**： 您現在可以送出範例直接從[郵件追蹤](https://protection.office.com/messagetrace)和 E5/ATP 計劃 2 客戶可以送出範例從[威脅總管](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)。
+**您知道嗎？**：現在您可以直接從[郵件追蹤](https://protection.office.com/messagetrace)和 E5/ATP 方案2提交範例，客戶可以從[威脅瀏覽器](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)提交範例。

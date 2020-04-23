@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: 4185077215ac3628103286ed58c396088410d868
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 61f2cb4d4d9158d8f9d90cd8a59d5a9ad109eb12
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600303"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789113"
 ---
 # <a name="project-common-issues-and-resolutions"></a>專案常見問題和解決方法
 
@@ -28,6 +28,6 @@ ms.locfileid: "42600303"
 
 3. **在 Project Online 中調整 Project Web App （PWA）效能：** 查看一些最常見的 Project Web App 設定的[效能影響和折衷](https://docs.microsoft.com/projectonline/tune-project-online-performance)。
 
-4. **使用 Project 桌面用戶端連接至 Project Online：** 在您的 Office 365 環境中使用[Project Online 桌面用戶端](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)連接至 Project online。 
+4. **使用 Project 桌面用戶端連接至 Project Online：** 在您的 Microsoft 365 環境中使用[Project Online 桌面用戶端](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)連接至 Project online。 
 
-5. **安裝 Project professional：** [安裝和使用](https://support.office.com/en-us/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US)project Online 訂閱版本的 project professional 和非訂閱版本的 project 2019、2016或2013。
+5. **安裝 Project professional：** [安裝和使用](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281)project Online 訂閱版本的 project professional 和非訂閱版本的 project 2019、2016或2013。

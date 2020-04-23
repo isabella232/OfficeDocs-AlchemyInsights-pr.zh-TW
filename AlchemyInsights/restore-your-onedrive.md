@@ -3,7 +3,7 @@ title: 還原您的 OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
-ms.date: 4/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 2750a91a243543df073b016e41d3332a968123a1
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 395b4356667af463e2a63eb80a8f2ff24e3b2583
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36551658"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758637"
 ---
 # <a name="restore-your-onedrive"></a>還原您的 OneDrive
 
-如果您的 OneDrive 檔案大量取得刪除，overwritted、 損毀，或受到惡意程式碼，您可以還原整個 OneDrive 過去 30 天內的前一個時間。
+如果有大量的 OneDrive 檔案遭到刪除、overwritted、損毀或受到惡意程式碼感染，您可以在過去的30天內，將整個 OneDrive 還原為上一個時間。
   
-1. 移至您在網頁瀏覽器中的 OneDrive。
+1. 移至網頁瀏覽器中的 OneDrive。
     
-2. 按一下右上方，在 [設定] 圖示，然後選取 [**還原您的 OneDrive**。
+2. 按一下右上角的 [設定] 圖示，然後選取 [**還原您的 OneDrive**。
     
-3. 從清單中，選取日期，或選擇 [**自訂日期和時間**。
+3. 從清單中選取日期，或選擇 [**自訂日期和時間**]。
     
-4. 按一下 [**還原**復原您所選取的日期之後的所有活動。 
+4. 按一下 [**還原**]，以復原選取日期之後的所有活動。 
     
-[使用檔案還原的詳細說明](https://go.microsoft.com/fwlink/?linkid=872874)
+[使用檔案還原的更多説明](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

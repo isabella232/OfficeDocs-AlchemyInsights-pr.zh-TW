@@ -1,24 +1,24 @@
 ---
-title: SharePoint 宣告的新功能
-ms.author: kirks
-author: Techwriter40
-ms.date: 9/27/2018
+title: 已宣告 SharePoint 新功能
+ms.author: pebaum
+author: pebaum
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: 00fe45aba6578e576f4cda22be70f5e28d7e64d3
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3ad14c42bdca8984c00d44c222dd242f0e00a9ca
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32374350"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767672"
 ---
-# <a name="sharepoint-new-features-announced"></a>SharePoint 宣告的新功能
+# <a name="sharepoint-new-features-announced"></a>已宣告 SharePoint 新功能
 
-在 Ignite 2018 會議，Microsoft 已宣佈 for SharePoint，包括新式的入口網站、 新的網頁組件、 中樞站台、 新聞] 連結，目標對象的新行動應用程式的可用性與連線的許多增強功能的新功能的新創新Microsoft teams，以及其他...
+在 Ignite 2018 會議中，Microsoft 宣佈推出新的創新 SharePoint，包括新式入口網站的新功能、新的網頁元件、許多對 hub 網站、新聞連結、目標物件的增強功能、新行動應用程式的功能、與小組的連線等等 .。。
   
-如需這些功能的詳細資訊，請參閱部落格文章[SharePoint 中的新創新&amp;Microsoft 365 傳遞電源和簡潔的內容共同作業。](https://go.microsoft.com/fwlink/?linkid=2026502)
+如需這些功能的相關資訊，請參閱博客文章[中的新&amp;革新 SharePoint Microsoft 365 提供的功能和簡潔性以進行內容](https://go.microsoft.com/fwlink/?linkid=2026502)共同作業。
   
-您的組織可以加入具有搶先取得新功能已設定目標發行計劃。 請參閱 <<c0>設定 Office 365 中的標準或已設定目標發行選項。
+您的組織可以加入目標發行計畫，以預先存取新功能。 請參閱[設定 Microsoft 365 中的標準或目標發行選項](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365)。

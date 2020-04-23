@@ -1,9 +1,9 @@
 ---
-title: 在 Outlook 中自動回覆設定
+title: 在 Outlook 中設定 office 自動回復
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/24/2020
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "3514"
 - "9000761"
-ms.openlocfilehash: 9ea7513b141efda3dc60bd871d54b163b48e44f4
-ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
+ms.openlocfilehash: 76f287300f7c5700bab515d4142283d24bd2bcb1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/24/2020
-ms.locfileid: "42260370"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722837"
 ---
-# <a name="set-up-out-of-office-automatic-replies"></a>不在辦公室自動回覆設定
+# <a name="set-up-out-of-office-automatic-replies"></a>設定外出時的自動回復
 
-- [如何在 Office 365 中的使用者信箱上設定自動回覆](https://docs.microsoft.com/exchange/troubleshoot/configure-mailboxes/set-automatic-replies)
-- [傳送自動外出回覆從 Outlook](https://support.office.com/article/9742f476-5348-4f9f-997f-5e208513bd67)
-- [網頁型 Outlook 中傳送 （不在辦公室） 自動回覆](https://support.office.com/article/0c193ab0-b9e1-4058-84be-a5b014242290)
-- [從 Outlook for Mac 傳送不在辦公室自動回覆](https://support.office.com/article/4e07ab75-beda-4f9e-bcdc-44471ebacdee)
+- [如何在 Microsoft 365 中的使用者信箱上設定自動回復](https://docs.microsoft.com/exchange/troubleshoot/configure-mailboxes/set-automatic-replies)
+- [從 Outlook 自動傳送不在辦公室回覆](https://support.office.com/article/9742f476-5348-4f9f-997f-5e208513bd67)
+- [在 Outlook 網頁版中自動傳送 (不在辦公室) 回覆](https://support.office.com/article/0c193ab0-b9e1-4058-84be-a5b014242290)
+- [從 Mac 版 Outlook 自動傳送不在辦公室回覆](https://support.office.com/article/4e07ab75-beda-4f9e-bcdc-44471ebacdee)

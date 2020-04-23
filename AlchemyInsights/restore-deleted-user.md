@@ -1,9 +1,9 @@
 ---
-title: 還原已刪除使用者
+title: 還原已刪除的使用者
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 558ebba836d114a3d04848aae3c0ef598d8ea120
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745064"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784178"
 ---
-# <a name="restore-a-user-in-office-365"></a>還原 Office 365 使用者
+# <a name="restore-a-user"></a>還原使用者
 
-還原使用者在 Office 365 中，使用下列步驟：
+使用下列步驟還原使用者：
   
-1. 移至[使用者\>已刪除的使用者](https://admin.microsoft.com/adminportal/home#/deletedusers)。
+1. 移至[[ \>使用者刪除的使用者](https://admin.microsoft.com/adminportal/home#/deletedusers)]。
 
 2. 選擇使用者，然後選取 [**還原**]。
 
 3. 按照畫面上的說明設定密碼。
 
-4. 按一下 [**傳送電子郵件，並關閉**]，大功告成 ！
+4. 按一下 [**傳送電子郵件並關閉**]，即可完成！
 
-未容易嗎？ 如需詳細資訊和步驟的螢幕擷取畫面，請參閱這篇文章：[還原 Office 365 中的使用者](https://docs.microsoft.com/office365/admin/add-users/restore-user)。 如果您發現您改為需要還原使用者的信箱，請參閱：[刪除或還原使用者信箱在 Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)。
+不是這樣輕鬆？ 如需更多詳細資料和螢幕擷取畫面步驟，請參閱本文：[還原使用者](https://docs.microsoft.com/office365/admin/add-users/restore-user)。 如果您不需要還原使用者的信箱，請參閱：[刪除或還原 Exchange Online 中的使用者信箱](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)。

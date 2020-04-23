@@ -1,9 +1,9 @@
 ---
-title: 移除最後一部內部部署 Exchange 伺服器
+title: 移除最後一個內部部署 Exchange 伺服器
 ms.author: pebaum
 author: pebaum
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "692"
 - "3500010"
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
-ms.openlocfilehash: 8f40c050d7e29c152f982d73e2204a52c350c293
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1cc66e8ca2da1ac8cc4a2f31b92f094307b956f3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552810"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43718191"
 ---
-# <a name="removing-the-last-on-premises-exchange-server"></a>移除最後一部內部部署 Exchange 伺服器
+# <a name="removing-the-last-on-premises-exchange-server"></a>移除最後一個內部部署 Exchange 伺服器
 
-之前先從內部部署組織移除最後一部 Exchange 伺服器，您應該確定您了解要這麼做可協助您決定是否需要該最後一部伺服器的任何其他用途的含意。 如需詳細資訊，請參閱[如何及何時要解除委任內部部署 Exchange 伺服器中的混合式部署](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx)。
+在從您的內部部署組織中移除最後一部 Exchange 伺服器之前，您應該確定瞭解這一點的含義，以協助您決定是否需要該最後一部伺服器做為其他目的。 如需詳細資訊，請參閱[如何以及何時解除委任混合式部署中的內部部署 Exchange 伺服器](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx)。
   

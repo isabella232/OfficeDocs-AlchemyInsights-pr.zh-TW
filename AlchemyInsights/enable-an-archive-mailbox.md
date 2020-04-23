@@ -10,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703670"
+ms.locfileid: "43788657"
 ---
 # <a name="enable-an-archive-mailbox"></a>啟用封存信箱
 
-Office 365 中的封存信箱（也稱為*線上*封存或*In-Place*封存）為使用者提供額外的電子郵件存放區。 使用者可以將專案移動或複製到其封存信箱，系統管理員可以建立可自動將專案移至封存信箱的封存原則。
+Microsoft 365 中的封存信箱（也稱為*線上*封存或*In-Place*封存）為使用者提供額外的電子郵件存放區。 使用者可以將專案移動或複製到其封存信箱，系統管理員可以建立可自動將專案移至封存信箱的封存原則。
   
 以下是建立封存信箱的方式：
   

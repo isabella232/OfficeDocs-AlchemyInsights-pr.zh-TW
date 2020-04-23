@@ -3,7 +3,7 @@ title: SharePoint 大型清單
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 2/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,33 +13,33 @@ ms.custom:
 - "407"
 - "530001"
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: 222ad554de0d94dcfd4e34e9a2c6aa8ab4e6f81f
-ms.sourcegitcommit: d7e1b097d3866782f508527c797426dc56c6ba17
+ms.openlocfilehash: e85686788c60d365a00970e9ffe58e97512894a3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/14/2019
-ms.locfileid: "37488508"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767276"
 ---
-# <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>用來處理大型清單和文件庫的 SharePoint
+# <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>使用 SharePoint 中的大型清單和文件庫
 
-SharePoint 清單與文件庫可以包含最多 30 萬個項目，但是當他們有超過 5000 個項目時，您可能會看到一個清單檢視臨界值的錯誤時您嘗試進行處理。 這個臨界值是以維護服務的效能。 您無法變更。 若要避免此臨界值：
+SharePoint 清單和文件庫最多可以包含30000000個專案，但是當其具有超過5000個專案時，當您嘗試使用這些專案時，可能會看到清單檢視閾值錯誤。 此閾值存在的目的是為了維持服務效能。 您無法對它進行變更。 若要避免達到此臨界值：
 
-**使用新式**
+**使用現代**
 
-檢視顯示許多項目的運作起來最順暢中的新式體驗。 若要避免的錯誤可能會看到傳統經驗中[使用的新式體驗](https://support.office.com/article/66dac24b-4177-4775-bf50-3d267318caa9)。
+顯示許多專案在新式體驗中最適合運作的視圖。 [使用現代化的經驗](https://support.office.com/article/66dac24b-4177-4775-bf50-3d267318caa9)，避免您在傳統體驗中所看到的錯誤。
 
 **新增索引**
 
-當您篩選或排序都不會有索引欄中，您可能會看到一則錯誤訊息。 以手動方式從 [**清單設定**在 [設定] 功能表，然後**編製索引的資料行**中[新增的索引](https://support.office.com/article/f3f00554-b7dc-44d1-a2ed-d477eac463b0)。
+當您以沒有索引的資料行篩選或排序時，可能會看到錯誤訊息。 從 [設定] 功能表中的 [**清單設定**] 手動[新增索引](https://support.office.com/article/f3f00554-b7dc-44d1-a2ed-d477eac463b0)，然後再以**索引欄**。
 
-**編輯清單檢視**
+**編輯清單視圖**
 
-如果使用大型清單，[編輯清單檢視](https://support.office.com/article/15916903-e79a-423f-b4e2-02d37e1ff372)時，就會發生錯誤。
+如果使用大型清單時發生錯誤，請[編輯清單視圖](https://support.office.com/article/15916903-e79a-423f-b4e2-02d37e1ff372)。
 
-下列四個變更將會移除清單檢視臨界值錯誤。 變更所有四個要移除所有錯誤。 如果您仍會發生錯誤，請檢查[管理大型清單和文件庫](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59)。
+下列四項變更將會移除清單視圖臨界值錯誤。 進行四個變更，以移除所有的錯誤。 如果仍有錯誤，請參閱[管理大型清單和文件庫](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59)。
 
-1. 選取 [**無]** **先依欄排序**和**然後依欄排序**。
-2. 選取 [**無]** 從**依欄的第一個群組**，**然後依欄群組**。
-3. 選取 [**無]** 的 [**總計**] 區段中的所有欄。
-4. 取消選取所有但一欄，從 [**欄**] 區段中的顯示。
+1. 從**欄的第一個排序選取 [** **無**]，**然後依資料行排序**。
+2. 從**第一個群組**中選取 [**無**]，**然後按該列進行群組**。
+3. 選取 [**總計**] 區段中所有欄的 [**無**]。
+4. 取消選取 [**欄**] 區段中的 [所有] （顯示一欄）。
 
