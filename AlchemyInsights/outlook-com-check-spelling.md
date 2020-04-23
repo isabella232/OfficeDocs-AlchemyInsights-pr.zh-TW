@@ -1,9 +1,9 @@
 ---
-title: 在 Outlook.com 中的拼字檢查
+title: 在 Outlook.com 中檢查拼寫
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "213"
 - "8000007"
 ms.assetid: 7f2a5cfc-c555-4325-927e-7f3c7c884200
-ms.openlocfilehash: 9b581ccc1d0ca50dfb635aa3b9a2a2bb3339c6a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a6d1706990e9989b13a1a9fb48bb78b56ae6856a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547014"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760583"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>使用您的瀏覽器進行拼字檢查
+# <a name="use-your-browser-to-check-spelling"></a>使用瀏覽器檢查拼寫
 
-雖然 Outlook.com 沒有拼字檢查函數，許多網頁瀏覽器自動檢查拼字，包括 Microsoft Edge、 Internet Explorer 10 及更新版本、 和 Firefox、 Chrome 和 Safari 的目前版本。 請檢查您的網頁瀏覽器，若要深入了解如何進行拼字檢查的選項。
+雖然 Outlook.com 沒有拼寫檢查功能，但許多網頁瀏覽器都會自動檢查您的拼寫，包括 Microsoft Edge、Internet Explorer 10 和更新版本，以及目前的 Firefox、Chrome 和 Safari 版本。 請檢查網頁瀏覽器的選項，以深入瞭解如何檢查拼寫。

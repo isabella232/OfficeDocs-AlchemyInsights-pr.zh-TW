@@ -1,5 +1,5 @@
 ---
-title: 確認您的網域與 Dreamhost
+title: 使用 Dreamhost 驗證您的網域
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: b7e8c1fe631e8057ae77cb4d0b7826bd887bac56
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: c6ebac44d800483bfb03fe5997dfb17844ac2f15
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42325970"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766232"
 ---
-# <a name="verify-your-domain-with-dreamhost"></a>確認您的網域與 Dreamhost
+# <a name="verify-your-domain-with-dreamhost"></a>使用 Dreamhost 驗證您的網域
 
-若要確認您的網域，您需要將 TXT 記錄新增至您的網域註冊機構，若要確認您擁有該網域。 
+若要驗證您的網域，您必須將 TXT 記錄新增至您的網域註冊機構，以確認您擁有您的網域。 
 
-首先，請遵循[新增網域] 精靈中](https://portal.office.com/adminportal/home#/Domains)選取**設定**\>的**網域**]，然後按一下 [**新增網域]**。
+首先，請選取 [**設定** \> **網域**]，然後再**新增網域**，遵循 [[新增網域] 嚮導](https://portal.office.com/adminportal/home#/Domains)。
   
-如需逐步指示，請參閱[在 Office 365 Dreamhost 建立 DNS 記錄](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost)。
+如需逐步指示，請參閱[在 Dreamhost 為 Microsoft 365 建立 DNS 記錄](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost)。

@@ -3,37 +3,37 @@ title: Outlook.com 設定
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 71e5fd3ed79619425bb797d70b1c0d872063365d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053252"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743552"
 ---
-# <a name="settings-in-outlookcom"></a>在 Outlook.com 中的設定
+# <a name="settings-in-outlookcom"></a>Outlook.com 中的設定
 
-如果收件者是組織內部或外部，而且如果他們使用 Office 365 或 Outlook.com 電子郵件帳戶，下列用戶端不應該進行特別開啟的郵件： **Outlook 2016、 在網頁型 Outlook / Outlook Web App、 Outlook 行動裝置 app**
+如果收件者是組織內部或外部的收件者，而且他們使用的是 Office 365 或 Outlook.com 電子郵件帳戶，則下列用戶端不應該執行任何特殊的動作來開啟郵件： **outlook 2016，outlook 網頁版/Outlook Web app，outlook mobile App**
 
-**委派**的受保護的電子郵件的使用者已傳送至，無法開啟受保護的郵件。 只有原始收件者 （人員保護電子郵件已傳送至） 可以檢視電子郵件中的資訊。
+已傳送受保護電子郵件的使用者**代理人**，無法開啟受保護的郵件。 只有原始收件者（已傳送受保護電子郵件的人員）可以在電子郵件中查看資訊。
 
-- 如果收件者位於不同的網際網路服務提供者，它們是&nbsp;無法開啟的郵件，請參閱 'rpmsg' 附件，請遵循下列指示：
+- 如果收件者位於不同的網際網路服務提供者，而且&nbsp;他們無法開啟郵件並看到 ' rpmsg ' 附件，請遵循下列指示：
     
-    - 選取 [**讀取**訊息]。
+    - 選取 [**讀取**郵件]。
     
-    - 他們會重新導向至其中他們應該選取 [**使用一次性密碼登入**的頁面。
+    - 它們會重新導向至應該選取 [以**單一時間密碼登入**] 的頁面。
     
-    - 單一使用密碼會傳送至相同的電子郵件地址。 在瀏覽器視窗中，輸入程式碼，然後選取 [**繼續**]，以讀取您的郵件。
+    - 單一使用密碼會傳送至相同的電子郵件地址。 在瀏覽器視窗中輸入程式碼，然後選取 [**繼續**] 讀取您的郵件。
 
-- 如果您無法加密的郵件從另一個 Office 365 組織，請遵循本[文章](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)中所指定的解決步驟執行。
+- 如果您無法從其他組織加密郵件，請遵循[本文](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)中所指定的解決步驟。
 
-- 如果收件者的信箱處於**Yahoo 或 Gmail**，請遵循指示</span>此[文章](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)中找到。
+- 如果收件者信箱位於**Yahoo 或 Gmail**上，請依照</span> [本文](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)中的指示進行。
 
-- 保護原則僅適用於[已知的檔案格式](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)。 OneDrive 商務的附件不受支援的加密。
+- 保護原則只適用于[已知的檔案格式](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)。 OneDrive 商務附件不支援加密。
 
-- 共用信箱**無法開啟加密的郵件目前透過任何用戶端**。 
+- 共用信箱**無法在目前的任何用戶端開啟加密郵件**。 

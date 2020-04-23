@@ -1,9 +1,9 @@
 ---
-title: 使用檔案總管中開啟的問題進行疑難排解
+title: 使用 [以瀏覽器開啟] 疑難排解問題
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/10/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 03bb3ad01a716390ec50845b29ddf6cc81a83116
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cb26876d93a110b3b0addd7821206215c783f959
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390598"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759683"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>修正問題的檔案總管中開啟
+# <a name="fix-problems-with-open-with-explorer"></a>修正使用 Explorer 開啟的問題
 
-修正在 SharePoint 或 OneDrive 使用**檔案總管中開啟**的命令中開啟的文件庫的一般問題： 
+修正使用 [**使用 [使用 [開啟] 瀏覽器**命令在 SharePoint 或 OneDrive 中開啟文件庫時發生的常見問題： 
   
-- 使用 Internet Explorer 10 或 Internet Explorer 11。 **檔案總管中開啟**不是與 Microsoft Edge、 Google Chrome、 Firefox 和其他相容。 **檔案總管中開啟**已停用 Internet Explorer 以外的所有瀏覽器中。 
+- 使用 Internet Explorer 10 或 Internet Explorer 11。 **使用 Explorer 開啟**與 Microsoft Edge、Google Chrome、Firefox 及其他使用者不相容。 在 Internet Explorer 以外的所有瀏覽器中停**用 Explorer 開啟**。 
     
-- **開啟檔案總管**中沒有 SharePoint 文件庫的新式體驗。 改為使用**中檔案總管] 檢視**。 選取 [**檢視選項** \> **檔案總管] 中的檢視**。 在檔案總管] 中的檢視不是與 Microsoft Edge、 Google Chrome、 Firefox 和其他相容。 在 [**檔案總管] 中的檢視**只能在 Internet Explorer 中使用。 
+- 在 SharePoint 文件庫的現代體驗中，無法使用**Explorer 開啟**。 請改**為在檔案資源管理器中使用 View** 。 選取檔案**瀏覽器中的**[ **view options** \> view]。 檔案瀏覽器中的視圖與 Microsoft Edge、Google Chrome、Firefox 及其他使用者不相容。 僅能在 Internet Explorer 中**查看檔案資源管理器**中的。 
     
-- 請確定 WebClient 服務正在執行。 在 [Windows 搜尋方塊中，輸入執行，請選取執行桌面應用程式，輸入 services.msc，，然後按 Enter 鍵。 捲動至 WebClient 服務，並確定 [**狀態**] 欄會顯示 「 執行 」。 如果沒有，按兩下 [服務] 按一下 [**開始**]，然後按一下 [**確定]**。 （您可能需要先選取 [**啟動類型**] 方塊中的 [**手動**] 或 [**自動**啟用服務）。 
+- 請確定 WebClient 服務正在執行中。 在 [Windows 搜尋] 方塊中，輸入 run，選取 [執行桌面應用程式]，輸入 services.msc，然後按 Enter。 向中向左下到 WebClient 服務，確定 [**狀態**] 欄顯示 "執行]。 如果不是，請按兩下服務，按一下 [**開始**]，然後按一下 **[確定]**。 （您可能需要先在 [**啟動類型**] 方塊中選取 [**手動**] 或 [**自動**]，以啟用服務。） 
     
 > [!NOTE]
-> 在檔案總管中開啟文件庫很方便如果您要複製或移動多個檔案和資料夾之後，但如果您想要定期處理程式庫中，建議您同步處理它。 若要疑難排解在檔案總管中開啟的問題，請參閱[在檔案總管中開啟](https://go.microsoft.com/fwlink/?linkid=871665)。 如需設定同步處理的資訊，請參閱 <<c0>同步處理 SharePoint 檔案與新的 OneDrive 同步處理用戶端。
+> 如果您只需要複製或移動多個檔案和資料夾一次，但是如果您想要在文件庫中經常運作，建議您將程式庫在檔案瀏覽器中開啟。 若要疑難排解在檔案瀏覽器中開啟的問題，請參閱[在瀏覽器中開啟](https://go.microsoft.com/fwlink/?linkid=871665)。 如需設定同步處理的詳細資訊，請參閱[sync SharePoint files with new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=871666)。
   
-請參閱如需詳細資訊的文章[如何使用 「 開啟與檔案總管 」 命令，以在 SharePoint Online 中的問題進行疑難排解](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)。 
+如需詳細資訊，請參閱[如何使用「開啟 With Explorer」命令來疑難排解 SharePoint Online 中的問題](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)。 
   
 

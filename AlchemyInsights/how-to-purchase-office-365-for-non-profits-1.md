@@ -1,9 +1,9 @@
 ---
-title: 如何為非利潤購買 Office 365
+title: 如何購買 Office 365 以取得非盈利
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 930c64aab2278471776f2530bf93892b4afb1f67
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 83eb3cb797ebb7c0e2c3ce0e9449390e71d05341
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390863"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763568"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>如何為非利潤購買 Office 365
+# <a name="how-to-purchase-office-365-for-non-profits"></a>如何購買 Office 365 以取得非盈利
 
-已核准 Microsoft 完整非營利組織的狀態。 若要購買：
+您的狀態為 Microsoft 合格的非盈利性組織，已獲核准。 購買方法如下：
   
-1. 在 [系統管理中心中，移至**帳單** \> [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)] 頁面。
+1. 在系統管理中心中，移至 [**帳單** \> [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)] 頁面。
 
-2. 選擇 [從清單中，於**非利潤計劃**。
+2. 從 [**非盈利計畫**] 下的清單中選擇。
 
-3. 將滑鼠停留您想要購買的訂閱，然後選擇 [**立即購買]**。
+3. 將游標移至您要購買的訂閱，然後選擇 [**立即購買**]。

@@ -1,9 +1,9 @@
 ---
-title: 工作流程電子郵件就不會被傳送
+title: 未傳送工作流程電子郵件
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 76b64323c9d34d49e9c6bd77c2cc7eff6d7c5402
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 391d3a2dcc2676a405065115f375c802d2492119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049364"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766124"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>工作流程電子郵件就不會被傳送 SharePoint 清單或文件庫
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>未傳送 SharePoint 清單或文件庫的工作流程電子郵件
 
-1. 從工作流程的電子郵件並不會傳送給所有使用者或只有特定使用者，或您會看到錯誤**電子郵件無法傳送。請確定該電子郵件具有有效收件者**。
+1. 來自工作流程的電子郵件不會傳送給所有使用者或只傳送給特定使用者，否則您會看到錯誤**電子郵件無法傳送。請確定電子郵件具有有效的收件**者。
 
-    檢查使用者存在於該網站集合的**所有人員**的權限群組 （使用者資訊清單）。  範例直接 URL: https://<tenant>.sharepoint.com/sites/<sitename>/_layouts/15/people.aspx 嗎？MembershipGroupId = 0
+    檢查該使用者是否存在於該網站集合的 [**所有人員**許可權群組（使用者資訊] 清單中）。  URL: sharepoint.com/sites/<sitename>/_layouts<tenant>/15/people.aspx 的範例 direct？MembershipGroupId = 0
 
-    - 如果使用者不存在，請確定使用者登入] 頁面。 
-    - 如果是外部使用者，請確定已經接受其邀請。
-    - 如果使用者的權限] 群組中存在，請務必電子郵件地址正確無誤。
-    - 如果使用者電子郵件地址不在此設定，然後建立該使用者可從的 SharePoint 使用者設定檔會強制使用者帳戶同步處理至這個網站集合的範例警示。
+    - 如果使用者不存在，請確定使用者已登入頁面。 
+    - 如果是外部使用者，請確定已接受其邀請。
+    - 如果使用者確實存在於許可權群組中，請確定電子郵件地址正確無誤。
+    - 若未在這裡設定使用者的電子郵件地址，則會為該使用者建立範例警示，以強制將該使用者帳戶從 SharePoint 的使用者設定檔同步處理至此網站集合。
  
-2. 從工作流程的電子郵件傳送給網站集合管理員，但未提供給其他使用者，並查看錯誤**HTTP 禁止<span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**。
+2. 來自工作流程的電子郵件會傳送給網站集合管理員，但不會傳送給其他使用者，也不會查看錯誤**HTTP 禁止訪問<span>HTTPs：</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.sendemail**。
  
 
-    請參閱[「 拒絕存取 」 時您電子郵件傳送至 SharePoint 群組](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups)。
+    [當您傳送電子郵件給 SharePoint 群組時，](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups)請參閱「拒絕存取」。
 
-    此外，確認**限制存取使用者的權限鎖定模式**網站集合功能為非作用中。
+    此外，請確認「**限制存取使用者許可權鎖定模式**」網站集合功能未作用中。
 
 
 ## <a name="related-topics"></a>相關主題
-想要在 SharePoint Online 中的 Microsoft Flow？
+想要在 SharePoint Online 中試用 Microsoft 流程嗎？
 - [建立流程](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint 和流程](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 

@@ -1,9 +1,9 @@
 ---
-title: 疑難排解詐騙偵測安全提示檢查
+title: 疑難排解欺詐偵測檢查的安全性秘訣
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,21 +13,21 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 7ce8bcc7caefebf51fc8d9622367fd16405deef1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 61159391f7a9876750cd7fefc40c54054fb9bec9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533152"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759503"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>疑難排解詐騙偵測安全提示檢查
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>疑難排解欺詐偵測檢查的安全性秘訣
 
-如果您是取得安全提示會說 「 寄件者失敗我們詐騙偵測檢查的而且可能看起來會是誰，「 再寄件者無法通過 SPF 或 DKIM 驗證檢查。 若要解決此問題的最佳方法是寄件者授權本身。 如果寄件者代表您傳送，您需要將其授權透過將寄件者的 IP 位址新增至您的 SPF 記錄。
+如果您取得的安全性提示是「寄件者未通過我們的欺詐偵測檢查，而且可能不是誰似乎是」，表示寄件者無法傳遞 DKIM 或 SPF 驗證檢查。 解決此問題的最佳方法是讓寄件者自行授權。 如果寄件者是代表您傳送，您必須將寄件者的 IP 位址新增至您的 SPF 記錄，以授權這些寄件者。
   
-如需詳細資訊，請參閱[疑難排解詐騙偵測紅色 （可疑） 的安全提示檢查](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/)。
+請參閱[疑難排解紅色（可疑）安全性秘訣，以取得欺詐偵測檢查](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/)的詳細資訊。
   
 以下是一些可協助的連結：
   
-- [Office 365 如何使用寄件者原則架構 (SPF) 來防範詐騙](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- [Microsoft 如何使用寄件者原則架構（SPF）來防止欺騙](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
 
-- [在 Office 365 中設定 SPF 以協助防止詐騙](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [設定 SPF 以協助防止詐騙](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)

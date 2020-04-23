@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: a2f2062ddecf74e41dcca2ee90999827a42f4b04
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: 2593baeb696ae4dcc74dd997ff5e9f630897fea9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118412"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761411"
 ---
 # <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Office 應用程式訊息 - 我們在您帳戶中找到的產品無法用來啟用
 
 - 確認您的[訂閱狀態](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription)有效，且受影響的使用者[獲指派有效的授權](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)，並且已連線至網際網路。 
 
-- 開啟 Office 應用程式，按一下 [檔案] > [帳戶]****，並登出所有帳戶。 使用具有有效授權的使用者帳戶再次登入。 如需詳細資訊，請參閱 [Office 的帳戶](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9?ui=en-US&rs=en-GB&ad=GB)。
+- 開啟 Office 應用程式，按一下 [檔案] > [帳戶]****，並登出所有帳戶。 使用具有有效授權的使用者帳戶再次登入。 如需詳細資訊，請參閱 [Office 的帳戶](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)。
 
 - 執行[啟用疑難排解員](https://aka.ms/SARA-OfficeActivation-Alchemy)，並重新啟動電腦。
 

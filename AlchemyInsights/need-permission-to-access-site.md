@@ -1,9 +1,9 @@
 ---
-title: 需要存取網站的權限
+title: 需要存取網站的許可權
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: 950387b8c7f2a4910b38e3d30154c146af123c54
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: b8043dfff5ac85566135753ce9f44855f81357fd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122570"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761913"
 ---
-# <a name="you-need-permission-to-access-this-site"></a>您需要存取此網站的權限
+# <a name="you-need-permission-to-access-this-site"></a>您需要存取此網站的許可權
 
-[「 拒絕存取 」、 「 您需要存取此網站的權限，「 或 SharePoint Online 和商務用 OneDrive 中的 「 使用者找不到在目錄中 」 錯誤](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+[SharePoint Online 和商務 OneDrive 中的「拒絕存取」、「您需要存取此網站的許可權」或「目錄中找不到的使用者」錯誤](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)

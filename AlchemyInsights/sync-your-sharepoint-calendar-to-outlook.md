@@ -1,9 +1,9 @@
 ---
-title: 同步處理到 Outlook SharePoint 行事曆
+title: 將您的 SharePoint 行事曆同步處理至 Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 08/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 8158b1fd762fe541a56c821fd68f1bdfa5d7339c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f997fa106f00d3c5598e955aea9c8e4e79a54f6e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050768"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766952"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>同步處理您的裝置的行事曆的問題
+# <a name="issues-synchronizing-your-calendar-to-devices"></a>將行事曆同步處理至裝置的問題
 
-SharePoint 行事曆是傳統的清單類型有時會與 Office 365 群組行事曆混淆。
+SharePoint 的行事曆是傳統清單類型，有時會與 Office 365 群組行事曆混淆。
 
-若要同步處理到 Outlook SharePoint 行事曆，請遵循下列步驟：
+若要將 SharePoint 的行事曆同步處理至 Outlook，請遵循下列步驟：
 
-1. 按一下 [**設定**] 齒輪圖示，然後按一下 [**網站內容**。
-2. 開啟您想要同步處理 （也就是事件清單類型） 的行事曆。
-3. 在傳統的功能區] 功能表中，按一下 [**行事曆**，然後按一下 [**連線至 Outlook**。
-4. 在詢問您確認同步處理的快顯視窗，按一下 [**允許**]。
+1. 按一下 [**設定**] 齒輪圖示，然後按一下 [**網站內容**]。
+2. 開啟您想要同步處理的行事曆（即事件清單類型）。
+3. 在傳統的功能區功能表中，按一下 [行事**曆**]，然後按一下 **[連線至 Outlook]**。
+4. 在快顯視窗中要求您確認同步處理，請按一下 [**允許**]。
 
 >[!Note]
-> 當您同步處理 Outlook 行事曆做了變更時，它會出現在 [SharePoint 行事曆，反之亦然。
+> 當您在同步處理的 Outlook 行事曆中進行變更時，它會顯示在 SharePoint 的行事曆中，反之亦然。
 
-如需 Office 365 群組的詳細資訊，請參閱這[篇文章](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)。
+如需有關 Office 365 群組的詳細資訊，請參閱[本文](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)。

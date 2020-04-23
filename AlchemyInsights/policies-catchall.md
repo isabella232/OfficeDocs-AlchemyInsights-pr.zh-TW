@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2bb5db2c22560021fc82e9778d237d6b70884bcf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599943"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765522"
 ---
 # <a name="teams-policies"></a>小組原則
 
@@ -30,5 +30,5 @@ Microsoft 團隊設定是由原則所控制。 若要進行變更，您必須設
 - [會議原則](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)控制使用者可以使用團隊會議做什麼，包括控制大廳。 如需對會議廳問題的協助，例如設定小組以承認任何人，請參閱[控制會議廳設定和參與的層級](https://docs.microsoft.com/alchemyinsights/bypass-lobby)。
 - [郵件原則](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams)控制使用者可以使用聊天和郵件執行的動作，包括開啟或關閉聊天、刪除聊天、要求閱讀回執、使用 giphys 和貼上功能等等。
 - [App 安裝原則](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies)控制使用者可以使用哪些應用程式，包括自訂和協力廠商應用程式，以及顯示的順序。  
-- 在 Office 365 安全性與合規性中心內，會找到小組的資料[保留原則](https://docs.microsoft.com/microsoftteams/retention-policies)。
+- 小組的資料[保留原則](https://docs.microsoft.com/microsoftteams/retention-policies)可在 Microsoft 365 安全性與合規性中心內找到。
 - 小組透過[範圍的目錄搜尋](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)來設定通訊錄原則。

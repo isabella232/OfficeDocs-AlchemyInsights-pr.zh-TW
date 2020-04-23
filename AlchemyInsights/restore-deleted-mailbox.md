@@ -1,5 +1,5 @@
 ---
-title: 還原已刪除信箱
+title: 還原已刪除的信箱
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -15,22 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 44b23be5e75a0669821bbeb07b0f064eeef6d021
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 18e56305b60469422a154ffa1b097c238baaae16
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666363"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764647"
 ---
 # <a name="restore-a-deleted-mailbox"></a>還原被刪除的信箱
 
-當使用者將會遺失的 Exchange Online 授權時，他們的信箱會保留 30 天，並可復原只需要重新指派授權給使用者。
+當使用者失去 Exchange Online 授權時，其信箱會保留30天，而且只要重新將授權指派給使用者，就能復原。
   
- *只有在 30 天內運作。*  
+ *這只會在30天內運作。*  
   
-1. 在 Microsoft 365 系統管理中心，移至 [**使用者** \> **作用中使用者**頁面。 選取有問題的使用者。
+1. 在 Microsoft 365 系統管理中心中，移至 [**使用者** \>作用中**使用者**] 頁面。 選取有問題的使用者。
 
-2. 在 [**授權及應用程式**] 索引標籤上指派 Exchange Online 授權然後選取 [**儲存變更**。
+2. 在 [**授權與應用程式**] 索引標籤上，指派 Exchange Online 授權，然後選取 [**儲存變更**]。
 
-如果您嘗試復原共用信箱，它也是 [可復原的 30 天。 您可以在 [**使用者]** 找到\>**已刪除使用者**。共用的信箱不需要授權。 如果您知道您需要還原已刪除的使用者，請參閱[還原 Office 365 中的使用者](https://docs.microsoft.com/office365/admin/add-users/restore-user)。
+如果您嘗試復原共用信箱，它也可在30天內復原。 您可以在 [**使用者** \> **刪除的使用者**] 底下找到這些使用者。共用信箱不需要授權。 如果您知道需要還原已刪除的使用者，請參閱[還原使用者](https://docs.microsoft.com/office365/admin/add-users/restore-user)。
   

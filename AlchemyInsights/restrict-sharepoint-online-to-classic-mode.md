@@ -1,8 +1,8 @@
 ---
-title: 限制 SharePoint Online 傳統模式
+title: 將 SharePoint 線上限制為傳統模式
 ms.author: pebaum
 author: pebaum
-ms.date: 3/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +12,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: b58a1c3fc331c739080542917d8945c090ec0d94
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: c5ea5d264b62e4c349623bd431776207b38da470
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048751"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742460"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>限制 SharePoint Online 傳統模式
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>將 SharePoint 線上限制為傳統模式
 
-有些組織還是需要傳統模式體驗。 時沒有計劃来移除的細微層級的傳統模式，不會再可能會限制清單和文件庫的傳統模式整個組織 （承租人）。
+有些組織仍然需要傳統模式體驗。 雖然沒有任何計畫在細微層級移除傳統模式，但無法再將整個組織（租使用者）限制為清單和文件庫的傳統模式。
 
-系統管理員將有下列選項來管理個別清單和文件庫的傳統模式使用我們提供下列層級的細微退出參數：
+系統管理員可以使用下列方式，以傳統模式管理個別的清單和文件庫，其可在下列層級提供：
 
 - 網站集合
 - 網站
 - 清單
-- 文件庫
+- 圖書館
 
-此外，使用某些功能的清單及不支援的最新的自訂項目將仍會自動切換到傳統模式。
+此外，使用一些目前不支援的特定功能和自訂的清單，仍然會自動切換成傳統模式。
 
-開始 2019 年 4 月 1 日，若要停用租用戶層級的程序退出新式的清單和文件庫將會啟動並繼續執行 2019 5 月 31 日。  由於租用戶選擇不使用傳統模式中的文件庫與清單會自動將移至現代化。
+從2019年4月1日開始，停用租使用者層級的程式會退出現代清單，而文件庫會在5月 31 2019 日內開始並繼續執行。  由於承租人自願退出，以傳統模式表示的清單和文件庫會自動移至新式。
 
-如果您需要傳統模式的詳細資訊，請參閱[以下](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023)和 PnP Powershell 指示[此處](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout)所描述的選項和工具可用於目前使用傳統模式體驗。
+如果您需要傳統[模式，請](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023)參閱此處的詳細資訊，並 PnP[在這裡](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout)描述您可以用來使用傳統模式體驗之選項及工具的 Powershell 說明。

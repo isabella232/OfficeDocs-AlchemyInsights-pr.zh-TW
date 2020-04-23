@@ -1,9 +1,9 @@
 ---
-title: 122 必須在網頁型 Outlook 中建立簽章？
+title: 122是否需要在網頁版 Outlook 中建立簽章？
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 122
 ms.assetid: 9468585d-e98e-4774-9176-44be073c54d0
-ms.openlocfilehash: 7782381d8c4ea3de7b0392aa4c3a7ec5b48360a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1f1554d6eb3bfd011fa275bf72708fecaa099b77
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538761"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761877"
 ---
-# <a name="need-to-create-an-email-signature"></a>需要建立電子郵件簽章？
+# <a name="need-to-create-an-email-signature"></a>需要建立電子郵件簽名？
 
-如果您有 Outlook 帳戶或 Outlook web （Office 365 工作或學校） 帳戶，您可以建立簽章並自動將它新增至所有外寄郵件，或選擇性地將其新增至特定的外寄郵件。 請注意，您的電子郵件簽章是不同於 Outlook 和 outlook 網頁版。 若要建立您的電子郵件簽章，請參閱[建立，並將簽章新增至在 Outlook 中的郵件](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)或[建立和網頁型 Outlook 中新增電子郵件簽章](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)。
+如果您有 Outlook 帳戶或網頁上的 Outlook （工作或學校）帳戶，您可以建立簽章並自動將其新增至所有外寄郵件，或選擇性地將其新增至特定的外寄郵件。 請注意，Outlook 和 Outlook 網頁版中的電子郵件簽章有所不同。 若要建立您的電子郵件簽章，請參閱在 outlook 網頁版中[建立及新增簽章給郵件](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)的功能，或[建立及新增電子郵件簽名](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)。
 

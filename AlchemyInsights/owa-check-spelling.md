@@ -1,9 +1,9 @@
 ---
-title: 網頁型 Outlook 中的拼字檢查
+title: 在 web 上的 Outlook 中檢查拼寫
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000007"
 - "1992"
-ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 4ab3a63aa72cadd26ecc69c4322cf970ce52638f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36510542"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768608"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>使用您的瀏覽器進行拼字檢查
+# <a name="use-your-browser-to-check-spelling"></a>使用瀏覽器檢查拼寫
 
-沒有網頁型 Outlook 中的拼字檢查選項。 若要檢查拼字，您需要使用網頁瀏覽器。 在 Microsoft Edge、 Internet Explorer 10 及更新版本、 和 Firefox、 Chrome 和 Safari 的目前版本中使用拼字檢查。 請檢查您的網頁瀏覽器，若要深入了解如何進行拼字檢查的選項。
+Web 上的 Outlook 沒有拼寫檢查選項。 若要檢查您的拼寫，您需要使用網頁瀏覽器。 您可以在 Microsoft Edge、Internet Explorer 10 和更新版本中使用拼寫檢查，以及目前的 Firefox、Chrome 和 Safari 版本。 請檢查網頁瀏覽器的選項，以深入瞭解如何檢查拼寫。

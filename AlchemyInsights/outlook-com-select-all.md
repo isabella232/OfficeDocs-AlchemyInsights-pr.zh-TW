@@ -3,7 +3,7 @@ title: 8000090 Outlook.com 全選
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "1410"
 - "1411"
 - "8000090"
-ms.openlocfilehash: 6efc18bb8c906f273083026985ec21acfe0429ee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc4bf01b12e3864fc0112ef3e20410d2f7ccb0b5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535310"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743588"
 ---
-# <a name="how-to-select-all-in-outlookcom"></a>如何在 「 選取所有 」 在 Outlook.com 中
+# <a name="how-to-select-all-in-outlookcom"></a>操作方法 Outlook.com 中的「全選」
 
-您只能選取所有如果是可見的所有郵件。 這是要避免意外動作無法看到的訊息。
+只要所有的郵件都是可見的，您就可以選取 [全部]。 這是為了避免對您看不到的郵件執行意外動作。
 
-**CTRL + 按一下**會選取多個個別的郵件。
+**按住 CTRL 鍵並按一下**選取多個個別的郵件。
 
-**SHIFT + 按一下 [** 選取您選取的第一個及最後一個訊息之間的所有郵件。
+**SHIFT + 按一下**選取選取的第一和最後一封郵件之間的所有郵件。

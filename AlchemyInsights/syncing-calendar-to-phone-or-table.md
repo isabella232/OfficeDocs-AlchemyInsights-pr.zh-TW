@@ -1,24 +1,24 @@
 ---
-title: 1600036 的同步處理行事曆，電話或表格
+title: 1600036將行事曆同步處理至電話或表格
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ef3b7fc8-f8c0-43b0-8d78-3f8287872ebd
 ms.custom: 1600036
-ms.openlocfilehash: 6eecf530488bfaf6d7479948a99a51a15629c6b9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c5592607bbe2bae3e410a81d9b170d855a6dc7f6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559580"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43740003"
 ---
-# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a>同步處理您的裝置的 Outlook 行事曆的問題
+# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a>將您的 Outlook 行事曆同步處理到裝置的問題
 
-若要疑難排解同步處理您的行事曆裝置的問題，請參閱[行事曆及連絡人與 「 我的手機或平板電腦無法同步處理](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx)。
+若要疑難排解將行事曆同步處理至裝置的問題，請參閱[無法與我的手機或平板電腦同步處理行事曆和連絡人](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx)。
   
 

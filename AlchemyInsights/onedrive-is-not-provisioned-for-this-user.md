@@ -1,24 +1,24 @@
 ---
-title: OneDrive 未佈建為此使用者
+title: 未布建此使用者的 OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 9/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: bcee4dadc36ab4e3e550462f00f0916a58f7e30f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 6a04e92d99ce02f516c439b16fc5cd81e26218f2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054585"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763100"
 ---
-# <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive 未佈建為此使用者
+# <a name="onedrive-is-not-provisioned-for-this-user"></a>未布建此使用者的 OneDrive
 
-新建立的帳戶，使用者必須登入自己的帳戶與 Microsoft 365 系統管理中心，然後按一下 [以手動方式啟動的 OneDrive 網站佈建 OneDrive。
+若為新建立的帳戶，使用者必須使用自己的帳戶登入 Microsoft 365 系統管理中心，然後按一下 [OneDrive] 以手動啟動 OneDrive 網站的提供。
   
-不過，如果使用者已按 OneDrive，而且在 24 小時內未提供其個人網站，請記錄需要進一步的協助支援票證。
+不過，如果使用者已按一下 [OneDrive] 而且其個人網站未布建在24小時內，請記錄支援票證以取得進一步協助。
   
 

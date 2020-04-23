@@ -3,7 +3,7 @@ title: Outlook.com 連絡人清單
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,20 +11,20 @@ ms.custom:
 - "9000258"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 9fd529fd2b655deed55f907ee9d20a539421ff30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c6cf17b7a6fc2c40e8a18de3a5be6e1c6969156b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536894"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760511"
 ---
-# <a name="organizing-your-outlookcom-mailbox"></a>組織您的 Outlook.com 信箱
+# <a name="organizing-your-outlookcom-mailbox"></a>組織 Outlook.com 信箱
 
-連絡人清單是一群電子郵件地址，也很適合將電子郵件傳送給一群人。 若要建立的連絡人清單：
+連絡人清單是電子郵件地址的集合，可將電子郵件傳送給一群人員使用。 若要建立連絡人清單：
 
 1. 移至[人員](https://outlook.live.com/people/) <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEKEisVwYq3YQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAClklEQVRIieWVX0iTYRTGz2aazW3f0nItTD7n/kCUf8q0QVnCChNGISpWoN1EF6WWNeoiwYtQClZUSEgphlBkCV4oKCsjEZcaQo5glW2oyyZafOosc86ny6Z+U7/Eq87l857n/Hjf88ArAgBaxxKv5/A1AcZHBsnpdNGUb4VGCC3OCcuFbKiVckgkEUhIN6G+/XPQdmGAuQlUnknDFrURDe19cDj6cacoC5HRCXhh/752wKitBvpt8XjumA1Q/SjPSca+girM8XgE7eDbgIvC/YmUpg8NUMVkSEqjmXcfycvjEQSI3bWTfKE91NrNBahT1Nr5mpiMZJLxmYQ8EeDDk/J8xMalwlLXBKu1BddOp0OTaILN/YvXsSzgh8eNoaFh/PT/1Wy1ZoQRIVzKQKFQQEyEmIwiuLz8M/gBnBO3S3KhVsogkUix15iPlu4BdD2+iEgpi9J7jRga98Lr9eJDZxNyDVrsOHgWrsnVAOYmUFGQiii1EU+tvbDbe1F5LgvKSAVkTBSu1vXwXLUfxjg5cm81rwzwdFZDp9Kg8ZMvQJ3F9WM6MNo8jPC/BF5aTkHCnsTI/EJ9w+Klux1faJNoDxm0gUehtD8lndrGthITJGEpJ0qpSjxIISAi0TIpGuuuhV7Fov79dIA6iZIjOhwursf8YsMKxbPkGTwyHwerP4QHDW3o6LCirDADmiQTur7yR1EgALDVXEYIEcIi5GAYOYgIbKYZ7hnB85cC3lSfx2YZi0t3G+Aa5cBxHPran8GUwiL+aDHc03xjVgn4PWjFbhWDkodvl3Z6enEgRoqC+9Z/B7yqyINKk4nhIM3NN7Ih1RViTABgQUyjk/PoZpmStgeJoiHnClk2uokWR3GZEgH/66e/2voDxKbBpBHmq6QAAAAASUVORK5CYII=' />.
-1. 在頁面頂端，選取 [箭號 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAYAAADQWvz5AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gYGES4Try474AAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABHElEQVQ4jdXTsUsCYRjH8a/xQhy0tFyIULMo2B/QQUPQ5hA0BC0tQksFOTo2ZlTDHQRxS20SFWEcBg5Gg9sLijQ0XCCCs3AcHLwNEWHenUUO9Vvf5/3A8/A8CaWUYgKZmgTyH6CWRPrf+OVLZCsO6taxy5V4zJdcHJxR78ZBgOfWsE9ueA7DfEmlbNPoByNPw1BqDl2A91LFspwvyCv3lk3N9UBbYD4VB2U3KBWMd6xzxd7xJ+ZYR1x3PBA6xtY+a9lhKBG2kL2nc8zLJv1AMJNZYYlHHtoDAqFjFEps5qZHWguFAHrOKYe3bQYf4xCzLK7vsr2cDCuP3qPk6g7FfBoNAI10PhoBQI2Je2cqs+qOK1ORrf00f/3WfpE30qej7DKYKekAAAAASUVORK5CYII=' /> 下一步]**新增連絡人**] 和 [然後選取 [**新增連絡人清單**。
-1. 輸入的清單名稱，然後新增名稱或電子郵件地址。
-1. 請選取 [建立]****。
+1. 在頁面頂端，選取箭號 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAYAAADQWvz5AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gYGES4Try474AAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABHElEQVQ4jdXTsUsCYRjH8a/xQhy0tFyIULMo2B/QQUPQ5hA0BC0tQksFOTo2ZlTDHQRxS20SFWEcBg5Gg9sLijQ0XCCCs3AcHLwNEWHenUUO9Vvf5/3A8/A8CaWUYgKZmgTyH6CWRPrf+OVLZCsO6taxy5V4zJdcHJxR78ZBgOfWsE9ueA7DfEmlbNPoByNPw1BqDl2A91LFspwvyCv3lk3N9UBbYD4VB2U3KBWMd6xzxd7xJ+ZYR1x3PBA6xtY+a9lhKBG2kL2nc8zLJv1AMJNZYYlHHtoDAqFjFEps5qZHWguFAHrOKYe3bQYf4xCzLK7vsr2cDCuP3qPk6g7FfBoNAI10PhoBQI2Je2cqs+qOK1ORrf00f/3WfpE30qej7DKYKekAAAAASUVORK5CYII=' /> 在 [**新增連絡人**] 旁，然後選取 [**新增連絡人清單**]。
+1. 輸入清單的名稱，然後新增名稱或電子郵件地址。
+1. 選取 [建立]****。
 
-深入了解如何[建立、 檢視及編輯連絡人和連絡人清單中 Outlook.com](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01?wt.mc_id=Office_Outlook_com_Alchemy)。
+深入瞭解如何[在 Outlook.com 中建立、查看和編輯連絡人及連絡人清單](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01?wt.mc_id=Office_Outlook_com_Alchemy)。

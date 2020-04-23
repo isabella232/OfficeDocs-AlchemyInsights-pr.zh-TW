@@ -2,7 +2,7 @@
 title: SharePoint 線上節流
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 2aca55ac2fefbb2035140a759a77730dc905a4e9
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958709"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742200"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint 線上節流
 
-**重要**事項：在這些空前的時間內，我們採取步驟來確保 SharePoint 線上和 OneDrive 服務保持高可用性–請流覽[SharePoint 線上暫存功能](https://aka.ms/ODSPAdjustments)，以取得詳細資訊。
+**重要**：在這些前所未有的情況下，我們會採取下列步驟以確保 SharePoint Online 和 OneDrive 服務保持高度可用 – 請造訪 [SharePoint Online 暫時功能調整](https://aka.ms/ODSPAdjustments)以取得詳細資訊。
 
 **503伺服器忙碌錯誤**
 
 嘗試流覽至 SharePoint 或 OneDrive 網站時，使用者可能會收到503伺服器繁忙的錯誤。 
 
-此錯誤可能是由 SharePoint 服務中的節流所造成。 SharePoint 線上使用節流，以維持 SharePoint 線上服務的最佳效能和可靠性。 節流限制使用者動作數目或並行通話（按腳本或程式碼）以避免過度使用資源。 
+此錯誤可能是由 SharePoint 服務中的節流所造成。 SharePoint Online 會使用節流來維護 SharePoint Online 服務的最佳效能和可靠性。 節流會限制使用者動作或同時通話的數目 (藉由指令碼或程式碼)，以避免過度使用資源。 
 
 如需節流的詳細資訊，請參閱，[避免在線上 SharePoint 遭到節流或封鎖](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)。
 

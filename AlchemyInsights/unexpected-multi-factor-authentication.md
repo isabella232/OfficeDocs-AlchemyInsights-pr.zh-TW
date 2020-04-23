@@ -10,16 +10,16 @@ ms.assetid: ''
 ms.custom:
 - "1300007"
 - "4372"
-ms.openlocfilehash: 8a912b32dee23e8c6eae0ad7bc72228d49ceeb92
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: a664bd709062ec1335ebcf1f9adddc8aef917ac1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946610"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766592"
 ---
 # <a name="unexpected-multi-factor-authentication"></a>Azure AD 多重要素驗證
 
-如果您的租用戶是在 2019 年 10 月 21 日之後建立，且意外收到 MFA 的提示，則可能已在租用戶中啟用[安全性預設值](http://aka.ms/securitydefaults)。 
+如果您的租用戶是在 2019 年 10 月 21 日之後建立，且意外收到 MFA 的提示，則可能已在租用戶中啟用[安全性預設值](https://aka.ms/securitydefaults)。 
 
 若要管理安全性預設值：
 

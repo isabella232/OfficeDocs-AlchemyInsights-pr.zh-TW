@@ -1,9 +1,9 @@
 ---
-title: 變更字型或網頁型 Outlook 中的字型大小
+title: 在網頁上的 Outlook 中變更字型或字型大小
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000013"
 - "1999"
-ms.openlocfilehash: e79e58a53144094113d161d63c0b3f98a59cceeb
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 266af20d0c47f328685b190562521227e01635f6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643290"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764791"
 ---
-# <a name="change-font-or-font-size"></a>變更字型或字型大小
+# <a name="change-font-or-font-size-in-outlook-on-the-web"></a>在網頁上的 Outlook 中變更字型或字型大小
 
-時讀取電子郵件，您可以使用您的瀏覽器縮放函式，使文字在螢幕上放大或縮小。
+當閱讀電子郵件時，您可以使用瀏覽器的縮放功能，讓螢幕上的文字變大或變小。
   
-若要變更的字型或字型大小撰寫郵件時：
+若要在撰寫郵件時變更字型或字型大小：
   
-1. 在 [撰寫] 窗格底部，選取的**字型**或**字型大小**的圖示。
+1. 在 [撰寫] 窗格的底部，選取 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gQYEyoUnKTM5QAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABiElEQVQ4ja2UoY7CQBCGPy4IRDFVSOoQFbwAqgaBbRPeAJ6AOgSqj0GQayqaJiQIEhQOA1nXuqJQKypI9lQbSukdF+5Xm5mdL//s7G5La635R309B1arFYvF4v+ASikAhBCfAwtIp9NBSvk5UEqJYRjYtl06/QiolGIwGOA4TsXxo3zfJ47j34FFseM4mKaJYRi1tuM4RmvN8XhsBLaLhZSSdrvN+XwGoNvtkmVZZXMByvOcNE3p9/vNDpVS3O93oigiiqISVjhP05Q8z7EsC4AwDJsdFkWTyaSS3O12ZdthGGKaJp7nEQRBzX0FWEx3NBpVktfrtVxnWcZ8Psc0TSzLIkkShBC4rltvuZjus1zXxXVdhBAYhlGemed5AJxOp1pN65237Ps+Tdum0ynD4bDa8k86HA5orcthPCpJErbb7d+A+/0ey7KYzWa13HK55Ha7VWK1z+FRaZqilGI8Hr/M27YNwHq9fg+42WwAXl5ggF6vB8DlciljjUN59ScGQfBr/q0p/0Xfs0y4AjOuEswAAAAASUVORK5CYII=' />
+ **字型**或 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4QoUABonkSD1XgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABL0lEQVQ4jaWSsU7DMBCGv1YVUrsms9e0azKBmh3E0ofIAA/RpW+AGHiCPEAkGDogIbllSzsmXT03a4yQqBmQI6ymKBX/5Dudv7vfvp4xxvAPDboWXt2/OPHFoM/b4w39roD3p1snfn24/jmYM3Q4GHN592w+Pr+aXO/UG8znc6qqIgxDkiQ5OVmrhc1mQ1VVABRFQV3X5wMAhBBorZFSdgfUdU1RFHiex2w2A2C73XYHSCnRWhNFEePxGM/zUEqhlOoGsN3CMARgOp06tv4ElGWJUgohBEIIAKIoAiDP81aA841pmrJer1sLAZIkaSazclbZjrlYLPB9v8kvl0uyLENKeQRoLKxWK7TWBEHgXAaI45jhcMhut2O/37cDrEfr+bdGoxGTycSpszq5yl31DXVws+8Srp81AAAAAElFTkSuQmCC' /> **字型大小**。
     
-2. 選擇 [字型] 或 [您想要使用的字型大小。
+2. 選擇您要使用的字型或字型大小。
     
-如果您沒有看到 [撰寫] 窗格底部格式設定的 [選項] 功能表，選取 [**格式設定選項**] 圖示。
+如果您在撰寫窗格底部沒有看到 [格式化選項] 功能表，請選取 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAARCAYAAAAG/yacAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFgkLmMb9xQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABOklEQVQokZWTIa7CQBCGPwjJgoG0YkXTVV1HHSHBIHqCXgLDiSoRnIArYBC9QoNZQBRBitlUvWfoPkih5P1uk/l2vsxkevf7/YdHyrJku92yWq2YTCZ8Sv/5URQFAIfD4SPQgowxTKdTB3+FyrLker2SJAlCCKqq+g4VRYFSCiEEWutORQc1agBKqU7FQaN2Op0YDoeuuK5rqqp6O8V+oxaGIUoppJRIKQnD0Claa9nv9+R5/tfJGMNsNkNr7X4bj8cYY7DWkmUZnudxPB7xfZ9+XddIKVFKvShorVksFmRZRhRFpGlKEAScz2cGQgiSJGl5Nx2iKGK5XLLb7bDWMp/PX5fbBdxuN9brNaPRqA19A9z0/gO0oDzP8TyvEwDoPZ/GZrPhcrm4oncAPPb0nCAIiOOYOI7fAgC/6HCjfMhhDgMAAAAASUVORK5CYII=' /> **格式化選項**。
   
-如需詳細資訊，請參閱 <<c0>在 outlook 網頁版中變更字型的大小。
+如需詳細資訊，請參閱[在網頁上的 Outlook 中變更字體大小](https://support.office.com/article/43a2137f-8c3c-46df-af4a-73a12c9bb86e)。

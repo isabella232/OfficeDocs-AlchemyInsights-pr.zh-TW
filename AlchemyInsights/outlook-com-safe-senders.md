@@ -3,7 +3,7 @@ title: 8000089 Outlook.com 安全寄件者
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 3196105d10f57b6448497938367d0506957127d2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36535346"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743624"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>停止郵件進入垃圾郵件] 資料夾
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>停止郵件進入您的 [垃圾郵件] 資料夾
 
-有當您不想從特定個人或網域的郵件中垃圾郵件] 資料夾中 Outlook.com 最終的次數。 [安全寄件者] 清單上的地址或網域的郵件將不會取得移至垃圾郵件] 資料夾。
+有時您不想讓特定人員或網域的郵件在 Outlook.com 中的 [垃圾郵件] 資料夾中結束。 來自 [安全寄件者] 清單中位址或網域的郵件，不會移至 [垃圾郵件] 資料夾。
 
-1. 開啟您的[安全寄件者設定](https://go.microsoft.com/fwlink/?linkid=2035804)。
-2. **安全寄件者和網域**] 下輸入的電子郵件地址或網域您想要新增，並選取 [**新增]**。
-3. 若要將郵寄清單新增至您的安全寄件者，輸入 [**安全的郵寄清單**郵寄清單，並選取 [**新增]**。
-4. 選取 [儲存]****。
+1. 開啟 [[安全的寄件者] 設定](https://go.microsoft.com/fwlink/?linkid=2035804)。
+2. 在 [**安全寄件者和網域**] 底下，輸入您想要新增的電子郵件地址或網域，然後選取 [**新增**]。
+3. 若要將郵寄清單新增至安全寄件者，請在 [**安全的郵寄清單**] 底下輸入郵寄清單，然後選取 [**新增**]。
+4. 選取 **[儲存]**。
 
-請參閱讀取[封鎖或解除封鎖寄件者在 Outlook.com 中的](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)。
+在[Outlook.com 中讀取封鎖或解除封鎖的寄件者](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)。
