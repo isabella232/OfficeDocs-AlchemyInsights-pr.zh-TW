@@ -20,4 +20,4 @@ ms.locfileid: "43591477"
 ---
 # <a name="onedrive-storage-plans"></a>OneDrive 儲存空間方案
 
-深入了解 OneDrive 儲存空間方案。 [閱讀其他資訊...](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28)
+深入了解 OneDrive 儲存空間方案。 [閱讀其他資訊](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28)。
