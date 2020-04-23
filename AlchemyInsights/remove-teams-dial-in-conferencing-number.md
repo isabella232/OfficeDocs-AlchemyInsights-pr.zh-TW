@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43027903"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784790"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>移除 Teams 電話撥入式會議號碼
 
@@ -24,7 +24,7 @@ ms.locfileid: "43027903"
 
 會議橋接器的預設電話號碼會定義來電顯示，當參與者或召集人從會議中向外撥打電話時，就會用到這個來電顯示。
 
-1. 使用您的公司帳戶登入 Office 365。
+1. 使用您的工作帳戶登入。
 
 2. 移至 **Microsoft 365 系統管理中心**。
 
