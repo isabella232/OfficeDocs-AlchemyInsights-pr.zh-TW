@@ -1,9 +1,9 @@
 ---
-title: 8000019： 如何新增或匯入連絡人
+title: 8000019：如何新增或匯入連絡人
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,22 @@ ms.custom:
 - "8000019"
 - "2002"
 ms.assetid: ''
-ms.openlocfilehash: 687b9972e7c32833913a85bc52abdd5d7ebbe7c2
-ms.sourcegitcommit: 3ddd01d693d306d47509da7a2fd44737b3059dd0
+ms.openlocfilehash: 729c974995f4f4da3c2370dc7804416035dda508
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "34422904"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742904"
 ---
-# <a name="import-contacts"></a><span data-ttu-id="8e51f-102">匯入連絡人</span><span class="sxs-lookup"><span data-stu-id="8e51f-102">Import contacts</span></span>
+# <a name="import-contacts"></a><span data-ttu-id="247d9-102">匯入連絡人</span><span class="sxs-lookup"><span data-stu-id="247d9-102">Import contacts</span></span>
 
-<span data-ttu-id="8e51f-103">之前將連絡人匯入 outlook 網頁版，您需要將它們匯出從其他電子郵件提供者為.csv 檔案。</span><span class="sxs-lookup"><span data-stu-id="8e51f-103">Before importing contacts to Outlook on the web, you'll need to export them from your other email provider as a .csv file.</span></span> <span data-ttu-id="8e51f-104">然後，遵循下列指示。</span><span class="sxs-lookup"><span data-stu-id="8e51f-104">Then, follow the instructions below.</span></span>
+<span data-ttu-id="247d9-103">將連絡人匯入至網頁上的 Outlook 之前，您必須將它們從其他電子郵件提供者匯出為 .csv 檔案。</span><span class="sxs-lookup"><span data-stu-id="247d9-103">Before importing contacts to Outlook on the web, you'll need to export them from your other email provider as a .csv file.</span></span> <span data-ttu-id="247d9-104">然後，遵循下列指示。</span><span class="sxs-lookup"><span data-stu-id="247d9-104">Then, follow the instructions below.</span></span>
 
-1. <span data-ttu-id="8e51f-105">在頁面底部，選取 [移至 [人員] 頁面上的 [人員] 圖示。</span><span class="sxs-lookup"><span data-stu-id="8e51f-105">At the bottom of the page, select the people icon to go to the People page.</span></span>
-2. <span data-ttu-id="8e51f-106">在工具列上，選取 [**管理** > **匯入連絡人]**。</span><span class="sxs-lookup"><span data-stu-id="8e51f-106">On the toolbar, select **Manage** > **Import contacts**.</span></span>
-3. <span data-ttu-id="8e51f-107">選取 [**瀏覽]**，選擇您的 CSV 檔案，然後選取 [**開啟**。</span><span class="sxs-lookup"><span data-stu-id="8e51f-107">Select **Browse**, choose your CSV file, and then select **Open**.</span></span>
-4. <span data-ttu-id="8e51f-108">選取 [**匯入**。</span><span class="sxs-lookup"><span data-stu-id="8e51f-108">Select **Import**.</span></span>
+1. <span data-ttu-id="247d9-105">在頁面底部，選取</span><span class="sxs-lookup"><span data-stu-id="247d9-105">At the bottom of the page, select</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEKEisVwYq3YQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAClklEQVRIieWVX0iTYRTGz2aazW3f0nItTD7n/kCUf8q0QVnCChNGISpWoN1EF6WWNeoiwYtQClZUSEgphlBkCV4oKCsjEZcaQo5glW2oyyZafOosc86ny6Z+U7/Eq87l857n/Hjf88ArAgBaxxKv5/A1AcZHBsnpdNGUb4VGCC3OCcuFbKiVckgkEUhIN6G+/XPQdmGAuQlUnknDFrURDe19cDj6cacoC5HRCXhh/752wKitBvpt8XjumA1Q/SjPSca+girM8XgE7eDbgIvC/YmUpg8NUMVkSEqjmXcfycvjEQSI3bWTfKE91NrNBahT1Nr5mpiMZJLxmYQ8EeDDk/J8xMalwlLXBKu1BddOp0OTaILN/YvXsSzgh8eNoaFh/PT/1Wy1ZoQRIVzKQKFQQEyEmIwiuLz8M/gBnBO3S3KhVsogkUix15iPlu4BdD2+iEgpi9J7jRga98Lr9eJDZxNyDVrsOHgWrsnVAOYmUFGQiii1EU+tvbDbe1F5LgvKSAVkTBSu1vXwXLUfxjg5cm81rwzwdFZDp9Kg8ZMvQJ3F9WM6MNo8jPC/BF5aTkHCnsTI/EJ9w+Klux1faJNoDxm0gUehtD8lndrGthITJGEpJ0qpSjxIISAi0TIpGuuuhV7Fov79dIA6iZIjOhwursf8YsMKxbPkGTwyHwerP4QHDW3o6LCirDADmiQTur7yR1EgALDVXEYIEcIi5GAYOYgIbKYZ7hnB85cC3lSfx2YZi0t3G+Aa5cBxHPran8GUwiL+aDHc03xjVgn4PWjFbhWDkodvl3Z6enEgRoqC+9Z/B7yqyINKk4nhIM3NN7Ih1RViTABgQUyjk/PoZpmStgeJoiHnClk2uokWR3GZEgH/66e/2voDxKbBpBHmq6QAAAAASUVORK5CYII=' />
+ <span data-ttu-id="247d9-106">**人員**。</span><span class="sxs-lookup"><span data-stu-id="247d9-106">**People**.</span></span>
+2. <span data-ttu-id="247d9-107">在工具列上，選取 [**管理** > 匯**入連絡人**]。</span><span class="sxs-lookup"><span data-stu-id="247d9-107">On the toolbar, select **Manage** > **Import contacts**.</span></span>
+3. <span data-ttu-id="247d9-108">選取 **[流覽]**，選擇您的 CSV 檔案，然後選取 [**開啟**]。</span><span class="sxs-lookup"><span data-stu-id="247d9-108">Select **Browse**, choose your CSV file, and then select **Open**.</span></span>
+4. <span data-ttu-id="247d9-109">選取 [匯入]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="247d9-109">Select **Import**.</span></span>
 
-<span data-ttu-id="8e51f-109">若要深入了解，請參閱 <<c0>將連絡人匯入至 Outlook。</span><span class="sxs-lookup"><span data-stu-id="8e51f-109">To learn more, see [Import contacts to Outlook](https://support.office.com/article/bb796340-b58a-46c1-90c7-b549b8f3c5f8#ID0EAACAAA=Outlook_on_the_web).</span></span>
+<span data-ttu-id="247d9-110">若要深入瞭解，請參閱[將連絡人匯入 Outlook](https://support.office.com/article/bb796340-b58a-46c1-90c7-b549b8f3c5f8#ID0EAACAAA=Outlook_on_the_web)。</span><span class="sxs-lookup"><span data-stu-id="247d9-110">To learn more, see [Import contacts to Outlook](https://support.office.com/article/bb796340-b58a-46c1-90c7-b549b8f3c5f8#ID0EAACAAA=Outlook_on_the_web).</span></span>
 

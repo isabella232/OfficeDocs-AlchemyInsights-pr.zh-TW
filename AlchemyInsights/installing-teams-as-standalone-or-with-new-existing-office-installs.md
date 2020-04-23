@@ -1,5 +1,5 @@
 ---
-title: 安裝小組，以獨立伺服器或新/現有 office 安裝
+title: 將小組安裝為獨立或新的或現有的 Office 安裝
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 076eee129607e42ffceb329df06fa6fb6da51216
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768864"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763172"
 ---
-# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a><span data-ttu-id="a8fb8-102">安裝 microsoft Teams 作為獨立或與新的或現有的 Office 安裝</span><span class="sxs-lookup"><span data-stu-id="a8fb8-102">Installing Teams as standalone or with new or existing Office installations</span></span>
+# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a><span data-ttu-id="fe21c-102">將小組安裝為獨立或現有的 Office 安裝或現有的 Office 安裝</span><span class="sxs-lookup"><span data-stu-id="fe21c-102">Installing Teams as standalone or with new or existing Office installations</span></span>
 
-<span data-ttu-id="a8fb8-103">Microsoft Teams 會包含在清單中的*全新安裝*的 Office 365 專業增強版、 Office 365 商務版和 Office for mac。</span><span class="sxs-lookup"><span data-stu-id="a8fb8-103">Microsoft Teams is included as part of *new installations* of Office 365 ProPlus, Office 365 Business, and Office for Mac.</span></span> <span data-ttu-id="a8fb8-104">如需詳細資訊，請參閱[時將 Microsoft Teams 啟動所隨附的新安裝的 Office？](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="a8fb8-104">For more information, see [When will Microsoft Teams start being included with new installations of Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)</span></span>
+<span data-ttu-id="fe21c-103">Microsoft 團隊會包含在*新安裝*的 Microsoft 365 應用程式、商務用 Microsoft 365 應用程式和 Mac 版 Office 的一部分中。</span><span class="sxs-lookup"><span data-stu-id="fe21c-103">Microsoft Teams is included as part of *new installations* of Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business, and Office for Mac.</span></span> <span data-ttu-id="fe21c-104">如需詳細資訊，請參閱[Office 的新安裝會何時開始使用 Microsoft 團隊？](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="fe21c-104">For more information, see [When will Microsoft Teams start being included with new installations of Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)</span></span>
 
-<span data-ttu-id="a8fb8-105">此外，從開始在每月通道版本 1906年，小組會*新增至現有的安裝*的 Office 365 專業增強版 （和 Office 365 商務版） 更新現有的安裝至最新版本時，執行 Windows 裝置上。</span><span class="sxs-lookup"><span data-stu-id="a8fb8-105">Additionally, starting with Version 1906 in Monthly Channel, Teams will be *added to existing installations* of Office 365 ProPlus (and Office 365 Business) on devices running Windows when you update your existing installation to the latest version.</span></span> <span data-ttu-id="a8fb8-106">如需詳細資訊，請參閱[Office 的現有安裝呢？](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="a8fb8-106">For more information, see [What about existing installations of Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)</span></span>
+<span data-ttu-id="fe21c-105">此外，從每月通道的版本1906開始，當您將現有的安裝更新為最新版本時，小組會新增至執行 Windows 之裝置的現有 Microsoft 365 應用程式（和 Microsoft 365 應用程式）的*現有安裝*。</span><span class="sxs-lookup"><span data-stu-id="fe21c-105">Additionally, starting with Version 1906 in Monthly Channel, Teams will be *added to existing installations* of Microsoft 365 Apps for enterprise (and Microsoft 365 Apps for business) on devices running Windows when you update your existing installation to the latest version.</span></span> <span data-ttu-id="fe21c-106">如需詳細資訊，請參閱[Office 現有安裝的相關資訊？](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="fe21c-106">For more information, see [What about existing installations of Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)</span></span>
 
-<span data-ttu-id="a8fb8-107">您可以為獨立部署小組，為您的使用者，藉由[遵循這些指示](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)，或您可以讓使用者自行從安裝 Teams https://teams.microsoft.com/downloads。</span><span class="sxs-lookup"><span data-stu-id="a8fb8-107">You can deploy Teams as standalone for your users by [following these instructions](https://docs.microsoft.com/MicrosoftTeams/msi-deployment),  or you can have your users install Teams for themselves from https://teams.microsoft.com/downloads.</span></span>
+<span data-ttu-id="fe21c-107">您可以[遵循這些指示](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)，將團隊部署為獨立的使用者，也可以讓您的使用者自行安裝團隊https://teams.microsoft.com/downloads。</span><span class="sxs-lookup"><span data-stu-id="fe21c-107">You can deploy Teams as standalone for your users by [following these instructions](https://docs.microsoft.com/MicrosoftTeams/msi-deployment),  or you can have your users install Teams for themselves from https://teams.microsoft.com/downloads.</span></span>
 
-<span data-ttu-id="a8fb8-108">Teams 安裝之後，它是[自動更新](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams)大約每兩週的新功能和品質更新。</span><span class="sxs-lookup"><span data-stu-id="a8fb8-108">After Teams is installed, it's [automatically updated](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) approximately every two weeks with new features and quality updates.</span></span> 
+<span data-ttu-id="fe21c-108">小組安裝完畢後，每兩周[都會自動更新](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams)一次，並提供新功能和品質更新。</span><span class="sxs-lookup"><span data-stu-id="fe21c-108">After Teams is installed, it's [automatically updated](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) approximately every two weeks with new features and quality updates.</span></span> 
 
