@@ -10,16 +10,16 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.openlocfilehash: 394fb3f3ddb432f45f7410f69627c80f66adb7d8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 74581bcadf668d5d40c7dcc6d9ac2635875c29fe
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664815"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712593"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>您的信箱中收到太多垃圾郵件或網路釣魚郵件嗎？
 
-如需為垃圾郵件進行疑難排解，請參閱[如何減少 Office 365 中的垃圾郵件](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email)。
+如需為垃圾郵件進行疑難排解，請參閱[如何減少垃圾郵件](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email)。
   
 回報這類問題的最佳方式是：
   

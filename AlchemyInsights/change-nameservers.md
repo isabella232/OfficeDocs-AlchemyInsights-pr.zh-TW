@@ -3,7 +3,7 @@ title: 變更名稱伺服器
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.openlocfilehash: 51532f42e7cbd39ebad3f0160465218c6e1454a2
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 572f8befd84f55cb07a3535852a46e735d3ed620
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736640"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706746"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>將您的網域名稱伺服器更新為 Office 365
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>將您的網域名稱伺服器更新為指向 Microsoft
 
 附註：名稱伺服器變更最多可能需要 48 小時才會傳播。
   
-若要在 Office 365 設定網域，請在您的註冊機構更新名稱伺服器。在網域註冊機構建立或編輯網域名稱伺服器記錄。
+若要在 Microsoft 365 中設定網域，請在您的註冊機構更新名稱伺服器。在網域註冊機構建立或編輯網域名稱伺服器記錄。
   
 1. 移至您的網域註冊機構網站，並找到可編輯名稱伺服器的區域。
   
@@ -35,5 +35,5 @@ ms.locfileid: "36736640"
 
 3. 儲存變更。
 
-您也可以在這篇文章中找到詳細指示：[運用任何網域註冊機構變更名稱伺服器以設定 Office 365](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+您也可以在這篇文章中找到詳細指示：[使用任何網域註冊機構變更名稱伺服器](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

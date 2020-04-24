@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745424"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719295"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>帳戶遭到入侵時的建議步驟
 
-[影片：修復遭到入侵的 Office 365 帳戶](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[影片：修復遭到入侵的帳戶](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. 立即[重設使用者的密碼](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)。 請不要透過電子郵件向使用者傳達新密碼。
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745424"
 
 5. 從任何[系統管理角色群組](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles)移除使用者帳戶，直到您確定該帳戶不再受到入侵為止。
 
-若要將未來資料外洩或帳戶遭到入侵的可能性降至最低，建議您閱讀 [Office 365 安全性藍圖](https://docs.microsoft.com//office365/securitycompliance/security-roadmap)。
+若要將未來資料外洩或帳戶遭到入侵的可能性降至最低，建議您閱讀 [365 安全性藍圖](https://docs.microsoft.com//office365/securitycompliance/security-roadmap)。
   

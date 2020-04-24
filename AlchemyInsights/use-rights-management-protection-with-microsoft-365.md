@@ -12,16 +12,16 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: 149d349deed9dd698f94adb64fcc429f8e8d2afc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707363"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710686"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>使用 Microsoft 365 版權管理保護
 
-您必須先啟用 [版權管理服務 (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms)，才可以使用 Office 365 應用程式及服務的資訊版權管理 (IRM) 功能。
+您必須先啟用[版權管理服務 (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms)，才可以使用 Microsoft 應用程式及服務的資訊版權管理 (IRM) 功能。
 
 1. 如需從 **Microsoft 365 系統管理中心**的授權要求及啟用，請參閱[從 Microsoft 365 系統管理中心啟用版權管理保護的方式](https://docs.microsoft.com/azure/information-protection/activate-office365)。 **附註**：需要通用管理帳戶。
 
