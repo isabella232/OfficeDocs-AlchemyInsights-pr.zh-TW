@@ -1,5 +1,5 @@
 ---
-title: 重新啟用您的 Office 365 訂閱
+title: 啟用 Microsoft 365 訂閱
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191057"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783998"
 ---
-# <a name="activate-your-office-365-subscription"></a>重新啟用您的 Office 365 訂閱
+# <a name="activate-your-subscription"></a>啟用訂閱
 
 **啟用訂閱**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191057"
 
 **重新啟用訂閱**
 
-如果您的訂閱到期，或 Microsoft 已停用您的訂閱，或如果您在訂閱期間取消訂閱，則可在 Office 365 系統管理中心重新啟用訂閱。
+如果您的訂閱到期，或 Microsoft 已停用您的訂閱，或如果您在訂閱期間取消訂閱，則可在 Microsoft 365 系統管理中心重新啟用訂閱。
 
-- 在 Office 365 系統管理中心中，移至[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)頁面 (或按一下 [帳單] > [訂閱]****)。
+- 在 Microsoft 365 系統管理中心中，移至[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)頁面 (或按一下 [帳單] > [訂閱]****)。
 
 - 選擇您要重新啟用的訂閱，然後按一下 [重新啟用]****。 如果您在可用動作沒有看到 [重新啟用]****，請[連絡客戶支援](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)以重新啟用訂閱。
 
@@ -42,6 +42,6 @@ ms.locfileid: "43191057"
 
 **以產品金鑰啟用新訂閱**
 
-- 若要使用您的產品金鑰啟用新的 Office 365 訂閱，請從[這裡](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)開始。
+- 若要使用您的產品金鑰啟用新的 Microsoft 365 訂閱，請從[這裡](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)開始。
 
-- 輸入您的 Office 365 產品金鑰，然後遵循提示來啟用您的訂閱。 如果您有啟用方面的問題，請查看此[常見產品金鑰錯誤與解決方案](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)清單。
+- 輸入您的 Microsoft 365 產品金鑰，然後遵循提示來啟用您的訂閱。 如果您有啟用方面的問題，請查看此[常見產品金鑰錯誤與解決方案](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)清單。

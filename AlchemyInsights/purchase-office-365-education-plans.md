@@ -1,5 +1,5 @@
 ---
-title: 購買 Office 365 教育版方案
+title: 購買 Microsoft 365 教育版方案
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 7773c955d8f6887f87a3c3741fa29a08e41541e0
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195118"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789365"
 ---
-# <a name="purchase-office-365-education-plans"></a>購買 Office 365 教育版方案
+# <a name="purchase-microsoft-365-education-plans"></a>購買 Microsoft 365 教育版方案
 
-您的 Office 365 教育版申請已經核准。  購買方法如下：
+您的 Microsoft 365 教育版申請已經核准。  購買方法如下：
 
 1. 瀏覽到 [[帳單] > [購買服務]](https://portal.office.com/AdminPortal/Home#/catalog)****。
 
@@ -35,6 +35,6 @@ ms.locfileid: "43195118"
 
 **遠端教學和學習**
 
-- 請參閱 [Office 365 教育版中的遠端教學和學習](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)，以了解如何設定學校、課程規劃、虛擬會議，以及與學生共用內容的最新指導方針。
+- 請參閱 [Microsoft 365 教育版中的遠端教學和學習](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)，以了解如何設定學校、課程規劃、虛擬會議，以及與學生共用內容的最新指導方針。
 
 - 在[開始使用 Microsoft Teams 進行遠端學習](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)，以及[轉型為遠端學習](https://www.microsoft.com/education/remote-learning)中可以找到其他的 IT 指引。

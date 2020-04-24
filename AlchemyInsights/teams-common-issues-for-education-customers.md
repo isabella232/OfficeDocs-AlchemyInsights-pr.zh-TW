@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856777"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739427"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Teams 教育版客戶的常見問題
 
@@ -45,12 +45,12 @@ ms.locfileid: "42856777"
     6. 在 [商務用 Skype 系統管理中心] 中，按一下 [音訊會議]****，再按一下 [使用者]****。
     7. 選取有問題的使用者，並確認使用者有 [預設付費電話號碼]。
 
-    如需詳細資訊，請參閱 [Office 365 的通話方案](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) (英文)，或撥打 Microsoft Commerce 收費團隊，取得授權相關問題的協助。
+    如需詳細資訊，請參閱[通話方案](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) (部分機器翻譯)，或撥打 Microsoft Commerce 收費團隊，取得授權相關問題的協助。
 
     其他資源
 
     - [Microsoft Teams 中的會議和召集會議](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Office 365 的音訊會議](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [音訊會議](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **會議原則**：會議原則是針對由您組織中使用者所安排的會議，控制會議參與者可用於會議的功能。 建立原則並進行變更之後，您可以將使用者指派給該原則。
 

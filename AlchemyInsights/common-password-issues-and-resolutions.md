@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002325"
 - "4514"
-ms.openlocfilehash: 72f5eed00e11139c445b631236e4bee2fff33238
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: bc5ce953272fb13540c340cec1ab8143af398d51
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43027897"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788801"
 ---
 # <a name="common-password-issues-and-resolutions"></a>常見密碼問題和解決方案
 
@@ -28,10 +28,10 @@ ms.locfileid: "43027897"
 
 - [當密碼仍在瀏覽器中被快取時，重設遺忘的系統管理員密碼](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide#reset-my-office-365-tenant-admin-password) (部分機器翻譯)。
 
-- **自助式密碼重設**：[讓使用者在 Office 365 和 Azure 中重設自己的密碼](https://portal.office.com/adminportal/home#/SettingsMultiPivot/:/Settings/L1/SelfServiceReset)；如需詳細指示，請參閱[讓使用者重設自己的密碼](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords) (部分機器翻譯)。
+- **自助式密碼重設**：[讓使用者在 Microsoft 365 和 Azure 中重設自己的密碼](https://portal.office.com/adminportal/home#/SettingsMultiPivot/:/Settings/L1/SelfServiceReset)；如需詳細指示，請參閱[讓使用者重設自己的密碼](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords) (部分機器翻譯)。
 
 - [更新自助式密碼重設連絡人資訊](https://go.microsoft.com/fwlink/?linkid=849451) - 預設為系統管理員啟用 SSPR。 
 
 - **設定密碼過期原則**：**設定 > 設定 > 安全性與隱私權 > [密碼過期原則](https://admin.microsoft.com/AdminPortal/Home#/SettingsMultiPivot/:/Settings/L1/PasswordPolicy)**
 
-如需更多密碼重設案例，請嘗試[重設 Office 365 商務版密碼](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) (部分機器翻譯) 或輸入更具體的問題描述。
+如需更多密碼重設案例，請嘗試[重設 Microsoft 365 商務版密碼](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) (部分機器翻譯) 或輸入更具體的問題描述。
