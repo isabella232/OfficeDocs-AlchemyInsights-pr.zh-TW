@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714393"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911139"
 ---
 # <a name="ediscovery-settings"></a>電子檔探索設定
 
-eDiscovery/內容搜尋可讓您搜尋、保留及匯出 Exchange Online 信箱中的內容、SharePoint 線上及 OneDrive 商務網站、商務用 Skype 交談、Microsoft 團隊及 Office 365 群組。
+eDiscovery/內容搜尋可讓您搜尋、保留及匯出 Exchange Online 信箱中的內容、SharePoint 線上及 OneDrive 商務網站、商務用 Skype 交談、Microsoft 團隊及 Microsoft 365 群組。
 
 - 如果您正在尋找 eDiscovery 或內容搜尋功能表選項，請參閱[Ediscovery 問題](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)。
 - 瞭解從[ediscovery 搜尋所需的許可權](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)執行 ediscovery 搜尋所需的許可權。

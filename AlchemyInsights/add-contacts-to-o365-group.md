@@ -13,15 +13,15 @@ ms.custom:
 - "78"
 - "1200017"
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: 5cb1963b6ff438510c196e07fe567731ba8c8fb2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 95874a8d12c9ba8c5214f1a7fbb77f9cfc9a4db8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676236"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911031"
 ---
-# <a name="add-contacts-to-an-office-365-group"></a>新增連絡人至 Office 365 群組
+# <a name="add-contacts-to-an-microsoft-365-group"></a>將連絡人新增至 Microsoft 365 群組
 
 群組擁有者可以遵循下列指示，在 Outlook 中新增外部使用者和郵件連絡人：[新增和移除 outlook 中的群組成員](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)
   
-您也可以在系統管理員入口網站中新增或移除群組成員：[使用 Microsoft 365 系統管理中心新增或移除 Office 365 群組中的成員](https://docs.microsoft.com/office365/admin/create-groups/add-or-remove-members-from-groups)
+您也可以在系統管理員入口網站中新增或移除群組成員：[使用 microsoft 365 系統管理中心新增或移除 microsoft 365 群組中的成員](https://docs.microsoft.com/office365/admin/create-groups/add-or-remove-members-from-groups)

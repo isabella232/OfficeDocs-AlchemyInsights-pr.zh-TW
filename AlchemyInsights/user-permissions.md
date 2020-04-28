@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710506"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912885"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePoint 和 OneDrive 中的使用者權限
 
@@ -27,7 +27,7 @@ ms.locfileid: "43710506"
   
 1. 在網頁瀏覽器中開啟網站。
     
-2. 如果網站屬於 Office 365 群組，請按一下右上角的 [設定] 圖示，然後按一下 [**網站許可權**]。 按一下 [**邀請人員**]，然後選擇將成員新增至 Office 365 群組或僅共用網站。 
+2. 如果網站屬於 Microsoft 365 群組，請按一下右上角的 [設定] 圖示，然後按一下 [**網站許可權**]。 按一下 [**邀請人員**]，然後選擇新增成員至 Microsoft 365 群組或僅共用網站。 
     
     針對通訊網站，按一下右上角的 [**共用網站**]，輸入人員的名稱，然後選取許可權層級（[讀取]、[編輯] 或 [完全控制]）。 
     

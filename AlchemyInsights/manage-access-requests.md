@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721700"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912394"
 ---
 # <a name="manage-access-requests"></a>管理存取要求
 
@@ -26,7 +26,7 @@ ms.locfileid: "43721700"
     
 2. 在 [**使用者與許可權**] 底下，按一下 [**存取要求和邀請**]。 （如果不會出現，則表示未進行任何訪問要求。）
     
-3. 若要個別授予使用者許可權，請按一下 [**核准**] 或 [**拒絕**]。 若要選取特定的許可權等級，請先按一下人員名稱旁邊的省略號（...）。 或者，將使用者新增至具有網站許可權的群組。 您可以在「網站設定」頁面上，進行通訊網站與傳統小組網站。 針對屬於 Office 365 群組的網站，您可以將使用者新增至群組。
+3. 若要個別授予使用者許可權，請按一下 [**核准**] 或 [**拒絕**]。 若要選取特定的許可權等級，請先按一下人員名稱旁邊的省略號（...）。 或者，將使用者新增至具有網站許可權的群組。 您可以在「網站設定」頁面上，進行通訊網站與傳統小組網站。 針對屬於 Microsoft 365 群組的網站，您可以將使用者新增至群組。
     
     [管理存取要求](https://go.microsoft.com/fwlink/?linkid=2008747)
     

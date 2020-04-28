@@ -1,5 +1,5 @@
 ---
-title: 已超過每日的電子郵件限制。 暫止工作流程。
+title: 超過每日電子郵件限制。 工作流程已暫停。
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053108"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908695"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>超過限制每日的電子郵件。 暫止工作流程。
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>超過每日電子郵件限制。 工作流程已暫停。
 
-在下列案例中可能會收到此錯誤：
+在下列案例中，您可能會收到此錯誤：
 
-- 您可以讓工作流程在 SharePoint Online 中使用 SharePoint 2010 或 SharePoint 2013 工作流程平台類型。
-- 工作流程已設定為傳送自訂電子郵件訊息給 200 位以上的使用者在時間、 10000 個以上的收件者每日或每分鐘 30 個以上的郵件。
-- 當您執行的工作流程時，不會傳送電子郵件訊息，並請注意下列行為：
-    - 使用 [SharePoint 2013 平台類型為工作流程，您瀏覽至 [**工作流程狀態**] 頁面上。 在 [工作流程狀態] 頁面**內部的狀態**設定為 [**已啟動**，並資訊註解方塊會顯示**無法傳送給收件者**。
+- 您在使用 SharePoint 2010 或 SharePoint 2013 工作流程平臺類型的 SharePoint Online 中有工作流程。
+- 工作流程設定為一次傳送自訂的電子郵件訊息給超過200位使用者、每天超過10000個收件者，或每分鐘超過30封郵件。
+- 當您執行工作流程時，未傳送電子郵件訊息，您會注意到下列行為：
+    - 針對使用 SharePoint 2013 平臺類型的工作流程，請流覽至 [**工作流程狀態**] 頁面。 在 [工作流程狀態] 頁面上，**內部狀態**會設定為 [**已啟動**]，而 [資訊] 氣球會顯示**無法傳送給收件**者。
 
-若要解決此問題，設定您的工作流程不超過[Exchange Online 寄件者限制](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)傳送電子郵件訊息。 例如，使用工作流程中的暫停、 傳送電子郵件給 Office 365 群組、 通訊群組或擁有郵件功能的安全性群組，或將郵件傳送至 200 個收件者，一次。
+若要解決此問題，請設定工作流程以傳送電子郵件，但不超過[Exchange Online 寄件者限制](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)。 例如，在工作流程中使用 pause，將電子郵件傳送至 Microsoft 365 群組、通訊群組或啟用郵件功能的安全性群組，或一次傳送郵件給超過200個收件者。
 
 
 如需詳細資訊，請參閱下列[文章](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)。

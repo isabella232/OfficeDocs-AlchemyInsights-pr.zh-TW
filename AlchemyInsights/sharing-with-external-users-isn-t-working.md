@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767240"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912993"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>修正與外部使用者 SharePoint 內容共用的問題
 
@@ -32,7 +32,7 @@ ms.locfileid: "43767240"
     
 2. 選取網站，然後按一下功能區上的 [**共用**]。
     
-針對屬於 Office 365 群組或通訊網站的小組網站：
+針對屬於 Microsoft 365 群組或通訊網站的小組網站：
   
 - 這些新網站類型與整個組織設定具有相同的共用設定，除非整個組織設定允許使用不需要登入的連結來共用檔案。 在此情況下，網站允許與新的和現有的外部使用者共用登入。 若要變更特定網站的設定，請使用新 SharePoint 系統管理中心或 PowerShell。 [深入了解](https://go.microsoft.com/fwlink/?linkid=871863)。
     

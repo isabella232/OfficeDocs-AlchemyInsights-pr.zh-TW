@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3199"
-ms.openlocfilehash: 4edf70c9f744fd7f4c1a99788da4cda60f413441
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 67bfca96af77dcc0c151892b32b2d66e55c76025
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671268"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43910959"
 ---
 # <a name="add-users-to-a-sharepoint-group"></a>將使用者新增至 SharePoint 群組
 
 SharePoint 群組是一個使用者的集合，其中的每一組許可權都具有相同的網站和內容許可權。 您可以使用群組輕鬆地將相同的許可權等級指派給多位人員，而不是一次指派許可權。
 
 - [將使用者新增至群組](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-users-to-a-group)
-- [使用系統管理中心新增或移除 Office 365 群組中的成員](https://docs.microsoft.com/office365/admin/create-groups/add-or-remove-members-from-groups?view=o365-worldwide)
+- [使用系統管理中心新增或移除 Microsoft 365 群組中的成員](https://docs.microsoft.com/office365/admin/create-groups/add-or-remove-members-from-groups?view=o365-worldwide)

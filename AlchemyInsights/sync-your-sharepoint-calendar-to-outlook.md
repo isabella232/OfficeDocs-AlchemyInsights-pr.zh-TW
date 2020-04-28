@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: f997fa106f00d3c5598e955aea9c8e4e79a54f6e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766952"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912849"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>將行事曆同步處理至裝置的問題
 
-SharePoint 的行事曆是傳統清單類型，有時會與 Office 365 群組行事曆混淆。
+SharePoint 的行事曆是傳統清單類型，有時會與 Microsoft 365 群組行事曆混淆。
 
 若要將 SharePoint 的行事曆同步處理至 Outlook，請遵循下列步驟：
 
@@ -33,4 +33,4 @@ SharePoint 的行事曆是傳統清單類型，有時會與 Office 365 群組行
 >[!Note]
 > 當您在同步處理的 Outlook 行事曆中進行變更時，它會顯示在 SharePoint 的行事曆中，反之亦然。
 
-如需有關 Office 365 群組的詳細資訊，請參閱[本文](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)。
+如需 Microsoft 365 群組的詳細資訊，請參閱[本文](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)。

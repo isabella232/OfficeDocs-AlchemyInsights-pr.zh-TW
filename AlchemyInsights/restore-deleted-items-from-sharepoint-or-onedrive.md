@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1a1c72078f6357332f48d369e482ab20cb82f868
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742506"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912538"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>從 SharePoint 或 OneDrive 還原已刪除的專案
 
@@ -34,6 +34,6 @@ ms.locfileid: "43742506"
   
 在 Microsoft 365 中[還原已刪除的網站集合](https://go.microsoft.com/fwlink/?linkid=867660)（全域或 SharePoint 管理員） 
   
-針對屬於 Office 365 群組的網站，您必須還原群組以還原網站。 請參閱[還原已刪除的 Office 365 群組](https://go.microsoft.com/fwlink/?linkid=867802)（全域管理員） 
+針對屬於 Microsoft 365 群組的網站，您必須還原群組以還原網站。 請參閱[還原已刪除的 Microsoft 365 群組](https://go.microsoft.com/fwlink/?linkid=867802)（全域管理員） 
   
 

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709398"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908839"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>將疊加新增至 SharePoint 行事曆
 
-SharePoint 的行事曆是傳統清單類型，有時會與 Office 365 群組行事曆混淆。
+SharePoint 的行事曆是傳統清單類型，有時會與 Microsoft 365 群組行事曆混淆。
  
 如果您在網站上使用 SharePoint 的行事曆，您可以覆迭您自己的 Exchange 行事曆，以建立組合的行事曆視圖。 此外，您也可以在相同的網站集合中，將其他 SharePoint 的行事曆疊加，只要這兩 SharePoint 的行事曆都一樣。
  

@@ -11,12 +11,12 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: b9659f657555411ffd87a63bc099708b49d46300
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ab54d84f921f9cd2aa895e8a9684c638bde69838
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762128"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912213"
 ---
 # <a name="migrate-public-folder-data-to-microsoft-365"></a>將公用資料夾資料移轉至 Microsoft 365
 
@@ -28,5 +28,5 @@ ms.locfileid: "43762128"
 
 - [遷移 Exchange 2013、Exchange 2016 或 Exchange 2019 公用資料夾](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-您也可以選擇將[公用資料夾遷移至 Office 365 群組](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups)。
+您也可以選擇將[公用資料夾遷移至 Microsoft 365 群組](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups)。
   

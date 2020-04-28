@@ -12,12 +12,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703634"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908407"
 ---
 # <a name="enable-and-search-the-audit-log"></a>啟用和搜尋審核記錄
 
@@ -31,7 +31,7 @@ ms.locfileid: "43703634"
 
 - 在 Microsoft 365 中，信箱審核預設為啟用。 如需詳細資訊，請參閱[本文](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)。
 
-- Exchange Online 中的 Office 365 群組信箱和公用資料夾信箱不支援審核記錄。
+- Exchange Online 中的 Microsoft 365 群組信箱和公用資料夾信箱不支援審核記錄。
 
 **SharePoint 和 OneDrive**
 

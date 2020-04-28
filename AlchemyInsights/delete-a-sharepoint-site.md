@@ -9,12 +9,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 2ab08cfa4d0cc7d39962f91dd60fd96d046b2ded
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9a6e59f5798130856ba3d82e8d233c2c79e462a7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704968"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911535"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>從新 SharePoint 系統管理中心刪除網站
 
@@ -23,7 +23,7 @@ ms.locfileid: "43704968"
 **重要：** 如果網站是保留原則的一部分，在從[安全性&amp;合規性系統管理中心原則](https://protection.office.com/?rfr=AdminCenter#/homepage)中移除網站之前，您可能無法將其刪除。 如需詳細資訊，請參閱[保留原則一覽](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)。 
 
 技巧：
-- SharePoint 管理員現在可以刪除屬於**Office 365 群組**的網站。 這會刪除群組及其所有資源，包括 Outlook 信箱和行事曆，以及任何小組頻道。 如需詳細資訊，請參閱[Delete a SharePoint site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) 。
+- SharePoint 管理員現在可以刪除屬於**Microsoft 365 群組**的網站。 這會刪除群組及其所有資源，包括 Outlook 信箱和行事曆，以及任何小組頻道。 如需詳細資訊，請參閱[Delete a SharePoint site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) 。
 - 您可以在93天內復原已刪除的網站。 請注意，必須在30天內還原已刪除的群組。 如需詳細資訊，請參閱[View and restore deleted sites](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)。
 - 若要永久移除網站，請參閱[永久刪除網站](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site)。 如果您打算重複使用此 URL，則需要此步驟。 
 - 若要移除子網站，請參閱[刪除網站或子網站 quicksteps](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)

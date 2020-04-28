@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: aa881dd6618f6912b854929db625f4cbaeb048d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705004"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911571"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>刪除屬於 Office 365 群組的網站
+# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>刪除屬於 Microsoft 365 群組的網站
 
-當使用者從 SharePoint Home 建立新的小組網站，或從新的 SharePoint 系統管理中心建立新的小組網站時，會自動建立對應的 Office 365 群組。 當您在 Microsoft 小組中建立 Office 365 群組或小組時，也會建立 office 365 群組連線的小組網站。 若要刪除屬於 Office 365 群組的 SharePoint 網站，您必須刪除 Office 365 群組本身。 
+當使用者從 SharePoint Home 建立新的小組網站，或從新的 SharePoint 系統管理中心建立新的小組網站時，會自動建立對應的 Microsoft 365 群組。 當您在 Microsoft 小組中建立 Microsoft 365 群組或小組時，也會建立 microsoft 365 群組連線的小組網站。 若要刪除屬於 Microsoft 365 群組的 SharePoint 網站，您必須刪除 Microsoft 365 群組本身。 
   
 1. 移至[Microsoft 365 系統管理中心的群組頁面](https://portal.office.com/adminportal/home#/groups)。
     

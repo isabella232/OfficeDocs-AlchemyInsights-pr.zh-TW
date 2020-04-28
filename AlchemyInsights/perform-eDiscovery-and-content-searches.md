@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764719"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911822"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>如何執行內容搜尋和 eDiscovery 搜尋
 
-使用安全性 & 合規性中心的內容搜尋工具，在 Exchange 信箱、SharePoint 網站中的檔、OneDrive 帳戶和商務用 Skype 中的立即訊息交談中快速尋找電子郵件。 您也可以使用內容搜尋工具，在 microsoft 團隊和 Office 365 群組等 Microsoft 365 共同作業工具中搜尋電子郵件、檔和立即訊息交談。
+使用安全性 & 合規性中心的內容搜尋工具，在 Exchange 信箱、SharePoint 網站中的檔、OneDrive 帳戶和商務用 Skype 中的立即訊息交談中快速尋找電子郵件。 您也可以使用內容搜尋工具，在 microsoft 團隊和 Microsoft 365 群組等 Microsoft 365 共同作業工具中搜尋電子郵件、檔和立即訊息交談。
 
 **執行內容搜尋**
 
