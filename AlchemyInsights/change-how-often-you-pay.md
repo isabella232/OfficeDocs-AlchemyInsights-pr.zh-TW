@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: 7755f288fcc718571367cf1960962b19a82bac4f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706818"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43939646"
 ---
 # <a name="change-how-often-you-pay"></a>變更您的支付頻率
 
- **想變更您的付款頻率嗎？** 如果您想要變更您為商務用 Microsoft 365 訂閱付費的頻率（從每年到每月或每年），我們可以協助您。 您必須使用新的付款頻率購買相同的訂閱，並取消舊的訂閱。 請使用「我們呼叫您」選項，與支援工程師交談。
+若要變更您向訂閱計費和付費的頻率，請在 Microsoft 365 系統管理中心完成下列步驟。 
+1. 移至 **[帳單] > [[產品與服務](https://go.microsoft.com/fwlink/p/?linkid=842054)]**。
+2. 尋找您要變更的訂閱。 在 [**帳單**] 區段的 [**每年計費**或**計費**] 旁邊，按一下 [**編輯**]。 
+3. 選擇您想要計費的頻率選項，然後按一下 [**變更**]。
+
+**附注**：每月或每年帳單是唯一選項。
+
+如需詳細資訊，請參閱[變更您的付款頻率](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide)。
