@@ -11,12 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400007"
 - "4548"
-ms.openlocfilehash: ac7f02ae39b3c82daee577dbc0890eb8956aa9d8
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+- "9002424"
+- "5124"
+- "9002661"
+- "5160"
+- "9002663"
+- "5168"
+ms.openlocfilehash: a0a9c43fe163fd8bbb45181394d3fcbba9d082f7
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799288"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957969"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>切換到其他的商務用 Microsoft 365 方案
 
