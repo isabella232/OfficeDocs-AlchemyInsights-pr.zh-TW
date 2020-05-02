@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724547"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005249"
 ---
-# <a name="inbox-rules"></a><span data-ttu-id="398f0-102">收件匣規則</span><span class="sxs-lookup"><span data-stu-id="398f0-102">Inbox rules</span></span>
+# <a name="inbox-rules-in-outlook-desktop"></a><span data-ttu-id="316e9-102">Outlook Desktop 中的收件匣規則</span><span class="sxs-lookup"><span data-stu-id="316e9-102">Inbox rules in Outlook Desktop</span></span>
 
-<span data-ttu-id="398f0-103">如需在您自己的信箱中使用收件匣規則的詳細資訊，請參閱：</span><span class="sxs-lookup"><span data-stu-id="398f0-103">For more information about using Inbox rules in your own mailbox, see:</span></span>
+1. <span data-ttu-id="316e9-103">移至 [檔案] **> 管理規則 & 警示**]，以開啟 [**規則及通知**] 對話方塊。</span><span class="sxs-lookup"><span data-stu-id="316e9-103">Go to **File > Manage Rules & Alerts** to open the **Rules and Alerts** dialog box.</span></span>
+2. <span data-ttu-id="316e9-104">在 [**電子郵件規則**] 索引標籤上，按一下 [**新增規則**]。</span><span class="sxs-lookup"><span data-stu-id="316e9-104">On the **Email Rules** tab, click **New Rule**.</span></span>
+3. <span data-ttu-id="316e9-105">選取 [**步驟 1**] 中的其中一個範本。</span><span class="sxs-lookup"><span data-stu-id="316e9-105">Select one of the templates from **Step 1**.</span></span> <span data-ttu-id="316e9-106">若要從空白規則開始，請選取 [**在我收到**的郵件上套用規則] 或 [套用規則于我傳送的郵件]。</span><span class="sxs-lookup"><span data-stu-id="316e9-106">To start from a blank rule, select **Apply rule on messages I receive or Apply rule on messages I send**.</span></span>
+4. <span data-ttu-id="316e9-107">在 [**步驟2：編輯規則描述**] 方塊中，按一下任何帶底線的選項加以設定。</span><span class="sxs-lookup"><span data-stu-id="316e9-107">In the **Step 2: Edit the rule description box**, click on any underlined options to set them.</span></span> <span data-ttu-id="316e9-108">例如，如果您在步驟1中選取了 [**旗標為**待處理的郵件]，請按一下 [**人員或公用群組**]，以選取您要旗標的郵件。然後按一下 [**後續追蹤**] 以選取標誌和跟進日期。</span><span class="sxs-lookup"><span data-stu-id="316e9-108">For example, if you selected **Flag messages from someone for follow-up** in Step 1, click **people or public group** to select which senders' messages you want to flag; then click **follow up at this time** to select a flag and a follow-up date.</span></span>
+5. <span data-ttu-id="316e9-109">按 [下一步]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="316e9-109">Click **Next**.</span></span>
 
-- [<span data-ttu-id="398f0-104">使用 Outlook 中的電腦規則管理電子郵件</span><span class="sxs-lookup"><span data-stu-id="398f0-104">Manage email messages by using rules in Outlook for PC</span></span>](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [<span data-ttu-id="398f0-105">使用 Outlook 網頁版中的收件匣規則管理郵件</span><span class="sxs-lookup"><span data-stu-id="398f0-105">Manage your messages by using inbox rules in Outlook on the web</span></span>](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-<span data-ttu-id="398f0-106">您也可以在 Exchange Online 中管理收件匣規則 PowerShell。</span><span class="sxs-lookup"><span data-stu-id="398f0-106">You can also manage Inbox rules in Exchange Online PowerShell.</span></span> <span data-ttu-id="398f0-107">如需詳細資訊，請參閱[disable-inboxrule 程式](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule)（view）、 [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) （建立）、 [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) （刪除）、 [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) （修改現有）、 [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) （停用現有）及[啟用-disable-inboxrule 程式](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)（啟用現有）。</span><span class="sxs-lookup"><span data-stu-id="398f0-107">For more information, see [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (view), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (delete), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modify existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (disable existing), and [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (enable existing).</span></span>
+<span data-ttu-id="316e9-110">如需如何處理收件匣規則的其他資訊，請參閱[使用規則管理電子郵件訊息](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59)。</span><span class="sxs-lookup"><span data-stu-id="316e9-110">For additional information on how to work with inbox rules please see [Manage email messages by using rules](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).</span></span>
