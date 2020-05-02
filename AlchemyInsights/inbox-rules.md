@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724547"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005249"
 ---
-# <a name="inbox-rules"></a>收件匣規則
+# <a name="inbox-rules-in-outlook-desktop"></a>Outlook Desktop 中的收件匣規則
 
-如需在您自己的信箱中使用收件匣規則的詳細資訊，請參閱：
+1. 移至 [檔案] **> 管理規則 & 警示**]，以開啟 [**規則及通知**] 對話方塊。
+2. 在 [**電子郵件規則**] 索引標籤上，按一下 [**新增規則**]。
+3. 選取 [**步驟 1**] 中的其中一個範本。 若要從空白規則開始，請選取 [**在我收到**的郵件上套用規則] 或 [套用規則于我傳送的郵件]。
+4. 在 [**步驟2：編輯規則描述**] 方塊中，按一下任何帶底線的選項加以設定。 例如，如果您在步驟1中選取了 [**旗標為**待處理的郵件]，請按一下 [**人員或公用群組**]，以選取您要旗標的郵件。然後按一下 [**後續追蹤**] 以選取標誌和跟進日期。
+5. 按 [下一步]****。
 
-- [使用 Outlook 中的電腦規則管理電子郵件](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [使用 Outlook 網頁版中的收件匣規則管理郵件](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-您也可以在 Exchange Online 中管理收件匣規則 PowerShell。 如需詳細資訊，請參閱[disable-inboxrule 程式](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule)（view）、 [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) （建立）、 [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) （刪除）、 [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) （修改現有）、 [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) （停用現有）及[啟用-disable-inboxrule 程式](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)（啟用現有）。
+如需如何處理收件匣規則的其他資訊，請參閱[使用規則管理電子郵件訊息](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59)。

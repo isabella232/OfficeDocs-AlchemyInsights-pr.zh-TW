@@ -1,5 +1,5 @@
 ---
-title: 如何購買 Office 365 以取得非盈利
+title: 非營利組織的 Microsoft 365-已拒絕
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: a529d4cb278c0c732a603acea11310e47f90ec57
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: facb44c932a2a610df3c4714c102a666bdf9aa20
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763604"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005285"
 ---
-# <a name="how-to-purchase-office-365-for-nonprofits"></a>如何購買適用于非營利組織的 Office 365
+# <a name="microsoft-365-for-nonprofits---declined"></a>非營利組織的 Microsoft 365-已拒絕
 
 我們已複查您的要求，並確定此組織不是 Microsoft 合格的非盈利性組織。
   
