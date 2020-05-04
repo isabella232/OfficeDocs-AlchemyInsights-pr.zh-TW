@@ -10,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763208"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010605"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>在終端機伺服器上安裝 Office
 
@@ -23,7 +23,7 @@ ms.locfileid: "43763208"
   
 - 您必須擁有包含 Microsoft 365 應用程式（如 Office 365 企業版 E3 或企業版 E5）的 Microsoft 365 訂閱。 適用于商務用的 Microsoft 365 應用程式和 Microsoft 365 應用程式特優方案不包含適用于企業的 Microsoft 365 應用程式。
 
-- 您需要啟用[共用電腦](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)啟用。
+- 您需要啟用[共用電腦](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)啟用。
 
 如果您想要在 Microsoft 365 系統管理中心（***使用預設安裝設定***）的 RDS 上安裝 Microsoft 365 應用程式，請使用下列步驟。
 
@@ -48,9 +48,9 @@ ms.locfileid: "43763208"
 
 3. 在 [登錄編輯程式] 的 [\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.] 底下，新增**SharedComputerLicensing**的設定為 HKEY_LOCAL_MACHINE 1 的字串值。
 
-7. 在 RDS 伺服器上，以使用者身分登***入***，並[確認已針對 enterprise 的 Microsoft 365 應用程式啟用共用電腦啟用](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)。
+7. 在 RDS 伺服器上，以使用者身分登***入***，並[確認已針對 enterprise 的 Microsoft 365 應用程式啟用共用電腦啟用](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)。
 
-如需有關使用 Office 部署工具自訂安裝的必要條件、設定指示和指導方針的詳細資訊，請參閱[使用遠端桌面服務部署適用于企業的 Microsoft 365 應用程式](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)。
+如需有關使用 Office 部署工具自訂安裝的必要條件、設定指示和指導方針的詳細資訊，請參閱[使用遠端桌面服務部署適用于企業的 Microsoft 365 應用程式](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)。
   
-若要修正與共享電腦啟用相關的錯誤，請參閱[Microsoft 365 應用程式的共用電腦啟用問題疑難排解](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)。
+若要修正與共享電腦啟用相關的錯誤，請參閱[Microsoft 365 應用程式的共用電腦啟用問題疑難排解](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)。
   

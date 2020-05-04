@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: ddd44d40e9430ee31b8b734450dde0defef229d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704696"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010245"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>部署適用于 RDS、終端機伺服器或 VDI 的 Microsoft 365 應用程式，供企業共用使用
 
@@ -25,15 +25,15 @@ ms.locfileid: "43704696"
 - 您必須具有 Microsoft 365 For Business plan 或 Office 365 方案，其中包含適用于企業的 Microsoft 365 應用程式，例如 Office 365 企業版 E3 或企業版 E5。
    > [!NOTE] 
    > Microsoft 365 應用程式與 Microsoft 365 商務版的 Standard 方案不包含適用于企業的 Microsoft 365 應用程式。
-- 您必須啟用[共用電腦](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)啟用。
+- 您必須啟用[共用電腦](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)啟用。
 
 > [!NOTE]
 > 您也可以下載並執行[Microsoft 支援及修復](https://aka.ms/SaRA_OfficeSCA_M365Portal)小幫手，以在共用電腦啟用模式中安裝適用于企業的 Microsoft 365 應用程式。
 
-如需有關使用 Office 部署工具自訂安裝之先決條件、安裝程式指示及指導方針的詳細資訊，請參閱[使用遠端桌面服務部署 Microsoft 365 應用程式（適用于企業](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)）。
+如需有關使用 Office 部署工具自訂安裝之先決條件、安裝程式指示及指導方針的詳細資訊，請參閱[使用遠端桌面服務部署 Microsoft 365 應用程式（適用于企業](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)）。
 
 若要修正與共享電腦啟用相關的錯誤：
-- 請參閱[疑難排解 Microsoft 365 應用程式的共用電腦啟用問題（適用于企業](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)）。
+- 請參閱[疑難排解 Microsoft 365 應用程式的共用電腦啟用問題（適用于企業](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)）。
 - 請參閱[重設 Microsoft 365 Apps 企業版啟用狀態](https://go.microsoft.com/fwlink/?linkid=2109218)。
 
 如果您想要在 Microsoft 365 系統管理中心（***使用預設安裝設定***）的 RDS 上安裝 Microsoft 365 應用程式，請使用下列步驟：
@@ -47,5 +47,5 @@ ms.locfileid: "43704696"
    1. 以滑鼠右鍵按一下螢幕左下角的 [Windows] 按鈕，然後選取 [**執行**]。 在 [開啟] 方塊中輸入**regedit**，然後選取 **[確定]**。
    2. 當系統提示允許登錄編輯程式對您的裝置進行變更時，請選取 **[是]** 。
    3. 在 [登錄編輯程式] 的 [\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.] 底下，新增**SharedComputerLicensing**的設定為 HKEY_LOCAL_MACHINE 1 的字串值。
-   4. 在 RDS 伺服器上，以使用者身分登***入***，並[確認已針對 enterprise 的 Microsoft 365 應用程式啟用共用電腦啟用](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)。
+   4. 在 RDS 伺服器上，以使用者身分登***入***，並[確認已針對 enterprise 的 Microsoft 365 應用程式啟用共用電腦啟用](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)。
 
