@@ -13,13 +13,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: eeff05f8dff1fec44b1eba9a7977309c66ba45fc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: de9c053dfaa3842c6539a324324a31fd53a8c761
+ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716199"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021525"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a><span data-ttu-id="e39bf-102">在錯誤的帳戶上啟用大量授權企業合約</span><span class="sxs-lookup"><span data-stu-id="e39bf-102">Volume licensing enterprise agreement activated on wrong account</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="2aac4-102">已在錯誤的帳戶上啟用大量授權企業合約，或從一個帳戶將授權傳送至另一個帳戶</span><span class="sxs-lookup"><span data-stu-id="2aac4-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
 
-<span data-ttu-id="e39bf-103">如果您發現透過大量授權企業合約購買的訂閱已在錯誤的承租人上啟動，請使用「我們撥打您的電話」選項，與支援工程師交談。</span><span class="sxs-lookup"><span data-stu-id="e39bf-103">If you find your subscriptions purchased through a Volume Licensing Enterprise Agreement have been activated on the wrong tenant, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="2aac4-103">如果您發現透過**大量授權企業合約**購買的訂閱已在**錯誤的承租人**上啟動，或是您想要將授權從一個租使用者**傳輸**到另一個租使用者，請與[Microsoft 大量授權服務中心](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)聯繫。</span><span class="sxs-lookup"><span data-stu-id="2aac4-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please contact the [Microsoft Volume Licensing Service Center](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).</span></span>
