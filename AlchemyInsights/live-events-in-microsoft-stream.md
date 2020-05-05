@@ -11,18 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001511"
 - "3571"
-ms.openlocfilehash: c2d87ae326da3a99e46b0d71f5dcf3b48cb16c22
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 41bbec42eeaba3545937700eee23573879133644
+ms.sourcegitcommit: 264b782ac2fba8ffd84524180dc4f7d60b45e9a4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564144"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44015716"
 ---
 # <a name="live-events-in-microsoft-stream"></a>Microsoft Stream 中的即時事件
 
 您可以使用 Microsoft 資料流程透過整個組織建立即時事件。 您可以針對整個公司的事件、領導更新等各種案例，排程、產生及傳遞即時事件。
 
-- [Microsoft Stream 中的即時事件](https://docs.microsoft.com/stream/live-event-overview)
 - [在 Microsoft Stream 中建立即時事件](https://docs.microsoft.com/stream/live-create-event)
 - [開始使用 Microsoft 團隊 live 事件](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
 - [在 Microsoft Stream 中設定即時資料流的編碼器](https://docs.microsoft.com/stream/live-encoder-setup)

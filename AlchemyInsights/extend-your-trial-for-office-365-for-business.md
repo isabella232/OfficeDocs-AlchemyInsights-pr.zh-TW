@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 90feb8198061c6cc5ab5774360c4e421492420b9
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005321"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016859"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>為商務用 Microsoft 365 延長您的試用版
 
-您可以在30天內延長試用期。 之後，您的試用版會變成30天[內的寬限期](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)。 請遵循下列步驟來延長您的試用版：
+您可以將免費試用版延長一個30天的期限。 之後，您的試用期會進入30天的[寬限期](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)。 請遵循下列步驟來延長您的試用版：
   
 1. 在系統管理中心中，移至 [**帳單** \> [產品 & 服務](https://portal.office.com/adminportal/home#/subscriptions)]。
 
