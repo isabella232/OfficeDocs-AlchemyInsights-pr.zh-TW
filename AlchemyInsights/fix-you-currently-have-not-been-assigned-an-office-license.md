@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: aceea65f054299797e989330b64af17a24fd5389
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218100"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010173"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>修正 - 「您尚未獲派 Office 授權」
 
-若要安裝 Office 用戶端應用程式，請確定您擁有 Office 365 或[包含 Office 用戶端應用程式](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) (例如 Office 365 商務進階版、Office 365 商務版或 Office 365 專業增強版) 的 Microsoft 365 訂用帳戶。
+若要安裝 Office 用戶端應用程式，請確定您有 Office 365 或 Microsoft 365 訂閱，並且其中[包含 Office 用戶端應用程式](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e)，例如 Microsoft 365 商務進階版、Microsoft 365 Apps 商務版或 Microsoft 365 Apps 企業版。
 
-**附註**：[Office 家用及中小企業版](https://products.office.com/home-and-business)是[家用 Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) 產品，不屬於商務應用程式。 Project Online 基本版不包含電腦版 Project，所以不需要安裝。 Visio 方案 1 使用者可以存取 Visio 網頁版，因為此方案不包含 Visio傳統型應用程式。 您無法在 Mac 上使用 Project 和 Visio 傳統型應用程式
+**附註**：[Office 家用及中小企業版](https://products.office.com/home-and-business)是 [Office 家用版](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)產品，不屬於商務版訂閱。 Project Online 基本版不包含電腦版 Project，所以不需要安裝。 Visio 方案 1 使用者可以存取 Visio 網頁版，因為此方案不包含 Visio傳統型應用程式。 您無法在 Mac 上使用 Project 和 Visio 傳統型應用程式
 
 如果您有包含 Office 應用程式的訂用帳戶，您將不會看到安裝的選項，除非您有[指派的授權](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)。 如果您是負責指派授權的 Office 365 系統管理員，請參閱[指派授權給使用者](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)。
 

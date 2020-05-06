@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: 2593baeb696ae4dcc74dd997ff5e9f630897fea9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761411"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010713"
 ---
 # <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Office 應用程式訊息 - 我們在您帳戶中找到的產品無法用來啟用
 
@@ -28,7 +28,7 @@ ms.locfileid: "43761411"
 
 - 在受影響的電腦上，[重設 Office 啟用狀態](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632)。
 
-如需共用電腦案例，請參閱[針對 Office 365 專業增強版的共用電腦啟用進行疑難排解](https://support.office.com/article/office-error-the-products-we-found-in-your-account-can-t-be-used-to-activate-c9f9a0b3-5aae-4131-8077-21e6a59f141e)
+如需共用電腦案例，請參閱[針對 Microsoft 365 應用程式的共用電腦啟用進行疑難排解](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation) (部分機器翻譯)
 
 如需詳細資訊，請參閱： 
 
