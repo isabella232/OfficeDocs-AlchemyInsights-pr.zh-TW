@@ -1,5 +1,5 @@
 ---
-title: 產品 & 服務
+title: 您的產品
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758781"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062852"
 ---
-# <a name="products--services"></a>產品 & 服務
+# <a name="your-products"></a>您的產品
 
-您可以在 [**帳單** > [**產品 & 服務**](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上找到您的組織所擁有的訂閱。 以下是此頁面的一些重點，以及每項功能的詳細資訊連結：
+您可以在 [**帳單** > **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面上找到您的組織所擁有的訂閱。 以下是此頁面的一些重點，以及每項功能的詳細資訊連結：
 
 1. 管理每個訂閱已購買的授權數量，以及使用的數量。  **附注**：尚未使用的授權（未指派給使用者）仍會收費。  若未針對未使用的授權收費，請減少購買的授權數量。 如需如何從訂閱新增或移除授權的詳細資訊，請參閱 how [to add or 減少授權](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)。
 

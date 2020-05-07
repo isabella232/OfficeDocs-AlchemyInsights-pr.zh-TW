@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 83fd98202d57c2ffceac4fcac8a928626d0ca203
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666768"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062888"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>預付 Microsoft 365 更新
 
-1. 在系統管理中心，移至 [帳單]**** \> [產品與服務][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
+1. 在系統管理中心中，移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
 
 2. 尋找您要擴充的訂閱。 在 [**帳單**] 區段中，選取 [**結束日期**]。
 

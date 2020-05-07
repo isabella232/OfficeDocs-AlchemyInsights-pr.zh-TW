@@ -12,18 +12,18 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: e97658ab8fff504c8adccfa7e68cce0b613aee53
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: e02e5e835446626152c8dd98207898de52ae6933
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957825"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063788"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>新增或移除訂閱的授權
 
 以下說明如何新增/移除授權。
   
-1. 流覽至**帳單 >[訂閱](https://portal.office.com/adminportal/home#/subscriptions)**。
+1. 在系統管理中心中，移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
 
 2. 選擇您要新增/移除授權的訂閱。
 
@@ -37,7 +37,7 @@ ms.locfileid: "43957825"
 
 如需如何指派授權的詳細資訊，請參閱[將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
 
- **資源**
+**資源**
   
 - [管理訂閱授權-購買或移除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
