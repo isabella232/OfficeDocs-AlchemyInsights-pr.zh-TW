@@ -13,18 +13,18 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 0e1fc4fc2c0905b957de6d6db9b4a19bda4965a7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 903e4a83a00b2ab8d6068b3bc7ee88a73e6d5cdc
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762596"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063824"
 ---
 # <a name="manage-recurring-billing"></a>管理週期性帳單
 
 您可以在 Microsoft 365 系統管理中心中開啟或關閉「重複帳單」。
   
-1. 在系統管理中心，移至 [帳單]**** \> [產品與服務][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
+1. 在系統管理中心中，移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
 
 2. 在 [**帳單**] 底下的 [**續訂開啟**] 或 [**到期**日] 旁邊，選取 [**編輯**]。
 
@@ -32,4 +32,4 @@ ms.locfileid: "43762596"
 
 4. 選取 [**提交變更**]。
 
-若要深入了解，請參閱[關閉或開啟週期性計費](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on)。
+若要深入了解，請參閱[關閉或開啟週期性計費](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)。

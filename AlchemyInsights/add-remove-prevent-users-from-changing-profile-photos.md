@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 2b709313a1b88e2c3e0f99ad9f445910f0ca0fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671484"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061987"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>新增、移除或防止使用者變更設定檔相片
 
@@ -24,6 +24,6 @@ ms.locfileid: "43671484"
 
 - **移除設定檔相片：** 個人資料相片可由[Azure Active Directory 使用者管理](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers)中的系統管理員或 Microsoft 團隊使用者設定檔中的使用者移除。
 
-- **封鎖設定檔相片變更：** 您可以在每個文章中新增 Outlook Web App 原則，[鎖定照片或限制變更 Microsoft 365 設定檔相片的許可權](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d)，以封鎖所有 Microsoft 365 * 的相片變更。
+- **封鎖設定檔相片變更：** 您可以在每個文章中新增 Outlook Web App 原則，[鎖定照片或限制變更 Microsoft 365 設定檔相片的許可權](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d)，以封鎖所有 Microsoft 365 * 的相片變更。
 
 * 請注意，Microsoft 小組目前不支援 Outlook Web App 原則來封鎖照片變更，但計畫在早些2020的情況下新增此功能的支援。

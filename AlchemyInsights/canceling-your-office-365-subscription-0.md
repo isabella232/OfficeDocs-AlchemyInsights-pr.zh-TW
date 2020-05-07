@@ -13,18 +13,18 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 386d399ddddc553862649b548a58ff42abd0923d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: abe3f6950fa9e35eb3154832ebdaffd42bd5dc50
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711514"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44059068"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>取消 Microsoft 365 訂閱？
 
 很抱歉看到您離開！
   
-根據您的組織資料，我們相信您目前的所有訂閱都少於25個座位。 若要取消線上訂閱，請移至**帳單** \> [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)頁面。 在 [**設定 & 動作**] 區段中，選擇 [**取消訂閱**]。
+根據您的組織資料，我們相信您目前的所有訂閱都少於25個座位。 若要取消線上訂閱，請移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。 在 [**設定 & 動作**] 區段中，選擇 [**取消訂閱**]。
   
 **退款：在下一個計費週期內，任何按比例支付的信用額度都會傳回給您。** 
 

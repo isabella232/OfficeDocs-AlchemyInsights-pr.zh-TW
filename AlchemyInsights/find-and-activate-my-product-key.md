@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716127"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062455"
 ---
 # <a name="find-and-activate-my-product-key"></a>尋找及啟用我的產品金鑰
 
@@ -32,7 +32,7 @@ ms.locfileid: "43716127"
 
 **附注**：若要使用產品金鑰來擴充到期日或新增授權至現有的 Microsoft 365 商務版 Standard 訂閱，您需要同一個 microsoft 365 訂閱使用新的和未使用的金鑰。  輸入您原始的 Microsoft 365 產品金鑰將無法運作，因為已兌換的金鑰無法再使用。
 
-1. 在系統管理中心中，移至 [**帳單** > [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面。
+1. 在系統管理中心中，移至 [**帳單** > **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
 
 2. 尋找您想要擴充到期日或新增授權的訂閱。  按一下 [[延長結束日期](https://go.microsoft.com/fwlink/p/?linkid=842054)] 或 [[新增更多授權](https://go.microsoft.com/fwlink/p/?linkid=842054)]。
 
