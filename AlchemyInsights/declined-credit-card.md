@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705076"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062275"
 ---
 # <a name="declined-credit-card"></a>拒絕的信用卡
 
-如果您以信用卡付款，但信用卡遭到拒絕，您會收到一封電子郵件，通知您我們無法處理這筆款項。 請仔細檢查[信用卡詳細資料](https://go.microsoft.com/fwlink/p/?linkid=842054)-信用卡號碼、到期日、信用卡上的名稱，以及位址（包括市/縣、州及郵遞區號），與其在信用卡和信用卡對帳單上的顯示方式完全相同。 您可以使用 [[產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上的 [**結算餘額**] 選項，更新您的信用卡資訊，並立即提交付款。 
+如果您以信用卡付款，但信用卡遭到拒絕，您會收到一封電子郵件，通知您我們無法處理這筆款項。 請仔細檢查[信用卡詳細資料](https://go.microsoft.com/fwlink/p/?linkid=842054)-信用卡號碼、到期日、信用卡上的名稱，以及位址（包括市/縣、州及郵遞區號），與其在信用卡和信用卡對帳單上的顯示方式完全相同。 您可以使用 [**[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面上的 [**結算餘額**] 選項，更新您的信用卡資訊，並立即送出支付方式。 
 
 若要深入瞭解，請參閱「如果我的信用卡已到期且付款逾期，該怎麼辦？」 以[支付您的 Microsoft 365 for business 訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)。
   
