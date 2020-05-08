@@ -12,20 +12,20 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: c7d998c56747799e139e8e2035cbccfe71cce14b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66ce0cfed20990a7a6bc6307360a8bc7d91822c8
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709614"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063572"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>如何新增或編輯 VatID
 
-**附注**：如果您的國家/地區是使用加值稅（加值稅）（如英國），Microsoft 開具發票會為您計算加值稅，並將該金額套用到您的發票。 如需詳細資訊，請參閱歐洲委員會發佈的[VIES 免責聲明](https://go.microsoft.com/fwlink/?LinkID=841741)。
+**附注**：如果您的國家/地區是使用加值稅（加值稅）（如英國），Microsoft 開具發票會為您計算加值稅，並將該金額套用到您的發票。 如需詳細資訊，請參閱歐洲委員會發佈的[VIES 免責聲明](https://go.microsoft.com/fwlink/p/?LinkID=841741)。
 
 **新增或編輯 VatID**
 
-1. 在 Microsoft 365 系統管理中心中，移至 [**帳單** \> [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面。
+1. 在 Microsoft 365 系統管理中心中，移至 [**帳單** \> [產品](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面。
 
 2. 尋找您要更新之訂閱的訂閱卡。
 

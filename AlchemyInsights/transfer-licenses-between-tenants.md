@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: 19366565b8ecef5e89a2deb9fa1b4ff2476246cf
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: e3bbe36ff57038caa2541fe4456a1363c91995d7
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789437"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016895"
 ---
 # <a name="transfer-licenses-between-tenants"></a>在租用戶之間轉移授權
 
-您無法在 2 個組織 (租用戶) 之間轉移授權。 
+您**無法**在 2 個組織 (租用戶) 之間轉移授權。 如果您是大量授權客戶，請與[大量授權服務中心](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)連絡。 否則，請遵循以下提供的步驟： 
 
 - 如果您不打算再使用您要轉移的來源租用戶，您可以[取消訂閱](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions)，並[購買新的](https://products.office.com/compare-all-microsoft-office-products-b?rtc=1&activetab=tab:primaryr2) (目標) 租用戶。
 

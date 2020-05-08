@@ -13,18 +13,18 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 083e5298aba0ddd3b5d87cf482fdd949a2ee34da
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741818"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063248"
 ---
 # <a name="subscription-recurring-billing"></a>訂閱定期計費
 
 如果您想要知道您每月或每年的訂閱將會計費（如果**定期計費**已開啟）或到期（如果關閉**重複計費**）：
   
-1. 在系統管理中心，移至 [帳單]**** \> [產品與服務][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
+1. 在系統管理中心中，移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
 
 2. 針對您想要深入瞭解的訂閱，在 [**帳單**] 底下，查看 [更新**開啟**] 或 [**到期**日]。
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4883c5a8fe77610e86a66637e2e12c3a18fe6e67
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692864"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063644"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>警告訊息：您組織的原則不允許與這些使用者共用
 
@@ -23,12 +23,12 @@ ms.locfileid: "43692864"
 
 檢查**SharePoint，並 OneDrive 組織的外部共用設定**。
 
-1. 在您的[Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)中，選取 [ **SharePoint**]。
+1. 在您的[Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)中，選取 [ **SharePoint**]。
 3. 選取 [**共用**]，以查看外部共用設定。
 
 檢查特定網站的**外部共用設定**。
 
-1. 在您的[Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)中，選取 [ **SharePoint**]。
+1. 在您的[Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)中，選取 [ **SharePoint**]。
 2. 選取 [使用中的**網站**]，查看您的網站。
 3. 選取您要檢查的網站，然後選取顯示在功能表列中的 [**共用**] 按鈕，以確認網站的設定。
 

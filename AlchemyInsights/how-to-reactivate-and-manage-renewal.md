@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763424"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064076"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>如何重新啟用和管理週期性帳單
 
 您的訂閱似乎已過期。 如果您想要重新啟用它，請參閱操作方法。
   
-1. 在系統管理中心，移至 [帳單]**** \> [產品與服務][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
+1. 在系統管理中心中，移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
 
 2. 找到您想要重新啟動的訂閱。 在 [**帳單**] 區段中，選取 [**重新**啟用]。
 
@@ -36,7 +36,7 @@ ms.locfileid: "43763424"
 
 若要管理每月或每年帳單，您可以切換**定期計費**。
   
-1. 在系統管理中心，移至 [帳單]**** \> [產品與服務][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
+1. 在系統管理中心中，移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
 
 2. 選擇您想要管理週期性計費的訂閱。
 

@@ -6,19 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762308"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043028"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Bing 專用 Microsoft 搜尋和 Microsoft 365 應用程式企業版
 
-從 Microsoft 365 應用程式企業版的版本 2002 開始，將會安裝 Bing 專用 Microsoft 搜尋擴充功能，使 Bing 僅在某些位置的裝置上成為 Google Chrome 網路瀏覽器的預設搜尋引擎。
+從版本 2005 開始，適用於 Google Chrome 的***選用*** Bing 專用 Microsoft 搜尋延伸模組可與 Microsoft 365 應用程式企業版 (舊稱為 Office 365 ProPlus) 搭配使用。 在特定位置中，此延伸模組可用於加入網域並執行 Windows 的裝置。 如果您決定要部署此延伸模組，其會將 Bing 設定為預設的搜尋引擎。
 
-**如果您不想安裝該延伸模組，請[按照下列步驟進行](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed)。**
+若要安裝延伸模組，您必須在 Microsoft 365 系統管理中心的 [Microsoft 搜尋] 區段中設定一個設定，以***選擇加入***。
 
-即使在安裝延伸模組後，您的使用者還是可使用簡單的 [開啟/關閉][](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome) 開關來輕鬆停止使用 Bing 做為預設的搜尋引擎，或者您也可以從組織中多個裝置上[移除延伸模組](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed)。
+從版本 2005 開始，部署此***選用***延伸模組也依賴隨附於 Microsoft 365 應用程式企業版的背景服務。 如果尚未安裝背景服務，則不會安裝延伸模組。
 
-[此處](https://docs.microsoft.com/deployoffice/microsoft-search-bing)的詳細說明文章，可協助您深入了解此變更。
+即使在安裝延伸模組之後，您的使用者仍可使用簡單的開啟/關閉切換，輕鬆地停止使用 Bing 做為預設的搜尋引擎。
+
+如需有關部署此***選用***延伸模組的詳細資訊，請參閱 [Bing 專用 Microsoft 搜尋和 Microsoft 365 應用程式企業版](https://docs.microsoft.com/deployoffice/microsoft-search-bing)。
