@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714141"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063464"
 ---
 # <a name="expired-subscription"></a>已到期訂閱
 
@@ -26,7 +26,7 @@ ms.locfileid: "43714141"
   
 **重新啟用**
   
-1. 在系統管理中心，移至 [帳單]**** \> [產品與服務][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
+1. 在系統管理中心中，移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
 
 2. 找到您想要重新啟動的訂閱。 在 [帳單]**** 區段中，選擇 [重新啟動]****。
 
@@ -38,7 +38,7 @@ ms.locfileid: "43714141"
 
 **進行新購買**
   
-1. 在系統管理中心中，移至 [**帳單** \> [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)] 頁面。
+1. 在系統管理中心中，移至 [**帳單** \> **[購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)**] 頁面。
 
 2. 選擇您要購買的訂閱，然後選擇 [**購買**]。
 
