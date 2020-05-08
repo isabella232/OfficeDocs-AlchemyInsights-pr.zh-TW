@@ -12,19 +12,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 0d3d788d913137d1083326ee5b69ce4ce5d4178d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 03fb25b88b06f85ea4d2dfe53b123ce77c39aaf4
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698265"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062671"
 ---
-# <a name="questions-about-your-microsoft-365-license"></a><span data-ttu-id="eab23-102">Microsoft 365 授權的相關問題</span><span class="sxs-lookup"><span data-stu-id="eab23-102">Questions about your Microsoft 365 license</span></span>
+# <a name="questions-about-your-microsoft-365-license"></a><span data-ttu-id="5421e-102">Microsoft 365 授權的相關問題</span><span class="sxs-lookup"><span data-stu-id="5421e-102">Questions about your Microsoft 365 license</span></span>
 
-<span data-ttu-id="eab23-103">如果您想要知道您購買的授權數目，或是指派給訂閱的授權數目：</span><span class="sxs-lookup"><span data-stu-id="eab23-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
+<span data-ttu-id="5421e-103">如果您想要知道您購買的授權數目，或是指派給訂閱的授權數目：</span><span class="sxs-lookup"><span data-stu-id="5421e-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
   
-1. <span data-ttu-id="eab23-104">在系統管理中心，移至 [帳單]\*\*\*\* \> [產品與服務][](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。</span><span class="sxs-lookup"><span data-stu-id="eab23-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="5421e-104">在系統管理中心中，移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。</span><span class="sxs-lookup"><span data-stu-id="5421e-104">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="eab23-105">尋找您想要深入瞭解的訂閱。</span><span class="sxs-lookup"><span data-stu-id="eab23-105">Find the subscription you want to know more about.</span></span> <span data-ttu-id="eab23-106">您可以看到您要支付的授權數量，以及可供指派的授權數量。</span><span class="sxs-lookup"><span data-stu-id="eab23-106">You can see the number of licenses you are paying for and how many are available to be assigned.</span></span>
+2. <span data-ttu-id="5421e-105">尋找您想要深入瞭解的訂閱。</span><span class="sxs-lookup"><span data-stu-id="5421e-105">Find the subscription you want to know more about.</span></span> <span data-ttu-id="5421e-106">您可以看到您要支付的授權數量，以及可供指派的授權數量。</span><span class="sxs-lookup"><span data-stu-id="5421e-106">You can see the number of licenses you are paying for and how many are available to be assigned.</span></span>
 
-<span data-ttu-id="eab23-107">如果您想要新增更多授權，或若您有太多授權，請選擇 [**新增/移除授權**] 以調整購買的金額。</span><span class="sxs-lookup"><span data-stu-id="eab23-107">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
+<span data-ttu-id="5421e-107">如果您想要新增更多授權，或若您有太多授權，請選擇 [**新增/移除授權**] 以調整購買的金額。</span><span class="sxs-lookup"><span data-stu-id="5421e-107">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
