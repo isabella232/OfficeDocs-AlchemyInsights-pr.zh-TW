@@ -13,21 +13,25 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 036b6f94efda76db35b2b7966bac0299db348c86
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.openlocfilehash: a0bbc046c28ec246090dbc275f6acb3ccbce8622
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44058671"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44221936"
 ---
-# <a name="change-payment-method"></a><span data-ttu-id="6648e-102">變更付款方式</span><span class="sxs-lookup"><span data-stu-id="6648e-102">Change payment method</span></span>
+# <a name="change-payment-method"></a><span data-ttu-id="fb5f3-102">變更付款方式</span><span class="sxs-lookup"><span data-stu-id="fb5f3-102">Change payment method</span></span>
 
-<span data-ttu-id="6648e-103">您可以從**Microsoft 365 系統管理中心**變更支付方式。</span><span class="sxs-lookup"><span data-stu-id="6648e-103">You can change the payment method from the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="fb5f3-103">您可以從**Microsoft 365 系統管理中心**變更支付方式。</span><span class="sxs-lookup"><span data-stu-id="fb5f3-103">You can change the payment method from the **Microsoft 365 admin center**.</span></span>
   
-1. <span data-ttu-id="6648e-104">在系統管理中心中，移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。</span><span class="sxs-lookup"><span data-stu-id="6648e-104">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="fb5f3-104">在系統管理中心中，移至**帳單**  >  **& 付款**  >  [方法](https://go.microsoft.com/fwlink/p/?linkid=2018806)] 頁面。</span><span class="sxs-lookup"><span data-stu-id="fb5f3-104">In the admin center, go to the **Billing** > **Bills & payments** > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+2. <span data-ttu-id="fb5f3-105">選取要取代的付款條件列。</span><span class="sxs-lookup"><span data-stu-id="fb5f3-105">Select the row of the payment method to replace.</span></span> <span data-ttu-id="fb5f3-106">右窗格會列出所有記帳設定檔，以及使用所選付款條件的個別訂閱。</span><span class="sxs-lookup"><span data-stu-id="fb5f3-106">The right pane lists all billing profiles and individual subscriptions that use the selected payment method.</span></span>
+3. <span data-ttu-id="fb5f3-107">在右窗格中，選取 [**取代所有專案的支付方式**]。</span><span class="sxs-lookup"><span data-stu-id="fb5f3-107">In the right pane, select **Replace payment method for all items**.</span></span>
+4. <span data-ttu-id="fb5f3-108">若要使用現有的付款條件，請從下拉式清單中選擇一個，然後選取 [**取代**]。</span><span class="sxs-lookup"><span data-stu-id="fb5f3-108">To use an existing payment method, choose one from the drop-down list, then select **Replace**.</span></span>
+    > [!NOTE]
+    > <span data-ttu-id="fb5f3-109">如果您有與帳單設定檔相關聯的訂閱，則只能使用信用或轉帳卡支付費用。</span><span class="sxs-lookup"><span data-stu-id="fb5f3-109">If you have subscriptions associated with a billing profile, you can only use a credit or debit card to pay for them.</span></span> <span data-ttu-id="fb5f3-110">如果您已在 [**付款條件**] 頁面上列出銀行帳戶，則無法從下拉式清單中選取。</span><span class="sxs-lookup"><span data-stu-id="fb5f3-110">If you have bank accounts listed on the **Payment methods** page, they aren't available to select in the drop-down list.</span></span>
+5. <span data-ttu-id="fb5f3-111">若要新增支付方式，請選取 [**新增支付方式**]。</span><span class="sxs-lookup"><span data-stu-id="fb5f3-111">To add a new payment method, select **Add payment method**.</span></span>
+6. <span data-ttu-id="fb5f3-112">在 [**新增支付方式**] 窗格中，輸入帳戶資訊，然後選取 [**儲存**]。</span><span class="sxs-lookup"><span data-stu-id="fb5f3-112">In the **Add a payment method** pane, enter the account information, then select **Save**.</span></span> <span data-ttu-id="fb5f3-113">您必須使用與租使用者相同國家/地區的支付方式。</span><span class="sxs-lookup"><span data-stu-id="fb5f3-113">You must use a payment method from the same country as your tenant.</span></span>
+7. <span data-ttu-id="fb5f3-114">已在下拉式清單中選取新的付款條件。</span><span class="sxs-lookup"><span data-stu-id="fb5f3-114">The new payment method is already selected in the drop-down list.</span></span> <span data-ttu-id="fb5f3-115">選取 [取代]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="fb5f3-115">Select **Replace**.</span></span>
 
-2. <span data-ttu-id="6648e-105">尋找您想要變更付款條件的訂閱。</span><span class="sxs-lookup"><span data-stu-id="6648e-105">Find the subscription that you want to change the payment method for.</span></span> <span data-ttu-id="6648e-106">按一下支付方式旁邊的 [**編輯**]。</span><span class="sxs-lookup"><span data-stu-id="6648e-106">Next to the payment method, click **Edit**.</span></span>
-
-3. <span data-ttu-id="6648e-107">依照畫面上的步驟完成變更。</span><span class="sxs-lookup"><span data-stu-id="6648e-107">Follow the steps on screen to complete the change.</span></span>
-
-<span data-ttu-id="6648e-108">若要深入瞭解，請參閱[變更您的 Microsoft 365 商務用付款條件支付方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)。</span><span class="sxs-lookup"><span data-stu-id="6648e-108">To learn more, see [Change your payment method for Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).</span></span>
+<span data-ttu-id="fb5f3-116">若要深入瞭解，請參閱[管理支付方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。</span><span class="sxs-lookup"><span data-stu-id="fb5f3-116">To learn more, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
