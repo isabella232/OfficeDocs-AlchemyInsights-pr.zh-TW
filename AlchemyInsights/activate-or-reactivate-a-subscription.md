@@ -13,10 +13,10 @@ ms.custom:
 - "1500028"
 - "482"
 ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062095"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>啟動或重新啟用訂閱
@@ -33,7 +33,7 @@ ms.locfileid: "44062095"
 
 如果您的訂閱到期，已由 Microsoft 停用，或在訂閱期限中間取消，您可以在系統管理中心重新啟用。
   
-1. 在 Microsoft 365 系統管理中心中，移至 [**帳單** > [產品](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面。
+1. 在 Microsoft 365 系統管理中心中，移至 [**帳單**  >  [產品](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面。
 
 2. 選擇您要重新啟用的訂閱，然後選取 [**重新**啟用]。 如果您在可用動作沒有看到 [重新啟用]****，請[連絡客戶支援](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)以重新啟用訂閱。
 

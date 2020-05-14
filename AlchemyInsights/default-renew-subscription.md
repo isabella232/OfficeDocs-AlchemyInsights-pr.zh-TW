@@ -12,10 +12,10 @@ ms.custom:
 - "3043"
 - "1500012"
 ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062239"
 ---
 # <a name="renewing-your-subscription"></a>更新您的訂閱
@@ -26,6 +26,6 @@ ms.locfileid: "44062239"
 
 開啟定期帳單開啟： 
 
-1. 移至**Billing** > **[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** 收費。
+1. 移至**Billing**  >  **[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** 收費。
 2. 選擇您想要管理週期性帳單的訂閱。
 3. 在 [**帳單**] 底下，選取 [**編輯**]，然後在 [**週期性計費設定**] 視窗中進行變更。 

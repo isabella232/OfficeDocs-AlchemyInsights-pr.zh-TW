@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
 ms.openlocfilehash: 74bbfc03335ece92c09805f419a5d9544e8c7506
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064276"
 ---
 # <a name="upgrade-plans-to-increase-mailbox-size"></a>增加信箱大小的升級計畫
 
 如果信箱大小是 50 GB，您可以切換到[Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software)或[Office 365 企業版 E5](https://products.office.com/business/office-365-enterprise-e5-business-software)，將信箱大小增加為 100 GB。 以下是切換至不同訂閱的步驟：
   
-1. 在 Microsoft 365 系統管理中心中，移至 [**帳單** > [產品](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面。
+1. 在 Microsoft 365 系統管理中心中，移至 [**帳單**  >  [產品](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面。
 
 2. 選取要升級的訂閱，然後選取 [**升級**] 索引標籤，以查看可用的新方案清單。
 

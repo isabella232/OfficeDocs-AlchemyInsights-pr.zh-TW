@@ -12,17 +12,17 @@ ms.custom:
 - "9001519"
 - "3586"
 ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063212"
 ---
 # <a name="subscription-status"></a>訂閱狀態
 
 訂閱狀態，可在 Microsoft 365 系統管理中心的 [**產品**] 頁面上找到。
 
-1. 移至**Billing** > **[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** 收費。
+1. 移至**Billing**  >  **[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** 收費。
 
 2. 如果有任何訂閱的狀態有問題，您會在訂閱詳細資料的「帳單」區段中看到 [訂閱] 旁邊的紅色警告圖示，或「已到期」或「已停用」狀態。
 
@@ -30,7 +30,7 @@ ms.locfileid: "44063212"
 
 **有效期**
 
-1. 移至**Billing** > **[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** 收費。
+1. 移至**Billing**  >  **[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** 收費。
 
 2. 根據視需要而定，到期日會出現在 [日期] 的**最**右邊欄，或 [**到期**日] 旁邊之訂閱詳細資料的 [**帳單**] 區段中。
 

@@ -12,10 +12,10 @@ ms.custom:
 - "9000755"
 - "2695"
 ms.openlocfilehash: 703aa6ba1c8175b76e445a261a4081bbf0103478
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064040"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>使用 OneNote 的常見問題和解析度

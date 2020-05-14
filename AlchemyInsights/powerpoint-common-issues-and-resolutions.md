@@ -12,10 +12,10 @@ ms.custom:
 - "9001698"
 - "3776"
 ms.openlocfilehash: 6562dfcbbf41014cdf1ae93424616d8ab1288082
-ms.sourcegitcommit: bcd6df19adeb5e3a04e518a05621dd6c68da93f2
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43955516"
 ---
 # <a name="powerpoint-common-issues-and-resolutions"></a>PowerPoint 常見的問題與解決方式

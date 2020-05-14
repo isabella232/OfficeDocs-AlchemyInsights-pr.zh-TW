@@ -14,17 +14,17 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 4a91b71d297edd9331d955ece8c11c2d1eb86d29
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44061951"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>將座位新增至預付訂閱
 
 預付授權是以25個字元的字母數位程式碼發出。 購買您需要的授權後，您可以將其新增至您的訂閱。 
 
-1. 在系統管理中心中，移至 [**帳單** > **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
+1. 在系統管理中心中，移至 [**帳單**  >  **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
 
 2. 尋找您要新增授權的訂閱。 在 [**授權**] 區段中，選取 [**新增更多授權**]。
 
