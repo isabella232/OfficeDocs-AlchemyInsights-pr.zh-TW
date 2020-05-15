@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720687"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235288"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>如何在 Outlook 中尋找及復原遺失的郵件、連絡人或行事曆專案
 
-- 您可以使用在受影響的機器上傳送[、接收或尋找電子郵件訊息工具時發生問題](https://aka.ms/SaRA-OutlookSendReceive)。 此工具會檢查許多問題，並會建議可能的解決方案。
+1. 在 Outlook 中，移至您的 [電子郵件資料夾] 清單，然後選取 [**刪除的郵件**]。 **重要**：如果您看不到 [**刪除的郵件**] 資料夾，但看得見**垃圾桶**資料夾，則您的帳戶不支援復原不再位於 [**刪除的郵件**] 資料夾中的專案。
 
-- [判斷帳戶是否受到盜用](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)。 若遭到損害，請遵循[回應遭到破壞的電子郵件帳戶](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)的步驟。
+2. 在 [**首頁**] 功能表上，按一下 [**從伺服器復原已刪除的郵件**]。 **重要**：如果在功能表上沒有 [**從伺服器復原已刪除的專案**] 命令，您的帳戶不支援復原不再位於 [刪除的**郵件**] 資料夾中的專案。
 
-- [使用立即搜尋來尋找郵件或專案](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. 選取您要復原的專案，按一下 [**還原選取的專案**]，然後按一下 **[確定]**。
 
-- [在 Windows 版 Outlook 復原已刪除的項目](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**復原的專案會移到何處？** 當您從 [可復原的專案] 資料夾復原專案時，這些專案會移至 [**刪除的郵件**] 資料夾。 在復原專案之後，您可以在 [**刪除的郵件**] 資料夾中找到該專案，然後將它移至另一個資料夾。
+
+您也可以使用在**受影響的機器上**傳送[、接收或尋找電子郵件訊息工具時出現問題](https://aka.ms/SaRA-OutlookSendReceive)。 此工具會檢查許多問題，並會建議可能的解決方案。
