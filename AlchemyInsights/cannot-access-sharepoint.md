@@ -12,17 +12,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: b288c3e7b29265dbb7a68055298a695accaf19c9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
+ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711370"
+ms.lasthandoff: 05/18/2020
+ms.locfileid: "44278811"
 ---
-# <a name="cannot-access-sharepoint"></a><span data-ttu-id="74f26-102">無法存取 SharePoint</span><span class="sxs-lookup"><span data-stu-id="74f26-102">Cannot access SharePoint</span></span>
+# <a name="cannot-access-sharepoint"></a><span data-ttu-id="4f11a-102">無法存取 SharePoint</span><span class="sxs-lookup"><span data-stu-id="4f11a-102">Cannot access SharePoint</span></span>
 
-<span data-ttu-id="74f26-103">**重要**：在這些前所未有的情況下，我們會採取下列步驟以確保 SharePoint Online 和 OneDrive 服務保持高度可用 – 請造訪 [SharePoint Online 暫時功能調整](https://aka.ms/ODSPAdjustments)以取得詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="74f26-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="4f11a-103">Microsoft SharePoint 或 Microsoft OneDrive 變成無法存取的原因可能有數個。</span><span class="sxs-lookup"><span data-stu-id="4f11a-103">There are several reasons why Microsoft SharePoint or Microsoft OneDrive might become inaccessible.</span></span> <span data-ttu-id="4f11a-104">如果您無法存取 SharePoint Online，請使用下列指南來解決此問題。</span><span class="sxs-lookup"><span data-stu-id="4f11a-104">If you can't access SharePoint Online, use the following guide to troubleshoot this issue.</span></span>
 
-<span data-ttu-id="74f26-104">Microsoft SharePoint 或 Microsoft OneDrive 變成無法存取的原因可能有數個。</span><span class="sxs-lookup"><span data-stu-id="74f26-104">There are several reasons why Microsoft SharePoint or Microsoft OneDrive might become inaccessible.</span></span> <span data-ttu-id="74f26-105">如果您無法存取 SharePoint Online，請使用下列指南來解決此問題。</span><span class="sxs-lookup"><span data-stu-id="74f26-105">If you can't access SharePoint Online, use the following guide to troubleshoot this issue.</span></span>
-
-- [<span data-ttu-id="74f26-106">無法存取 SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="74f26-106">Unable to access SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [<span data-ttu-id="4f11a-105">無法存取 SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="4f11a-105">Unable to access SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
