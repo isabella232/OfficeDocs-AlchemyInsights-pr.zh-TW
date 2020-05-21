@@ -12,14 +12,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6a580de2c963a53654499f1715dad7f3bb36c706
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765043"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331271"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a><span data-ttu-id="83f28-102">查看行事曆空閒/忙碌資訊的問題</span><span class="sxs-lookup"><span data-stu-id="83f28-102">Issues seeing calendar free/busy information</span></span>
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a><span data-ttu-id="10309-102">行事曆可用性的疑難排解步驟（Free/Busy）</span><span class="sxs-lookup"><span data-stu-id="10309-102">Troubleshooting steps for calendar availability (Free/Busy)</span></span>
 
-<span data-ttu-id="83f28-103">如果您在其他行事曆中看不到 [行事曆空閒/忙碌資訊]，或是其他人無法在您的行事曆中看到空閒/忙碌資訊，請使用[Microsoft 支援和修復助理](https://diagnostics.office.com/)。</span><span class="sxs-lookup"><span data-stu-id="83f28-103">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant](https://diagnostics.office.com/).</span></span>
-  
+<span data-ttu-id="10309-103">通常，解決 Free/Busy 問題的最佳工具是[Exchange Remote Connectivity Analyzer （RCA）](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) ，以查看失敗的位置。</span><span class="sxs-lookup"><span data-stu-id="10309-103">Generally the best tool for troubleshooting Free/Busy issues is the [Exchange Remote Connectivity Analyzer (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) to see where it is failing.</span></span> <span data-ttu-id="10309-104">RCA 會詳細記錄您已完成的作業和失敗的特定錯誤訊息，可供您尋找解決方案。</span><span class="sxs-lookup"><span data-stu-id="10309-104">The RCA will give you a detailed record of what worked and what failed with specific error messages you can look up to find solutions.</span></span> <span data-ttu-id="10309-105">也有[Microsoft 支援和修復](https://diagnostics.office.com/)小幫手的連結。</span><span class="sxs-lookup"><span data-stu-id="10309-105">It also has a link to the [Microsoft Support and Recovery Assistant](https://diagnostics.office.com/).</span></span>
+
+<span data-ttu-id="10309-106">如果使用者有 Outlook，另一個可以嘗試的好工具就是 Outlook 的行事[曆檢查工具](https://www.microsoft.com/download/details.aspx?id=28786)。</span><span class="sxs-lookup"><span data-stu-id="10309-106">Another good tool to try is the [Calendar Checking Tool for Outlook](https://www.microsoft.com/download/details.aspx?id=28786) if the user has Outlook.</span></span>
