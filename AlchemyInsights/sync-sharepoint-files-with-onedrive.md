@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767024"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343189"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>疑難排解 Sharepoint Online 中的「 在檔案總管中開啟」問題
 
@@ -28,9 +28,6 @@ ms.locfileid: "43767024"
 - [使用 [在檔案總管中開啟] 來複製或移動檔案](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **附註：**
+>- 只有 Internet Explorer 10 或 11 支援「在檔案總管中開啟」。 [在檔案總管中開啟] 無法用於 Windows 的 Microsoft Edge、Google Chrome、Mozilla Firefox，或 Mac 平台上。 因為這個原因，[檔案總管檢視] 選項可能會呈現灰色。
 >
 >- 新版文件庫不會顯示 [在檔案總管中開啟] 按鈕。 選取右上方的 **[檢視]** 下拉式清單 (下拉式清單的名稱依您的檢視畫面而定)，再選取 **[在 [檔案總管] 中檢視]**。
->
->- 只有 Internet Explorer 10 或 11 支援「在檔案總管中開啟」。 [在檔案總管中開啟] 無法用於 Windows 的 Microsoft Edge、Google Chrome、Mozilla Firefox，或 Mac 平台上。 因為這個原因，[檔案總管檢視] 選項可能會呈現灰色。
-
-
