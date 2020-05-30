@@ -13,12 +13,12 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062275"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417595"
 ---
 # <a name="declined-credit-card"></a>拒絕的信用卡
 
@@ -28,4 +28,4 @@ ms.locfileid: "44062275"
   
 如果還是繼續看到 [拒絕] 訊息，請連絡您的銀行。很可能您的信用卡尚未開卡  例如，如果您最近才收到已更新到期日的信用卡，您可能仍需要開卡。您的銀行也可以告訴您，您的信用卡是否核准進行線上、國際或週期性交易。  
   
-如需詳細資訊[，請參閱疑難排解信用卡和銀行帳戶](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)。
+如需詳細資訊，請參閱[管理支付方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。

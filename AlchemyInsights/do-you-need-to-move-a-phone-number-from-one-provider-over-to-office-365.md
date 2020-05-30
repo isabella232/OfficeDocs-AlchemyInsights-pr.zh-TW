@@ -10,14 +10,19 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: feedd3e1433f9c8232a6ab9577473e4dbed03b31
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e6ad5908b56f76fa41cf9fbdfad0f50c1a6f552
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714905"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417379"
 ---
-# <a name="move-a-phone-number-from-another-provider-to-microsoft"></a>將電話號碼從其他提供者移至 Microsoft
+# <a name="port-existing-numbers-to-teams"></a>將現有的號碼移植至 Teams
 
-您是否需要將其他提供者的電話號碼移至 Microsoft？ 您的組織的「[管理電話號碼](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)」可以找到不同國家和地區的電話號碼。 選擇您的國家或地區，以尋找有關轉接號碼的資訊。 
-  
+如果您目前有電話服務供應商或電信業者，且已經有使用者或服務的電話號碼，您必須建立「移植順序」，將這些電話號碼轉移至 Microsoft Teams。
+
+- 請參閱[將電話號碼轉移至 Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams)，以了解如何完成移植。 
+
+- 如需電話號碼管理指引，請參閱[管理貴組織的電話號碼](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)。 
+
+如需詳細資訊，請參閱[移植順序概觀](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)。  
