@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5d7ee20edb0a9d298b657c14d7a75034245427a8
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720056"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418171"
 ---
 # <a name="update-credit-card-information"></a>更新信用卡資訊
 
@@ -40,4 +40,4 @@ ms.locfileid: "43720056"
 
 如果您遇到頁面載入問題，請嘗試在其他瀏覽器中開啟網頁，或嘗試在私密瀏覽器視窗中開啟頁面，例如 Microsoft Edge 中的 InPrivate 視窗或 Google Chrome 中的無痕式視窗。 
 
-如需詳細資訊，請參閱[新增、更新或移除 Microsoft 365 商務版中的信用卡或銀行帳戶](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)，以及[信用卡和銀行帳戶疑難排解](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)。
+如需詳細資訊，請參閱[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
