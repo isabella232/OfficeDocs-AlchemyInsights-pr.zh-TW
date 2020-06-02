@@ -11,26 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 695d449a876c22ff441da2367ef67aaea470eb66
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
+ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762968"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44474416"
 ---
-# <a name="issues-signing-in-to-office-apps"></a>登入 Office 應用程式時的問題
+# <a name="issues-signing-into-microsoft-365-apps"></a>簽入 Microsoft 365 應用程式的問題
 
-若要修正 Office 應用程式的登入問題，請嘗試下列步驟：
+若要修正 Microsoft 365 應用程式的登入問題，請在受影響的機器上嘗試下列選項：  
 
-- 移除所有工作帳戶（受影響的帳戶除外）使用 Windows 設定 >**存取工作或學校**。
-- 使用 Windows 認證管理員[清除 Office 認證](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer)。<br/>
-    **附注：** Office 2016 的登錄路徑已變更為16.0。 （Ex： \Software\Microsoft\Office\16.0\Common\Identity\)
-- 開啟 Office 應用程式 **，選擇 [** > 檔案**帳戶** > ]**[登出]。** 然後使用具有有效授權的使用者帳戶登入。 如需詳細資訊，請參閱 [Office 的帳戶](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)。
-- 若是 Mac，請參閱[無法登入 Mac 版 Office 2016 應用程式](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)。
-- 如果使用 Office 2013 連接至 Microsoft 365 時，發生錯誤，請啟用 Office 用戶端的新式驗證。
+- 若為 Windows，請參閱[解決常見登入問題的建議](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- 若為 Mac，請參閱[無法登入 Office 2016 For mac 應用程式](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-如需詳細資訊，請參閱：
-- [您無法登入 Microsoft 365、Azure 或 Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
-- [在 Windows 10 上更新 Office 2016 build 16.0.7967 之後，登入後的連線問題](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
-- ["很抱歉，您組織中的另一個帳戶已在這部電腦上登錄" （Office）](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
-- [使用 ADFS 時疑難排解 Office 新式驗證的登入問題](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
+**附注：****建議您不要**停用以修正登入或啟用問題的新式驗證（ADAL）或網頁帳戶管理（WAM）。 如果使用 Office 2013 連接至 Microsoft 365 時，發生錯誤，請確定您已為 Office 用戶端[啟用新式驗證](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)。
+
+如需特定疑難排解動作，請參閱：
+
+[在 Windows 10 上更新至 Office 2016 組建 16.0.7967 之後，在登入時發生連線問題](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
+
+[您無法登入您的組織帳戶，例如 Office 365、Azure 或 Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+
+[如何疑難排解無法登入 Office 365、Azure 或 Intune 的非瀏覽器應用程式](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+
+[在 Office 中重複提示認證](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
