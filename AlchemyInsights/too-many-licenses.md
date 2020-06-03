@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 3ba7f9a7e18951454cfea3d65915b4862d697753
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0dd3817c829252571ea8ad8354a451a0bb43deb6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063968"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510455"
 ---
 # <a name="too-many-licenses"></a>授權太多？
 
@@ -32,4 +32,4 @@ ms.locfileid: "44063968"
 
 3. 在 [**授權總數**] 方塊中，輸入此訂閱所需的授權總數，然後選取 [**提交變更**]。 例如，若您有 110 個授權，而您需要移除 5 個授權，則輸入 105。
 
-若要深入瞭解，請參閱[從 Microsoft 365 for business 訂閱中移除授權](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)。
+若要深入瞭解，請參閱[從 Microsoft 365 for business 訂閱中移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。

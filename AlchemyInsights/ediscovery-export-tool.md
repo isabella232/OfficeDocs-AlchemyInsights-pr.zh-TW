@@ -14,12 +14,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6352603a391ddcb44d2728c7587bf15a6cd97ebb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714761"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507161"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>無法安裝或執行 eDiscovery 匯出工具？
 
@@ -35,15 +35,15 @@ ms.locfileid: "43714761"
 
   - Microsoft Edge
 
-    或
+    或者
 
   - Internet Explorer 10 和更新版本
 
     其他瀏覽器（如 Google Chrome 和 Mozilla Firefox）都不受支援。
 
-- 您的組織可以連線到 Azure 中的端點，也就是** \*blob.core.windows.net** （萬用字元代表匯出工作的唯一識別碼）。
+- 您的組織可以連線到 Azure 中的端點，也就是** \* blob.core.windows.net** （萬用字元代表匯出工作的唯一識別碼）。
 
-- 您已在 Microsoft 365 安全性&amp;與合規性中心內指派「匯出」角色。 根據預設，此角色只會指派給 eDiscovery 管理員角色群組。 請參閱[指派 eDiscovery 許可權](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)。
+- 您已在 Microsoft 365 安全性與合規性中心內指派「匯出」角色 &amp; 。 根據預設，此角色只會指派給 eDiscovery 管理員角色群組。 請參閱[指派 eDiscovery 許可權](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)。
 
-如需詳細資訊，請參閱[匯出內容搜尋結果](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。
+如需詳細資訊，請參閱[匯出內容搜尋結果](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)。
   

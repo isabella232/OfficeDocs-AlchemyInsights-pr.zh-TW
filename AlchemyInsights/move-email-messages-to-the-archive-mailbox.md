@@ -12,18 +12,18 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: a5ad81e97df0ed5c337a622126173df94af80bb8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713637"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511031"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>將電子郵件移至封存信箱
 
-1. 確認已啟用封存**信箱**。 如果不是，請使用[本文](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)中的步驟來啟用封存信箱。
+1. 確認已啟用封存**信箱**。 如果不是，請使用[本文](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)中的步驟來啟用封存信箱。
 
-2. 若要將郵件自動封存到封存信箱，必須將具有 [**移至**封存] 動作的保留標記設定為 [**自動套用至整個信箱（預設）] 標記**。 使用這裡的步驟來建立標記：封存[預設](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag)標籤。
+2. 若要將郵件自動封存到封存信箱，必須將具有 [**移至**封存] 動作的保留標記設定為 [**自動套用至整個信箱（預設）] 標記**。 使用這裡的步驟來建立標記：封存[預設](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag)標籤。
 
 3. 接下來，將**Archive**封存標籤新增至保留原則。 在 Exchange 系統管理中心中，選擇 [**保留原則**] > 將 [**移至**封存] 標記新增至原則 >**儲存**]。
 
@@ -33,5 +33,5 @@ ms.locfileid: "43713637"
   
 Start-ManagedFolderAssistant 身分識別<name of the mailbox>
 
-如需設定封存原則的詳細資訊，請參閱[設定信箱的封存和刪除原則](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users)。
+如需設定封存原則的詳細資訊，請參閱[設定信箱的封存和刪除原則](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users)。
   

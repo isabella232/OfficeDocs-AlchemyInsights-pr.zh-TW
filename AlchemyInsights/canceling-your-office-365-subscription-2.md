@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 77b24f9bf3777c2f2085a72f089017201cd8f928
-ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
+ms.openlocfilehash: 746cfe6e929a0584a10569bfb0ee8d7e7df0a857
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44086771"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508187"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>取消 Microsoft 365 訂閱？
 
@@ -30,4 +30,4 @@ ms.locfileid: "44086771"
 
 **附注**：如果您沒有看到 [取消] 選項，請按一下訂閱以查看詳細資料，您應該會在 [**設定 & 動作**] 中看到 [**取消訂閱**] 選項。 
 
-若要深入瞭解，請參閱[取消您的訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)。
+若要深入瞭解，請參閱[取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。

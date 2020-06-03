@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911822"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510167"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>如何執行內容搜尋和 eDiscovery 搜尋
 
@@ -32,6 +32,6 @@ ms.locfileid: "43911822"
 4. 輸入所需的搜尋條件，包括關鍵字和內容位置。  
 5. 按一下 [**儲存 & 執行**] 以命名搜尋，然後啟動它，然後預覽結果。
 
-如需有關內容搜尋的詳細指示，請匯出結果，以及建立 eDiscovery 案例以保留資料，請參閱[內容搜尋](https://docs.microsoft.com/office365/securitycompliance/content-search)和[eDiscovery 案例](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)。
+如需有關內容搜尋的詳細指示，請匯出結果，以及建立 eDiscovery 案例以保留資料，請參閱[內容搜尋](https://docs.microsoft.com/microsoft-365/compliance/content-search)和[eDiscovery 案例](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)。
 
-查看有關內容搜尋的詳細資訊，請查看[需求和限制](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search)，並[調查已部分索引的專案](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery)和其他要注意的結果。
+查看有關內容搜尋的詳細資訊，請查看[需求和限制](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)，並[調查已部分索引的專案](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)和其他要注意的結果。

@@ -14,12 +14,12 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 5c44ab1409f6a0dcd7079cee68f61d6984bdc43f
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: cc55e10d44624ddd56c10f57a1c5ba0964d6b1c2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911499"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505642"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-microsoft-365-group"></a>刪除屬於 Microsoft 365 群組的 SharePoint 網站
 
@@ -28,6 +28,6 @@ ms.locfileid: "43911499"
 重要事項：
 
 - 您可以在93天內復原已刪除的網站。 已刪除的群組必須在30天內還原。 從 SharePoint 系統管理中心直接[查看及還原已刪除的網站](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)。 若要[查看及還原**已刪除的群組**](https://outlook.office.com/people/group/deleted)，請選取 [**管理群組**]，然後選擇 [**刪除**]。
-- 如果網站是保留原則的一部分，在從[安全性 & 合規性系統管理中心](https://protection.office.com/?rfr=AdminCenter#/retention)移除網站之前，您可能無法將其刪除。 如需詳細資訊，請參閱[保留原則的概述](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)。
+- 如果網站是保留原則的一部分，在從[安全性 & 合規性系統管理中心](https://protection.office.com/?rfr=AdminCenter#/retention)移除網站之前，您可能無法將其刪除。 如需詳細資訊，請參閱[保留原則的概述](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)。
   
 如需詳細資訊，請參閱[Manage sites in new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)。

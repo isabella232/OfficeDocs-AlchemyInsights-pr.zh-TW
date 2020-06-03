@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 8b5f22269cab0ed0984bcb33703b49e943ef2446
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 77f9938fe40d9f693ccce1dac3581625ed7e424a
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642243"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509555"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>SharePoint 檔案的 IRM 保護
 
@@ -23,12 +23,12 @@ ms.locfileid: "43642243"
 
 - [Office 應用程式和服務如何支援 Azure 版權管理](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)。
 
-- [在 SharePoint 系統管理中心設定資訊版權管理（IRM）](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)。
+- [在 SharePoint 系統管理中心設定資訊版權管理（IRM）](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)。
 
-- [IRM-啟用 SharePoint 文件庫和清單](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists)。
+- [IRM-啟用 SharePoint 文件庫和清單](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists)。
 
 - [Office 中的資訊版權管理](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c)。
 
-- [Exchange Online 中的資訊版權管理](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online)。
+- [Exchange Online 中的資訊版權管理](https://docs.microsoft.com/microsoft-365/compliance/information-rights-management-in-exchange-online)。
 
 

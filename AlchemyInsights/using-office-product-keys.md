@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3550"
-ms.openlocfilehash: ab047d95a9c448900b3c4ae8ac7e7c5f30aed28e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: fa61fdec91e1375a72bc209ff4d0671d6b36d1c8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726058"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511067"
 ---
 # <a name="using-office-product-keys"></a>使用 Office 產品金鑰
 
@@ -28,6 +28,6 @@ ms.locfileid: "43726058"
 - 如需 Office 365 家用或個人產品金鑰的說明，請參閱搭配[Office 使用產品金鑰](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759)。
 
 **啟用 Office 訂閱** 
-- 如果您是從零售商店購買 Microsoft 365 訂閱，請參閱[輸入您的 microsoft 365 應用程式商務版產品金鑰](https://docs.microsoft.com/office365/admin/misc/enter-your-product-key?redirectSourcePath=%252farticle%252f0199dd39-7c46-4875-af9b-588df3a9afea&view=o365-worldwide)。
+- 如果您是從零售商店購買 Microsoft 365 訂閱，請參閱[為 Microsoft 365 Apps for Business 輸入您的產品金鑰](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key)。
 
-- 當您嘗試兌換產品金鑰時出現錯誤訊息時，請參閱您的[Microsoft 365 for business 產品金鑰問題？](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions?view=o365-worldwide)
+- 當您嘗試兌換產品金鑰時出現錯誤訊息時，請參閱您的[Microsoft 365 for business 產品金鑰問題？](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

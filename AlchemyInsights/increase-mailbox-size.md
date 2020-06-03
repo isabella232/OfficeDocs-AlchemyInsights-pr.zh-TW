@@ -12,12 +12,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d1c7e79b0ba00db87ac0fc3cecd54a6b12721325
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064220"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508727"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>切換可增加信箱大小的訂閱
 
@@ -35,6 +35,6 @@ ms.locfileid: "44064220"
 
 5. 輸入您需要的授權數目、選擇是否每月支付金額或為全年支付，然後選取 [**簽出**]。
 
-如需詳細資訊，請參閱[升級至其他計畫](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)。
+如需詳細資訊，請參閱[升級至其他計畫](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)。
 
-如果您有[支援就地封存的訂閱](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)，您也可以啟用封存信箱，以取得額外的電子郵件儲存庫。 封存信箱可提供額外的儲存空間，並可讓您在主要和封存信箱中移動、複製和搜尋郵件。 如需如何啟用封存信箱的步驟，請參閱[enable an 封存信箱](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)。
+如果您有[支援就地封存的訂閱](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)，您也可以啟用封存信箱，以取得額外的電子郵件儲存庫。 封存信箱可提供額外的儲存空間，並可讓您在主要和封存信箱中移動、複製和搜尋郵件。 如需如何啟用封存信箱的步驟，請參閱[enable an 封存信箱](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)。

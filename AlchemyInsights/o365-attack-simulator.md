@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713457"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506729"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Microsoft 365 中的攻擊模擬器
 
 - 您是否遺漏攻擊模擬器？ 攻擊模擬器需要**Office 365 高級威脅防護方案2（ATP 方案2）** 或**Office 365 企業版 E5**。 「Office 365 高級威脅防護方案1（ATP 方案1）」、Office 365 企業版 E3 或任何 Microsoft 365 Apps for business 訂閱中**不**包含攻擊模擬器。
 
-- 您用來啟動模擬攻擊的帳戶需要全域系統管理員或安全性管理員許可權，以及多重要素驗證（MFA）。 如需有關攻擊模擬程式需求的詳細資訊，請參閱[本主題](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin)。
+- 您用來啟動模擬攻擊的帳戶需要全域系統管理員或安全性管理員許可權，以及多重要素驗證（MFA）。 如需有關攻擊模擬程式需求的詳細資訊，請參閱[本主題](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)。
 
 - 關於**強力強制密碼**攻擊模擬的重要事項：
 

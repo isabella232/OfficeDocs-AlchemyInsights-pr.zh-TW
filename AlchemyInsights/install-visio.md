@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765980"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508655"
 ---
 # <a name="install-visio"></a>安裝 Visio
 
@@ -25,7 +25,7 @@ Visio 出售為獨立的應用程式，如果您還沒有，請[購買或試用 
 
 **附注**： Visio Online Plan 1 不包含桌上出版本的 visio，所以不可能安裝。
 
-如果您訂閱 Visio Online Plan 2，則必須[將授權指派](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764)給使用者，否則不會有從「[我的帳戶」入口網站](https://portal.office.com/account#installs)安裝**Visio 的選項**。 
+如果您訂閱 Visio Online Plan 2，則必須[將授權指派](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)給使用者，否則不會有從「[我的帳戶」入口網站](https://portal.office.com/account#installs)安裝**Visio 的選項**。 
 
 非大量授權版本的 Visio Standard 或 Visio Professional 是與 Microsoft 帳戶相關聯，無法在系統管理中心管理。 若要安裝這些版本，使用者必須使用與此 Visio 版本相關聯的 Microsoft 帳戶登入[account.microsoft.com](https://account.microsoft.com) 。
 

@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: bbdfdf34ecb24189b233ceded917a03a2d07d7db
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: 5d2ae0d21ab43814235feee8cc2b60290a17ad51
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343145"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510995"
 ---
 # <a name="onedrive-retention-and-deletion"></a>OneDrive 保留與刪除
 
@@ -32,5 +32,5 @@ ms.locfileid: "44343145"
 - 如需從 OneDrive 還原回收站中之專案的詳細資訊，請參閱[還原已刪除的檔案或資料夾](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)。
 
 - 對安全性與合規性中心保留和保留感興趣嗎？
-    - [OneDrive 和 SharePoint 網站的保留原則](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [OneDrive 和 SharePoint 網站的保留原則](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     - [OneDrive 和 SharePoint 網站的 eDiscovery 暫止](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)

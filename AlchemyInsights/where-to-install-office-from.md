@@ -11,16 +11,16 @@ ms.custom:
 - "913"
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: f525cd085d3691c100df6ed6c3c1a06685fcc6b9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 71f6df27d6cecc08286562b14e4e219b99df289d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765152"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509519"
 ---
 # <a name="install-office"></a>我有其他問題
 
-若要安裝 Office，使用者必須擁有包含桌面應用程式和[指派授權](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)的[Microsoft 365 for business 產品](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA)。
+若要安裝 Office，使用者必須擁有包含桌面應用程式和[指派授權](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)的[Microsoft 365 for business 產品](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA)。
   
 然後可以遵循下列步驟安裝 Office：
   

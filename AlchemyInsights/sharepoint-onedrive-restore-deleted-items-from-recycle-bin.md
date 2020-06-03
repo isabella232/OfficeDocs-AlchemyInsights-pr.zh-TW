@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a3e3fa3cbaf3ab3c1fcf42e8a564d2b7cd8428eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692828"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511211"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>疑難排解 OneDrive 或 SharePoint 中遺失的檔案或資料夾
 
@@ -35,7 +35,7 @@ ms.locfileid: "43692828"
 
 **使用 [審計記錄] 或 [檔案活動] 窗格，檢查檔的記錄**
 
-[Check the audit reports](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) </a>在[這裡](https://protection.office.com/#/unifiedauditlog)流覽以檢查審核報告
+[檢查審計報告](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) </a>透過流覽[這裡](https://protection.office.com/#/unifiedauditlog)
 
 使用 [檔案[活動](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0)] 窗格來檢查檔案的記錄。
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 9200f436bae0e10a15b3edeed1e4bec3c1b698b6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709434"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505534"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>想要購買新的訂閱嗎？
 
@@ -32,8 +32,8 @@ ms.locfileid: "43709434"
 
  **其他資源：**
   
-- [將授權指派給 Microsoft 365 for business 中的使用者](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [將授權指派給 Microsoft 365 for business 中的使用者](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [取消訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [取消訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- 如果您想要切換訂閱，請參閱[切換至不同的 Microsoft 365 for business 方案。](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+- 如果您想要切換訂閱，請參閱[切換至不同的 Microsoft 365 for business 方案。](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

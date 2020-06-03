@@ -13,12 +13,12 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 61159391f7a9876750cd7fefc40c54054fb9bec9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 74913492a086de688067d588e95dd87e6946743b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759503"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504974"
 ---
 # <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>疑難排解欺詐偵測檢查的安全性秘訣
 
@@ -28,6 +28,6 @@ ms.locfileid: "43759503"
   
 以下是一些可協助的連結：
   
-- [Microsoft 如何使用寄件者原則架構（SPF）來防止欺騙](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- [Microsoft 如何使用寄件者原則架構（SPF）來防止欺騙](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
 
-- [設定 SPF 以協助防止詐騙](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [設定 SPF 以協助防止詐騙](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)

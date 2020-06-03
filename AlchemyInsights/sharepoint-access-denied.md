@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: a1541aa401efbc03e8a6104ba435c7fdf20a977a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 183f54be3230a67bfe89151a6941692de470a3e1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742134"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510491"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>存取拒絕郵件的疑難排解
 
@@ -21,7 +21,7 @@ ms.locfileid: "43742134"
 
 **新增及授權使用者**
 
-確定您[將授權指派給 Microsoft 365 for business 中的使用者](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)。
+確定您[將授權指派給 Microsoft 365 for business 中的使用者](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。
 
 **指派許可權**
 

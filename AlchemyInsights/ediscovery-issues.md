@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: daed49214bd683c28d7947095ed6d4fd792cd0f3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714469"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507125"
 ---
 # <a name="ediscovery-issues"></a>eDiscovery 問題
 
@@ -30,8 +30,8 @@ ms.locfileid: "43714469"
 
 如需詳細資訊，請參閱：
 
-- [內容搜尋](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [內容搜尋](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [安全性 & 規範中心的 eDiscovery 案例](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+- [安全性 & 規範中心的 eDiscovery 案例](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [Microsoft 365 中的進階電子文件探索解決方案](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)
+- [Microsoft 365 中的進階電子文件探索解決方案](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

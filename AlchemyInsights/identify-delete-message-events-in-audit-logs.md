@@ -12,12 +12,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 641c0216491186aeb423a13854c6b39ee005e5df
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716487"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508979"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>已刪除電子郵件的審計記錄
 
@@ -33,6 +33,6 @@ ms.locfileid: "43716487"
 
 在結果中，選取一個審計記錄。 在 [詳細資料] 快顯視窗中，按一下 [**詳細資訊**]。 [ **AffectedItems** ] 欄位中會顯示已刪除專案的其他資訊（例如，專案的主旨行和位置）。 如果是在 Outlook、Outlook 網頁版（先前稱為 Outlook Web App）或任何其他裝置上進行刪除，就會顯示**ClientInfoString**屬性。
 
-如需詳細資訊，請參閱[決定誰設定信箱的電子郵件](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items)轉寄功能。
+如需詳細資訊，請參閱[決定誰設定信箱的電子郵件](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)轉寄功能。
 
 **附注**：您無法使用「審核記錄」功能來取得刪除的專案。 若要在 Outlook 網頁版中取得已刪除的郵件，請參閱[在 Outlook Web App 中復原已刪除的](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)郵件。

@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 869cd3d9fb8e5fce291244e4a39754d074b11358
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761159"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511715"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>輸出電子郵件至 [垃圾郵件] 資料夾
 
 如果您看到的輸出郵件標示為垃圾郵件，請執行下列步驟：
 
-- 若尚未設定，請考慮設定[輸出垃圾郵件原則通知](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy)。
+- 若尚未設定，請考慮設定[輸出垃圾郵件原則通知](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)。
 
-- 使用[郵件追蹤](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc)以查看輸出郵件是否有其他詳細資料的**事件值：** **使用高風險傳遞集**區。
+- 使用[郵件追蹤](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)以查看輸出郵件是否有其他詳細資料的**事件值：** **使用高風險傳遞集**區。
 
   請查看郵件內容，以查看可能視為垃圾郵件的郵件內容。 例如，簽章有時候可能會造成許多使用者的問題。
 

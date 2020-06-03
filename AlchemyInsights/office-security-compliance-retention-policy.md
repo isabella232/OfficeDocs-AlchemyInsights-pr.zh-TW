@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761274"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510959"
 ---
 # <a name="more-info-about-retention-policies"></a>有關保留原則的詳細資訊
 
@@ -27,15 +27,15 @@ ms.locfileid: "43761274"
 ## <a name="a-from-security-and-compliance-center"></a>A）從安全與合規性中心
 
 - 移至安全性與合規性 > 資料管理 > 保留
-  - 請[參閱本文](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+  - 請[參閱本文](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
 
 - 移至安全性與合規性 > eDiscovery> Advanced eDiscovery 
-  - 請[參閱本文](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+  - 請[參閱本文](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
 - 移至安全性與合規性 > 分類 > 保留
   - 請參閱這些文章
-    - [敏感度標籤](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [標籤概述](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [敏感度標籤](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [標籤概述](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>B）舊版 eDiscovery 原則
 

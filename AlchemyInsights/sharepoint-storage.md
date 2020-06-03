@@ -1,5 +1,5 @@
 ---
-title: SharePoint 儲存空間
+title: SharePoint 儲存
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,26 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 37cdc6943b28dc6823044957691767351d4ac246
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cfe6091baec784a0b726ccc6e1b97a3ce1d00c8d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051020"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512617"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>管理 SharePoint Online 的儲存空間
+# <a name="manage-your-sharepoint-online-storage"></a>管理您的 SharePoint 線上存放區
 
-了解如何[計算租用戶儲存](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)根據您的計劃。
+瞭解如何根據您的計畫[計算租使用者儲存區](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)。
 
-對大多數的組織而言，，，您不需要設定每個網站集合的限制，是自動管理 SharePoint 儲存空間。
+對大多數的組織而言，會自動管理 SharePoint 儲存區，因此您不需要設定每個網站集合的限制。
 
-了解如何[檢視您組織的總數和可用的儲存空間](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)。
+瞭解如何[查看組織的總數和可用儲存空間](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)。
 
-了解如何[管理個人網站集合儲存限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)。
+瞭解如何[管理個別網站集合的儲存限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)。
 
-如果網站的空間不足，或您想要了解哪些文件庫或清單運用空間，請移至 [**網站設定** > **儲存計量**（網站集合管理員權限所需）。
+如果您的網站空間不足或想要瞭解使用該空間的文件庫或清單，請移至 [**網站設定**] [  >  **儲存量值**] （需要網站集合管理員許可權）。
 
-了解如何[藉由使用 PowerShell 監視器網站儲存量限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)。
+瞭解如何[使用 PowerShell 監視網站儲存限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)。
 
-了解如何[購買額外儲存空間](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space)。 
+瞭解如何[購買額外的儲存空間](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)。 
   

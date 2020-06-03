@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010245"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507577"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>部署適用于 RDS、終端機伺服器或 VDI 的 Microsoft 365 應用程式，供企業共用使用
 
@@ -38,9 +38,9 @@ ms.locfileid: "44010245"
 
 如果您想要在 Microsoft 365 系統管理中心（***使用預設安裝設定***）的 RDS 上安裝 Microsoft 365 應用程式，請使用下列步驟：
 
-1.    檢查您擁有的訂閱。 [Learn how](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.    如有必要，請切換至不同的訂閱。 [Learn how](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.    如果已使用任何其他 Microsoft 訂閱在 RDS 伺服器上安裝 Office，請將其卸載。 例如，移至 [**控制台** > ] 中的 [**卸載程式**]。 如果您正在執行問題，請使用[Microsoft 支援和修復](https://aka.ms/SARA-OfficeUninstall-Alchemy)小幫手卸載。
+1.    檢查您擁有的訂閱。 [Learn how](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2.    如有必要，請切換至不同的訂閱。 [Learn how](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3.    如果已使用任何其他 Microsoft 訂閱在 RDS 伺服器上安裝 Office，請將其卸載。 例如，移至 [**控制台**] 中的 [  >  **卸載程式**]。 如果您正在執行問題，請使用[Microsoft 支援和修復](https://aka.ms/SARA-OfficeUninstall-Alchemy)小幫手卸載。
 4.    在 RDS 伺服器上，使用您的系統管理員帳戶登入 Microsoft 365 系統管理中心，並[安裝適用于企業的 microsoft 365 應用程式](https://portal.office.com/OLS/MySoftware.aspx)。
 5.    安裝 Office 後，***請勿開啟或登入***任何 office 應用程式。
 6.    在 RDS 伺服器上，遵循下列步驟以編輯登錄以啟用共用電腦啟用：

@@ -11,18 +11,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: ca48d2b4b3d19c5907ebf5a4525c670fe3608e2c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d38a8c19ab5329f4a4a8d09ad248db07fcce5d42
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049796"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507649"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>建立並使用共用的信箱
+# <a name="create-and-use-a-shared-mailbox"></a>建立並使用共用信箱
 
-共用的信箱可讓多人傳送及接收電子郵件別名，例如 sales@contoso.com，卻沒有指定另一個授權。
+共用信箱可讓多人傳送和接收別名的電子郵件（如 sales@contoso.com），而不指派另一份授權。
   
-- [請遵循下列步驟](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)在 Microsoft 365 系統管理中心快速入門。 
+- [請依照](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)Microsoft 365 系統管理中心的下列步驟開始著手。 
 
-您也可以閱讀[建立共用信箱](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)文章中，將會告訴您必須了解共用信箱，包括如何使用它們的所有項目。
+您也可以閱讀[建立共用信箱](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)文章，它會告訴您您需要瞭解的共用信箱的相關資訊，包括如何加以使用。
   

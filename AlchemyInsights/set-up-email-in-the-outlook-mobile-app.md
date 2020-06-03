@@ -15,22 +15,22 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767564"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512473"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>在 Outlook mobile app 中設定電子郵件
 
-1. 如果是您第一次在行動應用程式中設定電子郵件，請選取 [**開始**著手]。 否則，請點擊**功能表**，然後按一下 [**設定** \> ] [**新增帳戶** \> ] [新增**電子郵件帳戶**]。
+1. 如果是您第一次在行動應用程式中設定電子郵件，請選取 [**開始**著手]。 否則，請點擊**功能表**，然後按一下 [**設定**] [ \> **新增帳戶**] [新增 \> **電子郵件帳戶**]。
 
 2. 輸入完整的電子郵件地址，然後按一下 [**繼續**] 或 [**新增帳戶**]。
 
 3. 輸入您的電子郵件帳戶密碼並點擊 [登**入** **] 或 [下一步]**。
 
-4. 如果已啟用[多重要素驗證](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication)，請使用您設定的方法（6位數的代碼、電話或 Microsoft 驗證應用程式）進行驗證。
+4. 如果已啟用[多重要素驗證](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication)，請使用您設定的方法（6位數的代碼、電話或 Microsoft 驗證應用程式）進行驗證。
 
 5. 如果有其他的 IT 系統管理員原則，請**按一下 [啟用]** 加以啟用。
 

@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 4ea3c9e8cd2e90aa8dc5a3ec00b19245627398c3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1bc503732b8aba2b509dc48e97434c2d4bc55c65
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706370"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506002"
 ---
 # <a name="change-a-users-email-address"></a>變更使用者的電子郵件地址
 
 變更某人的電子郵件地址很簡單！ 只要按照這些步驟操作即可：
   
-1. 在 Microsoft 365 系統管理中心中，移至 [[使用者](https://go.microsoft.com/fwlink/p/?linkid=834822)] 頁面，或選擇 [**使用者** \> ] [作用中**使用者**]。
+1. 在 Microsoft 365 系統管理中心中，移至 [[使用者](https://go.microsoft.com/fwlink/p/?linkid=834822)] 頁面，或選擇 [**使用者**] [作用中 \> **使用者**]。
     
 2. 選取使用者。
     
@@ -38,6 +38,6 @@ ms.locfileid: "43706370"
     
 6. 選擇 [**儲存**]，然後按一下 [**關閉**]，即可完成！
     
-不是這樣輕鬆？ 如需更多詳細資料和使用螢幕擷取畫面的步驟，請參閱本文：[變更使用者名稱和電子郵件地址](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+不是這樣輕鬆？ 如需更多詳細資料和使用螢幕擷取畫面的步驟，請參閱本文：[變更使用者名稱和電子郵件地址](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 

@@ -13,12 +13,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 083e5298aba0ddd3b5d87cf482fdd949a2ee34da
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: b0e845a3426ec3b8594cb82730fe559d08126e0c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063248"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511463"
 ---
 # <a name="subscription-recurring-billing"></a>訂閱定期計費
 
@@ -28,6 +28,6 @@ ms.locfileid: "44063248"
 
 2. 針對您想要深入瞭解的訂閱，在 [**帳單**] 底下，查看 [更新**開啟**] 或 [**到期**日]。
 
-4. 若要進行變更，請選取 [**編輯**]，然後在 [**週期性計費**設定] 窗格中，選取 [**關閉**] 以關閉該功能。 如果已關閉定期計費，請選取 [**每月**] 或 [**一次**] 開啟。
+4. 若要進行變更，請選取 [**編輯**]，然後在 [**週期性計費**設定] 窗格中，選取 [**關閉**] 以關閉該功能。 如果週期性帳單已關閉，選取 **[每月]** 或 **[一次]** 以將它開啟。
 
-若要深入了解，請參閱[關閉或開啟週期性計費](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)。
+若要深入了解，請參閱[關閉或開啟週期性計費](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)。

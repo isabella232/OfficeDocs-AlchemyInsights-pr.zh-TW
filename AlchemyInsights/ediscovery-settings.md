@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d2a331b7bbdbffd8a951aef171350a48eb4b859f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911139"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507089"
 ---
 # <a name="ediscovery-settings"></a>電子檔探索設定
 
@@ -28,4 +28,4 @@ eDiscovery/內容搜尋可讓您搜尋、保留及匯出 Exchange Online 信箱�
 - 瞭解從[ediscovery 搜尋所需的許可權](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)執行 ediscovery 搜尋所需的許可權。
 - 如果您的搜尋並未傳回預期的結果，請參閱[search not 傳回預期的結果](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)。
 
-如需 ediscovery 的詳細資訊，請參閱[ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery)。
+如需 ediscovery 的詳細資訊，請參閱[ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)。

@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 22c90680fbd6b3959f23512d12d84180c142ab90
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063464"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505570"
 ---
 # <a name="expired-subscription"></a>已到期訂閱
 
@@ -34,7 +34,7 @@ ms.locfileid: "44063464"
 
 3. 確認您的付款詳細資料。 您可以在這裡更新現有的付款資訊。 當您完成輸入您的付費方式時，請選擇 **[重新啟動]**。
 
-若要深入了解，請參閱[重新啟動您的訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)。
+若要深入了解，請參閱[重新啟動您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
 
 **進行新購買**
   
@@ -46,4 +46,4 @@ ms.locfileid: "44063464"
 
 4. 請遵循其餘步驟以完成取出。
 
-若要深入瞭解，請參閱[購買其他訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)。
+若要深入瞭解，請參閱[購買其他訂閱](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)。

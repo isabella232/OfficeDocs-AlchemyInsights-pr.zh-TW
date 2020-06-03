@@ -12,12 +12,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 80b652eb65612093252dee226a19ec74bc035faa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716379"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508907"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>在審核記錄中識別 IP 位址和用戶端
 
@@ -25,7 +25,7 @@ ms.locfileid: "43716379"
 
 1. 登入[Microsoft 365 的安全性 & 規範中心](https://protection.office.com/)。
 
-2. 移至 [**搜尋** > **審核記錄搜尋**] 頁面。
+2. 移至 [**搜尋**  >  **審核記錄搜尋**] 頁面。
 
    如果您對特定的活動感興趣，請從 [**活動**] 清單中進行選取。 如果不是，則會傳回選取之使用者的所有活動（預設設定）。
 
@@ -35,4 +35,4 @@ ms.locfileid: "43716379"
 
 在結果中，您可以在 [結果] 窗格中查看該活動的 IP 位址。 選取「審核記錄」，以查看**詳細資料**快顯視窗中的詳細資訊（例如，用戶端、執行動作的使用者等等）。
 
-如需詳細資訊，請參閱[尋找用來存取已遭破壞之帳戶之電腦的 IP 位址](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account)。
+如需詳細資訊，請參閱[尋找用來存取已遭破壞之帳戶之電腦的 IP 位址](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)。

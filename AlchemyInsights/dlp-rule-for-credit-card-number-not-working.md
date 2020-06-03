@@ -12,12 +12,12 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: 80ff41b3e746f95278ccbf0df19eebb61f7f9ee0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e2e93bed44749b9017dc6ff919a151d46da7a3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704192"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507397"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>使用信用卡問題的 DLP 問題
 
@@ -27,13 +27,13 @@ ms.locfileid: "43704192"
 
 當您在 O365 使用 DLP 敏感資訊類型時，**資料遺失防護（DLP）** 未針對包含**信用卡號碼**的內容運作時，是否發生問題？ 如果是的話，請確定您的內容包含必要資訊，以便在評估時觸發 DLP 原則。 例如，對於設定為信賴等級85% 的**信用卡原則**，會評估下列專案，而且必須偵測到要觸發的規則：
   
-- **[格式：](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 位數可格式化或未格式化（dddddddddddddddd），且必須通過 Luhn 測試。
+- **[格式：](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 位數可格式化或未格式化（dddddddddddddddd），且必須通過 Luhn 測試。
 
-- **[模式：](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** 非常複雜且健全的模式，可偵測全球所有主要品牌的卡，包括簽證、MasterCard、探索卡、JCB、美洲 Express、禮品卡和 diner 卡。
+- **[模式：](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** 非常複雜且健全的模式，可偵測全球所有主要品牌的卡，包括簽證、MasterCard、探索卡、JCB、美洲 Express、禮品卡和 diner 卡。
 
-- **[Checksum：](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** 是，Luhn 檢查碼
+- **[Checksum：](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** 是，Luhn 檢查碼
 
-- **[定義：](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** 如果接近300個字元以內，則 DLP 原則偵測到此敏感資訊類型的置信量是85%：
+- **[定義：](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** 如果接近300個字元以內，則 DLP 原則偵測到此敏感資訊類型的置信量是85%：
 
   - 函數 Func_credit_card 找到符合模式的內容。
 
@@ -53,7 +53,7 @@ ms.locfileid: "43704192"
   
   - 到期：2/2009
 
-如需針對您的內容偵測**信用卡號碼**所需的詳細資訊，請參閱本文中的下一節：[機密資訊類型針對信用卡號碼的外觀](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
+如需針對您的內容偵測**信用卡號碼**所需的詳細資訊，請參閱本文中的下一節：[機密資訊類型針對信用卡號碼的外觀](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-使用不同的內建機密資訊類型，請參閱下列文章，以瞭解其他類型所需的資訊：[機密資訊類型的外觀](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+使用不同的內建機密資訊類型，請參閱下列文章，以瞭解其他類型所需的資訊：[機密資訊類型的外觀](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

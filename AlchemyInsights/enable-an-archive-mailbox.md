@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788657"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507017"
 ---
 # <a name="enable-an-archive-mailbox"></a>啟用封存信箱
 
@@ -27,7 +27,7 @@ Microsoft 365 中的封存信箱（也稱為*線上*封存或*In-Place*封存）
 
 2. 使用您的系統管理員帳戶登入 Microsoft 365。
 
-3. 在安全性&amp;與合規性中心的左窗格中，選取 [**資訊管理** \>封存 **]。**
+3. 在安全性與合規性中心的左窗格中 &amp; ，選取 [**資訊管理**封存] \> ** **。
 
 4. 選取您想要啟用其封存信箱的使用者。
 
@@ -43,7 +43,7 @@ Microsoft 365 中的封存信箱（也稱為*線上*封存或*In-Place*封存）
 
 1. 移至[Exchange 系統管理中心](https://outlook.office365.com/ecp)，並使用您的系統管理員帳戶登入。
 
-2. 移至**Recipients** > [**共用**收件者]。
+2. 移至 **[** 共用收件者]  >  ** **。
 
 3. 選取共用信箱。
 
@@ -51,6 +51,6 @@ Microsoft 365 中的封存信箱（也稱為*線上*封存或*In-Place*封存）
 
 如需詳細資訊，請參閱：
   
-- [啟用封存信箱](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [啟用封存信箱](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [設定封存和刪除原則](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

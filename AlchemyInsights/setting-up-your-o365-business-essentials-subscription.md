@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767780"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509339"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>設定 O365 商務基本版訂閱
 
@@ -23,11 +23,11 @@ ms.locfileid: "43767780"
     
 - 移至[Microsoft 365 系統管理中心](https://login.partner.microsoftonline.cn/)。
     
-- 若要啟動該嚮導，請選擇 [**移至設定**]。 若要深入瞭解，請參閱[Add a domain To Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain)。
+- 若要啟動該嚮導，請選擇 [**移至設定**]。 若要深入瞭解，請參閱[Add a domain To Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)。
     
 匯入電子郵件
   
-- 將現有的電子郵件和連絡人從其他電子郵件系統移至您的 Microsoft 365 信箱，這樣您就可以在一個地方看到所有的電子郵件和連絡人。 若為遷移選項，請[將電子郵件和連絡人遷移至 Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin)。
+- 將現有的電子郵件和連絡人從其他電子郵件系統移至您的 Microsoft 365 信箱，這樣您就可以在一個地方看到所有的電子郵件和連絡人。 若為遷移選項，請[將電子郵件和連絡人遷移至 Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin)。
     
 - 連接電子郵件帳戶
     
@@ -41,6 +41,6 @@ ms.locfileid: "43767780"
   
 - 若要瞭解哪一種儲存位置最適合您的企業，請參閱[您可以在 Microsoft 365 中儲存](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)檔案的位置。 當您為使用者建立 Microsoft 365 帳戶時，任何人都會自動取得**OneDrive**雲端儲存位置。 有了 OneDrive，您可以透過電腦、手機和平板電腦來存取檔案。 
     
-您可以在[本文](https://docs.microsoft.com/office365/admin/setup/setup)中找到安裝程式的詳細步驟。
+您可以在[本文](https://docs.microsoft.com/microsoft-365/admin/setup/setup)中找到安裝程式的詳細步驟。
   
 
