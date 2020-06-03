@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 11321789ee6bd7568fda0d530b9b60eb382c83b9
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799042"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508583"
 ---
 # <a name="unlocking-an-account"></a>解除鎖定帳戶
 
@@ -40,4 +40,4 @@ ms.locfileid: "43799042"
 
 如需更多密碼重設案例，包括自助密碼重設，請參閱[針對 multiple-attempts-to-charge-online-payment-instrumentsbusiness 重設 Microsoft 365 密碼](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide)。
 
-此服務可防止使用者在偵測到帳戶的確遭到入侵和/或輸出垃圾郵件之後傳送電子郵件。 若要採取預防措施，請使用者依照[在 Microsoft 365 中如何處理遭入侵電子郵件帳戶](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)中的步驟進行。
+此服務可防止使用者在偵測到帳戶的確遭到入侵和/或輸出垃圾郵件之後傳送電子郵件。 若要採取預防措施，請使用者依照[在 Microsoft 365 中如何處理遭入侵電子郵件帳戶](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)中的步驟進行。

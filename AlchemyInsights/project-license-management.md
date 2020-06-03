@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-ms.openlocfilehash: c61963920f703c3c9e25291bdcb4e6e64b928060
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: db451e46b8b908c4497d459d963905f597cf57f2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991036"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512401"
 ---
 # <a name="project-license-management"></a>Project 授權管理
 
@@ -27,6 +27,6 @@ ms.locfileid: "43991036"
 - 若要[切換方案](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide)，請參閱**手動切換 Microsoft 365 商務版方案**。
 - 若要**指派** Project 授權，請移至 [帳單] > [[授權]](https://go.microsoft.com/fwlink/p/?linkid=842264)****。 如需詳細資訊，請參閱[指派授權](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)。
 - 若要**新增/移除** Project 授權，請移至 [帳單] > [[購買服務]](https://go.microsoft.com/fwlink/p/?linkid=868433)****。 如需詳細資訊，請參閱[新增/移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)。
-- 若要**取消** Project 授權，請移至 [帳單] > [[產品與服務]](https://go.microsoft.com/fwlink/p/?linkid=842054)****，並選取 [選取及動作]****，然後按一下 [取消訂閱]****。 如需詳細資訊，請參閱[取消您的訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)。
+- 若要**取消** Project 授權，請移至 [帳單] > [[產品與服務]](https://go.microsoft.com/fwlink/p/?linkid=842054)****，並選取 [選取及動作]****，然後按一下 [取消訂閱]****。 如需詳細資訊，請參閱[取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
 
 如需詳細資訊，請參閱[移轉訂閱授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)。

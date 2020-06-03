@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: f41fc3e02ee3fca4d49c8fac5a3b3872662a7884
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43943967"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511787"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Microsoft 365 E3 訂閱和授權管理常見問題集
 
@@ -25,7 +25,7 @@ ms.locfileid: "43943967"
 - 若要[切換方案](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide)，請參閱**手動切換 Microsoft 365 商務版方案**。
 - 若要指派**使用者** E3 授權，請移至 [帳單] > [[授權]](https://go.microsoft.com/fwlink/p/?linkid=842264)****。 如需詳細資訊，請參閱[指派授權](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)。
 - 若要**新增/移除** E3 授權，請移至 [帳單]**[ > [產品與服務]](https://go.microsoft.com/fwlink/p/?linkid=842054)**，然後按一下 [新增/移除授權]****。 如需詳細資訊，請參閱[新增/移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)。 
-- 若要**取消** E3 授權，請移至 [帳單]**[ > [產品與服務]](https://go.microsoft.com/fwlink/p/?linkid=842054)**，並按一下 [設定與動作]****，然後按一下 [取消訂閱]****。 如需詳細資訊，請參閱[取消您的訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)。
+- 若要**取消** E3 授權，請移至 [帳單]**[ > [產品與服務]](https://go.microsoft.com/fwlink/p/?linkid=842054)**，並按一下 [設定與動作]****，然後按一下 [取消訂閱]****。 如需詳細資訊，請參閱[取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
 - 若要**啟用** E3 訂閱，請參閱[啟用訂閱](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)。
 - 若要**重新啟用** E3 訂閱，請參閱[重新啟用您的訂閱](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)。
 - 若要**延長** E3 試用期，請參閱[延長試用期](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business)。

@@ -12,12 +12,12 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: a8b1c378856adaa13bcd33d8bc185a093f990e2f
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
+ms.openlocfilehash: 53e92b44277d239c927d13e63a6437c4ec9d0996
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158391"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512365"
 ---
 # <a name="understand-your-bill"></a>了解您的帳單
 
@@ -27,7 +27,7 @@ ms.locfileid: "43158391"
 
 2. 從下拉式清單中選取日期範圍，然後選擇您想要檢閱的順序，或按一下 **[下載發票 pdf]** 連結以檢視帳單複本。
 
-如需詳細資訊，請參閱[檢視您的帳單或發票](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)。
+如需詳細資訊，請參閱[檢視您的帳單或發票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)。
 
 **了解您的帳單/發票**
 
