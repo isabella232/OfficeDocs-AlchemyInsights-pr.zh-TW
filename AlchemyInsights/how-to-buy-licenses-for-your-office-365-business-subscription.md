@@ -12,12 +12,12 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 0362ef42344aba57eca276a9fafb5e847dd9996f
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d50a6a0834fb26f2fd25e7defe2d4a125f7a62fa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063896"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496086"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>如何購買 Microsoft 365 應用程式商務版訂閱的授權
 
@@ -29,4 +29,4 @@ ms.locfileid: "44063896"
 
 3. 在 [**授權總數**] 方塊中，輸入此訂閱所需的授權總數，然後選取 [**提交變更**]。 For example, if you have 100 licenses and you need to add 5 more, enter 105.
 
-若要深入瞭解，請參閱購買適用于[Microsoft 365 應用程式商務版訂閱的授權](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)。
+若要深入瞭解，請參閱購買適用于[Microsoft 365 應用程式商務版訂閱的授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。

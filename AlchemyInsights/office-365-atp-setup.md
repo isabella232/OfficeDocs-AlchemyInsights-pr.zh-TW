@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: dfd6e900bc364699c7c19bda795408d87ccb4333
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d7d983e1a39034345283c5b084e84e5147c17645
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761661"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502742"
 ---
 # <a name="office-365-advanced-threat-protection-atp"></a>Office 365 高級威脅防護（ATP）
 
-Office 365 ATP 包含[安全附件](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、[安全連結](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、[高級反網路釣魚](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)等等。 
+Office 365 ATP 包含[安全附件](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments)、[安全連結](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)、[高級反網路釣魚](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)等等。 
 
 ATP 包含在訂閱中，例如 Office 365 企業版 E5、Office 365 教育版 A5 和 Microsoft 365 商務版 Premium。 如果您的訂閱不包含 ATP，您可以將 ATP 購買為附加元件。 若要深入瞭解，請參閱[Office 365 ATP 服務描述](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)。
 
