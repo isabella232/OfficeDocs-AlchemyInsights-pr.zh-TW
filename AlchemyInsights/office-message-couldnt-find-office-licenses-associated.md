@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: ead72a182c65999258ac628b92d14a958c849bc4
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182450"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505082"
 ---
 # <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Office 應用程式訊息 - 找不到相關聯的 Office 授權
 
 若要修正此錯誤，請嘗試下列步驟：
 
-- 對受影響的使用者，移除並[重新指派 Office 授權](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users?view=o365-worldwide)。
+- 對受影響的使用者，移除並[重新指派 Office 授權](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
 
 - 開啟 Office 應用程式，並[登出](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071)任何現有的使用者帳戶。
 
@@ -44,4 +44,4 @@ ms.locfileid: "43182450"
 
 [Office 中的「未授權產品」及啟用錯誤](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Office 365 URL 與 IP 位址範圍](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Microsoft 365 URL 和 IP 位址範圍](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
