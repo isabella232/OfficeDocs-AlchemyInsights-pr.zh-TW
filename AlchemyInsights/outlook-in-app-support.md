@@ -3,7 +3,7 @@ title: 租使用者是對 Outlook 的應用程式中支援試驗
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 6/3/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 646a65a4cb068b1c91c52c42d55fe09e62421f9d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3d723c11c24460291e9ced9dc87cf1258f1f41d9
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720423"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44542035"
 ---
-# <a name="your-tenant-is-piloting-in-app-support-for-outlook"></a><span data-ttu-id="453da-102">您的租使用者是對 Outlook 的應用程式支援試驗</span><span class="sxs-lookup"><span data-stu-id="453da-102">Your tenant is piloting in-app support for Outlook</span></span>
+# <a name="in-app-support-in-outlook-for-windows"></a><span data-ttu-id="7af2f-102">適用于 Windows 的 Outlook 中的應用程式內支援</span><span class="sxs-lookup"><span data-stu-id="7af2f-102">In-app support in Outlook for Windows</span></span>
 
-<span data-ttu-id="453da-103">您可能有資格直接在 Outlook 中取得支援。</span><span class="sxs-lookup"><span data-stu-id="453da-103">You may be eligible to receive support directly in Outlook.</span></span> <span data-ttu-id="453da-104">如果您正在執行最新的月度通道組建，請開啟 Outlook，然後選取 [說明] [**協助** > **]。**</span><span class="sxs-lookup"><span data-stu-id="453da-104">If you're running the latest Monthly Channel build, open Outlook and select **Help** > **Contact Support**.</span></span> <span data-ttu-id="453da-105">輸入您的問題，並將 Outlook 支援小組的成員與您聯繫。</span><span class="sxs-lookup"><span data-stu-id="453da-105">Type your question and a member of the Outlook support team will contact you.</span></span>
-
-<span data-ttu-id="453da-106">如果您不確定您執行的是最新的月度通道組建，請參閱[我使用哪一個版本的 Office？](https://support.office.com/article/932788B8-A3CE-44BF-BB09-E334518B8B19)</span><span class="sxs-lookup"><span data-stu-id="453da-106">If you're not sure if you're running the latest Monthly Channel build, see [What version of Office am I using?](https://support.office.com/article/932788B8-A3CE-44BF-BB09-E334518B8B19)</span></span>
+<span data-ttu-id="7af2f-103">作為租使用者系統管理員，您可以在適用于 Windows 的 Outlook 中收到問題的應用程式支援。</span><span class="sxs-lookup"><span data-stu-id="7af2f-103">As a Tenant Admin, you can receive in-app support for issues in Outlook for Windows.</span></span> <span data-ttu-id="7af2f-104">在 Outlook 中，**選取 [** 說明] 以  >  **支援人員**。</span><span class="sxs-lookup"><span data-stu-id="7af2f-104">In Outlook, select **Help** > **Contact Support**.</span></span> <span data-ttu-id="7af2f-105">請輸入您的問題，且 Outlook for Windows 支援小組成員將會回復您的郵件。</span><span class="sxs-lookup"><span data-stu-id="7af2f-105">Enter your question, and a member of the Outlook for Windows support team will reply to your message.</span></span>
