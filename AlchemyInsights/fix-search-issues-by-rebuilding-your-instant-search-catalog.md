@@ -1,5 +1,5 @@
 ---
-title: 透過重建立即搜尋類別目錄的 1800005 修正搜尋問題
+title: 1800005重新構建立即搜尋目錄，以修正搜尋問題
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,25 +13,25 @@ ms.custom:
 - "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
 ms.openlocfilehash: cf167548c81b11e16aa98cd9a83b619a8087dcb0
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36664887"
 ---
 # <a name="troubleshoot-search-issues"></a>疑難排解搜尋問題
 
-如果您在 Outlook 中有 search 的問題，請參閱的說明和疑難排解下的連結。
+如果您在 Outlook 中進行搜尋時出現問題，請參閱下列連結以取得協助和疑難排解。
 
-這些都是最常見的問題，而且會是不錯的起點：
+這些是最常見的問題，也是理想的開始位置：
 
 - [Outlook 搜尋未傳回任何結果](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [Outlook 搜尋會傳回不完整的結果](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [Outlook 搜尋找不到較舊的電子郵件](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+- [Outlook 搜尋傳回不完整的結果](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Outlook 搜尋無法找到較舊的電子郵件](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
-對於較不常見的問題可能的解決方案可以在以下位置找到：
+您可以在以下位置找到不常見問題的可能解決方案：
 
-- [僅限 outlook 2016： 會變為灰色，搜尋索引標籤](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
-- [搜尋結果的共用信箱： 問題](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [錯誤： 會因為如何設定 Outlook 有問題影響搜尋效能](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [搜尋資料夾顯示沒有主旨的未預期的 PersonMetadata 項目](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+- [僅限 Outlook 2016： [搜尋] 索引標籤會變暗](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [共用信箱：搜尋結果的問題](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [錯誤：由於 Outlook 的設定問題，搜尋效能會受到影響](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [搜尋資料夾顯示未使用主旨的非預期 PersonMetadata 專案](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)

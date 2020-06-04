@@ -1,5 +1,5 @@
 ---
-title: 3800017 疑難排解同步處理至您的裝置的行事曆
+title: 3800017將行事曆同步處理至您的裝置疑難排解
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,13 +13,13 @@ ms.custom:
 - "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
 ms.openlocfilehash: cfde9c1d14f3c9a7e2149148a9a9c397c23b36fd
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665787"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>疑難排解同步處理至您的裝置行事曆
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>將行事曆同步處理至您的裝置疑難排解
 
-如果您遇到同步處理問題的第一次設定行動電子郵件時，請參閱[行事曆及連絡人與 「 我的手機或平板電腦無法同步處理](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)。
+如果您第一次設定行動電話電子郵件時出現同步問題，請參閱[無法與我的手機或平板電腦同步處理行事曆和連絡人](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)。
   

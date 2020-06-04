@@ -1,5 +1,5 @@
 ---
-title: 提交 PowerApps 或 Microsoft Flow 支援要求
+title: 提交 PowerApps 或 Microsoft 流量支援要求
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "1495"
 - "6200027"
 ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559472"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>提交 PowerApps 或 Microsoft Flow 支援要求
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>提交 PowerApps 或 Microsoft 流量支援要求
 
-如果您是**PowerApps**或**Microsoft Flow**客戶請提交您透過新的[電源平台系統管理中心](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819)的票證。 新的入口網站提供適合 PowerApps 和其他 Power 平台產品的協助支援更直接的路徑。
+如果您是**PowerApps**或**Microsoft 流程**客戶，請透過新的[Power platform Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819)提交您的憑證。 新的入口網站為 PowerApps 及其他電源平台產品的優化，提供了更直接的技術支援途徑。
 
-[提交 Microsoft Flow 支援要求](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[提交 Microsoft 流程支援要求](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
