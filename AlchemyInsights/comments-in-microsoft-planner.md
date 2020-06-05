@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 98246b52e21c7a24d04e18ce77d96b28c65e7909
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 5895b1f94325946ab165b97b68848068df1a81c2
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911211"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563311"
 ---
 # <a name="comments-in-microsoft-planner"></a>Microsoft Planner 中的註解
 
@@ -32,4 +32,4 @@ ms.locfileid: "43911211"
 
 - **已移除的使用者收到電子郵件** - 如果使用者在從計劃遭到移除之前於工作加上註解，電子郵件對話會在對於工作所做的每個註解都包含使用者。
 
-如需 Microsoft Planner 註解的詳細資訊，請參閱 [Microsoft Planner 的運作方式](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) (英文) 和[對 Microsoft Planner 中的工作留言](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1)。
+如需 Microsoft Planner 註解的詳細資訊，請參閱 [Microsoft Planner 的運作方式](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) (英文) 和[對 Microsoft Planner 中的工作留言](https://support.microsoft.com/office/fd4aedde-7785-4cd0-96ee-122fbc9140e1)。
