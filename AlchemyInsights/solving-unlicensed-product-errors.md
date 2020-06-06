@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512003"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582730"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>解決「未經許可的產品」錯誤的建議
 
@@ -26,7 +26,7 @@ ms.locfileid: "44512003"
 - 請確定您有允許用戶端授權的訂閱，例如 Microsoft 365 應用程式的商務用帳戶或商務版，並[確保使用者已指派授權](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。 
 - 請確定使用者正在使用已指派授權的相同帳戶登入 Office。
 - 檢查 [[服務健康](https://docs.microsoft.com/office365/enterprise/view-service-health)情況] 頁面，查看服務是否有任何已知的問題。
-- 檢查您的防火牆、防毒軟體及 proxy 設定，以確認他們不會封鎖 Office 應用程式對網際網路的存取。 請參閱[URLs 及 IP 位址範圍](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)。
+- 檢查您的防火牆、防毒軟體及 proxy 設定，以確認他們不會封鎖 Microsoft 365 應用程式對網際網路的存取。 請參閱[URLs 及 IP 位址範圍](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)。
 
 您也可以嘗試下列疑難排解動作： 
 

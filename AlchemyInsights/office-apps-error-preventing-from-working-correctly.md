@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 應用程式錯誤：應用程式無法正確啟動
+title: Microsoft 365 應用程式錯誤：應用程式發生錯誤，使其無法正常運作
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2533"
+- "2534"
 - "9000572"
-ms.openlocfilehash: bc860a2e5debed1de33b7269e699ccd034181602
+ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
 ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581150"
+ms.locfileid: "44576803"
 ---
-# <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly"></a>Microsoft 365 應用程式錯誤：應用程式無法正確啟動
+# <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Microsoft 365 應用程式錯誤：應用程式發生錯誤，使其無法正常運作
 
 若要修正此錯誤，請嘗試下列選項：
 
@@ -27,6 +27,7 @@ ms.locfileid: "44581150"
 - 使用控制台[修復 Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 - [卸載](https://support.office.com/article/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8)並重新安裝 Office
 
+**附注：** 如果特定檔發生問題，那些檔可能已損毀。 請參閱[如何疑難排解損壞的檔](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)。
 
 如需詳細資訊，請參閱： 
 

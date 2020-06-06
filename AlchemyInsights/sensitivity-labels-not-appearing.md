@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511643"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581006"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>不顯示敏感度標籤
 
 敏感度標籤可讓您分類並協助保護您的敏感內容。 您可以在 [分類 > 敏感度標籤] 底下的 [microsoft 365 規範中心]、[Microsoft 365 安全性中心] 或 [Microsoft 365 安全性 & 規範中心] 中建立。 若要深入瞭解這項功能，請參閱[敏感度標籤簡介](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)。
 
-如果您已設定靈敏度標籤，但未出現在 Office 應用程式中，請檢查下列事項：
+如果您已設定靈敏度標籤，但未出現在 Microsoft 365 應用程式中，請檢查下列各項：
 
 - 確認敏感度標籤已[發佈](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do)至您想要的使用者和群組。
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: f4fb17573bae0cb91dc458433eedfd7398802743
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 2050d2affabbe15521bcfcbee5ea5651b61770a7
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911067"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581258"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>將群組新增至 SharePoint 網站
 

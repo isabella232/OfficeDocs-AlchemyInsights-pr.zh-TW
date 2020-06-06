@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3418"
 - "9001424"
-ms.openlocfilehash: 0500e998a457c074517b098e95acbd698c4e6b08
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: a3996d97af29c56fc500a8624515bade49d7d056
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010542"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581902"
 ---
-# <a name="fixing-the-office-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>修正 Office app "我們在您的帳戶中找到的產品無法用來啟用" 訊息
+# <a name="fixing-the-microsoft-365-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>修正 Microsoft 365 應用程式「我們在您的帳戶中找到的產品不能用來啟用」訊息
 
 如果您收到這封郵件，請嘗試下列步驟：
 
 - 檢查 [[服務健康](https://docs.microsoft.com/office365/enterprise/view-service-health)情況] 頁面，查看服務是否有任何已知的問題。
 - 確認您的[訂閱狀態](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription)有效，且受影響的使用者[獲指派有效的授權](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC)，並且已連線至網際網路。 
 - 請參閱[Office 錯誤 "我們在您的帳戶中找到的產品無法用來啟用"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e)。
-- 開啟 Office 應用程式，選取 [**檔** > **帳戶**]，然後登出所有帳戶。 使用具有有效授權的使用者帳戶重新登入。 如需詳細資訊，請參閱 [Office 的帳戶](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9)。
+- 開啟 Office 應用程式，選取 [**檔**  >  **帳戶**]，然後登出所有帳戶。 使用具有有效授權的使用者帳戶再次登入。 如需詳細資訊，請參閱 [Office 的帳戶](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9)。
 - 執行[啟用疑難排解員](https://aka.ms/SARA-OfficeActivation-Alchemy)，並重新啟動電腦。
 - 在受影響的機器上，[重設 Office 啟用狀態](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)。
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 701c4aef6bfc0c4a2c4570f6dd16dbe4f99efc44
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908695"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580324"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>超過每日電子郵件限制。 工作流程已暫停。
 

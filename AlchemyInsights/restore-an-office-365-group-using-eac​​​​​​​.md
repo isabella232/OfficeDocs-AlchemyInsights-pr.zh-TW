@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
-ms.openlocfilehash: b40d216bce2f88c7ed48a470537c69e8589159f3
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 221f075669f5f0e35ae5df11a4a59845ea81b5cd
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912574"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582370"
 ---
-# <a name="restore-an-microsoft-365-group-using-the-exchange-admin-center"></a>使用 Exchange 系統管理中心還原 Microsoft 365 群組
+# <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>使用 Exchange 系統管理中心還原 Microsoft 365 群組
 
 1. 在 Microsoft 365 系統管理中心的左側導覽中，展開 [系統**管理中心**]，然後選擇 [ **Exchange**]。
     

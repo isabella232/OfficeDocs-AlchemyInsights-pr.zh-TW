@@ -13,12 +13,12 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 247168d6c7973ba45fa3e504791190251ad67eab
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 52a8094806e3f4898c43643c7a4751bb20d1a3d5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506074"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580684"
 ---
 # <a name="change-the-domain-for-microsoft-365-group"></a>變更 Microsoft 365 群組的網域
 

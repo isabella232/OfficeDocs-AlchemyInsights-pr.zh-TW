@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716163"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581866"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>修正 Office 應用程式「無法立即連接」訊息
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>修正 Microsoft 365 應用程式「無法立即連線」訊息
 
 如果您收到這封郵件，請嘗試下列步驟：
 
-1. 檢查您的防火牆、防毒軟體及 proxy 設定，以確認他們不會封鎖 Office 應用程式的網際網路存取。 請參閱[Microsoft URLs 和 IP 位址範圍](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)。
+1. 檢查您的防火牆、防毒軟體及 proxy 設定，以確認他們不會封鎖對 Microsoft 365 應用程式的網際網路存取。 請參閱[Microsoft URLs 和 IP 位址範圍](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)。
 
-2. 移至 [**開始** > **執行**]，然後輸入**services.msc**。 請確定下列服務都在執行中：
+2. 移至 [**開始**  >  **執行**]，然後輸入**services.msc**。 請確定下列服務都在執行中：
     - 網路連線裝置自動設定
     - 網路清單服務
     - 網路位置知曉

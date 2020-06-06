@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: 61ba34e6d554831da712a92401f26fabb02c26b7
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 02368d6a06df90d76ee1bd5448819e7ffe12c18c
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908335"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580000"
 ---
 # <a name="hide-microsoft-365-group-from-address-list-gal"></a>隱藏 Microsoft 365 group from address list （GAL）
 
-若要從 Exchange 用戶端（例如 Outlook 或 OWA）的通訊清單（GAL）隱藏 Microsoft 365 群組，請在 EXO 命令介面中使用下列命令：
+若要隱藏 Exchange 用戶端（例如 Outlook 或 OWA）的通訊清單（GAL）中的 Microsoft 365 群組，請在 EXO 命令介面中使用下列命令：
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 

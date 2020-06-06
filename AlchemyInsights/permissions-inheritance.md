@@ -3,7 +3,7 @@ title: 權限繼承
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
-ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 791085593433dcad9b800fdea8c7ea4a878604e7
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36554936"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581042"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>在 SharePoint 中的權限繼承的運作方式
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>許可權繼承在 SharePoint 中的運作方式
 
-根據預設，在 SharePoint 中的權限被繼承自階層中的較高向上。 因此檔案是繼承其權限] 資料夾，這是文件庫，是它的權限繼承的網站集合的網站是繼承其權限繼承其權限。
+根據預設，SharePoint 中的許可權會從階層中較高的位置繼承。 因此，檔案會從該資料夾繼承其許可權，該資料夾繼承來自此程式庫的許可權，而該網站會從網站集合繼承其許可權。
   
-移除唯一權限和還原繼承的相關資訊，請參閱[編輯和管理清單或文件庫的權限](https://go.microsoft.com/fwlink/?linkid=869946)。
+如需移除唯一許可權及還原繼承的資訊，請參閱[編輯和管理清單或文件庫的許可權](https://go.microsoft.com/fwlink/?linkid=869946)。
   
 
