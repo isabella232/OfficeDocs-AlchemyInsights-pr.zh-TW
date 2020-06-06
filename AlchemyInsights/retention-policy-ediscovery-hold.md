@@ -1,9 +1,9 @@
 ---
-title: 2609 保留或 ediscovery 功能
+title: 2609-保留-或-ediscovery-保留
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: 3e60f0fc53cd78c9cc816a658a9df05e9075e26e
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 4d2b36fb78390f32d68f1cdd11ca1af8013424a2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571298"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576875"
 ---
-# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a><span data-ttu-id="1dee3-102">無法刪除 SharePoint Online 或商務用 OneDrive 中的項目</span><span class="sxs-lookup"><span data-stu-id="1dee3-102">Unable to delete items in SharePoint Online or OneDrive for Business</span></span>
+# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a><span data-ttu-id="fec79-102">無法在 SharePoint Online 或商務 OneDrive 中刪除專案</span><span class="sxs-lookup"><span data-stu-id="fec79-102">Unable to delete items in SharePoint Online or OneDrive for Business</span></span>
 
-<span data-ttu-id="1dee3-103">您或您的使用者可能無法刪除 SharePoint Online 中的項目或商務用 OneDrive 由於保留原則、 保留標籤或 eDiscovery 保留會套用至 SharePoint 的 OneDrive 網站或特定項目。</span><span class="sxs-lookup"><span data-stu-id="1dee3-103">You or your users may be unable to delete items in SharePoint Online or OneDrive for Business because a retention policy, retention label, or eDiscovery hold is applied to a SharePoint of OneDrive site or to a specific item.</span></span> <span data-ttu-id="1dee3-104">這包括無法刪除文件、 文件版本、 資料夾、 文件庫、 清單、 應用程式、 網站或網站集合。</span><span class="sxs-lookup"><span data-stu-id="1dee3-104">This includes being unable to delete a document, a document version, a folder, a document library, a list, an app, a site, or a site collection.</span></span> 
+<span data-ttu-id="fec79-103">您或您的使用者可能無法在 SharePoint Online 或商務 OneDrive 中刪除專案，因為保留原則、保留標籤或 eDiscovery 保留已套用至 OneDrive 網站 SharePoint 或特定專案。</span><span class="sxs-lookup"><span data-stu-id="fec79-103">You or your users may be unable to delete items in SharePoint Online or OneDrive for Business because a retention policy, retention label, or eDiscovery hold is applied to a SharePoint of OneDrive site or to a specific item.</span></span> <span data-ttu-id="fec79-104">這包括無法刪除檔、檔版本、資料夾、文件庫、清單、應用程式、網站或網站集合。</span><span class="sxs-lookup"><span data-stu-id="fec79-104">This includes being unable to delete a document, a document version, a folder, a document library, a list, an app, a site, or a site collection.</span></span> 
 
-<span data-ttu-id="1dee3-105">若要刪除這些案例中，保留原則、 保留標籤和 eDiscovery 的下列其中一項目保留已移除 （或網站有保留原則中排除）。</span><span class="sxs-lookup"><span data-stu-id="1dee3-105">To delete items in one of these scenarios, the retention policy, retention label, or eDiscovery hold has to be removed (or a site has to be excluded from a retention policy).</span></span> <span data-ttu-id="1dee3-106">您要停用，或排除此問題所造成的個別保留。</span><span class="sxs-lookup"><span data-stu-id="1dee3-106">You need to either disable or exclude respective hold that's causing this issue.</span></span> <span data-ttu-id="1dee3-107">會移除保留原則或保留之後，可能需要 24 小時的時間，變更才會生效。</span><span class="sxs-lookup"><span data-stu-id="1dee3-107">After a retention policy or hold is removed, it may take up to 24 hours for the change to take effect.</span></span> 
+<span data-ttu-id="fec79-105">若要刪除其中一個案例中的專案，必須移除保留原則、保留標籤或 eDiscovery 保留（或必須從保留原則中排除的網站）。</span><span class="sxs-lookup"><span data-stu-id="fec79-105">To delete items in one of these scenarios, the retention policy, retention label, or eDiscovery hold has to be removed (or a site has to be excluded from a retention policy).</span></span> <span data-ttu-id="fec79-106">您必須停用或排除導致此問題的個別保留。</span><span class="sxs-lookup"><span data-stu-id="fec79-106">You need to either disable or exclude respective hold that's causing this issue.</span></span> <span data-ttu-id="fec79-107">在刪除保留原則或保留後，最多可能需要24小時的時間，變更才會生效。</span><span class="sxs-lookup"><span data-stu-id="fec79-107">After a retention policy or hold is removed, it may take up to 24 hours for the change to take effect.</span></span> 
 
-<span data-ttu-id="1dee3-108">如需不同的保留和可套用至 SharePoint 網站與 OneDrive 帳戶的保留功能的相關資訊，請參閱下列主題。</span><span class="sxs-lookup"><span data-stu-id="1dee3-108">For information about about the different retention and hold features that can be applied to SharePoint sites and OneDrive accounts, see one of the following topics.</span></span>
+<span data-ttu-id="fec79-108">如需適用于 SharePoint 網站和 OneDrive 帳戶之不同保留和保留功能的詳細資訊，請參閱下列其中一個主題。</span><span class="sxs-lookup"><span data-stu-id="fec79-108">For information about about the different retention and hold features that can be applied to SharePoint sites and OneDrive accounts, see one of the following topics.</span></span>
 
-- [<span data-ttu-id="1dee3-109">保留原則概觀</span><span class="sxs-lookup"><span data-stu-id="1dee3-109">Overview of retention policies</span></span>](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-- [<span data-ttu-id="1dee3-110">保留標籤概觀</span><span class="sxs-lookup"><span data-stu-id="1dee3-110">Overview of retention labels</span></span>](https://docs.microsoft.com/microsoft-365/compliance/labels)
-- [<span data-ttu-id="1dee3-111">管理進階電子文件中的保留</span><span class="sxs-lookup"><span data-stu-id="1dee3-111">Manage holds in Advanced eDiscovery</span></span>](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
-- [<span data-ttu-id="1dee3-112">eDiscovery 保留</span><span class="sxs-lookup"><span data-stu-id="1dee3-112">eDiscovery holds</span></span>](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
-- [<span data-ttu-id="1dee3-113">舊版的網站關閉和刪除原則</span><span class="sxs-lookup"><span data-stu-id="1dee3-113">Legacy site closure and deletion policies</span></span>](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
+- [<span data-ttu-id="fec79-109">保留原則概觀</span><span class="sxs-lookup"><span data-stu-id="fec79-109">Overview of retention policies</span></span>](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- [<span data-ttu-id="fec79-110">保留標籤概觀</span><span class="sxs-lookup"><span data-stu-id="fec79-110">Overview of retention labels</span></span>](https://docs.microsoft.com/microsoft-365/compliance/labels)
+- [<span data-ttu-id="fec79-111">在高級 eDiscovery 中管理保留</span><span class="sxs-lookup"><span data-stu-id="fec79-111">Manage holds in Advanced eDiscovery</span></span>](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
+- [<span data-ttu-id="fec79-112">eDiscovery 保留</span><span class="sxs-lookup"><span data-stu-id="fec79-112">eDiscovery holds</span></span>](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- [<span data-ttu-id="fec79-113">舊版網站關閉和刪除原則</span><span class="sxs-lookup"><span data-stu-id="fec79-113">Legacy site closure and deletion policies</span></span>](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)

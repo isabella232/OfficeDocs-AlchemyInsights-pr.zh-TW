@@ -13,18 +13,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: a8305e6f089251077400f2b727539615cf6165af
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0cb5595513d8ade82782269c20e0173b2e7e7471
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722729"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582406"
 ---
-# <a name="repeated-sign-in-prompts-in-office-apps"></a><span data-ttu-id="85fa7-102">Office 應用程式中重複登入提示</span><span class="sxs-lookup"><span data-stu-id="85fa7-102">Repeated sign-in prompts in Office apps</span></span>
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a><span data-ttu-id="1ac42-102">Microsoft 365 應用程式中重複登入提示</span><span class="sxs-lookup"><span data-stu-id="1ac42-102">Repeated sign-in prompts in Microsoft 365 apps</span></span>
 
-<span data-ttu-id="85fa7-103">若要疑難排解 Office 應用程式中重複登入的提示，請參閱：</span><span class="sxs-lookup"><span data-stu-id="85fa7-103">To troubleshoot repeated sign-in prompts in Office apps, see:</span></span>
+<span data-ttu-id="1ac42-103">若要在 Microsoft 365 應用程式中疑難排解重複登入提示，請參閱：</span><span class="sxs-lookup"><span data-stu-id="1ac42-103">To troubleshoot repeated sign-in prompts in Microsoft 365 apps, see:</span></span>
 
-- [<span data-ttu-id="85fa7-104">如何疑難排解無法登入 Microsoft 365、Azure 或 Intune 的非瀏覽器應用程式</span><span class="sxs-lookup"><span data-stu-id="85fa7-104">How to troubleshoot non-browser apps that can't sign in to Microsoft 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- [<span data-ttu-id="85fa7-105">「拒絕存取」，或在連線至 Microsoft 365 時重複提示使用者輸入認證</span><span class="sxs-lookup"><span data-stu-id="85fa7-105">"Access Denied", or user is repeatedly prompted for credentials when connecting to Microsoft 365</span></span>](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [<span data-ttu-id="85fa7-106">在登入 Microsoft 365，Azure 或 Intune 期間，會反復提示同盟使用者輸入認證</span><span class="sxs-lookup"><span data-stu-id="85fa7-106">A federated user is repeatedly prompted for credentials during sign-in to Microsoft 365, Azure or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [<span data-ttu-id="1ac42-104">如何疑難排解無法登入 Microsoft 365、Azure 或 Intune 的非瀏覽器應用程式</span><span class="sxs-lookup"><span data-stu-id="1ac42-104">How to troubleshoot non-browser apps that can't sign in to Microsoft 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- [<span data-ttu-id="1ac42-105">「拒絕存取」，或在連線至 Microsoft 365 時重複提示使用者輸入認證</span><span class="sxs-lookup"><span data-stu-id="1ac42-105">"Access Denied", or user is repeatedly prompted for credentials when connecting to Microsoft 365</span></span>](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [<span data-ttu-id="1ac42-106">在登入 Microsoft 365，Azure 或 Intune 期間，會反復提示同盟使用者輸入認證</span><span class="sxs-lookup"><span data-stu-id="1ac42-106">A federated user is repeatedly prompted for credentials during sign-in to Microsoft 365, Azure or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 
