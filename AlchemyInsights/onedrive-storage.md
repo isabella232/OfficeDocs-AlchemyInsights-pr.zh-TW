@@ -1,5 +1,5 @@
 ---
-title: OneDrive 儲存空間
+title: OneDrive 儲存
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049040"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667839"
 ---
-# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="87ea4-102">管理您的 OneDrive 儲存空間</span><span class="sxs-lookup"><span data-stu-id="87ea4-102">Manage your OneDrive storage</span></span>
+# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="98c7a-102">管理您的 OneDrive 儲存裝置</span><span class="sxs-lookup"><span data-stu-id="98c7a-102">Manage your OneDrive storage</span></span>
 
-<span data-ttu-id="87ea4-103">OneDrive 儲存空間不會計整體承租人配額。</span><span class="sxs-lookup"><span data-stu-id="87ea4-103">OneDrive Storage space does not count toward overall Tenant Quota.</span></span> 
+<span data-ttu-id="98c7a-103">您可以管理您的 OneDrive 商務，以查看您使用的空間大小，並釋放空間。</span><span class="sxs-lookup"><span data-stu-id="98c7a-103">You can manage your OneDrive for Business to see how much space you’re using and free up space.</span></span>  <span data-ttu-id="98c7a-104">如需詳細資訊，請流覽下列連結。</span><span class="sxs-lookup"><span data-stu-id="98c7a-104">For more information visit the links below.</span></span>
 
-<span data-ttu-id="87ea4-104">了解[OneDrive 儲存空間配置每個使用者/方案的方式](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user)。</span><span class="sxs-lookup"><span data-stu-id="87ea4-104">Learn [how OneDrive storage space is allocated per user/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span></span>
-
-<span data-ttu-id="87ea4-105">了解[您的 OneDrive 中使用了多少儲存空間](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)。</span><span class="sxs-lookup"><span data-stu-id="87ea4-105">Learn [how much storage you are using in your OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span></span>
-
-<span data-ttu-id="87ea4-106">了解[如何取得使用 PowerShell 的 OneDrive 儲存空間配額](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614)。</span><span class="sxs-lookup"><span data-stu-id="87ea4-106">Learn [how to get OneDrive Storage Quota using PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span></span>
-
-<span data-ttu-id="87ea4-107">Microsoft 一開始會提供 1 TB，每位使用者，系統管理員可以增加到最多 5 TB 每位使用者。</span><span class="sxs-lookup"><span data-stu-id="87ea4-107">Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="87ea4-108">了解如何[設定 OneDrive 使用者的預設儲存空間](https://docs.microsoft.com/onedrive/set-default-storage-space)。</span><span class="sxs-lookup"><span data-stu-id="87ea4-108">Learn how to [set the default storage space for OneDrive users](https://docs.microsoft.com/onedrive/set-default-storage-space).</span></span>
-
-<span data-ttu-id="87ea4-109">了解[如何變更特定使用者的 OneDrive 儲存空間](https://docs.microsoft.com/onedrive/change-user-storage)。</span><span class="sxs-lookup"><span data-stu-id="87ea4-109">Learn [how to change a specific user's OneDrive storage space](https://docs.microsoft.com/onedrive/change-user-storage).</span></span>
-
-<span data-ttu-id="87ea4-110">了解[如何全域系統管理員可以設定為所有使用者使用 PowerShell 的 OneDrive 儲存空間配額](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b)。</span><span class="sxs-lookup"><span data-stu-id="87ea4-110">Learn [how Global Admins can set OneDrive Storage Quota for all users using PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span></span>
-  
+- [<span data-ttu-id="98c7a-105">管理商務儲存的 OneDrive</span><span class="sxs-lookup"><span data-stu-id="98c7a-105">Manage your OneDrive for Business storage</span></span>](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [<span data-ttu-id="98c7a-106">變更特定使用者的 OneDrive 儲存空間</span><span class="sxs-lookup"><span data-stu-id="98c7a-106">Change a specific user's OneDrive storage space</span></span>](https://docs.microsoft.com/onedrive/change-user-storage)
+- <span data-ttu-id="98c7a-107">[設定 OneDrive 使用者的預設儲存空間](https://docs.microsoft.com/onedrive/set-default-storage-space) (機器翻譯)</span><span class="sxs-lookup"><span data-stu-id="98c7a-107">[Set the default storage space for OneDrive users](https://docs.microsoft.com/onedrive/set-default-storage-space)</span></span>
