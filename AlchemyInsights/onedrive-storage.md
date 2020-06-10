@@ -1,5 +1,5 @@
 ---
-title: OneDrive 儲存空間
+title: OneDrive 儲存
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049040"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667839"
 ---
-# <a name="manage-your-onedrive-storage"></a>管理您的 OneDrive 儲存空間
+# <a name="manage-your-onedrive-storage"></a>管理您的 OneDrive 儲存裝置
 
-OneDrive 儲存空間不會計整體承租人配額。 
+您可以管理您的 OneDrive 商務，以查看您使用的空間大小，並釋放空間。  如需詳細資訊，請流覽下列連結。
 
-了解[OneDrive 儲存空間配置每個使用者/方案的方式](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user)。
-
-了解[您的 OneDrive 中使用了多少儲存空間](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)。
-
-了解[如何取得使用 PowerShell 的 OneDrive 儲存空間配額](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614)。
-
-Microsoft 一開始會提供 1 TB，每位使用者，系統管理員可以增加到最多 5 TB 每位使用者。 了解如何[設定 OneDrive 使用者的預設儲存空間](https://docs.microsoft.com/onedrive/set-default-storage-space)。
-
-了解[如何變更特定使用者的 OneDrive 儲存空間](https://docs.microsoft.com/onedrive/change-user-storage)。
-
-了解[如何全域系統管理員可以設定為所有使用者使用 PowerShell 的 OneDrive 儲存空間配額](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b)。
-  
+- [管理商務儲存的 OneDrive](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [變更特定使用者的 OneDrive 儲存空間](https://docs.microsoft.com/onedrive/change-user-storage)
+- [設定 OneDrive 使用者的預設儲存空間](https://docs.microsoft.com/onedrive/set-default-storage-space) (機器翻譯)

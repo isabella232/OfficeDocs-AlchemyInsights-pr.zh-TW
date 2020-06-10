@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44617958"
+ms.locfileid: "44664237"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>錯誤：此電腦上的規則不符合
 
@@ -28,3 +28,4 @@ Outlook 小組已在組建12928.10000 中實施修正。 此修正已在內幕�
 **解決方法**：在最近的報告中，發生在 Outlook desktop 中僅已建立用戶端規則的問題。 若繼續遇到問題，請考慮刪除規則，然後在 OWA （Outlook Web App）中僅建立和編輯規則，直到問題解決為止。
 
 如果您無法手動刪除規則，您可以在啟動 outlook 時執行 outlook 命令，方法是執行/cleanrules。 這會刪除用戶端和伺服器規則。 它會刪除 Outlook 設定檔中所有帳戶的所有規則。 此命令會在命令列參數文章中進一步記載。
+
