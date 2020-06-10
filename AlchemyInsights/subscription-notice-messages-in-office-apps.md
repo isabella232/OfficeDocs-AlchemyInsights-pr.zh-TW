@@ -1,5 +1,5 @@
 ---
-title: Office 應用程式中的訂閱注意訊息
+title: Microsoft 365 應用程式中的訂閱通知訊息
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 1e70dc0f8b4ba420c09936cf440d619ccebd2c20
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789185"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582298"
 ---
-# <a name="subscription-notice-messages-in-office-apps"></a>Office 應用程式中的訂閱注意訊息
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Microsoft 365 應用程式中的訂閱通知訊息
 
 - 如果 Office 是預先安裝在您的新裝置上，請參閱[啟用 Office](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e)，取得在新裝置上啟用 Office 的說明。
 
@@ -32,7 +32,7 @@ ms.locfileid: "43789185"
 
 - 執行[啟用疑難排解員](https://aka.ms/SARA-OfficeActivation-Alchemy)，並重新啟動電腦。
 
-- 在受影響的電腦上，[重設 Office 啟用狀態](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632)。
+- 在受影響的電腦上，[重設 Office 啟用狀態](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)。
 
 如需詳細指示，請參閱： 
 

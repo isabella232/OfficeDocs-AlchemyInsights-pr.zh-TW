@@ -1,5 +1,5 @@
 ---
-title: Office 應用程式中的訂閱已過期通知
+title: Microsoft 365 應用程式中的訂閱到期通知
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: be5fece97854e4967133f74cfb51728dab853b5f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789257"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576695"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Office 應用程式中的「訂閱已過期」通知
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Microsoft 365 應用程式中的訂閱到期通知
 
 - 查看[服務健康情況頁面](https://docs.microsoft.com/office365/enterprise/view-service-health)，以查看服務是否有任何已知問題。
 
@@ -30,7 +30,7 @@ ms.locfileid: "43789257"
 
 - 執行[啟用疑難排解員](https://aka.ms/SARA-OfficeActivation-Alchemy)，並重新啟動電腦。
 
-- 在受影響的電腦上，[重設 Office 啟用狀態](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632)。
+- 在受影響的電腦上，[重設 Office 啟用狀態](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)。
 
 如需詳細指示，請參閱： 
 

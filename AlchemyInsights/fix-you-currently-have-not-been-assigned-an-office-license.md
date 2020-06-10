@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 98cc12012c270b85ff2c6437e3fdd3d589ee1bf5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010173"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580180"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>修正 - 「您尚未獲派 Office 授權」
 
@@ -24,7 +24,7 @@ ms.locfileid: "44010173"
 
 **附註**：[Office 家用及中小企業版](https://products.office.com/home-and-business)是 [Office 家用版](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)產品，不屬於商務版訂閱。 Project Online 基本版不包含電腦版 Project，所以不需要安裝。 Visio 方案 1 使用者可以存取 Visio 網頁版，因為此方案不包含 Visio傳統型應用程式。 您無法在 Mac 上使用 Project 和 Visio 傳統型應用程式
 
-如果您有包含 Office 應用程式的訂用帳戶，您將不會看到安裝的選項，除非您有[指派的授權](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)。 如果您是負責指派授權的 Office 365 系統管理員，請參閱[指派授權給使用者](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)。
+如果您有包含 Microsoft 365 應用程式的訂閱，您將不會看到安裝選項，除非您有[指派的授權](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)。 如果您是負責指派授權的 Office 365 系統管理員，請參閱[指派授權給使用者](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)。
 
 要求每個使用者：
 
@@ -34,7 +34,7 @@ ms.locfileid: "44010173"
 
 3. 在 [Office] 區段下，選取語言。 選擇 32 位元版本或 64 位元版本。
 
-4. 按一下 [安裝]****。
+4. 按一下 **[安裝]**。
 
 如需安裝 Office 時的詳細步驟與疑難排解解決方案，請參閱[在 PC 或 Mac 上下載並安裝或重新安裝 Office](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)。 如需有關安裝 Visio 或 Project 的特定指示，請參閱[安裝 Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) 或[安裝 Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)。
 

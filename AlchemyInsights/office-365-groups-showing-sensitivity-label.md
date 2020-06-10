@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: 9aea00b8239ed126cd56385cc6265fc15466db30
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d8cd49eae557536d67a7d3a0798984b35c5be40e
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911858"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581718"
 ---
 # <a name="microsoft-365-groups-showing-sensitivity-label"></a>顯示敏感度標籤的 Microsoft 365 群組
 

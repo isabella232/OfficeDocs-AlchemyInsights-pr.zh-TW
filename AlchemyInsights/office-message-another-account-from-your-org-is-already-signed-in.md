@@ -1,5 +1,5 @@
 ---
-title: Office 應用程式訊息 - 抱歉，您的組織中的另一個帳戶已登入
+title: Microsoft 365 應用程式訊息 - 很抱歉，您組織中的其他帳戶已在此電腦上登入
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 5c5dfd24ccb3e31ce56db8be4f4aebcf60bfcb69
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 60a51c2a45e76391b132b92bb03059864bffb2ed
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182401"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576911"
 ---
-# <a name="office-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Office 應用程式訊息 - 抱歉，您的組織中的另一個帳戶已登入
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 應用程式訊息 - 很抱歉，您組織中的其他帳戶已在此電腦上登入
 
 若要修正此錯誤，請嘗試下列步驟：
 

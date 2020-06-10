@@ -1,5 +1,5 @@
 ---
-title: Office 應用程式訊息 - 找不到相關聯的 Office 授權
+title: Microsoft 365 應用程式訊息 - 找不到相關聯的 Office 授權
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505082"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581642"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Office 應用程式訊息 - 找不到相關聯的 Office 授權
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 應用程式訊息 - 找不到相關聯的 Office 授權
 
 若要修正此錯誤，請嘗試下列步驟：
 
@@ -38,7 +38,7 @@ ms.locfileid: "44505082"
 
 - 重設 Office 啟用狀態。 請參閱[重設 Microsoft 365 Apps 企業版啟用狀態](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)。
 
-- 檢查您的防火牆、防毒軟體和 Proxy 設定，確認其沒有封鎖 Office 應用程式存取網際網路。 
+- 檢查您的防火牆、防毒軟體和 Proxy 設定，確認未封鎖 Microsoft 365 應用程式存取網際網路。 
 
 如需其他疑難排解解決方案，請參閱：
 

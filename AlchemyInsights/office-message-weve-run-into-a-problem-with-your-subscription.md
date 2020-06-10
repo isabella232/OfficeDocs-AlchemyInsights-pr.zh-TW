@@ -1,5 +1,5 @@
 ---
-title: Office 應用程式訊息 - 我們已經發現您的訂閱有問題
+title: Microsoft 365 應用程式訊息 - 我們已經發現您的訂閱有問題
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 6b370dd647bbe93c435b2c1853c16906c4c910f0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 23617d5ad336f3811022b007a78bb4bb7db74cf5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512437"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581546"
 ---
-# <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Office 應用程式訊息 - 我們已經發現您的訂閱有問題
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Microsoft 365 應用程式訊息 - 我們已經發現您的訂閱有問題
 
 - 如果您最近切換到不同的訂閱/方案，請遵循[切換方案後，Office 中出現「帳戶通知」](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d)中的步驟，重新安裝或更新 Office。
 
@@ -30,7 +30,7 @@ ms.locfileid: "44512437"
 
 - 執行[啟用疑難排解員](https://aka.ms/SARA-OfficeActivation-Alchemy)，並重新啟動電腦。
 
-- 在受影響的電腦上，[重設 Office 啟用狀態](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632)。
+- 在受影響的電腦上，[重設 Office 啟用狀態](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)。
 
 如需詳細指示，請參閱： 
 
