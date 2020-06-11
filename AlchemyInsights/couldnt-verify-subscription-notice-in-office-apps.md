@@ -1,5 +1,5 @@
 ---
-title: Office 應用程式中的無法驗證訂閱通知
+title: Microsoft 365 應用程式中的無法驗證訂閱通知
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: f2ee65f74bef00c25af7d89608ab23f7a76bbf6d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788765"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580396"
 ---
-# <a name="couldnt-verify-subscription-notice-in-office-apps"></a>Office 應用程式中的「無法驗證訂閱」通知
+# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Microsoft 365 應用程式中的「無法驗證訂閱」通知
 
 - 確認您的[訂閱狀態](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription)有效，且受影響的使用者[獲指派有效的授權](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)，並且已連線至網際網路。
 
@@ -28,7 +28,7 @@ ms.locfileid: "43788765"
 
 - 執行[啟用疑難排解員](https://aka.ms/SARA-OfficeActivation-Alchemy)，並重新啟動電腦。
 
-- 在受影響的電腦上，[重設 Office 啟用狀態](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632)。
+- 在受影響的電腦上，[重設 Office 啟用狀態](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)。
 
 如需詳細指示，請參閱： 
 

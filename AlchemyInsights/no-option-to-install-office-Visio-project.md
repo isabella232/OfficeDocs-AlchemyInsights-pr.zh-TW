@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: e071894314c349ac574d00c6c13a39b23a4fce16
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010137"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576983"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>沒有可安裝 Office、Visio 或 Project 的選項
 
@@ -24,7 +24,7 @@ ms.locfileid: "44010137"
 
 **附註**：[Office 家用及中小企業版](https://products.office.com/home-and-business)是 [Office 家用版](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)產品，不屬於商務版訂閱。 Project Online 基本版不包含電腦版 Project，所以不需要安裝。 Visio 方案 1 使用者可以存取 Visio 網頁版，因為此方案不包含 Visio傳統型應用程式。 您無法在 Mac 上使用 Project 和 Visio 傳統型應用程式
 
-如果您有包含 Office 應用程式的訂用帳戶，您將不會看到安裝的選項，除非您有[指派的授權](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)。 如果您是負責指派授權的 Office 365 系統管理員，請參閱[指派授權給使用者](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)。
+如果您有包含 Microsoft 365 應用程式的訂閱，您將不會看到安裝選項，除非您有[指派的授權](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)。 如果您是負責指派授權的 Office 365 系統管理員，請參閱[指派授權給使用者](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)。
 
 
 要求每個使用者：

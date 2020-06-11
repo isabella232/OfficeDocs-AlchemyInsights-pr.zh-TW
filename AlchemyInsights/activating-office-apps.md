@@ -1,5 +1,5 @@
 ---
-title: 啟用 Office 應用程式
+title: 啟用 Microsoft 365 應用程式
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 192153f10d7f2267dc8ce86a6f455dc3bca55402
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 757366de236d84ad67cbef892abb241dd48aa2c5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682503"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581402"
 ---
-# <a name="activating-office-apps"></a>啟用 Office 應用程式
+# <a name="activating-microsoft-365-apps"></a>啟用 Microsoft 365 應用程式
 
 若要啟用 Office，請參閱：
 
@@ -28,11 +28,12 @@ ms.locfileid: "43682503"
 
 若要修正 Office 啟用問題，請參閱：
 
+- 執行[啟用疑難排解員](https://aka.ms/SARA-OfficeActivation-Alchemy)，並重新啟動電腦。
 - [Office 中的「未授權產品」及啟用錯誤](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [無法安裝或啟用 Mac 版 Office 時的解決方案](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-如果您最近切換過帳戶或 Office 訂閱，請遵循下列步驟修正啟用問題：
+如果您無法登入 Microsoft 365 應用程式，請遵循下列步驟：
 
 1. 開啟 Office 應用程式，並[登出](https://go.microsoft.com/fwlink/?linkid=2114082)任何現有的使用者帳戶。
 
