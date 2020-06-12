@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021489"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702197"
 ---
 # <a name="teams-outlook-add-in"></a>小組 Outlook 增益集
 
-有多種因素可導致您的小組增益集不會出現，而且這些因素都會列在[這裡](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)。
+若要疑難排解缺失的小組 Outlook 增益集，請先確定在管理入口網站中執行服務診斷。  如果服務診斷未指出任何問題，請繼續在受影響的使用者電腦上下載並執行[Microsoft 支援和復原助理](https://aka.ms/SaRA-TeamsAddInScenario)**小組 Outlook 增益集案例**，以診斷並修正任何用戶端問題。
 
-**建議您先確認增益集未停用：**
-
-- 在 Outlook 中，**按一下 [檔案]，然後**按一下 [**選項**]。
-- 選取 [ **Outlook 選項**] 對話方塊的 [**增益集**] 索引標籤。
-- 確認 [使用中**應用程式增益集**] 清單中列出**Microsoft Office 的 Microsoft 團隊會議增益集**。
-- 如果 [小組會議] 增益集列于 [**已停用的應用程式增益集**] 清單中，請選取 **[管理**] 中的 [ **COM 增益集**]，然後按一下 [**開始 ...** ]。
-- 設定**Microsoft Office 的 [Microsoft 團隊會議增益集**] 旁邊的核取方塊。
-- 在所有對話方塊上按一下 **[確定**]，然後重新開機 Outlook。
+若要手動疑難排解問題，請複查可能導致您的小組增益集未出現[在這裡](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)的可能因素清單。
