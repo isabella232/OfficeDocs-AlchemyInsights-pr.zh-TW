@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 7424910b6d0ed41e3e1ad8cdcddd9a7ac10d2399
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: a0875af2713e5bc4f36f28227f35ce8dc6ac3a26
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474615"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667803"
 ---
 # <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>允許或防止匿名使用者加入 Teams 會議
 
 您可以在 Teams 系統管理中心中控制匿名會議加入設定。
 
-1.  移至位於 [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339) 的系統管理中心。
+1.  移至 [Teams 系統管理中心](https://admin.teams.microsoft.com)
 2.  在左側導覽中，移至 [會議]****   >   [會議設定]****。
 3.  在 [參與者]**** 下，開啟 [匿名使用者可加入會議]****。
