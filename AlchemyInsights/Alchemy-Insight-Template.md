@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
+ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676524"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "44750961"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>必要的 Alchemy 標頭 H1，H2's 無法運作。
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>「需要 Alchemy 標頭 H1，H2's 不會運作」。
 用於 Alchemy 製作的最佳做法和指導方針：
 
 1. **不在資料夾中嵌套 Alchemy 洞察力**-這會中斷 url 結構。 我們正在尋找修正這種情況。
