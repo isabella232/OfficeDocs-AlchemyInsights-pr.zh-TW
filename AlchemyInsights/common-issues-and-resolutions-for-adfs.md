@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 583ea686ea119e4e8b9cc7201a92b84ce77fe30e
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
+ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580540"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44797962"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>ADFS 的常見問題和解決方案
 
 可以按照以下 Microsoft 知識庫文章中的描述更新同盟網域的設定。
+
+- [ADFS 同盟憑證逾期失效](adfs-federation-certificate-expiring.md)
 
 - [2713898](https://support.microsoft.com/help/2713898)：當同盟使用者登入 Microsoft 365、Azure 或 Intune 時，發生來自 AD FS 的無法存取網站錯誤。
 
