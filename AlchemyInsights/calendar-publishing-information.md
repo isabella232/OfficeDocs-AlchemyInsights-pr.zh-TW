@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506146"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840896"
 ---
-# <a name="calendar-publishing-information"></a><span data-ttu-id="bd191-102">行事曆發佈資訊</span><span class="sxs-lookup"><span data-stu-id="bd191-102">Calendar publishing information</span></span>
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a><span data-ttu-id="70f66-102">使用 Microsoft 365 admin center 啟用行事曆共用</span><span class="sxs-lookup"><span data-stu-id="70f66-102">Enable calendar sharing using the Microsoft 365 admin center</span></span>
 
-- <span data-ttu-id="bd191-103">Microsoft 365 系統管理員可以啟用或停用組織的行事曆發佈和行事曆共用。</span><span class="sxs-lookup"><span data-stu-id="bd191-103">Microsoft 365 admins can enable or disable calendar publishing and calendar sharing for an organization.</span></span> <span data-ttu-id="bd191-104">如需詳細資訊，請參閱[開啟行事曆發佈功能，讓使用者可以](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC)[與外部使用者](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)共用資訊和共用行事曆。</span><span class="sxs-lookup"><span data-stu-id="bd191-104">For more information, see [Turn on calendar publishing so people can share information](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) and [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).</span></span>
+1. <span data-ttu-id="70f66-103">在系統管理中心中，移至 [**設定**   >   **組織設定**]。</span><span class="sxs-lookup"><span data-stu-id="70f66-103">In the admin center, go to  **Settings**  >  **Org Settings**.</span></span>
+2. <span data-ttu-id="70f66-104">在 [**服務**] 索引標籤上，選取 [行事**曆**]。</span><span class="sxs-lookup"><span data-stu-id="70f66-104">On the  **Services**  tab, select  **Calendar**.</span></span>
+3. <span data-ttu-id="70f66-105">在開啟的 [行事**曆**] 頁面上，選擇是否要讓您的使用者與組織外部的人員共用其行事曆（Microsoft 365 或 Exchange）。</span><span class="sxs-lookup"><span data-stu-id="70f66-105">On the  **Calendar**  page that opens, choose whether you want to let your users share their calendars with people outside of your organization who have Microsoft 365 or Exchange.</span></span>
+4. <span data-ttu-id="70f66-106">選擇您是否要允許匿名使用者（沒有登入認證的使用者）透過電子郵件邀請存取行事曆。</span><span class="sxs-lookup"><span data-stu-id="70f66-106">Choose whether you want to allow anonymous users (users without logon credentials) to access calendars via an email invitation.</span></span>
+5. <span data-ttu-id="70f66-107">選擇可供使用者使用的行事曆資訊類型。</span><span class="sxs-lookup"><span data-stu-id="70f66-107">Choose what type of calendar information to make available to users.</span></span> <span data-ttu-id="70f66-108">您可以允許所有資訊，或將其限制為僅限時間或時間、主題和位置。</span><span class="sxs-lookup"><span data-stu-id="70f66-108">You can allow all information, or limit it to time only or time, subject, and location only.</span></span>
 
-- <span data-ttu-id="bd191-105">Outlook 使用者可以共用自己的行事曆。</span><span class="sxs-lookup"><span data-stu-id="bd191-105">Outlook users can share their own calendars.</span></span> <span data-ttu-id="bd191-106">如需詳細資訊，請參閱[與其他人共用 Outlook 行事曆](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)。</span><span class="sxs-lookup"><span data-stu-id="bd191-106">For more information, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span></span>
+<span data-ttu-id="70f66-109">詳細資訊：[與外部使用者共用行事曆](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span><span class="sxs-lookup"><span data-stu-id="70f66-109">More Information: [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span></span>
