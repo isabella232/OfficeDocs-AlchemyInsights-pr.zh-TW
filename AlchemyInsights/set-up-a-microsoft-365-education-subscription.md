@@ -11,19 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
+ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915033"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840990"
 ---
-# <a name="set-up-a-microsoft-365-education-subscription"></a><span data-ttu-id="00249-102">設定 Microsoft 365 教育版訂閱</span><span class="sxs-lookup"><span data-stu-id="00249-102">Set up a Microsoft 365 Education subscription</span></span>
+# <a name="set-up-a-microsoft-365-education-subscription"></a><span data-ttu-id="ef968-102">設定 Microsoft 365 教育版訂閱</span><span class="sxs-lookup"><span data-stu-id="ef968-102">Set up a Microsoft 365 Education subscription</span></span>
 
-<span data-ttu-id="00249-103">若要取得逐步說明引導，請觀看整個教育版設定程序的[描述音訊影片](https://aka.ms/M365EduSetup)。</span><span class="sxs-lookup"><span data-stu-id="00249-103">For a guided walk-through, please watch a [descriptive audio video](https://aka.ms/M365EduSetup) of the entire Education set up process.</span></span>
+<span data-ttu-id="ef968-103">若要取得逐步說明引導，請觀看整個教育版設定程序的[描述音訊影片](https://aka.ms/M365EduSetup)。</span><span class="sxs-lookup"><span data-stu-id="ef968-103">For a guided walk-through, please watch a [descriptive audio video](https://aka.ms/M365EduSetup) of the entire Education set up process.</span></span>
 
-<span data-ttu-id="00249-104">**更多優質資源**</span><span class="sxs-lookup"><span data-stu-id="00249-104">**More great resources**</span></span>
+<span data-ttu-id="ef968-104">**更多優質資源**</span><span class="sxs-lookup"><span data-stu-id="ef968-104">**More great resources**</span></span>
 
-- <span data-ttu-id="00249-105">請參閱[設定 Office 365 教育版租用戶](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant)以取得概覽。</span><span class="sxs-lookup"><span data-stu-id="00249-105">See [Set up an Office 365 Education tenant](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) for an overview.</span></span>
-- <span data-ttu-id="00249-106">請參閱適用於 IT 系統管理員、開發人員及合作夥伴的 [Microsoft 365 教育版入門](https://docs.microsoft.com/education/)。</span><span class="sxs-lookup"><span data-stu-id="00249-106">See the [getting started with Microsoft 365 Education](https://docs.microsoft.com/education/) for IT Admins, Developers, and Partners.</span></span> 
-- <span data-ttu-id="00249-107">[將您的 Microsoft Store 帳戶與 Intune 教育版連結](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education)。</span><span class="sxs-lookup"><span data-stu-id="00249-107">[Associate your Microsoft Store account with Intune for Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education).</span></span> 
+- <span data-ttu-id="ef968-105">如需概觀資訊，請參閱[建立您的 Office 365 租用戶帳戶](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)。</span><span class="sxs-lookup"><span data-stu-id="ef968-105">See [Create your Office 365 tenant account](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) for an overview.</span></span>
+- <span data-ttu-id="ef968-106">請參閱適用於 IT 系統管理員、開發人員及合作夥伴的 [Microsoft 365 教育版入門](https://docs.microsoft.com/education/)。</span><span class="sxs-lookup"><span data-stu-id="ef968-106">See [getting started with Microsoft 365 Education](https://docs.microsoft.com/education/) for IT Admins, Developers, and Partners.</span></span>
