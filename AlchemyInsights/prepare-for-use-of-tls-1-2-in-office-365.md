@@ -11,12 +11,12 @@ ms.custom:
 - "1266"
 - "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: a81786b5fab6a039d4771739000a8f841871dad7
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 4d4206036e293419e4bc2400296ed4b0bd67e0f7
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579604"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43785258"
 ---
 # <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a>準備在 Microsoft 365 中使用 TLS 1.2
 
