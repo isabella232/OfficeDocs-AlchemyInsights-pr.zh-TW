@@ -2,7 +2,7 @@
 title: 變更付款方式
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: a0bbc046c28ec246090dbc275f6acb3ccbce8622
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: cf12baf7a9b40b56549f0d3c63f7a6be8d8a7cb9
+ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44221936"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45154509"
 ---
 # <a name="change-payment-method"></a>變更付款方式
 
@@ -34,4 +34,6 @@ ms.locfileid: "44221936"
 6. 在 [**新增支付方式**] 窗格中，輸入帳戶資訊，然後選取 [**儲存**]。 您必須使用與租使用者相同國家/地區的支付方式。
 7. 已在下拉式清單中選取新的付款條件。 選取 [取代]****。
 
-若要深入瞭解，請參閱[管理支付方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
+若要深入了解，請參閱[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
+
+若要瞭解如何將信用卡支付方式變更為發票付款，請參閱[從信用卡或銀行帳戶變更為發票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice)。
