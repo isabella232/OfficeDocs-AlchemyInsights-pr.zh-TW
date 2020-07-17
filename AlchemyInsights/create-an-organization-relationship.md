@@ -25,7 +25,7 @@ ms.locfileid: "44853990"
 3. 在 [組織共用]**** 下，按一下 [新增]****。
 4. 在 [新增組織關聯性]**** 的 [關聯性名稱]**** 方塊中，為組織關聯性輸入易記名稱。
 5. 在 [網域共用對象]**** 方塊中，輸入想要讓其查看您的行事曆的外部 Office 365 或 Exchange 內部部署組織的網域。 如果您需要輸入多個網域，請使用逗號分隔網域名稱。 例如，contoso.com, service.contoso.com。
-6. Select the **Enable calendar free/busy information sharing** check box to turn on calendar sharing with the domains you listed. Set the sharing level for calendar free/busy information and set which users can share calendar free/busy information.  
+6. 選取 [啟用行事曆空閒/忙碌資訊共用]**** 核取方塊，以開啟與您所列之網域的行事曆共用。設定行事曆空閒/忙碌資訊的共用層級，並設定哪些使用者可共用行事曆空閒/忙碌資訊。  
 
 若要設定空閒/忙碌存取層級，請選擇下列其中一項：
 
