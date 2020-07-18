@@ -11,21 +11,18 @@ ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 8f07a2dc92315e5466ea126243adf46cff192934
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 645da241b7bc33edd9087befd1a4fa9b19034874
+ms.sourcegitcommit: 5eb4fad2edc1d15b961ec1e46ef78b39175dffed
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722223"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45167660"
 ---
 # <a name="migrating-email-from-imap-email-system-to-microsoft-365"></a>將電子郵件從 IMAP 電子郵件系統移轉至 Microsoft 365
 
 若要從 IMAP 郵件系統移轉電子郵件，請執行下列程式： [Microsoft 365 系統管理中心的 IMAP 遷移](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
   
-許多大型組織都需要仔細規劃，以管理使用者預期。 將[IMAP 信箱遷移至 Microsoft 365 文章時，所需注意的事項](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes)，可協助您管理變更。
-
-請另外檢查 [[採用 Microsoft 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) ] 頁面，以取得遷移的輔助協助（如有資格）。
-  
+許多大型組織都需要仔細規劃，以管理使用者預期。 將[IMAP 信箱遷移至 Microsoft 365 文章時，所需注意的事項](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes)，可協助您管理變更。 請注意，您[不需要透過 IMAP 進行](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)G 套件（Google）遷移。
 
 請另外檢查 [[採用 Microsoft 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) ] 頁面，以取得遷移的輔助協助（如有資格）。
   
