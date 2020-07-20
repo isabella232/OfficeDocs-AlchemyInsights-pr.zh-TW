@@ -19,16 +19,14 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 391ec22f692fd0264750ea3151fbc0da8f4269bd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5ceadd44976b61f3570d9f15dbf724aed0b44e38
+ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506290"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45169699"
 ---
 # <a name="business-subscription-faq"></a>商務版訂閱常見問題集
-
-商務版訂閱和授權管理常見問題集：
 
 - 若要查看 Microsoft 365 商務版的選項，請參閱[比較商務方案](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2)。 如需詳細資訊，請撥打 1-855-270-0615 與銷售人員聯繫。
 - 若要**購買**方案，請移至 [帳單] > [[購買服務]](https://go.microsoft.com/fwlink/p/?linkid=868433)****。 選取計畫和使用者數目。 如需詳細資訊，請參閱[購買訂閱](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide)。
