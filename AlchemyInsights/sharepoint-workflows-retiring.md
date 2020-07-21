@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: a1b792bcb2a73ed89f8cfe74c0b56461dfa465ce
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: ce4c6319de89ef0fa5cae4cf37f4552db7508ddb
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45139014"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45146582"
 ---
 # <a name="sharepoint-workflows-retiring"></a>即將淘汰的 SharePoint 工作流程
 
-SharePoint 2010 和 SharePoint 2013 工作流程都即將被淘汰。 我們建議您將 [Power Automate](https://docs.microsoft.com/power-automate/getting-started) 或其他可支援的解決方案進行轉移。 
+SharePoint 2010 工作流程都即將被淘汰。 我們建議您將 [Power Automate](https://docs.microsoft.com/power-automate/getting-started) 或其他可支援的解決方案進行轉移。 
 
 重要日期：
 
