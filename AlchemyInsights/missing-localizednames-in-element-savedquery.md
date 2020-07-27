@@ -1,5 +1,5 @@
 ---
-title: 在元素「savedquery」中缺少的「LocalizedNames」
+title: 在元素 'savedquery' 中缺少 'LocalizedNames'
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,8 +19,8 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 07/22/2020
 ms.locfileid: "45207345"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a>在元素「savedquery」中缺少的「LocalizedNames」
+# <a name="missing-localizednames-in-element-savedquery"></a>在元素 'savedquery' 中缺少 'LocalizedNames'
 
-如需缺少的「LocalizedNames」說明，請參閱 [元素 「savedquery」的內容不完整。預期的可能元素清單：「在匯入 Dynamics 365 解決方案時出現「LocalizedNames」錯誤](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element)。
+如需缺少的 'LocalizedNames' 說明，請參閱[匯入 Dynamics 365 解決方案時發生「元素 'savedquery' 具有不完整的格式。預期的可能元素清單: 'LocalizedNames'」錯誤](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element)。
 
 在可能造成問題的檢視表名稱中尋找特殊字元。 在檢視表名稱中移除特殊字元，並再次匯出解決方案。
