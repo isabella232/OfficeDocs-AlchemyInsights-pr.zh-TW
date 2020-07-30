@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: f3e8fc56e0eaf47e946ecf039aa49467689fd8e0
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
+ms.openlocfilehash: 0f64207ac9ea2c25106f0339ed2b8080361e8ce4
+ms.sourcegitcommit: 5af184ed3c0f9491e7fcf927e9c78e366f26b540
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231551"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46514965"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>合規性常見問題和解決方案
 
@@ -31,5 +31,7 @@ ms.locfileid: "43231551"
 - 在 O365 中稽核：[在 O365 中搜尋稽核記錄](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide)。
 
 - 資料外洩防護 (DLP)：如需詳細資訊，請參閱[資料外洩防護 (DLP) 的概觀](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide)。
+ 
+- 敏感度標籤：若要深入了解，請參閱[建立及設定敏感度標籤及其原則](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)。
 
 **注意**：如需有關合規性問題的更具體解答，請簡單地重新表述您的問題，並納入您所看到的錯誤或您所使用的功能。
