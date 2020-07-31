@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508799"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522834"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>增加封存信箱大小
+
+
+如果您想讓我們為下列所述的設定執行自動檢查，請選取此頁面頂端的 [上一步] 按鈕 <--然後輸入需要增加其封存信箱大小的使用者電子郵件地址。
 
 Microsoft 365 會根據指派給使用者帳戶的授權，[限制](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits)封存信箱的大小。 當封存信箱達到其允許大小的90% 時，使用者會收到電子郵件通知。 當封存信箱達到其大小限制時，使用者就無法將更多專案移至封存信箱。 達到大小限制時，Microsoft 365 不會增加封存信箱的大小。 相反地，使用者可以採取下列動作來釋放封存信箱中的空間：
 

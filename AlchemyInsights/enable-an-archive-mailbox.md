@@ -10,14 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507017"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522726"
 ---
 # <a name="enable-an-archive-mailbox"></a>啟用封存信箱
+
+如果您想要讓我們執行自動檢查，以確保可以設定封存信箱，請選取此頁面頂端的 [上一步] 按鈕 <--然後輸入帳戶的電子郵件地址。
 
 Microsoft 365 中的封存信箱（也稱為*線上*封存或*In-Place*封存）為使用者提供額外的電子郵件存放區。 使用者可以將專案移動或複製到其封存信箱，系統管理員可以建立可自動將專案移至封存信箱的封存原則。
   

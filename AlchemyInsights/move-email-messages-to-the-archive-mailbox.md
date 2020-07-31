@@ -12,14 +12,16 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 9af8a4d3ce72fd901ff2f3a1aae0654c7213dd7e
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511031"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522762"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>將電子郵件移至封存信箱
+
+如果您想要讓我們為下列設定執行自動檢查，請選取此頁面頂端的 [上一步] 按鈕 <--，然後輸入在將電子郵件移至封存信箱時有問題的使用者電子郵件地址。
 
 1. 確認已啟用封存**信箱**。 如果不是，請使用[本文](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)中的步驟來啟用封存信箱。
 
