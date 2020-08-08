@@ -12,13 +12,15 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: 4b4be7041ce432b52c61578b3e4d7d49106763bc
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 415990669bafb2262c558749b64385a91d159226
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474613"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596774"
 ---
 # <a name="changing-ews-throttling-settings"></a>變更 EWS 節流設定
 
 請執行我們的自動測試，讓您在移轉期間修改 EWS 節流原則。
+
+請注意，EWS 節流原則變更對下列移轉類型 (使用 Microsoft 工具) 沒有任何影響：混合式、完全移轉/分段 (RPC/HTTP)、IMAP、G Suite、公用資料夾或 PST 匯入服務。
