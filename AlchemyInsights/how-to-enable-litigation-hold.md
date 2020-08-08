@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: fe21746110ed2cb99fb13563c84c966e277fc70c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56620e4795649d55181305b7b8c0a9d28c83e977
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495798"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596738"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>將信箱設為法定暫止狀態
 
@@ -26,4 +26,4 @@ ms.locfileid: "44495798"
 
 - 若要對單一使用者啟用訴訟暫止，[請遵循下列步驟](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)。 啟用訴訟暫止時，會保留信箱中的所有內容。
 
-- 若要保留組織中所有信箱的內容，您可以使用[全組織的保留原則](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)。 請注意，針對整個組織的保留原則，系統會自動將新的使用者指派給原則。
+- 若要保留組織中所有信箱的內容，或建立其他類型的保留原則，請使用保留原則或標籤。 請注意，針對整個組織的保留原則，會自動將新的使用者指派給原則。 如需詳細資訊，請參閱[瞭解保留原則和保留標籤](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)。 
