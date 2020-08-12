@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a099b3f056696bebae150fdd5b82e921f928f116
+ms.sourcegitcommit: 3ef4860c2e1918c1ff4009201189a5b77be3454f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509015"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46636684"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="d69c1-102">如何驗證您的網域</span><span class="sxs-lookup"><span data-stu-id="d69c1-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="06965-102">如何驗證您的網域</span><span class="sxs-lookup"><span data-stu-id="06965-102">How to verify your domain</span></span>
 
-<span data-ttu-id="d69c1-103">若要驗證您的網域，您必須將 TXT 記錄新增至您的網域註冊機構，以確認您擁有您的網域。</span><span class="sxs-lookup"><span data-stu-id="d69c1-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="d69c1-104">首先，按一下 [**安裝**網域]，然後按一下 [新增網域]，遵循 [[新增網域] 嚮導](https://portal.office.com/adminportal/home#/Domains/Wizard) \> \*\* \*\*。 **Add domain**</span><span class="sxs-lookup"><span data-stu-id="d69c1-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
-  
-<span data-ttu-id="d69c1-105">遵循在[任何 DNS 主機服務提供者處建立 dns 記錄](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)中的指示，以新增 TXT 記錄以驗證您的網域。</span><span class="sxs-lookup"><span data-stu-id="d69c1-105">Follow the instructions in [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="06965-103">若要驗證網域，請遵循 [[新增網域] 嚮導](https://portal.office.com/adminportal/home#/Domains/Wizard)，或手動移至**安裝**  >  **網域**的 [  >  **新增網域**]。</span><span class="sxs-lookup"><span data-stu-id="06965-103">To verify a domain, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="d69c1-106">如需其他網域問題，請嘗試[網域常見問題](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)。</span><span class="sxs-lookup"><span data-stu-id="d69c1-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="06965-104">如需驗證網域所需之 DNS 變更的詳細資訊，請參閱[新增 DNS 記錄中的指示以連接您的網域](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。</span><span class="sxs-lookup"><span data-stu-id="06965-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+
+<span data-ttu-id="06965-105">如需其他網域的問題，請參閱[網域 FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)。</span><span class="sxs-lookup"><span data-stu-id="06965-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
