@@ -1,30 +1,32 @@
 ---
 title: 建立 SharePoint 網站
-ms.author: kirks
-author: Techwriter40
-ms.date: 1/16/2019
-ms.audience: ITPro
+ms.author: pebaum
+author: todmccoy
+ms.audience: Admin
 ms.topic: article
+ms.collection: Adm_O365
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- "5200004"
+- "3911416"
 - "1386"
 - "2303"
-- "5200004"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: cc0218dd34844cc1fdeb55a6f84975311826c372
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e1e71ae9401448ed18058f6307302dcbaf773649
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364544"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770846"
 ---
-# <a name="create-a-sharepoint-site"></a><span data-ttu-id="b4162-102">建立 SharePoint 網站</span><span class="sxs-lookup"><span data-stu-id="b4162-102">Create a SharePoint site</span></span>
+# <a name="create-a-sharepoint-site"></a><span data-ttu-id="79204-102">建立 SharePoint 網站</span><span class="sxs-lookup"><span data-stu-id="79204-102">Create a SharePoint site</span></span>
 
-<span data-ttu-id="b4162-103">請參閱在[新的 SharePoint 系統管理中心管理](https://docs.microsoft.com/sharepoint/manage-site-creation )網站建立選項。</span><span class="sxs-lookup"><span data-stu-id="b4162-103">See [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-creation ) for site creation options.</span></span> <span data-ttu-id="b4162-104">選取以建立[小組網站](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US)(這會建立 Office 365 群組) 或[通訊網站](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)。</span><span class="sxs-lookup"><span data-stu-id="b4162-104">Select to create a [team site](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (which will create an Office 365 group) or a [communication site](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb).</span></span> <span data-ttu-id="b4162-105">若要建立[傳統網站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site), 或是不包含 Office 365 群組的新小組網站, 請按一下 [**其他選項**]。</span><span class="sxs-lookup"><span data-stu-id="b4162-105">To create a [classic site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site), or a new team site that doesn't include an Office 365 group, click **Other options**.</span></span>
-  
-<span data-ttu-id="b4162-106">筆尖</span><span class="sxs-lookup"><span data-stu-id="b4162-106">Tips:</span></span>
-- <span data-ttu-id="b4162-107">*您無法使用現有網站的相同 URL 來建立網站。如果您刪除網站, 而且想要重新使用此 URL, 則可能是已刪除的網站仍然存在於 [**已刪除的網站**] 底下。若要管理刪除的網站, 請參閱,[刪除網站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)。若要完全移除具有 Powershell 的網站, 請參閱[remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) Cmdlet 範例。*</span><span class="sxs-lookup"><span data-stu-id="b4162-107">*You cannot create a site with the same URL of an existing site. If you deleted a site and are wishing to re-use the URL, it's possible the deleted site still exists under **Deleted sites**. To manage deleted sites see, [Delete a Site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet example.*</span></span>
-- <span data-ttu-id="b4162-108">*某些使用者可能無法建立網站。請參閱[管理 SharePoint Online 中的網站](https://docs.microsoft.com/sharepoint/manage-site-creation)架設。*</span><span class="sxs-lookup"><span data-stu-id="b4162-108">*Some users may not be able to create a site. See [Manage site creation in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*</span></span>
-- <span data-ttu-id="b4162-109">*網站可能會在**建立**比預期更長的時間停滯。如果在您第一次看到此問題後超過24小時, 請記錄支援票證。在許多情況下, 我們已經在處理解決方案。請至少為我們提供24小時的時間, 才可完成解決方案。*</span><span class="sxs-lookup"><span data-stu-id="b4162-109">*It's possible the site appears stuck at **Creating** longer than expected. If more than 24 hours have passed since you first saw this issue, please log a support ticket. In many cases, we're already working on a solution. Please give us at least 24 hours to complete a solution.*</span></span>
+<span data-ttu-id="79204-103">從 SharePoint 系統管理中心的使用中 [網站](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) 建立或管理網站。</span><span class="sxs-lookup"><span data-stu-id="79204-103">Create or manage sites from [Active Sites](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) in the SharePoint Admin Center.</span></span> <span data-ttu-id="79204-104">如需詳細資訊，請參閱 [Manage sites in new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-creation)。</span><span class="sxs-lookup"><span data-stu-id="79204-104">For more info, see [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-creation).</span></span> 
+
+## <a name="tips"></a><span data-ttu-id="79204-105">技巧：</span><span class="sxs-lookup"><span data-stu-id="79204-105">Tips:</span></span>
+
+- <span data-ttu-id="79204-106">您 **無法** 使用現有網站的相同 URL 來建立網站。</span><span class="sxs-lookup"><span data-stu-id="79204-106">You **cannot** create a site with the same URL of an existing site.</span></span> <span data-ttu-id="79204-107">如果您已刪除網站，且想要重新使用 URL，則已刪除的網站可能仍然存在於 [ [已刪除的網站](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)] 底下。</span><span class="sxs-lookup"><span data-stu-id="79204-107">If you deleted a site and are wishing to re-use the URL, it's possible the deleted site still exists under [Deleted sites](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true).</span></span> <span data-ttu-id="79204-108">網站必須永久刪除，才能重複使用 URL。</span><span class="sxs-lookup"><span data-stu-id="79204-108">The site will need to be permanently deleted to re-use the URL.</span></span> <span data-ttu-id="79204-109">若要使用 Powershell 完全移除網站，請參閱 [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) Cmdlet 範例。</span><span class="sxs-lookup"><span data-stu-id="79204-109">To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet example.</span></span>
+- <span data-ttu-id="79204-110">有些使用者可能無法建立網站。</span><span class="sxs-lookup"><span data-stu-id="79204-110">Some users may not be able to create a site.</span></span> <span data-ttu-id="79204-111">[請參閱管理 SharePoint Online 中的網站建立](https://docs.microsoft.com/sharepoint/manage-site-creation)。</span><span class="sxs-lookup"><span data-stu-id="79204-111">[See Manage site creation in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).</span></span>
+- <span data-ttu-id="79204-112">網站可能會在 **建立** 比預期更長的時間停滯。</span><span class="sxs-lookup"><span data-stu-id="79204-112">It's possible the site appears stuck at **Creating** longer than expected.</span></span> <span data-ttu-id="79204-113">如果從您第一次看到此問題起已經過去超過24小時，請記錄支援票證。</span><span class="sxs-lookup"><span data-stu-id="79204-113">If more than 24 hours have passed since you first saw this issue, please log a support ticket.</span></span> <span data-ttu-id="79204-114">多數情況下，我們已經著手研究解決方案。</span><span class="sxs-lookup"><span data-stu-id="79204-114">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="79204-115">請至少為我們提供24小時的時間來完成解決方案。</span><span class="sxs-lookup"><span data-stu-id="79204-115">Please give us at least 24 hours to complete a solution.</span></span>
