@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 4939682a6ca95c4f5475ee6aedea48c9ce83df7f
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: fb69bce40ab56b162c715af6a0647c8219c5564f
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431463"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665453"
 ---
 # <a name="change-update-channels-for-office-apps"></a>變更 Office 應用程式的更新通道
 
@@ -30,9 +30,9 @@ ms.locfileid: "45431463"
 1. 從 [Microsoft 下載中心](https://go.microsoft.com/fwlink/p/?LinkID=626065)下載最新版的 Office 部署工具 (setup.exe)。
 2. 識別要切換到的通道名稱。 如需詳細資訊，請參閱 [Office 部署工具的設定選項](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element)。
 3. 建立指定適當的通道名稱的組態 XML 檔案，例如 update.xml。  
-    a. <Configuration>  
-    b. <Updates **Channel="Monthly"** />  
-    c. </Configuration>
+    `<Configuration> 
+    <Updates **Channel="Monthly"** />  
+    </Configuration>`
 4. 在已提升權限的命令提示字元下，切換至 setup.exe 所在的資料夾，接著執行下列命令：  
     a. setup.exe /configure update.xml
 5. 啟動 Office 應用程式 (例如 Excel)，然後選取 **[檔案]** > **帳戶**。 在 [產品資訊] 區段，選取 **[更新選項]** > ** [立即更新]**。
