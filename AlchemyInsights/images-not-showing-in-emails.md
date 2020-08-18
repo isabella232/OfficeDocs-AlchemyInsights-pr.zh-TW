@@ -1,5 +1,5 @@
 ---
-title: 未顯示在電子郵件中的影像
+title: 電子郵件中未顯示影像
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,6 +19,6 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 08/14/2020
 ms.locfileid: "46756685"
 ---
-# <a name="images-not-showing-in-emails"></a>未顯示在電子郵件中的影像
+# <a name="images-not-showing-in-emails"></a>電子郵件中未顯示影像
 
 我們已發現有些客戶無法在其電子郵件中看到影像或圖片的問題。 造成您的不便，敬請見諒。

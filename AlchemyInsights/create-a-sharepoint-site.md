@@ -1,7 +1,7 @@
 ---
 title: 建立 SharePoint 網站
 ms.author: pebaum
-author: todmccoy
+author: pebaum
 ms.audience: Admin
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,12 +14,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: e1e71ae9401448ed18058f6307302dcbaf773649
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: ba682f3c2b2600031f6856621691b1e0fba64113
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770846"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786556"
 ---
 # <a name="create-a-sharepoint-site"></a>建立 SharePoint 網站
 

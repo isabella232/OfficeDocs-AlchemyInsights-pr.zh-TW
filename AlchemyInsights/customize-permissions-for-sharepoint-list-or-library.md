@@ -1,7 +1,7 @@
 ---
 title: 如何自訂 SharePoint 清單或文件庫的許可權
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3166"
-ms.openlocfilehash: 8d0e960c8404297a971c3f96c29628f8dd25f1af
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 93bade7d549cb179eda7b26dcbea9cd14dbe450a
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705184"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786160"
 ---
 # <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a>如何自訂 SharePoint 清單或文件庫的許可權
 

@@ -21,4 +21,4 @@ ms.locfileid: "46756694"
 ---
 # <a name="disabling-briefing-email"></a>停用簡報電子郵件
 
-如果您是系統管理員，您可以有彈性地為整個組織或個別使用者停用簡報。 若要了解如何管理這些設定，請參閱 [設定簡報電子郵件](https://docs.microsoft.com/briefing/be-admin)。
+如果您是系統管理員，您可以有彈性地為整個組織或個別使用者停用簡報。 若要了解如何管理那些設定，請參閱[設定簡報電子郵件](https://docs.microsoft.com/briefing/be-admin) (英文)。

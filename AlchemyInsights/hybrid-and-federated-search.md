@@ -1,9 +1,8 @@
 ---
-title: 混合式和同盟的搜尋
-ms.author: v-todmc
-author: todmccoy
+title: 混合和同盟搜尋
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
-ms.date: 9/18/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 1f31fdc6d9f0eab6a436b46e45ea5663965f2767
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: 1570ab156ec9d2d973c270dc216985e6e2b5b0af
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122395"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787168"
 ---
-# <a name="hybrid-and-federated-searches"></a>混合式和同盟的搜尋 
+# <a name="hybrid-and-federated-searches"></a>混合和同盟搜尋 
 
-1. 關於混合式和 SharePoint 中的同盟的搜尋線上資訊？
-    請檢查[以下](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)
+如需 SharePoint Online 中混合及同盟搜尋的相關資訊，請參閱 [SharePoint 中的混合式搜尋](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)。
 
-2. 要規劃混合式同盟的搜尋？
-    請檢查[以下](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)
+如需規劃混合式同盟搜尋的詳細資訊，請參閱 [規劃 SharePoint Server 的混合](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)式同盟搜尋。
