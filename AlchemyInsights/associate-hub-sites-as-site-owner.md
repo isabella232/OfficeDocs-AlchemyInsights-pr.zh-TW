@@ -1,7 +1,7 @@
 ---
 title: 將 Hub 網站關聯為網站擁有者
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000717"
 - "2638"
-ms.openlocfilehash: fa9813ad8dd99777fb9c3c33b1bf83217f3e1c64
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8866629f73d31cafd33bee712bbb9ba7adce844c
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712485"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786664"
 ---
-# <a name="associate-hub-sites-as-site-owner"></a><span data-ttu-id="15636-102">將 Hub 網站關聯為網站擁有者</span><span class="sxs-lookup"><span data-stu-id="15636-102">Associate Hub Sites as Site Owner</span></span>
+# <a name="associate-hub-sites-as-site-owner"></a><span data-ttu-id="d6c3f-102">將 Hub 網站關聯為網站擁有者</span><span class="sxs-lookup"><span data-stu-id="d6c3f-102">Associate Hub Sites as Site Owner</span></span>
 
-<span data-ttu-id="15636-103">[訊息中心 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626)共用如何加入 SharePoint hub 現在可由網站擁有者執行。</span><span class="sxs-lookup"><span data-stu-id="15636-103">[Message Center 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) shared how joining a SharePoint hub can now be performed by site owners.</span></span> <span data-ttu-id="15636-104">如果您的組織想要管理可以與 hub 產生關聯的特定個人，請遵循下列步驟：</span><span class="sxs-lookup"><span data-stu-id="15636-104">If your organization would like to manage specific individuals that can associate to a hub, follow these steps:</span></span> 
+<span data-ttu-id="d6c3f-103">[訊息中心 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) 共用如何加入 SharePoint hub 現在可由網站擁有者執行。</span><span class="sxs-lookup"><span data-stu-id="d6c3f-103">[Message Center 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) shared how joining a SharePoint hub can now be performed by site owners.</span></span> <span data-ttu-id="d6c3f-104">如果您的組織想要管理可以與 hub 產生關聯的特定個人，請遵循下列步驟：</span><span class="sxs-lookup"><span data-stu-id="d6c3f-104">If your organization would like to manage specific individuals that can associate to a hub, follow these steps:</span></span> 
 
-1. <span data-ttu-id="15636-105">使用系統管理員許可權[https://portal.office.com](https://portal.office.com)登入（）。</span><span class="sxs-lookup"><span data-stu-id="15636-105">Sign in to ([https://portal.office.com](https://portal.office.com)) with administrator rights.</span></span>
-2. <span data-ttu-id="15636-106">在螢幕左上方選取**應用程式啟動器**（具有九個方塊的圖示），然後選取 [**管理員**]。</span><span class="sxs-lookup"><span data-stu-id="15636-106">Select the **app launcher** (icon with nine squares) at the top left of the screen, and then select **Administrator**.</span></span>
-3. <span data-ttu-id="15636-107">從畫面左側的功能表中選取 [系統**管理中心**]，然後選取 [ **SharePoint**]。</span><span class="sxs-lookup"><span data-stu-id="15636-107">Select **Admin Center** from the menu on the left side of the screen and then select **SharePoint**.</span></span>
-4. <span data-ttu-id="15636-108">從螢幕頂端的藍色橫幅中，選取 [**立即啟動 app** ] 以顯示新的 Sharepoint 系統管理中心。</span><span class="sxs-lookup"><span data-stu-id="15636-108">From the blue banner at the top of the screen, select **Launch app now** to display the new Sharepoint admin center.</span></span>
-5. <span data-ttu-id="15636-109">在螢幕左側的 [顯示] 功能表中，選取 [**網站**]，然後選取 [作用中的**網站**]。</span><span class="sxs-lookup"><span data-stu-id="15636-109">In the display on the left side of the screen select **Sites** from the menu and then select **Active Sites**.</span></span>
-6. <span data-ttu-id="15636-110">檢查您要變更設定的中樞網站。</span><span class="sxs-lookup"><span data-stu-id="15636-110">Check the hub site where you want to change the settings.</span></span>
-7. <span data-ttu-id="15636-111">從螢幕頂端的功能表選取 [ **hub** ]，然後選取 [**編輯 Hub 網站設定**]。</span><span class="sxs-lookup"><span data-stu-id="15636-111">Select **Hub** from the menu at the top of the screen and select **Edit Hub Site Settings**.</span></span>
-8. <span data-ttu-id="15636-112">在「可將網站與此 hub 產生關聯的使用者」專案中，指定您要允許使用的使用者或安全性群組。</span><span class="sxs-lookup"><span data-stu-id="15636-112">Specify the users or security groups that you want to allow to work with in the "Users who can associate the site with this hub" item.</span></span>
-9. <span data-ttu-id="15636-113">選取畫面底部的 [**儲存**]。</span><span class="sxs-lookup"><span data-stu-id="15636-113">Select **Save** at the bottom of the screen.</span></span>
+1. <span data-ttu-id="d6c3f-105">[https://portal.office.com](https://portal.office.com)使用系統管理員權力登入 () 。</span><span class="sxs-lookup"><span data-stu-id="d6c3f-105">Sign in to ([https://portal.office.com](https://portal.office.com)) with administrator rights.</span></span>
+2. <span data-ttu-id="d6c3f-106">在螢幕左上方) 選取 **應用程式啟動器** (圖示，然後選取 [ **管理員**]。</span><span class="sxs-lookup"><span data-stu-id="d6c3f-106">Select the **app launcher** (icon with nine squares) at the top left of the screen, and then select **Administrator**.</span></span>
+3. <span data-ttu-id="d6c3f-107">從畫面左側的功能表中選取 [系統 **管理中心** ]，然後選取 [ **SharePoint**]。</span><span class="sxs-lookup"><span data-stu-id="d6c3f-107">Select **Admin Center** from the menu on the left side of the screen and then select **SharePoint**.</span></span>
+4. <span data-ttu-id="d6c3f-108">從螢幕頂端的藍色橫幅中，選取 [ **立即啟動 app** ] 以顯示新的 Sharepoint 系統管理中心。</span><span class="sxs-lookup"><span data-stu-id="d6c3f-108">From the blue banner at the top of the screen, select **Launch app now** to display the new Sharepoint admin center.</span></span>
+5. <span data-ttu-id="d6c3f-109">在螢幕左側的 [顯示] 功能表中，選取 [ **網站** ]，然後選取 [作用中的 **網站**]。</span><span class="sxs-lookup"><span data-stu-id="d6c3f-109">In the display on the left side of the screen select **Sites** from the menu and then select **Active Sites**.</span></span>
+6. <span data-ttu-id="d6c3f-110">檢查您要變更設定的中樞網站。</span><span class="sxs-lookup"><span data-stu-id="d6c3f-110">Check the hub site where you want to change the settings.</span></span>
+7. <span data-ttu-id="d6c3f-111">從螢幕頂端的功能表選取 [ **hub** ]，然後選取 [ **編輯 Hub 網站設定**]。</span><span class="sxs-lookup"><span data-stu-id="d6c3f-111">Select **Hub** from the menu at the top of the screen and select **Edit Hub Site Settings**.</span></span>
+8. <span data-ttu-id="d6c3f-112">在「可將網站與此 hub 產生關聯的使用者」專案中，指定您要允許使用的使用者或安全性群組。</span><span class="sxs-lookup"><span data-stu-id="d6c3f-112">Specify the users or security groups that you want to allow to work with in the "Users who can associate the site with this hub" item.</span></span>
+9. <span data-ttu-id="d6c3f-113">選取畫面底部的 [ **儲存** ]。</span><span class="sxs-lookup"><span data-stu-id="d6c3f-113">Select **Save** at the bottom of the screen.</span></span>
 
-<span data-ttu-id="15636-114">如需詳細資訊，請參閱[將 SharePoint 網站與 hub 網站關聯](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05)。</span><span class="sxs-lookup"><span data-stu-id="15636-114">For more information see [Associate a SharePoint site with a hub site](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05).</span></span> 
+<span data-ttu-id="d6c3f-114">如需詳細資訊，請參閱 [將 SharePoint 網站與 hub 網站關聯](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05)。</span><span class="sxs-lookup"><span data-stu-id="d6c3f-114">For more information see [Associate a SharePoint site with a hub site](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05).</span></span> 

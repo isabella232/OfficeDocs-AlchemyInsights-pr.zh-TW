@@ -1,7 +1,7 @@
 ---
 title: 將疊加新增至 SharePoint 行事曆
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 08b3cc8539e36f1babaa9c6949ac9b71fdae0591
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908839"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786808"
 ---
-# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a><span data-ttu-id="6f88b-102">將疊加新增至 SharePoint 行事曆</span><span class="sxs-lookup"><span data-stu-id="6f88b-102">Adding an Overlay to a SharePoint calendar</span></span>
+# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a><span data-ttu-id="3ed27-102">將疊加新增至 SharePoint 行事曆</span><span class="sxs-lookup"><span data-stu-id="3ed27-102">Adding an Overlay to a SharePoint calendar</span></span>
 
-<span data-ttu-id="6f88b-103">SharePoint 的行事曆是傳統清單類型，有時會與 Microsoft 365 群組行事曆混淆。</span><span class="sxs-lookup"><span data-stu-id="6f88b-103">SharePoint Calendars are classic list types which are sometimes confused with Microsoft 365 Group Calendars.</span></span>
+<span data-ttu-id="3ed27-103">SharePoint 的行事曆是傳統清單類型，有時會與 Microsoft 365 群組行事曆混淆。</span><span class="sxs-lookup"><span data-stu-id="3ed27-103">SharePoint Calendars are classic list types which are sometimes confused with Microsoft 365 Group Calendars.</span></span>
  
-<span data-ttu-id="6f88b-104">如果您在網站上使用 SharePoint 的行事曆，您可以覆迭您自己的 Exchange 行事曆，以建立組合的行事曆視圖。</span><span class="sxs-lookup"><span data-stu-id="6f88b-104">If you use a SharePoint calendar on your site, you can overlay your own Exchange calendar onto it to create a combined calendar view.</span></span> <span data-ttu-id="6f88b-105">此外，您也可以在相同的網站集合中，將其他 SharePoint 的行事曆疊加，只要這兩 SharePoint 的行事曆都一樣。</span><span class="sxs-lookup"><span data-stu-id="6f88b-105">Alternatively, you can overlay another SharePoint calendar as long as both SharePoint calendars are in the same site collection.</span></span>
+<span data-ttu-id="3ed27-104">如果您在網站上使用 SharePoint 的行事曆，您可以覆迭您自己的 Exchange 行事曆，以建立組合的行事曆視圖。</span><span class="sxs-lookup"><span data-stu-id="3ed27-104">If you use a SharePoint calendar on your site, you can overlay your own Exchange calendar onto it to create a combined calendar view.</span></span> <span data-ttu-id="3ed27-105">此外，您也可以在相同的網站集合中，將其他 SharePoint 的行事曆疊加，只要這兩 SharePoint 的行事曆都一樣。</span><span class="sxs-lookup"><span data-stu-id="3ed27-105">Alternatively, you can overlay another SharePoint calendar as long as both SharePoint calendars are in the same site collection.</span></span>
  
-<span data-ttu-id="6f88b-106">若要將覆迭新增至傳統的 SharePoint 行事曆中，請遵循以[Exchange 或 SharePoint 中的行事曆](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)覆迭 SharePoint 行事曆中的步驟。</span><span class="sxs-lookup"><span data-stu-id="6f88b-106">To add an Overlay to a classic SharePoint calendar, follow the steps in [Overlay a SharePoint calendar with a calendar from Exchange or SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).</span></span>
+<span data-ttu-id="3ed27-106">若要將覆迭新增至傳統的 SharePoint 行事曆中，請遵循以 [Exchange 或 SharePoint 中的行事曆](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)覆迭 SharePoint 行事曆中的步驟。</span><span class="sxs-lookup"><span data-stu-id="3ed27-106">To add an Overlay to a classic SharePoint calendar, follow the steps in [Overlay a SharePoint calendar with a calendar from Exchange or SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).</span></span>
