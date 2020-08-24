@@ -12,14 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: d7b56237cb287f619643303fb31c627e258c332d
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 3ec340b6a2ee1a3671f72f64b17e46d991d8e0a1
+ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46545680"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46844551"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>管理教育用會議錄製
+
+自 **2020 年 8 月 20 日**起，當具 A1 (包括 A1 Plus) 授權的使用者啟動 Microsoft Teams 會議錄製內容時，此錄製則可供使用 21 天。
+
+如需詳細資訊，包括如何將會議儲存到另一個位置，請參閱 [上傳 Microsoft Teams 會議錄製至 Stream](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording)。
 
 我們建議教育組織的系統管理員考慮使用學生和教師安全性原則套件。 如需詳細資訊，請參閱：
 
