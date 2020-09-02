@@ -21,6 +21,6 @@ ms.locfileid: "47290132"
 ---
 # <a name="unable-to-access-the-microsoft-defender-atp-portal"></a>無法存取 Microsoft Defender ATP 入口網站
 
-如果您收到**您未獲授權存取入口網站**的訊息, ，請注意 Microsoft Defender ATP 是安全性監控、事故調查和響應產品，且存取權受到使用者的限制和控制。 
+如果您收到**您未獲授權存取入口網站**的訊息，請注意 Microsoft Defender ATP 是安全性監控、事件調查及回應產品，且存取權受到使用者的限制和控制。 
 
-如需詳細資訊，請參閱 [將使用者的存取權指派給 Microsoft Defender 資訊安全中心](https://docs.microsoft.com/windows/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection)。
+如需詳細資訊，請參閱[將 Microsoft Defender 資訊安全中心的存取權指派給使用者](https://docs.microsoft.com/windows/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection)。
