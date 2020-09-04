@@ -14,21 +14,21 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: a3c7574de2cecdd69a30d4ca47c6f60eb5c81224
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: a8aaac45e7ea102ef34505c94644f5bd3feecbc8
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431172"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364614"
 ---
 # <a name="billing-or-invoice-faq"></a>帳單或發票常見問題集
 
 - 帳單付款可能會因為一些原因而遭到**拒絕**，例如信用卡到期。 若要解決下列問題，請參閱[變更您的付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)。
 - 如果您的帳單已**逾期**，請使用 **[結算餘額]** 功能來重新付款。 若要解決這個問題，請參閱[如果我的付款逾期了該怎麼辦？](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
-- 您仍需針對未指派給使用者的授權支付費用。 若要避免不必要的費用，請移除授權以減少授權計數。 請參閱從訂閱[新增或移除授權](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)。
+- 您仍需針對未指派給使用者的授權支付費用。 若要避免不必要的費用，請移除未使用的授權以減少授權計數。 請參閱從訂閱[新增或移除授權](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)。
 - 如果想要將**帳單週期**變更為每月或每年，請參閱 [變更您的帳單週期](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)。
 - 如果您需要帳單的協助，請參閱 [了解您的發票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2) (英文)。
 - 如果您需要協助**檢視**您的帳單，請參閱[檢視您的帳單或發票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) (英文)。
-- 如果您想要變更帳單資訊，請參閱 [管理帳單設定檔](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles)或[變更帳單地址](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)。
+- 如果您想要變更帳單資訊，請參閱[管理帳單設定檔](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles)或[變更帳單地址](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)。
 
 如需詳細資訊，請參閱[了解您的發票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)。

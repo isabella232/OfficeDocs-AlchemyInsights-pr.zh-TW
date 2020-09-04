@@ -12,14 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "639"
 - "3500007"
-ms.openlocfilehash: fc8da45d91d5c32be52e48770e469cf25eb068f5
-ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
+ms.openlocfilehash: c1c4210baf93f0071a12f1902fb5f6fbf7bd0716
+ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46903536"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47341383"
 ---
 # <a name="public-folder-migration-fails-at-95"></a>公用資料夾在進度 95% 時移轉失敗
+
+您可能已開始完成遷移批次，而且遷移批次的狀態會持續顯示**已同步**一段時間。 這是預期的行為。
+
+通常轉移批次的狀態會保持**已同步**幾小時，再切換至**正在完成**。 如果涉及大量目標信箱的遷移作業，只要沒有基本的公用資料夾遷移要求失敗或遭到隔離，通常情況下狀態會保持已同步超過 24 小時。 請為遷移批次作業提供 24 至 48 小時來完成工作。
 
 公用資料夾在進度 95% 時移轉失敗，且錯誤為 FailedToMailEnablePublicFoldersException：
 
