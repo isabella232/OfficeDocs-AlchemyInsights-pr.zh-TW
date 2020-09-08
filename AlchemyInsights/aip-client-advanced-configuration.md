@@ -23,7 +23,7 @@ ms.locfileid: "46543749"
 
 使用 AIP 用戶端的進階設定時發生問題？ 如果是，請執行下列動作：
 
-1. 您使用的限域原則可能未正確設定。 如需詳細資訊，請參閱 [如何使用有範圍的原則為特定使用者設定 Azure 資訊保護原則](https://docs.microsoft.com/azure/information-protection/configure-policy-scope) (部分機器翻譯)。
+1. 您使用的限域原則可能未正確設定。 如需詳細資訊，請參閱[如何使用有範圍的原則為特定使用者設定 Azure 資訊保護原則](https://docs.microsoft.com/azure/information-protection/configure-policy-scope) (部分機器翻譯)。
 
 2. 如果您持續遇到此問題，請參閱下列資源。 如果問題仍未解決，請擷取問題的螢幕畫面，並將它附加到支援票證中。
 
