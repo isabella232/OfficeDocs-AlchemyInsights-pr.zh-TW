@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 778ac2d7796539f78f34a6659b75116c8866f399
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 374aee5f3cc152d3fb03619c1748f7cc19b4ac44
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553172"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406497"
 ---
 # <a name="teams-meeting-invitations"></a>Teams 會議邀請
 
-- 您需要知道如何[在 Teams 中建立會議邀請](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)嗎？
+需要協助您為貴組織自訂 Teams 會議邀請嗎？ 請務必參閱[[自訂會議] 邀請](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations)。  
 
-- 目前，Teams 會議邀請**無法自訂**。 請[對 Teams UserVoice 投票](https://microsoftteams.uservoice.com/)，以將此問題新增至藍圖。
+如需詳細資訊，請參閱 [在 Microsoft Teams 中管理會議設定](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams)。
