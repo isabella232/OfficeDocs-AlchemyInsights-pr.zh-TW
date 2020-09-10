@@ -10,21 +10,17 @@ ms.assetid: ''
 ms.custom:
 - "9002255"
 - "4366"
-ms.openlocfilehash: a3e3a3d4a9de183826f51be1c10cf9d0ac687cbd
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: f11abae1a804fcda412ca2e0d1dfa8d899e2d31d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946613"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406388"
 ---
-# <a name="plan-deploy-and-manage-teams-rooms"></a><span data-ttu-id="7853b-102">規劃、部署及管理 Teams 會議室</span><span class="sxs-lookup"><span data-stu-id="7853b-102">Plan, deploy, and manage Teams Rooms</span></span>
+# <a name="plan-deploy-and-manage-teams-rooms"></a><span data-ttu-id="b1dcf-102">規劃、部署及管理 Teams 會議室</span><span class="sxs-lookup"><span data-stu-id="b1dcf-102">Plan, deploy, and manage Teams Rooms</span></span>
 
-<span data-ttu-id="7853b-103">若要在組織中設定和使用 Microsoft Teams 會議室，請按照下列步驟進行：</span><span class="sxs-lookup"><span data-stu-id="7853b-103">Set up and use Microsoft Teams Rooms in your organization by following these steps:</span></span> 
+- <span data-ttu-id="b1dcf-103">[規劃](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan) Microsoft Teams 會議室。</span><span class="sxs-lookup"><span data-stu-id="b1dcf-103">[Plan](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan)  for Microsoft Teams Room.</span></span> <span data-ttu-id="b1dcf-104">這包括[授權更新](https://docs.microsoft.com/microsoftteams/rooms/rooms-licensing)、 [硬體需求，以及支援的 Microsoft Teams 會議室系統](https://docs.microsoft.com/microsoftteams/rooms/requirements#hardware-requirements)。</span><span class="sxs-lookup"><span data-stu-id="b1dcf-104">This includes[licensing update](https://docs.microsoft.com/microsoftteams/rooms/rooms-licensing), [hardware requirements and supported Microsoft Teams Room systems](https://docs.microsoft.com/microsoftteams/rooms/requirements#hardware-requirements).</span></span>
+- <span data-ttu-id="b1dcf-105">為 Microsoft Teams 會議室 [設定帳戶](https://docs.microsoft.com/microsoftteams/rooms/rooms-configure-accounts)。</span><span class="sxs-lookup"><span data-stu-id="b1dcf-105">[Configure accounts](https://docs.microsoft.com/microsoftteams/rooms/rooms-configure-accounts)  for Microsoft Teams Room.</span></span>
+- <span data-ttu-id="b1dcf-106">使用 Teams 系統管理中心（您必須擁有 [Teams 服務系統管理員] 或 [全域系統管理員] 角色）來 [管理裝置](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage)，並查看 [已知問題清單](https://docs.microsoft.com/microsoftteams/rooms/known-issues)。</span><span class="sxs-lookup"><span data-stu-id="b1dcf-106">[Manage devices](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage)  using the Teams admin center (you need to have a Teams Service Administrator or a Global Administrator role) and review a [list of known issues](https://docs.microsoft.com/microsoftteams/rooms/known-issues).</span></span>
 
-- <span data-ttu-id="7853b-104">[規劃您的環境及檢閱需求](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan)。</span><span class="sxs-lookup"><span data-stu-id="7853b-104">[Plan your environment and review requirements](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan).</span></span>
-
-- <span data-ttu-id="7853b-105">[設定帳戶並在您的環境中進行部署](https://docs.microsoft.com/microsoftteams/rooms/rooms-deploy)。</span><span class="sxs-lookup"><span data-stu-id="7853b-105">[Configure accounts and deploy with your environment](https://docs.microsoft.com/microsoftteams/rooms/rooms-deploy).</span></span>
-
-- <span data-ttu-id="7853b-106">[管理、疑難排解](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage#troubleshooting)，並留意[已知問題](https://docs.microsoft.com/microsoftteams/rooms/known-issues)。</span><span class="sxs-lookup"><span data-stu-id="7853b-106">[Manage, troubleshoot](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage#troubleshooting), and be aware of [known issues](https://docs.microsoft.com/microsoftteams/rooms/known-issues).</span></span> 
-
-<span data-ttu-id="7853b-107">如需詳細資訊，請參閱 [Microsoft Teams 會議室](https://docs.microsoft.com/microsoftteams/rooms/)。</span><span class="sxs-lookup"><span data-stu-id="7853b-107">For more info, see [Microsoft Teams Rooms](https://docs.microsoft.com/microsoftteams/rooms/).</span></span>
+<span data-ttu-id="b1dcf-107">如需規劃、部署及管理 Microsoft Teams 會議室的詳細資訊，請參閱 [Microsoft Teams 會議室](https://docs.microsoft.com/microsoftteams/rooms/)。</span><span class="sxs-lookup"><span data-stu-id="b1dcf-107">For more information on planning, deploying and managing Microsoft Teams Rooms, see [Microsoft Teams Room](https://docs.microsoft.com/microsoftteams/rooms/).</span></span>
