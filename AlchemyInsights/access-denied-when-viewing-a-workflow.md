@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: c576bf88225582f2577e0b59506a7482cf9f38d5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687321"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688793"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>在查看工作流程時存取遭到拒絕
 
@@ -27,5 +28,5 @@ ms.locfileid: "43687321"
   
  3. 如果無法變更 SharePoint 群組的成員資格可見度，請明確將使用者新增至 [收件者] 或 [副本] 行。
   
-若要查看更多詳細資料[，請參閱 HTTP 未經授權的/_vti_bin/client.svc/sp.utilities.utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)。
+若要查看更多詳細資料 [，請參閱 HTTP 未經授權的/_vti_bin/client.svc/sp.utilities.utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)。
   

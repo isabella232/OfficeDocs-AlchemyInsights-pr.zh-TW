@@ -1,32 +1,33 @@
 ---
-title: Bitlocker 復原機碼
+title: Bitlocker 修復金鑰
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908806"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685877"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>存取 Bitlocker 復原機碼
+# <a name="accessing-bitlocker-recovery-keys"></a>存取 Bitlocker 恢復機碼
 
-當設定 Bitlocker Intune 端點保護原則，就可以定義 Bitlocker 復原資訊是否應該儲存在 Azure Active Directory。
+設定 Bitlocker 設定 Intune Endpoint Protection 原則時，可以定義是否應將 Bitlocker 復原資訊儲存在 Azure Active Directory 中。
 
-如果設定該設定，則預存的復原資料應看見 Intune 裝置] 刀鋒視窗中以兩種方式中的裝置記錄資料的一部分的 Intune 系統管理員：
+如果已設定該設定，則在 Intune 裝置 blade 中，以下列兩種方式將已儲存的復原資料視為裝置記錄資料的一部分，以供 Intune 系統管理員看到：
 
-裝置-的 Azure AD 裝置 # A0 「 裝置 」 或裝置-> 所有裝置-> 「 裝置 」-> 復原機碼
+裝置-Azure AD 裝置-> "Device" 或 Devices-> 所有裝置-> "Device"-> 復原金鑰
 
-或者，如果沒有管理存取權，裝置本身，都可以看到復原金鑰 （密碼） 從提升權限的命令提示字元執行下列命令：
+或者，如果有裝置本身的系統管理存取權，可從提升許可權的命令提示字元執行下列命令，以查看復原金鑰 (密碼) ：
 
 ```
 manage-bde -protectors c: -get
@@ -42,8 +43,8 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-如果裝置已加密之前在 Intune 中註冊，復原機碼可能已經與 「 Microsoft 帳戶 」 (MSA) 用來登入裝置 OOBE 程序期間相關聯。 如果是這種情況，存取https://onedrive.live.com/recoverykey，並且登入該 MSA 應顯示哪些復原機碼已儲存的裝置。
+若在 Intune 中 enrolment 之前已加密裝置，則復原機碼可能與「Microsoft 帳戶」相關聯 (MSA) ，用來在 OOBE 過程中登入裝置。 如果是這種情況，  https://onedrive.live.com/recoverykey 使用此 MSA 進行存取和登入時，應該會顯示已儲存復原金鑰的裝置。
  
-如果裝置已加密因為透過網域型群組原則設定，復原資訊可能會儲存在內部部署 Active Directory。
+如果是透過以網域為基礎的群組原則進行設定的加密裝置，則復原資訊可能會儲存在內部部署 Active Directory 中。
  
 

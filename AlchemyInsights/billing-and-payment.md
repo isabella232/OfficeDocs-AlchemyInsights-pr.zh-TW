@@ -5,22 +5,23 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 3d162003c34773f4764c12cc27554e451fec4c27
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225223"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686021"
 ---
 # <a name="billing-and-payment"></a>帳單和付款
 
-您可以在 [**帳單**  >  [票據 & 付款](https://go.microsoft.com/fwlink/p/?linkid=848039)] 索引標籤上找到您的帳單。 預設會顯示過去3個月的發票。  若要查看舊發票，請調整篩選。  按一下 [**下載發票 PDF** ] 連結以查看發票。
+您可以在 [**帳單**  >  [票據 & 付款](https://go.microsoft.com/fwlink/p/?linkid=848039)] 索引標籤上找到您的帳單。 預設會顯示過去3個月的發票。  若要查看舊發票，請調整篩選。  按一下 [ **下載發票 PDF** ] 連結以查看發票。
 
 **透過電子郵件接收發票**
 
@@ -30,7 +31,7 @@ ms.locfileid: "44225223"
 
 **付款**
 
-如果您是以信用卡或銀行帳戶付款，則在建立帳單之後的幾天內，會收取與您訂閱相關的支付方式。 如果付款失敗，請更新或變更您的付款條件。
+如果您是以信用卡或銀行帳戶付款，則在建立帳單之後的幾天內計費與您訂閱 () 相關聯的支付方式。 如果付款失敗，請更新或變更您的付款條件。
 
 如果您已新增一張卡片，但仍在舊信用卡上收到拒絕通知，您可能需要將該新卡與訂閱產生關聯。
 
@@ -38,20 +39,20 @@ ms.locfileid: "44225223"
 
 2. 選取要取代的付款條件列。 右窗格會列出所有記帳設定檔，以及使用所選付款條件的個別訂閱。
 
-3. 在右窗格中，選取 [**取代所有專案的支付方式**]。
+3. 在右窗格中，選取 [ **取代所有專案的支付方式**]。
 
-4. 若要使用現有的付款條件，請從下拉式清單中選擇一個，然後選取 [**取代**]。
+4. 若要使用現有的付款條件，請從下拉式清單中選擇一個，然後選取 [ **取代**]。
 
     > [!NOTE]
-    > 如果您有與帳單設定檔相關聯的訂閱，則只能使用信用或轉帳卡支付費用。 如果您已在 [**付款條件**] 頁面上列出銀行帳戶，則無法從下拉式清單中選取。
+    > 如果您有與帳單設定檔相關聯的訂閱，則只能使用信用或轉帳卡支付費用。 如果您已在 [ **付款條件** ] 頁面上列出銀行帳戶，則無法從下拉式清單中選取。
 
-5. 若要新增支付方式，請選取 [**新增支付方式**]。
+5. 若要新增支付方式，請選取 [ **新增支付方式**]。
 
-6. 在 [**新增支付方式**] 窗格中，輸入帳戶資訊，然後選取 [**儲存**]。 您必須使用與租使用者相同國家/地區的支付方式。
+6. 在 [ **新增支付方式** ] 窗格中，輸入帳戶資訊，然後選取 [ **儲存**]。 您必須使用與租使用者相同國家/地區的支付方式。
 
 7. 已在下拉式清單中選取新的付款條件。 選取 [取代]****。
 
-若要深入瞭解，請參閱[管理支付方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
+若要深入了解，請參閱[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
 
 **計費頻率**
 

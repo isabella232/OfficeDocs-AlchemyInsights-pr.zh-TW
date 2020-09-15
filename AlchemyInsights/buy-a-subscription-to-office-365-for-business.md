@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 40a09fdaa3b2218fc2dfacb10216f27d6440bd67
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f5954693866b18698807c34c77b6265701dbb4e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506254"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684977"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>從免費試用版購買 Microsoft 365 訂閱
 
@@ -25,17 +26,17 @@ ms.locfileid: "44506254"
   
  **購買與試用版相同的方案**
   
-1. 在系統管理中心中，移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
+1. 在系統管理中心中，移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。
 
-2. 尋找您要購買的訂閱。 在 [**授權**] 區段中，選取 [**購買訂閱**]，然後依照步驟取出。
+2. 尋找您要購買的訂閱。 在 [ **授權** ] 區段中，選取 [ **購買訂閱**]，然後依照步驟取出。
 
 **購買其他訂閱**
   
-1. 在系統管理中心中，移至 [**帳單** \> [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)] 頁面。
+1. 在系統管理中心中，移至 [ **帳單** \> [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433) ] 頁面。
 
-3. 找到您要購買的訂閱，然後選取 [**購買**]，然後依照步驟取出。
+3. 找到您要購買的訂閱，然後選取 [ **購買**]，然後依照步驟取出。
 
-若要深入瞭解，請參閱[從免費試用版購買 Microsoft 365 for business 訂閱](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial)。
+若要深入瞭解，請參閱 [從免費試用版購買 Microsoft 365 for business 訂閱](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial)。
 
 **疑難排解**
 
