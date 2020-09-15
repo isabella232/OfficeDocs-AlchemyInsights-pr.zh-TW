@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,22 +13,22 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: eae0ffdadf9f43b70c35992a03fce764b9299300
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 57cf149b0ecfaf06f34b7fb8cd746584e305a232
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509195"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703868"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>如何進行 Microsoft 365 購買
 
 您可以在系統管理中心進行 Microsoft 365 購買。
   
-- 若要購買計畫，請移至**帳單** \> [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)頁面。
+- 若要購買計畫，請移至 **帳單** \> [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433) 頁面。
 
-- 若要購買其他授權，請移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。 選擇您想要新增授權的訂閱，然後選取 [**新增/移除授權**]。
+- 若要購買其他授權，請移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。 選擇您想要新增授權的訂閱，然後選取 [ **新增/移除授權**]。
   
-若要深入瞭解，請參閱[購買商務用 Microsoft 365 訂閱的授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。
+若要深入瞭解，請參閱 [購買商務用 Microsoft 365 訂閱的授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。
 
 **疑難排解**
 
