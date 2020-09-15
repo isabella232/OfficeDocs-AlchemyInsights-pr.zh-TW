@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 0edafc8fab84ccdabecdc4853fde998ae79a8184
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
+ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45157294"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665277"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>軟體庫存遺失或不正確
 

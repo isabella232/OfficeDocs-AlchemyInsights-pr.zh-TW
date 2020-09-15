@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/25/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "634"
 - "3500007"
-ms.openlocfilehash: 16075b953367fcceca9cf285d816b8fe9770a217
-ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
+ms.openlocfilehash: 15b0e35b754150ef0fc9e7a0eb9ac20fa7fbf14d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46903540"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663682"
 ---
 # <a name="access-a-public-folder-calendar-in-owa-outlook-on-the-web"></a>在 OWA (Outlook 網頁版) 中存取公用資料夾行事曆
 

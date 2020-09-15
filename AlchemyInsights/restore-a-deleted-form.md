@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 246c3b50df856c16ea5237adc43d2126bb5b48b9
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: 6923c15c3cce90c98ae79181e978fba273ab6059
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45148028"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662415"
 ---
 # <a name="restore-a-deleted-form"></a>還原已刪除的表單
 
-如果您已意外刪除 Microsoft Forms 中的表單，可以進行復原。 以刪除之表單的擁有者身分登入 Microsoft Forms。 選取 [**回收站**]，然後選取您要復原的表單，然後選取 [**還原**]。 還原後，選取 [**回到我的表單] 頁面**箭號。
+如果您已意外刪除 Microsoft Forms 中的表單，可以進行復原。 以刪除之表單的擁有者身分登入 Microsoft Forms。 選取 [ **回收站**]，然後選取您要復原的表單，然後選取 [ **還原**]。 還原後，選取 [ **回到我的表單] 頁面** 箭號。
 
 只有表單的擁有者可以復原。 如果已停用或移除租使用者的帳戶，則只有全域系統管理員才能復原表單。 全域管理員必須具備表單會授權，才可執行還原。 只有在停用的使用者帳戶的30天內建立或從承租人中移除的表單，才能還原。
 

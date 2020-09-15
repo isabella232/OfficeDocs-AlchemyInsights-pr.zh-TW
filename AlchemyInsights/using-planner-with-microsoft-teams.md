@@ -1,30 +1,31 @@
 ---
-title: 規劃使用 Microsoft Teams
+title: 與 Microsoft 團隊搭配使用 Planner
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2653"
 - "9000727"
-ms.openlocfilehash: 04a0bcff06c9a52db4bc7ff55799a1cef8fd1eca
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 95b83d6658fc77ac6e5eeac58c198f5c4adbb674
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37681697"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657375"
 ---
-# <a name="using-planner-with-microsoft-teams"></a>規劃使用 Microsoft Teams
+# <a name="using-planner-with-microsoft-teams"></a>與 Microsoft 團隊搭配使用 Planner
 
-藉由將一個或多個 Planner 索引標籤新增至小組通道來組織您的工作： 
+將一或多個計畫標籤新增至小組通道，以整理您的工作： 
 
-- [新增到小組通道 Planner] 索引標籤](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel)。 新增索引標籤上的使用者必須是小組，而不只是一個擁有者的成員。 您可以將使用者新增為透過 Microsoft Teams 介面的成員。
-- [新增 Microsoft Teams 現有計劃](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)。
-- [規劃人員] 索引標籤中移除或刪除計劃](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan)。 在小組中將無法復原已刪除的計劃。 如果已刪除的群組，則您可以[復原已刪除的計劃和群組](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups)。
-- [啟用或停用 microsoft Teams 的規劃工作分派通知](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams)。
+- [將 [Planner] 索引標籤新增至小組通道](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel)。 新增索引標籤的使用者必須是該小組的成員，而不只是擁有者。 您可以透過 Microsoft 團隊介面將使用者新增為成員。
+- [將現有的計畫新增至 Microsoft 團隊](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)。
+- [移除 [Planner] 索引標籤或刪除方案](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan)。 無法在小組中復原已刪除的計畫。 若已刪除群組，您可以 [復原已刪除的計畫和群組](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups)。
+- [啟用或停用小組中的 Planner 指派通知](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams)。
 
-**附註：** Microsoft Teams 與 Planner 整合的一般概觀，請參閱[使用規劃 Microsoft teams](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)。
+**附注：** 如需與 Microsoft 小組的計畫整合一般綜述，請參閱 [Use Planner In Microsoft 團隊](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)。

@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/05/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: d0684393b089ff37eb88649a04be77dd53bdb629
-ms.sourcegitcommit: dc77de3f18f942101a623be82b51ebd4d815daba
+ms.openlocfilehash: bef0943c8621043218088abf0deebddf6c19ef50
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47420795"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664737"
 ---
 # <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>使用 Wix 網站搭配向 Microsoft 購買或受管理的網域
 

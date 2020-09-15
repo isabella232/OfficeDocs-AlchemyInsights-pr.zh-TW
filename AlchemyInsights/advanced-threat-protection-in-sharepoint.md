@@ -5,6 +5,7 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,14 +13,14 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: af100836a666a220d8fb77e9dc480993c71e3741
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2cf3455fb545ce2b89d9f4278bf9474db0b07ce8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508475"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663324"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>SharePoint 和 OneDrive 中的高級威脅防護（ATP）
+# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>SharePoint 和 OneDrive 的高級威脅防護 (ATP) 
 
 請參閱下列主題：
 - [SharePoint、OneDrive 和團隊的 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
