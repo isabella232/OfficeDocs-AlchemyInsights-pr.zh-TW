@@ -1,33 +1,34 @@
 ---
-title: 遺失備忘稿
+title: 遺漏的記事
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2501"
-ms.openlocfilehash: 6e2a115302661de939c57bc39d4461df3046416e
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 7a7e70de2ec1ef5158d8149b635ce7f90814c6b1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800227"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667185"
 ---
-# <a name="missing-notes-in-notebook"></a>在筆記本中遺失備忘稿
+# <a name="missing-notes-in-notebook"></a>筆記本中遺失的記事
 
-下列其中一個遺失頁面或區段，筆記本中的最常見原因是同步處理錯誤。 在此情況下，資料並不會遺失，和同步處理正常運作之後，即可復原。 請檢查每個 OneNote 用戶端使用者已用來識別是否其中的任何顯示的筆記本中的錯誤和如果沒有錯誤，請參閱[修正問題時無法同步處理 OneNote](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45)。
+筆記本中遺失頁面或區段的最常見原因之一是同步處理錯誤。 在此情況下，資料不會遺失，而且一旦同步處理運作後便可復原。 檢查每個 OneNote 的用戶端使用者是否有任何使用者顯示筆記本的錯誤，如果有錯誤，請參閱 [修正問題。無法同步處理 OneNote](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45)。
 
-- 在 OneNote 適用於 Windows 10，黃色三角形警告圖示會很有可能會顯示旁的筆記本。
-- 在 OneNote 2016 中，在功能區] 下方的筆記本名稱上按一下滑鼠右鍵，然後按一下 [「 筆記本同步作業狀態 」
-- 在 Mac 版 OneNOte，檢查附近筆記本圖示黃色驚嘆號
-- 在 iPhone 版 OneNote，瀏覽至您的筆記本中，按一下右上角中的 [動作] 按鈕
-- 在 [Android 版 OneNote，瀏覽至 [更多 B0 筆記本-# 檢視同步處理錯誤
+- 在 Windows 10 OneNote 中，黃色的三角形警告圖示很可能會顯示在筆記本旁。
+- 在 OneNote 2016 中，以滑鼠右鍵按一下功能區下方的筆記本名稱，然後按一下 [筆記本同步處理狀態]。
+- 在 Mac 版 OneNOte 中，檢查筆記本圖示附近是否有黃色驚嘆號標記。
+- 在 OneNote for iPhone 中，流覽至您的筆記本，然後按一下右上角的 [動作] 按鈕。
+- 在適用于 Android 的 OneNote 中，流覽至其他筆記本->View Sync Errors
 
-遵循搜尋、 同步處理您的檔案，或復原備忘稿的 [[尋找我遺失的附註](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287)] 中的步驟。
+依照 [尋找我的遺失附注](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) 以搜尋、同步處理檔案或復原您的記事中的步驟進行。
 
-如果您正在使用 OneNote 2016，您可能無法以[復原已刪除的備忘稿](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14)從備份。
+如果您使用 OneNote 2016，您也許可以從備份 [復原已刪除的記事](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) 。

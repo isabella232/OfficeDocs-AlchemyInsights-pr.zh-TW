@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: bc7301a5538128fb1a3bab8e9c8bf1ee84e509c2
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580036"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667833"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>在電腦或 MAC 上安裝 Office 用戶端應用程式
 
