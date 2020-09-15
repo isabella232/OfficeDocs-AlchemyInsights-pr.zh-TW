@@ -6,25 +6,26 @@ manager: scotv
 ms.date: 07/22/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1903"
 - "3100008"
-ms.openlocfilehash: f9422e9a86ce1d589a301828f8dc2885cf641933
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+ms.openlocfilehash: 57a72758e4b00a6822e834b2b8dfda2d079eebf5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45266410"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716380"
 ---
-# <a name="archive-folder-in-outlook-and-owa"></a><span data-ttu-id="b27c2-102">Outlook 和 OWA 中的 [封存] 資料夾</span><span class="sxs-lookup"><span data-stu-id="b27c2-102">Archive folder in Outlook and OWA</span></span>
+# <a name="archive-folder-in-outlook-and-owa"></a><span data-ttu-id="9f61b-102">Outlook 和 OWA 中的 [封存] 資料夾</span><span class="sxs-lookup"><span data-stu-id="9f61b-102">Archive folder in Outlook and OWA</span></span>
 
-<span data-ttu-id="b27c2-103">[封存] 是預設的資料夾，可將電子郵件訊息歸檔和組織到您的信箱中。</span><span class="sxs-lookup"><span data-stu-id="b27c2-103">Archive is a default folder where email messages can be filed and organized in your mailbox.</span></span> <span data-ttu-id="b27c2-104">您可以按一下 **[封存]** 按鈕，將郵件移至該資料夾。</span><span class="sxs-lookup"><span data-stu-id="b27c2-104">You can move items to this folder by clicking the  **Archive**  button.</span></span> <span data-ttu-id="b27c2-105">系統會將郵件移至 (而不是刪除) 相同主要信箱中的 **[封存]** 資料夾，而非封存信箱。</span><span class="sxs-lookup"><span data-stu-id="b27c2-105">Items are moved (not deleted) to the **Archive** folder in the same primary mailbox and not to the archive mailbox.</span></span>
+<span data-ttu-id="9f61b-103">[封存] 是預設的資料夾，可將電子郵件訊息歸檔和組織到您的信箱中。</span><span class="sxs-lookup"><span data-stu-id="9f61b-103">Archive is a default folder where email messages can be filed and organized in your mailbox.</span></span> <span data-ttu-id="9f61b-104">您可以按一下 **[封存]** 按鈕，將郵件移至該資料夾。</span><span class="sxs-lookup"><span data-stu-id="9f61b-104">You can move items to this folder by clicking the  **Archive**  button.</span></span> <span data-ttu-id="9f61b-105">系統會將郵件移至 (而不是刪除) 相同主要信箱中的 **[封存]** 資料夾，而非封存信箱。</span><span class="sxs-lookup"><span data-stu-id="9f61b-105">Items are moved (not deleted) to the **Archive** folder in the same primary mailbox and not to the archive mailbox.</span></span>
 
-<span data-ttu-id="b27c2-106">若要查看 **[封存]** 資料夾，請選取 **[查看]** > **[資料夾窗格]**，然後選擇 **[標準]** 來顯示 [資料夾清單]。</span><span class="sxs-lookup"><span data-stu-id="b27c2-106">To view the **Archive** folder, make sure the folder list is displayed by selecting  **View** > **Folder Pane**,  and then choosing  **Normal**.</span></span>
+<span data-ttu-id="9f61b-106">若要查看 **[封存]** 資料夾，請選取 **[查看]** > **[資料夾窗格]**，然後選擇 **[標準]** 來顯示 [資料夾清單]。</span><span class="sxs-lookup"><span data-stu-id="9f61b-106">To view the **Archive** folder, make sure the folder list is displayed by selecting  **View** > **Folder Pane**,  and then choosing  **Normal**.</span></span>
 
-<span data-ttu-id="b27c2-107">**注意** 如果郵件自動移至 Outlook [封存] 資料夾，您可能是使用 Outlook 的 [倒退鍵]，或者您按下 Outlook 電腦版、Outlook Web App 或 Outlook 行動 App 中的 **[封存]** 選項。</span><span class="sxs-lookup"><span data-stu-id="b27c2-107">**Note** If items are moving automatically to the Outlook Archive folder unexpectedly, it’s possible you used the backspace key in Outlook or you clicked the **Archive** option in Outlook Desktop, Outlook Web App, or Outlook Mobile App.</span></span>
+<span data-ttu-id="9f61b-107">**注意** 如果郵件自動移至 Outlook [封存] 資料夾，您可能是使用 Outlook 的 [倒退鍵]，或者您按下 Outlook 電腦版、Outlook Web App 或 Outlook 行動 App 中的 **[封存]** 選項。</span><span class="sxs-lookup"><span data-stu-id="9f61b-107">**Note** If items are moving automatically to the Outlook Archive folder unexpectedly, it’s possible you used the backspace key in Outlook or you clicked the **Archive** option in Outlook Desktop, Outlook Web App, or Outlook Mobile App.</span></span>
 
-<span data-ttu-id="b27c2-108">如需 Outlook 中 [封存] 資料夾的詳細資訊，請參閱 [ Outlook 中的 [封存] 資料夾](https://support.office.com/article/archive-in-outlook-for-windows-25f75777-3cdc-4c77-9783-5929c7b47028)，若是 OWA 請參閱 [OWA 中的 [封存] 資料夾](https://support.office.com/article/organize-your-inbox-with-archive-sweep-and-other-tools-in-outlook-on-the-web-49b26f63-6399-4b4a-a580-14b9b1efe96d?ui=en-US&rs=en-US&ad=US)。</span><span class="sxs-lookup"><span data-stu-id="b27c2-108">For more information on the Archive folder in Outlook, see [Archive folder in Outlook](https://support.office.com/article/archive-in-outlook-for-windows-25f75777-3cdc-4c77-9783-5929c7b47028), or for OWA, see [Archive folder in OWA](https://support.office.com/article/organize-your-inbox-with-archive-sweep-and-other-tools-in-outlook-on-the-web-49b26f63-6399-4b4a-a580-14b9b1efe96d?ui=en-US&rs=en-US&ad=US).</span></span>
+<span data-ttu-id="9f61b-108">如需 Outlook 中 [封存] 資料夾的詳細資訊，請參閱 [ Outlook 中的 [封存] 資料夾](https://support.office.com/article/archive-in-outlook-for-windows-25f75777-3cdc-4c77-9783-5929c7b47028)，若是 OWA 請參閱 [OWA 中的 [封存] 資料夾](https://support.office.com/article/organize-your-inbox-with-archive-sweep-and-other-tools-in-outlook-on-the-web-49b26f63-6399-4b4a-a580-14b9b1efe96d?ui=en-US&rs=en-US&ad=US)。</span><span class="sxs-lookup"><span data-stu-id="9f61b-108">For more information on the Archive folder in Outlook, see [Archive folder in Outlook](https://support.office.com/article/archive-in-outlook-for-windows-25f75777-3cdc-4c77-9783-5929c7b47028), or for OWA, see [Archive folder in OWA](https://support.office.com/article/organize-your-inbox-with-archive-sweep-and-other-tools-in-outlook-on-the-web-49b26f63-6399-4b4a-a580-14b9b1efe96d?ui=en-US&rs=en-US&ad=US).</span></span>
