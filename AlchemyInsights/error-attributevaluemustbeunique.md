@@ -6,23 +6,24 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: fa1fdb35f1af250bc98aa61c0e5111f1f1b8aac4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4627a7ae34b0dd9f16538ef75ac8792672dcc056
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703165"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709142"
 ---
 # <a name="error-attributevaluemustbeunique"></a>錯誤： AttributeValueMustBeUnique
 
-AttributeValueMustBeUnique 錯誤最常見的原因是兩個具有不同 SourceAnchor （immutableId）的物件具有相同的 ProxyAddresses 和/或 UserPrincipalName 屬性值。 修正 AttributeValueMustBeUnique 錯誤：
+AttributeValueMustBeUnique 錯誤最常見的原因是兩個物件具有不同的 SourceAnchor (immutableId) 具有相同的 ProxyAddresses 和/或 UserPrincipalName 屬性值。 修正 AttributeValueMustBeUnique 錯誤：
   
-1. 識別導致錯誤的重複 proxyAddresses、userPrincipalName 或其他屬性值。 此外，請識別衝突中所涉及的兩個（或多個）物件。 Azure AD Connect Health 同步處理所產生的報告可協助您識別這兩個物件。
+1. 識別導致錯誤的重複 proxyAddresses、userPrincipalName 或其他屬性值。 此外，也請識別有兩個以上的 (或多個) 物件與衝突有關。 Azure AD Connect Health 同步處理所產生的報告可協助您識別這兩個物件。
     
 2. 識別哪個物件應該繼續具有重複的值，而不應該是哪個物件。
     
