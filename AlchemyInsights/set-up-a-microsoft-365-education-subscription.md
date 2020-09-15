@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: ac31864495ebd398f094c27b59787033069c1433
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44840990"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701062"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>設定 Microsoft 365 教育版訂閱
 

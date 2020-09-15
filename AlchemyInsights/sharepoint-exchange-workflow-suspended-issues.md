@@ -1,33 +1,34 @@
 ---
-title: 開始使用 SharePoint Online
+title: 線上開始使用 SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 285c580d69efb369fa6a60066165123e3c91b0a7
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: bba89489cb75555e1f508224de223bee04e1d665
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051632"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700698"
 ---
-# <a name="workflows-in-sharepoint"></a>在 SharePoint 中的工作流程
+# <a name="workflows-in-sharepoint"></a>SharePoint 中的工作流程
 
-如果 SharePoint 工作流程不會傳送電子郵件，您的組織可能有發生的 Exchange Online 的寄件者限制。
+如果 SharePoint 的工作流程未傳送電子郵件，則您的組織可能發生 Exchange Online 寄件者限制。
 
-如果您有下列其中一個下列項目，可能會發生 「 工作流程已擱置 」 錯誤訊息：
+如果您有下列其中一個專案，則可能會出現「工作流程已擱置」錯誤訊息：
 
-- 您可以讓工作流程在 SharePoint Online 中使用 SharePoint 2010 或 SharePoint 2013 工作流程平台類型。
+- 您在使用 SharePoint 2010 或 SharePoint 2013 工作流程平臺類型的 SharePoint Online 中有工作流程。
 
-- 工作流程已設定為傳送自訂電子郵件訊息給 200 位以上的使用者在時間、 10000 個以上的收件者每日或每分鐘 30 個以上的郵件。
+- 工作流程設定為一次傳送自訂的電子郵件訊息給超過200位使用者、每天超過10000個收件者，或每分鐘超過30封郵件。
 
-當您執行工作流程，不會傳送電子郵件訊息，您會注意到的錯誤訊息，內部的狀態設為顯示 [已擱置或無法傳送郵件給收件者。
+當您執行工作流程時，未傳送電子郵件訊息，您會注意到錯誤訊息，內部狀態是設定為 [已擱置]，或顯示 [無法傳送給收件者]。
 
-如需詳細資訊，請參閱下列[文章](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)。
+如需詳細資訊，請參閱下列 [文章](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)。
 

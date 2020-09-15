@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 2122726c0503ee8ed8331cbbfd3bbe884e690a0e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f9a33534000b6ceec2bd71e933b36c2af48816c7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743264"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702174"
 ---
 # <a name="outlook-on-the-web-send-out-of-office-replies"></a>Outlook 網頁版：傳送不在辦公室回覆
 

@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -17,12 +18,12 @@ ms.custom:
 - "5160"
 - "9002663"
 - "5168"
-ms.openlocfilehash: a0a9c43fe163fd8bbb45181394d3fcbba9d082f7
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: 605e4cd00287178455877c8652af2034147e1ade
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957969"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700482"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>切換到其他的商務用 Microsoft 365 方案
 
@@ -32,4 +33,4 @@ ms.locfileid: "43957969"
 
 - 在某些情況下，[[切換方案] 按鈕](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button)可引導您完成切換方案的程序。
 
-如需詳細資料，請參閱[切換到其他商務用 Microsoft 365 方案](https://docs.microsoft.com/zh-TW/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)。
+如需詳細資料，請參閱[切換到其他商務用 Microsoft 365 方案](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)。
