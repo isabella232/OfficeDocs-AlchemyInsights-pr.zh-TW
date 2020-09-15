@@ -1,43 +1,44 @@
 ---
-title: Dynamics 365-Dynamics 365 整合介面中顯示錯誤的儀表板
+title: Dynamics 365-Dynamics 365 統一介面中顯示錯誤的儀表板
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 02e33c7dbdfe9b7d2ad7a04f154cf067fba0aab2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528542"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711266"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Dynamics 365 整合介面中顯示錯誤的儀表板
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Dynamics 365 統一介面中顯示錯誤的儀表板
 
-有幾個理由為什麼您可能會看到比您預期不同儀表板：
+您看到的儀表板可能與您預期的不同，原因如下：
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>使用者已設定的使用者預設儀表板 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>使用者已設定使用者預設儀表板 
 
-通常可以將使用者識別如果**設為預設值**] 按鈕不會顯示在儀表板命令列會設為預設儀表板。 使用者預設儀表板會覆寫所有其他預設儀表板，即使使用者的預設儀表板並不是在目前的應用程式中。
+一般來說，如果 [ **設定為預設** 值] 按鈕未顯示在儀表板命令列中，您可以識別使用者預設的儀表板。 使用者預設儀表板會覆寫所有其他的預設儀表板，即使使用者的預設儀表板不在目前的應用程式中也是一樣。
 
-使用下列因應措施未設定其預設儀表板。
+請使用下列解決方法來取消設置其預設儀表板。
 
 1. 建立新的個人儀表板。
 
-2. 設定新儀表板的使用者預設值。
+2. 將新的儀表板設定為使用者預設。
 
-3. 刪除儀表板。
+3. 刪除該儀表板。
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>在網站地圖中設定儀表板
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>儀表板是在網站地圖中設定
 
-您可以藉由選取儀表板，然後選擇 [設成預設值 '' 自訂系統 '] 下將設定組織預設儀表板。 但在網站地圖設計工具中定義的儀表板將優先於此儀表板，如果使用者具有其存取權。
+您可以選取儀表板，然後選擇 [自訂系統] 底下的 [設為預設值]，以設定組織的預設儀表板。 不過，如果使用者可以存取，則在網站地圖設計工具中定義的儀表板會優先于此儀表板。
 
-若要讓使用者看到您已設定為組織預設儀表板，您可以：
+若要讓使用者看到您已設定為組織預設的儀表板，您可以執行下列其中一項操作：
 
-* 在網站地圖中設定儀表板
+* 在網站地圖中設定該儀表板
 
-* 移除這些使用者定義的網站地圖儀表板的存取
+* 移除對那些使用者的網站地圖定義儀表板的存取權
