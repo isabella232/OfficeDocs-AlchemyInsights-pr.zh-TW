@@ -6,6 +6,7 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,17 +14,17 @@ ms.custom:
 - "1401"
 - "8000047"
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: f331cc789a50f44fc62e22b5bf8f6f3e3daa6c00
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 17bb3df0b28be00ec0a639f32ef8d9904c14f9d3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724501"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704300"
 ---
-# <a name="how-to-create-an-email-signature"></a><span data-ttu-id="31400-102">如何建立電子郵件簽名</span><span class="sxs-lookup"><span data-stu-id="31400-102">How to create an email signature</span></span>
+# <a name="how-to-create-an-email-signature"></a><span data-ttu-id="d4596-102">如何建立電子郵件簽名</span><span class="sxs-lookup"><span data-stu-id="d4596-102">How to create an email signature</span></span>
 
-<span data-ttu-id="31400-103">移至您的[撰寫和回復設定](https://go.microsoft.com/fwlink/?linkid=2006164)（**設定** \>會**顯示所有 Outlook 設定** \> **撰寫及回復**）。</span><span class="sxs-lookup"><span data-stu-id="31400-103">Go to your [Compose and reply settings](https://go.microsoft.com/fwlink/?linkid=2006164) (**Settings** \> **View all Outlook settings** \> **Compose and reply**).</span></span>
+<span data-ttu-id="d4596-103">移至您的 [撰寫和回復設定](https://go.microsoft.com/fwlink/?linkid=2006164) (**設定**會 \> **顯示所有 Outlook 設定** \> **撰寫及回復**) 。</span><span class="sxs-lookup"><span data-stu-id="d4596-103">Go to your [Compose and reply settings](https://go.microsoft.com/fwlink/?linkid=2006164) (**Settings** \> **View all Outlook settings** \> **Compose and reply**).</span></span>
   
- <span data-ttu-id="31400-104">**附注：** 每個帳戶只能有一個簽名。</span><span class="sxs-lookup"><span data-stu-id="31400-104">**Note:** You can have only one signature per account.</span></span>
+ <span data-ttu-id="d4596-104">**附注：** 每個帳戶只能有一個簽名。</span><span class="sxs-lookup"><span data-stu-id="d4596-104">**Note:** You can have only one signature per account.</span></span>
   
-<span data-ttu-id="31400-105">深入瞭解如何[在 Outlook.com 中建立及新增電子郵件簽名](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="31400-105">Learn more about how to [create and add an email signature in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="d4596-105">深入瞭解如何 [在 Outlook.com 中建立及新增電子郵件簽名](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="d4596-105">Learn more about how to [create and add an email signature in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
