@@ -5,27 +5,28 @@ author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: d2f1a6192f58d9225e533da676b2ba588d25d1bc
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: 967088dfda5445d4c77f51eb177dbbb721f8a775
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654332"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695892"
 ---
-# <a name="ios-enrollment-help"></a><span data-ttu-id="fe675-102">iOS 註冊說明</span><span class="sxs-lookup"><span data-stu-id="fe675-102">iOS enrollment help</span></span>
+# <a name="ios-enrollment-help"></a><span data-ttu-id="fd033-102">iOS 註冊說明</span><span class="sxs-lookup"><span data-stu-id="fd033-102">iOS enrollment help</span></span>
 
-<span data-ttu-id="fe675-103">我們已發現您所可能遇到 iOS 註冊一些問題。</span><span class="sxs-lookup"><span data-stu-id="fe675-103">We've noticed you might be having some issue with iOS enrollment.</span></span> <span data-ttu-id="fe675-104">以下是一些我們認為可以幫助的文章：</span><span class="sxs-lookup"><span data-stu-id="fe675-104">Here are some articles we think could help:</span></span> 
+<span data-ttu-id="fd033-103">我們已注意到，您可能會有一些 iOS 註冊的問題。</span><span class="sxs-lookup"><span data-stu-id="fd033-103">We've noticed you might be having some issue with iOS enrollment.</span></span> <span data-ttu-id="fd033-104">以下是一些我們認為可以協助的文章：</span><span class="sxs-lookup"><span data-stu-id="fd033-104">Here are some articles we think could help:</span></span> 
 
-[<span data-ttu-id="fe675-105">IOS 註冊的常見錯誤與解決方案</span><span class="sxs-lookup"><span data-stu-id="fe675-105">Common iOS enrollment errors and solutions</span></span>](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
+[<span data-ttu-id="fd033-105">常見 iOS 註冊錯誤和解決方案</span><span class="sxs-lookup"><span data-stu-id="fd033-105">Common iOS enrollment errors and solutions</span></span>](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
 
-[<span data-ttu-id="fe675-106">開始使用 Intune 和 iOS</span><span class="sxs-lookup"><span data-stu-id="fe675-106">Getting started with Intune and iOS</span></span>](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[<span data-ttu-id="fd033-106">Intune 和 iOS 快速入門</span><span class="sxs-lookup"><span data-stu-id="fd033-106">Getting started with Intune and iOS</span></span>](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[<span data-ttu-id="fe675-107">一般註冊疑難排解</span><span class="sxs-lookup"><span data-stu-id="fe675-107">General Enrollment Troubleshooting</span></span>](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[<span data-ttu-id="fd033-107">一般註冊疑難排解</span><span class="sxs-lookup"><span data-stu-id="fd033-107">General Enrollment Troubleshooting</span></span>](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[<span data-ttu-id="fe675-108">使用疑難排解入口網站的 Intune 來診斷和解決常見註冊失敗</span><span class="sxs-lookup"><span data-stu-id="fe675-108">Using the Intune troubleshooting portal to diagnose and resolve common enrollment failures</span></span>](https://docs.microsoft.com/intune/help-desk-operators)
+[<span data-ttu-id="fd033-108">使用 Intune 疑難排解入口網站來診斷及解決一般註冊失敗</span><span class="sxs-lookup"><span data-stu-id="fd033-108">Using the Intune troubleshooting portal to diagnose and resolve common enrollment failures</span></span>](https://docs.microsoft.com/intune/help-desk-operators)
