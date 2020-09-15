@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1725"
 - "9000179"
-ms.openlocfilehash: 7927c0684d2f5289f92506d7d05d5b1a3b43b658
-ms.sourcegitcommit: b0b050a83db28566b68e3ec09810c6b94280008e
+ms.openlocfilehash: 537ae7edebfa5a4ab71c2141d549d732ed4f883f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45186108"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680126"
 ---
 # <a name="delete-orphaned-user-from-on-premises-server"></a>從內部部署的伺服器刪除孤立使用者
 

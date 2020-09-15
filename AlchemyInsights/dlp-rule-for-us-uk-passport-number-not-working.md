@@ -6,18 +6,19 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 3d3b7dc2d9510376bc9eef6ec69b87ad7c681b05
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6c7191f380f264113e2042f2869d9767922b2cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507289"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679215"
 ---
 # <a name="problems-with-dlp---usuk-passport-numbers"></a>DLP-US/英國護照號碼的問題
 
@@ -25,9 +26,9 @@ ms.locfileid: "44507289"
 
 **美國/英國護照號碼的 DLP 問題**
 
-當您在 O365 使用 DLP 敏感資訊類型時，**資料遺失防護（DLP）** 未使用包含**美國/英國護照號碼**的內容時，是否發生問題？ 如果是的話，請確定您的內容中包含 DLP 原則在評估時所需的資訊。
+當您在 O365 使用 DLP 敏感資訊類型時， **資料遺失防護 (dlp) ** 無法處理包含 **美國/英國護照號碼** 的內容時，是否有問題？ 如果是的話，請確定您的內容中包含 DLP 原則在評估時所需的資訊。
   
-例如，對於設定為信賴等級為75% 的**美國/英國護照號碼**原則，會評估下列各項，而且必須偵測到規則才能觸發
+例如，對於設定為信賴等級為75% 的 **美國/英國護照號碼** 原則，會評估下列各項，而且必須偵測到規則才能觸發
   
 - **[格式：](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 九位數
 
@@ -41,9 +42,9 @@ ms.locfileid: "44507289"
 
   - 會找到來自 Keyword_passport 的關鍵字。
 
-    例如，下列範例會觸發**美國/英國護照號碼**原則：美國護照號碼123456789
+    例如，下列範例會觸發 **美國/英國護照號碼** 原則：美國護照號碼123456789
 
 如需針對您的內容偵測 US/英國護照號碼時所需的詳細資訊，請參閱本文的下列章節：[機密資訊類型針對美國/英國護照號碼所尋找的功能](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)。
   
-使用不同的內建機密資訊類型，請參閱下列文章，以瞭解其他類型所需的資訊：[機密資訊類型的外觀](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+使用不同的內建機密資訊類型，請參閱下列文章，以瞭解其他類型所需的資訊： [機密資訊類型的外觀](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

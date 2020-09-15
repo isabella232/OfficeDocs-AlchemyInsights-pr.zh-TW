@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 49365a139a97ebde1b1c0c3db710b5b03cfb8738
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584717"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680891"
 ---
 # <a name="contact-us-by-clicking-the-headphone-button"></a>按一下耳機按鈕以與我們聯繫
 
@@ -24,4 +25,4 @@ ms.locfileid: "42584717"
 
 ![按一下耳機圖示，與我們聯繫。](media/contact-us-headphone-icon.png)
 
-您可以繼續與其他應用程式互動，即使您已開始聯繫我們會話。 按一下 app 內的任何其他地方，即可暫時將 [與我們聯繫] 面板降到最低。 若要回到同一個會話，**只要按一下 [與我們聯繫]** 。
+您可以繼續與其他應用程式互動，即使您已開始聯繫我們會話。 按一下 app 內的任何其他地方，即可暫時將 [與我們聯繫] 面板降到最低。 若要回到同一個會話， **只要按一下 [與我們聯繫]** 。

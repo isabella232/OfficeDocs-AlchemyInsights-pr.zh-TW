@@ -6,18 +6,19 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 35859bce89ef1ae9b6a9e706fc316b0ee6cd27d1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507361"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679360"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>使用社交安全性號碼的 DLP 問題
 
@@ -25,7 +26,7 @@ ms.locfileid: "44507361"
 
 **主旨 ssn 的 DLP 問題**
 
-當您在 Microsoft 365 中使用敏感資訊類型時，**資料遺失防護（DLP）** 未使用包含**社交安全性號碼（SSN）** 的內容時，是否發生問題？ 如果是的話，請確定您的內容包含 DLP 原則所要的內容所需的資訊。 
+您在 **資料遺失防護 ** 方面是否有問題 (DLP) 無法處理包含 **社會保險號碼的內容 (SSN) ** 在 Microsoft 365 中使用敏感資訊類型時 SSN？ 如果是的話，請確定您的內容包含 DLP 原則所要的內容所需的資訊。 
   
 例如，對於設定置信級為85% 的 SSN 原則，會評估下列專案，而且必須偵測到要觸發的規則：
   
@@ -33,13 +34,13 @@ ms.locfileid: "44507361"
 
 - **[模式：](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** 四種功能會在四種不同的模式中尋找主旨 ssn：
 
-  - Func_ssn 會2011以主旨 ssn 的強格式格式化，並以短劃線或空格格式化（ddd-dd-dddd 或 ddd dd dddd）來尋找
+  - Func_ssn 會找到主旨 ssn，其強格式為2011的強格式設定，格式為破折號或空格 (ddd-dd-dddd 或 ddd dd dddd) 
 
-  - Func_unformatted_ssn 會以預先2011的強格式格式化，以格式化為九個連續數位（ddddddddd）的主旨 ssn，來尋找
+  - Func_unformatted_ssn 會以2011的預先設定格式將其強格式設定為九個連續位數 (ddddddddd 的主旨 ssn) 
 
-  - Func_randomized_formatted_ssn 會找到以短劃線或空格格式化的2011後主旨 ssn （ddd-dd-dddd 或 ddd dd dddd）
+  - Func_randomized_formatted_ssn 會找到以破折號或空格格式化的2011後主旨 ssn， (ddd-dd-dddd 或 ddd dd dddd) 
 
-  - Func_randomized_unformatted_ssn 尋找未格式化為九個連續數位的2011後主旨 ssn （ddddddddd）
+  - Func_randomized_unformatted_ssn (ddddddddd 中尋找未格式化為九個連續數位的2011後主旨 ssn) 
 
 - **[Checksum：](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** 否，沒有檢查
 
@@ -47,9 +48,9 @@ ms.locfileid: "44507361"
 
   - [函數 Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80)找到符合模式的內容。
 
-  - 會找到來自[Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn)的關鍵字。 關鍵字的範例包括：「*社會保險」、「社交安全性 #，Soc Sec，SSN* 。 例如，下列範例會觸發 DLP SSN 原則： **SSN： 489-36-8350**
+  - 會找到來自 [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) 的關鍵字。 關鍵字的範例包括：「  *社會保險」、「社交安全性 #，Soc Sec，SSN*  。 例如，下列範例會觸發 DLP SSN 原則： **SSN： 489-36-8350**
   
 如需針對您的內容偵測主旨 ssn 時所需的詳細資訊，請參閱本文的下列章節：[機密資訊類型針對主旨 ssn 的外觀](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)。
   
-使用不同的內建機密資訊類型，請參閱下列文章，以瞭解其他類型所需的資訊：[機密資訊類型的外觀](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+使用不同的內建機密資訊類型，請參閱下列文章，以瞭解其他類型所需的資訊： [機密資訊類型的外觀](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,16 +13,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: fea617989f32b902846744658e170829b1fdaf5d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b14c1f32ccfb5eda2345b302edeef1ff817cfe42
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507613"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679873"
 ---
 # <a name="deleting-users"></a>刪除使用者
 
-如果您想要立即封鎖使用者存取，並必須保留其資訊，請參閱[封鎖先前員工對 Microsoft 365 資料的存取](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data)。
+如果您想要立即封鎖使用者存取，並必須保留其資訊，請參閱 [封鎖先前員工對 Microsoft 365 資料的存取](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data)。
   
-如果您只想要刪除使用者且不關心任何資料，請參閱[刪除組織中的使用者](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user)。 這會立即釋放其授權。
+如果您只想要刪除使用者且不關心任何資料，請參閱 [刪除組織中的使用者](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user)。 這會立即釋放其授權。
   

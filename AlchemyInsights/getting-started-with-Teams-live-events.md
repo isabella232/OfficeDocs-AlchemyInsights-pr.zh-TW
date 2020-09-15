@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 6ddb1e74d6c7217303da4f21a3bd71cdab3eb871
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 979555a6fba46437adaf7e8c201cb9d6c4a8e965
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563609"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677270"
 ---
 # <a name="getting-started-with-teams-live-events"></a>開始使用 Teams 即時活動
 
