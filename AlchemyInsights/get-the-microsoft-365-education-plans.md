@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4979"
-ms.openlocfilehash: 78f4be0724324c8b328cdd82b4aae026f190198f
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
+ms.openlocfilehash: 0f88a44e92a1bf773ee900b1ad6ba2d349f08af0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812683"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706946"
 ---
 # <a name="get-the-microsoft-365-education-plans"></a>取得 Microsoft 365 教育版方案
 
