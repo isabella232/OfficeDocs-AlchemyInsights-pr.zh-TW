@@ -5,29 +5,30 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 72449f1edff38ad0c7100da0d144b59f3072c1c3
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c0256ec8ff28b61b1c24d3c773c1ba7eb03cfcc1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579784"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695206"
 ---
-# <a name="mailbox-quota-exceeded"></a><span data-ttu-id="c96d5-102">超過信箱配額</span><span class="sxs-lookup"><span data-stu-id="c96d5-102">Mailbox Quota Exceeded</span></span>
+# <a name="mailbox-quota-exceeded"></a><span data-ttu-id="d0a21-102">超過信箱配額</span><span class="sxs-lookup"><span data-stu-id="d0a21-102">Mailbox Quota Exceeded</span></span>
 
-<span data-ttu-id="c96d5-103">您已超過帳戶的信箱配額。</span><span class="sxs-lookup"><span data-stu-id="c96d5-103">You have exceeded your mailbox quota for your account.</span></span> <span data-ttu-id="c96d5-104">為了提高效能，您可以採取數個步驟來縮小收件匣的大小。</span><span class="sxs-lookup"><span data-stu-id="c96d5-104">There are several steps you can take to reduce the size of your inbox for better performance.</span></span>
+<span data-ttu-id="d0a21-103">您已超過帳戶的信箱配額。</span><span class="sxs-lookup"><span data-stu-id="d0a21-103">You have exceeded your mailbox quota for your account.</span></span> <span data-ttu-id="d0a21-104">為了提高效能，您可以採取數個步驟來縮小收件匣的大小。</span><span class="sxs-lookup"><span data-stu-id="d0a21-104">There are several steps you can take to reduce the size of your inbox for better performance.</span></span>
 
-1. <span data-ttu-id="c96d5-105">刪除較舊的收件匣專案。</span><span class="sxs-lookup"><span data-stu-id="c96d5-105">Delete older inbox items.</span></span> <span data-ttu-id="c96d5-106">您可以透過設定自訂的輕掃動作，在應用程式中快速執行這項動作：**設定 > 滑動選項**。</span><span class="sxs-lookup"><span data-stu-id="c96d5-106">You can do this quickly in the app by setting a custom Swipe motion: **Settings > Swipe Options**.</span></span> <span data-ttu-id="c96d5-107">使用此集合，您可以在收件匣中輕鬆地透過您的收件匣進行輕掃，以加以清除。</span><span class="sxs-lookup"><span data-stu-id="c96d5-107">With this set, you can easily swipe your way through your inbox to clear it out.</span></span>
+1. <span data-ttu-id="d0a21-105">刪除較舊的收件匣專案。</span><span class="sxs-lookup"><span data-stu-id="d0a21-105">Delete older inbox items.</span></span> <span data-ttu-id="d0a21-106">您可以透過設定自訂的輕掃動作，在應用程式中快速執行這項動作： **設定 > 滑動選項**。</span><span class="sxs-lookup"><span data-stu-id="d0a21-106">You can do this quickly in the app by setting a custom Swipe motion: **Settings > Swipe Options**.</span></span> <span data-ttu-id="d0a21-107">使用此集合，您可以在收件匣中輕鬆地透過您的收件匣進行輕掃，以加以清除。</span><span class="sxs-lookup"><span data-stu-id="d0a21-107">With this set, you can easily swipe your way through your inbox to clear it out.</span></span>
 
-2. <span data-ttu-id="c96d5-108">清空 [垃圾郵件] 資料夾。</span><span class="sxs-lookup"><span data-stu-id="c96d5-108">Empty your spam folders.</span></span> <span data-ttu-id="c96d5-109">直接移至 [垃圾郵件] 資料夾，然後按**空白垃圾郵件**。</span><span class="sxs-lookup"><span data-stu-id="c96d5-109">Go directly into your spam folders and press **empty spam**.</span></span>
+2. <span data-ttu-id="d0a21-108">清空 [垃圾郵件] 資料夾。</span><span class="sxs-lookup"><span data-stu-id="d0a21-108">Empty your spam folders.</span></span> <span data-ttu-id="d0a21-109">直接移至 [垃圾郵件] 資料夾，然後按 **空白垃圾郵件**。</span><span class="sxs-lookup"><span data-stu-id="d0a21-109">Go directly into your spam folders and press **empty spam**.</span></span>
 
-3. <span data-ttu-id="c96d5-110">在 Android 上，您可以按一下一次以清空垃圾桶資料夾。</span><span class="sxs-lookup"><span data-stu-id="c96d5-110">On Android, you may empty your trash folders with one click.</span></span> <span data-ttu-id="c96d5-111">直接移至垃圾桶資料夾，然後按**空白垃圾箱**。</span><span class="sxs-lookup"><span data-stu-id="c96d5-111">Go directly into your trash folder and press **empty trash**.</span></span> 
+3. <span data-ttu-id="d0a21-110">在 Android 上，您可以按一下一次以清空垃圾桶資料夾。</span><span class="sxs-lookup"><span data-stu-id="d0a21-110">On Android, you may empty your trash folders with one click.</span></span> <span data-ttu-id="d0a21-111">直接移至垃圾桶資料夾，然後按 **空白垃圾箱**。</span><span class="sxs-lookup"><span data-stu-id="d0a21-111">Go directly into your trash folder and press **empty trash**.</span></span> 
 
-4. <span data-ttu-id="c96d5-112">將附件儲存至 OneDrive，使其不會儲存在您的信箱中。</span><span class="sxs-lookup"><span data-stu-id="c96d5-112">Save your attachments to OneDrive so they aren't stored in your mailbox.</span></span> <span data-ttu-id="c96d5-113">如需詳細資訊，請參閱[Outlook.com 中的儲存限制](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e)。</span><span class="sxs-lookup"><span data-stu-id="c96d5-113">See [Storage limits in Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) for more information.</span></span> 
+4. <span data-ttu-id="d0a21-112">將附件儲存至 OneDrive，使其不會儲存在您的信箱中。</span><span class="sxs-lookup"><span data-stu-id="d0a21-112">Save your attachments to OneDrive so they aren't stored in your mailbox.</span></span> <span data-ttu-id="d0a21-113">如需詳細資訊，請參閱 [Outlook.com 中的儲存限制](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) 。</span><span class="sxs-lookup"><span data-stu-id="d0a21-113">See [Storage limits in Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) for more information.</span></span> 
 
-<span data-ttu-id="c96d5-114">如果您是 Microsoft 365 使用者，您也可以要求從您的 IT 系統管理員增加信箱。</span><span class="sxs-lookup"><span data-stu-id="c96d5-114">If you are a Microsoft 365 user, you may also request a mailbox increase from your IT admin.</span></span>
+<span data-ttu-id="d0a21-114">如果您是 Microsoft 365 使用者，您也可以要求從您的 IT 系統管理員增加信箱。</span><span class="sxs-lookup"><span data-stu-id="d0a21-114">If you are a Microsoft 365 user, you may also request a mailbox increase from your IT admin.</span></span>
