@@ -1,36 +1,37 @@
 ---
-title: 管理 SharePoint Online 中的搜尋結構描述
+title: 在 SharePoint Online 中管理搜尋架構
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 9836cf139e97fc556995a8f0ad38c51c5c2392ac
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f2d8d3e07fe32d21af484e4c59e0f5ac6fe8081c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40042954"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770542"
 ---
-# <a name="manage-search-schema-in-sharepoint-online"></a>管理 SharePoint Online 中的搜尋結構描述
+# <a name="manage-search-schema-in-sharepoint-online"></a>在 SharePoint Online 中管理搜尋架構
 
-搜尋結構描述可以控制使用者可以搜尋的使用者可以搜尋，您可以搜尋網站上顯示結果。 
+搜尋架構會控制使用者可以搜尋的內容、使用者可搜尋的內容，以及在搜尋網站上顯示結果的方式。 
 
-請參閱[管理 SharePoint Online 的搜尋結構描述](https://docs.microsoft.com/sharepoint/manage-search-schema)]，以了解如何： 
-- 變更搜尋結構描述。
-- 建立 managed 的屬性。
-- 對應編目的對應至 managed 屬性的編目屬性。
+請參閱 [管理 SharePoint Online 中的搜尋架構](https://docs.microsoft.com/sharepoint/manage-search-schema) ，瞭解如何： 
+- 變更搜尋架構。
+- 建立 managed 屬性。
+- 將編目編目屬性對應到 managed 屬性。
 
-請注意下列有關管理搜尋結構描述中：
+請注意下列有關管理搜尋架構的事項：
 
-- 如果您收到警告，告知**應用程式已暫停**的結構描述變更時，這是只有暫時服務維護為發生。 
+- 如果您收到一則警告，指出在進行架構變更時 **已暫停應用程式** ，這只是服務維護髮生時的暫時性。 
 
-    如果已經過了超過 24 小時後，仍然會出現警告，請登支援案例。
-- 當您變更 managed 的屬性，或新增新的時內容已重新編目之後才所做的變更才會生效。 在 SharePoint Online 中，編目會發生自動根據已定義的編目的排程。
-- 若要確保您的變更進行編目，您可以特別[要求重新編製索引的清單或文件庫](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
+    超過24小時後，您仍會遇到警告，請記錄支援案例。
+- 當您變更 managed 屬性或新增新的屬性時，只有重新編目內容之後，變更才會生效。 在線上 SharePoint 中，編目會根據定義的編目排程自動進行。
+- 若要確定您的變更已編目，您可以特別 [要求重新建立清單或文件庫的索引](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
 
-搜尋結構描述的完整概觀，請參閱[介紹搜尋結構描述](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
+如需搜尋架構的完整綜述，請參閱 [簡介搜尋架構](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
 
 

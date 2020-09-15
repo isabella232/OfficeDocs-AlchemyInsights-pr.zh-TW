@@ -1,31 +1,32 @@
 ---
-title: 輸入 IMAP 連接埠號碼
+title: 輸入 IMAP 埠號碼
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: 8557902e9ea73892eab24c3073784abf29df0fa9
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278814"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709430"
 ---
-# <a name="enter-imap-port-numbers"></a>輸入 IMAP 連接埠號碼
+# <a name="enter-imap-port-numbers"></a>輸入 IMAP 埠號碼
 
-透過 [進階設定] 畫面登入，並新增您的連接埠詳細資料，內送和外寄伺服器地址中內嵌冒號後方。 （您可以從您的電子郵件服務提供者取得這些詳細資料）。 
+透過 [預先安裝] 畫面登入，並使用您的內送和外寄伺服器位址，在冒號的後面新增埠詳細資料。  (您可以從電子郵件服務提供者取得這些詳細資料。 )  
 
-移至 [**設定** > **新增帳戶** > **IMAP** >，按一下 [**顯示進階設定**;然後輸入您的詳細資料。 
+移至 [**設定**] [  >  **新增帳戶**  >  **IMAP** >]，然後按一下 [**顯示高級設定**]，然後輸入您的詳細資料。 
 
-*內送郵件伺服器*： imap.servername.com:000 （通常是 993 或 143） 
+內送*郵件伺服器*： imap.servername.com:000 (通常是993或 143)  
 
-*外寄郵件伺服器*： smtp.servername.com:000 （通常是 465 或 25） 
+*待發郵件伺服器*： smtp.servername.com:000 (通常是465或 25)  
 
-請記得冒號很重要。 
+請記住，冒號很重要。 

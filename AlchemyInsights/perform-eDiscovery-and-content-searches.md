@@ -6,6 +6,7 @@ manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5ed9e19f590029267368f8d4dcce7e1a85283a26
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510167"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721437"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>如何執行內容搜尋和 eDiscovery 搜尋
 
@@ -26,12 +27,12 @@ ms.locfileid: "44510167"
 
 **執行內容搜尋**
 
-1. 移至[安全性 & 合規性中心](https://protection.office.com)並登入。
-2. 按一下 [**搜尋 > 內容搜尋**]。
-3. 按一下 [**新增搜尋**] 以建立新的搜尋。
+1. 移至 [安全性 & 合規性中心](https://protection.office.com) 並登入。
+2. 按一下 [ **搜尋 > 內容搜尋**]。
+3. 按一下 [ **新增搜尋** ] 以建立新的搜尋。
 4. 輸入所需的搜尋條件，包括關鍵字和內容位置。  
-5. 按一下 [**儲存 & 執行**] 以命名搜尋，然後啟動它，然後預覽結果。
+5. 按一下 [ **儲存 & 執行** ] 以命名搜尋，然後啟動它，然後預覽結果。
 
-如需有關內容搜尋的詳細指示，請匯出結果，以及建立 eDiscovery 案例以保留資料，請參閱[內容搜尋](https://docs.microsoft.com/microsoft-365/compliance/content-search)和[eDiscovery 案例](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)。
+如需有關內容搜尋的詳細指示，請匯出結果，以及建立 eDiscovery 案例以保留資料，請參閱 [內容搜尋](https://docs.microsoft.com/microsoft-365/compliance/content-search) 和 [eDiscovery 案例](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)。
 
-查看有關內容搜尋的詳細資訊，請查看[需求和限制](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)，並[調查已部分索引的專案](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)和其他要注意的結果。
+查看有關內容搜尋的詳細資訊，請查看 [需求和限制](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) ，並  [調查已部分索引的專案](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) 和其他要注意的結果。
