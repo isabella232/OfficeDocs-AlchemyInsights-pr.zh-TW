@@ -6,31 +6,32 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 9a40f52637bc8aa7894754118f0f862aa6c71fe2
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: bd3a6c0d7206801ff76be121c4878b8343cc9886
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582766"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691566"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>修正與外部使用者 SharePoint 內容共用的問題
 
 請確定您的組織已開啟外部共用：
   
-1. 移至[ &amp; Microsoft 365 系統管理中心中的 [服務增益集] 頁面](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)，然後按一下 [**網站**]。
+1. 移至 [ &amp; Microsoft 365 系統管理中心中的 [服務增益集] 頁面](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)，然後按一下 [ **網站**]。
     
 2. 確定設定已開啟「開啟」。 如果選取 [只是現有的外部使用者]，請確定外部使用者已列在 Microsoft 365 系統管理中心中。
     
 請確定網站已開啟外部共用。 針對傳統網站集合：
   
-1. 在 [新增 SharePoint 系統管理中心] 的左窗格中，按一下 [**網站**]。
+1. 在 [新增 SharePoint 系統管理中心] 的左窗格中，按一下 [ **網站**]。
     
-2. 選取網站，然後按一下功能區上的 [**共用**]。
+2. 選取網站，然後按一下功能區上的 [ **共用**]。
     
 針對屬於 Microsoft 365 群組或通訊網站的小組網站：
   

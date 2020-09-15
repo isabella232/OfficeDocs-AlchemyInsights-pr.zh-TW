@@ -5,17 +5,18 @@ author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: c2feb6da651d8b3eb7af6a057335b28d26f9e7f6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44664237"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690954"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>錯誤：此電腦上的規則不符合
 
@@ -25,7 +26,7 @@ Outlook 小組已在組建12928.10000 中實施修正。 此修正已在內幕�
 
 在提供修正程式之前，請使用下列解決方法：
 
-**解決方法**：在最近的報告中，發生在 Outlook desktop 中僅已建立用戶端規則的問題。 若繼續遇到問題，請考慮刪除規則，然後在 OWA （Outlook Web App）中僅建立和編輯規則，直到問題解決為止。
+**解決方法**：在最近的報告中，發生在 Outlook desktop 中僅已建立用戶端規則的問題。 若繼續遇到問題，請考慮刪除規則，然後在 OWA (Outlook Web App) 中只建立和編輯規則，直到問題解決為止。
 
-如果您無法手動刪除規則，您可以在啟動 outlook 時執行 outlook 命令，方法是執行/cleanrules。 這會刪除用戶端和伺服器規則。 它會刪除 Outlook 設定檔中所有帳戶的所有規則。 此命令會在命令列參數文章中進一步記載。
+如果您無法手動刪除規則，您可以在啟動 Outlook 時執行 Outlook.exe/cleanrules.，以執行 Outlook 命令。 這會刪除用戶端和伺服器規則。 它會刪除 Outlook 設定檔中所有帳戶的所有規則。 此命令會在命令列參數文章中進一步記載。
 
