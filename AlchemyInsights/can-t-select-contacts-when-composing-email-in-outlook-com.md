@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -14,13 +15,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: 9d674538e9d84f47ab7ee51975e752ac24f6e1ea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 439a9889a688c1945b2c907f71fa7a9a73e9b0e6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711658"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683969"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="38157-102">無法在撰寫電子郵件時選取連絡人</span><span class="sxs-lookup"><span data-stu-id="38157-102">Can't select contacts when composing email</span></span>
+# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="e6b66-102">無法在撰寫電子郵件時選取連絡人</span><span class="sxs-lookup"><span data-stu-id="e6b66-102">Can't select contacts when composing email</span></span>
 
-<span data-ttu-id="38157-103">在撰寫新的電子郵件時，有些客戶按一下 [**收件者** **] 或 [** 副本] 按鈕時，看不到他們的連絡人清單。</span><span class="sxs-lookup"><span data-stu-id="38157-103">When composing a new email, some customers don't see their list of contacts when they click the **To** or **Cc** buttons.</span></span> <span data-ttu-id="38157-104">若要選取連絡人，請從 [**收件者** **] 或 [** 副本] 欄位開始輸入，並顯示相關的連絡人。</span><span class="sxs-lookup"><span data-stu-id="38157-104">To select a contact, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span>
+<span data-ttu-id="e6b66-103">在撰寫新的電子郵件時，有些客戶按一下 [ **收件者** **] 或 [** 副本] 按鈕時，看不到他們的連絡人清單。</span><span class="sxs-lookup"><span data-stu-id="e6b66-103">When composing a new email, some customers don't see their list of contacts when they click the **To** or **Cc** buttons.</span></span> <span data-ttu-id="e6b66-104">若要選取連絡人，請從 [ **收件者** **] 或 [** 副本] 欄位開始輸入，並顯示相關的連絡人。</span><span class="sxs-lookup"><span data-stu-id="e6b66-104">To select a contact, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span>
