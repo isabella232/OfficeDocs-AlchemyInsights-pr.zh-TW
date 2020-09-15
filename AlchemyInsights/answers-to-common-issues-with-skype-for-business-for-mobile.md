@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/30/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5985"
 - "9003195"
-ms.openlocfilehash: 2e3a44bffef4da79d42bbf91c80134d6cc5a8dba
-ms.sourcegitcommit: b9c57ee50d59189784dc57d70a235fe15a9ee6c7
+ms.openlocfilehash: e7e95cb26c847693982f376e6282bae5155f6c7d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46528304"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717748"
 ---
 # <a name="answers-to-common-issues-with-skype-for-business-for-mobile"></a>行動裝置版商務用 Skype 的常見問題解答
 
