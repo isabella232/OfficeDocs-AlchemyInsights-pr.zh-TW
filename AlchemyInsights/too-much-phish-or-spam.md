@@ -1,25 +1,26 @@
 ---
-title: 665 您收到太多的釣魚程式，或在您的信箱中垃圾郵件？
+title: 665您在信箱中接收到太多網路釣魚或垃圾郵件嗎？
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 91c2c347e09706c1e3730eecba053035876d6931
-ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
+ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911622"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700230"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>您會收到太多的釣魚程式或在您的信箱中垃圾郵件？
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>您在信箱中接收到太多網路釣魚或垃圾郵件嗎？
 
-Microsoft 365 系統管理員，若要判斷網路釣魚或垃圾郵件已傳遞的原因，最好是提交給 Microsoft[提交檔案總管](https://protection.office.com/reportsubmission)中的範例。 您會收到郵件篩選相關的即時運算] 意見反應和有問題的原因。
+做為 Microsoft 365 系統管理員，判斷網路釣魚或垃圾郵件傳遞原因的最佳方式，就是在 [提交的瀏覽器](https://protection.office.com/reportsubmission)中將範例送出至 Microsoft。 您將會收到與郵件篩選相關的立即意見反應，以及為什麼會出現問題。
 
-若要讓 easer，您可以允許使用者直接向 Microsoft 報告以透過[報告訊息增益集](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)。
+若要讓它 easer，您可以讓您的使用者透過 [報告郵件增益集](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)直接向 Microsoft 報告。
 
-**您知道嗎？**： 您現在可以送出範例直接從[郵件追蹤](https://protection.office.com/messagetrace)和 E5/ATP 計劃 2 客戶可以送出範例從[威脅總管](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)。
+**您知道嗎？**：現在您可以直接從 [郵件追蹤](https://protection.office.com/messagetrace) 和 E5/ATP 方案2提交範例，客戶可以從 [威脅瀏覽器](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)提交範例。
