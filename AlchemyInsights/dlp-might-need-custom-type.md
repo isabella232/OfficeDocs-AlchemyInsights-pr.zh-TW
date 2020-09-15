@@ -6,19 +6,19 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 1ec8959a479f1a8f7bfcffb55f440e8c4ab435fb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 72b16d437f97de27cbdc364f022c3e2059b31ef0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507505"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712175"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP 可能需要自訂類型
 
@@ -26,18 +26,18 @@ ms.locfileid: "44507505"
 
 **DLP 可能需要自訂資訊類型**
 
-使用資料遺失防護（DLP）原則，您可以識別及保護組織中的機密資料。 在某些情況下，您可能需要建立您自己的**自訂**敏感資訊類型，以保護組織的資料。
+透過資料遺失防護 (DLP) 原則，您可以識別及保護組織中的機密資料。 在某些情況下，您可能需要建立您自己的 **自訂** 敏感資訊類型，以保護組織的資料。
 
 例如，您的組織可能需要識別及保護員工 IDs 或組織的某些特定格式的其他資料。如果是的話，請參閱下列文章以取得詳細資訊。
   
  **自訂內建的敏感性資訊類型**
   
-如果內建的機密資訊類型只會滿足您的需求，只需要進行一些調整，您就可以[自訂內建的敏感資訊類型](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type)。 例如，您可以新增或移除關鍵字，也可以新增或移除支援的證據，例如日期或位址。
+如果內建的機密資訊類型只會滿足您的需求，只需要進行一些調整，您就可以 [自訂內建的敏感資訊類型](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type)。 例如，您可以新增或移除關鍵字，也可以新增或移除支援的證據，例如日期或位址。
   
  **建立自訂的敏感性資訊類型**
   
-不過，如果您需要完全識別及保護不同類型的敏感資訊，您可以在安全性 & 合規性中心的 UI 中[建立自訂機密資訊類型](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)。
+不過，如果您需要完全識別及保護不同類型的敏感資訊，您可以在安全性 & 合規性中心的 UI 中 [建立自訂機密資訊類型](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) 。
   
 **在安全性與合規性中心 PowerShell 中建立自訂敏感性資訊類型**
 
-最後，如果使用者介面並未提供您所需的所有選項，您可以[在安全性 & 規範中心 PowerShell 中建立自訂機密資訊類型](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell)。 從 XML 檔開始，您可以使用每個可用的選項。
+最後，如果使用者介面並未提供您所需的所有選項，您可以 [在安全性 & 規範中心 PowerShell 中建立自訂機密資訊類型](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell)。 從 XML 檔開始，您可以使用每個可用的選項。
