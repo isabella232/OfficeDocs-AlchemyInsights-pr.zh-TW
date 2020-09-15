@@ -6,21 +6,22 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: 48b9c2de27f8d7f52215c3a3d547bdf746a3a4cd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 731aa2e155ba3fdaaca7fed9dd51b3e4a3f20f29
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676704"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664233"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="82af6-103">5.7.750 用戶端無法從未註冊的網域傳送郵件</span><span class="sxs-lookup"><span data-stu-id="82af6-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="fd18e-103">5.7.750 用戶端無法從未註冊的網域傳送郵件</span><span class="sxs-lookup"><span data-stu-id="fd18e-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
 
-<span data-ttu-id="82af6-104">當您租使用者（新增為公認的網域並已驗證）的網域傳送大宗郵件時，就會發生此錯誤。</span><span class="sxs-lookup"><span data-stu-id="82af6-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in your tenant (added as accepted domains and validated).</span></span>
+<span data-ttu-id="fd18e-104">當您租使用者中未布建的網域傳送大宗郵件時，就會發生此錯誤 (新增為公認的網域並驗證) 。</span><span class="sxs-lookup"><span data-stu-id="fd18e-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in your tenant (added as accepted domains and validated).</span></span>
 
-<span data-ttu-id="82af6-105">若要避免這種錯誤，您可以使用憑證型郵件流程連接器，其中憑證的網域為布建的網域，您也可以布建所有傳送網域。</span><span class="sxs-lookup"><span data-stu-id="82af6-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+<span data-ttu-id="fd18e-105">若要避免這種錯誤，您可以使用憑證型郵件流程連接器，其中憑證的網域為布建的網域，您也可以布建所有傳送網域。</span><span class="sxs-lookup"><span data-stu-id="fd18e-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
