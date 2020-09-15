@@ -5,18 +5,19 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: f75fe2a4d6ceb094dcf490b6c2a21b4c8254c4ce
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8e0742a528a8bf5beefb32e32c5139b35ecad38d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062131"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698528"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>啟動並指派軟體即服務應用程式授權 
 
@@ -26,7 +27,7 @@ ms.locfileid: "44062131"
 
 2. 尋找並選取您要管理的應用程式。
 
-3. 在 [**授權**] 底下，選取 [**設定帳戶**]。  
+3. 在 [ **授權**] 底下，選取 [ **設定帳戶**]。  
 
 ## <a name="to-assign-app-licenses"></a>指派應用程式授權
 
@@ -34,4 +35,4 @@ ms.locfileid: "44062131"
 
 2. 尋找並選取您要管理的應用程式。  
 
-3. 在 [**設定 & 動作**] 底下，選取要**在 publisher 入口網站中管理**的連結。
+3. 在 [ **設定 & 動作**] 底下，選取要 **在 publisher 入口網站中管理**的連結。
