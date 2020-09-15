@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/22/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1073"
 - "6700006"
-ms.openlocfilehash: 7fed65e6749f72e6264070b360a52e72968fc8da
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+ms.openlocfilehash: 929400dcf0ca18ce8f52cb11e5c907064449480e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45266414"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716884"
 ---
 # <a name="application-protection-policy"></a>應用程式保護原則
 

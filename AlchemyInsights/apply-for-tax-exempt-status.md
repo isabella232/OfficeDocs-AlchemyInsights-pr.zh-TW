@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 91b34fb686206bd3b5e215bb5ed7cb7847028929
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 0e84de8568adca684e4d2497438f54c9d31ea49e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286494"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716776"
 ---
 # <a name="apply-for-tax-exempt-status"></a>申請免稅資格
 
-請備妥下列文件。 您必須[啟動服務要求](https://docs.microsoft.com/office365/admin/contact-support-for-business-products)來申請免稅資格。
+請備妥下列文件。 您必須[啟動服務要求](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)來申請免稅資格。
 
 - **美國** - 請備妥**營業稅免稅證明**。
 
@@ -32,4 +33,4 @@ ms.locfileid: "43286494"
 
 - **波多黎各** - 請備妥 **Certificado de Compras Exentas**。
 
-如需詳細資訊，請參閱[稅務資訊](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide)。
+如需詳細資訊，請參閱[稅務資訊](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)。
