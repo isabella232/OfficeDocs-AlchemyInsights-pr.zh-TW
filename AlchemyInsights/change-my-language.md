@@ -5,31 +5,32 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 98f30d8e0a59ee9d735818d670755affbe627d54
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 2bb937c2ac2d95680dd1b247765c42ec0247d9f0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286057"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682961"
 ---
 # <a name="change-my-language"></a>變更我的語言
 
-Outlook app 自動翻譯成您的裝置設為語言。 
+Outlook 應用程式會自動轉譯成您的裝置設定的語言。 
 
-（請參閱[在 Outlook 中支援的語言清單](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated)）。 
+ (查看 [Outlook 中支援的語言清單](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated)。 )  
 
-**若要變更您的裝置上的語言**： 
+**若要變更裝置上的語言**： 
 
 **在 Android 上**： 
 
-- 裝置設定 > 語言和輸入 
+- > 語言和輸入的裝置設定 
 
-**在 iOS 上**： 
+**IOS**： 
 
-- 裝置設定 > 一般 > 語言 & 區域 
+- > 一般 > 語言 & 地區的裝置設定 

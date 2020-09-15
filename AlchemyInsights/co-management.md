@@ -5,34 +5,35 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: bd19ae3bfdf5005fe4e495e78749a393128a2184
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770882"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681251"
 ---
 # <a name="co-management"></a>共同管理
 
-**從 Config 管理員混合式移轉至 Intune 的必要條件**
+**從 Config Manager 混合至 Intune 的必要條件**
 
-- 檢閱[本文](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa)。
-- [新增您的使用者 Intune 授權](https://docs.microsoft.com/intune/licenses-assign)。
-- 設定共同撰寫管理時，請使用[Edge 瀏覽器](https://www.microsoft.com/windows/microsoft-edge)。
+- 請參閱 [本文](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa)。
+- [將 Intune 授權新增至您的使用者](https://docs.microsoft.com/intune/licenses-assign)。
+- 設定共同管理時使用 [Edge browser](https://www.microsoft.com/windows/microsoft-edge) 。
 
-**如何以我 Config 管理員用戶端上安裝 Intune 管理的裝置**
+**如何在 Intune 管理的裝置上安裝 Config Manager 用戶端**
 
-請參閱[Intune MDM 受管理的 Windows 裝置](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)。
+請參閱 [INTUNE MDM Managed Windows 裝置](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)。
 
-**如果我只想變更 MDM 授權單位？**
+**如果我只想變更 MDM 授權，該怎麼辦？**
 
-MDM 授權單位可以將要變更但不開啟支援案例。 請檢閱下列文件，以協助在變更 MDM 授權單位：
+您可以在不開啟支援案例的情況下變更 MDM 授權。 請複查下列檔，以協助變更 MDM 授權：
 
-- [變更 MDM 授權單位從 Configuration Manager Intune 獨立](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [變更 MDM 授權單位，從 Intune 獨立到設定管理員](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+- [將 MDM 授權從 Configuration Manager 變更為 Intune 獨立](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [將 MDM 授權從 Intune 獨立變更為 Configuration Manager](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)

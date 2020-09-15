@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5865"
 - "14"
-ms.openlocfilehash: 39bf44303ae7d659d545363d5ebf396b1ff330a2
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 550cd3a9ec8b6e9f647a423ed35e2a249847a308
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44716512"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682223"
 ---
 # <a name="change-nameservers-at-namecheap"></a>在 Namecheap 變更名稱伺服器
 
