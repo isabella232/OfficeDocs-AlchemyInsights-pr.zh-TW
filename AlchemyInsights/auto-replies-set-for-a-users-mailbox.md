@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 03c530e7ce5f00fce2222cf9993930b97e5a2818
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788873"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715120"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>為使用者信箱設定自動回覆
 
