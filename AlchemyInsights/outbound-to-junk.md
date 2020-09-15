@@ -6,25 +6,26 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 869cd3d9fb8e5fce291244e4a39754d074b11358
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7e6f8d1a161d3eee398230750cc98a46579a56b1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511715"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769174"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>輸出電子郵件至 [垃圾郵件] 資料夾
 
 如果您看到的輸出郵件標示為垃圾郵件，請執行下列步驟：
 
-- 若尚未設定，請考慮設定[輸出垃圾郵件原則通知](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)。
+- 若尚未設定，請考慮設定 [輸出垃圾郵件原則通知](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)。
 
-- 使用[郵件追蹤](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)以查看輸出郵件是否有其他詳細資料的**事件值：** **使用高風險傳遞集**區。
+- 使用 [郵件追蹤](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) 以查看輸出郵件是否有其他詳細資料的 **事件值：** **使用高風險傳遞集**區。
 
   請查看郵件內容，以查看可能視為垃圾郵件的郵件內容。 例如，簽章有時候可能會造成許多使用者的問題。
 

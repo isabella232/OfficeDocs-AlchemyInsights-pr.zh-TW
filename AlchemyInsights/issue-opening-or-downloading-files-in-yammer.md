@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/15/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6041"
 - "9003112"
-ms.openlocfilehash: 6dfcbe9abfc23219a61e81785d31c11f7a0fa95c
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: de335e27624caf5a91bdc2913570eba92f627282
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45146761"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695640"
 ---
 # <a name="issue-opening-or-downloading-files-in-yammer"></a>在 Yammer 中發布開啟的或下載的檔案
 

@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1151"
 - "8000073"
-ms.openlocfilehash: ba8cdf7c0b83f1f649d73b92487721eb7b66c3ff
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 803efdcc24eee7082ce90ee439e9836e269bc5b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761123"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769066"
 ---
 # <a name="mon-compte-outlookcom-a-t-pirat"></a>週一至 compte Outlook.com a été piraté
 

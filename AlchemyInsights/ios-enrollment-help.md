@@ -5,27 +5,28 @@ author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: d2f1a6192f58d9225e533da676b2ba588d25d1bc
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: 967088dfda5445d4c77f51eb177dbbb721f8a775
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654332"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695892"
 ---
 # <a name="ios-enrollment-help"></a>iOS 註冊說明
 
-我們已發現您所可能遇到 iOS 註冊一些問題。 以下是一些我們認為可以幫助的文章： 
+我們已注意到，您可能會有一些 iOS 註冊的問題。 以下是一些我們認為可以協助的文章： 
 
-[IOS 註冊的常見錯誤與解決方案](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
+[常見 iOS 註冊錯誤和解決方案](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
 
-[開始使用 Intune 和 iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Intune 和 iOS 快速入門](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
 [一般註冊疑難排解](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[使用疑難排解入口網站的 Intune 來診斷和解決常見註冊失敗](https://docs.microsoft.com/intune/help-desk-operators)
+[使用 Intune 疑難排解入口網站來診斷及解決一般註冊失敗](https://docs.microsoft.com/intune/help-desk-operators)
