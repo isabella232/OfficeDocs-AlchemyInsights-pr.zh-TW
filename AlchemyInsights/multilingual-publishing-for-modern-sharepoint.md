@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002551"
 - "4925"
-ms.openlocfilehash: e8e1911e4162774e09949912ccfe8b5c07a6777e
-ms.sourcegitcommit: 37b142dfe0f09401577144d7f8727bd2c04af0f8
+ms.openlocfilehash: 85e2b195d1c3d7bed8c521301f3ec169d930f058
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43930439"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694881"
 ---
 # <a name="multilingual-publishing-for-modern-sharepoint"></a>適用於新式 SharePoint 的多語言發佈
 

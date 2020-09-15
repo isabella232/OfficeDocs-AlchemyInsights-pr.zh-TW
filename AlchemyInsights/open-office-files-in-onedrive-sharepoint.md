@@ -6,17 +6,18 @@ manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: d4cc404023ab0c5d2fec8731599e06c2d1954c65
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1cb86975327c76ffa184c0652c97ff2463a840f2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698445"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694917"
 ---
 # <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>從 Sharepoint 或 OneDrive 開啟檔案時出現問題 
 
@@ -31,5 +32,5 @@ ms.locfileid: "43698445"
 
 - [在 Office 上執行修復](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-如需詳細資訊或詳細資訊，請參閱文章[修正在 SharePoint 文件庫中開啟檔的問題](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
+如需詳細資訊或詳細資訊，請參閱文章 [修正在 SharePoint 文件庫中開啟檔的問題](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
 

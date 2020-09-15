@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: 3ec340b6a2ee1a3671f72f64b17e46d991d8e0a1
-ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
+ms.openlocfilehash: 1cc6173c1efcf46081781d5836b71ce19cfa7bc2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46844551"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695062"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>管理教育用會議錄製
 
