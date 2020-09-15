@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: a3e3fa3cbaf3ab3c1fcf42e8a564d2b7cd8428eb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3b344e7a4a5f663b15a9f3820d1ff7b28ad61b4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511211"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670643"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>疑難排解 OneDrive 或 SharePoint 中遺失的檔案或資料夾
 
@@ -37,7 +38,7 @@ ms.locfileid: "44511211"
 
 [檢查審計報告](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) </a>透過流覽[這裡](https://protection.office.com/#/unifiedauditlog)
 
-使用 [檔案[活動](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0)] 窗格來檢查檔案的記錄。
+使用 [檔案 [活動](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) ] 窗格來檢查檔案的記錄。
 
 檢查您的本機電腦上的 OneDrive 同步處理用戶端。  如果您是透過 OneDrive 同步處理用戶端來同步處理電腦上的檔案，請檢查 [本地同步處理] 資料夾，以確保已正確上傳。 確定您也在本機電腦上檢查回收站。
 

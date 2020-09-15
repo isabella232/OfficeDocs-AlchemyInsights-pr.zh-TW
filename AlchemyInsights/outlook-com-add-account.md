@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: 8224ded963b3098b78b20f6bb157c183243d769b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 96b0b38522707d0abd3ee9e9b64652061f0c7791
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760979"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672767"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>將其他電子郵件帳戶新增至 Outlook.com
 
@@ -26,12 +27,12 @@ ms.locfileid: "43760979"
 
 若要新增連線的帳戶：
 
-1. 開啟 [[同步處理電子郵件] 設定](https://go.microsoft.com/fwlink/?linkid=875264)。
-2. 在 [**連線的帳戶**] 下，選取**Gmail**或**其他電子郵件帳戶**。
-3. 在 [線上帳戶] 頁面上，輸入顯示名稱（當收件者收到您的電子郵件時，將會看到該名稱，以及您想要連線至 Outlook.com 帳戶的電子郵件帳戶的完整電子郵件地址和密碼）。
+1. 開啟 [ [同步處理電子郵件] 設定](https://go.microsoft.com/fwlink/?linkid=875264)。
+2. 在 [ **連線的帳戶**] 下，選取 **Gmail** 或 **其他電子郵件帳戶**。
+3. 在 [線上帳戶] 頁面上，輸入顯示名稱 (收件者將會看到您) 的電子郵件，以及您想要連線至 Outlook.com 帳戶之電子郵件帳戶的完整電子郵件地址和密碼。
 
-您可以從已連接至 Outlook.com 帳戶的任何帳戶傳送電子郵件。 撰寫電子郵件時，請選取 [**寄件者**]，然後選擇您要使用的電子郵件地址，或[更新您的預設 [發件](https://go.microsoft.com/fwlink/?linkid=875264)人] 位址。
+您可以從已連接至 Outlook.com 帳戶的任何帳戶傳送電子郵件。 撰寫電子郵件時，請選取 [ **寄件者** ]，然後選擇您要使用的電子郵件地址，或 [更新您的預設 [發件](https://go.microsoft.com/fwlink/?linkid=875264)人] 位址。
 
-如需詳細資訊，請閱讀[將其他電子郵件帳戶新增至 Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)。
+如需詳細資訊，請閱讀 [將其他電子郵件帳戶新增至 Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)。
 
-若要建立使用相同 Outlook.com 帳戶的新電子郵件地址，請閱讀[新增或移除電子郵件別名](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)。
+若要建立使用相同 Outlook.com 帳戶的新電子郵件地址，請閱讀 [新增或移除電子郵件別名](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)。

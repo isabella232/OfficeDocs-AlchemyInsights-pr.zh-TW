@@ -5,26 +5,27 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: 244630d2e9cd619ff8802be5c653ec7b2c40486e
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e6b8aad52d492d9db9de9abb9be182fe12d0bd62
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510923"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672983"
 ---
 # <a name="onedrive-common-issues-and-resolutions"></a>OneDrive 常見的問題與解決方式
 
 以下是一些有關 OneDrive 問題的常見主題：
 
-- **安裝程式 OneDrive 同步**處理：[同步處理商務檔案 OneDrive](https://go.microsoft.com/fwlink/?linkid=533375)或同步處理[SharePoint](https://go.microsoft.com/fwlink/?linkid=871666)與 Windows OneDrive 同步用戶端的檔案。  使用 Mac？ 您也可以將檔案[與 OneDrive 同步](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f)處理。
+- **安裝程式 OneDrive 同步**處理： [同步處理商務檔案 OneDrive](https://go.microsoft.com/fwlink/?linkid=533375) 或同步處理 [SharePoint](https://go.microsoft.com/fwlink/?linkid=871666) 與 Windows OneDrive 同步用戶端的檔案。  使用 Mac？ 您也可以將檔案 [與 OneDrive 同步](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f) 處理。
 
-- **疑難排解 OneDrive 同步**處理：如果 OneDrive 不是以您預期的方式同步處理檔案，您可以針對 Windows [OneDrive 同步問題進行疑難排解](https://go.microsoft.com/fwlink/?linkid=866431)。 使用 Mac？ 您也可以[疑難排解其同步](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756)處理的問題。
-- **OneDrive 限制**：深入瞭解當您同步處理 OneDrive 時，適用于檔案名及檔案類型的[限制和限制](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)。
-- **OneDrive 儲存體**：請參閱 how to [change a user 的 OneDrive Storage space](https://docs.microsoft.com/onedrive/change-user-storage)或[manage a OneDrive for Business storage](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68)。
-- **審核記錄**檔：請參閱如何[使用審核記錄搜尋](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)，檢查檔案的活動、資料夾、使用者或許可權。 
+- **疑難排解 OneDrive 同步**處理：如果 OneDrive 不是以您預期的方式同步處理檔案，您可以針對 Windows [OneDrive 同步問題進行疑難排解](https://go.microsoft.com/fwlink/?linkid=866431) 。 使用 Mac？ 您也可以 [疑難排解其同步](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756) 處理的問題。
+- **OneDrive 限制**：深入瞭解當您同步處理 OneDrive 時，適用于檔案名及檔案類型的 [限制和限制](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) 。
+- **OneDrive 儲存體**：請參閱 how to [change a user 的 OneDrive Storage space](https://docs.microsoft.com/onedrive/change-user-storage) 或 [manage a OneDrive for Business storage](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68)。
+- **審核記錄**檔：請參閱如何 [使用審核記錄搜尋](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) ，檢查檔案 (s) 、資料夾 () 、使用者 () 或許可權的活動。 

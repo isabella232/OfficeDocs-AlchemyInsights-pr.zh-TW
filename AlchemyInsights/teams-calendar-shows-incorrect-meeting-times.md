@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003305"
 - "6206"
-ms.openlocfilehash: 73f56b5f7ebd933c67af77873899a1ad55af54c7
-ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
+ms.openlocfilehash: b295faad4a0dbe6a10b17587e34c93e7658cb9cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46844642"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669527"
 ---
 # <a name="teams-calendar-shows-incorrect-meeting-times"></a>Teams 行事曆所顯示的會議時間不正確
 
