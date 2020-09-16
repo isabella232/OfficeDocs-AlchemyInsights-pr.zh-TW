@@ -1,33 +1,34 @@
 ---
-title: 永久刪除在 Outlook 中的電子郵件
+title: 永久刪除 Outlook 中的電子郵件
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: d9b74b39c344559c87147d9f8efb6b6e6f8238b3
-ms.sourcegitcommit: e5e09d841fe397a6f841d617a9ae0a560d41a3f2
+ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42395708"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771676"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>永久刪除在 Outlook 中的電子郵件
+# <a name="permanently-delete-an-email-in-outlook"></a>永久刪除 Outlook 中的電子郵件
 
-- 從 [收件匣] 檢視中，長按下一封郵件，然後您會看到可以圖示資源回收筒。 點選此圖示來刪除郵件。
+- 從 [收件匣] 視圖中，長按一封郵件，您會看到垃圾桶圖示。 點擊此圖示可刪除郵件。
 
-- 您也可以設定 「 刪除 」 做為往撥動選項 （**設定-> 往撥動選項**）;然後使用您的手指往撥動到您想要刪除的郵件。 
+- 您也可以將「刪除」設定為輕掃選項 (**設定-> 輕掃選項**) ;然後使用手指在您要刪除的郵件上進行刷入。 
 
-- 若要刪除的郵件從開啟的電子郵件] 檢視，點選資源回收筒可以在您的螢幕頂端的圖示。 已刪除的郵件會移至 [資源回收筒] 資料夾。 
+- 若要從開啟的電子郵件視圖中刪除郵件，請在螢幕頂端點擊垃圾桶圖示。 已刪除的郵件會移至您的垃圾桶資料夾。 
 
-**若要永久刪除電子郵件**
+**永久刪除電子郵件**
 
-- 從 [郵件] 檢視中存取 [資源回收筒] 資料夾、 點選 [帳戶] 圖示 （有 3 行字），並點選 [資源回收筒] 資料夾。
+- 從郵件模式存取 [垃圾箱] 資料夾，然後在 [ (3 行]) 中點擊帳戶圖示，然後按一下 [垃圾桶] 資料夾。
 
-- 刪除個別電子郵件或標示為多個電子郵件並刪除這些從這裡;他們將會永久刪除。
+- 刪除個別的電子郵件或標記多封電子郵件，並將其從這裡刪除;它們會被永久刪除。

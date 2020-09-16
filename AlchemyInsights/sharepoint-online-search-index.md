@@ -1,34 +1,35 @@
 ---
-title: 搜尋 SharePoint Online
+title: 在 SharePoint Online 中搜尋
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 85f29fabe3189fe248696155208b56d4901ab6de
-ms.sourcegitcommit: b5370f0fc8da1e7e5ac960cb622a21612a9c86be
+ms.openlocfilehash: f790efbe6ed445786933efa3fc980f974693d1d9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/29/2020
-ms.locfileid: "42341131"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770758"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>內容編目和編製索引 SharePoint Online 中
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>SharePoint Online 中的內容編目和編制索引
 
-內容必須被編目並新增至使用者尋找項目他們透過其中搜尋的 SharePoint Online 中的搜尋索引。
+內容必須進行編目並新增至搜尋索引，使用者才能在 SharePoint Online 中找到他們搜尋的內容。
 
-- 請確定可以找到內容[製作網站內容可供搜尋](https://docs.microsoft.com/sharepoint/make-site-content-searchable)。
+- 讓 [網站內容可供](https://docs.microsoft.com/sharepoint/make-site-content-searchable)搜尋，以確定內容是否可以找到。
 
-- 當您已變更的 managed 的屬性，或您已變更的對應的編目及 managed 屬性，該網站必須在重新編目，才能變更會反映在搜尋索引中。
+- 當您變更了 managed 屬性，或變更了編目及 managed 屬性的對應時，必須重新編目該網站，您的變更才會反映在搜尋索引中。
 
-- 如需詳細資訊，請參閱[手動要求編目和重新編製索引的網站、 文件庫或清單](https://docs.microsoft.com/sharepoint/crawl-site-content)。
+- 如需詳細資訊，請參閱針對 [網站、文件庫或清單手動要求編目及重新編制索引](https://docs.microsoft.com/sharepoint/crawl-site-content)。
 
-- 請至少等候 24 小時之後以手動方式要求編目和完整重新編製索引以查看是否仍有問題。
+- 手動要求編目及完整重新索引後，請至少等候24小時，以查看您是否仍有問題。
 
-- 如果您起始的編目和完整重新編製索引以來超過 24 小時，請登支援案例。 在許多情況下，我們已使用的方案。 請讓我們至少 24 小時才能完成解決方案。
+- 在您啟動編目和完整重新索引後超過24小時後，請記錄支援案例。 多數情況下，我們已經著手研究解決方案。 請至少為我們提供24小時的時間來完成解決方案。
 
-**重要**： 如果網站、 文件 （檔案庫） 或清單已刪除，仍會顯示在搜尋結果中的，使用者應該會收到**錯誤 404 找不到檔案**時，嘗試對其進行存取。 這個問題應該記錄為進一步調查的支援案例。
+**重要**：如果網站、檔 (程式庫) 或清單已遭刪除，但仍會顯示在搜尋結果中，則當您嘗試存取它時，使用者應會收到 **錯誤404檔案找不到** 。 此問題應記錄為支援案例以進行進一步調查。
 
 
 
