@@ -6,19 +6,20 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: 905c8f103acdb1f57dd0a1dd941841622220e93a
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: 86d14adff3967a11fadf057302233764512e5b46
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46787384"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758524"
 ---
-# <a name="sharing-options-appear-dim-or-are-not-available"></a><span data-ttu-id="875d9-102">共用選項會變暗或無法使用</span><span class="sxs-lookup"><span data-stu-id="875d9-102">Sharing Options Appear Dim or are Not Available</span></span>
+# <a name="sharing-options-appear-dim-or-are-not-available"></a><span data-ttu-id="e20ca-102">共用選項會變暗或無法使用</span><span class="sxs-lookup"><span data-stu-id="e20ca-102">Sharing Options Appear Dim or are Not Available</span></span>
 
-<span data-ttu-id="875d9-103">如果嘗試從 SharePoint Online 或 OneDrive 共用時，有些共用選項或無法使用，請參閱 [當您從線上 SharePoint 線上或 OneDrive 時，共用選項會變灰](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)。</span><span class="sxs-lookup"><span data-stu-id="875d9-103">If some sharing options or are not available when attempting to share from SharePoint Online or OneDrive, see [Sharing options are greyed out when sharing from SharePoint Online or OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span></span>
+<span data-ttu-id="e20ca-103">如果嘗試從 SharePoint Online 或 OneDrive 共用時，有些共用選項或無法使用，請參閱 [當您從線上 SharePoint 線上或 OneDrive 時，共用選項會變灰](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)。</span><span class="sxs-lookup"><span data-stu-id="e20ca-103">If some sharing options or are not available when attempting to share from SharePoint Online or OneDrive, see [Sharing options are greyed out when sharing from SharePoint Online or OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span></span>
