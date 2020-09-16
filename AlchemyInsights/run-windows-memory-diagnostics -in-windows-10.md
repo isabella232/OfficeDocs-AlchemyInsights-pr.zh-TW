@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002959"
 - "5661"
-ms.openlocfilehash: 3fedc52d02f1f70743429d0313eda0361306c3f3
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: f2b8306d0cd604b144b82275243c5a84580bc609
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44289760"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720781"
 ---
 # <a name="run-windows-memory-diagnostics-in-windows-10"></a>在 Windows 10 中執行 Windows 記憶體診斷
 

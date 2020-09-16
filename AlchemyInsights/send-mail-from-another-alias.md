@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 17dfcdb03e875c05116a3553e3160947a5957938
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 045dd451adcb66f84a1aa3f20b7c0b6550e8f2ff
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505262"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720745"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>從別名或次要位址傳送電子郵件
 
@@ -26,4 +27,4 @@ Microsoft 365 目前不支援從別名或次要電子郵件地址傳送電子郵
   
 - [請移至這裡建立共用信箱](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-您也可以讀取 [[建立共用信箱](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)] 文章，告訴您所有共用信箱所需的相關資訊，包括如何加以使用。
+您也可以讀取 [ [建立共用信箱](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) ] 文章，告訴您所有共用信箱所需的相關資訊，包括如何加以使用。

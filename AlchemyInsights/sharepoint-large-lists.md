@@ -6,6 +6,7 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "407"
 - "530001"
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: e85686788c60d365a00970e9ffe58e97512894a3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1bc891a912c6753ea6c85d7d4b2a5d802080bd5c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767276"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720124"
 ---
 # <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>使用 SharePoint 中的大型清單和文件庫
 
@@ -26,7 +27,7 @@ SharePoint 清單和文件庫最多可以包含30000000個專案，但是當其�
 
 **使用現代**
 
-顯示許多專案在新式體驗中最適合運作的視圖。 [使用現代化的經驗](https://support.office.com/article/66dac24b-4177-4775-bf50-3d267318caa9)，避免您在傳統體驗中所看到的錯誤。
+顯示許多專案在新式體驗中最適合運作的視圖。 [使用現代化的經驗](https://support.office.com/article/66dac24b-4177-4775-bf50-3d267318caa9) ，避免您在傳統體驗中所看到的錯誤。
 
 **新增索引**
 
@@ -34,12 +35,12 @@ SharePoint 清單和文件庫最多可以包含30000000個專案，但是當其�
 
 **編輯清單視圖**
 
-如果使用大型清單時發生錯誤，請[編輯清單視圖](https://support.office.com/article/15916903-e79a-423f-b4e2-02d37e1ff372)。
+如果使用大型清單時發生錯誤，請 [編輯清單視圖](https://support.office.com/article/15916903-e79a-423f-b4e2-02d37e1ff372)。
 
-下列四項變更將會移除清單視圖臨界值錯誤。 進行四個變更，以移除所有的錯誤。 如果仍有錯誤，請參閱[管理大型清單和文件庫](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59)。
+下列四項變更將會移除清單視圖臨界值錯誤。 進行四個變更，以移除所有的錯誤。 如果仍有錯誤，請參閱 [管理大型清單和文件庫](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59)。
 
 1. 從**欄的第一個排序選取 [** **無**]，**然後依資料行排序**。
 2. 從**第一個群組**中選取 [**無**]，**然後按該列進行群組**。
 3. 選取 [**總計**] 區段中所有欄的 [**無**]。
-4. 取消選取 [**欄**] 區段中的 [所有] （顯示一欄）。
+4. 取消選取 [ **欄** ] 區段中的 [所有] （顯示一欄）。
 
