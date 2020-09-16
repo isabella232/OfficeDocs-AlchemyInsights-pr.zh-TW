@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "762"
 - "8000033"
 ms.assetid: 16e5bfdc-3363-4e1b-9436-789ce67ad22e
-ms.openlocfilehash: 9e4e102ee5734cfe3bdbd011668262d053a5363b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 78c07d3d335a1f2d786e786e733f10db9128b781
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743732"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723094"
 ---
 # <a name="how-to-reply-to-or-forward-messages-in-outlookcom"></a>如何在 Outlook.com 中回復或轉寄郵件
 
@@ -27,4 +28,4 @@ ms.locfileid: "43743732"
  全部回復或 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wgCEgsi70uv9wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAvUlEQVQ4jc3VsQ3EIAwF0J8jC6RJQ8lKDBGlZYtIKF3EJkxDSRNWiMQVpysv2BCkc+XqgcyXGXLOGR3q1QP9HzilhOu6noVjjNi2DdZaEk6GpZRYlgXneZJw1iiUUljXlYSzH4+KV6WCglfHrYQ35fgOH7+N9x77vlcfIoSAUgpaawDA0LorQgg4jgPzPMMYg3H83LVpFL/QJvgOrYZLaBVMQdkwFWXBMUY450gowIxbSgnTNBVRNsypbl/TG8jdhvj9M88MAAAAAElFTkSuQmCC' />
  向前。
   
-深入瞭解如何[在 Outlook.com 中建立、回復或轉寄電子郵件訊息](https://support.office.com/article/5a240eb5-8840-4146-b5e8-b078dce6e5e4?wt.mc_id=Office_Outlook_com_Alchemy)。
+深入瞭解如何 [在 Outlook.com 中建立、回復或轉寄電子郵件訊息](https://support.office.com/article/5a240eb5-8840-4146-b5e8-b078dce6e5e4?wt.mc_id=Office_Outlook_com_Alchemy)。
