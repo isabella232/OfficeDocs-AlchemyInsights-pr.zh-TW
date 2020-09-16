@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: ae1e047863317863f4e6c0136200aba90a7032a0
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46545692"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812754"
 ---
 # <a name="managing-live-captions-for-education-organizations"></a>管理教育組織的即時字幕
 

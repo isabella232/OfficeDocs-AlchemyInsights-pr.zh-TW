@@ -5,6 +5,7 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: e578dc3b19c573335c0e90cc0f84d5c6c1b1c889
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 12207efc9822be6cf096fa4884a3cd244a286cbe
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767384"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800815"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>SharePoint 和 OneDrive 的版本設定 
 
