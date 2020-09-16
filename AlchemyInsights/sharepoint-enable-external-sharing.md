@@ -4,22 +4,23 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: bdd9d9fc1c0cd51d78a02a50a7c4aba4672c3482
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: fdcc6d81411e231ba18ad296508fef6c4ca648b3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495618"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727198"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>在 SharePoint Online 中啟用外部共用
 
-如果您的組織執行的工作涉及共用檔或直接與廠商、用戶端或客戶共同合作，您可以使用[SharePoint Online 的外部共用功能](https://docs.microsoft.com/sharepoint/external-sharing-overview)，與組織外部人員共用內容。
+如果您的組織執行的工作涉及共用檔或直接與廠商、用戶端或客戶共同合作，您可以使用 [SharePoint Online 的外部共用功能](https://docs.microsoft.com/sharepoint/external-sharing-overview) ，與組織外部人員共用內容。
 
-如需外部共用（來賓）的詳細資訊，請造訪下列連結。
+如需有關外部共用的詳細資訊 (來賓) 請流覽下列連結。
 
 - [什麼是外部使用者？](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
@@ -31,7 +32,7 @@ ms.locfileid: "44495618"
 
 - [在 Microsoft 365 群組中管理來賓存取](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups)
 
-- [使用 Sharepoint Online 做為企業對企業（B2B）外部網路解決方案](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [使用 Sharepoint Online 做為企業對企業 (B2B) 外部網路解決方案](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
 - [共用 SharePoint 檔案或資料夾](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
@@ -39,7 +40,7 @@ ms.locfileid: "44495618"
 
 - [刪除外部使用者](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-**與外部使用者（來賓）接收錯誤？**
+**接收外部使用者 (來賓) 時發生錯誤？**
 
 請檢查下列連結。 
 
