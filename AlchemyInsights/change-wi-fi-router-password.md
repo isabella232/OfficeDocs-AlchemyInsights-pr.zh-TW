@@ -5,30 +5,31 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: c0413d1a262d2b7c0245f0fae16b4b60d0a35e19
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 85aa158d917521fac871fd5c6687737fd22d736c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584504"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733426"
 ---
 # <a name="change-your-wi-fi-router-password"></a>變更您的 Wi-Fi 路由器密碼
 
 若要變更 Wi-Fi 路由器的密碼，請遵循下列步驟：
 
-1. 選取 [**啟動** > **設定** > **網路 & Internet** > **網路及共用中心**]。
+1. 選取 [**啟動**  >  **設定**  >  **網路 & Internet**  >  **網路及共用中心**]。
 
-2. 在 [**查看您的活動網路**] 底下，尋找您連線的網路。 選取 [**連接**] 旁邊的藍色連結。<br>
+2. 在 [ **查看您的活動網路**] 底下，尋找您連線的網路。 選取 [ **連接**] 旁邊的藍色連結。<br>
 
    **附注：** 如果您未連線至 Wi-Fi，您必須先連線，才能變更密碼。
 
-3. 選取 [**詳細資料**]。
+3. 選取 [ **詳細資料**]。
 
 4. 搜尋您的 IPv4 預設閘道，並記下此包含句點的數位字串。 例如：192.168.0.1、192.168.1.1、10.0.0.1 或10.0.1。1
 
