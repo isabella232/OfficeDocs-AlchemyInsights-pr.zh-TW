@@ -6,16 +6,17 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 8384b947cd8a7e73ecc383cf297fe7e9224cf130
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: ca4aa57acfa8f2ddfd5b8ddbaa6d7214cfbb9140
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154563"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748279"
 ---
 # <a name="connected-experience-with-office-add-ins"></a>Office 增益集的連線體驗
 
