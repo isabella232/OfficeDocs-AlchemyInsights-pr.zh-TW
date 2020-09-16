@@ -1,29 +1,30 @@
 ---
-title: 放在桌面上的應用程式
+title: 在桌面上放置應用程式
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 6c94c840ce9460bdf72aba23ef6444d18a44977d
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278819"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47768238"
 ---
-# <a name="put-apps-on-the-desktop"></a>放在桌面上的應用程式
+# <a name="put-apps-on-the-desktop"></a>在桌面上放置應用程式
 
-在 [**開始**] 功能表中，應用程式搜尋並按住滑鼠左鍵然後移動到桌面圖示抓取的應用程式圖示。
+在 [ **開始** ] 功能表中搜尋應用程式，然後按住滑鼠左鍵並將圖示移至桌面，以抓住應用程式圖示。
 
-您可能也按下**Windows 鍵 + R** ，然後輸入此命令中：
+您也可以按 **Windows 鍵 + R** ，然後輸入下列命令：
 
 `shell:appsfolder`
 
-這會在**檔案總管**中開啟的**應用程式**資料夾。 您可能會立即拖放到桌面的應用程式圖示。
+這會在檔案**瀏覽器**中開啟**應用程式**資料夾。 您現在可以將應用程式圖示拖放至桌面。
