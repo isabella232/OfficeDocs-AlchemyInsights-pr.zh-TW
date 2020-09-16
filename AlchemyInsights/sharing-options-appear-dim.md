@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: 905c8f103acdb1f57dd0a1dd941841622220e93a
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: 86d14adff3967a11fadf057302233764512e5b46
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46787384"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758524"
 ---
 # <a name="sharing-options-appear-dim-or-are-not-available"></a>共用選項會變暗或無法使用
 

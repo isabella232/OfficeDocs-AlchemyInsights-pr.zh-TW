@@ -5,29 +5,30 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: a7d34c8b99e1cdab915bfeec20ad5f9bdf1c1603
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b3e78ae5f7f6bc79b46993d7f67a57114282edd3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769762"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758020"
 ---
 # <a name="table-of-contents"></a>目錄
 
-如需在 Word 中建立目錄資訊，請參閱[插入目錄](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)，或下載我們[的目錄教學課程](https://go.microsoft.com/fwlink/?linkid=2065106)。
+如需在 Word 中建立目錄的詳細資訊，請參閱 [插入目錄](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)或下載我們 [的目錄教學](https://go.microsoft.com/fwlink/?linkid=2065106)課程。
 
-**常見的問題的解決方案**
+**常見問題的解決方案**
 
-- 目錄不包含您剛才新增至您的文件的標題。
-  1. 選取的標題文字，請移至 [**住家** > **樣式**，並確認樣式會套用至標題。
-  2. 移至**參照** > 來更新目錄的 [**更新表格**。
+- 目錄不包含您剛新增至檔的標題。
+  1. 選取標題文字，移至 [**首頁**  >  **樣式**]，然後確認樣式套用至標題。
+  2. 移至 [**參考**  >  **更新表格**] 以更新目錄。
 
-- 太多文字時，會顯示的目錄。 
-  1. 選取段落文字]，然後移至 [**住家** > **樣式**。
-  2. 選取一種樣式，例如**標準模式**，不包含內容的資料表中。
+- 目錄顯示太多文字。 
+  1. 選取段落文字，然後移至 [**首頁**  >  **樣式**]。
+  2. 選取 [目錄] 中未包含的樣式（如 **Normal**）。

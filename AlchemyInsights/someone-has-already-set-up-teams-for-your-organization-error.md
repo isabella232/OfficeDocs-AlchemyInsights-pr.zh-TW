@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002343"
 - "5063"
-ms.openlocfilehash: 0aa2d68e737faba8b8558a1581e25bdb14e5a9ff
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: 47b33ac875ddcdb6979dfdb11c02978032917a1f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "44282221"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758451"
 ---
 # <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>「有人已為您的組織設定 Teams」錯誤
 
