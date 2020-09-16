@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: 3dc0d7481db5acae34a2186c9d63358c431c17f9
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
+ms.openlocfilehash: c17485c40af22dd30339d819a08818d02e4ac737
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102546"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703074"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>管理您的帳戶與訂閱。
 
@@ -39,7 +40,7 @@ ms.locfileid: "43102546"
 
 - [了解您的發票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice)
 
-- [新增、更新或移除付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account)
+- [管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **管理訂閱和授權** 
 

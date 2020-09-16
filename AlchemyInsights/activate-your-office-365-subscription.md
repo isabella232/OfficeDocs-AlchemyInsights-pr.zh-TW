@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 226eaa73b3934e266c1f53f73752ec142fdecdf5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43783998"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698052"
 ---
 # <a name="activate-your-subscription"></a>啟用訂閱
 
 **啟用訂閱**
 
-- 若要提供使用者服務的存取權，請指派授權給使用者。 如需指派授權的指示，請參閱[將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)。
+- 若要提供使用者服務的存取權，請指派授權給使用者。 如需指派授權的指示，請參閱[將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
 
 - 如果您已有指派的授權，可以從[我的帳戶](https://portal.office.com/account/#installs)頁面找到可以下載的應用程式。 本頁根據已指派的授權，提供您可以下載的應用程式清單。
 
@@ -32,13 +33,13 @@ ms.locfileid: "43783998"
 
 如果您的訂閱到期，或 Microsoft 已停用您的訂閱，或如果您在訂閱期間取消訂閱，則可在 Microsoft 365 系統管理中心重新啟用訂閱。
 
-- 在 Microsoft 365 系統管理中心中，移至[訂閱](https://go.microsoft.com/fwlink/p/?linkid=842054)頁面 (或按一下 [帳單] > [訂閱]****)。
+- 在 Microsoft 365 系統管理中心中，移至 [帳單 **]**  >  [[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**]** 頁面。
 
-- 選擇您要重新啟用的訂閱，然後按一下 [重新啟用]****。 如果您在可用動作沒有看到 [重新啟用]****，請[連絡客戶支援](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)以重新啟用訂閱。
+- 選擇您要重新啟用的訂閱，然後按一下 [重新啟用]****。 如果您在可用動作沒有看到 [重新啟用]****，請[連絡客戶支援](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)以重新啟用訂閱。
 
-- 輸入您的付款詳細資料。 您也可以在這裡[更新現有的付款資訊](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)。
+- 輸入您的付款詳細資料。 您也可以在這裡[更新現有的付款資訊](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
 
-如需詳細資訊，請參閱[重新啟用您的訂閱](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)。
+如需詳細資訊，請參閱[重新啟用您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
 
 **以產品金鑰啟用新訂閱**
 
