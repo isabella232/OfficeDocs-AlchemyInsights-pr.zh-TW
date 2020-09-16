@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/29/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1790"
 - "9000214"
-ms.openlocfilehash: 7a36d502a92d360b06336ccfa6183f666f0260ab
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: 10b37b2ffda50dc77396039a9e0e443ad81aef72
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46523017"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728278"
 ---
 # <a name="problems-using-the-intune-admin-console"></a>使用 Intune 系統管理員主控台時發生問題
 
