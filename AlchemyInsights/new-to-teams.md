@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002403"
 - "4676"
-ms.openlocfilehash: 050ed651a77b8cb68665de1c162f4dab385fa40c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 011a791faa51df19e375afbf6851259617b7fb79
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761769"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769462"
 ---
 # <a name="new-to-teams"></a>Teams 的新使用者嗎？
 
