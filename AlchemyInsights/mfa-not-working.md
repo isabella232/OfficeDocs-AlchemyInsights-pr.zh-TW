@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 718af9bfbc0a64cdfc96528e5062fb96c8d0f2d3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768828"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755122"
 ---
 # <a name="issues-with-azure-mfa"></a>Azure MFA 的問題
-有幾個事項檢查是否使用者無法登入使用多重要素驗證 (MFA)
+有幾個事項可檢查使用者是否無法使用多重要素驗證 (MFA) 進行登入
 
-1. 受影響的使用者可能被封鎖在 Azure Active Directory 入口網站。 如果是這種情況，驗證嘗試的特定使用者會自動拒絕。 [請遵循本篇文章以解除封鎖這些檔案中的步驟。](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. 受影響的使用者可能會在 Azure Active Directory 入口網站中封鎖。 如果是這種情況，該特定使用者的驗證嘗試將會自動遭到拒絕。 [請依照本文中的步驟加以取消封鎖。](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. 如果解除封鎖使用者沒有幫助或使用者不會遭到封鎖您可以嘗試使用重設使用者的 MFA，他們會再次經過註冊程序。 [請遵循本文中的步驟。](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. 如果解除封鎖使用者沒有説明，或使用者未封鎖，您可以嘗試為使用者重設 MFA，然後再次進行註冊程式。 [請依照本文中的步驟進行。](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-如果這是您已啟用的 MFA 和您的使用者都無法登入非瀏覽器用戶端，例如 Outlook、 Skype 等至第一次，或許 ADAL (Active Directory Authentication Library) 上未啟用您的 O365 訂閱。 在此情況下必須連線至 Exchange Online Powershell 並執行此 cmdlet:  *Set-organizationconfig-OAuth2ClientProfileEnabled: $true*
+如果這是您第一次啟用 MFA，而且使用者無法登入非瀏覽器用戶端（例如 Outlook、Skype 等等），則您的 O365 訂閱上沒有啟用該 (Active Directory 驗證程式庫) 。 在此情況下，您將需要連線到 Exchange Online Powershell，並執行此 Cmdlet：  *Set-OrganizationConfig-OAuth2ClientProfileEnabled： $true*

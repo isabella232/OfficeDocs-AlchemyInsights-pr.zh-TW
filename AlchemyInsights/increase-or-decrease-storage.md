@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002330"
 - "4543"
-ms.openlocfilehash: 8581ce129956a4b711d568ddf37c788841f3f9f9
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: deebbace12a281c5b56c8736f812fb0e107bd2e9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43053907"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755914"
 ---
 # <a name="increase-or-decrease-storage"></a>增加或減少儲存空間
 
