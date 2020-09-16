@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002450"
 - "4766"
-ms.openlocfilehash: c83fa35f948456d0ee2a53621e9b4e7ad63b84f2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ba79e98fc6e492b408de298a7a09521672b6ab46
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706854"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733614"
 ---
-# <a name="change-exchange-online-plans"></a><span data-ttu-id="8a32a-102">變更 Exchange Online 方案</span><span class="sxs-lookup"><span data-stu-id="8a32a-102">Change Exchange Online plans</span></span>
+# <a name="change-exchange-online-plans"></a><span data-ttu-id="80177-102">變更 Exchange Online 方案</span><span class="sxs-lookup"><span data-stu-id="80177-102">Change Exchange Online plans</span></span>
 
-<span data-ttu-id="8a32a-103">系統管理員必須手動切換方案。</span><span class="sxs-lookup"><span data-stu-id="8a32a-103">Admins need to switch plans manually.</span></span> <span data-ttu-id="8a32a-104">如需完整步驟，請參閱[手動切換商務用 Microsoft 365 方案](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide) (部分機器翻譯)。</span><span class="sxs-lookup"><span data-stu-id="8a32a-104">For complete steps, see [Switch Microsoft 365 for business plans manually](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).</span></span>
+<span data-ttu-id="80177-103">系統管理員必須手動切換方案。</span><span class="sxs-lookup"><span data-stu-id="80177-103">Admins need to switch plans manually.</span></span> <span data-ttu-id="80177-104">如需完整步驟，請參閱[手動切換商務用 Microsoft 365 方案](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide) (部分機器翻譯)。</span><span class="sxs-lookup"><span data-stu-id="80177-104">For complete steps, see [Switch Microsoft 365 for business plans manually](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).</span></span>
 
-1. <span data-ttu-id="8a32a-105">購買新的訂閱方案。</span><span class="sxs-lookup"><span data-stu-id="8a32a-105">Purchase the new subscription plan.</span></span> <span data-ttu-id="8a32a-106">在 [Microsoft 365 系統管理中心] 中，移至 [帳單]**[ > [購買服務]](https://go.microsoft.com/fwlink/p/?linkid=868433)**。</span><span class="sxs-lookup"><span data-stu-id="8a32a-106">In the Microsoft 365 Admin Center, go to **Billing > [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433)**.</span></span> <span data-ttu-id="8a32a-107">最簡單的方法是使用 [搜尋] 方塊來尋找 Exchange 方案。</span><span class="sxs-lookup"><span data-stu-id="8a32a-107">Easiest to use the Search box to find the Exchange plans.</span></span>
+1. <span data-ttu-id="80177-105">購買新的訂閱方案。</span><span class="sxs-lookup"><span data-stu-id="80177-105">Purchase the new subscription plan.</span></span> <span data-ttu-id="80177-106">在 Microsoft 365 系統管理中心中，移至 **[帳單]** > **[購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)**。</span><span class="sxs-lookup"><span data-stu-id="80177-106">In the Microsoft 365 admin center, go to **Billing** > **[Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433)**.</span></span> <span data-ttu-id="80177-107">最簡單的方法是使用 [搜尋] 方塊來尋找 Exchange 方案。</span><span class="sxs-lookup"><span data-stu-id="80177-107">Easiest to use the Search box to find the Exchange plans.</span></span>
 
-2. <span data-ttu-id="8a32a-108">查看您的新訂閱和授權。</span><span class="sxs-lookup"><span data-stu-id="8a32a-108">Check your new subscription and licenses.</span></span> <span data-ttu-id="8a32a-109">在 [Microsoft 365 系統管理中心] 中，移至 [帳單]**[ > [訂閱]](https://go.microsoft.com/fwlink/p/?linkid=842054)**。</span><span class="sxs-lookup"><span data-stu-id="8a32a-109">In the Microsoft 365 Admin Center, go to **Billing > [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span> <span data-ttu-id="8a32a-110">如果未列出新訂閱，或新訂閱未處於使用中，請在[此處](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active)查看。</span><span class="sxs-lookup"><span data-stu-id="8a32a-110">If the new subscription isn't listed, or isn't active check [here](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active).</span></span>
+2. <span data-ttu-id="80177-108">查看您的新訂閱和授權。</span><span class="sxs-lookup"><span data-stu-id="80177-108">Check your new subscription and licenses.</span></span> <span data-ttu-id="80177-109">在 Microsoft 365 系統管理中心中，移至 **[帳單]**  > **[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**。</span><span class="sxs-lookup"><span data-stu-id="80177-109">In the Microsoft 365 admin center, go to **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span> <span data-ttu-id="80177-110">如果未列出新訂閱，或新訂閱未處於使用中，請在[此處](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan#the-upgrade-tab-is-empty)查看。</span><span class="sxs-lookup"><span data-stu-id="80177-110">If the new subscription isn't listed, or isn't active check [here](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan#the-upgrade-tab-is-empty).</span></span>
 
-3. <span data-ttu-id="8a32a-111">重新指派授權給使用者。</span><span class="sxs-lookup"><span data-stu-id="8a32a-111">Reassign licenses to the users.</span></span> <span data-ttu-id="8a32a-112">在 [Microsoft 365 系統管理中心]，移至 [使用者]**[ > [作用中的使用者]](https://go.microsoft.com/fwlink/p/?linkid=834822)**，然後指派授權。</span><span class="sxs-lookup"><span data-stu-id="8a32a-112">In the Microsoft 365 Admin Center, go to **Users > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822)** and assign licenses.</span></span>
+3. <span data-ttu-id="80177-111">重新指派授權給使用者。</span><span class="sxs-lookup"><span data-stu-id="80177-111">Reassign licenses to the users.</span></span> <span data-ttu-id="80177-112">在 Microsoft 365 系統管理中心中，移至 **[使用者]** > **[作用中的使用者](https://go.microsoft.com/fwlink/p/?linkid=834822)**，然後指派授權。</span><span class="sxs-lookup"><span data-stu-id="80177-112">In the Microsoft 365 admin center, go to **Users** > **[Active users](https://go.microsoft.com/fwlink/p/?linkid=834822)** and assign licenses.</span></span>
 
-4. <span data-ttu-id="8a32a-113">[取消訂閱或移除您不再需要的授權](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#step-5-cancel-subscriptions-or-remove-licenses-that-you-no-longer-need-optional)。</span><span class="sxs-lookup"><span data-stu-id="8a32a-113">[Cancel subscriptions or remove licenses](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#step-5-cancel-subscriptions-or-remove-licenses-that-you-no-longer-need-optional) that you no longer need.</span></span>
+4. <span data-ttu-id="80177-113">[取消訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)或[移除您不再需要的授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。</span><span class="sxs-lookup"><span data-stu-id="80177-113">[Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) or [remove licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) that you no longer need.</span></span>
