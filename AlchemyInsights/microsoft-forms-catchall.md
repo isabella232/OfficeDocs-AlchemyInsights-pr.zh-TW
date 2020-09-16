@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2549"
 - "9000672"
-ms.openlocfilehash: 0d8a36727eb7146d3582bf0258408cb8a0871a58
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: eac1aea5cbd0117db0555ff6b4578d7242072d11
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698517"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724930"
 ---
 # <a name="get-information-about-microsoft-forms"></a>取得 Microsoft Forms 的相關資訊
 

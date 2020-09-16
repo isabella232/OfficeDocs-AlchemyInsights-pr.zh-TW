@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1834"
 - "9000247"
-ms.openlocfilehash: cc932aa7ecbd1e338c409a7a6525e2c4e673b232
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 05fb43133bc68b71ccdbab44d28679a1f659e762
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431340"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724606"
 ---
 # <a name="multiple-objects-have-the-same-email-address-as-identity"></a>多個物件的電子郵件地址與身份識別相同
 
