@@ -6,15 +6,16 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: cc2d2b1a5c73e729a67b1e6f36fdcff2125541ca
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: df1a50031196fbd79662cee620fc41c7be14e179
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010887"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738448"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>在終端機伺服器上安裝 office 的解決問題的解決方案
 
@@ -33,4 +34,4 @@ ms.locfileid: "44010887"
 - 請確認使用者是否以使用者帳戶登入。
 - 確認共用電腦與網際網路之間有連線。
 
-如需其他疑難排解秘訣，請參閱：[疑難排解共用電腦啟用的問題](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
+如需其他疑難排解秘訣，請參閱： [疑難排解共用電腦啟用的問題](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
