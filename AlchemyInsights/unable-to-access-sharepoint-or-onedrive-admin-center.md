@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001459"
 - "5638"
-ms.openlocfilehash: 627a4ef2900a6b9bbef7eb3f3a214ee7c371e354
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: a70b0708b325c5feaefec3d97c957086d7f62cc6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44716446"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749469"
 ---
 # <a name="unable-to-access-sharepoint-or-onedrive-admin-center"></a>無法存取 SharePoint 或 OneDrive 系統管理中心
 
