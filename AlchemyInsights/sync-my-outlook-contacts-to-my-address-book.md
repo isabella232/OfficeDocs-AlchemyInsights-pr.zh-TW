@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767060"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737368"
 ---
 # <a name="sync-my-outlook-contacts-to-my-address-book"></a>將我的 Outlook 連絡人同步處理到我的通訊錄
 
@@ -24,16 +25,16 @@ Outlook 可讓您將連絡人匯出至 Android 上的預設 [連絡人] 應用�
  
 **若要啟用此功能**：
  
-1. 在您的裝置上，移至 [**設定**]。
+1. 在您的裝置上，移至 [ **設定**]。
 
-2. 在 [**帳戶**] 底下，按一下您要與其同步處理的帳戶。
+2. 在 [ **帳戶**] 底下，按一下您要與其同步處理的帳戶。
 
-3. 切換 [**同步處理連絡人**] 滑杆。
+3. 切換 [ **同步處理連絡人** ] 滑杆。
  
 內部部署信箱的 Microsoft 365、Outlook.com 及混合新式驗證都支援雙向連絡人匯出。 雙向支援可確保您新增的任何新連絡人或您編輯的現有連絡人會在您的裝置與您的 Outlook 帳戶之間進行同步處理。
  
-若為舊版 Exchange 帳戶，您可以將您的連絡人匯出為儲存至裝置。 當 [**同步處理連絡人**] 啟用時，在 Outlook 中對連絡人所做的新增連絡人及編輯，將會儲存到裝置上的 [連絡人] 應用程式。 不過，直接在裝置的 [連絡人] 應用程式中進行的編輯不會儲存至 Outlook。 請注意，我們不支援為內部部署 exchange 帳戶的 Outlook for Android 新增/編輯連絡人，因此您需要從不同的 Outlook 用戶端管理您的連絡人。
+若為舊版 Exchange 帳戶，您可以將您的連絡人匯出為儲存至裝置。 當 [ **同步處理連絡人** ] 啟用時，在 Outlook 中對連絡人所做的新增連絡人及編輯，將會儲存到裝置上的 [連絡人] 應用程式。 不過，直接在裝置的 [連絡人] 應用程式中進行的編輯不會儲存至 Outlook。 請注意，我們不支援為內部部署 exchange 帳戶的 Outlook for Android 新增/編輯連絡人，因此您需要從不同的 Outlook 用戶端管理您的連絡人。
  
 目前不支援 GMAIL 和 iCloud 的連絡人同步處理。
  
-如果您想要移除這些同步處理的連絡人，您可以隨時切換**同步處理連絡人**，並將其從通訊錄中移除。
+如果您想要移除這些同步處理的連絡人，您可以隨時切換 **同步處理連絡人** ，並將其從通訊錄中移除。
