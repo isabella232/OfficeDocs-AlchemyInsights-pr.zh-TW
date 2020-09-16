@@ -6,7 +6,7 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,12 +14,12 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 0d7a77f09eda3d8fb13f710763ac366557c82c4e
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 6087240b0615d4d0d6fcfdbbb77fdc15dbafd289
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580252"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745813"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>刪除屬於 Microsoft 365 群組的 SharePoint 網站
 
@@ -27,7 +27,7 @@ ms.locfileid: "44580252"
   
 重要事項：
 
-- 您可以在93天內復原已刪除的網站。 已刪除的群組必須在30天內還原。 從 SharePoint 系統管理中心直接[查看及還原已刪除的網站](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)。 若要[查看及還原**已刪除的群組**](https://outlook.office.com/people/group/deleted)，請選取 [**管理群組**]，然後選擇 [**刪除**]。
-- 如果網站是保留原則的一部分，在從[安全性 & 合規性系統管理中心](https://protection.office.com/?rfr=AdminCenter#/retention)移除網站之前，您可能無法將其刪除。 如需詳細資訊，請參閱[保留原則的概述](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)。
+- 您可以在93天內復原已刪除的網站。 已刪除的群組必須在30天內還原。 從 SharePoint 系統管理中心直接[查看及還原已刪除的網站](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)。 若要 [查看及還原 **已刪除的群組**](https://outlook.office.com/people/group/deleted)，請選取 [ **管理群組**]，然後選擇 [ **刪除**]。
+- 如果網站是保留原則的一部分，在從 [安全性 & 合規性系統管理中心](https://protection.office.com/?rfr=AdminCenter#/retention)移除網站之前，您可能無法將其刪除。 如需詳細資訊，請參閱 [保留原則的概述](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)。
   
-如需詳細資訊，請參閱[Manage sites in new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)。
+如需詳細資訊，請參閱 [Manage sites in new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)。

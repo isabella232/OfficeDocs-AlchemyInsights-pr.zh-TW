@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702765"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745565"
 ---
 # <a name="file-open-read-only"></a>唯讀檔案
 
@@ -25,7 +26,7 @@ ms.locfileid: "43702765"
   
  **我的防病毒已導致其以唯讀方式開啟**
   
-某些防毒程式可能會以唯讀方式開啟，以保護可能不安全的檔案。 您可能需要與您的防病毒提供者核實，以瞭解如何調整這些設定。 例如，BitDefender 在這裡新增應用程式排除的內容：[如何在 BitDefender 的 [控制中心] 中新增應用程式或進程排除](https://aka.ms/AA6098i)。
+某些防毒程式可能會以唯讀方式開啟，以保護可能不安全的檔案。 您可能需要與您的防病毒提供者核實，以瞭解如何調整這些設定。 例如，BitDefender 在這裡新增應用程式排除的內容： [如何在 BitDefender 的 [控制中心] 中新增應用程式或進程排除](https://aka.ms/AA6098i)。
   
  **檔案屬性是否設為唯讀？**
   
@@ -33,11 +34,11 @@ ms.locfileid: "43702765"
   
  **內容位於受保護的檢視中**
   
-來自網際網路的檔案與其他可能不安全的位置，可能包含病毒、蠕蟲或其他類型的惡意程式碼，可能會損害您的電腦。 這通常也是您下載的電子郵件附件或檔案的案例。 為了協助保護您的電腦，來自這些可能不安全之位置的檔案會在受保護的檢視中開啟。 使用受保護的檢視，您可以讀取檔案並查看其內容，同時降低風險。 如需受保護的檢視以及如何變更設定的詳細資訊，請參閱本文：[什麼是受保護的檢視？](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+來自網際網路的檔案與其他可能不安全的位置，可能包含病毒、蠕蟲或其他類型的惡意程式碼，可能會損害您的電腦。 這通常也是您下載的電子郵件附件或檔案的案例。 為了協助保護您的電腦，來自這些可能不安全之位置的檔案會在受保護的檢視中開啟。 使用受保護的檢視，您可以讀取檔案並查看其內容，同時降低風險。 如需受保護的檢視以及如何變更設定的詳細資訊，請參閱本文： [什麼是受保護的檢視？](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **是否 OneDrive 完整？**
   
-如果檔案儲存在 OneDrive，而您的 OneDrive 儲存空間已滿，您將無法儲存檔，除非您已在所分配的空間下。 您可以按一下 [通知中心] 中的 [OneDrive] 圖示，然後選擇 [管理儲存[https://onedrive.live.com](https://onedrive.live.com)]，再登入，並記下螢幕左下方的使用空間量，以查看 OneDrive 的可用空間。
+如果檔案儲存在 OneDrive，而您的 OneDrive 儲存空間已滿，您將無法儲存檔，除非您已在所分配的空間下。 您可以按一下 [通知中心] 中的 [OneDrive] 圖示，然後選擇 [管理儲存]， [https://onedrive.live.com](https://onedrive.live.com) 再登入，並記下螢幕左下方的使用空間量，以查看 OneDrive 的可用空間。
   
  **Office 是否已啟用？**
   

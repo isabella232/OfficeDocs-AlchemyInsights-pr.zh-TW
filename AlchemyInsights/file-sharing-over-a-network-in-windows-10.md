@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 5f0cd0d2b7271a60aa390c8ee2d6ffbcefe78d94
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 3fb07e2f870d93ddcb6133ac5fd290935a27c583
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584367"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745382"
 ---
 # <a name="file-sharing-over-a-network-in-windows-10"></a>在 Windows 10 中透過網路共用檔案
 
-**附注**：如果您先前使用家庭組進行檔案共用，請注意已從 Windows 10 移除家庭組（版本1803）。 您現在可以使用 Windows 10 中的內建功能來共用印表機和檔案。
+**附注**：如果您先前已使用家庭組進行檔案共用，請注意已從 Windows 10 (版本 1803) 中移除家庭組。 您現在可以使用 Windows 10 中的內建功能來共用印表機和檔案。
 
 **透過網路共用檔案或資料夾**
 
@@ -32,9 +33,9 @@ ms.locfileid: "42584367"
 
 **若要查看網路上共用檔的裝置**
 
-- 在檔案**瀏覽器**中，移至 [**網路**]。 如果未啟用網路探索，您會看到錯誤訊息「網路探索已經關閉 ...」。
+- 在檔案 **瀏覽器**中，移至 [ **網路**]。 如果未啟用網路探索，您會看到錯誤訊息「網路探索已經關閉 ...」。
 
-- 按一下 [**網路探索] 已關閉**橫幅，然後按一下 [**開啟網路探索與檔案共用**]。
+- 按一下 [ **網路探索] 已關閉** 橫幅，然後按一下 [ **開啟網路探索與檔案共用**]。
 
     ![開啟網路探索和檔案共用。](media/turn-on-network-discovery.png)
 
