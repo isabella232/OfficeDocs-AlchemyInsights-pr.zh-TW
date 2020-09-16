@@ -6,19 +6,20 @@ manager: scotv
 ms.date: 08/06/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6117"
 - "9003238"
-ms.openlocfilehash: b07f28320049d6e91a005574683ea4e40f7636c1
-ms.sourcegitcommit: a96f029381c42d331b9ea64fa54061b7b96c4e52
+ms.openlocfilehash: c7126d0f8aae4835e151a371c1a50f9b48346efa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46580873"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754798"
 ---
-# <a name="migrate-from-federated-domain-to-managed-domain"></a><span data-ttu-id="fd7a7-102">從同盟網域移轉到受管理的網域</span><span class="sxs-lookup"><span data-stu-id="fd7a7-102">Migrate from federated domain to managed domain</span></span>
+# <a name="migrate-from-federated-domain-to-managed-domain"></a><span data-ttu-id="7eb3f-102">從同盟網域移轉到受管理的網域</span><span class="sxs-lookup"><span data-stu-id="7eb3f-102">Migrate from federated domain to managed domain</span></span>
 
-<span data-ttu-id="fd7a7-103">若要將同盟網域轉換或移轉至受管理的網域，請參閱[從同盟移轉至 Azure Active Directory 的密碼雜湊同步處理](https://docs.microsoft.com/azure/active-directory/hybrid/plan-migrate-adfs-password-hash-sync) (部分機器翻譯)。</span><span class="sxs-lookup"><span data-stu-id="fd7a7-103">To convert or migrate your federated domain to a managed domain, see the guidelines in [Migrate from federation to password hash synchronization for Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/plan-migrate-adfs-password-hash-sync).</span></span>
+<span data-ttu-id="7eb3f-103">若要將同盟網域轉換或移轉至受管理的網域，請參閱[從同盟移轉至 Azure Active Directory 的密碼雜湊同步處理](https://docs.microsoft.com/azure/active-directory/hybrid/plan-migrate-adfs-password-hash-sync) (部分機器翻譯)。</span><span class="sxs-lookup"><span data-stu-id="7eb3f-103">To convert or migrate your federated domain to a managed domain, see the guidelines in [Migrate from federation to password hash synchronization for Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/plan-migrate-adfs-password-hash-sync).</span></span>

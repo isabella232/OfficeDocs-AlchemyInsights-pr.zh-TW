@@ -5,24 +5,25 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 565337818ead3f38a7bb800ffd5b4d6bbe3de81b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e59912d98125002cf97a6b4a5201c2c73421c98f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510815"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754834"
 ---
-# <a name="when-you-get-a-not-an-accepted-domain-error"></a><span data-ttu-id="eceaa-102">當您收到「不是公認的網域」錯誤</span><span class="sxs-lookup"><span data-stu-id="eceaa-102">When you get a "Not an accepted domain" error</span></span>
+# <a name="when-you-get-a-not-an-accepted-domain-error"></a><span data-ttu-id="058ed-102">當您收到「不是公認的網域」錯誤</span><span class="sxs-lookup"><span data-stu-id="058ed-102">When you get a "Not an accepted domain" error</span></span>
 
-<span data-ttu-id="eceaa-103">當您在使用者或群組上、或在 Microsoft 365 信箱移轉期間嘗試新增電子郵件地址時，可能會收到下列錯誤：**您無法使用此網域，因為它還不是 Exchange 系統公認的網域。**</span><span class="sxs-lookup"><span data-stu-id="eceaa-103">When trying to add an email address on the user or a group or during migration of Microsoft 365 mailboxes, you might be getting the following error: **You can't use the domain because it's not an accepted domain for Exchange System yet.**</span></span>
+<span data-ttu-id="058ed-103">當您在使用者或群組上、或在 Microsoft 365 信箱移轉期間嘗試新增電子郵件地址時，可能會收到下列錯誤：**您無法使用此網域，因為它還不是 Exchange 系統公認的網域。**</span><span class="sxs-lookup"><span data-stu-id="058ed-103">When trying to add an email address on the user or a group or during migration of Microsoft 365 mailboxes, you might be getting the following error: **You can't use the domain because it's not an accepted domain for Exchange System yet.**</span></span>
   
-<span data-ttu-id="eceaa-104">在大多數的情況下，這個錯誤原因是您未針對組織設定完成網域名稱 *(例如 contoso.com)*。</span><span class="sxs-lookup"><span data-stu-id="eceaa-104">In most cases, this error is a result of the domain name *(such as contoso.com)*  not being fully set up for your organization.</span></span>
+<span data-ttu-id="058ed-104">在大多數的情況下，這個錯誤原因是您未針對組織設定完成網域名稱 *(例如 contoso.com)*。</span><span class="sxs-lookup"><span data-stu-id="058ed-104">In most cases, this error is a result of the domain name *(such as contoso.com)*  not being fully set up for your organization.</span></span>
   
-<span data-ttu-id="eceaa-105">請確認網域已遵循[新增網域至 Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) 中的指示完成設定。</span><span class="sxs-lookup"><span data-stu-id="eceaa-105">Please verify that the domain is fully setup by following the instructions in [Add a domain to Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).</span></span>
+<span data-ttu-id="058ed-105">請確認網域已遵循[新增網域至 Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) 中的指示完成設定。</span><span class="sxs-lookup"><span data-stu-id="058ed-105">Please verify that the domain is fully setup by following the instructions in [Add a domain to Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).</span></span>
   
