@@ -5,24 +5,25 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: c911972a7ccd689e57455ec3e283842bf6f5d7a5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e3011b8af2271761c96d8e9bcecd317682c096d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705580"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732994"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>建立 SharePoint hub 網站
 
-1. 在 [新增 SharePoint 系統管理中心] 的 [**網站**] 底下，按一下 [作用中**網站**]。
+1. 在 [新增 SharePoint 系統管理中心] 的 [ **網站**] 底下，按一下 [作用中 **網站**]。
 
-2. 選取您要成為 hub 網站的網站，按一下 [ **hub site**]，然後按一下 [**註冊為 hub site**]。
+2. 選取您要成為 hub 網站的網站，按一下 [ **hub site**]，然後按一下 [ **註冊為 hub site**]。
 
 3. 輸入 hub 網站的顯示名稱，並指定您想要允許其與 hub 產生關聯之個別使用者或安全性群組。
 
