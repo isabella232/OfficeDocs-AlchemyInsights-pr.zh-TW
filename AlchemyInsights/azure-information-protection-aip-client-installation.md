@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: da49fb3e5d7a6a4697259897133461cdc9e340ad
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 230f857bd35f4cf381fc71de04231834fb8d0ee6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944078"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714895"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure 資訊保護：AIP 用戶端安裝
 
@@ -33,4 +34,8 @@ ms.locfileid: "43944078"
 
 4. 如果在執行上述工具之後，您在安裝用戶端本身時仍發生問題，請找出 **%temp%**，並提供以 Microsoft_Azure_Information_Protection_XXXXXXXXXX.log 開頭的用戶端安裝記錄檔。
 
-5. 如果安裝成功，而您在使用 AIP 時仍遇到問題，請選取相關解決方案的適當支援主題。
+如需詳細資訊：
+
+- 檢閱 [Azure 資訊保護 (AIP) 文件](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)、設定[需求](https://docs.microsoft.com/azure/information-protection/get-started/requirements)和[下載 AIP 用戶端](https://www.microsoft.com/download/details.aspx?id=53018)的位置。
+
+- 如需有關 Azure 訂閱的資訊，請參閱 [Azure 資訊保護訂閱和功能](https://azure.microsoft.com/pricing/details/information-protection)。
