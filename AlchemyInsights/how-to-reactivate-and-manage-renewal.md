@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,30 +14,30 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: eee6e4a4494e259050f40173d66c2747b68a1608
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ef035f1e75756342cce48de7d00adfee7c74caf0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509087"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779546"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>如何重新啟用和管理週期性帳單
 
 您的訂閱似乎已過期。 如果您想要重新啟用它，請參閱操作方法。
   
-1. 在系統管理中心中，移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
+1. 在系統管理中心中，移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。
 
-2. 找到您想要重新啟動的訂閱。 在 [**帳單**] 區段中，選取 [**重新**啟用]。
+2. 找到您想要重新啟動的訂閱。 在 [ **帳單** ] 區段中，選取 [  **重新**啟用]。
 
-    如果您沒有看到 [**重新**啟用] 做為選項，請使用「需要協助」按鈕與支援工程師交談，以重新啟用您的訂閱。
+    如果您沒有看到 [ **重新** 啟用] 做為選項，請使用「需要協助」按鈕與支援工程師交談，以重新啟用您的訂閱。
 
-3. 確認您的付款詳細資料。 您可以在這裡更新現有的付款資訊。 當您完成輸入支付方式時，請選取 [**重新**啟用]。
+3. 確認您的付款詳細資料。 您可以在這裡更新現有的付款資訊。 當您完成輸入支付方式時，請選取 [ **重新**啟用]。
 
 若要深入了解，請參閱[重新啟動您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription)。 
 
-若要管理每月或每年帳單，您可以切換**定期計費**。
+若要管理每月或每年帳單，您可以切換 **定期計費** 。
   
-1. 在系統管理中心中，移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
+1. 在系統管理中心中，移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。
 
 2. 選擇您想要管理週期性計費的訂閱。
 

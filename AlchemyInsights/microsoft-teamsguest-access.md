@@ -2,31 +2,29 @@
 title: Microsoft 團隊-來賓存取
 ms.author: heidip
 author: microsoftheidi
-ms.date: 1/18/2019
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "311"
+- "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: eaff2e417c2f0b5a5770d4ba73bbeaacf1b7a887
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 83739b66057dd25ef9c95a138598e61db4f221bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380172"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777631"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft 團隊-來賓存取
 
-您需要在 Microsoft 小組中協助您開啟和設定來賓存取功能嗎？
+需要協助您開啟及設定 Microsoft 小組中的來賓存取功能？  
 
-以下是您需要執行的動作:
+首先，請確定您已遵循 [來賓存取檢查清單](https://docs.microsoft.com/microsoftteams/guest-access-checklist)中的所有步驟。 完成所有這些步驟之後，您必須 [等候24小時](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) ，設定才會生效。
 
-1. 授權來賓存取。
-1. 將來賓使用者新增至您的小組。
-1. 設定來賓使用者權限。
+如果您確信您已完成檢查清單中的所有步驟，且已超過24小時，請繼續進行，並嘗試 [將來賓新增至您的小組](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)。
 
-如需詳細資訊 (包括操作方法影片), 請參閱[Microsoft 團隊中的來賓存取](https://docs.microsoft.com/microsoftteams/guest-access)。
+如需詳細資訊（包括操作方式影片），請參閱 [Microsoft 小組中的 Guest access](https://docs.microsoft.com/microsoftteams/guest-access)。
