@@ -5,18 +5,19 @@ author: microsoftheidi
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1703"
 - "9000170"
-ms.openlocfilehash: 34997edc02b5f222dd6b8e7ed7e5f219af41fac6
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a2796e46a624ed389453789c5a84be8709569891
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "37340520"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799627"
 ---
 # <a name="need-information-on-teams-and-polycom-phones"></a>需要有關 Teams 和 Polycom 電話的資訊？
 

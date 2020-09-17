@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
@@ -11,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001686"
 - "3750"
-ms.openlocfilehash: 77049153939989d1c63789adfec0b494d047a6e4
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 649124db135805d8101b43dbead63860d36853ed
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42931832"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799951"
 ---
 # <a name="unable-to-log-into-teams-due-to-error-autologonmicrosoftazuread-sso-dot-com443"></a>由於錯誤 autologon.microsoftazuread-sso.com:443，無法登入 Teams
 
