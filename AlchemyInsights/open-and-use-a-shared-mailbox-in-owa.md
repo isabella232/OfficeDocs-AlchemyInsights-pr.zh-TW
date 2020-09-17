@@ -6,6 +6,7 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,15 +14,25 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: 91777a95b705b64799627be6602757381f128ea1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6b4db67aab55f309c83aeddf7744cbd047881bea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682067"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729034"
 ---
-# <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="43e5c-102">在 Outlook 網頁版中開啟並使用共用信箱</span><span class="sxs-lookup"><span data-stu-id="43e5c-102">Open and use a shared mailbox in Outlook on the web</span></span>
+# <a name="open-and-use-a-shared-mailbox-in-outlook"></a><span data-ttu-id="7af54-102">在 Outlook 中開啟並使用共用信箱</span><span class="sxs-lookup"><span data-stu-id="7af54-102">Open and use a shared mailbox in Outlook</span></span>
 
-<span data-ttu-id="43e5c-103">您具有存取權的共用信箱未自動顯示在 Outlook 網頁版 (先前稱為 Outlook Web App)。</span><span class="sxs-lookup"><span data-stu-id="43e5c-103">Shared mailboxes that you have access to aren't automatically displayed in Outlook on the web (formerly known as Outlook Web App).</span></span>
+<span data-ttu-id="7af54-103">共用信箱可讓一群人從常見的電子郵件地址監視及傳送電子郵件。</span><span class="sxs-lookup"><span data-stu-id="7af54-103">Shared mailboxes allow a group of people to monitor and send email from a common email address.</span></span> 
 
-<span data-ttu-id="43e5c-104">您可以一起顯示共用信箱和您的主要信箱，或在另一個瀏覽器視窗中開啟共用信箱。</span><span class="sxs-lookup"><span data-stu-id="43e5c-104">You can display the shared mailbox and your primary mailbox together or open the shared mailbox in a separate browser window.</span></span> <span data-ttu-id="43e5c-105">若要接收共用信箱的新郵件通知，您必須在另一個瀏覽器視窗中開啟共用信箱。</span><span class="sxs-lookup"><span data-stu-id="43e5c-105">To receive new message notifications for the shared mailbox, you need to open the shared mailbox in a separate browser window.</span></span> <span data-ttu-id="43e5c-106">如需詳細資訊，請參閱[在 Outlook Web App 中開啟並使用共用信箱](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)。</span><span class="sxs-lookup"><span data-stu-id="43e5c-106">For more information, see [Open and use a shared mailbox in Outlook Web App](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).</span></span>
+<span data-ttu-id="7af54-104">**注意**：您的 Microsoft 365 系統管理員必須建立共用信箱，並將您新增為成員。</span><span class="sxs-lookup"><span data-stu-id="7af54-104">**Note**: Your Microsoft 365 admin needs to create the shared mailbox and add you as a member.</span></span>
+
+<span data-ttu-id="7af54-105">若要瞭解如何開啟和使用共用信箱，請參閱下列內容：</span><span class="sxs-lookup"><span data-stu-id="7af54-105">See the following to learn how to open and use the shared mailbox:</span></span>
+
+- [<span data-ttu-id="7af54-106">新增共用信箱到 Outlook 網頁版</span><span class="sxs-lookup"><span data-stu-id="7af54-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+
+- [<span data-ttu-id="7af54-107">在 Windows 版 Outlook 中開啟並使用共用信箱</span><span class="sxs-lookup"><span data-stu-id="7af54-107">Open and use a shared mailbox in Outlook for Windows</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+
+- [<span data-ttu-id="7af54-108">在 Mac 版 Outlook 中開啟共用資料夾或信箱</span><span class="sxs-lookup"><span data-stu-id="7af54-108">Open a shared folder or mailbox in Outlook for Mac</span></span>](https://support.office.com/article/Open-a-shared-folder-or-mailbox-in-Outlook-for-Mac-6ecc39c5-5577-4a1d-b18c-bbdc92972cb2)
+
+- <span data-ttu-id="7af54-109">[將共用信箱新增至 Outlook Mobile (iOS 與 Android 版 Outlook)](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)。</span><span class="sxs-lookup"><span data-stu-id="7af54-109">[Add a shared mailbox to Outlook mobile (Outlook for iOS & Android)](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)</span></span>
