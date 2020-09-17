@@ -1,33 +1,34 @@
 ---
-title: Outlook 如何同步與我 Android 的連絡人？
+title: Outlook 如何與我的 Android 連絡人進行同步處理？
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001115"
 - "3076"
-ms.openlocfilehash: 8a41923b7c3395c30414cbc39b74011c54267d78
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 5600a56bcbbaf9d484986e1d4d45397dda936a4b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286054"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781346"
 ---
-# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Outlook 如何同步與我 Android 的連絡人？
+# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Outlook 如何與我的 Android 連絡人進行同步處理？
 
-當您撰寫在 Outlook 中的電子郵件時，我們搜尋來自 Outlook 通訊錄 Android 通訊錄和收件者。 此外，我們提供您選項來同步處理連絡人從您的電子郵件帳戶到其他應用程式中使用 Android 通訊錄。 
+當您在 Outlook 中撰寫電子郵件時，我們會從您的 Android 通訊錄和 Outlook 通訊錄中搜尋收件者。 此外，我們也可讓您將從您的電子郵件帳戶同步處理連絡人的選項，用在其他應用程式中。 
  
-**若要啟用這項功能**：
+**若要啟用此功能**：
  
-1. 在您的裝置，移至 [**設定**。
+1. 在您的裝置上，移至 [ **設定**]。
 
-2. **帳戶**] 下點選您想要同步處理連絡人的帳戶。
+2. 在 [ **帳戶**] 底下，按一下您要與其同步處理的帳戶。
 
-3. 切換**同步處理連絡人**滑桿 ON。
+3. 切換 [ **同步處理連絡人** ] 滑杆。
  
-**附註**： 當您嘗試啟用適用於 Android 的 Microsoft Outlook 中的連絡人同步處理，切換**同步處理**連絡人是停用此選項時，您可能會看到文字時，*連絡人同步處理未開啟系統設定] 中*所顯示的訊息。 這可能是由於系統設定] 中已停用**自動同步處理資料**選項。 若要修正此問題，在 [**帳戶**] 功能表中 Android 的系統**設定**啟用**自動同步處理資料**。 此選項是通常位於垂直的省略符號 （⋮） 或列 （⫼） 三倍。 [**帳戶**] 功能表可以在不同的位置，視的型號的裝置和 Android 版本而定。 在最新版的模型，**帳戶**可搜尋的**設定**] 中。
+**附注**：當您嘗試在適用于 Android 的 Microsoft Outlook 中啟用連絡人同步處理時，如果停用 [ **同步處理連絡人** ] 的 [切換] 選項，您可能會看到一則隨文字顯示的訊息， *在 [系統設定] 中不會開啟連絡人同步*處理。 這可能是因為系統設定中已停用 [ **自動同步處理資料** ] 選項。 若要修正此問題，請啟用 Android 系統**設定**中 [**帳戶**] 功能表中的 [**自動同步處理資料**]。 此選項通常是在垂直省略號 (⋮) 或三欄 (⫼) 。 「  **帳戶** 」功能表可以位於不同的位置，這取決於裝置和版本為 Android。 在大多數較新的模型中，可在 [**設定**] 中搜尋**帳戶**。

@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,30 +13,30 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: e02e5e835446626152c8dd98207898de52ae6933
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d07403226345a4e90aa4f7a5aa7a4ef5e0e9ea19
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063788"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781185"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>新增或移除訂閱的授權
 
 以下說明如何新增/移除授權。
   
-1. 在系統管理中心中，移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
+1. 在系統管理中心中，移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。
 
 2. 選擇您要新增/移除授權的訂閱。
 
-3. 按一下 [**新增/移除授權**]。
+3. 按一下 [ **新增/移除授權**]。
 
 4. 輸入所需的總使用者數目。 例如，如果您目前有25個授權，而您想要移除5，請在此欄位中輸入20。
 
 5. 按一下 **[送出變更]**。
 
-**附注**：在下一個帳單上會顯示任何新的收費（授權增加）或信用額度（授權減少）。
+**附注**：任何新收費 (授權增加) 或信用 (授權減少) 會顯示在下一個帳單。
 
-如需如何指派授權的詳細資訊，請參閱[將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
+如需如何指派授權的詳細資訊，請參閱 [將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
 
 **資源**
   
