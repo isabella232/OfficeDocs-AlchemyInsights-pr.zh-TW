@@ -5,34 +5,35 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002646"
 - "5086"
-ms.openlocfilehash: 3d89a088d7f8d1881eafae7121f670c93dda7d84
-ms.sourcegitcommit: bcd6df19adeb5e3a04e518a05621dd6c68da93f2
+ms.openlocfilehash: d90356ceaca90d065676be48aa922425c2f2c779
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43955705"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798007"
 ---
-# <a name="raise-your-hand-in-teams"></a><span data-ttu-id="cc245-102">在 Teams 中舉手發言！</span><span class="sxs-lookup"><span data-stu-id="cc245-102">Raise your hand in Teams!</span></span>
+# <a name="raise-your-hand-in-teams"></a><span data-ttu-id="47250-102">在 Teams 中舉手發言！</span><span class="sxs-lookup"><span data-stu-id="47250-102">Raise your hand in Teams!</span></span>
 
-- <span data-ttu-id="cc245-103">Teams 中新增的「舉手」功能可讓與會者透過切換會議控制列中的手部圖示，來輕鬆地主動參與會議。</span><span class="sxs-lookup"><span data-stu-id="cc245-103">The new raise hand feature in Teams allows meeting attendees to identify that they wish to speak by toggling the hand icon in the meeting control bar, making it easier to actively participate in meetings.</span></span>
-- <span data-ttu-id="cc245-104">「舉手」功能會先在 PC、Mac 和 Web 版用戶端中提供。</span><span class="sxs-lookup"><span data-stu-id="cc245-104">Raise hand will be available initially for PC, Mac, and web-based clients.</span></span>
-- <span data-ttu-id="cc245-105">行動裝置應用程式的支援將在之後提供。</span><span class="sxs-lookup"><span data-stu-id="cc245-105">Support for mobile applications will follow.</span></span> <span data-ttu-id="cc245-106">我們將於 4 月中正式推出此功能。</span><span class="sxs-lookup"><span data-stu-id="cc245-106">We'll be gradually rolling this out in mid-April.</span></span>
-- <span data-ttu-id="cc245-107">政府環境或行動平台 (iOS 和 Android) 上的功能支援預計在 5 月底推出。</span><span class="sxs-lookup"><span data-stu-id="cc245-107">Expect feature support in government environments and on mobile platforms (iOS and Android) in late May.</span></span>
-- <span data-ttu-id="cc245-108">此訊息會與 Microsoft 365 藍圖識別碼 62755 相關聯。</span><span class="sxs-lookup"><span data-stu-id="cc245-108">This message is associated with Microsoft 365 Roadmap ID 62755.</span></span>
+- <span data-ttu-id="47250-103">Teams 中新增的「舉手」功能可讓與會者透過切換會議控制列中的手部圖示，來輕鬆地主動參與會議。</span><span class="sxs-lookup"><span data-stu-id="47250-103">The new raise hand feature in Teams allows meeting attendees to identify that they wish to speak by toggling the hand icon in the meeting control bar, making it easier to actively participate in meetings.</span></span>
+- <span data-ttu-id="47250-104">「舉手」功能會先在 PC、Mac 和 Web 版用戶端中提供。</span><span class="sxs-lookup"><span data-stu-id="47250-104">Raise hand will be available initially for PC, Mac, and web-based clients.</span></span>
+- <span data-ttu-id="47250-105">行動裝置應用程式的支援將在之後提供。</span><span class="sxs-lookup"><span data-stu-id="47250-105">Support for mobile applications will follow.</span></span> <span data-ttu-id="47250-106">我們將於 4 月中正式推出此功能。</span><span class="sxs-lookup"><span data-stu-id="47250-106">We'll be gradually rolling this out in mid-April.</span></span>
+- <span data-ttu-id="47250-107">政府環境或行動平台 (iOS 和 Android) 上的功能支援預計在 5 月底推出。</span><span class="sxs-lookup"><span data-stu-id="47250-107">Expect feature support in government environments and on mobile platforms (iOS and Android) in late May.</span></span>
+- <span data-ttu-id="47250-108">此訊息會與 Microsoft 365 藍圖識別碼 62755 相關聯。</span><span class="sxs-lookup"><span data-stu-id="47250-108">This message is associated with Microsoft 365 Roadmap ID 62755.</span></span>
 
-<span data-ttu-id="cc245-109">**已知限制**：</span><span class="sxs-lookup"><span data-stu-id="cc245-109">**KNOWN LIMITATIONS**:</span></span>
+<span data-ttu-id="47250-109">**已知限制**：</span><span class="sxs-lookup"><span data-stu-id="47250-109">**KNOWN LIMITATIONS**:</span></span>
 
-- <span data-ttu-id="cc245-110">目前不支援 1:1 通話/聊天。</span><span class="sxs-lookup"><span data-stu-id="cc245-110">At this time, 1:1 calls/chats are not supported.</span></span>
-- <span data-ttu-id="cc245-111">PSTN 電話撥入參與者將「無法」使用這項功能。</span><span class="sxs-lookup"><span data-stu-id="cc245-111">PSTN dial-in participants will NOT be able to use this feature.</span></span>
-- <span data-ttu-id="cc245-112">共用桌面或螢幕的使用者將「無法」看到舉手的動作 (我們正在設計這項功能)。</span><span class="sxs-lookup"><span data-stu-id="cc245-112">Users who are sharing a desktop or screen will NOT be able to see raised hands (we are working on this feature).</span></span>
-- <span data-ttu-id="cc245-113">簡報者目前無法使所有舉起的手放下 (例如問題時間已結束) (功能開發中)</span><span class="sxs-lookup"><span data-stu-id="cc245-113">Presenters are currently unable to lower all raised hands, for example, if question time has ended (feature in development).</span></span>
-- <span data-ttu-id="cc245-114">此功能目前沒有可用的分析 (審查中)。</span><span class="sxs-lookup"><span data-stu-id="cc245-114">There are currently no analytics available on this feature (under consideration).</span></span>
-- <span data-ttu-id="cc245-115">手部圖示無法閃爍/加上動畫效果 (功能開發中)。</span><span class="sxs-lookup"><span data-stu-id="cc245-115">Hand icon does not flash/animate (feature in development).</span></span>
-- <span data-ttu-id="cc245-116">舉手時，交談中沒有通知 (審查中)。</span><span class="sxs-lookup"><span data-stu-id="cc245-116">When a hand is raised, there is no notification in chat (under consideration).</span></span>
-- <span data-ttu-id="cc245-117">舉手的使用者 (與會者) 並不知道他們所處的「順序」，但簡報者「會」根據與會者舉手的順序看到他們 (功能開發中)。</span><span class="sxs-lookup"><span data-stu-id="cc245-117">Users (attendees) who raise their hand will not know what "order" they are in; the presenter WILL see attendees in the order they raise their hands (feature in development).</span></span>
+- <span data-ttu-id="47250-110">目前不支援 1:1 通話/聊天。</span><span class="sxs-lookup"><span data-stu-id="47250-110">At this time, 1:1 calls/chats are not supported.</span></span>
+- <span data-ttu-id="47250-111">PSTN 電話撥入參與者將「無法」使用這項功能。</span><span class="sxs-lookup"><span data-stu-id="47250-111">PSTN dial-in participants will NOT be able to use this feature.</span></span>
+- <span data-ttu-id="47250-112">共用桌面或螢幕的使用者將「無法」看到舉手的動作 (我們正在設計這項功能)。</span><span class="sxs-lookup"><span data-stu-id="47250-112">Users who are sharing a desktop or screen will NOT be able to see raised hands (we are working on this feature).</span></span>
+- <span data-ttu-id="47250-113">簡報者目前無法使所有舉起的手放下 (例如問題時間已結束) (功能開發中)</span><span class="sxs-lookup"><span data-stu-id="47250-113">Presenters are currently unable to lower all raised hands, for example, if question time has ended (feature in development).</span></span>
+- <span data-ttu-id="47250-114">此功能目前沒有可用的分析 (審查中)。</span><span class="sxs-lookup"><span data-stu-id="47250-114">There are currently no analytics available on this feature (under consideration).</span></span>
+- <span data-ttu-id="47250-115">手部圖示無法閃爍/加上動畫效果 (功能開發中)。</span><span class="sxs-lookup"><span data-stu-id="47250-115">Hand icon does not flash/animate (feature in development).</span></span>
+- <span data-ttu-id="47250-116">舉手時，交談中沒有通知 (審查中)。</span><span class="sxs-lookup"><span data-stu-id="47250-116">When a hand is raised, there is no notification in chat (under consideration).</span></span>
+- <span data-ttu-id="47250-117">舉手的使用者 (與會者) 並不知道他們所處的「順序」，但簡報者「會」根據與會者舉手的順序看到他們 (功能開發中)。</span><span class="sxs-lookup"><span data-stu-id="47250-117">Users (attendees) who raise their hand will not know what "order" they are in; the presenter WILL see attendees in the order they raise their hands (feature in development).</span></span>

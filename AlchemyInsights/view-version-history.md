@@ -5,24 +5,25 @@ author: tomresing
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 34c73c42-e4a0-41ab-8eb8-a834d4bb04c4
-ms.openlocfilehash: c9cdc5065e3f54fd996611d82aa0479b79a634ca
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cd955ccbc393d7052b42cb75fb0158dc46957a72
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707250"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796423"
 ---
-# <a name="view-version-history-of-a-file-or-list-item"></a><span data-ttu-id="d09fc-102">查看檔案或清單專案的版本歷程記錄</span><span class="sxs-lookup"><span data-stu-id="d09fc-102">View version history of a file or list item</span></span>
+# <a name="view-version-history-of-a-file-or-list-item"></a><span data-ttu-id="7f14d-102">查看檔案或清單專案的版本歷程記錄</span><span class="sxs-lookup"><span data-stu-id="7f14d-102">View version history of a file or list item</span></span>
 
-1. <span data-ttu-id="d09fc-103">移至 SharePoint 網站，然後從 [快速啟動] 列中開啟清單或文件庫。</span><span class="sxs-lookup"><span data-stu-id="d09fc-103">Go to the SharePoint site and open the list or library from the Quick Launch bar.</span></span> <span data-ttu-id="d09fc-104">如果清單或文件庫的名稱未出現，請按一下 [**網站內容**] 或 [**查看所有網站內容**]，然後按一下名稱。</span><span class="sxs-lookup"><span data-stu-id="d09fc-104">If the name of the list or library doesn't appear, click **Site contents** or **View All Site Content**, and then click the name.</span></span>
+1. <span data-ttu-id="7f14d-103">移至 SharePoint 網站，然後從 [快速啟動] 列中開啟清單或文件庫。</span><span class="sxs-lookup"><span data-stu-id="7f14d-103">Go to the SharePoint site and open the list or library from the Quick Launch bar.</span></span> <span data-ttu-id="7f14d-104">如果清單或文件庫的名稱未出現，請按一下 [ **網站內容** ] 或 [ **查看所有網站內容**]，然後按一下名稱。</span><span class="sxs-lookup"><span data-stu-id="7f14d-104">If the name of the list or library doesn't appear, click **Site contents** or **View All Site Content**, and then click the name.</span></span>
     
-2. <span data-ttu-id="d09fc-105">以滑鼠右鍵按一下 [專案] 或 [檔案名稱及日期] 之間的空間，然後按一下功能表中的 [**版本歷程記錄**]。</span><span class="sxs-lookup"><span data-stu-id="d09fc-105">Right-click the space between the item or document name and date, and then click **Version History** from the menu.</span></span> <span data-ttu-id="d09fc-106">您可能需要捲動功能表以查看版本歷程**記錄**。</span><span class="sxs-lookup"><span data-stu-id="d09fc-106">You might need to scroll the menu to see **Version History**.</span></span> <span data-ttu-id="d09fc-107">如果您看不到它，請按一下對話方塊中的省略號（...），然後按一下 [版本歷程**記錄**]。</span><span class="sxs-lookup"><span data-stu-id="d09fc-107">If you don't see it, click the ellipsis (...) in the dialog box, and then click **Version History**.</span></span>
+2. <span data-ttu-id="7f14d-105">以滑鼠右鍵按一下 [專案] 或 [檔案名稱及日期] 之間的空間，然後按一下功能表中的 [ **版本歷程記錄** ]。</span><span class="sxs-lookup"><span data-stu-id="7f14d-105">Right-click the space between the item or document name and date, and then click **Version History** from the menu.</span></span> <span data-ttu-id="7f14d-106">您可能需要捲動功能表以查看版本歷程 **記錄**。</span><span class="sxs-lookup"><span data-stu-id="7f14d-106">You might need to scroll the menu to see **Version History**.</span></span> <span data-ttu-id="7f14d-107">如果您看不到它，請按一下對話方塊中的省略號 ( ... ) ，然後按一下 [版本歷程 **記錄**]。</span><span class="sxs-lookup"><span data-stu-id="7f14d-107">If you don't see it, click the ellipsis (...) in the dialog box, and then click **Version History**.</span></span>
     
-3. <span data-ttu-id="d09fc-108">在 [版本記錄] 對話方塊中，指向您想要查看的版本，然後按一下右側的向下箭號以取得選項清單。</span><span class="sxs-lookup"><span data-stu-id="d09fc-108">In the Version History dialog box, point to the version you want view and click the down arrow on the right side to get a list of options.</span></span> <span data-ttu-id="d09fc-109">按一下 [**查看**]。</span><span class="sxs-lookup"><span data-stu-id="d09fc-109">Click **View**.</span></span>
+3. <span data-ttu-id="7f14d-108">在 [版本記錄] 對話方塊中，指向您想要查看的版本，然後按一下右側的向下箭號以取得選項清單。</span><span class="sxs-lookup"><span data-stu-id="7f14d-108">In the Version History dialog box, point to the version you want view and click the down arrow on the right side to get a list of options.</span></span> <span data-ttu-id="7f14d-109">按一下 [ **查看**]。</span><span class="sxs-lookup"><span data-stu-id="7f14d-109">Click **View**.</span></span>
     
-[<span data-ttu-id="d09fc-110">深入瞭解版本歷程記錄</span><span class="sxs-lookup"><span data-stu-id="d09fc-110">Learn more about version history</span></span>](https://go.microsoft.com/fwlink/?linkid=875709)
+[<span data-ttu-id="7f14d-110">深入瞭解版本歷程記錄</span><span class="sxs-lookup"><span data-stu-id="7f14d-110">Learn more about version history</span></span>](https://go.microsoft.com/fwlink/?linkid=875709)
   
 
