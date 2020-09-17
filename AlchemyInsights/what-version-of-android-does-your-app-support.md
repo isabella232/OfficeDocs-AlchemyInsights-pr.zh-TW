@@ -1,41 +1,42 @@
 ---
-title: 您的應用程式支援何種版本的 Android？
+title: 您的應用程式支援哪個版本的 Android？
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: a4c2b4a58a2688ea8c968970f0aee4264eb939d9
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: e3e4f3bb248959b3826438578c5ae274ac04992f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42408928"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773046"
 ---
-# <a name="what-version-of-android-does-your-app-support"></a>您的應用程式支援何種版本的 Android？
+# <a name="what-version-of-android-does-your-app-support"></a>您的應用程式支援哪個版本的 Android？
 
-為獲得最佳效能，我們應用程式在 Android 版本 5.0 或更新版本的任何裝置上運作。
+為了達到最佳效能，我們的應用程式可在任何 Android 版本5.0 和更新版本的裝置上運作。
 
-如果您 Android 作業系統位於最新狀態，但仍會收到通知正在與您的裝置不相容的作業系統，請試著清除快取] 及 [Play Store 應用程式的資料。
+如果您是最新的 Android 作業系統，但仍收到有關作業系統與您的裝置不相容的通知，請嘗試清除 Play Store 應用程式的快取和資料。
 
 若要這麼做︰ 
 
-1. 在 Android 手機或平板電腦，開啟**設定**，然後**應用程式**或**應用程式**。
+1. 在您的 Android 手機或平板電腦上，開啟 [**設定**]，然後再**開啟應用****程式或應用程式**
 
-2. 在螢幕的頂端，點選 [**更多**（這也可能是省略符號或三個垂直點），然後**顯示 [系統**]。 
+2. 在螢幕頂端，按 [ **更多** (此動作也可以是省略號或三個垂直點) 然後 **顯示系統**。 
 
-3. 向下捲動，然後點選 [ **Google Play 服務**。 
+3. 向左下向，然後按 [ **Google Play 服務**]。 
 
-4. 點選 [**儲存空間**，然後**清除快取**。 
+4. 按一下 [ **儲存** ]，然後 **清除**[快取]。 
 
-5. 點選 [**管理空間**，然後**清除所有的資料**。 
+5. 點擊 [ **管理空間** ]，然後 **清除所有資料**。 
 
-6. 開啟**Google Play 商店**。 
+6. 開啟 **Google Play 商店**。 
 
-7. 等待 5 分鐘，然後再試一次。 
+7. 請等候5分鐘，然後再試一次。 

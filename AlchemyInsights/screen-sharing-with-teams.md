@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
 - "9002254"
 - "4358"
-ms.openlocfilehash: f11024c149446e46e64f03cec3a6fbaa26dbbdf8
-ms.sourcegitcommit: da04e79b6072321caa16a6ceea6eb5f15de22394
+ms.openlocfilehash: da0259043dba88445f77a096e23e360343d103cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42955106"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47774126"
 ---
 # <a name="screen-sharing-with-teams"></a>與 Teams 分享螢幕畫面
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 717cdd6827e243ac6bf375209a911937c97088d2
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
+ms.openlocfilehash: 378dedb332ced2c86899401c54726eb6b7e25d08
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44853987"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773406"
 ---
 # <a name="use-powershell-for-sharing-policies-and-organization-relationships"></a>針對共用原則與組織關聯性使用 PowerShell
 

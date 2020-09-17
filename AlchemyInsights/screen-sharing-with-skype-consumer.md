@@ -1,25 +1,26 @@
 ---
-title: 與 Skype 家庭用戶共享] 畫面
+title: 與 Skype 消費者共用畫面
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "4000009"
 - "1433"
-ms.openlocfilehash: ecb4110f2a51369b3f9cc7355abfdcb949d6107d
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 6c89ea3d599fe9944352d9d65ea172658460efeb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305288"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47774342"
 ---
-# <a name="screen-sharing-with-skype-consumer-users"></a>與 Skype 消費者使用者共用的畫面
+# <a name="screen-sharing-with-skype-consumer-users"></a>使用 Skype 消費者使用者的畫面共用
 
-如需如何共用您的程式，以了解與共用，限制一般指示，以及疑難排解資源，請先檢閱[共用您的商務用 Skype 的螢幕](https://support.office.com/article/Share-your-screen-in-Skype-for-Business-2d436dc9-d092-4ef1-83f1-dd9f7a7cd3fc)。  
+如需如何共用程式的一般指示，若要瞭解共用的限制，以及疑難排解資源，請參閱 [在商務用 Skype 中共用您的畫面](https://support.office.com/article/Share-your-screen-in-Skype-for-Business-2d436dc9-d092-4ef1-83f1-dd9f7a7cd3fc)。  
 
-目前，Skype for Business 使用者將無法與 Skype 消費者使用者的螢幕共用。 請[按一下這裡，可](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users)提供意見反應有關啟用畫面共享與消費者用 Skype 使用者。 
+目前，商務用 Skype 使用者無法與 Skype 消費者使用者共用畫面。 請 [按一下這裡](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users) 提供啟用螢幕共用與消費者 Skype 使用者相關的意見反應。 
