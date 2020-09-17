@@ -1,23 +1,24 @@
 ---
-title: 新興此問題：
+title: 新興問題
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1965"
 - "9000337"
-ms.openlocfilehash: b5d0108e6419cb71b7f30991e15773d400b97bed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 25aa596d548e01d8f355448f33dd873064d597f7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550326"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797683"
 ---
-# <a name="emerging-issue"></a>新興此問題：
+# <a name="emerging-issue"></a>新興問題
 
-多個客戶有抱怨有關類似於您所回報的問題。 我們要尋找這個問題。
+有幾個客戶 complained，類似您所報告的問題。 我們正在探索這一問題。
 
-請檢查[服務健康狀況儀表板](https://admin.microsoft.com/adminportal/home#/servicehealth)保持在影響事件的任何服務更新。
+請檢查 [服務健康情況儀表板](https://admin.microsoft.com/adminportal/home#/servicehealth) ，以及時更新影響任何服務的事件。

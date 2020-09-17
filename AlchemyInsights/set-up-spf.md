@@ -5,22 +5,23 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: ec0c3c43eb28eb442ce9c699f610ee2ab064df93
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6059ca011f3b9dd1d4045a0e90d391cae495bc72
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512653"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798943"
 ---
 # <a name="set-up-spf"></a>設定 SPF
 
-更新您的 DNS 記錄，讓您可以使用自訂網域的寄件者原則架構（SPF）來驗證從您的自訂網域傳送的輸出電子郵件。 這有助於防止其他人 "哄騙" 郵件為從您的網域傳送。
+更新您的 DNS 記錄，讓您可以使用寄件者原則框架 (SPF) 與自訂網域，以驗證從您的自訂網域傳送的輸出電子郵件。 這有助於防止其他人 "哄騙" 郵件為從您的網域傳送。
   
 - [設定 SPF 以協助防止詐騙](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
 

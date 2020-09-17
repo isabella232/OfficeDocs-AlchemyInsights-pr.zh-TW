@@ -1,49 +1,50 @@
 ---
-title: XLS 檔案未上按兩下開啟
+title: 在按兩下時未開啟 XLS 檔案
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530738"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796315"
 ---
-# <a name="excel-file-doesnt-open"></a>不會開啟 Excel 檔案
+# <a name="excel-file-doesnt-open"></a>Excel 檔案未開啟
 
-請嘗試下列其中一個這些建議：
+請嘗試下列其中一項建議：
 
-**選擇 [設為預設的 [Excel**
+**選擇 [Excel] 做為預設值**
 
-* 以滑鼠右鍵按一下工作表上，選擇 [**開啟**]，然後選擇 [ **Excel**
+* 在工作表上按一下滑鼠右鍵，然後選擇 [**開啟**]，然後選擇 [ **Excel** ]
 
 **執行快速修復**
 
-1. 前往 [**控制項] 面板 > 程式 > 程式和功能**]。
+1. 移至 [ **控制台] > 程式和功能 >** 程式。
 
-2. 選取您要修復的 Office 產品，然後選擇 [**變更**。
+2. 選取您要修復的 Office 產品，然後選擇 [ **變更**]。
 
-3. 選擇 [**快速修復**] 選項，然後選擇 [**修復**。
+3. 選擇 [ **快速修復** ] 選項，然後選擇 [ **修復**]。
 
-**解除安裝您未使用的 Office 版本**
+**卸載您不使用的 Office 版本**
 
-1. 移至 **[控制台] > 解除安裝程式**，，，然後選取您想要移除的 Office 的版本。
+1. 移至 [ **控制台] > 卸載程式**，然後選取您想要移除的 Office 版本。
 
 2. 按一下 [解除安裝]****。
 
 3. Restart your computer.
 
-**執行此設定在 Office 中開啟 Office 檔案副檔名的疑難排解**
+**執行此疑難排解以設定 Office 副檔名在 Office 中開啟**
 
-1. 執行此疑難排解： https://aka.ms/diag_officefile。
+1. 執行此疑難排解程式： https://aka.ms/diag_officefile 。
 
-2. 根據您的瀏覽器，**開啟**或**儲存**到您的桌面，疑難排解]，然後**執行**它。
+2. 視您的瀏覽器而定， **開啟** 或 **儲存** 疑難排解至您的桌面，然後 **執行** 它。
