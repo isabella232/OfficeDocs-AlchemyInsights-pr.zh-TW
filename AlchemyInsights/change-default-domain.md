@@ -6,22 +6,23 @@ manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5993"
 - "9003196"
-ms.openlocfilehash: 3ac582f65d00753d78ed75dc2362ed9ae3ac87c0
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: 6e7f56498326b3fb4038fbb9cdc191ec4692ca65
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45083937"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815668"
 ---
 # <a name="change-default-domain"></a>變更預設網域
 
-使用 [新增網域精靈][](https://portal.office.com/adminportal/home#/Domains/Wizard) 新增自訂網域之後，自訂網域就會成為新使用者的預設網域，但現有使用者的預設網域則不會變更。
+使用 [新增網域精靈][](https://admin.microsoft.com/Adminportal#/Domains/Wizard) 新增自訂網域之後，自訂網域就會成為新使用者的預設網域，但現有使用者的預設網域則不會變更。
 
 - 若要將預設網域變更為現有網域，請在 [網域][](https://admin.microsoft.com/Adminportal/Home#/Domains) 頁面上選擇網域，然後選取 [設為預設值]****。
 

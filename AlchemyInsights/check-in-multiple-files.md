@@ -1,10 +1,11 @@
 ---
-title: 一次存回數個檔案
+title: 同時存回多個檔案
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
@@ -12,25 +13,25 @@ ms.custom:
 - "5300029"
 - "1688"
 - "986"
-ms.openlocfilehash: 8aad3695d59e9a548817528a68143433be6193ce
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 6172168af77a72a362318bb9d411646a718f2477
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050120"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812358"
 ---
-# <a name="check-in-several-files-at-once"></a>一次存回數個檔案
+# <a name="check-in-several-files-at-once"></a>同時存回多個檔案
 
-檢查檔案內外 SharePoint 文件庫是好方法來追蹤和控制內容的更新方式。 如果您想要在網站上的檔案進行變更，而且您想要確定沒有其他人可以編輯它，取出的檔案。 當您有已取出的檔案時，您可以視需要編輯它線上或離線，並將其儲存多次。
+存回及取出 SharePoint 文件庫是一種很好的方式，可以追蹤和控制更新內容的方式。 如果您想要變更網站上的檔案，並想確定沒有人可以編輯它，請參閱檔案。 當您取出檔案後，您可以線上或離線編輯檔案，並視需要將其儲存多次。
 
-以下一些有用的連結有關這項功能。
+以下是關於此功能的一些有用連結。
 
-- [如何取出、 存回或捨棄檔案的變更](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [如何取出、存回或放棄檔中的變更](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
-- [關於取出、 存回的常見問題和版本](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
+- [有關取出、存回及版本的主要問題](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 
-- [請檢查中多個檔案](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [同時存回多個檔案](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
-- [啟用或停用版本控制/剔除上檢查文件庫](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
+- [啟用或停用文件庫的版本設定/檢出](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
 
   

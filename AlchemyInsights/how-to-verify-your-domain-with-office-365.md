@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f883b0218dfa318eda633f97dbbc9b992c9d4340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d26985b7b4e3c7389a783ab985f7bb11df7d64fe
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744140"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815524"
 ---
 # <a name="how-to-verify-your-domain"></a>如何驗證您的網域
 
-若要驗證網域，請遵循 [[新增網域] 嚮導](https://portal.office.com/adminportal/home#/Domains/Wizard)，或手動移至**安裝**  >  **網域**的 [  >  **新增網域**]。
+若要驗證網域，請遵循 [[新增網域] 嚮導](https://admin.microsoft.com/Adminportal#/Domains/Wizard)，或手動移至**安裝**  >  **網域**的 [  >  **新增網域**]。
 
 如需驗證網域所需之 DNS 變更的詳細資訊，請參閱 [新增 DNS 記錄中的指示以連接您的網域](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。
 

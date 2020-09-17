@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4447"
-ms.openlocfilehash: 9691ca17c5adc02893363fffc88207b87ee79132
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6828ef9913041eb2458943063632a7f4cc01da5d
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "44282245"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815596"
 ---
 # <a name="upload-a-folder-or-files-to-a-document-library"></a>將資料夾或檔案上傳至文件庫
 

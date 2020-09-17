@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
-ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
+ms.openlocfilehash: 313c76df6b2d2739814f481917b4314363600af5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44797962"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812286"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>ADFS 的常見問題和解決方案
 
