@@ -1,9 +1,10 @@
 ---
-title: 外部使用者將無法接受的共用邀請
+title: 外部使用者無法接受共用邀請
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -11,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 21f9ead80336e638a064d16ca14c3ec5c73046c3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: dd5dd5550ecaa781afd10c14157b437f3a78f9af
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052064"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782894"
 ---
-# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>外部使用者將無法接受的共用邀請
+# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>外部使用者無法接受共用邀請
 
-如果外部使用者將無法接受的 SharePoint 或 OneDrive 共用邀請，請嘗試瀏覽下列連結： 
+如果外部使用者無法接受 SharePoint 或 OneDrive 共用邀請，請嘗試造訪下列連結： 
 
-- [「 拒絕存取 」、 「 您需要存取此網站的權限，「 或 SharePoint Online 和商務用 OneDrive 中的 「 使用者找不到在目錄中 」 錯誤](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [「 您的組織原則不允許您與這些使用者的共用 」 時發生錯誤共用項目或在 SharePoint Online 或商務用 OneDrive 網站](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [共用選項會顯示成灰色時從 SharePoint Online 或 OneDrive 共用](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [外部使用者接受使用另一個帳戶的 SharePoint Online 的邀請時出現錯誤訊息](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [OSE 共用 SharePoint 和 OneDrive 中的錯誤](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [SharePoint Online 和商務 OneDrive 中的「拒絕存取」、「您需要存取此網站的許可權」或「目錄中找不到的使用者」錯誤](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [當您在 SharePoint Online 或商務 OneDrive 中共用專案或網站時，「您的組織的原則不允許與這些使用者共用」錯誤。](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [當您從 SharePoint Online 或 OneDrive 共用時，共用選項會變灰。](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [外部使用者使用另一個帳戶接受 SharePoint 線上邀請時的錯誤訊息](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [OSE 在 SharePoint 和 OneDrive 中共用錯誤](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 
