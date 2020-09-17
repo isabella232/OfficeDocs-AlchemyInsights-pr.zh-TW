@@ -1,30 +1,31 @@
 ---
-title: 調整大小，並附加在 Android 上的影像
+title: 在 Android 上調整大小及附加影像
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: 078d74dfd2828a99637c75b11ef7842ef2ed0443
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: 18ff3a111c07e28d7e62feb404623c1a974864f3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278808"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795667"
 ---
-# <a name="resize-and-attach-images-on-android"></a>調整大小，並附加在 Android 上的影像
+# <a name="resize-and-attach-images-on-android"></a>在 Android 上調整大小及附加影像
 
-圖像的大小超過 1 MB 附加到電子郵件時，您必須壓縮/resize 郵件上的影像的選項。
+當您以大小為 1 MB 的圖像將影像附加到電子郵件時，您可以選擇壓縮/重新調整郵件大小的圖像。
  
-- 如果您選擇要保留原始，所有郵件上的影像會都傳送其完整的大小。
+- 如果您選擇保留原始的，則郵件上的所有影像都會以其完整大小傳送。
  
-- 如果您選擇要調整大小，該郵件上的所有影像會都壓縮。  這包括同時仍在編輯該草稿稍後新增的影像。
+- 如果您選擇調整大小，則會壓縮郵件上的所有影像。  這包括稍後在編輯該草稿時新增的影像。
  
-- 如果您儲存草稿，並再回來更新版本，以及您新增另一個大圖像、 會再次要求您及您所選擇該編輯工作階段期間，將會套用至所有的 [草稿]。
+- 如果您儲存草稿後再回來，而且您新增了另一個大型影像，您將會再次詢問您，您的選擇會套用到該編輯會話期間的所有草稿。
  

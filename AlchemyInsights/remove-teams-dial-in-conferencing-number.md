@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 129913c77a9a603289b6e23e57b96aa4ff9628e9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784790"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795739"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>移除 Teams 電話撥入式會議號碼
 

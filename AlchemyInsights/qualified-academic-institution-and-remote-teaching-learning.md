@@ -4,28 +4,29 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: e2ca0e13aa569536d9d529aaa1eef05bb0fa49d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8943f2f8243d908f07823da534e16f80cd7d4903
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764683"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795775"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Microsoft 合格學術機構與遠端教學和學習
 
-若要開始使用 Microsoft 教育版，請造訪這個[網站](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans)並且註冊。
+若要開始使用 Office 365 教育版，請造訪這個[網站](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans)並且註冊。
 
-在等待貴組織的資格進行審查時，您將擁有教職員用 Office 365 A1 試用版和學生用 Office 365 A1 試用版。  請務必新增網域，這麼做有助於加快核准程序。
+在等待貴組織的資格進行審查時，您將擁有教職員用 Office 365 A1 試用版和學生用 Office 365 A1 試用版。 請務必新增網域，這麼做有助於加快核准程序。
 
 您會收到一封電子郵件，通知您貴組織的資格是否已獲准。  
 
-核准之後，您可移至 Microsoft 系統管理中心的[購買服務](https://admin.microsoft.com/Adminportal/Home#/catalog)索引標籤來購買訂閱。
+核准之後，您可移至 Microsoft 365 系統管理中心的[購買服務](https://admin.microsoft.com/Adminportal/Home#/catalog)索引標籤來購買訂閱。
 
 **遠端教學和學習**
 

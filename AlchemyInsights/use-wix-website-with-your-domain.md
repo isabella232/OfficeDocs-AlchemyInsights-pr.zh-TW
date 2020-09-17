@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: 522392d41aa8f84f1f4684ccdbd37d68636be07e
-ms.sourcegitcommit: cbed17334557c1dfa471623f8d5e735f72e697da
+ms.openlocfilehash: b45923ef112917fb95263dc2690672847129b05f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300688"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795046"
 ---
 # <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>將Wix網站與Microsoft Office 365購買或託管域一起使用
 

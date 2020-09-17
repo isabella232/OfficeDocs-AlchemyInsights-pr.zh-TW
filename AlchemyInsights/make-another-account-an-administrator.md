@@ -1,29 +1,30 @@
 ---
-title: 讓另一個帳戶以系統管理員
+title: 讓另一個帳戶成為系統管理員
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: 060492f0792caa34de872ccd97b27006ff172ba0
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738420"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794685"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>以系統管理員在 Windows 10 中變更標準使用者帳戶
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>在 Windows 10 中將標準使用者帳戶變更為系統管理員
 
-以下是如何在 Windows 10 中的系統管理員變更標準使用者帳戶：
+以下說明如何在 Windows 10 中將標準使用者帳戶變更為系統管理員：
 
-1. 移至**開始** > **設定** > **帳戶** > **系列 & 其他人**（或**其他人**，如果您使用 Windows 10 企業版）。
-2. 選取您想要讓系統管理員的帳戶，然後選取 [**變更帳戶**。
-3. [**帳戶類型**] 下選取**系統管理員**，然後再選取 **[確定]**。
+1. **Start**  >  **Settings**  >  **Account**  >  如果您使用的是 Windows 10 企業版) ，請移至「開始設定帳戶」**系列 & 其他人員** (或**其他人員**。
+2. 選取您要成為系統管理員的帳戶，然後選取 [ **變更帳戶**]。
+3. 在 [ **帳戶類型**] 底下，選取 [ **系統管理員**]，然後選取 **[確定]**。
 
-**附註：** 您只可以變更給系統管理員的帳戶從現有的系統管理員帳戶。
+**附注：** 您只可以從現有的系統管理員帳戶變更帳戶給系統管理員。

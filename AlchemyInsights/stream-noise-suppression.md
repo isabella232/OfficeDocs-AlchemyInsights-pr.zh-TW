@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6068"
 - "9003225"
-ms.openlocfilehash: e383b6bb1bda77b41c1b05823dd537db3040cab2
-ms.sourcegitcommit: b0b050a83db28566b68e3ec09810c6b94280008e
+ms.openlocfilehash: 21db226e971978239c9496898a6855988149fe3f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45186101"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795271"
 ---
 # <a name="stream-noise-suppression"></a>串流噪音抑制
 
