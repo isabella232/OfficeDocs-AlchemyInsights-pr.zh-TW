@@ -23,6 +23,6 @@ ms.locfileid: "47737980"
 
 如果您在嘗試傳送 SMTP 電子郵件，並在使用用戶端或應用程式進行驗證時收到錯誤 5.7.57 或 5.7.3，您應檢查下列事項：
 
-- 在您的租用戶中或您嘗試使用的信箱上 (檢查這兩項設定)，已驗證的 SMTP 提交可能已停用。 若要閱讀更多相關資訊，請參閱[啟用或停用已驗證用戶端 SMTP 提交](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission)。
+- 在您的租用戶中或您嘗試使用的信箱上 (檢查這兩項設定)，已驗證的 SMTP 提交可能已停用。 若要閱讀更多相關資訊，請參閱[啟用或停用已驗證用戶端 SMTP 提交](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission) \(部分機器翻譯\)。
 
-- 檢查是否為您的租用戶啟用 [Azure 安全性預設值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)；如果啟用，使用基本驗證 (也稱為舊版驗證，這會使用使用者名稱和密碼) 的 SMTP 驗證將會失敗。
+- 檢查是否為您的租用戶啟用 [Azure 安全性預設值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) \(部分機器翻譯\)；如果啟用，使用基本驗證 (也稱為舊版驗證，這會使用使用者名稱和密碼) 的 SMTP 驗證將會失敗。

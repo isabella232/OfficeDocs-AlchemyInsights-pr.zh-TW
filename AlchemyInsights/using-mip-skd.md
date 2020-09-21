@@ -35,7 +35,7 @@ ms.locfileid: "47770038"
 如需其他資源，請參閱：
 
 - [Microsoft 資訊保護 SDK 文件](https://docs.microsoft.com/information-protection/develop/)
-- [Azure 資訊保護開發人員指南](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
+- [Azure 資訊保護開發人員指南](https://docs.microsoft.com/azure/information-protection/develop/developers-guide) \(部分機器翻譯\)
 - [下載 Microsoft 資訊保護軟體開發套件](https://www.microsoft.com/download/details.aspx?id=57392)
 - [Microsoft 資訊保護 (MIP) SDK 安裝和設定](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
 - [MIP SDK 的 Azure 程式碼範例](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
