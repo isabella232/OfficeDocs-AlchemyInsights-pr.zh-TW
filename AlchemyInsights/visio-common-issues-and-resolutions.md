@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3c534ef21cdefd333d0d0305cd460a0542a63d4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722544"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699258"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Visio 常見問題和解決方案
 
@@ -24,13 +25,13 @@ ms.locfileid: "43722544"
 
 **Visio Online 選項**
 
-- Visio 會以[獨立應用程式](https://products.office.com/visio/flowchart-software)的形式來販售。 系統管理員可以從 Microsoft 365 系統管理中心購買 [Visio 訂閱](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription)。
+- Visio 會以[獨立應用程式](https://products.office.com/visio/flowchart-software)的形式來販售。 系統管理員可以透過 Microsoft 365 系統管理中心購買 [Visio 訂閱](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription)。
 
 - Visio 提供[不同的訂閱方案](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options)。 如果您缺少 Visio 的某些功能，請[比較 Visio 選項](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options)以深入了解方案 1 和方案 2 的差異。  請注意，Visio Online 方案 1 不包含電腦版 Visio。
 
 **下載、安裝和啟用 Visio**
 
-- 若要使用 Visio Online 方案 2 來安裝和啟用 Visio 傳統型應用程式，使用者必須先獲派 [Visio 授權](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)。
+- 若要使用 Visio Online 方案 2 來安裝和啟用 Visio 傳統型應用程式，使用者必須先獲派 [Visio 授權](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。
 
 - 如果尚未安裝 Visio，請從「我的帳戶」入口網站進行安裝。 如需說明，請參閱[安裝 Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710)。
 
@@ -40,7 +41,7 @@ ms.locfileid: "43722544"
 
 **Mac 上的 Visio**
 
-Mac 沒有 Visio 傳統型應用程式。 不過，擁有有效 [Visio Online 授權](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)的使用者可在網頁瀏覽器中於 Visio Online [檢視、建立和編輯圖表](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc)。
+Mac 沒有 Visio 傳統型應用程式。 不過，擁有有效 [Visio Online 授權](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)的使用者可在網頁瀏覽器中於 Visio Online [檢視、建立和編輯圖表](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc)。
 
 **圖表、範本、圖形和連接器**
 
