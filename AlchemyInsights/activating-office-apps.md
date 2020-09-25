@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: b6945d7e8b201cfc37900bed11bfb64ad1838efc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e4fe5401663eaf7a332b7dac6a786a05656f63f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697980"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236044"
 ---
 # <a name="activating-microsoft-365-apps"></a>啟用 Microsoft 365 應用程式
 
@@ -35,6 +35,8 @@ ms.locfileid: "47697980"
 - [Office 中的「未授權產品」及啟用錯誤](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [無法安裝或啟用 Mac 版 Office 時的解決方案](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
+
+**提示**：在 Windows 電腦上，我們可以為您診斷並自動修正數種常見的 Office 登入問題。 下載並執行 **[Microsoft 支援及修復小幫手](https://aka.ms/SaRA-OfficeSignInScenario)** 以使用我們的自動化工具。
 
 如果您無法登入 Microsoft 365 應用程式，請遵循下列步驟：
 

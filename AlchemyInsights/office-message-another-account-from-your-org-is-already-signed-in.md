@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 0a9678905a58be2b68ad60d0d947483671d6b3b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802804"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236008"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 應用程式訊息 - 很抱歉，您組織中的其他帳戶已在此電腦上登入
 
@@ -32,6 +32,8 @@ ms.locfileid: "47802804"
 - 按一下 **+** 圖示以新增或連線您的帳戶。 輸入您的認證，並等待程序完成。
 
 - 視需要啟動 Office 應用程式並再次登入。 
+
+**提示**：在 Windows 電腦上，我們可以為您診斷並自動修正數種常見的 Office 登入問題。 下載並執行 **[Microsoft 支援及修復小幫手](https://aka.ms/SaRA-OfficeSignInScenario)** 以使用我們的自動化工具。
 
 如果問題持續發生，請嘗試下列步驟： 
 
