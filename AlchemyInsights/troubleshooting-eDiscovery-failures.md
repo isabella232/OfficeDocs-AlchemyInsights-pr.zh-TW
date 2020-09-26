@@ -14,12 +14,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658941"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277815"
 ---
 # <a name="troubleshoot-content-search-errors"></a>疑難排解內容搜尋錯誤
 
@@ -36,3 +36,5 @@ ms.locfileid: "47658941"
 或是從大量信箱 100000 (的結果搜尋或匯出) 時，是否有您取得匯出的錯誤？
 
 針對這些類型的錯誤，請嘗試對失敗的內容位置進行搜尋。 如需詳細資訊，請參閱  [本文](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) 。
+
+若要匯出的信箱超過10個，您必須使用下列 Powershell 下載匯出結果：  [從超過100k 的信箱匯出結果](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)。
