@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 50939456df57920994e464db20e5da54f45f197a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744617"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236080"
 ---
 # <a name="unable-to-activate-office"></a>無法啟用 Office
 
@@ -26,6 +26,8 @@ ms.locfileid: "47744617"
 - 請確認使用者使用所指派授權的相同帳戶登入 Office。
 - 查看 [Office 365 服務健康情況頁面](https://docs.microsoft.com/office365/enterprise/view-service-health)，以查看服務是否有任何已知問題。
 - 檢查您的防火牆、防毒軟體和 Proxy 設定，確認未封鎖 Microsoft 365 應用程式存取網際網路。 若要深入了解，請參閱 [Office 365 URL 和 IP 位址範圍](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Office 365 URL 和 IP 位址範圍") (英文)。
+
+**提示**：在 Windows 電腦上，我們可以為您診斷並自動修正數種常見的 Office 登入問題。 下載並執行 **[Microsoft 支援及修復小幫手](https://aka.ms/SaRA-OfficeSignInScenario)** 以使用我們的自動化工具。
 
 請使用下列疑難排解動作：
 

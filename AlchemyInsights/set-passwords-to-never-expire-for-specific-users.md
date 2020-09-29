@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 4787e9e4be87785b7273ee74f175092c5a85f15e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
+ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795559"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295597"
 ---
 # <a name="set-passwords-to-never-expire"></a>將密碼設定為永遠不過期
 
-若要將所有密碼設為永不過期，請在 Microsoft 365 系統管理中心中，移至 [**設定**  >  [安全性 &amp; 隱私權](https://portal.office.com/adminportal/home#/settings/security)] 頁面。 選取 [**密碼原則**] 旁的 [**編輯**]，然後將滑塊變成 [**開啟**]。
+若要將所有密碼設為永不過期，請在 Microsoft 365 系統管理中心中，移至 [**設定**  >  **組織設定 >[安全性和隱私權](https://portal.office.com/adminportal/home#/settings/security)  >  [密碼到期原則](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** ]，並取消勾選 [將使用者密碼設為在數天后到期]。
   
-如需詳細資訊，請參閱： 
+如需詳細資訊，請參閱：
 
 - [為您的組織設定密碼到期原則。](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
