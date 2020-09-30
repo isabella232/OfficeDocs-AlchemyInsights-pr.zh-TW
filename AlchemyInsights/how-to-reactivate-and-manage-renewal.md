@@ -2,8 +2,8 @@
 title: 如何重新啟用和管理更新
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,37 +14,30 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: ef035f1e75756342cce48de7d00adfee7c74caf0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2d3daba78f9f33bb17219b8987689d5992dcdbe
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779546"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307045"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>如何重新啟用和管理週期性帳單
+# <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>如何重新啟用訂閱及管理週期性帳單
 
 您的訂閱似乎已過期。 如果您想要重新啟用它，請參閱操作方法。
   
-1. 在系統管理中心中，移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。
+1. 在系統管理中心，移至 **[帳單]** > [您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
+2. 在 **[產品]** 索引標籤上，找出您要重新啟用的訂閱。 選取 **[更多動作**（三個點）]，然後選取 **[重新啟用此訂閱]**。
+3. 在 **重新啟用此訂閱** 窗格中，從下拉式清單中選取付款條件，或選取 **[新增付款條件]**。
+4. 選取 **[儲存]**。
 
-2. 找到您想要重新啟動的訂閱。 在 [ **帳單** ] 區段中，選取 [  **重新**啟用]。
+若要深入了解，請參閱[重新啟動您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription)。
 
-    如果您沒有看到 [ **重新** 啟用] 做為選項，請使用「需要協助」按鈕與支援工程師交談，以重新啟用您的訂閱。
-
-3. 確認您的付款詳細資料。 您可以在這裡更新現有的付款資訊。 當您完成輸入支付方式時，請選取 [ **重新**啟用]。
-
-若要深入了解，請參閱[重新啟動您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription)。 
-
-若要管理每月或每年帳單，您可以切換 **定期計費** 。
+若要管理每月或每年帳單，您可以開啟或關閉**週期性計費**。
   
-1. 在系統管理中心中，移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。
-
-2. 選擇您想要管理週期性計費的訂閱。
-
-3. 在 **[帳單]** 下，於 **[更新日期]** 或 **[到期日]** 旁，選取 **[編輯]**。
-
-4. 在 **[週期性計費設定]** 窗格中，選取 **[關閉]** 可將它關閉。 如果週期性帳單已關閉，選取 **[每月]** 或 **[一次]** 以將它開啟。
-
-5. 選取 **[送出變更]**。
+1. 在系統管理中心，移至 **[帳單]** > [您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
+2. 在 [ **產品** ] 索引標籤上，選取您要變更的訂閱。
+3. 在訂閱詳細資料頁面的**訂閱與付款**設定底下，選取 **編輯週期性計費**。
+4. 在**編輯週期性計費的設定** 窗格中,選取**其位於**上的, **開啟, 但續約一次**, 或 **關閉**。
+5. 選取 **[儲存]**。
 
 若要深入了解，請參閱[關閉或開啟週期性計費](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)。

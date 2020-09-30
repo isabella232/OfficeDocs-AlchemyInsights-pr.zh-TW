@@ -1,8 +1,8 @@
 ---
 title: 管理訂閱續約
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,20 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 0c85962d4c1f07a14cea0ef8896359c802fa499d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17ec34814ffe59ba6370ea046494db6345eff499
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777854"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286913"
 ---
 # <a name="manage-subscription-renewal"></a>管理訂閱續約
 
 若要管理每月或每年帳單，您可以開啟或關閉**週期性計費**。
 
-1. 在系統管理中心，移至 **[帳單]**  >  **[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** 頁面。
-
-2. 選擇您想要管理週期性計費的訂閱。
-
-3. 在 [帳單]**** 下的 [更新日期]**** 或 [到期日]**** 旁，按一下 [編輯]****。
-
-4. 在 [週期性計費設定]**** 窗格中，按一下 [關閉]**** 可將它關閉。 如果週期性計費已關閉，按一下 **[每月]** 或 **[一次]** 可將它開啟。
-
-5. 按一下 **[送出變更]**。
+1. 在系統管理中心，移至 [帳單 **]**  >  [[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**]** 頁面。
+2. 在 **產品** 索引標籤上，找出您要管理的訂閱，選取 **[更多動作**（三個點）]，然後選取 **[編輯週期性計費]**。
+3. 在 **[編輯週期性計費]** 窗格中，選取 **[開啟]**、**[開啟，更新一次]** 或 **[關閉 ]**。
+4. 選取 **[儲存]**。
 
 若要深入了解，請參閱[關閉或開啟週期性計費](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)。

@@ -2,7 +2,7 @@
 title: 授權太多？
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: da82082b92d23ef12de0318372ed9e873ec63ad1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ce1afbdf67a4cd1746d8cf0aa5818613278d8e4
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736018"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307225"
 ---
 # <a name="too-many-licenses"></a>授權太多？
 
@@ -27,10 +27,10 @@ ms.locfileid: "47736018"
   
 **減少購買的授權數量**
   
-1. 在系統管理中心中，移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。
+1. 在系統管理中心，移至 **[帳單]** \> **[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** 頁面。
+2. 在 [ **產品** ] 索引標籤上，選取您要變更的訂閱。
+3. 在 [訂閱詳細資料] 頁面上，選取 [ **移除授權**]。
+4. 在 [**移除授權**] 窗格的 [**授權總數**]**方塊中，** 輸入您要用於此訂閱的授權總數。 例如，如果您有100授權，而您想要移除25個，請輸入75。
+5. 選取 **[儲存]**。
 
-2. 尋找您要移除授權的訂閱，然後選取 [ **新增/移除授權**]。
-
-3. 在 [ **授權總數** ] 方塊中，輸入此訂閱所需的授權總數，然後選取 [ **提交變更**]。 例如，若您有 110 個授權，而您需要移除 5 個授權，則輸入 105。
-
-若要深入瞭解，請參閱 [從 Microsoft 365 for business 訂閱中移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。
+若要深入瞭解，請參閱 [購買或移除訂閱授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。

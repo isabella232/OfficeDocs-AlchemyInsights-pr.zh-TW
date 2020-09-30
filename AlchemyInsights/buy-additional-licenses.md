@@ -2,7 +2,7 @@
 title: 購買額外的授權
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,28 +13,23 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: c228e9e7ffea4c1858c2c17a813b90f064a242a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725542"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307125"
 ---
 # <a name="buy-additional-licenses"></a>購買額外的授權
 
-1. 在系統管理中心中，移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。
+1. 在系統管理中心，移至 **[帳單]** > [您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
+2. 在 [ **產品** ] 索引標籤上，尋找您要購買或移除授權的訂閱。 選取 [ **更多** (三點) 的動作，然後選取 [ **購買授權**]。
+3. 如果您想要減少授權數目，請在 [ **購買授權** ] 窗格的頂端，選取 [ **移除授權**]。
+4. 若要購買或移除授權，請在 [**授權總數**] 方塊中的 [**新數量**] 下，輸入此訂閱所需的授權總數。 例如，如果您有100授權，而您想要增加25個，請輸入125。 如果您想要移除25個授權，請輸入75。
+5. 選取 **[儲存]**。
 
-2. 尋找您要新增授權的訂閱，然後選取 [ **新增/移除授權**]。
-
-    [如果看不到 [新增/移除] 連結，該怎麼辦？](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-
-3. 在 [ **授權總數** ] 方塊中，輸入此訂閱所需的授權總數，然後選擇 [ **提交變更**]。 For example, if you have 100 licenses and you need to add 5 more, enter 105.
-
-    > [!NOTE]
-    > 如果您是以信用卡或銀行帳戶支付訂閱費用，在收到訂單確認後，就可立刻使用所購買的所有新授權。 如果您的訂閱付款方式是使用發票，您可能需要等待信用查核，然後才能使用新授權。
-
-若要深入瞭解，請參閱 [購買商務用 Microsoft 365 訂閱的授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。  
+若要深入瞭解，請參閱 [購買商務用 Microsoft 365 訂閱的授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。
 
 **其他資源**
 
-- [將授權指派給 Microsoft 365 for business 中的使用者](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [將授權指派給 Microsoft 365 for business 中的使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
