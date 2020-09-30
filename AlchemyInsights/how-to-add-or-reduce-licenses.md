@@ -2,7 +2,7 @@
 title: 新增或移除訂閱的授權
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,35 +13,27 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: d07403226345a4e90aa4f7a5aa7a4ef5e0e9ea19
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b86937c48d7fe553436863e5f6ec70438652451
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781185"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307261"
 ---
-# <a name="add-or-remove-licenses-for-your-subscription"></a><span data-ttu-id="90f92-102">新增或移除訂閱的授權</span><span class="sxs-lookup"><span data-stu-id="90f92-102">Add or remove licenses for your subscription</span></span>
+# <a name="add-or-remove-licenses-for-your-subscription"></a><span data-ttu-id="df266-102">新增或移除訂閱的授權</span><span class="sxs-lookup"><span data-stu-id="df266-102">Add or remove licenses for your subscription</span></span>
 
-<span data-ttu-id="90f92-103">以下說明如何新增/移除授權。</span><span class="sxs-lookup"><span data-stu-id="90f92-103">Here's how to Add/Remove licenses.</span></span>
+<span data-ttu-id="df266-103">以下說明如何新增或移除授權。</span><span class="sxs-lookup"><span data-stu-id="df266-103">Here's how to add or remove licenses.</span></span>
   
-1. <span data-ttu-id="90f92-104">在系統管理中心中，移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。</span><span class="sxs-lookup"><span data-stu-id="90f92-104">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="df266-104">在系統管理中心，移至 **[帳單]** > [您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。</span><span class="sxs-lookup"><span data-stu-id="df266-104">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="df266-105">在 [ **產品** ] 索引標籤上，尋找您要購買或移除授權的訂閱。</span><span class="sxs-lookup"><span data-stu-id="df266-105">On the **Products** tab, find the subscription for which you want to buy or remove licenses.</span></span> <span data-ttu-id="df266-106">選取 [ **更多** (三點) 的動作，然後選取 [ **購買授權**]。</span><span class="sxs-lookup"><span data-stu-id="df266-106">Select **More actions** (three dots), then select **Buy licenses**.</span></span>
+3. <span data-ttu-id="df266-107">如果您想要減少授權數目，請在 [ **購買授權** ] 窗格的頂端，選取 [ **移除授權**]。</span><span class="sxs-lookup"><span data-stu-id="df266-107">If you want to decrease the number of licenses, at the top of the **Buy licenses** pane, select **remove licenses**.</span></span>
+4. <span data-ttu-id="df266-108">若要購買或移除授權，請在 [**授權總數**] 方塊中的 [**新數量**] 下，輸入此訂閱所需的授權總數。</span><span class="sxs-lookup"><span data-stu-id="df266-108">To buy or remove licenses, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="df266-109">例如，如果您有100授權，而您想要增加25個，請輸入125。</span><span class="sxs-lookup"><span data-stu-id="df266-109">For example, if you have 100 licenses and you want to add 25 more, enter 125.</span></span> <span data-ttu-id="df266-110">如果您想要移除25個授權，請輸入75。</span><span class="sxs-lookup"><span data-stu-id="df266-110">If you want to remove 25 licenses, enter 75.</span></span>
+5. <span data-ttu-id="df266-111">選取 **[儲存]**。</span><span class="sxs-lookup"><span data-stu-id="df266-111">Select **Save**.</span></span>
 
-2. <span data-ttu-id="90f92-105">選擇您要新增/移除授權的訂閱。</span><span class="sxs-lookup"><span data-stu-id="90f92-105">Choose the subscription for which you want to add/remove licenses.</span></span>
+<span data-ttu-id="df266-112">如需如何指派授權的詳細資訊，請參閱 [將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。</span><span class="sxs-lookup"><span data-stu-id="df266-112">For information on how to assign licenses, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
 
-3. <span data-ttu-id="90f92-106">按一下 [ **新增/移除授權**]。</span><span class="sxs-lookup"><span data-stu-id="90f92-106">Click **Add/Remove licenses**.</span></span>
-
-4. <span data-ttu-id="90f92-107">輸入所需的總使用者數目。</span><span class="sxs-lookup"><span data-stu-id="90f92-107">Enter the total number of users needed.</span></span> <span data-ttu-id="90f92-108">例如，如果您目前有25個授權，而您想要移除5，請在此欄位中輸入20。</span><span class="sxs-lookup"><span data-stu-id="90f92-108">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
-
-5. <span data-ttu-id="90f92-109">按一下 **[送出變更]**。</span><span class="sxs-lookup"><span data-stu-id="90f92-109">Click **Submit change**.</span></span>
-
-<span data-ttu-id="90f92-110">**附注**：任何新收費 (授權增加) 或信用 (授權減少) 會顯示在下一個帳單。</span><span class="sxs-lookup"><span data-stu-id="90f92-110">**Note**: Any new charge (license increase) or credit (license decrease) will show up on your next bill.</span></span>
-
-<span data-ttu-id="90f92-111">如需如何指派授權的詳細資訊，請參閱 [將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。</span><span class="sxs-lookup"><span data-stu-id="90f92-111">For information on how to assign licenses, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
-
-<span data-ttu-id="90f92-112">**資源**</span><span class="sxs-lookup"><span data-stu-id="90f92-112">**Resources**</span></span>
+<span data-ttu-id="df266-113">**資源**</span><span class="sxs-lookup"><span data-stu-id="df266-113">**Resources**</span></span>
   
-- [<span data-ttu-id="90f92-113">管理訂閱授權-購買或移除</span><span class="sxs-lookup"><span data-stu-id="90f92-113">Manage subscription licenses - buy or remove</span></span>](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-
-- [<span data-ttu-id="90f92-114">取消 Microsoft 商務用 Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="90f92-114">Cancel Microsoft 365 for business</span></span>](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
-
-- [<span data-ttu-id="90f92-115">購買其他 Microsoft 365 for business 訂閱</span><span class="sxs-lookup"><span data-stu-id="90f92-115">Buy another Microsoft 365 for business subscription</span></span>](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [<span data-ttu-id="df266-114">購買或移除訂閱授權</span><span class="sxs-lookup"><span data-stu-id="df266-114">Buy or remove subscription licenses</span></span>](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [<span data-ttu-id="df266-115">取消 Microsoft 商務用 Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="df266-115">Cancel Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [<span data-ttu-id="df266-116">嘗試或購買 Microsoft 365 for business 訂閱</span><span class="sxs-lookup"><span data-stu-id="df266-116">Try or buy a Microsoft 365 for business subscription</span></span>](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

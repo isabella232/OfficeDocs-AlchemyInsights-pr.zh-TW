@@ -1,8 +1,8 @@
 ---
 title: 您的產品
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49f90fd3a911abaebe158e442d97f9345548ee88
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799231"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307009"
 ---
-# <a name="your-products"></a><span data-ttu-id="72a0b-102">您的產品</span><span class="sxs-lookup"><span data-stu-id="72a0b-102">Your products</span></span>
+# <a name="your-products"></a><span data-ttu-id="2e0ce-102">您的產品</span><span class="sxs-lookup"><span data-stu-id="2e0ce-102">Your products</span></span>
 
-<span data-ttu-id="72a0b-103">您可以在 [**帳單**  >  **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面上找到您的組織所擁有的訂閱。</span><span class="sxs-lookup"><span data-stu-id="72a0b-103">You can find the subscriptions owned by your organization on the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span> <span data-ttu-id="72a0b-104">以下是此頁面的一些重點，以及每項功能的詳細資訊連結：</span><span class="sxs-lookup"><span data-stu-id="72a0b-104">Here are some of the highlights of this page along with links for more info on each feature:</span></span>
+<span data-ttu-id="2e0ce-103">您可以在 [**帳單**  >  [產品](https://go.microsoft.com/fwlink/p/?linkid=842054)] 頁面上找到您的組織所擁有的訂閱。</span><span class="sxs-lookup"><span data-stu-id="2e0ce-103">You can find the subscriptions owned by your organization on the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="2e0ce-104">以下是此頁面的一些重點，以及每項功能的詳細資訊連結：</span><span class="sxs-lookup"><span data-stu-id="2e0ce-104">Here are some of the highlights of this page along with links for more information about each feature:</span></span>
 
-1. <span data-ttu-id="72a0b-105">管理每個訂閱已購買的授權數量，以及使用的數量。</span><span class="sxs-lookup"><span data-stu-id="72a0b-105">Manage the number of licenses that have been purchased for each subscription along with how many are in use.</span></span>  <span data-ttu-id="72a0b-106">**附注**：未使用中的授權 (未指派給使用者) 仍會收費。</span><span class="sxs-lookup"><span data-stu-id="72a0b-106">**Note**: Licenses that are not in use (not assigned to a user) are still charged.</span></span>  <span data-ttu-id="72a0b-107">若未針對未使用的授權收費，請減少購買的授權數量。</span><span class="sxs-lookup"><span data-stu-id="72a0b-107">To not be charged for unused licenses, reduce the number of licenses purchased.</span></span> <span data-ttu-id="72a0b-108">如需如何從訂閱新增或移除授權的詳細資訊，請參閱 how [to add or 減少授權](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)。</span><span class="sxs-lookup"><span data-stu-id="72a0b-108">For information on how to add or remove licenses from a subscription, see [How to add or reduce licenses](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).</span></span>
+1. <span data-ttu-id="2e0ce-105">查看已指派的授權數量，以及每個訂閱所購買的授權數量。</span><span class="sxs-lookup"><span data-stu-id="2e0ce-105">View the number of licenses that are assigned, and how many licenses were purchased for each subscription.</span></span>
+    > [!NOTE]
+    > <span data-ttu-id="2e0ce-106">您仍會向您收取未使用的授權 (未指派給使用者) 。</span><span class="sxs-lookup"><span data-stu-id="2e0ce-106">You're still charged for licenses that aren't in use (not assigned to a user).</span></span> <span data-ttu-id="2e0ce-107">若未針對未使用的授權收費，請減少購買的授權數量。</span><span class="sxs-lookup"><span data-stu-id="2e0ce-107">To not be charged for unused licenses, reduce the number of licenses purchased.</span></span> <span data-ttu-id="2e0ce-108">如需如何從訂閱新增或移除授權的詳細資訊，請參閱 how [to add or 減少授權](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)。</span><span class="sxs-lookup"><span data-stu-id="2e0ce-108">For information about how to add or remove licenses from a subscription, see [How to add or reduce licenses](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).</span></span>
+2. <span data-ttu-id="2e0ce-109">查看每個訂閱的狀態。</span><span class="sxs-lookup"><span data-stu-id="2e0ce-109">View the status of each subscription.</span></span> <span data-ttu-id="2e0ce-110">若要瞭解如何重新啟用訂閱，請參閱 [重新啟用您的訂閱](reactivate-your-subscription.md)。</span><span class="sxs-lookup"><span data-stu-id="2e0ce-110">To learn how to reactivate a subscription, see [Reactivate your subscription](reactivate-your-subscription.md).</span></span>
+3. <span data-ttu-id="2e0ce-111">查看每個訂閱的更新或到期日。</span><span class="sxs-lookup"><span data-stu-id="2e0ce-111">View the renewal or expiration date of each subscription.</span></span> <span data-ttu-id="2e0ce-112">您可以選取訂閱，然後選取 [ **編輯週期性帳單**]，以管理更新。</span><span class="sxs-lookup"><span data-stu-id="2e0ce-112">You can manage renewal by selecting the subscription, then selecting **Edit recurring billing**.</span></span> <span data-ttu-id="2e0ce-113">若要瞭解如何管理週期性帳單，請參閱 [管理週期性帳單](manage-auto-renewal.md)。</span><span class="sxs-lookup"><span data-stu-id="2e0ce-113">To learn how to manage recurring billing, see [Manage recurring billing](manage-auto-renewal.md).</span></span>
+4. <span data-ttu-id="2e0ce-114">查看每個訂閱使用的支付方式。</span><span class="sxs-lookup"><span data-stu-id="2e0ce-114">View the payment method used for each subscription.</span></span> <span data-ttu-id="2e0ce-115">若要瞭解如何變更付款條件，請參閱 [變更支付方式](change-payment-method.md)。</span><span class="sxs-lookup"><span data-stu-id="2e0ce-115">To learn how to change the payment method, see [Change payment method](change-payment-method.md).</span></span>
+5. <span data-ttu-id="2e0ce-116">[變更您的支付頻率](change-how-often-you-pay.md)。</span><span class="sxs-lookup"><span data-stu-id="2e0ce-116">[Change how often you pay](change-how-often-you-pay.md).</span></span>
+6. <span data-ttu-id="2e0ce-117">[取消此訂閱](https://go.microsoft.com/fwlink/?linkid=2119113).</span><span class="sxs-lookup"><span data-stu-id="2e0ce-117">[Cancel the subscription](https://go.microsoft.com/fwlink/?linkid=2119113).</span></span>
 
-2. <span data-ttu-id="72a0b-109">查看訂閱的更新或到期日。</span><span class="sxs-lookup"><span data-stu-id="72a0b-109">View the renewal or expiration date of the subscription.</span></span>  <span data-ttu-id="72a0b-110">您可以按一下 [**到期/到期**日] 旁邊的 [**編輯**] 連結，管理更新。</span><span class="sxs-lookup"><span data-stu-id="72a0b-110">You can manage renewal by clicking the **edit** link next to the **Renews/expires** on date.</span></span>  <span data-ttu-id="72a0b-111">如需如何管理週期性帳單的詳細資訊，請參閱 [更新 Microsoft 365 for business](https://go.microsoft.com/fwlink/?linkid=2119216) 。</span><span class="sxs-lookup"><span data-stu-id="72a0b-111">See [Renew Microsoft 365 for business](https://go.microsoft.com/fwlink/?linkid=2119216) for more info on how to manage recurring billing.</span></span>
-
-3. <span data-ttu-id="72a0b-112">[重新啟用已到期或已停用的訂閱](https://go.microsoft.com/fwlink/?linkid=2117519)。</span><span class="sxs-lookup"><span data-stu-id="72a0b-112">[Reactivate an expired or disabled subscription](https://go.microsoft.com/fwlink/?linkid=2117519).</span></span>
-
-4. <span data-ttu-id="72a0b-113">[編輯用來支付訂閱費用的支付方式](https://go.microsoft.com/fwlink/?linkid=2117167)。</span><span class="sxs-lookup"><span data-stu-id="72a0b-113">[Edit the payment method used to pay for the subscription](https://go.microsoft.com/fwlink/?linkid=2117167).</span></span>
-
-5. <span data-ttu-id="72a0b-114">[變更您的計費頻率](https://go.microsoft.com/fwlink/?linkid=2119112)。</span><span class="sxs-lookup"><span data-stu-id="72a0b-114">[Change how often you are billed](https://go.microsoft.com/fwlink/?linkid=2119112).</span></span>
-
-6. <span data-ttu-id="72a0b-115">[取消訂閱](https://go.microsoft.com/fwlink/?linkid=2119113)。</span><span class="sxs-lookup"><span data-stu-id="72a0b-115">[Cancel the subscription](https://go.microsoft.com/fwlink/?linkid=2119113).</span></span>
-
-<span data-ttu-id="72a0b-116">您可以從 [**帳單**  >  [**購買服務**](https://go.microsoft.com/fwlink/p/?linkid=868433)] 頁面購買其他訂閱。</span><span class="sxs-lookup"><span data-stu-id="72a0b-116">You can purchase additional subscriptions from the **Billing** > [**Purchase services**](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+<span data-ttu-id="2e0ce-118">您可以從 [**帳單**  >  [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)] 頁面購買其他訂閱。</span><span class="sxs-lookup"><span data-stu-id="2e0ce-118">You can buy additional subscriptions from the **Billing** > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
