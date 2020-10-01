@@ -1,8 +1,8 @@
 ---
 title: 啟用 Microsoft 365 訂閱
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 226eaa73b3934e266c1f53f73752ec142fdecdf5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90cfb7886b610b6dfd8233791d665321a317c3a7
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698052"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307085"
 ---
-# <a name="activate-your-subscription"></a><span data-ttu-id="e78eb-102">啟用訂閱</span><span class="sxs-lookup"><span data-stu-id="e78eb-102">Activate your subscription</span></span>
+# <a name="activate-your-subscription"></a><span data-ttu-id="09416-102">啟用訂閱</span><span class="sxs-lookup"><span data-stu-id="09416-102">Activate your subscription</span></span>
 
-<span data-ttu-id="e78eb-103">**啟用訂閱**</span><span class="sxs-lookup"><span data-stu-id="e78eb-103">**Activate a subscription**</span></span>
+<span data-ttu-id="09416-103">**啟用訂閱**</span><span class="sxs-lookup"><span data-stu-id="09416-103">**Activate a subscription**</span></span>
 
-- <span data-ttu-id="e78eb-104">若要提供使用者服務的存取權，請指派授權給使用者。</span><span class="sxs-lookup"><span data-stu-id="e78eb-104">To give users access to a service, assign them a license.</span></span> <span data-ttu-id="e78eb-105">如需指派授權的指示，請參閱[將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。</span><span class="sxs-lookup"><span data-stu-id="e78eb-105">For instructions on assigning licenses, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
+- <span data-ttu-id="09416-104">若要提供使用者服務的存取權，請指派授權給使用者。</span><span class="sxs-lookup"><span data-stu-id="09416-104">To give users access to a service, assign them a license.</span></span> <span data-ttu-id="09416-105">若要瞭解作法，請參閱[將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。</span><span class="sxs-lookup"><span data-stu-id="09416-105">To learn how, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
+- <span data-ttu-id="09416-106">如果您已有指派的授權，可以從[我的帳戶](https://portal.office.com/account/#installs)頁面找到可以下載的應用程式。</span><span class="sxs-lookup"><span data-stu-id="09416-106">If you already have a license assigned, you can find applications that you're able to download from the [My Account page](https://portal.office.com/account/#installs).</span></span> <span data-ttu-id="09416-107">本頁根據已指派的授權，提供您可以下載的應用程式清單。</span><span class="sxs-lookup"><span data-stu-id="09416-107">This page provides a list of applications available for you to download based on the licenses that have been assigned.</span></span>
+- <span data-ttu-id="09416-108">如果您已經下載 Office 應用程式，可能需要使用您的公司或學校帳戶登入應用程式。</span><span class="sxs-lookup"><span data-stu-id="09416-108">If you have already downloaded the Office applications, you might need to sign in to the applications with your work or school account.</span></span> <span data-ttu-id="09416-109">您可以在任何 Office 應用程式 (Word、Excel 等) 中選取 **[檔案] > [帳戶]** (接近底部) 來進行此作業。</span><span class="sxs-lookup"><span data-stu-id="09416-109">You can do that in any Office application (Word, Excel, etc.) by selecting **File > Account** (near the bottom).</span></span> <span data-ttu-id="09416-110">在 [使用者資訊] 下，選取 **[切換帳戶]**。</span><span class="sxs-lookup"><span data-stu-id="09416-110">Under User Information, select **Switch Account**.</span></span> <span data-ttu-id="09416-111">如需詳細資訊，請閱讀[安裝 Office 應用程式](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)。</span><span class="sxs-lookup"><span data-stu-id="09416-111">For more information, read [Install Office applications](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).</span></span>
 
-- <span data-ttu-id="e78eb-106">如果您已有指派的授權，可以從[我的帳戶](https://portal.office.com/account/#installs)頁面找到可以下載的應用程式。</span><span class="sxs-lookup"><span data-stu-id="e78eb-106">If you already have a license assigned, you can find applications you are able to download from the [My Account page](https://portal.office.com/account/#installs).</span></span> <span data-ttu-id="e78eb-107">本頁根據已指派的授權，提供您可以下載的應用程式清單。</span><span class="sxs-lookup"><span data-stu-id="e78eb-107">This page provides a list of applications available for you to download based on the licenses that have been assigned.</span></span>
+<span data-ttu-id="09416-112">**重新啟用訂閱**</span><span class="sxs-lookup"><span data-stu-id="09416-112">**Reactivate a subscription**</span></span>
 
-- <span data-ttu-id="e78eb-108">如果您已經下載 Office 應用程式，可能需要使用您的公司或學校帳戶登入應用程式。</span><span class="sxs-lookup"><span data-stu-id="e78eb-108">If you have already downloaded the Office applications, you may need to sign in to the applications with your work or school account.</span></span> <span data-ttu-id="e78eb-109">您可以在任何 Office 應用程式 (Word、Excel 等) 中按一下 [檔案] > [帳戶]\*\*\*\* (接近底部) 來進行此作業。</span><span class="sxs-lookup"><span data-stu-id="e78eb-109">You can do that in any Office application (Word, Excel, etc.) by clicking on **File > Account** (near the bottom).</span></span> <span data-ttu-id="e78eb-110">在 [使用者資訊] 下，按一下 [切換帳戶]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="e78eb-110">Under User Information, click **Switch Account**.</span></span> <span data-ttu-id="e78eb-111">如需詳細資訊，請閱讀[安裝 Office 應用程式](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)。</span><span class="sxs-lookup"><span data-stu-id="e78eb-111">For more information, read [Install Office applications](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).</span></span>
+<span data-ttu-id="09416-113">如果您的訂閱到期，或 Microsoft 已停用您的訂閱，或如果您在訂閱期間取消訂閱，則可在 Microsoft 365 系統管理中心重新啟用訂閱。</span><span class="sxs-lookup"><span data-stu-id="09416-113">If your subscription expires, or was disabled by Microsoft, or if you cancelled it in the middle of a subscription term, you can reactivate it in the Microsoft 365 admin center.</span></span>
 
-<span data-ttu-id="e78eb-112">**重新啟用訂閱**</span><span class="sxs-lookup"><span data-stu-id="e78eb-112">**Reactivate a subscription**</span></span>
+1. <span data-ttu-id="09416-114">在系統管理中心，移至 **[帳單]** > [您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。</span><span class="sxs-lookup"><span data-stu-id="09416-114">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="09416-115">在 **[產品]** 索引標籤上，找出您要重新啟用的訂閱。</span><span class="sxs-lookup"><span data-stu-id="09416-115">On the **Products** tab, find the subscription that you want to reactivate.</span></span> <span data-ttu-id="09416-116">選取 **[更多動作**（三個點）]，然後選取 **[重新啟用此訂閱]**。</span><span class="sxs-lookup"><span data-stu-id="09416-116">Select **More actions** (three dots), then select **Reactivate this subscription**.</span></span>
+3. <span data-ttu-id="09416-117">在 **重新啟用此訂閱** 窗格中，從下拉式清單中選取付款條件，或選取 **[新增付款條件]**。</span><span class="sxs-lookup"><span data-stu-id="09416-117">In the **Reactivate this subscription** pane, select a payment method from the drop-down list, or select **Add payment method**.</span></span>
+4. <span data-ttu-id="09416-118">選取 **[儲存]**。</span><span class="sxs-lookup"><span data-stu-id="09416-118">Select **Save**.</span></span>
 
-<span data-ttu-id="e78eb-113">如果您的訂閱到期，或 Microsoft 已停用您的訂閱，或如果您在訂閱期間取消訂閱，則可在 Microsoft 365 系統管理中心重新啟用訂閱。</span><span class="sxs-lookup"><span data-stu-id="e78eb-113">If your subscription expires, or was disabled by Microsoft, or if you cancelled it in the middle of a subscription term, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="09416-119">如需詳細資訊，請參閱[重新啟用您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。</span><span class="sxs-lookup"><span data-stu-id="09416-119">For more info, see [Reactivate your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
 
-- <span data-ttu-id="e78eb-114">在 Microsoft 365 系統管理中心中，移至 [帳單 **]**  >  [[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**]** 頁面。</span><span class="sxs-lookup"><span data-stu-id="e78eb-114">In the Microsoft 365 admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+<span data-ttu-id="09416-120">**以產品金鑰啟用新訂閱**</span><span class="sxs-lookup"><span data-stu-id="09416-120">**Activate a new subscription with a product key**</span></span>
 
-- <span data-ttu-id="e78eb-115">選擇您要重新啟用的訂閱，然後按一下 [重新啟用]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="e78eb-115">Choose the subscription that you want to reactivate, then click **Reactivate**.</span></span> <span data-ttu-id="e78eb-116">如果您在可用動作沒有看到 [重新啟用]\*\*\*\*，請[連絡客戶支援](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)以重新啟用訂閱。</span><span class="sxs-lookup"><span data-stu-id="e78eb-116">If you do not see **Reactivate** as an available action, [call Support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) to reactivate your subscription.</span></span>
-
-- <span data-ttu-id="e78eb-117">輸入您的付款詳細資料。</span><span class="sxs-lookup"><span data-stu-id="e78eb-117">Enter your payment details.</span></span> <span data-ttu-id="e78eb-118">您也可以在這裡[更新現有的付款資訊](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。</span><span class="sxs-lookup"><span data-stu-id="e78eb-118">You can [update your existing payment information](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) here as well.</span></span>
-
-<span data-ttu-id="e78eb-119">如需詳細資訊，請參閱[重新啟用您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。</span><span class="sxs-lookup"><span data-stu-id="e78eb-119">For more info, see [Reactivate your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
-
-<span data-ttu-id="e78eb-120">**以產品金鑰啟用新訂閱**</span><span class="sxs-lookup"><span data-stu-id="e78eb-120">**Activate a new subscription with a product key**</span></span>
-
-- <span data-ttu-id="e78eb-121">若要使用您的產品金鑰啟用新的 Microsoft 365 訂閱，請從[這裡](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)開始。</span><span class="sxs-lookup"><span data-stu-id="e78eb-121">To activate a new Microsoft 365 subscription with your product key, start [here](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).</span></span>
-
-- <span data-ttu-id="e78eb-122">輸入您的 Microsoft 365 產品金鑰，然後遵循提示來啟用您的訂閱。</span><span class="sxs-lookup"><span data-stu-id="e78eb-122">Enter your Microsoft 365 product key and follow the prompts to activate your subscription.</span></span> <span data-ttu-id="e78eb-123">如果您有啟用方面的問題，請查看此[常見產品金鑰錯誤與解決方案](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)清單。</span><span class="sxs-lookup"><span data-stu-id="e78eb-123">If you have problems with the activation, check out this list of [common product key errors and solutions](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).</span></span>
+- <span data-ttu-id="09416-121">若要使用您的產品金鑰啟用新的 Microsoft 365 訂閱，請參閱[輸入 Office 產品金鑰的位置](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)。</span><span class="sxs-lookup"><span data-stu-id="09416-121">To activate a new Microsoft 365 subscription with your product key, see [Where to enter your Office product key](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).</span></span>
+- <span data-ttu-id="09416-122">輸入您的 Microsoft 365 產品金鑰，然後遵循提示來啟用您的訂閱。</span><span class="sxs-lookup"><span data-stu-id="09416-122">Enter your Microsoft 365 product key and follow the prompts to activate your subscription.</span></span> <span data-ttu-id="09416-123">如果您有啟用方面的問題，請查看此[常見產品金鑰錯誤與解決方案](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)清單。</span><span class="sxs-lookup"><span data-stu-id="09416-123">If you have problems with the activation, check out this list of [common product key errors and solutions](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).</span></span>
