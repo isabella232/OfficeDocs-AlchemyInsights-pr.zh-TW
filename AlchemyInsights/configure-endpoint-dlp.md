@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: 406bc40fbe8a6306a2f74506ef1daf70b37283d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0363d6bdecdb266a5f4a3a14bd496ede6bb9931
+ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812106"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48305434"
 ---
 # <a name="configure-endpoint-dlp"></a>設定端點 DLP
 
@@ -32,3 +32,13 @@ Microsoft 端點 DLP 可讓可以您將 DLP 保護和監視功能延伸到 Windo
 - 建立 DLP 原則以保護您的敏感性項目。 如需詳細資訊，請參閱 [端點 DLP 原則案例](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios)。
 
 如需有關 Microsoft 端點 DLP，請參閱 [深入了解 Microsoft 365 端點資料外洩防護 (預覽版)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about)。
+
+**如果需要支援，以下是重要資料收集步驟：**
+
+1. 從 [http://aka.ms/betamdatpanalyzer](http://aka.ms/betamdatpanalyzer "http://aka.ms/betamdatpanalyzer") 下載 MDATP 用戶端分析器預覽
+2. 使用 cmd 視窗以系統管理員身分執行工具：
+3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t
+4. 當系統出現「輸入收集追蹤的分鐘數：」的提示時，輸入執行案例所需的分鐘數
+5. 執行案例
+
+收集可供支援專員使用的 Zip 檔案輸出。
