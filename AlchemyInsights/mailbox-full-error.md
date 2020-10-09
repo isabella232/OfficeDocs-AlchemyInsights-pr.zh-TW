@@ -4,7 +4,7 @@ title： "NDR，錯誤碼為" 554 5.2.2 信箱已滿 "" ms. author： chrisda au
 - 3500007
 ---
 
-# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR，錯誤碼為 "554 5.2.2 信箱已滿"
+# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR，錯誤代碼 554 5.2.2 信箱已滿
 
 如果您收到 NDR，錯誤碼為 "554 5.2.2 信箱已滿"，當您將電子郵件傳送至擁有郵件功能的公用資料夾時：  
 
