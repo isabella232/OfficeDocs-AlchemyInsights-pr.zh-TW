@@ -2,36 +2,32 @@
 title: 取消專案訂閱
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 0a10e2de14bd42412097d94bb846b34db414cb00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683514"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416492"
 ---
-# <a name="cancel-project-subscription"></a><span data-ttu-id="136cf-102">取消專案訂閱</span><span class="sxs-lookup"><span data-stu-id="136cf-102">Cancel Project subscription</span></span>
+# <a name="cancel-project-subscription"></a><span data-ttu-id="3b354-102">取消專案訂閱</span><span class="sxs-lookup"><span data-stu-id="3b354-102">Cancel Project subscription</span></span>
 
-<span data-ttu-id="136cf-103">系統管理員可以從 **Microsoft 365 系統管理中心**取消其組織的專案訂閱。</span><span class="sxs-lookup"><span data-stu-id="136cf-103">Admins can cancel the Project subscription for their organization from the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="3b354-103">系統管理員可在 Microsoft 365 系統管理中心取消其組織的專案訂閱。</span><span class="sxs-lookup"><span data-stu-id="3b354-103">Admins can cancel the Project subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="136cf-104">移至 **帳單 > [產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。</span><span class="sxs-lookup"><span data-stu-id="136cf-104">Go to the **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="3b354-104">移至 [ **帳單** \> [產品](https://go.microsoft.com/fwlink/p/?linkid=842054) ] 頁面。</span><span class="sxs-lookup"><span data-stu-id="3b354-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="3b354-105">在 [ **產品** ] 索引標籤上，尋找您要取消的專案訂閱。</span><span class="sxs-lookup"><span data-stu-id="3b354-105">On the **Products** tab, find the Project subscription that you want to cancel.</span></span> <span data-ttu-id="3b354-106">選取 [ **更多動作** (三點) ]，然後選取 [ **取消訂閱**]。</span><span class="sxs-lookup"><span data-stu-id="3b354-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="3b354-107">在 [ **取消訂閱** ] 窗格中，選擇您要取消的原因。</span><span class="sxs-lookup"><span data-stu-id="3b354-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="3b354-108">（選用）提供任何意見反應。</span><span class="sxs-lookup"><span data-stu-id="3b354-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="3b354-109">選取 **[儲存]**。</span><span class="sxs-lookup"><span data-stu-id="3b354-109">Select **Save**.</span></span>
 
-2. <span data-ttu-id="136cf-105">找出專案計劃以取消。</span><span class="sxs-lookup"><span data-stu-id="136cf-105">Locate the Project Plan to cancel.</span></span>
+<span data-ttu-id="3b354-110">**退款：** 在下一個計費週期內，任何按比例支付的信用都會傳回給您。</span><span class="sxs-lookup"><span data-stu-id="3b354-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
 
-3. <span data-ttu-id="136cf-106">按一下 [ **取消訂閱**]。</span><span class="sxs-lookup"><span data-stu-id="136cf-106">Click **Cancel subscription**.</span></span>
-
-<span data-ttu-id="136cf-107">**退款：在下一個計費週期內，任何按比例支付的信用額度都會傳回給您。**</span><span class="sxs-lookup"><span data-stu-id="136cf-107">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span>
-
-<span data-ttu-id="136cf-108">**附注**：如果您沒有看到 [取消] 選項，請按一下訂閱以查看詳細資料，您應該會在 [**設定 & 動作**] 中看到 [**取消訂閱**] 選項。</span><span class="sxs-lookup"><span data-stu-id="136cf-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span>
-
-<span data-ttu-id="136cf-109">若要深入瞭解，請參閱 [取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。</span><span class="sxs-lookup"><span data-stu-id="136cf-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="3b354-111">若要深入瞭解，請參閱 [取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。</span><span class="sxs-lookup"><span data-stu-id="3b354-111">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
