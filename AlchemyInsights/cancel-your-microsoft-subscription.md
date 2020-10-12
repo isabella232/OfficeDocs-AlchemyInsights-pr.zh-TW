@@ -1,8 +1,8 @@
 ---
 title: 取消您的 Microsoft 訂閱
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 50cac2ae491e0bea1a18a56cc78cd8d3105b3a40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683249"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416446"
 ---
-# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="9be0b-102">取消您的 Microsoft 訂閱</span><span class="sxs-lookup"><span data-stu-id="9be0b-102">Cancel your Microsoft subscription</span></span>
+# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="80fe8-102">取消您的 Microsoft 訂閱</span><span class="sxs-lookup"><span data-stu-id="80fe8-102">Cancel your Microsoft subscription</span></span>
 
-1. <span data-ttu-id="9be0b-103">移至 [[服務與訂閱]](https://account.microsoft.com/services/)，並使用您在購買訂閱時所用的 Microsoft 帳戶登入。</span><span class="sxs-lookup"><span data-stu-id="9be0b-103">Go to [Services & subscriptions](https://account.microsoft.com/services/), and sign in with the Microsoft account you used when purchasing your subscription.</span></span>
+<span data-ttu-id="80fe8-103">系統管理員可以從 Microsoft 365 系統管理中心取消組織的訂閱。</span><span class="sxs-lookup"><span data-stu-id="80fe8-103">Admins can cancel the subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-2. <span data-ttu-id="9be0b-104">尋找您的訂閱，然後按一下 **[管理]**。</span><span class="sxs-lookup"><span data-stu-id="9be0b-104">Find your subscription and click **Manage**.</span></span> <span data-ttu-id="9be0b-105">如果您看到 **[開啟週期性計費]** 而不是 **[管理]**，請跳至 [疑難排解] 一節；否則請繼續進行步驟 3。。</span><span class="sxs-lookup"><span data-stu-id="9be0b-105">If you see **Turn on recurring billing** instead of **Manage**, skip to the Troubleshooting section;  otherwise proceed to step 3.</span></span>
+1. <span data-ttu-id="80fe8-104">移至 **[帳單]** \> [[您的產品]](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。</span><span class="sxs-lookup"><span data-stu-id="80fe8-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="80fe8-105">在 **[產品]** 索引標籤上，找出您要取消的訂閱。</span><span class="sxs-lookup"><span data-stu-id="80fe8-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="80fe8-106">選取 **[更多動作]** (三個點)，然後選取 **[取消訂閱]**。</span><span class="sxs-lookup"><span data-stu-id="80fe8-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="80fe8-107">在**取消訂閱** 窗格中，選擇取消的原因。</span><span class="sxs-lookup"><span data-stu-id="80fe8-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="80fe8-108">您也可以選擇提供任何意見反應。</span><span class="sxs-lookup"><span data-stu-id="80fe8-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="80fe8-109">選取 **[儲存]**。</span><span class="sxs-lookup"><span data-stu-id="80fe8-109">Select **Save**.</span></span>
 
-3. <span data-ttu-id="9be0b-106">在下一頁中，根據您的訂閱類型，按一下 **[取消]** 或 **[升級或取消]**。</span><span class="sxs-lookup"><span data-stu-id="9be0b-106">On the next page, click **Cancel** or **Upgrade or Cancel**, depending on your subscription type.</span></span>
-
-4. <span data-ttu-id="9be0b-107">依照頁面上的指示繼續取消。</span><span class="sxs-lookup"><span data-stu-id="9be0b-107">Follow the instructions on the page to proceed with cancellation.</span></span>
+<span data-ttu-id="80fe8-110">**退款：** 任何按比例計算的款項將會在下個計費週期內退回。</span><span class="sxs-lookup"><span data-stu-id="80fe8-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
