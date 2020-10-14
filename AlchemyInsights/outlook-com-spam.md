@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 882c2610502bdb67607a85a98c7aaa32aa77072b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f3587e5a53ea6ad7967fe4647952b4561f54e5d8
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728818"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452147"
 ---
 # <a name="spam-and-junk-email-in-outlookcom"></a>Outlook.com 中的垃圾郵件和垃圾郵件
 
@@ -38,7 +38,7 @@ ms.locfileid: "47728818"
     1. 在 [ **封鎖的寄件者和網域**] 底下，選取 [ **新增**]。
     1. 輸入您要封鎖的電子郵件地址或網域，然後按 Enter。
     1. 在 [ **篩選器**] 底下，選擇是否要從 [安全的寄件者和網域及安全的郵寄清單] 底下的位址信任電子郵件。
-    1. 選取 [儲存]****。
+    1. 選取 **[儲存]**。
 
 1. **建立收件匣規則**
     1. 以滑鼠右鍵按一下郵寄清單中的郵件，然後選取 [ **建立規則**]。
