@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: c5c66a4ed0891a7127bcf0730aedf6d8d125fdb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb72faa902a18f14d408ccabb8fc346f3bd3085d
+ms.sourcegitcommit: abb1acc29fadfaa6927f73af4452ba2cfc452fa2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724570"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48465995"
 ---
 # <a name="microsoft-lists"></a>Microsoft 清單
 
@@ -26,11 +26,15 @@ Microsoft 正在啟動初階的 Microsoft 清單，這是一個 Microsoft 365 �
   
 **時程**  
 
-- 對啟用已設定目標版本的組織開始推出。
-- 於 2020 年 10 月中推出給所有組織。
+- 對於支持目標發行的組織，已完成推出。
+- 標準發行組織的推出已經開始，並將於 2020 年 11 月底完成。
 
-任何擁有 SharePoint 授權的使用者都可存取 [清單] 圖示，並開始使用 Microsoft 清單。 系統管理員目前無法關閉此功能。
- 
-在 Microsoft 365 應用程式啟動器中，選取 [清單] 圖示。 從頭開始建立清單，或使用預先建立的範本。 此外，您可以從現有清單建立新清單，或匯入 Excel 資料以建立清單。 查看 [我的最愛] 和 [最近清單]，包括您擁有或已與您共用的清單。 您可以建立個人清單和團隊清單。  
+任何擁有 SharePoint 授權的使用者都可存取 [清單] 圖示，並開始使用 Microsoft 清單。
+
+作為 Microsoft 365 中的全域管理員或 SharePoint 管理員，您可以控制 Microsoft 清單的設定。 您可以：
+
+禁止建立個人清單 (防止使用者將新清單儲存至「我的清單」)。
+停用與貴組織無關的内建清單範本。
+請參閱 [控制清單](https://docs.microsoft.com/sharepoint/control-lists)
 
 如需詳細資訊，請參閱 [Microsoft 清單](https://aka.ms/microsoftlists)。

@@ -1,8 +1,8 @@
 ---
 title: 無法存取我的帳戶
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 0a240bb0acea178a58fa5bc9a2d95808676ad272
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73edb04a186f81e1745ac1758f0d89f9d23af1e0
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800023"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489160"
 ---
 # <a name="unable-to-access-my-account"></a>無法存取我的帳戶
 
@@ -25,14 +25,9 @@ ms.locfileid: "47800023"
 
 **重新啟用訂閱**
 
-1. 在系統管理中心，移至 **[帳單]**  >  **[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** 頁面。
+1. 在系統管理中心，移至 **[帳單]** > [您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
+2. 在 **[產品]** 索引標籤上，找出您要重新啟用的訂閱。 選取 **[更多動作**（三個點）]，然後選取 **[重新啟用此訂閱]**。
+3. 在 **重新啟用此訂閱** 窗格中，從下拉式清單中選取付款條件，或選取 **[新增付款條件]**。
+4. 選取 **[儲存]**。
 
-2. 尋找您想要重新啟用的訂閱。
-
-3. 在 **[帳單]** 區段中，按一下 **[立即重新啟用]**。 如果您在 **[卡片]** 檢視中，請按一下 **[名稱]** 與 **[可用數量]** 之間的省略符號，然後從功能表中選擇 **[重新啟用]**。
-
-**附註：** 如果沒有看到您要尋找的訂閱，可能需要將接近頁面頂端附近的 [訂閱狀態]**** 篩選器調整為 [全部]****。
-
-4. 確認您的付款詳細資料，以更新現有的付款資訊。 輸入完付款方式時，按一下 **[重新啟用]**。
-
-如需詳細資訊，請參閱[重新啟用您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
+若要深入了解，請參閱[重新啟動您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
