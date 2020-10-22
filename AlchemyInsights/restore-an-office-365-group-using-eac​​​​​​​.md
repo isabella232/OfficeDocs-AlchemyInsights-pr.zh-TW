@@ -12,11 +12,11 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
 ms.openlocfilehash: 34d7b9195ff7d8d8d43da173a4c77643080ef67e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801391"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48655580"
 ---
 # <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>使用 Exchange 系統管理中心還原 Microsoft 365 群組
 
