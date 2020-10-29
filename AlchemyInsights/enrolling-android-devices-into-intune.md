@@ -12,28 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784298"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791249"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>將 Android 裝置登記至 Intune
 
-Intune 支援註冊下列 Android 裝置：
-- Samsung Knox 和 Zebra
-- Android Enterprise 工作設定檔
-- Android 企業專用
-- 完全管理的 Android 企業
+如果您想要將使用者從 Android 裝置管理員註冊遷移至 Android Enterprise，請參閱： [從裝置管理員移動 Android 裝置以運作設定檔管理](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile)。
 
-在設定 Android 裝置的註冊之前，請 [回顧先決條件] (https://docs.microsoft.com/intune/enrollment/android-enroll 。
+Intune 支援註冊下列 Android 裝置：  
 
-如需一般和某些 Android 註冊錯誤疑難排解的詳細資訊，請參閱 [疑難排解 Microsoft Intune 中的裝置註冊](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)。
+- [Samsung Knox，Zebra，裝置管理員](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Android Enterprise 工作設定檔](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Android 企業專用](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [完全管理的 Android 企業](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-您也可以使用 [描述 Intune 疑難排解 blade 的內容](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) ，協助識別您的使用者遇到的 enrolment 問題。
+在設定 Android 裝置的註冊之前，請先 [複查](https://docs.microsoft.com/intune/enrollment/android-enroll)必要條件。  
 
+如需一般和某些 Android 註冊錯誤疑難排解的詳細資訊，請參閱 [疑難排解 Microsoft Intune 中的裝置註冊](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)。
 
-
-
-
+您也可以使用描述 Intune 疑難排解 blade 的內容，協助識別您的使用者遇到的 enrolment 問題。
