@@ -13,20 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "6432"
 - "9003530"
-ms.openlocfilehash: e0ba83778179abefe3ac4fe3e8ab0303d65ad929
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e3da81ee048c6257e05b998c0f457fa433738fd
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745299"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791285"
 ---
 # <a name="configure-files-on-demand"></a>設定 [檔案隨選]
+
+[OneDrive 檔案隨選] 需要 [Windows 10 Fall Creators Update](https://go.microsoft.com/fwlink/p/?linkid=859040)（版本 1709 或更新版本）或 Windows Server 2019 及 OneDrive 組建 17.3.7064.1005 或更新版本。
 
 OneDrive [檔案隨選] 能協助您存取 OneDrive 中的所有檔案，而不必全部下載並占用您裝置上的儲存空間。
 
 若要在您的電腦上設定 [檔案隨選]：
 
-1. 選取 Windows 工作列通知區域中的藍色 **OneDrive** 雲朵圖示。 選取 **[說明與設定]** 齒輪圖示 > **[設定]**。
+1. 選取 Windows 工作列通知區域中的藍色 **OneDrive** 雲朵圖示。 選取 **[說明與設定]** 齒輪圖示 > **[設定]** 。
 2. 在 **[設定]** 索引標籤上，選取 **[節省空間並在使用的同時下載檔案]** 方塊。  
 
 您也可以使用登錄設定 [檔案隨選]。
