@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759210"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801540"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Microsoft 365 中的攻擊模擬器
 
-- 您是否遺漏攻擊模擬器？ 攻擊模擬器需要 **Office 365 高級威脅防護方案 2 (ATP Plan 2) ** 或 **Office 365 企業版 E5**。 在 Office 365 Advanced 威脅防護方案 1 (ATP Plan 1) 、Office 365 企業版 E3 或任何 Microsoft 365 Apps for business 訂閱中 **不** 包含攻擊模擬器。
+- 您是否遺漏攻擊模擬器？ 攻擊模擬 **程式需要 Microsoft Defender For Office 365 Plan 2 (ATP Plan 2)** 或 **Office 365 企業版 E5** 。 Microsoft Defender for Office 365 方案1中 **未** 包含攻擊模擬器 (ATP 方案 1) 、Office 365 企業版 E3 或任何 Microsoft 365 應用程式的商務版訂閱。
 
 - 您用來啟動模擬攻擊的帳戶需要全域系統管理員或安全性管理員許可權，以及多重要素驗證 (MFA) 。 如需有關攻擊模擬程式需求的詳細資訊，請參閱 [本主題](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)。
 
@@ -31,9 +31,9 @@ ms.locfileid: "47759210"
 
   - 密碼檔不可超過 10 MB。 每行使用一個密碼，並在清單中的最後一個密碼之後 (回車) 中包含一條空行。
 
-- **Spear 網路釣魚**附加模擬所需注意的重要事項：
+- **Spear 網路釣魚** 附加模擬所需注意的重要事項：
 
-  - 根據設計，您無法為 **網路釣魚登入伺服器 URL**提供自訂值。
+  - 根據設計，您無法為 **網路釣魚登入伺服器 URL** 提供自訂值。
 
   - 如果收件者使用「 [啟用報告訊息增益集](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) 」，將郵件報告為網路釣魚，您可能不會收到郵件 (的提醒，因為這是模擬型攻擊) 。
 

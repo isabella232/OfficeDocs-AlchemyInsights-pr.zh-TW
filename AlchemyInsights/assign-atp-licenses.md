@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-ms.openlocfilehash: 41f7ab39823ffc9a8f6ad5af96a77f7a3b5b42ba
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: a877495be34c9403f63ebf96b0b83052f4c31491
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451238"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801174"
 ---
 # <a name="assign-advanced-threat-protection-licenses"></a>指派高級威脅防護授權
 
-您可以將 Office 365 的高級威脅防護指派給 Microsoft 365 系統管理中心中的使用者。
+Microsoft Defender for Office 365 可指派給 Microsoft 365 系統管理中心中的使用者。
 
-1. 移至**帳單**  >  [授權](https://go.microsoft.com/fwlink/p/?linkid=842264)。
+1. 移至 **帳單**  >  [授權](https://go.microsoft.com/fwlink/p/?linkid=842264)。
 2. 選取您要指派授權的產品。
-3. 按一下 [指派授權]****。
+3. 按一下 [指派授權]  。
 4. 在 [ **將授權指派給使用者**  ] 窗格中，開始輸入使用者的名稱，然後從結果中選擇。 一次最多可以新增 20 個使用者。
 5. 按一下 [ **開啟或關閉應用程式和服務**  以指派或移除]。
-6. 按一下 [ **指派**]，然後按一下 [  **關閉**]。
+6. 按一下 [ **指派** ]，然後按一下 [  **關閉** ]。
 
 若要購買更多授權或移除授權，請參閱[新增/移除訂閱的授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)。

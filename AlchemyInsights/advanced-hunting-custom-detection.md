@@ -14,12 +14,12 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 935508b3084aee0613d2bd1c2f26a437390f8640
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287344"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801506"
 ---
 # <a name="advanced-hunting-custom-detections"></a>高級搜尋自訂偵測
 
@@ -30,6 +30,6 @@ ms.locfileid: "48287344"
 - [建立自訂偵測規則](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
 - [查看及管理自訂偵測規則](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-如果您使用的是 Microsoft 威脅防護，請參閱下列主題以取得詳細資訊： 
+如果您使用的是 Microsoft 365 Defender，請參閱下列主題以取得詳細資料： 
 - [自訂偵測概觀](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
 - [建立及管理自訂的偵測規則](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)

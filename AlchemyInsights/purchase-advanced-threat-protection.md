@@ -1,5 +1,5 @@
 ---
-title: 購買 Office 365 高級威脅防護
+title: 購買 Microsoft Defender for Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693546"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801138"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>購買 Office 365 高級威脅防護
+# <a name="purchase-microsoft-defender-for-office-365"></a>購買 Microsoft Defender for Office 365
 
-Office 365 Advanced 威脅防護 (ATP) 包含在某些訂閱中，例如 Microsoft 365 E5、Office 365 E5、Office 365 A5 和 Microsoft 365 商務版 Premium。 如果您的訂閱不包含 Office 365 ATP，您可以購買 [Atp 計畫 1OR Atp plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) 做為特定訂閱的附加元件。 若要在 Microsoft 365 系統管理中心內購買：
+Microsoft Defender for Office 365 (ATP) 包含在某些訂閱中，例如 Microsoft 365 E5、Office 365 E5、Office 365 A5 和 Microsoft 365 商務版 Premium。 如果您的訂閱不包含 Office 365 ATP，您可以購買 [Atp 計畫 1OR Atp plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) 做為特定訂閱的附加元件。 若要在 Microsoft 365 系統管理中心內購買：
 
-1. 移至**帳單**   >   [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)。
-2. 從**可能感興趣的其他類別中，** 選取 [**附加**元件] 頁面。
+1. 移至 **帳單**   >   [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)。
+2. 從 **可能感興趣的其他類別中，** 選取 [ **附加** 元件] 頁面。
 3. 選取您要購買的高級威脅防護方案。 您也可以在其中選取試用方案。
 4. 選取將使用高級威脅防護的使用者人數。
 
