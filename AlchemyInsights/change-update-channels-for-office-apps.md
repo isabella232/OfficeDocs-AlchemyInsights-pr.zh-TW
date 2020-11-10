@@ -13,33 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 70b416e2b572fe9b4257648e3426b4d36975681e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f8c1eb9d67671b5b5bef59f214b17e024227757
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756490"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949700"
 ---
 # <a name="change-update-channels-for-office-apps"></a>變更 Office 應用程式的更新通道
 
-對於新的 Office 安裝，請使用 Office 軟體下載設定選取所需的更新頻道，然後安裝 (或重新安裝) Office 應用程式。   如需詳細資訊， 請參閱 [管理 Office 365 中的軟體下載設定](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365)。 
+如果您使用 [系統管理入口網站] 來管理 Microsoft 365 Apps 更新通道，請使用  **Office 安裝選項**  ，在安裝 Office Apps 之前選取所需的更新通道。 如需詳細資訊，請參閱 [在 Microsoft 365 系統管理中心管理 Office 安裝選項](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365)。
 
-**附註** 使用 Office 軟體下載設定選取的更新通道適用于使用 O365 入口網站執行新安裝的所有使用者。 如需更多資訊，請參閱 [在 PC 或 Mac 上下載並安裝或重新安裝 Microsoft 365 或 Office 2019](https://support.microsoft.com/office/download-and-install-or-reinstall-microsoft-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)。   
+**注意** 使用 **[Office 安裝選項]** 選取的更新通道適用于所有執行全新安裝 (且在某些情況下也是現有的安裝) 的使用者。 如果您已經使用某些其他方法 (例如 Office 部署工具 (ODT)、群組原則 (GPO) 或 Microsoft Endpoint Configuration Manager(MECM)) 來管理使用者取得功能更新的方式，則您在 Microsoft 365 系統管理中心所選取的設定將無法套用。
 
-對於現有的 Office 安裝，請使用 Office 部署工具 (ODT) 切換到其他更新通道：  
+如果您要使用上方所列的其他管理選項來管理 Microsoft 365 Apps 更新通道，請參閱 [如何切換現有 Office App 的更新通道](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel)。
 
-1. 從 [Microsoft 下載中心](https://go.microsoft.com/fwlink/p/?LinkID=626065)下載最新版的 Office 部署工具 (setup.exe)。
-2. 識別要切換到的通道名稱。 如需詳細資訊，請參閱 [Office 部署工具的設定選項](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element)。
-3. 建立指定適當的通道名稱的組態 XML 檔案，例如 update.xml。  
-
-`<Configuration>`<br>
-`<Updates Channel="Current"/>`<br>
-`</Configuration>`<br>
-
-4. 在已提升權限的命令提示字元下，切換至 setup.exe 所在的資料夾，接著執行下列命令：  
-    a. setup.exe /configure update.xml
-5. 啟動 Office 應用程式 (例如 Excel)，然後選取 **[檔案]** > **帳戶**。 在 [產品資訊] 區段，選取 **[更新選項]** > ** [立即更新]**。
-
-如需更多資訊，請參閱 [如何切換現有 Office 應用程式的更新頻道](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel)。 
-
-要切換選定使用者群組的更新通道或使用組態管理員 (SCCM)，請使用 GPO 設定更新通道設定。 如需詳細資訊，請參閱 [Microsoft 365 Apps 更新通道的概觀](https://docs.microsoft.com/deployoffice/overview-update-channels#group-policy)。 如需詳細資訊，請參閱 [如何管理 Office 365 專業增強版 (IT 專業人員)](https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813) 和 [使用 Microsoft Endpoint Configuration Manager 管理 Microsoft 365 Apps 的更新](https://docs.microsoft.com/deployoffice/manage-microsoft-365-apps-updates-configuration-manager)。
+如需詳細資訊，請參閱：  
+[如何管理適用于 IT 專業人員的 Office 365 企業版通道](https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813)  
+[使用 Microsoft Endpoint Configuration Manager 管理 Microsoft 365 Apps 的更新](https://docs.microsoft.com/deployoffice/manage-microsoft-365-apps-updates-configuration-manager)

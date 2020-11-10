@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: 0c8663cd6b6e6e344282abadfc80e6a40127f463
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675577"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947403"
 ---
 # <a name="lists-app-in-teams"></a>Teams 中的 [清單] 應用程式
 
-Microsoft Teams 中的 [清單] 應用程式會將小組 SharePoint 網站中的清單帶入頻道的共同作業與團隊畫布。 使用此應用程式，終端使用者就能從 Teams 中處理自己最愛的清單。  
+Microsoft Teams 中的 [清單] 應用程式會將小組 SharePoint 網站中的清單帶入頻道的共同作業與團隊畫布。 使用此應用程式，終端使用者就能從 Teams 中處理自己最愛的清單。
 
-這項功能預設為 [開啟]。 [清單] 是為所有 Teams 使用者預先安裝的，且可直接在每個小組和頻道的索引標籤庫中取得。  
+[清單] 是為所有 Teams 使用者預先安裝的，且可直接在每個小組和頻道的索引標籤庫中取得。
 
 Teams 系統管理員可以使用 Microsoft Teams 權限原則控制應用程式的狀態。 如需詳細資訊，請參閱 [管理 Microsoft Teams 中的應用程式權限原則](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)。
 
 **時程：** 于 9月初開始，並于2020年 10月中完成  
 
-**發行**：組織層級  
+**發行** ：組織層級  
 
 **控制項類型：** Teams 系統管理員控制  
 
 **動作：**  審閱和評估
 
-如需詳細資訊，請參閱： 
+如需詳細資訊，請參閱：
 
 - [宣佈 Microsoft [清單] - 您在 Microsoft 365 的智慧型資訊追蹤應用程式](https://techcommunity.microsoft.com/t5/microsoft-365-blog/announcing-microsoft-lists-your-smart-information-tracking-app/ba-p/1372233)
 - [Teams 中的 [清單] 終端使用者文件](https://support.microsoft.com/office/get-started-with-lists-in-microsoft-taeams-c971e46b-b36c-491b-9c35-efeddd0297db)
