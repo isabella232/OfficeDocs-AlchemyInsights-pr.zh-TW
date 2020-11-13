@@ -12,18 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003047"
 - "5801"
-ms.openlocfilehash: 8477e59e72ce7874ae805c21a971f431389574e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1880ef923a1e0f2b2c8ce8eb539cba485f8601da
+ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800743"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49002692"
 ---
 # <a name="sharepoint-is-no-longer-working"></a>SharePoint 已停止運作
 
 SharePoint 停止運作的原因。
 
-1. SharePoint 的根網站已遭刪除，且需要修復。 如需更多資訊，可參閱 [刪除 SharePoint 根網站](https://docs.microsoft.com/sharepoint/troubleshoot/sites/url-that-resides-under-root-site-collection-is-broken)。
+1. SharePoint 可能會發生服務狀況問題。 如需更多資訊，可參閱 [服務健康情況儀表板](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)。
 2. 許可權可能已遭變更或移除。 如需更多資訊，可參閱 [無法存取 SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)。
-3. SharePoint 可能會發生服務狀況問題。 如需更多資訊，可參閱 [服務健康情況儀表板](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)。
-4. 瀏覽器問題可能阻擋使用者開啟 SharePoint。 要求使用者嘗試使用瀏覽器的私人模式，並重新登入 SharePoint。
+3. 瀏覽器問題可能阻擋使用者開啟 SharePoint。 要求使用者嘗試使用瀏覽器的私人模式，並重新登入 SharePoint。

@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674929"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019538"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Microsoft 小組探索經驗
 
-Microsoft 小組探索體驗可讓您組織中擁有 Azure Active Directory (AAD) 的使用者，而且不會為小組授權的使用者啟動探索經驗的團隊。 系統管理員可以為其組織中的使用者開啟或關閉這項功能。  (舊版的 Microsoft 商用雲端試用版現在稱為「小組探索經驗」。 ) 
-
-Microsoft 小組探索經驗在您下一次的 enterprise 合約年或2021年1月之後更新之前，不會有額外成本。 此時，Microsoft 探索體驗授權的使用者將需要移至包含小組的付費授權。
-
-如需詳細資訊，請參閱 [管理 Microsoft 小組探索性授權](https://docs.microsoft.com/microsoftteams/teams-exploratory/)。
+- 什麼是 [團隊探索探索](https://docs.microsoft.com/microsoftteams/teams-exploratory)？ Microsoft 小組探索經驗可讓您組織中未獲授權的使用者啟動小組的探索體驗。 如需詳細資訊，請參閱 [小組探索體驗中的內容](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)。
+- [我的授權何時到期](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)？ 在您下一次的合約周年紀念日或在2021年1月之後更新之前，不會有額外成本的 Microsoft 小組探索體驗。
+- 身為系統管理員，您可以購買包含小組的訂閱，從使用者移除小組探索訂閱，並指派新購買的授權，以 [升級小組探索授權的使用者](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) 。
+- 如需詳細資訊，請參閱 [管理小組探索授權。](https://docs.microsoft.com/microsoftteams/teams-exploratory)
