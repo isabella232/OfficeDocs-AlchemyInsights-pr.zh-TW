@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674929"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019538"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a><span data-ttu-id="53588-102">Microsoft 小組探索經驗</span><span class="sxs-lookup"><span data-stu-id="53588-102">Microsoft Teams Exploratory experience</span></span>
+# <a name="microsoft-teams-exploratory-experience"></a><span data-ttu-id="f88d4-102">Microsoft 小組探索經驗</span><span class="sxs-lookup"><span data-stu-id="f88d4-102">Microsoft Teams Exploratory experience</span></span>
 
-<span data-ttu-id="53588-103">Microsoft 小組探索體驗可讓您組織中擁有 Azure Active Directory (AAD) 的使用者，而且不會為小組授權的使用者啟動探索經驗的團隊。</span><span class="sxs-lookup"><span data-stu-id="53588-103">The Microsoft Teams Exploratory experience lets users in your organization who have Azure Active Directory (AAD) and are not licensed for Teams initiate an exploratory experience of Teams.</span></span> <span data-ttu-id="53588-104">系統管理員可以為其組織中的使用者開啟或關閉這項功能。</span><span class="sxs-lookup"><span data-stu-id="53588-104">Admins can switch this feature on or off for users in their organization.</span></span> <span data-ttu-id="53588-105"> (舊版的 Microsoft 商用雲端試用版現在稱為「小組探索經驗」。 ) </span><span class="sxs-lookup"><span data-stu-id="53588-105">(The earlier Microsoft Commercial Cloud Trial is now called The Teams Exploratory experience.)</span></span>
-
-<span data-ttu-id="53588-106">Microsoft 小組探索經驗在您下一次的 enterprise 合約年或2021年1月之後更新之前，不會有額外成本。</span><span class="sxs-lookup"><span data-stu-id="53588-106">The Microsoft Teams Exploratory experience is available at no additional cost until your next enterprise agreement anniversary or renewal on or after January 2021.</span></span> <span data-ttu-id="53588-107">此時，Microsoft 探索體驗授權的使用者將需要移至包含小組的付費授權。</span><span class="sxs-lookup"><span data-stu-id="53588-107">At that time, end users on a Microsoft Exploratory experience license will need to move to a paid license that includes Teams.</span></span>
-
-<span data-ttu-id="53588-108">如需詳細資訊，請參閱 [管理 Microsoft 小組探索性授權](https://docs.microsoft.com/microsoftteams/teams-exploratory/)。</span><span class="sxs-lookup"><span data-stu-id="53588-108">For more information, please see [Managing the Microsoft Teams Exploratory license](https://docs.microsoft.com/microsoftteams/teams-exploratory/).</span></span>
+- <span data-ttu-id="f88d4-103">什麼是 [團隊探索探索](https://docs.microsoft.com/microsoftteams/teams-exploratory)？</span><span class="sxs-lookup"><span data-stu-id="f88d4-103">What is [Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory)?</span></span> <span data-ttu-id="f88d4-104">Microsoft 小組探索經驗可讓您組織中未獲授權的使用者啟動小組的探索體驗。</span><span class="sxs-lookup"><span data-stu-id="f88d4-104">The Microsoft Teams Exploratory experience lets users in your organization who are not licensed for Teams initiate an exploratory experience of Teams.</span></span> <span data-ttu-id="f88d4-105">如需詳細資訊，請參閱 [小組探索體驗中的內容](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)。</span><span class="sxs-lookup"><span data-stu-id="f88d4-105">For more information, please see [what's in the Teams Exploratory experience](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).</span></span>
+- <span data-ttu-id="f88d4-106">[我的授權何時到期](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)？</span><span class="sxs-lookup"><span data-stu-id="f88d4-106">[When will my license expire](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)?</span></span> <span data-ttu-id="f88d4-107">在您下一次的合約周年紀念日或在2021年1月之後更新之前，不會有額外成本的 Microsoft 小組探索體驗。</span><span class="sxs-lookup"><span data-stu-id="f88d4-107">The Microsoft Teams Exploratory experience is available at no additional cost until your next agreement anniversary or renewal on or after January 2021.</span></span>
+- <span data-ttu-id="f88d4-108">身為系統管理員，您可以購買包含小組的訂閱，從使用者移除小組探索訂閱，並指派新購買的授權，以 [升級小組探索授權的使用者](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) 。</span><span class="sxs-lookup"><span data-stu-id="f88d4-108">As an admin, you can [upgrade users from the Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) license by purchasing a subscription that includes Teams, removing the Teams exploratory subscription from the user, and assigning the newly purchased license.</span></span>
+- <span data-ttu-id="f88d4-109">如需詳細資訊，請參閱 [管理小組探索授權。](https://docs.microsoft.com/microsoftteams/teams-exploratory)</span><span class="sxs-lookup"><span data-stu-id="f88d4-109">For more information, see [Manage the Teams Exploratory license.](https://docs.microsoft.com/microsoftteams/teams-exploratory)</span></span>
