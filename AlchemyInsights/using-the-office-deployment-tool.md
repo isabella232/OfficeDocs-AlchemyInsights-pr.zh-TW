@@ -12,12 +12,12 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: 9698aa12ad73a021a3cc12c8517c1712c48d8385
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f3a5dbfc6b64ccd4f0b19a5f86236336e78838d4
+ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794902"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49085823"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>使用 Office 部署工具 (ODT) 
 
@@ -25,17 +25,17 @@ ms.locfileid: "47794902"
   
 1. 從 [Microsoft 下載中心](https://go.microsoft.com/fwlink/p/?LinkID=626065)下載最新版的 Office 部署工具。
 
-2. 使用 [Office 自訂工具 (OCT) ](https://config.office.com) 選取您的部署偏好設定，並建立設定 XML 檔案。 匯出設定檔，並將它放在 setup.exe 所在的相同資料夾中。
+2. 使用 [Office 自訂工具 (OCT) ](https://config.office.com) 選取您的部署偏好設定，並建立設定 XML 檔案。 匯出設定檔，並將它放在 setupodt.exe 所在的相同資料夾中。
 
     **附注：** 由於誤設定或 malformatted 的設定檔，通常會發生 Office 安裝問題。 為了避免這類問題，我們建議您使用 Office 自訂工具來建立設定檔。 您也可以將現有的設定檔匯入 Office 自訂工具。
 
-3. 從提升許可權的命令提示字元處，切換至 setup.exe 所在的位置，並以下載模式執行 Office 部署工具，並指定您剛儲存的設定檔。 在此範例中，設定檔命名為 Configuration.xml：
+3. 從提升許可權的命令提示字元處，切換至 setupodt.exe 所在的位置，並以下載模式執行 Office 部署工具，並指定您剛儲存的設定檔。 在此範例中，設定檔命名為 Configuration.xml：
 
-```setup.exe /download Configuration.xml```
+```setupodt.exe /download Configuration.xml```
 
 4. 在 [設定模式] 中執行 Office 部署工具，並指定設定檔。
 
-```setup.exe /configure Configuration.xml```
+```setupodt.exe /configure Configuration.xml```
 
 **附注：** 您必須從您要安裝 Office 的用戶端電腦執行此步驟，且您必須具有該電腦的本機系統管理員許可權。
 
