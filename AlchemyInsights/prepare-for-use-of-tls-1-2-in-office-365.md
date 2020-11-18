@@ -12,18 +12,17 @@ ms.custom:
 - "1266"
 - "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: 3e1e19c6198cade36930e16445250254e2e50f5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ec40ba36c69296298e24dca64a873d53682833a
+ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693949"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49085895"
 ---
 # <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a>準備在 Microsoft 365 中使用 TLS 1.2
 
-從 2018 年 10 月 31 日起，Microsoft 365 將持續轉換到 TLS 1.2。 這表示 Microsoft 將不會修正在使用 TLS 1.0 和 1.1 連線到 Microsoft 365 的用戶端、裝置或服務中發現的新問題。 **這並不代表 Microsoft 365 將會封鎖 TLS 1.0 和 1.1 的連線。** 最終淘汰日期將依客戶使用狀況和舊版 TLS 安全性的目前狀態決定。 決定之後，除非發現已知的漏洞，否則我們會提前六個月公告。若發生上述問題，我們可能會在六個月內採取因應措施，以保護使用這些服務的客戶。
+從 2018 年 10 月 31 日起，Microsoft 365 將持續轉換到 TLS 1.2。 自 2020 年 10 月 15 日起，O365 將在服務中開始取代 TLS 1.0 和 1.1。 本次變更的推出將在未來幾周和幾個月內持續進行，但客戶應假設自 2020 年 10 月 15 日起，TLS 1.0/1.1 的服務即停止在 O365 中運作。 如前所述 (2017 年 12 月的 MC126199、2018 年 2 月的 MC128929、2019 年 7 月的 MC186827 和 2020 年 7 月的 MC218794)，我們將所有的線上服務都移至 [傳輸層安全性 (TLS)] 1.2 +，以提供頂尖的加密功能，並確保我們的服務預設為更安全。 客戶仍可在其伺服器和資源上選擇使用 TLS 1.0/1.1，但他們應知道只有 TLS 1.2 或更新版本才能與 O365 運作。
   
-強烈建議您盡快針對與 Microsoft 365 連線的任何伺服器和用戶端啟用 TLS 1.2。
-  
-如需詳細資訊，請參閱[準備在 Microsoft 365 中使用 TLS 1.2](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)。
+若要深入瞭解這些變更，請參閱 [此處](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365?view=o365-worldwide) 及 [此處](https://docs.microsoft.com/microsoft-365/compliance/tls-1.0-and-1.1-deprecation-for-office-365?view=o365-worldwide)。
+
   
