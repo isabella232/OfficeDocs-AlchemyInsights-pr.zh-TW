@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 513a647a3247cb10b134ba770b2cf245bd883be8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 303b77e9464b5974d737d3549df4366ed0747ad3
+ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688469"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571656"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>為使用者建立或新增電子郵件別名
 
 需要為使用者建立電子郵件別名，還是要新增其他電子郵件地址？ 請遵循下列步驟！
   
-1. 在 Microsoft 365 系統管理中心中，移至 [ [使用者](https://go.microsoft.com/fwlink/p/?linkid=834822) ] 頁面，或選擇 [ **使用者**] [作用中 \> **使用者**]。
+1. 在 Microsoft 365 系統管理中心中，移至 [[使用者](https://go.microsoft.com/fwlink/p/?linkid=834822)] 頁面，或選擇 [**使用者**] [作用中  >  **使用者**]。
     
 2. 在 [作用中 **使用者** ] 頁面上，選取您要編輯之人員的名稱。 
     
@@ -31,7 +31,7 @@ ms.locfileid: "47688469"
     
 4. 在 [ **別名** ] 方塊中，輸入新的電子郵件， **然後選擇 [新增]**。 如果您是從 GoDaddy 或其他協力廠商購買訂閱，您必須移至 GoDaddy/協力廠商管理主控台，才能將新別名設為主要電子郵件地址。 
     
-    **重要**事項：如果您收到錯誤訊息「 **找不到符合參數名稱 ' EmailAddresses 的參數**」，表示要花很長的時間讓 Microsoft 完成設定您的租使用者或您的自訂網域（如果您最近新增一個）。 設定程序最多可能需要 4 個小時才能完成。 請稍候，讓設定程序完成，然後再試一次。 如果問題仍然存在，請連絡支援人員，他們會為您執行完整的同步處理。
+    **重要** 事項：如果您收到錯誤訊息「 **找不到符合參數名稱 ' EmailAddresses 的參數**」，表示要花很長的時間讓 Microsoft 完成設定您的租使用者或您的自訂網域（如果您最近新增一個）。 設定程序最多可能需要 4 個小時才能完成。 請稍候，讓設定程序完成，然後再試一次。 如果問題仍然存在，請連絡支援人員，他們會為您執行完整的同步處理。
     
     新的別名通常需要30分鐘的時間才能生效。
     
