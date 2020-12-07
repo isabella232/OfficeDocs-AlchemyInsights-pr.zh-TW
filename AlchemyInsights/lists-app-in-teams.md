@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947403"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477439"
 ---
 # <a name="lists-app-in-teams"></a>Teams 中的 [清單] 應用程式
 
@@ -27,10 +27,6 @@ Microsoft Teams 中的 [清單] 應用程式會將小組 SharePoint 網站中的
 [清單] 是為所有 Teams 使用者預先安裝的，且可直接在每個小組和頻道的索引標籤庫中取得。
 
 Teams 系統管理員可以使用 Microsoft Teams 權限原則控制應用程式的狀態。 如需詳細資訊，請參閱 [管理 Microsoft Teams 中的應用程式權限原則](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)。
-
-**時程：** 于 9月初開始，並于2020年 10月中完成  
-
-**發行** ：組織層級  
 
 **控制項類型：** Teams 系統管理員控制  
 
