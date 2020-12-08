@@ -12,18 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 5f5920c31de3da1b9fe50f4d8ad6de1794b603f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733282"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529009"
 ---
 # <a name="contact-the-sales-team"></a>聯繫銷售小組
 
-使用 Microsoft Graph 連接器，貴組織可以將協力廠商資料編制索引顯示在 Microsoft 搜尋結果中。
+有多種方法可以與 Microsoft 365 銷售小組聯繫。
 
-- [ Microsoft 連接器](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [由合作夥伴提供的連接器](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-如需詳細資訊，請參閱 [ Microsoft Graph 連接器概述](https://docs.microsoft.com/microsoftsearch/connectors-overview)。
+- 使用  [連絡我們](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409) 表單，以使 Microsoft 365 銷售專家與您聯繫。
+- 若要與 [企業合約大量授權]專家聯繫，請從  [大量授權服務中心](https://go.microsoft.com/fwlink/p/?LinkId=329762) 入口網站開始。
