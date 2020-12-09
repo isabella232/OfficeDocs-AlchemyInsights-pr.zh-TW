@@ -1,5 +1,5 @@
 ---
-title: 第一次使用 Microsoft Teams 嗎
+title: 設定 Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750406"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576215"
 ---
-# <a name="new-to-microsoft-teams"></a><span data-ttu-id="736fa-102">第一次使用 Microsoft Teams 嗎</span><span class="sxs-lookup"><span data-stu-id="736fa-102">New to Microsoft Teams</span></span>
+# <a name="set-up-microsoft-teams"></a><span data-ttu-id="331be-102">設定 Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="331be-102">Set up Microsoft Teams</span></span>
 
-<span data-ttu-id="736fa-103">請參閱 [開始使用 Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)。</span><span class="sxs-lookup"><span data-stu-id="736fa-103">Check out [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span> <span data-ttu-id="736fa-104">請務必參閱 Microsoft Teams IT 系統管理員訓練影片、投影集和其他資訊。</span><span class="sxs-lookup"><span data-stu-id="736fa-104">Be sure to check out Microsoft Teams IT Admin Training Videos, Decks, and more information.</span></span>
+<span data-ttu-id="331be-103">[Microsoft Teams 設定指南](https://aka.ms/teamsguidance)為貴組織提供了設定小組工作區的指導方針，這些工作區透過訊息、呼叫和音訊或視訊會議來主持小組和私人通訊的即時交談。</span><span class="sxs-lookup"><span data-stu-id="331be-103">The  [Microsoft Teams setup guide](https://aka.ms/teamsguidance)  provides your organization with guidance to set up team workspaces that host real-time conversations through messaging, calls, and audio or video meetings for both team and private communication.</span></span> <span data-ttu-id="331be-104">您將收到有關使用 [網路規劃中心] 工具和 Teams 系統管理中心中的 Teams 建議程式來確定組織的網路要求的說明。</span><span class="sxs-lookup"><span data-stu-id="331be-104">You'll receive instructions for determining your organization's network requirements by using the Network Planner tool and the Teams advisor within the Teams admin center.</span></span> <span data-ttu-id="331be-105">部署完成後，該指南將包含一些有用的資源，以協助您開始使用 Teams。</span><span class="sxs-lookup"><span data-stu-id="331be-105">Once your deployment is complete, the guide includes helpful resources to get started using Teams.</span></span>
 
-<span data-ttu-id="736fa-105">如需協助部署 Teams 以支援起因於 COVID-19 的遠端工作人員 (WFH)，請參閱[支援使用 Microsoft Teams 的遠端工作者](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)。</span><span class="sxs-lookup"><span data-stu-id="736fa-105">If you need help deploying Teams to support Remote Workers (WFH) due to COVID-19, please review  [Support remote workers using Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams).</span></span> <span data-ttu-id="736fa-106">此外，您可能符合 Microsoft 365 FastTrack 計畫的部署協助，請造訪 [[FastTrack 中心]](https://www.microsoft.com/fasttrack) 以提交要求。</span><span class="sxs-lookup"><span data-stu-id="736fa-106">Also, you may be eligible for deployment assistance from the Microsoft 365 FastTrack Program - please visit the [FastTrack Center](https://www.microsoft.com/fasttrack) to submit a request.</span></span>
-
-<span data-ttu-id="736fa-107">**重要**：因為最近的 Teams 使用量增加，當您指派 Teams 授權給使用者時，可能需要 24 小時的時間才能完成設定。</span><span class="sxs-lookup"><span data-stu-id="736fa-107">**Important**: Due to a recent increase in Teams usage, when you assign a Teams license to a user, it may take around 24 hours before they'll be fully set up.</span></span> <span data-ttu-id="736fa-108">在此之前，您無法將 Teams 原則指派給他們，而他們可能無法存取某些 Teams 功能，例如通話和音訊會議。</span><span class="sxs-lookup"><span data-stu-id="736fa-108">Until then, you won't be able to assign Teams policies to them, and they might not have access to some Teams features like calling and audio conferencing.</span></span>
+<span data-ttu-id="331be-106">如需其他資訊，請參閱[開始使用 Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)。</span><span class="sxs-lookup"><span data-stu-id="331be-106">For additional information, please see [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span>
