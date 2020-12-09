@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
-ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
+ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
+ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49569158"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605700"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive PUID 不符
 
-它似乎您在商務 OneDrive 中遇到 [識別碼不相符](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) 的情況。 請依照下列步驟進行，我們可能會儘快協助您：
+它似乎您在商務 OneDrive 中遇到 [識別碼不相符](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) 的情況。 若要讓我們儘早協助您，請執行下列步驟：
 
 1. 按一下 [  **連絡人支援**]，然後按一下 [  **新增服務要求**]。
 2. 保留標題和描述，  **OneDrive 網站使用者識別碼不相符**。

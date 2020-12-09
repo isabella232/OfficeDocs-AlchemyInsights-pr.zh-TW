@@ -1,5 +1,5 @@
 ---
-title: 第一次使用 Microsoft Teams 嗎
+title: 設定 Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750406"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576215"
 ---
-# <a name="new-to-microsoft-teams"></a>第一次使用 Microsoft Teams 嗎
+# <a name="set-up-microsoft-teams"></a>設定 Microsoft Teams
 
-請參閱 [開始使用 Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)。 請務必參閱 Microsoft Teams IT 系統管理員訓練影片、投影集和其他資訊。
+[Microsoft Teams 設定指南](https://aka.ms/teamsguidance)為貴組織提供了設定小組工作區的指導方針，這些工作區透過訊息、呼叫和音訊或視訊會議來主持小組和私人通訊的即時交談。 您將收到有關使用 [網路規劃中心] 工具和 Teams 系統管理中心中的 Teams 建議程式來確定組織的網路要求的說明。 部署完成後，該指南將包含一些有用的資源，以協助您開始使用 Teams。
 
-如需協助部署 Teams 以支援起因於 COVID-19 的遠端工作人員 (WFH)，請參閱[支援使用 Microsoft Teams 的遠端工作者](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)。 此外，您可能符合 Microsoft 365 FastTrack 計畫的部署協助，請造訪 [[FastTrack 中心]](https://www.microsoft.com/fasttrack) 以提交要求。
-
-**重要**：因為最近的 Teams 使用量增加，當您指派 Teams 授權給使用者時，可能需要 24 小時的時間才能完成設定。 在此之前，您無法將 Teams 原則指派給他們，而他們可能無法存取某些 Teams 功能，例如通話和音訊會議。
+如需其他資訊，請參閱[開始使用 Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)。
