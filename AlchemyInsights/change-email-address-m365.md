@@ -19,7 +19,7 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 10/10/2020
 ms.locfileid: "48416691"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group"></a>變更一個 Microsoft 365 群組的電子郵件地址
+# <a name="change-email-address-of-a-microsoft-365-group"></a>變更 Microsoft 365 群組的電子郵件地址
 
 您可以使用系統管理中心來變更 Microsoft 365 群組的電子郵件地址。 只要選取群組，然後選取 [@編輯電子郵件地址]。
 
