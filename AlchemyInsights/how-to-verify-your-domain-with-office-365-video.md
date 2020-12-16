@@ -1,5 +1,5 @@
 ---
-title: '如何驗證您的網域 '
+title: Verify your domain
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
 ms.custom:
-- "44"
-- "46"
-- "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
+- "7593"
+ms.openlocfilehash: b220f7a1b900582ba700f0e7cb5ec2a17ba0a325
 ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683857"
+ms.locfileid: "49683939"
 ---
-# <a name="how-to-verify-your-domain"></a>如何驗證您的網域
+# <a name="verify-your-domain"></a>Verify your domain
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfN?autoplay=false]
 
 若要驗證網域，請遵循 [[新增網域] 嚮導](https://admin.microsoft.com/Adminportal#/Domains/Wizard)，或手動移至 **安裝**  >  **網域** 的 [  >  **新增網域**]。
 

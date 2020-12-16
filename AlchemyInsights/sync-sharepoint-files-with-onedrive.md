@@ -25,7 +25,7 @@ ms.locfileid: "49086039"
 
 請遵循下列文章中的步驟和最佳做法進行：
 
-- [如何使用 [在檔案總管中開啟] 命令以在 SharePoint Online 中針對問題進行疑難排解](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
+- [如何使用 [在檔案總管中開啟] 命令以在 SharePoint Online 中針對問題進行疑難排解](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) (英文)
 
 - [使用 [在檔案總管中開啟] 來複製或移動檔案](https://support.microsoft.com/office/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2?ui=en-us&rs=en-us&ad=us)
 
