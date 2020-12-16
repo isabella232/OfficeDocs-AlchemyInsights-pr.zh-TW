@@ -20,6 +20,6 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 11/17/2020
 ms.locfileid: "49086254"
 ---
-# <a name="create-a-shared-library-in-onedrive"></a><span data-ttu-id="4f722-102">在 OneDrive 中建立一個共用的文件庫</span><span class="sxs-lookup"><span data-stu-id="4f722-102">Create a shared library in OneDrive</span></span>
+# <a name="create-a-shared-library-in-onedrive"></a><span data-ttu-id="3d3d9-102">在 OneDrive 中建立一個共用的文件庫</span><span class="sxs-lookup"><span data-stu-id="3d3d9-102">Create a shared library in OneDrive</span></span>
 
-<span data-ttu-id="4f722-103">如需詳細資訊，請參閱 [在 OneDrive 中建立一個新的共用文件庫](https://support.microsoft.com/office/create-a-new-shared-library-from-onedrive-for-work-or-school-345c8599-05d8-4bf8-9355-2b5cfabe04d0?ui=en-US&rs=en-US&ad=US)。</span><span class="sxs-lookup"><span data-stu-id="4f722-103">For more information, see [Create a new shared library from OneDrive](https://support.microsoft.com/office/create-a-new-shared-library-from-onedrive-for-work-or-school-345c8599-05d8-4bf8-9355-2b5cfabe04d0?ui=en-US&rs=en-US&ad=US).</span></span>
+<span data-ttu-id="3d3d9-103">如需詳細資訊，請參閱 [在 OneDrive 中建立一個新的共用文件庫](https://support.microsoft.com/office/create-a-new-shared-library-from-onedrive-for-work-or-school-345c8599-05d8-4bf8-9355-2b5cfabe04d0?ui=en-US&rs=en-US&ad=US)。</span><span class="sxs-lookup"><span data-stu-id="3d3d9-103">For more information, see [Create a new shared library from OneDrive](https://support.microsoft.com/office/create-a-new-shared-library-from-onedrive-for-work-or-school-345c8599-05d8-4bf8-9355-2b5cfabe04d0?ui=en-US&rs=en-US&ad=US).</span></span>
