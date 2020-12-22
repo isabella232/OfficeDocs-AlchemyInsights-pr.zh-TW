@@ -12,24 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 5940d1a96324c5ca77331485a115689abe547ef7
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
+ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947488"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724145"
 ---
 # <a name="comments-on-list-items"></a>清單專案的批註
 
-使用者將很快可以新增及刪除清單專案的批註。 使用者可以查看清單專案上的所有批註，並篩選顯示與專案相關的批註或活動的視圖。
-
-**計時** ：
-
-**目標版本** ：逐步推出于十月，預計會在2006年11月完成
-
-**標準版本** ：逐步推出，在十二月的初期完成
-
-**首展** ：整個組織的目標發行
+使用者可以查看清單專案上的所有批註，並篩選顯示與專案相關的批註或活動的視圖。
 
 使用者必須先注意下列專案，才能新增及刪除批註：
 
