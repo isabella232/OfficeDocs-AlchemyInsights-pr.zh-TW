@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: db025cd1278471a3c54d55409d9a9418095778a7
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
+ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49666642"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49727214"
 ---
 # <a name="no-results-returned-during-content-searchexport"></a>內容搜尋/匯出期間未傳回任何結果
 
@@ -26,7 +26,7 @@ ms.locfileid: "49666642"
 - 內容搜尋/匯出會傳回沒有資料或非預期的資料
 - eDiscovery 搜尋或匯出失敗
 
-這可能是因為特定系統管理員所設定的某些相容性安全性篩選器所造成，但未傳遞給所有系統管理員。
+這可能是因為特定系統管理員所設定的某些規範安全性篩選器，但未傳遞給所有系統管理員。
 
 若要解決此問題，請檢查是否有任何可能導致這些問題的相容性安全性篩選：
 
