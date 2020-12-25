@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9004197"
-- "7378"
-ms.openlocfilehash: 2f5708579d8f44233e2d875e0d72fe3b09faf9cf
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- 9004197/7378
+- 9003961/7017
+ms.openlocfilehash: 33b8e22dcea254abf1854292b9d6a16e7ef5a155
+ms.sourcegitcommit: e29887ce455fbe5896d57b07992e6eb3fc0888ce
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608829"
+ms.lasthandoff: 12/24/2020
+ms.locfileid: "49731729"
 ---
 # <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>將 Gmail 連絡人或 Google 行事曆遷移至 Office 365 或 Outlook
 
