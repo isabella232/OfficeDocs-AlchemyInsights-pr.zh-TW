@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
-ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "49736869"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755538"
 ---
 # <a name="transfer-azure-billing-ownership"></a>轉移 Azure 帳單擁有權
 
 以擁有要轉移的訂閱的計費帳戶的管理員身份登入到 [Azure 入口網站](https://portal.azure.com/)。 如果不確定您是否是管理員，或者您需要確定是誰，請參閱[確定帳戶計費管理員](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa)。
 
-1. 在 _成本管理 + 計費_ 上搜尋。
+1. 搜尋 _成本管理 + 計費_。
 1. 從左方窗格中選取 **訂閱**。 依據存取權而定，您可能需要選取計費範圍，然後 **訂閱** 或 **Azure 訂閱**。
 1. 針對您想要轉移的訂閱，選取 **[轉移帳單擁有權]**。
 1. 輸入使用者的電子郵件地址，其為訂閱的新擁有者帳戶的計費管理員，然後選取 **傳送轉移要求**。
