@@ -1,5 +1,5 @@
 ---
-title: 如何新增及管理管理員-建議的步驟
+title: 如何新增及管理系統管理員-建議的步驟
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 142bf1474ac0e0eac5cecb9dddd35e28b6b6631e
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599460"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755826"
 ---
-# <a name="how-to-add-and-manage-adminstrators---recommended-steps"></a>如何新增及管理管理員-建議的步驟
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>如何新增及管理系統管理員-建議的步驟
+
+根據您的問題描述，我們找到您的解決方案。 當您遵循我們的檔後，大多數客戶都可以自行解決他們的問題。
 
 **編輯訂閱管理員或共同管理員**
 
@@ -57,7 +59,7 @@ ms.locfileid: "49599460"
 
 1. 若要新增使用者，請以組織的使用者管理員身分登入 [Azure 入口網站](https://ms.portal.azure.com/#home) 。
 2. 選取 [ **Azure Active Directory**]，選取 [ **使用者** ]，然後按一下 [ **新增使用者**]。
-3. 在 [ **使用者** ] 頁面上，填寫必要的資訊。 按一下 **[建立]**。 使用者建立並新增至您的 Azure AD 租使用者。
+3. 在 [ **使用者** ] 頁面上，填寫必要的資訊。 按一下 [建立 **]**。 使用者建立並新增至您的 Azure AD 租使用者。
 
 **深入瞭解**：
 

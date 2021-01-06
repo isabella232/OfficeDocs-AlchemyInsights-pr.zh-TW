@@ -1,5 +1,5 @@
 ---
-title: 如何新增及管理系統管理員-MCA FL/CL
+title: 如何新增及管理系統管理員
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683945"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755430"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>如何新增及管理系統管理員-MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>如何新增及管理系統管理員
+
+根據您的問題描述，我們找到您的解決方案。 當您遵循我們的檔後，大多數客戶都可以自行解決他們的問題。
 
 若要管理您的 Microsoft 客戶合約 (MCA) 的帳單帳戶，您可以使用不同的角色與所需的存取層級。 這些角色是除了可協助您控制資源的內建 Azure 服務角色之外的功能。
 
@@ -32,7 +34,7 @@ ms.locfileid: "49683945"
 5. 若要授與使用者的存取權，請從頁面頂端選取 [ **新增** ]。 在 [ *角色* ] 下拉式清單中，選取角色。 輸入您要授與存取權之使用者的電子郵件地址。 選取 [ **儲存** ] 以指派角色。
 6. 若要移除使用者的存取權，請選取您要移除角色指派的使用者。 選取 [ **移除**]。
 
-**建譯的文件**
+**建議的文件**
 
 - [計費角色定義](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
 - [計費帳戶角色和工作](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)

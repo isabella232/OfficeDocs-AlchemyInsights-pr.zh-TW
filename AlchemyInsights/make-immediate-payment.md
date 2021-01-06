@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: 9132b5ed851ba06b90f22adc6f47583064e60e92
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49707867"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755790"
 ---
 # <a name="make-immediate-payment---recommended-steps"></a>進行立即付款-建議的步驟
+
+根據您的問題描述，我們找到您的解決方案。 當您遵循我們的檔後，大多數客戶都可以自行解決他們的問題。
 
 若要進行立即付款，請確定已到期的餘額為 [已逾期]。 如果您未收到您的付款，或是無法處理您的付款，您可能會收到一封電子郵件或查看帳戶中心或 Azure 入口網站中逾期到期的通知警示。 
 

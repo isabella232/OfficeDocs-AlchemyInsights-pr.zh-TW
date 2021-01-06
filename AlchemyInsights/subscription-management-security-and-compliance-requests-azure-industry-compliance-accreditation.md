@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 84c9d89161111a5a1cf9aea92f49c754ad6b7f73
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598273"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755574"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>訂閱管理-安全性和合規性要求-azure 業界合規性資格鑒定
+
+根據您的問題描述，我們找到您的解決方案。 當您遵循我們的檔後，大多數客戶都可以自行解決他們的問題。
 
 - **原則**：如需 Microsoft 規範檔的任何問題，請參閱 [Azure 信任中心規範](https://docs.microsoft.com/compliance/regulatory/offering-SOC)。
 
@@ -50,7 +52,7 @@ ms.locfileid: "49598273"
 > [!NOTE]
 > 線上服務客戶資料和個人資料清單通知完全自動化。 如需詳細資訊，請參閱 Microsofts Data Protection Resources。
 
-**建譯的文件**
+**建議的文件**
 
 - [匯出或刪除 Azure 入口網站中的設定](https://docs.microsoft.com/azure/azure-portal/set-preferences)
 - [在 Azure 入口網站中尋找活動報告](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)

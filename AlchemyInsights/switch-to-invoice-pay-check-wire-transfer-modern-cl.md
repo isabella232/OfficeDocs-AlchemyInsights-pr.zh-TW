@@ -1,5 +1,5 @@
 ---
-title: 切換到發票支付 (支票/線速轉接) -新式 CL
+title: '切換到按發票付款 (支票/線速轉接) '
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49693370"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755446"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>切換到發票支付 (支票/線速轉接) -新式 CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>切換到按發票付款 (支票/線速轉接) 
+
+根據您的問題描述，我們找到您的解決方案。 當您遵循我們的檔後，大多數客戶都可以自行解決他們的問題。
 
 如果您切換到 [按發票付款]，表示您將在開票日的30天內支付帳單。 若要透過發票支付 Azure 訂閱的資格，請提交 Azure 支援的要求。 核准您的要求之後，您可以在 Azure 入口網站中將訂閱切換到發票付款。
 
@@ -40,7 +42,7 @@ ms.locfileid: "49693370"
 4. 在 [ *帳單設定檔* ] 功能表中，選取 [ **支付方式**]。
 5. 選取 [橫幅]，表示您有資格透過支票/電匯轉接進行支付。
 
-**建譯的文件**
+**建議的文件**
 
 - [要求/下載/查看您的 Azure 計費發票和使用狀況資料](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [如何將 Azure 發票直接電子郵件傳送至您的收件匣](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)

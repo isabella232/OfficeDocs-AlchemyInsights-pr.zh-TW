@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: 436914e63e7fe28af371d1d50ff22a5e1b9d8b82
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: d5811b18e16a4b98cf507a79f212768c009b96b2
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49709805"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755449"
 ---
 # <a name="add-another-enterprise-administrator---recommended-steps"></a>新增另一個企業系統管理員-建議步驟
+
+根據您的問題描述，我們找到您的解決方案。 當您遵循我們的檔後，大多數客戶都可以自行解決他們的問題。
 
 企業註冊中可以有多個企業系統管理員。
 

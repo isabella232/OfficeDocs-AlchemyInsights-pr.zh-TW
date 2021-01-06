@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7285"
-ms.openlocfilehash: 0c5cc07399a97d27f77e761556376785d51ed9f7
-ms.sourcegitcommit: 04bc9ed287c1f90874c51f05c0d8647d6395c881
+ms.openlocfilehash: 4a4f258a7a13f02ba8fe49dd50392a4dc766b222
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49722719"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755646"
 ---
 # <a name="make-an-immediate-payment"></a>進行立即付款
+
+根據您的問題描述，我們找到您的解決方案。 當您遵循我們的檔後，大多數客戶都可以自行解決他們的問題。
 
 使用 Microsoft Customer 合約 (MCA) ，您的付款條件與 [帳單設定檔](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)相關聯。
 
@@ -36,7 +38,7 @@ ms.locfileid: "49722719"
 
 發票的狀態將更新為 [發票薄片] 中的 [已支付]。
 
-**建譯的文件**
+**建議的文件**
 
 - [變更付款條件-常見問題](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
 - [變更帳單設定檔的支付方式](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
