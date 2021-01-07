@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731230"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768808"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>使用 Intune 啟用 Bitlocker 加密
 
@@ -30,10 +30,12 @@ ms.locfileid: "47731230"
  
 **常見問題集**
 
- 問：哪些版本的 Windows 支援使用 Endpoint Protection 原則裝置加密？<br>
- A： Intune Endpoint Protection 原則中的設定是使用 [BITLOCKER CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)來執行。 並非所有版本或 Windows 組建都支援 Bitlocker CSP。 <br><br>
-      目前支援下列 Windows 版本： Enterprise、教育版、行動裝置、行動企業及職業 (組建1809和更新版本) 。
- 
+問：哪些版本的 Windows 支援使用 Endpoint Protection 原則裝置加密？<br>
+A： Intune Endpoint Protection 原則中的設定是使用 [BITLOCKER CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)來執行。 並非所有版本或 Windows 組建都支援 Bitlocker CSP。 <br><br>
+
+問：如何在裝置上啟用 Bitlocker，而不需要使用者進行互動？<br>
+A：只要符合必要先決條件，即可透過 Intune 啟用 Bitlocker 「無訊息的加密」。 請參閱裝置需求的詳細資料和範例原則設定，以啟用下列檔中的無訊息加密：以無訊息方式 [啟用 Bitlocker 加密](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices)。 <br><br>
+
 Q：如果裝置已使用 Bitlocker 加密方法和密碼長度) AES-128 (預設值的 OS 預設設定來加密，將會以新的設定套用具有不同設定的原則，以自動對該磁片磁碟機重新加密。<br>
 答：否。 若要套用新的密碼設定，必須先解密磁片磁碟機。<br><br>
 **附注：** 針對使用 Autopilot 註冊的裝置，在進行 OOBE 原則評估之前，不會觸發在 OOBE 期間進行的自動加密，這可讓您使用原則設定來取代 OS 預設值。
