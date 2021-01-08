@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768808"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778184"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>使用 Intune 啟用 Bitlocker 加密
 
- Intune Endpoint Protection 原則可用於設定 Windows 裝置的 Bitlocker 加密設定。 如需詳細資訊，請參閱 [Windows 10 (和更新版本) 設定，以使用 Intune 保護裝置](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)。
- 
+Intune Endpoint Protection 原則可用於設定 Windows 裝置的 Bitlocker 加密設定。 如需詳細資訊，請參閱 [Windows 10 (和更新版本) 設定，以使用 Intune 保護裝置](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)。
+
+除了 Endpoint Protection 原則之外，也有一個加密報告，可提供裝置之加密狀態的更詳細的視圖。 您可以從 [**裝置 > 監視器**] 底下的 MEM 入口網站存取此報告，然後在 [**設定選取**[加密報告](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)] 底下存取。
+
+如果您發現 Bitlocker 無法如期啟用，或是用來啟用 Bitlocker 的設定檔處於錯誤狀態，請複查加密報告，以更深入瞭解行為的原因。
+
+若要尋找有關如何轉譯報告（包括各種加密狀態值）的詳細資訊，請參閱 [使用 Intune 監控裝置加密](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)。
+
 您應注意，許多執行 Windows 10 的更新裝置都支援自動 Bitlocker 加密，而不是在應用 MDM 原則的情況下觸發。 如果已設定非預設設定，這可能會影響原則的應用程式。 如需詳細資訊，請參閱下列 FAQ。
- 
+
 如需有關 bitlocker 問題疑難排解的詳細資訊，請參閱 [疑難排解 Microsoft Intune 中的 BitLocker 原則](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)。
  
  
