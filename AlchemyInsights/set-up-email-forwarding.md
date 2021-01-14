@@ -13,20 +13,22 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801067"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847591"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>檢查信箱的電子郵件轉送設定
 
-很容易驗證 Microsoft 365 信箱上的電子郵件轉送設定。 請遵循下列步驟。
+首先，必須啟用租使用者層級的電子郵件轉接。 如果您已在信箱上設定電子郵件轉寄功能，但它無法運作，請參閱 [在 Microsoft 365 中控制自動外部電子郵件轉接](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide)。
+
+很容易驗證信箱上的電子郵件轉送設定！ 請遵循下列步驟。
   
 > 如果這是使用者信箱，請移至 [ **使用者**] [作用中的 \> **使用者** ]，然後選取您要轉寄其信箱的使用者。 在 [ **郵件** ] 索引標籤上，選取 [ **管理電子郵件轉發**]。
 
-> 如果這是共用信箱，請移至 [**群組**] [共用信箱]， \> **Shared mailboxes**然後選取您要轉送的共用信箱。 選取 [電子郵件轉發] 的 [ **編輯** ]。
+> 如果這是共用信箱，請移至 [**群組**] [共用信箱]， \> 然後選取您要轉送的共用信箱。 選取 [電子郵件轉發] 的 [ **編輯** ]。
 
 如需詳細資訊，請參閱 [在 Microsoft 365 中設定電子郵件轉接](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)。
   
