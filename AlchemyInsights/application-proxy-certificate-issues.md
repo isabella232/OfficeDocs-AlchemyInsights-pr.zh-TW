@@ -3,7 +3,7 @@ title: 應用程式 proxy 和憑證問題
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/13/2021
+ms.date: 01/15/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7799"
 - "9004356"
-ms.openlocfilehash: 753d1ff2b4b803072bab0edca0331ff65a4a2c0b
-ms.sourcegitcommit: 9dbce0b688224ddd6b50ebe5d9cd1ef58bfec7b9
+ms.openlocfilehash: 743350ef31ee45f339086fb39a05835a71fabafa
+ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49844991"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49875094"
 ---
 # <a name="application-proxy-and-certificate-issues"></a>應用程式 proxy 和憑證問題
 
-大部分的使用者都能使用下列文章解決其應用程式 Proxy 和憑證問題，以下是建議文件的名稱：
+若要解決應用程式 Proxy 和憑證問題，請參閱下列文件：
 
 **建議的文件**
 
