@@ -12,15 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 955797530f53d22c7c225ce0a32d686a00215219
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
+ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748235"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "49911758"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>變更 Microsoft 365 群組的網域
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>變更 Microsoft 365 群組的網域
 
 如果您想要在建立時變更 Microsoft 365 群組的網域，請依照 [選擇建立 microsoft 365 群組時所使用的網域](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)中的步驟進行。
 
-在建立 Microsoft 365 群組之後，目前沒有任何方法可以變更網域。 唯一的方式是建立新的 Microsoft 365 群組，並在必要時刪除舊的電子郵件地址 (可透過 [Exchange 系統管理中心](https://outlook.office365.com/ecp)新增其他電子郵件地址。
+若要變更現有 Microsoft 365 群組的網域，以系統管理員的身分，您可以流覽至 Microsoft 365 系統管理中心 https://admin.microsoft.com ，然後執行下列步驟：
+
+- 從左側功能表選擇 **群組**
+- 搜尋您要修改的 M365 群組並加以選擇，然後按一下 [**一般**] 索引標籤上的 [**電子郵件地址**] 底下的 [**編輯**]。
+- 現在，您可以變更其主要電子郵件地址的網域，也可以新增電子郵件別名。
+
+> [!IMPORTANT]
+> 一般通訊群組和擁有郵件功能的安全性群組，可讓您從 M365 系統管理中心、 **群組** 區段中管理較少的設定。 如果您想要管理更多詳細資料，請按一下 [ **設定** ] 索引標籤上的其中一個 M365 系統管理中心，然後選擇 **[在 Exchange 系統管理中心管理其他設定** ] 選項。
