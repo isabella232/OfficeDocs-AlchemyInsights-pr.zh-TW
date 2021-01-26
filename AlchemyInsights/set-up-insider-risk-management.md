@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 3cde8bb419d79506e101cd75fde6fcb69aa2441c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90655fea0b8a7debabdd986bf0f89244d509e8d9
+ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800959"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "49951816"
 ---
 # <a name="set-up-insider-risk-management"></a>設定測試人員風險管理
 
-使用測試人員風險管理原則來識別危險的活動和管理工具，以針對組織中的風險警示採取動作。 開始使用測試人員風險管理之前，您應先確認 **Microsoft 365 訂閱**。 若要存取並使用測試人員風險管理，貴組織**必須**具備下列其中一種訂閱：
+若要存取並使用測試人員風險管理，貴組織 **必須** 具備下列其中一種訂閱：
 
 - **Microsoft 365 E5** 訂閱。
 
@@ -29,16 +29,10 @@ ms.locfileid: "47800959"
 
 如果您沒有 **Microsoft 365 E5** 方案，且想要試用測試人員風險管理，您可以將 Microsoft 365 新增至現有的訂閱，或註冊 Microsoft 365 企業版 E5 的試用版。
 
-使用測試人員風險管理的基本步驟包括：
-
-1. 為測試人員風險管理啟用權限。
-
-2. 啟用稽核記錄。
-
-3. 設定範本的必要條件 (選用)。
-
-4. 設定測試人員風險設定。
-
-5. 建立測試人員風險管理原則。
+> [!TIPS]
+- > 使用「資料外洩」範本：確保您至少已設定一個 DLP 原則。
+- > 系統管理員沒有看到警示：確保已將使用者指派給下列其中一個群組：
+    - >**測試人員風險管理分析員**
+    - >**測試人員風險管理調查員**
 
 如需有關測試人員風險原則如何協助您管理組織風險的詳細資訊，請參閱 [Microsoft 365 中的測試人員風險管理](https://go.microsoft.com/fwlink/?linkid=2123907)。
