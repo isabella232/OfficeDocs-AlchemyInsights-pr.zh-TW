@@ -12,17 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "8000"
-ms.openlocfilehash: fb338955e981d64806cf098595f847d2def690bf
-ms.sourcegitcommit: 41ddd8e65e9bfdacb6d8a96e0d42426998ffd2d0
+ms.openlocfilehash: f2d870154f49215fe64d4193d590ba24b4930c0e
+ms.sourcegitcommit: 55d8b56bb8ab0ed07985ef2b5c48ffeb3440b5fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "49986330"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50040207"
 ---
-# <a name="mover-troubleshooting"></a><span data-ttu-id="59ee7-102">Mover 疑難排解</span><span class="sxs-lookup"><span data-stu-id="59ee7-102">Mover Troubleshooting</span></span>
+# <a name="mover-troubleshooting"></a><span data-ttu-id="574e0-102">Mover 疑難排解</span><span class="sxs-lookup"><span data-stu-id="574e0-102">Mover Troubleshooting</span></span>
 
-<span data-ttu-id="59ee7-103">如需疑難排解移動器的詳細資訊，請造訪下列各項：</span><span class="sxs-lookup"><span data-stu-id="59ee7-103">For information on troubleshooting Mover please visit the following:</span></span>
+<span data-ttu-id="574e0-103">如需疑難排解移動器的詳細資訊，請造訪下列各項：</span><span class="sxs-lookup"><span data-stu-id="574e0-103">For information on troubleshooting Mover please visit the following:</span></span>
 
-- [<span data-ttu-id="59ee7-104">移轉後的疑難排解</span><span class="sxs-lookup"><span data-stu-id="59ee7-104">Troubleshooting post-migration</span></span>](https://docs.microsoft.com/sharepointmigration/mover-post-migration-troubleshooting)  
-- [<span data-ttu-id="59ee7-105">Mover 傳輸狀態碼</span><span class="sxs-lookup"><span data-stu-id="59ee7-105">Mover transfer status codes</span></span>](https://docs.microsoft.com/sharepointmigration/mover-transfer-status-codes)
-- [<span data-ttu-id="59ee7-106">帳戶常見問題集</span><span class="sxs-lookup"><span data-stu-id="59ee7-106">Account FAQ</span></span>](https://docs.microsoft.com/sharepointmigration/mover-account-faq)
+- [<span data-ttu-id="574e0-104">移轉後的疑難排解</span><span class="sxs-lookup"><span data-stu-id="574e0-104">Troubleshooting post-migration</span></span>](https://docs.microsoft.com/sharepointmigration/mover-post-migration-troubleshooting)  
+- [<span data-ttu-id="574e0-105">疑難排解 Mover 移轉錯誤</span><span class="sxs-lookup"><span data-stu-id="574e0-105">Troubleshooting Mover migration errors</span></span>](https://docs.microsoft.com/sharepointmigration/mover-error-faq)  
+- [<span data-ttu-id="574e0-106">Mover 傳輸狀態碼</span><span class="sxs-lookup"><span data-stu-id="574e0-106">Mover transfer status codes</span></span>](https://docs.microsoft.com/sharepointmigration/mover-transfer-status-codes)
+- [<span data-ttu-id="574e0-107">帳戶常見問題集</span><span class="sxs-lookup"><span data-stu-id="574e0-107">Account FAQ</span></span>](https://docs.microsoft.com/sharepointmigration/mover-account-faq)
