@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
+ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560431"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50093346"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>在 Azure AD Connect 中啟用密碼回寫
 
@@ -43,4 +43,4 @@ ms.locfileid: "49560431"
 如需詳細資訊，請參閱[啟用 Azure Active Directory 自助密碼重設回寫至內部部署環境](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)。
 
 > [!NOTE]
->  當管理員在 Azure 入口網站中重設使用者密碼時，如果該使用戶已同盟或同步密碼雜湊，則密碼將寫回內部部署。 Office 系統管理入口網站當前不支援此功能。
+>  當管理員在 Azure 入口網站中重設使用者密碼時，如果該使用戶已同盟或同步密碼雜湊，則密碼將寫回內部部署。 此功能需要 Azure 進階授權 (P1 or P2)，且目前不在 Office 管理入口網站中支援。
