@@ -1,31 +1,29 @@
 ---
 title: 變更付款方式
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: f1076fdb94e051bb72b719ee5c8401dd49ce44da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681740"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152585"
 ---
 # <a name="change-payment-method-fromto"></a>變更新舊付款方式
 
 1. **從發票付款變更為信用卡或銀行帳戶付款**
 
-    - 當您將使用發票付款變更為使用信用卡或銀行帳戶付款時，我們會自動為您建立新的訂閱、將您的使用者移轉至新訂閱，然後停用舊訂閱。 別擔心，使用者不會看到服務中斷，而其所有資訊都會透過新訂閱提供。 
-
-    - 依照[從發票付款變更為信用卡或銀行帳戶付款](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account)所列的步驟操作。
+    - 您無法自動由從發票付款變更為以不同的付款方法付款。 相反地，您必須[購買不同的訂閱](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)，透過信用卡或轉帳卡或銀行帳戶支付，[將所有使用者移至新訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)，然後[取消舊的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
 
 2. **從信用卡或銀行帳戶付款變更為發票付款**
 
@@ -33,6 +31,6 @@ ms.locfileid: "47681740"
 
     - 如果您的訂單數量過高，可能需要信用檢查。 若是如此，就會看到此訊息：「不符合變更為發票付款資格。 您的訂單需要信用檢查。」 在此情況下，請改為手動使用發票付款。
 
-    - 依照[從信用卡或銀行帳戶付款變更為發票付款](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice)所列的步驟操作，以完成手動變更。
+    - 依照[如何從信用卡付款變更為發票付款？](how-do-i-change-from-credit-card-payments-to-invoice.md)中的步驟，完成手動變更。
 
-如需詳細資訊，請參閱[變更您的付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)。
+如需詳細資訊，請參閱[如何支付您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。
