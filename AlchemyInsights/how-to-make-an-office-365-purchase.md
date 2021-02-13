@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "531"
 - "1400007"
-ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287129"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232358"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>如何進行 Microsoft 365 購買
 
 您可以在系統管理中心購買 Microsoft 365 訂閱。
   
-- 若要購買計畫，請移至 **帳單** \> [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433) 頁面。
-- 若要購買其他授權，請移至 [ **帳單** \> [產品](https://go.microsoft.com/fwlink/p/?linkid=842054) ] 頁面。 選取您要變更的訂閱，然後選取 [ **購買授權** ] 或 [ **移除授權**]。
+- 若要購買計畫，請移至 **帳單** \> **[購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)** 頁面。
+- 若要購買其他授權，請移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。 選取您要變更的訂閱，然後選取 [ **購買授權**]。
+觀賞顯示如何執行此動作 **的影片**：[購買新的授權](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-若要深入瞭解，請參閱 [購買商務用 Microsoft 365 訂閱的授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)。
+若要深入瞭解，請參閱 [購買或移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。
 
 **疑難排解**
 
