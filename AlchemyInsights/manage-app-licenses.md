@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 7d67d47d2fb427537501930401d7a33978293718
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 1ab15eed7f368663843846ea970f44a0f88d3cb5
+ms.sourcegitcommit: 705c8a0c5fe31248bfa9da048cdee2c6296c6281
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232394"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50237559"
 ---
 # <a name="manage-app-licenses"></a>管理應用程式授權
 
 ## <a name="to-change-license-quantity"></a>變更授權數量
+
+觀賞顯示如何執行此動作 **的影片**：[購買新的授權](https://go.microsoft.com/fwlink/p/?linkid=2154857)或 [移除現有的授權](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
 1. 移至 [**帳單**  >  **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
 2. 在 [ **產品** ] 索引標籤的 [ **應用程式** ] 區段中，尋找您要管理的應用程式。 選取 [ **更多** (三點) 的動作，然後選取 [ **購買授權**]。
