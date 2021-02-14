@@ -20,6 +20,6 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 02/09/2021
 ms.locfileid: "50162913"
 ---
-# <a name="join-a-team-by-code"></a><span data-ttu-id="ba408-102">依代碼加入小組</span><span class="sxs-lookup"><span data-stu-id="ba408-102">Join a team by code</span></span>
+# <a name="join-a-team-by-code"></a><span data-ttu-id="4faa8-102">依代碼加入小組</span><span class="sxs-lookup"><span data-stu-id="4faa8-102">Join a team by code</span></span>
 
-<span data-ttu-id="ba408-103">Microsoft 發現使用者無法建立 **加入小組** 代碼的問題，或使用 **依代碼加入小組** 的功能來加入小組。</span><span class="sxs-lookup"><span data-stu-id="ba408-103">Microsoft is aware of an issue where users are unable to create a **Join a Team** code, or join a team using the **Join by Code** feature.</span></span> <span data-ttu-id="ba408-104">如需因應措施，團隊擁有者可以視需要手動新增使用者。</span><span class="sxs-lookup"><span data-stu-id="ba408-104">As a workaround, team owners can manually add users, as needed.</span></span>
+<span data-ttu-id="4faa8-103">Microsoft 發現以下問題：使用者無法建立 **加入小組** 代碼，或使用 **依代碼加入小組** 的功能來加入小組。</span><span class="sxs-lookup"><span data-stu-id="4faa8-103">Microsoft is aware of an issue where users are unable to create a **Join a Team** code, or join a team using the **Join by Code** feature.</span></span> <span data-ttu-id="4faa8-104">如需因應措施，團隊擁有者可以視需要手動新增使用者。</span><span class="sxs-lookup"><span data-stu-id="4faa8-104">As a workaround, team owners can manually add users, as needed.</span></span>
