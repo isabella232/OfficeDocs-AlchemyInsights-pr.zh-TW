@@ -12,21 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002907"
 - "5594"
-ms.openlocfilehash: 238ec872acc8398aa3eaa3b1990e524cb7e1fe50
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- "3100017"
+- "2578"
+ms.openlocfilehash: 2197e7f195d789193798b80cb092d8046eb6e0be
+ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801110"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50291783"
 ---
-# <a name="did-your-users-receive-malicious-email"></a><span data-ttu-id="19bd0-102">您的使用者是否收到惡意電子郵件?</span><span class="sxs-lookup"><span data-stu-id="19bd0-102">Did your users receive malicious email?</span></span>
+# <a name="did-your-users-receive-malicious-email"></a><span data-ttu-id="18606-102">您的使用者是否收到惡意電子郵件?</span><span class="sxs-lookup"><span data-stu-id="18606-102">Did your users receive malicious email?</span></span>
 
-- <span data-ttu-id="19bd0-103">您現在可以使用 [[安全性與合規性中心]中的[系統管理提交]](https://protection.office.com/reportsubmission)，輕鬆 **向 Microsoft 報告** 。</span><span class="sxs-lookup"><span data-stu-id="19bd0-103">You can now **report it to Microsoft** easily using the [Admin Submissions in Security & Compliance Center](https://protection.office.com/reportsubmission).</span></span> 
+- <span data-ttu-id="18606-103">您現在可以使用[安全性與合規性中的 [管理員提交]](https://sip.protection.office.com/reportsubmission)，將惡意電子郵件報告給 Microsoft。</span><span class="sxs-lookup"><span data-stu-id="18606-103">You can now report the malicious email to Microsoft using the [Admin Submissions in Security & Compliance Center](https://sip.protection.office.com/reportsubmission).</span></span>
 
-    - <span data-ttu-id="19bd0-104">如果您不同意電子郵件中所包含 URL 或檔案中的最終決策 (受封鎖 vs 不受封鎖)，您也可以使用 [系統管理提交] 功能。</span><span class="sxs-lookup"><span data-stu-id="19bd0-104">You can also use the admin submissions feature if you disagree with the final verdict on a URL or file contained in an email (blocked vs. not blocked).</span></span>
+<span data-ttu-id="18606-104">系統會掃描 [管理員提交](https://sip.protection.office.com/reportsubmission)中所提交的郵件，然後下列結果將顯示在 **詳細資料** 飛出視窗頁面中：</span><span class="sxs-lookup"><span data-stu-id="18606-104">Messages that are submitted in [admin submissions](https://sip.protection.office.com/reportsubmission) are scanned, and the following results shown in the **details** flyout:</span></span>
 
-- <span data-ttu-id="19bd0-105">若要從使用者收件匣中 **移除惡意電子郵件** ，請依照 [本文](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization?view=o365-worldwide#more-information) 的以下指示進行。</span><span class="sxs-lookup"><span data-stu-id="19bd0-105">**Remove malicious email** from user inboxes by following instructions in [this article](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization?view=o365-worldwide#more-information).</span></span> 
+- <span data-ttu-id="18606-105">寄件者在傳遞電子郵件時，電子郵件驗證是否失敗。</span><span class="sxs-lookup"><span data-stu-id="18606-105">If there was a failure in the sender's email authentication at the time of delivery.</span></span>
+- <span data-ttu-id="18606-106">任何有關可能會影響或覆寫郵件決策的原則點擊的資訊。</span><span class="sxs-lookup"><span data-stu-id="18606-106">Information about any policy hits that could have affected or overridden the verdict of a message.</span></span>
+- <span data-ttu-id="18606-107">目前的引爆結果，查看郵件中所含的 URL 或檔案是否惡意。</span><span class="sxs-lookup"><span data-stu-id="18606-107">Current detonation results to see if the URLs or files contained in the message were malicious or not.</span></span>
+- <span data-ttu-id="18606-108">來自評級員 的意見反應</span><span class="sxs-lookup"><span data-stu-id="18606-108">Feedback from graders</span></span>
 
-    - <span data-ttu-id="19bd0-106">使用 **適用於 Office 365 的 Microsoft Defender** 的客戶可以利用[威脅總管來尋找和刪除可疑的電子郵件](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered?view=o365-worldwide#find-and-delete-suspicious-email-that-was-delivered)。</span><span class="sxs-lookup"><span data-stu-id="19bd0-106">Customers with **Microsoft Defender for Office 365** can utilize [Threat Explorer to Find and Delete Suspicious email](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered?view=o365-worldwide#find-and-delete-suspicious-email-that-was-delivered).</span></span>
+<span data-ttu-id="18606-109">如果發現覆寫，則應該會在幾分鐘內完成重新掃描。</span><span class="sxs-lookup"><span data-stu-id="18606-109">If an override was found, the rescan should complete in several minutes.</span></span> <span data-ttu-id="18606-110">如果電子郵件驗證中沒有任何問題，或傳遞不受覆寫影響，則評級員的意見反應可能需要多達一天的時間。</span><span class="sxs-lookup"><span data-stu-id="18606-110">If there wasn't a problem in email authentication or if the delivery wasn't affected by an override, then the feedback from graders could take up to a day.</span></span>
 
-- <span data-ttu-id="19bd0-107">請按照 [避免來自惡意 URL 和檔案的保護](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats?view=o365-worldwide#part-2---protection-from-malicious-urls-and-files) 中的下列指示，以 **保護** 來自惡意檔案和 URL的攻擊。</span><span class="sxs-lookup"><span data-stu-id="19bd0-107">**Protect** against malicious files and URLs by following instructions in [Protection from malicious URLs and files](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats?view=o365-worldwide#part-2---protection-from-malicious-urls-and-files).</span></span>
+<span data-ttu-id="18606-111">如果您不同意郵件、URL 或檔案上的最終決策 (封鎖與未封鎖)，請在一天后重新提交該郵件。</span><span class="sxs-lookup"><span data-stu-id="18606-111">If you disagree with the final verdict on a message, URL or file (blocked vs. not blocked), submit the message again after a day for rescan.</span></span> <span data-ttu-id="18606-112">當您再次提交郵件後，決策變更的可能性相當高。</span><span class="sxs-lookup"><span data-stu-id="18606-112">The chances are high that the verdict would change after submitting the message again.</span></span>
+
+<span data-ttu-id="18606-113">同時，您可以依照[本文](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)中的指示，從使用者的收件匣中移除惡意電子郵件。</span><span class="sxs-lookup"><span data-stu-id="18606-113">Meanwhile, you can remove malicious email from user inboxes by following the instructions in [this article](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization).</span></span>
+
+- <span data-ttu-id="18606-114">擁有 Microsoft Defender for Office 365 的客戶可以：</span><span class="sxs-lookup"><span data-stu-id="18606-114">Customers with Microsoft Defender for Office 365 can:</span></span>
+    - <span data-ttu-id="18606-115">使用[威脅總管 [尋找] 並 [刪除可疑的電子郵件]](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)</span><span class="sxs-lookup"><span data-stu-id="18606-115">use [Threat Explorer to Find and Delete Suspicious email](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)</span></span>
+    - <span data-ttu-id="18606-116">[使用安全連結封鎖存取](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)惡意 URL</span><span class="sxs-lookup"><span data-stu-id="18606-116">[use Safe Links to block access](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) to a malicious URL</span></span>
+    - <span data-ttu-id="18606-117">追蹤已點擊和已存取惡意 URL 的使用者：[查看網路釣魚 URL，然後點擊決策資料](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)</span><span class="sxs-lookup"><span data-stu-id="18606-117">track users who clicked and accessed malicious URLs: [View phishing URL and click verdict data](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)</span></span>
+    - <span data-ttu-id="18606-118">手動[開始 [自動化調查]](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)</span><span class="sxs-lookup"><span data-stu-id="18606-118">manually [start an Automated Investigation](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)</span></span>
+
+<span data-ttu-id="18606-119">請按照[防範惡意 URL 和檔案](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats)中的指示來保護自己免受惡意檔案和 URL 的攻擊。</span><span class="sxs-lookup"><span data-stu-id="18606-119">You can also protect against malicious files and URLs by following the instructions in [Protection from malicious URLs and files](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats).</span></span>
