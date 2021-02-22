@@ -24,7 +24,7 @@ ms.locfileid: "50294638"
 
 **若要隱藏整個公用資料夾樹狀目錄**：
 
-使用 [此](https://aka.ms/ControlPF) 文章中的步驟，對特定或所有使用者隱藏整個公用資料夾樹狀目錄。
+使用[此 ](https://aka.ms/ControlPF) 文章中的步驟，對特定或所有使用者隱藏整個公用資料夾樹狀目錄。
 
 **若要隱藏特定公用資料夾**：
 
@@ -32,6 +32,6 @@ ms.locfileid: "50294638"
 
     `Add-PublicFolderClientPermission \test1 -User cloud1 -AccessRights owner`
 
-2. 從 **權限** 清單中移除使用者 **預設**：
+2. 從 **[權限]** 清單中移除使用者 **預設**：
 
     `Remove-PublicFolderClientPermission \test1 -User Default`
