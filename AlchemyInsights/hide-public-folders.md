@@ -20,18 +20,18 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 02/18/2021
 ms.locfileid: "50294638"
 ---
-# <a name="hide-public-folders"></a><span data-ttu-id="db620-102">隱藏公用資料夾</span><span class="sxs-lookup"><span data-stu-id="db620-102">Hide public folders</span></span>
+# <a name="hide-public-folders"></a><span data-ttu-id="fb763-102">隱藏公用資料夾</span><span class="sxs-lookup"><span data-stu-id="fb763-102">Hide public folders</span></span>
 
-<span data-ttu-id="db620-103">**若要隱藏整個公用資料夾樹狀目錄**：</span><span class="sxs-lookup"><span data-stu-id="db620-103">**To hide entire public folder tree**:</span></span>
+<span data-ttu-id="fb763-103">**若要隱藏整個公用資料夾樹狀目錄**：</span><span class="sxs-lookup"><span data-stu-id="fb763-103">**To hide entire public folder tree**:</span></span>
 
-<span data-ttu-id="db620-104">使用 [此](https://aka.ms/ControlPF) 文章中的步驟，對特定或所有使用者隱藏整個公用資料夾樹狀目錄。</span><span class="sxs-lookup"><span data-stu-id="db620-104">Use the steps in [this](https://aka.ms/ControlPF) article to hide entire public folder tree from selective or all users.</span></span>
+<span data-ttu-id="fb763-104">使用[此 ](https://aka.ms/ControlPF) 文章中的步驟，對特定或所有使用者隱藏整個公用資料夾樹狀目錄。</span><span class="sxs-lookup"><span data-stu-id="fb763-104">Use the steps in [this](https://aka.ms/ControlPF) article to hide entire public folder tree from selective or all users.</span></span>
 
-<span data-ttu-id="db620-105">**若要隱藏特定公用資料夾**：</span><span class="sxs-lookup"><span data-stu-id="db620-105">**To hide a specific public folder**:</span></span>
+<span data-ttu-id="fb763-105">**若要隱藏特定公用資料夾**：</span><span class="sxs-lookup"><span data-stu-id="fb763-105">**To hide a specific public folder**:</span></span>
 
-1. <span data-ttu-id="db620-106">為需要存取公用資料夾的使用者新增權限</span><span class="sxs-lookup"><span data-stu-id="db620-106">Add permissions for users who need to access the public folder</span></span>
+1. <span data-ttu-id="fb763-106">為需要存取公用資料夾的使用者新增權限</span><span class="sxs-lookup"><span data-stu-id="fb763-106">Add permissions for users who need to access the public folder</span></span>
 
     `Add-PublicFolderClientPermission \test1 -User cloud1 -AccessRights owner`
 
-2. <span data-ttu-id="db620-107">從 **權限** 清單中移除使用者 **預設**：</span><span class="sxs-lookup"><span data-stu-id="db620-107">Remove the user **Default** from the **permission** list:</span></span>
+2. <span data-ttu-id="fb763-107">從 **[權限]** 清單中移除使用者 **預設**：</span><span class="sxs-lookup"><span data-stu-id="fb763-107">Remove the user **Default** from the **permission** list:</span></span>
 
     `Remove-PublicFolderClientPermission \test1 -User Default`
