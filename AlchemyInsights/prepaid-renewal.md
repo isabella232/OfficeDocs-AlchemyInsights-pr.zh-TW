@@ -2,8 +2,7 @@
 title: 預付更新
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,27 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "662"
 - "1500012"
-ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: fe0c8066e203e1b7395d69211f31916afc137c18
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: dce0d832016913b057ef968926552a56419f4b62
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693942"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469725"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>預付 Microsoft 365 更新
 
-1. 在系統管理中心中，移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。
-
-2. 尋找您要擴充的訂閱。 在 [ **帳單** ] 區段中，選取 [ **結束日期**]。
-
-3. 在 [ **擴充訂閱** ] 窗格中，選取 [ **使用新及未使用的產品金鑰**]，然後選取 **[下一步]**。
-
-4. 輸入產品金鑰，然後選取 **[下一步]**。
-
-> [!NOTE]
-> 如果您有一個以上的產品金鑰，您可以選取 [ **新增其他產品金鑰** ] 加以輸入。
-
-5. 請複查您的訂單詳細資料，然後選取 [ **兌換**]。
+1. 在系統管理中心，移至 **[帳單]** \> **[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** 頁面。
+2. 在 [ **產品** ] 索引標籤上，選取您要擴充的訂閱。
+3. 在 [訂閱詳細資料] 頁面上，選取 [ **訂閱和付款設定** ] 區段中的 [ **延長結束日期**]。
+4. 在 [ **更新或新增使用者授權** ] 頁面上，選取 [ **使用新的和未使用的產品金鑰**]，然後選取 **[下一步]**。
+5. 輸入產品金鑰，然後選取 **[下一步]**。
+    > [!NOTE]
+    > 如果您有一個以上的產品金鑰，您可以選取 [ **新增其他產品金鑰** ] 加以輸入。
+6. 請複查您的訂單詳細資料，然後選取 [ **兌換**]。
 
 若要深入瞭解，請參閱 [新增授權給或擴充使用產品金鑰支付的訂閱](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)。
