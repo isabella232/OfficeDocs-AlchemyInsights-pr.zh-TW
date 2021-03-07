@@ -1,8 +1,8 @@
 ---
 title: Exchange 授權管理
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002548"
 - "5149"
-ms.openlocfilehash: 31141d7f22fd5bada06f240283345742e8d20886
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 84d3dd65f0d50a25c5357892c729610ff4d42988
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783146"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469113"
 ---
 # <a name="exchange-license-management"></a>Exchange 授權管理
 
-在 **Microsoft 365 系統管理中心**中可完成 Exchange 授權管理。
+在 **Microsoft 365 系統管理中心** 中可完成 Exchange 授權管理。
 
-- [比較 Exchange 選項](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)來了解 **Exchange Online 方案1、2 和商務進階版**之間的差異。
-- 若要**購買** Exchange，請移至 [帳單]**[ > [購買服務]](https://go.microsoft.com/fwlink/p/?linkid=868433)**。 使用 [搜尋] 方塊搜尋 [Exchange]，並選取方案和使用者數目。 如需詳細資訊，請參閱[購買訂閱](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide)。
-- 若要[切換方案](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide)，請參閱**手動切換 Microsoft 365 商務版方案**。
-- 若要**指派** Exchange 授權，請移至 [帳單] > [[授權]](https://go.microsoft.com/fwlink/p/?linkid=842264)****，然後選取訂閱及使用者，並按一下 [指派授權]****。 如需詳細資訊，請參閱[指派授權](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)。
-- 若要**新增/移除** Exchange 授權，請移至 [帳單]**[ > [產品與服務]](https://go.microsoft.com/fwlink/p/?linkid=842054)**，然後按一下 [新增/移除授權]****。 如需詳細資訊，請參閱[新增/移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)。
-- 若要**取消** Exchange 授權，請移至 [帳單] > [[產品與服務]](https://go.microsoft.com/fwlink/p/?linkid=842054)****，並選取 [選取及動作]****，然後按一下 [取消訂閱]****。 如需詳細資訊，請參閱[取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
+- [比較 Exchange 選項](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)來了解 **Exchange Online 方案1、2 和商務進階版** 之間的差異。
+- 若要 **購買** Exchange，請移至 [帳單]**[ > [購買服務]](https://go.microsoft.com/fwlink/p/?linkid=868433)**。 使用 [搜尋] 方塊搜尋 "Exchange"，並選取方案和使用者數目。 如需詳細資訊，請參閱 [購買不同的訂閱](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)。
+- 若要 **變更方案**，請參閱 [升級至不同的方案](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)。
+- 若要 **指派** 授權給使用者，請移至 **帳單 > [授權](https://go.microsoft.com/fwlink/p/?linkid=842264)**。 如需詳細資訊，請參閱 [指派授權給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
+- 若要 **購買或移除** 授權，請移至 **帳單 > [您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**。 如需詳細資訊，請參閱 [新增或移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。
+- 若要 **取消** 訂閱，請移至 **帳單 > [您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**，選取訂閱，然後在 **訂閱與付款設定** 章節中選取 **取消訂閱**。 如需詳細資訊，請參閱 [取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
 
-如需詳細資訊，請參閱[移轉訂閱授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)。
+如需詳細資訊，請參閱 [新增或移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。

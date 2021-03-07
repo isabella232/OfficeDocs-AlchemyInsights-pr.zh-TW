@@ -3,7 +3,7 @@ title: 所有成員都不會收到傳送到 Microsoft 365 群組的郵件
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003200"
 - "5995"
-ms.openlocfilehash: d2f0674f6be135927dc5995575c14f3c2708df49
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d222eb92d806bad52264139a8ddba72f323b3783
+ms.sourcegitcommit: 10cfd9d552b0d8a096bcef34e82c04a4c166a13a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806138"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50479444"
 ---
 # <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a>所有成員都不會收到傳送到 Microsoft 365 群組的郵件
 
 請確定所有群組成員都已訂閱，以接收電子郵件。 請參閱[追蹤 Outlook 中的群組](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36)。  
 
-若要檢查已訂閱群組電子郵件的成員的郵件狀態，請在 [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps) 上執行下列命令：
+若要檢查已訂閱群組電子郵件的成員的郵件狀態，請在 [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true) 上執行下列命令：
 
 `Get-UnifiedGroup <GroupName> | Get-UnifiedGroupLinks -LinkType Subscribers`
+
+使用下列 EXO PowerShell 命令以設定所有群組成員在其收件夾中接收傳送至 Microsoft 365 群組的電子郵件：
+
+`$Group = "Address of [Microsoft 365 Groups]"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
+
+例如：
+
+`$Group = "testg@contoso.onmicrosoft.com"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
