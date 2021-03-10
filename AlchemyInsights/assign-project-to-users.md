@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5103"
-- commerce
-ms.openlocfilehash: 6c6baa48ffa0d429cd63fd21915da6cf3229aeca
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: c33253871ea45682351c9f3d15a9ab0e129666a5
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469509"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601743"
 ---
 # <a name="assign-project-to-users"></a>將 Project 指派給使用者
 

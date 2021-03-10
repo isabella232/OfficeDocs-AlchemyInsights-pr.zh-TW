@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: fe3a13acb0ba5c8872d7c0bb8c3961d83f7d3526
-ms.sourcegitcommit: bd6a9cb5d357baee5134c0dea430afc2a035c810
+ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
+ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "50568506"
+ms.locfileid: "50585649"
 ---
 # <a name="problems-resetting-password"></a>重設密碼時的問題
 
@@ -26,7 +26,7 @@ ms.locfileid: "50568506"
 
 **我遇到其他類別未涵蓋的密碼重設問題**
 
--確定您有權重設密碼。 只有全域、密碼和使用者管理員才能重設使用者密碼。 全域管理員也可以重設其他特權管理員的密碼。
+- 確定您有權重設密碼。 只有全域、密碼和使用者管理員才能重設使用者密碼。 全域管理員也可以重設其他特權管理員的密碼。
 - 確定您瞭解授權需求：
     - 您的組織中必須至少有一個指派的授權
         - 僅限雲端使用者-任何 Office 365 (O365) 付費 SKU 或 Azure AD Basic

@@ -12,18 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5472"
-- commerce
-ms.openlocfilehash: 0efc3353924a1c21f174d0d95071dad76b16e563
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 83fab9fa84ba19ec32453bfb540d0c284d43cf1b
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469761"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602391"
 ---
 # <a name="microsoft-365-f3-subscription-and-license-management-faq"></a>Microsoft 365 F3 訂閱和授權管理常見問題集
 
 - 若要 **了解並購買** F3 訂閱，請參閱 [Microsoft 365 F3](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot%3aoverviewtab)。
-- 若要 **變更方案**，請參閱[升級至不同的方案](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)。
+- 若要 **變更方案**，請參閱 [升級至不同的方案](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)。
 - 若要 **指派** 使用者 F3 授權，請移至 **[帳單] > [[授權](https://go.microsoft.com/fwlink/p/?linkid=842264)]**。 如需詳細資訊，請參閱[指派授權給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
 - 若要 **購買或移除** F3 授權，請移至 **[帳單] > [[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)]**。 如需詳細資訊，請參閱[購買或移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)。
 - 若要 **取消** F3 訂閱，請移至 **[帳單] > [[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)]**，選取訂閱，然後在 **[訂閱與付款設定]** 區段中選取 **[取消訂閱]**。 如需詳細資訊，請參閱[取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。

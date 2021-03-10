@@ -20,13 +20,12 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-- commerce
-ms.openlocfilehash: 80191be73c91faa9fe0fce12eed4c9a6f9ab8507
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 417299cb82d9dfcd7afd8822378d2993e12ce355
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50468997"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601085"
 ---
 # <a name="business-subscription-faq"></a>商務版訂閱常見問題集
 

@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-- commerce
-ms.openlocfilehash: 6eb6529b4b2b73b0f8a599eb396d088e77e9516d
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 0b6dea84c1342ef17f23180d3b917b052158cf46
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469581"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601815"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>指派 Microsoft Defender for Office 365 授權
 
@@ -31,4 +30,4 @@ Microsoft Defender for Office 365 可指派給 Microsoft 365 系統管理中心�
 5. 按一下 [ **開啟或關閉應用程式和服務**  以指派或移除]。
 6. 按一下 [ **指派**]，然後按一下 [  **關閉**]。
 
-若要購買更多或移除授權，請參閱 [購買或移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)。
+若要購買更多授權或移除授權，請參閱 [新增或移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)。
