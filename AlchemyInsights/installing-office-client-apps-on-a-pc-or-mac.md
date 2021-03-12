@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667833"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708341"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>在電腦或 MAC 上安裝 Office 用戶端應用程式
 
 若要安裝 Office 用戶端應用程式，請確定您擁有 Office 365 或[包含 Office 用戶端應用程式](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) (例如 Microsoft 365 商務標準版、Microsoft 365 應用程式商務版或 Microsoft 365 應用程式企業版) 的 Microsoft 365 訂閱。
 
-**附註**：[Office 家用及中小企業版](https://products.office.com/home-and-business)是 [Office 家用版](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)產品，不屬於商務版訂閱。 Project Online 基本版不包含電腦版 Project，所以不需要安裝。 Visio 方案 1 使用者可以存取 Visio 網頁版，因為此方案不包含 Visio傳統型應用程式。 您無法在 Mac 上使用 Project 和 Visio 傳統型應用程式。
+**附註**：[Office 家用及中小企業版](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e)是 [Office 家用版](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)產品，不屬於商務版訂閱。 Project Online 基本版不包含電腦版 Project，所以不需要安裝。 Visio 方案 1 使用者可以存取 Visio 網頁版，因為此方案不包含 Visio傳統型應用程式。 您無法在 Mac 上使用 Project 和 Visio 傳統型應用程式。
 
 如果您有包含 Microsoft 365 應用程式的訂閱，您將不會看到安裝選項，除非您有[指派的授權](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)。 如果您是負責指派授權的 Office 365 系統管理員，請參閱[指派授權給使用者](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)。 此外，您也可以使用 [Office 軟體下載設定](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365)，以選擇使用者是否能夠在自己的裝置上安裝 Office 應用程式。
 

@@ -14,18 +14,18 @@ ms.custom:
 - "3173"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 7820c37d503baba8b8433b647576b194ce002905
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc2d8c874b1b8ef850deea6816835dbab237fbeb
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797755"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708233"
 ---
 # <a name="restore-deleted-files-or-folders-in-sharepoint"></a>還原 SharePoint 中已刪除的檔案或資料夾
 
 如果您不小心刪除 SharePoint 中的檔案或資料夾，您可以稍後從回收站進行復原。
 
-* [還原 SharePoint 中已刪除的檔案或資料夾](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+* [還原 SharePoint 中已刪除的檔案或資料夾](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
 如果大量 SharePoint 檔案遭到惡意程式碼刪除、覆寫、損毀或受到感染，您可以將整個 SharePoint 文件庫還原至先前的時間。
 
