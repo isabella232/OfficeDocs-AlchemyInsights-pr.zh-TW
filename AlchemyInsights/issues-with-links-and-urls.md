@@ -3,7 +3,7 @@ title: 連結和 URL 的問題
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950687"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707873"
 ---
 # <a name="issues-with-links-and-urls"></a>連結和 URL 的問題
 
@@ -31,7 +31,7 @@ ms.locfileid: "49950687"
 
 使用您正在開發的應用程式登入時，如果登入對話方塊顯示 **AADSTS50011：要求中指定的回覆 URL 與為應用程式 <your app ID> 設定的回覆 URL 不符**，您需要將您的程式碼在對 Microsoft 身分識別平台的權杖要求中使用的重新導向 URI 新增至您的應用程式註冊。
 
-若要新增回覆 URL，請移至 Azure 入口網站中 [應用程式註冊 **]** 頁面中的 [驗證 **]** 索引標籤，然後在 [重新導向 URI **]** 區段中新增項目。 重新導向 URI 需區分類型 (Web 或行動裝置/傳統型)。 您需要輸入的值取決於您正在建立的應用程式類型，如下所述：
+若要新增回覆 URL，請移至 Azure 入口網站中 [應用程式註冊 **]** 頁面中的 [驗證 **]** 索引標籤，然後在 [重新導向 URI **]** 區段中新增項目。 您需要輸入的值取決於您正在建立的應用程式類型，如下所述：
 
 - 針對單一頁面應用程式和 Web應用程式，則回覆 URL 是您應用程式中的 URL。 請參閱[單一頁面應用程式註冊](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri)或[使用 Azure 入口網站註冊 Web 應用程式](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
 - 針對傳統型應用程式，您需要選擇的值取決於：

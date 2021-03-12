@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: fc560686ec5c6a3d42a97687fda80ae5001b5c60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c7ce48f50b5c933ea15c23a486b99ad7a7f4d79
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797539"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707513"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>還原已刪除的檔案或資料夾
 
@@ -24,7 +24,7 @@ SharePoint Online 在所有內容實際刪除之後，還會保留其備份額�
 
 當您從 Sharepoint 刪除專案或網站時，並不會立即移除。 刪除的項目會在資源回收筒中一段時間。 在這段時間內，您可以將已刪除的項目還原到其原始位置。 如需詳細資訊，請瀏覽以下連結。
 
-[還原 SharePoint 網站回收站中的專案](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)。
+[還原 SharePoint 網站回收站中的專案](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)。
 
 [還原 OneDrive 中已刪除的檔案或資料夾](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 

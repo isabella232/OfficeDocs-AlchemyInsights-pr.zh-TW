@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003958"
 - "7014"
-ms.openlocfilehash: cc6fd9d874bb1a02a98d6d6c4c9991f0b02f91fb
-ms.sourcegitcommit: 77d16f186ac95e85be2528c4756f0dac9368fe92
+ms.openlocfilehash: 8711b33851e2dac4499f39e3bfbff955d3cb91e3
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49716586"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708017"
 ---
 # <a name="troubleshoot-problems-with-accessing-webmail"></a>疑難排解存取 web 郵件的問題
 
@@ -30,4 +30,4 @@ ms.locfileid: "49716586"
 
     - 保留自動設定，但是選取 [**變更**] 按鈕，然後選取 [**變更日期和時間**] 對話方塊中的 **日期** 和 **時間** 設定，然後選取 [**變更**]。
 
-若要深入瞭解，請參閱 [疑難排解使用 Internet Explorer 存取 web 郵件的問題](https://go.microsoft.com/fwlink/?linkid=2139414)。
+若要深入瞭解，請參閱 [疑難排解使用 Internet Explorer 存取 web 郵件的問題](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888)。

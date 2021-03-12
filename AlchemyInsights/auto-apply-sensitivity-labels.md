@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715156"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707225"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>自動套用敏感度標籤
 
@@ -37,4 +37,4 @@ ms.locfileid: "47715156"
 如需敏感度標籤的詳細資訊，並自動將其套用至內容，請參閱：
 
 - [敏感度標籤概觀](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [自動將敏感度標籤套用到內容](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [自動將敏感度標籤套用到內容](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)

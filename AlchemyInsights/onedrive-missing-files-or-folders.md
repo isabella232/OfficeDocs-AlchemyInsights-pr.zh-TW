@@ -8,18 +8,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: e0004c1389b25b8f84d9b32d981728e7bb3f45fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95ce018b618cd4eb48cb7293b753f2b6531dd4fd
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802588"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707909"
 ---
 # <a name="onedrive-missing-files-or-folders"></a>OneDrive：遺失的檔案或資料夾
 
 **檢查網站的回收站**。
 
-- [還原 SharePoint 網站資源回收筒中的項目](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [還原 SharePoint 網站資源回收筒中的項目](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [還原 OneDrive 中已刪除的檔案或資料夾](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 

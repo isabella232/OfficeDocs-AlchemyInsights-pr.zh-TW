@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5796"
-ms.openlocfilehash: 5a8e374705d1d42bda96010e316859e801c234ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19010179dd7e40139678ea3eaf7baae237d304f2
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716452"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707333"
 ---
 # <a name="install-sharepoint-apps"></a>安裝 SharePoint 應用程式
 
@@ -28,4 +28,4 @@ SharePoint 應用程式是小型、易於使用且獨立的應用程式，可以
 -   [為任何已購買的應用程式設定 SharePoint Store 設定](https://docs.microsoft.com/sharepoint/configure-sharepoint-store-settings)，指定使用者是否可以從 SharePoint Store 取得應用程式。
 -   如果您遇到應用程式問題，您可以嘗試[移除](https://support.microsoft.com/office/03198d1b-c33b-498d-9469-af641a587d6c)再[重新新增](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)應用程式。
 
-如需詳細資訊，請參閱[將應用程式新增至網站](https://support.microsoft.com/office/f9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)。
+如需詳細資訊，請參閱[將應用程式新增至網站](https://support.microsoft.com/office/add-an-app-to-a-site-ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)。
