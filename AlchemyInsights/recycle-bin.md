@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 417f1e343b94bf0397fa7fce067317f9ccc24bab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cfb01fbe117fe3c1d3c3bddbec9f5a8188066ae
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740970"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709205"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>在 SharePoint Online 中還原專案
 
@@ -29,8 +29,8 @@ ms.locfileid: "47740970"
     
 2. 在 [ **回收站** ] 頁面上，選取您要還原的專案，方法是指向這些專案，然後按一下出現的核取記號圖示。 
     
-3. 按一下 [ **還原**]。
+3. 按一下 [還原 **]**。
     
-[從網站集合回收站還原已刪除的專案](https://go.microsoft.com/fwlink/?linkid=866439)
+[從網站集合回收站還原已刪除的專案](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
   
 

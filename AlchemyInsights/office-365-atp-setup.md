@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bd04535c1b740651196c0b40015a722ef0c922d5
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 4f09e85589cd654a0a557fe1ad997804d7b1b406
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801059"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708629"
 ---
 # <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender for Office 365 (ATP) 
 
@@ -26,5 +26,5 @@ ATP 包含在訂閱中，例如 Office 365 企業版 E5、Office 365 教育版 A
 
 ## <a name="set-up-office-365-atp"></a>設定 Office 365 ATP
 
-若要使 ATP 保護生效，您必須設定原則。 請參閱 [快速入門手冊：設定 Microsoft Defender For Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup)。
+若要使 ATP 保護生效，您必須設定原則。 請參閱 [快速入門手冊：設定 Microsoft Defender For Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)。
 

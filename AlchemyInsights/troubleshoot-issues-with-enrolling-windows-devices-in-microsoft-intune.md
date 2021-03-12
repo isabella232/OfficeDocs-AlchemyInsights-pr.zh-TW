@@ -12,12 +12,12 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: 13dc77fd2a575fbd227a2a880438b78aaa2c3fb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 88105671ef6dc34553a265937bf1fb3463353963
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658869"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708881"
 ---
 # <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>在 Microsoft Intune 中註冊 Windows 裝置的問題疑難排解
 
@@ -41,6 +41,6 @@ ms.locfileid: "47658869"
   
 -  使用 [Intune 疑難排解入口網站](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) 來診斷及解決一般註冊失敗。 如需詳細資訊，請參閱 [本檔](https://docs.microsoft.com/intune/help-desk-operators) 。
 
--  檢閱這些文件，以取得會防止註冊的常見錯誤清單與各項的解決方式：[疑難排解指南](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)和[疑難排解文件](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)。
+-  檢閱這些文件，以取得會防止註冊的常見錯誤清單與各項的解決方式：[疑難排解指南](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)和[疑難排解文件](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)。
 
 [瞭解如何在 Microsoft Intune 中註冊 Windows 裝置](https://docs.microsoft.com/intune/windows-enroll)。

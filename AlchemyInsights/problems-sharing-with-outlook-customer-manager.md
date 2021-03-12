@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 5f41d5ea0246f5d057a5ae243dd9ffc706ca594e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728242"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709241"
 ---
 # <a name="problems-sharing-with-outlook-customer-manager"></a>與 Outlook 客戶經理共用的問題
 
 如果您與 Outlook 客戶經理共用問題，建議您先嘗試清除瀏覽器快取。 例如，在 Internet Explorer 中，您可以：
 
-1. 移至 [**設定**]  >  [**流覽記錄**快取和資料庫] 底下的 **[一般**> 設定]  >  ** **。
+1. 移至 [**設定**]  >  [**流覽記錄** 快取和資料庫] 底下的 **[一般**> 設定]  >  ****。
 2. 刪除網站 "outlookapps.com" 的快取檔案。
 3. 重新啟動 Outlook。
 
-如需共用的詳細資訊，請參閱 [在 Outlook 客戶管理器中共用資訊](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20)。
+如需共用的詳細資訊，請參閱 [在 Outlook 客戶管理器中共用資訊](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)。

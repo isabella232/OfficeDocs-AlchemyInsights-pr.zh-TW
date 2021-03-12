@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911985"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708557"
 ---
 # <a name="myapps-portal-issues"></a>MyApps 入口網站問題
 
@@ -28,9 +28,9 @@ ms.locfileid: "49911985"
 
 有關尋找應用程式存取面板上未顯示所需應用程式的原因的指引，請參閱：
 
-- [我不知道為什麼指派的應用程式沒有出現在存取面板上](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [我不知道為什麼指派的應用程式沒有出現在存取面板上](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [我不知道為什麼存取面板上會出現應用程式](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [我不知道為什麼存取面板上會出現應用程式](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
 **我在登入應用程式存取面板時遇到問題**
 

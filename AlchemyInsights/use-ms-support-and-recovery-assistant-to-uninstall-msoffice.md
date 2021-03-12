@@ -12,13 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004136"
+- "9004433"
 - "7212"
-ms.openlocfilehash: df1cd246e7e5483aa27ad250494fd6cf21e1bfef
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8228"
+ms.openlocfilehash: 550cac9feea8ffe37784f731833d7522aef8ed96
+ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576449"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726554"
 ---
 # <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>使用 Microsoft 支援和修復小幫手卸載 Microsoft Office
 

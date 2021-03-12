@@ -13,12 +13,12 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 324b941f3814876ac28b37aa09737c861e68fe99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 422823c3cf26570facecd408af3a9b43f578e029
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693402"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708773"
 ---
 # <a name="microsoft-365-for-education---approved"></a>Microsoft 365 教育版 - 已核准
 
@@ -26,15 +26,15 @@ ms.locfileid: "47693402"
 
 1. 瀏覽到 **[帳單]** > [購買服務](https://portal.office.com/AdminPortal/Home#/catalog)。
 
-2. 從 [教育方案]**** 底下的清單中選擇。
+2. 從 [教育方案] 底下的清單中選擇。
 
-3. 將游標移到您要購買的訂閱上方，然後按一下 [立即購買]****。
+3. 將游標移到您要購買的訂閱上方，然後按一下 [立即購買]。
 
-4. [設定 Microsoft 365 教育版租用戶](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant)。
+4. [設定 Microsoft 365 教育版租用戶](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)。
 
 **開啟 Teams**
 
-- 若要為所有使用者開啟 Microsoft Teams，請移至 **[設定]** > **[設定]** > [Microsoft Teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams)，然後按一下 **[開啟所有使用者的 Microsoft Teams]** 核取方塊。 按一下 [儲存變更]****。
+- 若要為所有使用者開啟 Microsoft Teams，請移至 **[設定]** > **[設定]** > [Microsoft Teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams)，然後按一下 **[開啟所有使用者的 Microsoft Teams]** 核取方塊。 按一下 [儲存變更]。
 
 **遠端教學和學習**
 

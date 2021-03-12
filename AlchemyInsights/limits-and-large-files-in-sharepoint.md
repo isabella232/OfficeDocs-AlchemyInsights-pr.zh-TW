@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: 568ac18e98e49524832c144164c2fef7915f73bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675757"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709169"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>無法上傳至 SharePoint 線上的檔案
 
@@ -29,6 +29,6 @@ ms.locfileid: "47675757"
     
 - 檔案名不包含字元 " \* ： \< \> ？ / \ |而且不在 [無效名稱](https://go.microsoft.com/fwlink/?linkid=866430)清單中。
     
-如果您嘗試使用 OneDrive 桌面應用程式上傳檔案，請參閱同步處理檔案和資料夾或[修正 OneDrive sync 問題](https://go.microsoft.com/fwlink/?linkid=866431)[時的限制與限制](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734)。
+如果您嘗試使用 OneDrive 桌面應用程式上傳檔案，請參閱同步處理檔案和資料夾或[修正 OneDrive sync 問題](https://go.microsoft.com/fwlink/?linkid=866431)[時的限制與限制](https://go.microsoft.com/fwlink/p/?LinkID=717734)。
   
 
