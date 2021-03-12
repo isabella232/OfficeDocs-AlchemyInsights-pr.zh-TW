@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 683ca12c8f6e2511311c10ab5c4599ee66c08eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794325"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704597"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>在 Microsoft 小組中管理會議原則
 
@@ -30,6 +30,6 @@ ms.locfileid: "47794325"
 - 若要瞭解如何建立原則、進行變更，以及將使用者指派給原則，請參閱 [管理小組中的會議原則](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)。
 
 - 若要使用 PowerShell Cmdlet 進行原則變更，請參閱 [團隊 PowerShell 綜述](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)。 
-    - 您需要針對團隊會議原則使用 [商務用 Skype PowerShell 模組](https://www.microsoft.com/download/details.aspx?id=39366) 。 
+    - 您需要針對團隊會議原則使用 [商務用 Skype PowerShell 模組](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) 。 
     - 如需詳細資訊，請參閱 [*-CsTeamsMeetingPolicy Cmdlet 檔](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) 。
 

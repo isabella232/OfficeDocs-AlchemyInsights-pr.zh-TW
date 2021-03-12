@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 3a42c221047e7be6a173694cd45136baa6bff39a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236080"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704921"
 ---
 # <a name="unable-to-activate-office"></a>無法啟用 Office
 
 - 檢查您的訂閱狀態是否已過期。
-- 確認您擁有允許用戶端授權的訂閱 (例如 Office 365 商務版或商務進階版)，並[確保該使用者已獲派授權](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)。
+- 確認您擁有允許用戶端授權的訂閱 (例如 Office 365 商務版或商務進階版)，並[確保該使用者已獲派授權](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)。
 - 請確認使用者使用所指派授權的相同帳戶登入 Office。
 - 查看 [Office 365 服務健康情況頁面](https://docs.microsoft.com/office365/enterprise/view-service-health)，以查看服務是否有任何已知問題。
 - 檢查您的防火牆、防毒軟體和 Proxy 設定，確認未封鎖 Microsoft 365 應用程式存取網際網路。 若要深入了解，請參閱 [Office 365 URL 和 IP 位址範圍](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Office 365 URL 和 IP 位址範圍") (英文)。
