@@ -1,5 +1,5 @@
 ---
-title: Microsoft Viva 學習可用性
+title: Microsoft Viva Learning 學習可用性
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,13 +14,13 @@ ms.custom:
 - "8339"
 ms.openlocfilehash: d74b6bd000be6a8a93978b5e5f737e97ef3c0833
 ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 02/18/2021
 ms.locfileid: "50295439"
 ---
-# <a name="microsoft-viva-learning-availability"></a><span data-ttu-id="6cac1-102">Microsoft Viva 學習可用性</span><span class="sxs-lookup"><span data-stu-id="6cac1-102">Microsoft Viva Learning Availability</span></span>
+# <a name="microsoft-viva-learning-availability"></a><span data-ttu-id="09ac8-102">Microsoft Viva Learning 學習可用性</span><span class="sxs-lookup"><span data-stu-id="09ac8-102">Microsoft Viva Learning Availability</span></span>
 
-<span data-ttu-id="6cac1-103">從2021年2月開始，我們會為具有少量客戶和合作夥伴的小組預覽 Viva 學習應用程式，並預計在今年日後可以使用它。</span><span class="sxs-lookup"><span data-stu-id="6cac1-103">Starting in February 2021, we are previewing the Viva Learning app for Teams with a small number of customers and partners, and expect to make it generally available later this year.</span></span> <span data-ttu-id="6cac1-104">我們建議您在 [這裡註冊](https://aka.ms/VivaLearningSignup) ，以深入瞭解 Viva 學習，包含新體驗的相關詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="6cac1-104">We encourage you to [sign up here](https://aka.ms/VivaLearningSignup) to learn more about Viva Learning, including further details about new experiences as they become available.</span></span>
+<span data-ttu-id="09ac8-103">從 2021 年 2 月開始，我們將與少數客戶和合作夥伴一起預覽適用於 Teams 的 Viva Learning 應用程式，並預計於今年稍後正式提供。</span><span class="sxs-lookup"><span data-stu-id="09ac8-103">Starting in February 2021, we are previewing the Viva Learning app for Teams with a small number of customers and partners, and expect to make it generally available later this year.</span></span> <span data-ttu-id="09ac8-104">我們鼓勵您[在這裡註冊](https://aka.ms/VivaLearningSignup)以入了解 Viva Learning，包括新體驗可用時的進一步詳細資料。</span><span class="sxs-lookup"><span data-stu-id="09ac8-104">We encourage you to [sign up here](https://aka.ms/VivaLearningSignup) to learn more about Viva Learning, including further details about new experiences as they become available.</span></span>
 
-<span data-ttu-id="6cac1-105">如需詳細資訊，請參閱 [宣佈 Microsoft Viva 學習私人預覽](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023)。</span><span class="sxs-lookup"><span data-stu-id="6cac1-105">For more information, see [Announcing Microsoft Viva Learning private preview](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023).</span></span>
+<span data-ttu-id="09ac8-105">如需詳細資訊，請參閱 [Microsoft Viva Learning 私人預覽](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023)。</span><span class="sxs-lookup"><span data-stu-id="09ac8-105">For more information, see [Announcing Microsoft Viva Learning private preview](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023).</span></span>
