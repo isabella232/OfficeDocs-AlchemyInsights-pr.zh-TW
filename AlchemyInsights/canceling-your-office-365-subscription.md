@@ -3,7 +3,7 @@ title: 取消您的訂閱？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 443623b83e220d4016448809770609110294d72f
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+- commerce
+ms.openlocfilehash: e69a91cda5f5df07a7ee429dce7145af366be464
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348656"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837373"
 ---
 # <a name="canceling-your-subscription"></a>取消您的訂閱？
 
 很抱歉看到您，但是如果您想要取消您的訂閱，請選擇下列選項：
   
-- 如果您是試驗客戶，則不會取消任何專案。 試用訂閱會自動到期，除非您提供了支付方式。
-- 如果您指派的授權不足25個，您可以取消線上訂閱。 移至 [ **帳單** \> [產品](https://go.microsoft.com/fwlink/p/?linkid=842054) ] 頁面，並找到您想要取消的訂閱。 選取 **[更多動作]** (三個點)，然後選取 **[取消訂閱]**。
+- 如果您指派的授權不足25個，您可以取消線上訂閱。 移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面，並找到您想要取消的訂閱。 選取 **[更多動作]** (三個點)，然後選取 **[取消訂閱]**。
 - 如果您有超過25個授權指派給使用者，請 [致電支援部門以取消您的訂閱](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)。
   
 **退款：在下一個計費週期內，任何按比例支付的信用額度都會傳回給您。**
