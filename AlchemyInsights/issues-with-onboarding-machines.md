@@ -1,5 +1,5 @@
 ---
-title: 電腦上線的問題
+title: 將電腦上線至適用於端點的 Microsoft Defender 的問題
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676873"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901558"
 ---
-# <a name="issues-with-onboarding-machines"></a>電腦上線的問題
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>將電腦上線至適用於端點的 Microsoft Defender 的問題
 
-將電腦上線到 MDATP 服務時，您可能會遇到問題。 若您想要存取終端使用者的電腦，請依照下列步驟操作：
+您可能會在將電腦上線到 MDE 服務時遇到問題。 如果您可以存取使用者的電腦，請遵循這些步驟：
 
-1. 下載 [用戶端連線分析程式](https://aka.ms/mdatpanalyzer) 診斷工具。
-2. 解壓縮並執行 MDATPAnalyzer.cmd 指令。
-3. 在名為 MDATPClientAnalyzerResult 的資料夾（用於下載分析器工具的同個資料夾 ）中找到 [診斷記錄]。
-4. 檢視記錄檔 MDATPClientAnalyzer.txt 並用以查找連線或網際網路 proxy 設定問題。
+1. 下載最新預覽版本的 [MDE Client Analyzer](https://aka.ms/betamdeanalyzer) 診斷工具。
+2. 以滑鼠右鍵按一下 **MDEClientAnalyzer.cmd**，然後選取 [以系統管理員身分執行]。
+3. 遵循 **MDEClientAnalyzer.htm** 中建議的任何指導方針。
+4. 如需更詳細的記錄，請檢閱所建立名為 **MDEClientAnalyzerResult** 的子資料夾。
+5. 如果需要其他指導方針，請連絡[適用於端點的 Microsoft Defender 支援](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support)，並提供產生的 MDEClientAnalyzerResult.zip 檔案進行分析。
