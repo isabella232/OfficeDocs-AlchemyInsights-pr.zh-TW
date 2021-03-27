@@ -12,12 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576429"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398684"
 ---
 # <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>使用 Microsoft Edge 從開發電腦遠端偵錯 Android 裝置
 

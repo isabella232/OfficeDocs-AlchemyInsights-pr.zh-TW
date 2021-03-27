@@ -13,12 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003847"
 - "6897"
-ms.openlocfilehash: 2a08bd507c77e9735028b30f7bf7bc8f8f018cad
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8331"
+- "9004625"
+ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576398"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398612"
 ---
 # <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Microsoft Edge 如何使用 Microsoft Defender SmartScreen
 
