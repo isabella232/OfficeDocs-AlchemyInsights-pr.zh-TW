@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge 的登錄和驗證功能
+title: Microsoft Edge 的登入和驗證功能
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -18,6 +18,6 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 03/27/2021
 ms.locfileid: "51398755"
 ---
-# <a name="sign-in-and-authentication-features-of-microsoft-edge"></a>Microsoft Edge 的登錄和驗證功能
+# <a name="sign-in-and-authentication-features-of-microsoft-edge"></a>Microsoft Edge 的登入和驗證功能
 
-登入所用的帳戶類型，決定哪些 [驗證功能](https://go.microsoft.com/fwlink/?linkid=2134570) 可在 Microsoft Edge 中使用。
+登入所用的帳戶類型，決定哪些[驗證功能](https://go.microsoft.com/fwlink/?linkid=2134570)可在 Microsoft Edge 中使用。

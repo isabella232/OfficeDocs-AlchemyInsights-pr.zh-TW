@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e3b8777ed74b812b31338784999eea43a95d3456
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794758"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403734"
 ---
 # <a name="workflow-is-not-starting"></a>未開始工作流程
 
 - SharePoint 2010 和 SharePoint 2013 工作流程無法啟動。
 
-    - 如果您的工作流程未開始，可能是暫時性的服務問題，使用者可能會遇到工作流程進度的延遲延遲。 請檢查 [服務健康情況儀表板](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) ，以查看您的組織是否受到影響。
+    - 如果您的工作流程未開始，可能是暫時性的服務問題，使用者可能會遇到工作流程進度的延遲延遲。 請檢查 [服務健康情況儀表板](https://admin.microsoft.com/AdminPortal/Home/servicehealth) ，以查看您的組織是否受到影響。
 
     - 如果從您第一次看到此問題起已經過去超過24小時，請記錄支援票證。 多數情況下，我們已經著手研究解決方案。 請至少為我們提供24小時的時間來完成解決方案。
 
@@ -47,5 +47,3 @@ ms.locfileid: "47794758"
 想要在 SharePoint Online 中試用 Microsoft 流程嗎？
 - [建立流程](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint 和流程](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
-
-

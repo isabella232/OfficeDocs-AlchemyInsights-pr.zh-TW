@@ -12,13 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576402"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402366"
 ---
 # <a name="configure-microsoft-edge-policy-settings-on-windows"></a>設定 Windows 上的 Microsoft Edge 原則設定
 
@@ -26,7 +28,7 @@ ms.locfileid: "49576402"
 
 若要使用 Gpo 設定 Microsoft Edge，請執行下列操作：
 
-1. 在您的 Active Directory 網域中的群組原則中央存放區，或在個別電腦上的原則定義範本資料夾中安裝所有的系統管理範本，以新增 Microsoft Edge 的規則和設定。
+1. 移至您的 Active Directory 網域中的群組原則中央存放區，或前往個別電腦上的原則定義範本資料夾，安裝為 Microsoft Edge 新增規則和設定的所有系統管理範本。
 2. 設定您要設定的特定原則。
 
 若要深入瞭解，請參閱 [設定 Windows 上的 Microsoft Edge 原則設定](https://go.microsoft.com/fwlink/?linkid=2135024)。

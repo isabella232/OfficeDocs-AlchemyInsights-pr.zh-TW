@@ -11,13 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003852"
+- "9004632"
 - "6901"
-ms.openlocfilehash: 7874ce15417958cfe2e3b2ff068b3eb7241e6812
-ms.sourcegitcommit: b3f26339eda6ab4a5f952dd35a41c4c1de603cd2
+- "8360"
+ms.openlocfilehash: 4f22518d81ffbc9205a1185638fb2a8c30f3a29f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617536"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403446"
 ---
 # <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>使用 Jamf 設定 macOS 的 Microsoft Edge 原則設定
 

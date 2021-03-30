@@ -11,13 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003843"
+- "9004632"
 - "7096"
-ms.openlocfilehash: e526d25aeb70ca7d89225c7f8db87f465afc903b
-ms.sourcegitcommit: b3f26339eda6ab4a5f952dd35a41c4c1de603cd2
+- "8365"
+ms.openlocfilehash: 0107571b4a9313b39751f8c8d06468ccf8cdf807
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617533"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401754"
 ---
 # <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>使用 Microsoft Intune 設定 Windows 10 的 Microsoft Edge 原則設定
 
