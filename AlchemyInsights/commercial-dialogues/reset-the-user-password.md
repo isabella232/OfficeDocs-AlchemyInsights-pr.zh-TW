@@ -3,7 +3,7 @@ title: 重設使用者的密碼
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 6dda614395ade8341fcd223b4d2318c1068f3381
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: bd75e15ec07981fea5a8e510d7fa025402affc71
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464416"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403086"
 ---
-# <a name="reset-the-users-password"></a><span data-ttu-id="f06cf-102">重設使用者的密碼</span><span class="sxs-lookup"><span data-stu-id="f06cf-102">Reset the user's password</span></span>
+# <a name="reset-the-users-password"></a><span data-ttu-id="9e56a-102">重設使用者的密碼</span><span class="sxs-lookup"><span data-stu-id="9e56a-102">Reset the user's password</span></span>
 
-<span data-ttu-id="f06cf-103">您必須先重設使用者的密碼，再執行其他動作。</span><span class="sxs-lookup"><span data-stu-id="f06cf-103">You'll need to reset the user's password before you do anything else.</span></span> <span data-ttu-id="f06cf-104">方法如下：</span><span class="sxs-lookup"><span data-stu-id="f06cf-104">Here's how:</span></span>
+<span data-ttu-id="9e56a-103">您必須先重設使用者的密碼，再執行其他動作。</span><span class="sxs-lookup"><span data-stu-id="9e56a-103">You'll need to reset the user's password before you do anything else.</span></span> <span data-ttu-id="9e56a-104">方法如下：</span><span class="sxs-lookup"><span data-stu-id="9e56a-104">Here's how:</span></span>
 
-1. <span data-ttu-id="f06cf-105">選取 [**使用者** 作用  >  中 **[使用者](https://go.microsoft.com/fwlink/p/?linkid=834822)**]。</span><span class="sxs-lookup"><span data-stu-id="f06cf-105">Select **Users** > **[Active users](https://go.microsoft.com/fwlink/p/?linkid=834822)**.</span></span>
-1. <span data-ttu-id="f06cf-106">選取其帳戶已遭破壞的使用者。</span><span class="sxs-lookup"><span data-stu-id="f06cf-106">Select the user whose account has been compromised.</span></span>
-1. <span data-ttu-id="f06cf-107">在出現的快顯視窗中，按一下 [ **重設密碼**]。</span><span class="sxs-lookup"><span data-stu-id="f06cf-107">In the flyout that appears, click **Reset password**.</span></span>
+1. <span data-ttu-id="9e56a-105">選取 [**使用者** 作用  >  中 **[使用者](https://go.microsoft.com/fwlink/p/?linkid=834822)**]。</span><span class="sxs-lookup"><span data-stu-id="9e56a-105">Select **Users** > **[Active users](https://go.microsoft.com/fwlink/p/?linkid=834822)**.</span></span>
+1. <span data-ttu-id="9e56a-106">選取其帳戶已遭破壞的使用者。</span><span class="sxs-lookup"><span data-stu-id="9e56a-106">Select the user whose account has been compromised.</span></span>
+1. <span data-ttu-id="9e56a-107">在出現的快顯視窗中，按一下 [ **重設密碼**]。</span><span class="sxs-lookup"><span data-stu-id="9e56a-107">In the flyout that appears, click **Reset password**.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="f06cf-108">不要透過電子郵件將密碼傳送給使用者。</span><span class="sxs-lookup"><span data-stu-id="f06cf-108">Don't send the password to the user via email.</span></span>
+> <span data-ttu-id="9e56a-108">不要透過電子郵件將密碼傳送給使用者。</span><span class="sxs-lookup"><span data-stu-id="9e56a-108">Don't send the password to the user via email.</span></span>
