@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685877"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505059"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>存取 Bitlocker 恢復機碼
 
@@ -46,5 +46,6 @@ All Key Protectors
 若在 Intune 中 enrolment 之前已加密裝置，則復原機碼可能與「Microsoft 帳戶」相關聯 (MSA) ，用來在 OOBE 過程中登入裝置。 如果是這種情況，  https://onedrive.live.com/recoverykey 使用此 MSA 進行存取和登入時，應該會顯示已儲存復原金鑰的裝置。
  
 如果是透過以網域為基礎的群組原則進行設定的加密裝置，則復原資訊可能會儲存在內部部署 Active Directory 中。
- 
+
+如果您已設定 Endpoint protection 原則，將復原金鑰儲存在 Azure Active Directory 中，但尚未上傳特定裝置的金鑰，您可以從 MEM 主控台旋轉該裝置的復原金鑰，以觸發上載。 如需詳細資訊，請參閱 [輪替 BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)復原機碼。
 
