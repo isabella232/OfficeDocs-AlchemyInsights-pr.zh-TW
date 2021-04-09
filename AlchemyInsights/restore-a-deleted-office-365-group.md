@@ -14,18 +14,18 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: caa2c8987eecb89bac3469bf9471847858cab0ba
-ms.sourcegitcommit: ec99a3a2e1e6a13d9a829d65ad1692a607dc3a17
+ms.openlocfilehash: b72b7c93ce9fe1b90d1608811b0eeabc8aec1363
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51597434"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645122"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>還原已刪除的 Microsoft 365 群組
 
 您可以從刪除的30天內，還原已刪除的 Microsoft 365 群組或 Microsoft 團隊。
 
-1. 移至 [Microsoft 365 系統管理中心](https://aka.ms/RestoreDeletedGroup) ，登入並列出已刪除的群組和團隊。
+1. 移至 [Microsoft 365 系統管理中心](https://aka.ms/RestoreDeletedGroup) ，登入您已刪除的群組和小組清單。
 
     **附注：** 使用指派給承租人管理員或群組管理員角色的帳戶登入。
 
