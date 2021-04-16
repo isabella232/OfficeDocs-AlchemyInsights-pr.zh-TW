@@ -2,7 +2,7 @@
 title: 原則所限
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: e5d08462e8662fa1651ad81235d0efd5fc4bac58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 036c171f3c71e60c8c07000b4d0c6ede36bd435c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721285"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801654"
 ---
 # <a name="teams-policies"></a>小組原則
 
 Microsoft 團隊設定是由原則所控制。 若要進行變更，您必須設定適當的原則，然後將其套用至使用者。 為所有使用者執行這項作業的最快捷方式是修改名為 Global 的預設原則。 
 
-**記事** 原則變更 ***至少需要4小時 48 4 小時才會生效***。 如果您建立自訂原則，至少需要等候4小時，您才能進行其他變更。 然後，您就可以將該原則套用至使用者。 這表示自訂原則可能需要長達48小時才會生效。 全域原則會設定為所有使用者的預設值，而且全域原則的變更可能需要長達24小時才會生效。 如果您已建立自訂原則，並將其套用至使用者，但在48小時之後仍未生效，或者您已修改全域原則並且等候至少24小時，請開啟支援案例。
+**記事** 原則變更 **_至少需要4小時 48 4 小時才會生效_**。 如果您建立自訂原則，至少需要等候4小時，您才能進行其他變更。 然後，您就可以將該原則套用至使用者。 這表示自訂原則可能需要長達48小時才會生效。 全域原則會設定為所有使用者的預設值，而且全域原則的變更可能需要長達24小時才會生效。 如果您已建立自訂原則，並將其套用至使用者，但在48小時之後仍未生效，或者您已修改全域原則並且等候至少24小時，請開啟支援案例。
 
 小組原則分為下列幾個區域：
 

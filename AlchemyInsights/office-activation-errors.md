@@ -2,7 +2,7 @@
 title: Office 啟用錯誤
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: e3c3f53b5e053cec00010e8d321f3f48bbfd5bab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f791c15a57a4da209b7802db853c0d3ab6c1b681
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702138"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802230"
 ---
 # <a name="office-activation-errors"></a>Office 啟用錯誤
 
-1. 在 [控制台] > [程式和功能] **** 中，搜尋 [Office]****。  您應該會看到 **Microsoft 365 企業版**或 **Microsoft 365 商務版**。 如果您看到列出多個 Office 版本，請解除安裝您不使用的版本。 如果您無法使用 [控制台] 順利解除安裝，請使用支援及修復小幫手 (SaRA) 來[解除安裝](https://aka.ms/SARA-OfficeUninstall-Alchemy) 您不使用的版本。 然後，如果出現提示，請重新啟動 Office 並使用您的公司或學校帳戶登入。 
+1. 在 [控制台] > [程式和功能] 中，搜尋 [Office]。  您應該會看到 **Microsoft 365 企業版** 或 **Microsoft 365 商務版**。 如果您看到列出多個 Office 版本，請解除安裝您不使用的版本。 如果您無法使用 [控制台] 順利解除安裝，請使用支援及修復小幫手 (SaRA) 來[解除安裝](https://aka.ms/SARA-OfficeUninstall-Alchemy) 您不使用的版本。 然後，如果出現提示，請重新啟動 Office 並使用您的公司或學校帳戶登入。 
 
-2. 如果 Office 仍未獲授權，請返回 [控制台] > [程式和功能]****，以滑鼠右鍵按一下剩餘的 Office 安裝，按一下 [修改]**** (或 [變更]****)，然後按一下 [線上修復]****。 線上修復可能需要一些時間。 然後，如果出現提示，請重新啟動 Office 並使用您的公司或學校帳戶登入。 
+2. 如果 Office 仍未獲授權，請返回 [控制台] > [程式和功能]，以滑鼠右鍵按一下剩餘的 Office 安裝，按一下 [修改] (或 [變更])，然後按一下 [線上修復]。 線上修復可能需要一些時間。 然後，如果出現提示，請重新啟動 Office 並使用您的公司或學校帳戶登入。 
 
 3. 如果 Office 仍未獲授權，請下載並在受影響的電腦上執行 [啟用疑難排解員][](https://aka.ms/SARA-OfficeActivation-Alchemy) 以修正啟用問題。 
 
