@@ -2,7 +2,7 @@
 title: 復原刪除的計畫
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001718"
 - "3811"
-ms.openlocfilehash: 81eae9c5bb9dcea51db7bfcb1cf6eb160613af12
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e97c564d01abeb4dbe7ff7c1d88752ead8f24128
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741329"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809682"
 ---
 # <a name="recover-deleted-plans"></a>復原刪除的計畫
 
@@ -25,4 +25,4 @@ ms.locfileid: "47741329"
 
 - 如果您的計畫因刪除群組而被刪除，您也許可以復原群組及其內容。 按照還原[刪除的 Microsoft 365 群組](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group?view=o365-worldwide)中的指示進行，以還原群組及其相關內容。
 
-- 如果您從 Teams 頻道移除 [Planner] 索引標籤，但未永久刪除計畫，您可以新增 [Planner] 索引標籤，然後重新新增您的計畫，方法是移至 [新增索引標籤] > [Planner] > [使用此小組的現有計劃]****，然後從下拉式清單中選取您的計畫。
+- 如果您從 Teams 頻道移除 [Planner] 索引標籤，但未永久刪除計畫，您可以新增 [Planner] 索引標籤，然後重新新增您的計畫，方法是移至 [新增索引標籤] > [Planner] > [使用此小組的現有計劃]，然後從下拉式清單中選取您的計畫。

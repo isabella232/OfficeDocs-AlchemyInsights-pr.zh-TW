@@ -2,7 +2,7 @@
 title: Microsoft 365 來賓共用設定參考
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000204"
 - "4843"
-ms.openlocfilehash: eb7a1ee7dedb19e48a86d57b8edac33b387f15cf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb7ea40bc0f602905ac6c06af0a8569523e80df3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742806"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810403"
 ---
 # <a name="microsoft-365-guest-sharing-settings-reference"></a>Microsoft 365 來賓共用設定參考
 

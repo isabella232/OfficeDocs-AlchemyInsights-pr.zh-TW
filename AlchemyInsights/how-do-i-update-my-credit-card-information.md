@@ -2,7 +2,7 @@
 title: 如何更新我的信用卡資訊？
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: c197d0eff7b6fb3fc1455e8b1aff931850dfe813
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be4d2c8959421b13c00a049cf4cc6b5b1a22ca3c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781562"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810943"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>如何更新我的信用卡資訊？
 

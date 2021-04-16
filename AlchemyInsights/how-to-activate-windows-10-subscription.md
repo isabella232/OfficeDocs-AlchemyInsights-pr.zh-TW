@@ -2,7 +2,7 @@
 title: 如何啟動 Windows 10 訂閱
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3470"
 - "9001461"
-ms.openlocfilehash: bd8d02411e0c586f828c91a95b47fca330df2f57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8efc365cbbbe36f036899d1fcb28ce917c7053f6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704669"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810871"
 ---
 # <a name="activating-windows-10-subscriptions"></a>啟用 Windows 10 訂閱
 

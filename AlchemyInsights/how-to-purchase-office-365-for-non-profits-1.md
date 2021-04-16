@@ -2,7 +2,7 @@
 title: '適用于非營利組織的 Microsoft 365-已核准 '
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 98417cca5ac73ccdb1d3d0e726d0b9c9c62dd442
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 597e57c85080bdd3f9422af981e27ba960006b49
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779799"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810655"
 ---
 # <a name="microsoft-365-for-nonprofits---approved"></a>適用于非營利組織的 Microsoft 365-已核准
 

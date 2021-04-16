@@ -2,7 +2,7 @@
 title: Microsoft 365 應用程式圖示/快捷方式白色、空白或重複
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2530"
 - "9000572"
-ms.openlocfilehash: 57112a1fe9e407d1f95c26fac86c0ae0b60d98d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df72f583d698cbcbe3e399a94763801935d55ee5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802912"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810115"
 ---
 # <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a>Office 應用程式圖示或快捷方式是白色、空白或重複的
 

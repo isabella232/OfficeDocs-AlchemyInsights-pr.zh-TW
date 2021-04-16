@@ -2,7 +2,7 @@
 title: 購買了錯誤的訂閱授權
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002455"
 - "4793"
-ms.openlocfilehash: c002fc1c177f72119baaee90c07d0d60c1be5f8b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b423b3ea8ce8616cb8018112ea12191bbe3ed7c7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768490"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809862"
 ---
 # <a name="purchased-wrong-subscription-license"></a>購買了錯誤的訂閱授權
 

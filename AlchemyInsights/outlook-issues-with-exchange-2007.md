@@ -2,7 +2,7 @@
 ms.author: pebaum
 title: Exchange 2007 的 Outlook 問題
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: c91a83cc3b83c9e142dfe9bfc491f9622885ba41
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5b8988e234a4cb15d7c3388d1727efe5840f3038
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722014"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810007"
 ---
 # <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>解決方案錯誤 "您將無法從目前的信箱接收郵件"
 如果您嘗試將 Outlook 365/2016 與 Exchange 2007 伺服器搭配使用，則會收到下列錯誤：

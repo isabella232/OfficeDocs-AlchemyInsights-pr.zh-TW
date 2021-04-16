@@ -2,7 +2,7 @@
 title: 投影至電腦
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001520"
 - "5610"
-ms.openlocfilehash: e527feec0b695b3e966ed627ca23cb1fc8f2fd34
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27775e3521cdad926f26e8d34738e8c7129fb8d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801607"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809935"
 ---
 # <a name="project-to-a-pc"></a>投影至電腦
 
@@ -26,7 +26,7 @@ ms.locfileid: "47801607"
 - 「要求投影到此電腦」下拉式功能表設定為 **[每次要求連線時]**。
 - 「需要 PIN 碼以進行配對」下拉式功能表設定為 **[永不]**。
 
-在目的地裝置上，請移至 **[開始]** 並搜尋「連線」，啟動**連線**應用程式。
+在目的地裝置上，請移至 **[開始]** 並搜尋「連線」，啟動 **連線** 應用程式。
 
 然後，在您要用來投影的來源裝置上：
 

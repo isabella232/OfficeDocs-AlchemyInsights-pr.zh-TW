@@ -2,7 +2,7 @@
 title: Outlook 如何與我的 Android 連絡人進行同步處理？
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001115"
 - "3076"
-ms.openlocfilehash: 5600a56bcbbaf9d484986e1d4d45397dda936a4b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 917bea163c3a85f6e1ab193db44a1e1aefd80e19
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781346"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810907"
 ---
 # <a name="how-does-outlook-sync-with-my-android-contacts"></a>Outlook 如何與我的 Android 連絡人進行同步處理？
 
@@ -31,4 +31,4 @@ ms.locfileid: "47781346"
 
 3. 切換 [ **同步處理連絡人** ] 滑杆。
  
-**附注**：當您嘗試在適用于 Android 的 Microsoft Outlook 中啟用連絡人同步處理時，如果停用 [ **同步處理連絡人** ] 的 [切換] 選項，您可能會看到一則隨文字顯示的訊息， *在 [系統設定] 中不會開啟連絡人同步*處理。 這可能是因為系統設定中已停用 [ **自動同步處理資料** ] 選項。 若要修正此問題，請啟用 Android 系統**設定**中 [**帳戶**] 功能表中的 [**自動同步處理資料**]。 此選項通常是在垂直省略號 (⋮) 或三欄 (⫼) 。 「  **帳戶** 」功能表可以位於不同的位置，這取決於裝置和版本為 Android。 在大多數較新的模型中，可在 [**設定**] 中搜尋**帳戶**。
+**附注**：當您嘗試在適用于 Android 的 Microsoft Outlook 中啟用連絡人同步處理時，如果停用 [ **同步處理連絡人** ] 的 [切換] 選項，您可能會看到一則隨文字顯示的訊息， *在 [系統設定] 中不會開啟連絡人同步* 處理。 這可能是因為系統設定中已停用 [ **自動同步處理資料** ] 選項。 若要修正此問題，請啟用 Android 系統 **設定** 中 [**帳戶**] 功能表中的 [**自動同步處理資料**]。 此選項通常是在垂直省略號 (⋮) 或三欄 (⫼) 。 「  **帳戶** 」功能表可以位於不同的位置，這取決於裝置和版本為 Android。 在大多數較新的模型中，可在 [**設定**] 中搜尋 **帳戶**。

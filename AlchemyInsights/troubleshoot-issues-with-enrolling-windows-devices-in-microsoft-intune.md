@@ -2,7 +2,7 @@
 title: 在 Microsoft Intune 中註冊 Windows 裝置的問題疑難排解
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: 88105671ef6dc34553a265937bf1fb3463353963
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708881"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808962"
 ---
 # <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>在 Microsoft Intune 中註冊 Windows 裝置的問題疑難排解
 

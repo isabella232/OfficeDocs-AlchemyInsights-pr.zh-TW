@@ -2,7 +2,7 @@
 title: 還原已刪除的表單
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 6923c15c3cce90c98ae79181e978fba273ab6059
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48018accc23a504c34b5469c198d6f29929d25c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662415"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809466"
 ---
 # <a name="restore-a-deleted-form"></a>還原已刪除的表單
 
@@ -25,7 +25,7 @@ ms.locfileid: "47662415"
 
 只有表單的擁有者可以復原。 如果已停用或移除租使用者的帳戶，則只有全域系統管理員才能復原表單。 全域管理員必須具備表單會授權，才可執行還原。 只有在停用的使用者帳戶的30天內建立或從承租人中移除的表單，才能還原。
 
-如果您是租使用者的全域系統管理員，而您想要從已刪除或已停用的帳戶復原表單，請將 [電子郵件地址] 取代為下列 URL: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [電子郵件地址]** 中已刪除或已停用之使用者的電子郵件地址。例如，如果您的電子郵件地址是 JOHNDOE@CONTOSO.COM，則 URL 會是： **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** 。 
+如果您是租使用者的全域系統管理員，而您想要從已刪除或已停用的帳戶復原表單，請將 [電子郵件地址] 取代為下列 URL: **https://forms.office.com/Pages/delegatepage.aspx?originalowner= [電子郵件地址]** 中已刪除或已停用之使用者的電子郵件地址。例如，如果您的電子郵件地址是 JOHNDOE@CONTOSO.COM，則 URL 會是： **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** 。 
 
 一旦您可以存取使用者的已刪除表單，請選取您要移動的表單，然後選取 [**其他表單動作**  >  **移動**]。
 

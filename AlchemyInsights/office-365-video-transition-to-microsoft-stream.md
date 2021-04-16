@@ -2,7 +2,7 @@
 title: Office 365 影片轉換成 Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001508"
 - "3568"
-ms.openlocfilehash: b975c5eb6f0fc1e04984912ba323d673ac231279
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0937a7664b0cff3fa98ba86fadeb7f360df474d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666573"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810151"
 ---
 # <a name="office-365-video-transition-to-microsoft-stream"></a>Office 365 影片轉換成 Microsoft Stream
 

@@ -2,7 +2,7 @@
 title: 重設或復原您的電腦
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: afadd93fb9ccf6a76a7fa7e6b860212756050c6c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62ca4dfffbc08040400400c384390c30a485865f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795703"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809538"
 ---
 # <a name="reset-or-recover-your-pc"></a>重設或復原您的電腦
 
@@ -25,7 +25,7 @@ ms.locfileid: "47795703"
 
 **從 [設定] 重設您的電腦**
 
-您可以從 **[設定] > [更新與安全性] > [復原]** 將電腦重設。 一旦開始使用，您可以選擇保留預先安裝應用程式、個人檔案或全部移除。 若要深入瞭解這些選項，請參閱 [Windows 10 中的復原選項](https://support.microsoft.com/help/12415/windows-10-recovery-options)中的**重設您的電腦章節**。
+您可以從 **[設定] > [更新與安全性] > [復原]** 將電腦重設。 一旦開始使用，您可以選擇保留預先安裝應用程式、個人檔案或全部移除。 若要深入瞭解這些選項，請參閱 [Windows 10 中的復原選項](https://support.microsoft.com/help/12415/windows-10-recovery-options)中的 **重設您的電腦章節**。
 
 **從登入畫面重設您的電腦**
 

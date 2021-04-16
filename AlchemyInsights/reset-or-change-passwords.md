@@ -2,7 +2,7 @@
 title: 重設或變更密碼
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692142"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810187"
 ---
 # <a name="reset-or-change-passwords"></a>重設或變更密碼
 
-使用者可以從**我的帳戶**  >  [安全性 & 隱私權](https://portal.office.com/account/#security)變更自己的密碼。
+使用者可以從 **我的帳戶**  >  [安全性 & 隱私權](https://portal.office.com/account/#security)變更自己的密碼。
   
-如果使用者忘記其密碼，系統管理員可以將密碼移至 [**使用者**作用中的  >  [使用者](https://portal.office.com/adminportal/home#/users)]，然後選取 [使用者 (s) ]，然後按一下 [**重設密碼**]。
+如果使用者忘記其密碼，系統管理員可以將密碼移至 [**使用者** 作用中的  >  [使用者](https://portal.office.com/adminportal/home#/users)]，然後選取 [使用者 (s) ]，然後按一下 [**重設密碼**]。
   
 [按一下這裡以深入瞭解](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)，或讓使用者重設其自己的忘記密碼。
