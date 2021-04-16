@@ -2,7 +2,7 @@
 title: 使用 Excel 匯出和匯入資料
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000777"
 - "2718"
-ms.openlocfilehash: 7abc416b8d4322ed6fdcde9e1943c625f3833363
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e06d88ce5d90e8b3eaf07c621ca62f64e0604fc2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708746"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813283"
 ---
 # <a name="exporting-and-importing-data-with-excel"></a>使用 Excel 匯出和匯入資料
 

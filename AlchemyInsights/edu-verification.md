@@ -2,7 +2,7 @@
 title: 學歷驗證
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 309575a86155d416d587ee034fb7efe2c807e3f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 870f175adc5ee31d32266a69af9acedb66899bc8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710330"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814363"
 ---
 # <a name="edu-verification"></a>學歷驗證
 
@@ -25,6 +25,6 @@ ms.locfileid: "47710330"
 
 **重要事項**：如果您在輸入網域之前結束驗證精靈，您可以在免費試用期間，[繼續使用學術驗證精靈](https://go.microsoft.com/fwlink/p/?linkid=2135255)。
 
-如果您想要檢查網域的狀態，請移至 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/p/?linkid=2024339)。 在首頁中，捲動至底部並找到 [帳單]**** 卡片。 [帳單]**** 卡片表示驗證程序的狀態 (已核准、待處理、拒絕，或新增您的網域)。
+如果您想要檢查網域的狀態，請移至 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/p/?linkid=2024339)。 在首頁中，捲動至底部並找到 [帳單] 卡片。 [帳單] 卡片表示驗證程序的狀態 (已核准、待處理、拒絕，或新增您的網域)。
 
 如果您的要求遭到拒絕，請參閱[學校不符合資格。我現在該怎麼做？](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)

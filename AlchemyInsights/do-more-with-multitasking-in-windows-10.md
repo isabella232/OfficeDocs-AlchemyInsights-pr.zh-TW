@@ -2,7 +2,7 @@
 title: 在 Windows 10 中利用多工處理完成更多工作
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002958"
 - "5660"
-ms.openlocfilehash: 3efdd790d40dcf76b9815bcc63c150db9ab9a177
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 18259192bd5e6aeb85abaf6aa988cfcbbebd88af
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679107"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814949"
 ---
 # <a name="do-more-with-multitasking-in-windows-10"></a>在 Windows 10 中利用多工處理完成更多工作
 

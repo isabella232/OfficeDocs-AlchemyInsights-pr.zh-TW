@@ -2,7 +2,7 @@
 title: 啟用 Teams 和 Office 365 A1
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001724"
 - "3823"
-ms.openlocfilehash: 5f677c8fabb6cdb9c708ab9dc39882a8d3b0567b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e99fcc49108c9e8f87ca204b9f3dfe7fcfdae97a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784407"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813931"
 ---
 # <a name="enabling-teams-and-office-365-a1"></a>啟用 Teams 和 Office 365 A1
 
-如果您擁有 EDU 租用戶，則必須手動啟用 Microsoft Teams。 若要這麼做，請移至 [Microsoft 365 系統管理中心] > [設定] > [設定] > [Microsoft Teams]****。 如果您在 [服務] 清單中沒有看到 Microsoft Teams，請關閉 [嘗試新的系統管理中心]**** 並找到> [設定] > [服務與增益集設定] > [Microsoft Teams]****。 如需詳細資訊，請參閱[為您的學校啟用 Microsoft Teams](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1) (部分機器翻譯)。
+如果您擁有 EDU 租用戶，則必須手動啟用 Microsoft Teams。 若要這麼做，請移至 [Microsoft 365 系統管理中心] > [設定] > [設定] > [Microsoft Teams]。 如果您在 [服務] 清單中沒有看到 Microsoft Teams，請關閉 [嘗試新的系統管理中心] 並找到> [設定] > [服務與增益集設定] > [Microsoft Teams]。 如需詳細資訊，請參閱[為您的學校啟用 Microsoft Teams](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1) (部分機器翻譯)。
 
 **重要事項**：您可能需要等候 24 小時，變更才會生效。 
 
