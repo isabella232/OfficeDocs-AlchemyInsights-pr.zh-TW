@@ -2,7 +2,7 @@
 title: 如何共用 SharePoint 或 OneDrive 檔案或資料夾
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
+ms.openlocfilehash: 9fcd43022d048c3d0b652f20308dc6b0b3f6a2f4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51408105"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51803283"
 ---
 # <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>如何共用 SharePoint 或 OneDrive 檔案或資料夾
 
-儲存在 SharePoint 網站上的檔案通常可供具有網站許可權的所有使用者使用，但是您可能想要與沒有網站存取權的人員共用特定檔案或資料夾。 當您共用檔案和資料夾時，您可以決定是否要讓人員編輯或只加以查看。 如需詳細資訊，請參閱：
+儲存在 SharePoint 網站上的檔案通常可供具有網站許可權的所有使用者使用，但是您可能想要與沒有網站存取權的人員共用特定檔案或資料夾。 當您共用檔案和資料夾時，您可以決定是否要讓人員編輯或只加以查看。 如需其他資訊，請參閱：
 
 [共用 SharePoint 檔案或資料夾](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
 
