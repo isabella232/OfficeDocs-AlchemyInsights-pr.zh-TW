@@ -2,7 +2,7 @@
 title: 入口網站中的重複裝置記錄
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001495"
 - "4386"
-ms.openlocfilehash: e32486236a318ae820538cf87c2019e05470211d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e6f477807823e68965ce966faf0a6f50f9472f3d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678495"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814507"
 ---
-# <a name="duplicate-device-record-in-the-portal"></a><span data-ttu-id="fb921-102">入口網站中的重複裝置記錄</span><span class="sxs-lookup"><span data-stu-id="fb921-102">Duplicate device record in the portal</span></span>
+# <a name="duplicate-device-record-in-the-portal"></a><span data-ttu-id="b710b-102">入口網站中的重複裝置記錄</span><span class="sxs-lookup"><span data-stu-id="b710b-102">Duplicate device record in the portal</span></span>
 
-<span data-ttu-id="fb921-103">如果裝置未正確將共同管理狀回報給 Configuration Manager 網站，您可能會在入口網站看到 2 筆裝置記錄。</span><span class="sxs-lookup"><span data-stu-id="fb921-103">You may see 2 records for a device in the portal if the device does not correctly report the co-management status to the Configuration Manager site.</span></span> <span data-ttu-id="fb921-104">若要檢查裝置的共同管理狀態，請在 Configuration Manager 主控台中查看該裝置 [Co-managed]\*\*\*\* 欄。</span><span class="sxs-lookup"><span data-stu-id="fb921-104">To check the co-management status of a device, review the **Co-managed** column for the device in the Configuration Manager console.</span></span> <span data-ttu-id="fb921-105">如果看不到該欄，您可以直接以滑鼠右鍵按一下任一欄標題，然後從清單中選取來新增欄。</span><span class="sxs-lookup"><span data-stu-id="fb921-105">If the column is not visible, you may add it by right-clicking any of the column headers, and selecting it from the list.</span></span>
+<span data-ttu-id="b710b-103">如果裝置未正確將共同管理狀回報給 Configuration Manager 網站，您可能會在入口網站看到 2 筆裝置記錄。</span><span class="sxs-lookup"><span data-stu-id="b710b-103">You may see 2 records for a device in the portal if the device does not correctly report the co-management status to the Configuration Manager site.</span></span> <span data-ttu-id="b710b-104">若要檢查裝置的共同管理狀態，請在 Configuration Manager 主控台中查看該裝置 [Co-managed] 欄。</span><span class="sxs-lookup"><span data-stu-id="b710b-104">To check the co-management status of a device, review the **Co-managed** column for the device in the Configuration Manager console.</span></span> <span data-ttu-id="b710b-105">如果看不到該欄，您可以直接以滑鼠右鍵按一下任一欄標題，然後從清單中選取來新增欄。</span><span class="sxs-lookup"><span data-stu-id="b710b-105">If the column is not visible, you may add it by right-clicking any of the column headers, and selecting it from the list.</span></span>
 
-<span data-ttu-id="fb921-106">Co-managed 值必須為 [是]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="fb921-106">The Co-managed value must be **Yes**.</span></span> <span data-ttu-id="fb921-107">如果該值是 [否]\*\*\*\*，請在用戶端裝置上開啟 Configuration Manager 用戶端小程式，然後在 [一般] 索引標籤中核取 **Co-management** 屬性。</span><span class="sxs-lookup"><span data-stu-id="fb921-107">If the value is **No**, open the Configuration Manager client applet on the client device and check the **Co-management** property in the General tab.</span></span>
+<span data-ttu-id="b710b-106">Co-managed 值必須為 [是]。</span><span class="sxs-lookup"><span data-stu-id="b710b-106">The Co-managed value must be **Yes**.</span></span> <span data-ttu-id="b710b-107">如果該值是 [否]，請在用戶端裝置上開啟 Configuration Manager 用戶端小程式，然後在 [一般] 索引標籤中核取 **Co-management** 屬性。</span><span class="sxs-lookup"><span data-stu-id="b710b-107">If the value is **No**, open the Configuration Manager client applet on the client device and check the **Co-management** property in the General tab.</span></span>
 
-- <span data-ttu-id="fb921-108">如果此值為 [已啟用]\*\*\*\*，表示問題出在用戶端與管理點間的通訊。</span><span class="sxs-lookup"><span data-stu-id="fb921-108">If the value is **Enabled**, this indicates problems with client communication with the Management Point.</span></span> <span data-ttu-id="fb921-109">請查看裝置上的 **CcmMessaging.log**，以調查可能的連線問題。</span><span class="sxs-lookup"><span data-stu-id="fb921-109">Please review the **CcmMessaging.log** on the device to investigate potential connectivity issues.</span></span>
+- <span data-ttu-id="b710b-108">如果此值為 [已啟用]，表示問題出在用戶端與管理點間的通訊。</span><span class="sxs-lookup"><span data-stu-id="b710b-108">If the value is **Enabled**, this indicates problems with client communication with the Management Point.</span></span> <span data-ttu-id="b710b-109">請查看裝置上的 **CcmMessaging.log**，以調查可能的連線問題。</span><span class="sxs-lookup"><span data-stu-id="b710b-109">Please review the **CcmMessaging.log** on the device to investigate potential connectivity issues.</span></span>
 
-- <span data-ttu-id="fb921-110">如果值為 [已停用]\*\*\*\* 且裝置已在 Intune 中註冊，請查看裝置上的 **CoManagementHandler.log**，以確保裝置收到共同管理原則。</span><span class="sxs-lookup"><span data-stu-id="fb921-110">If the value is **Disabled** and the device is enrolled in Intune, please ensure that the device has received the Co-management policy by reviewing the **CoManagementHandler.log** on the device.</span></span>
+- <span data-ttu-id="b710b-110">如果值為 [已停用] 且裝置已在 Intune 中註冊，請查看裝置上的 **CoManagementHandler.log**，以確保裝置收到共同管理原則。</span><span class="sxs-lookup"><span data-stu-id="b710b-110">If the value is **Disabled** and the device is enrolled in Intune, please ensure that the device has received the Co-management policy by reviewing the **CoManagementHandler.log** on the device.</span></span>
