@@ -2,7 +2,7 @@
 title: Verify your domain
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +15,12 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: d30f9b51c0164acd126f214a581ad6cec5eec04e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a34de7fa2aaaae365cf4562d31590d4b5fb7544
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734297"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770982"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 

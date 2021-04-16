@@ -2,7 +2,7 @@
 title: 何謂群組？
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001110"
 - "3071"
-ms.openlocfilehash: 857af422c77fbb719c120951314d21160f0fa1b7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9011c8219f7aec09454ecf08fc1c5ad2959e89a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807326"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770694"
 ---
 # <a name="what-are-groups"></a>何謂群組？
 

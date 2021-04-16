@@ -2,7 +2,7 @@
 title: 在按兩下時未開啟 XLS 檔案
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796315"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770586"
 ---
 # <a name="excel-file-doesnt-open"></a>Excel 檔案未開啟
 
@@ -39,7 +39,7 @@ ms.locfileid: "47796315"
 
 1. 移至 [ **控制台] > 卸載程式**，然後選取您想要移除的 Office 版本。
 
-2. 按一下 [解除安裝]****。
+2. 按一下 [解除安裝]。
 
 3. Restart your computer.
 
