@@ -2,7 +2,7 @@
 title: 在線上支付方式中嘗試進行多種收費
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: c0e62b02dec50f3bb4e42c1775e9d04d4c3806d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c177c88b3df5846f824d69efa3eb8c112e430
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724642"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792699"
 ---
-# <a name="past-due-account"></a><span data-ttu-id="17327-102">過去到期的帳戶？</span><span class="sxs-lookup"><span data-stu-id="17327-102">Past due account?</span></span>
+# <a name="past-due-account"></a><span data-ttu-id="e54ed-102">過去到期的帳戶？</span><span class="sxs-lookup"><span data-stu-id="e54ed-102">Past due account?</span></span>
 
-<span data-ttu-id="17327-103">付款可以因數個原因而遭到謝絕，包括信用卡已到期。</span><span class="sxs-lookup"><span data-stu-id="17327-103">A payment can be declined for several reasons, including if the credit card has expired.</span></span> <span data-ttu-id="17327-104">您可以隨時使用 [結算餘額]\*\*\*\* 功能以變更您信用卡的資訊並立即重新提交款項。</span><span class="sxs-lookup"><span data-stu-id="17327-104">You can use the **Settle balance** feature at any time to change your credit card information and immediately resubmit the payment.</span></span>
+<span data-ttu-id="e54ed-103">付款可以因數個原因而遭到謝絕，包括信用卡已到期。</span><span class="sxs-lookup"><span data-stu-id="e54ed-103">A payment can be declined for several reasons, including if the credit card has expired.</span></span> <span data-ttu-id="e54ed-104">您可以隨時使用 [結算餘額] 功能以變更您信用卡的資訊並立即重新提交款項。</span><span class="sxs-lookup"><span data-stu-id="e54ed-104">You can use the **Settle balance** feature at any time to change your credit card information and immediately resubmit the payment.</span></span>
 
-1. <span data-ttu-id="17327-105">在系統管理中心，移至 **帳單 > [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)**。</span><span class="sxs-lookup"><span data-stu-id="17327-105">In the admin center, go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-<span data-ttu-id="17327-106">找到未付餘額的訂閱。</span><span class="sxs-lookup"><span data-stu-id="17327-106">Find the subscription with the outstanding balance.</span></span> <span data-ttu-id="17327-107">在 [ **記帳** ] 區段中， **訂閱**旁的 [ **結算餘額** ] 以支付整個未完成的餘額。</span><span class="sxs-lookup"><span data-stu-id="17327-107">In the **Billing** section, next to the **Subscription has a past due payment**, click **Settle balance** to pay the entire outstanding balance.</span></span>
-2. <span data-ttu-id="17327-108">如果您擁有信用卡，您可以變更到期日、挑選不同的卡片，或新增 [卡片](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)。</span><span class="sxs-lookup"><span data-stu-id="17327-108">If you own the credit card, you can change the expiration date, pick a different card, or [add a new card](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).</span></span>
-3. <span data-ttu-id="17327-109">如果您不擁有信用卡，您可以選擇不同的信用卡或 [新增卡片](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)。</span><span class="sxs-lookup"><span data-stu-id="17327-109">If you don’t own the credit card, you can choose a different credit card or [add a new card](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).</span></span>
-4. <span data-ttu-id="17327-110">完成更新後，請按一下 [ **儲存**]。</span><span class="sxs-lookup"><span data-stu-id="17327-110">After you’ve completed your updates, click **Save**.</span></span>
+1. <span data-ttu-id="e54ed-105">在系統管理中心，移至 **帳單 > [產品 & 服務](https://go.microsoft.com/fwlink/p/?linkid=842054)**。</span><span class="sxs-lookup"><span data-stu-id="e54ed-105">In the admin center, go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+<span data-ttu-id="e54ed-106">找到未付餘額的訂閱。</span><span class="sxs-lookup"><span data-stu-id="e54ed-106">Find the subscription with the outstanding balance.</span></span> <span data-ttu-id="e54ed-107">在 [ **記帳** ] 區段中， **訂閱** 旁的 [ **結算餘額** ] 以支付整個未完成的餘額。</span><span class="sxs-lookup"><span data-stu-id="e54ed-107">In the **Billing** section, next to the **Subscription has a past due payment**, click **Settle balance** to pay the entire outstanding balance.</span></span>
+2. <span data-ttu-id="e54ed-108">如果您擁有信用卡，您可以變更到期日、挑選不同的卡片，或新增 [卡片](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)。</span><span class="sxs-lookup"><span data-stu-id="e54ed-108">If you own the credit card, you can change the expiration date, pick a different card, or [add a new card](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).</span></span>
+3. <span data-ttu-id="e54ed-109">如果您不擁有信用卡，您可以選擇不同的信用卡或 [新增卡片](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)。</span><span class="sxs-lookup"><span data-stu-id="e54ed-109">If you don’t own the credit card, you can choose a different credit card or [add a new card](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).</span></span>
+4. <span data-ttu-id="e54ed-110">完成更新後，請按一下 [ **儲存**]。</span><span class="sxs-lookup"><span data-stu-id="e54ed-110">After you’ve completed your updates, click **Save**.</span></span>
 
-<span data-ttu-id="17327-111">**附注**：進行付款之後，過去到期的通知可能在一小段時間內仍會顯示。</span><span class="sxs-lookup"><span data-stu-id="17327-111">**Note**: After a payment has been made, the past due notification may still be visible for a short period of time.</span></span> <span data-ttu-id="17327-112">請等候至少 **48 小時** ，再聯繫支援人員。</span><span class="sxs-lookup"><span data-stu-id="17327-112">Please wait at least **48 hours** before contacting support.</span></span>
+<span data-ttu-id="e54ed-111">**附注**：進行付款之後，過去到期的通知可能在一小段時間內仍會顯示。</span><span class="sxs-lookup"><span data-stu-id="e54ed-111">**Note**: After a payment has been made, the past due notification may still be visible for a short period of time.</span></span> <span data-ttu-id="e54ed-112">請等候至少 **48 小時** ，再聯繫支援人員。</span><span class="sxs-lookup"><span data-stu-id="e54ed-112">Please wait at least **48 hours** before contacting support.</span></span>
