@@ -2,7 +2,7 @@
 title: 設定或變更公用資料夾許可權
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: c035d56ffade45cc4360a1d0dfca4c63bf110a38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e419c72a890e68fc7b6d40d2b64406e42f9b0769
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771163"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789198"
 ---
 # <a name="permissions-and-public-folders"></a>許可權和公用資料夾
 

@@ -2,7 +2,7 @@
 title: 設定 Microsoft 365 商務版訂閱
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4795"
-ms.openlocfilehash: 5d165264452e81ffc0ea5b891dcea45f49be9518
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f155b5e37047495c8044d58dc4403adfe18d34e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720340"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51788478"
 ---
 # <a name="set-up-a-microsoft-365-business-subscription"></a>設定 Microsoft 365 商務版訂閱
 

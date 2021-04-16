@@ -2,7 +2,7 @@
 title: 透過電子郵件接收帳單報表副本
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 8bd05fe4876328e22bbd614a1e6b3ee95338c0ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4b6a5b7e1cff8f109af09009ba5887e8ab38a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693258"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789423"
 ---
 # <a name="receive-copy-of-your-billing-statement-in-email"></a>透過電子郵件接收帳單報表副本
 
@@ -30,6 +30,6 @@ ms.locfileid: "47693258"
 
 若要透過電子郵件接收帳單表述：
   
-1. 在系統管理中心中，移至 [帳單]**** \> [帳單通知][](https://go.microsoft.com/fwlink/p/?linkid=853212)。
+1. 在系統管理中心中，移至 [帳單] \> [帳單通知][](https://go.microsoft.com/fwlink/p/?linkid=853212)。
 
-2. 在 [ **以電子郵件附件形式接收帳單帳單**] 底下，將開關切換為 [ **開啟**]。 您可以隨時停止接收對帳單電子郵件，只要將開關切換為**關閉**即可。
+2. 在 [ **以電子郵件附件形式接收帳單帳單**] 底下，將開關切換為 [ **開啟**]。 您可以隨時停止接收對帳單電子郵件，只要將開關切換為 **關閉** 即可。
