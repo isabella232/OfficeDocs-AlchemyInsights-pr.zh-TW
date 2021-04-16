@@ -2,7 +2,7 @@
 title: 將我的 Outlook 連絡人同步處理到我的通訊錄
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a2f381eefcaf4b09713749035f390f65c53727
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737368"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797532"
 ---
 # <a name="sync-my-outlook-contacts-to-my-address-book"></a>將我的 Outlook 連絡人同步處理到我的通訊錄
 

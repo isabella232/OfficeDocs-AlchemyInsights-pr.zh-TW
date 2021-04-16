@@ -2,7 +2,7 @@
 title: 使用 Windows 10 中的指紋解除鎖定選項
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 99f037f62748c06d77b526e35f67b711885c4a1e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba1f2e7b0bb54e89178a320b8579b8d1bfdaff9a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795235"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796668"
 ---
 # <a name="use-fingerprint-unlock-option-in-windows-10"></a>使用 Windows 10 中的指紋解除鎖定選項
 
@@ -37,7 +37,7 @@ ms.locfileid: "47795235"
 
 **Windows Hello 指紋無法當作登入選項使用**
 
-如果 Windows Hello 指紋未顯示為 [登入] **選項**中的選項，表示 windows 不會察覺電腦上連接的任何指紋辨識器/掃描器，或者如果您的電腦是由您的工作地點) 所管理，則系統原則可以避免其使用 (。 若要疑難排解： 
+如果 Windows Hello 指紋未顯示為 [登入] **選項** 中的選項，表示 windows 不會察覺電腦上連接的任何指紋辨識器/掃描器，或者如果您的電腦是由您的工作地點) 所管理，則系統原則可以避免其使用 (。 若要疑難排解： 
 
 1. 選取工作列中的 [ **開始** ] 按鈕，然後搜尋 [ **裝置管理員**]。
 
