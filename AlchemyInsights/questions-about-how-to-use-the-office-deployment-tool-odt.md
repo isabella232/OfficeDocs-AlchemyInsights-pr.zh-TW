@@ -2,7 +2,7 @@
 title: 有關如何使用 Office 部署工具 (ODT) 的問題
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,22 +10,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: c5b055989014b464d3136895702c8ea40e8eb701
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 20e0b6aa3c298ee0a4291c3da6ae46978177e81f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086147"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790323"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="ceff6-102">有關如何使用 Office 部署工具 (ODT) 的問題</span><span class="sxs-lookup"><span data-stu-id="ceff6-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="5347a-102">有關如何使用 Office 部署工具 (ODT) 的問題</span><span class="sxs-lookup"><span data-stu-id="5347a-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
 
-<span data-ttu-id="ceff6-103">從[Microsoft 下載中心](https://go.microsoft.com/fwlink/p/?LinkID=626065)下載 Office 部署工具。</span><span class="sxs-lookup"><span data-stu-id="ceff6-103">Download the Office Deployment Tool from the [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
+<span data-ttu-id="5347a-103">從[Microsoft 下載中心](https://go.microsoft.com/fwlink/p/?LinkID=626065)下載 Office 部署工具。</span><span class="sxs-lookup"><span data-stu-id="5347a-103">Download the Office Deployment Tool from the [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
   
-<span data-ttu-id="ceff6-104">下載檔案之後，請執行自我解壓縮可執行檔，該檔案包含 Office 部署工具可執行檔，其中包含 # A0) 以及 # A1)  ( 的範例設定檔 (。</span><span class="sxs-lookup"><span data-stu-id="ceff6-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setupodt.exe) and a sample configuration file (configuration.xml).</span></span>
+<span data-ttu-id="5347a-104">下載檔案之後，執行自我解壓縮可執行檔，其中包含 Office 部署工具可執行檔 (setup.exe) 及範例組態檔 (configuration.xml)。</span><span class="sxs-lookup"><span data-stu-id="5347a-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setup.exe) and a sample configuration file (configuration.xml).</span></span>
   
- <span data-ttu-id="ceff6-105">**若要排除或移除用戶端電腦的 Microsoft 365 應用程式企業版產品：**</span><span class="sxs-lookup"><span data-stu-id="ceff6-105">**To exclude or remove Microsoft 365 Apps for enterprise products from client computers:**</span></span>
+ <span data-ttu-id="5347a-105">**若要排除或移除用戶端電腦的 Microsoft 365 應用程式企業版產品：**</span><span class="sxs-lookup"><span data-stu-id="5347a-105">**To exclude or remove Microsoft 365 Apps for enterprise products from client computers:**</span></span>
   
-<span data-ttu-id="ceff6-106">安裝適用于企業的 Microsoft 365 應用程式時，您可以排除特定產品。</span><span class="sxs-lookup"><span data-stu-id="ceff6-106">When installing Microsoft 365 Apps for enterprise, you can exclude specific products.</span></span> <span data-ttu-id="ceff6-107">方法是依照利用 ODT 安裝 Office 的步驟進行，但在組態檔中加入 ExcludeApp 元素。</span><span class="sxs-lookup"><span data-stu-id="ceff6-107">To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file.</span></span> <span data-ttu-id="ceff6-108">例如，此設定檔案會為所有 Microsoft 365 應用程式安裝企業產品（Publisher 除外）：</span><span class="sxs-lookup"><span data-stu-id="ceff6-108">For example, this configuration file installs all the Microsoft 365 Apps for enterprise products except Publisher:</span></span>
+<span data-ttu-id="5347a-106">安裝適用于企業的 Microsoft 365 應用程式時，您可以排除特定產品。</span><span class="sxs-lookup"><span data-stu-id="5347a-106">When installing Microsoft 365 Apps for enterprise, you can exclude specific products.</span></span> <span data-ttu-id="5347a-107">方法是依照利用 ODT 安裝 Office 的步驟進行，但在組態檔中加入 ExcludeApp 元素。</span><span class="sxs-lookup"><span data-stu-id="5347a-107">To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file.</span></span> <span data-ttu-id="5347a-108">例如，此設定檔案會為所有 Microsoft 365 應用程式安裝企業產品（Publisher 除外）：</span><span class="sxs-lookup"><span data-stu-id="5347a-108">For example, this configuration file installs all the Microsoft 365 Apps for enterprise products except Publisher:</span></span>
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -36,6 +36,6 @@ ms.locfileid: "49086147"
 </Add>
 ```
 
-[<span data-ttu-id="ceff6-109">Office 部署工具概觀</span><span class="sxs-lookup"><span data-stu-id="ceff6-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
+[<span data-ttu-id="5347a-109">Office 部署工具概觀</span><span class="sxs-lookup"><span data-stu-id="5347a-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
   
 
