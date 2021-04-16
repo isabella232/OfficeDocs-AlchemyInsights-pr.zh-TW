@@ -2,7 +2,7 @@
 title: 取得 Microsoft 365 教育版方案
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4979"
-ms.openlocfilehash: 0f88a44e92a1bf773ee900b1ad6ba2d349f08af0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52fa2cce9a47574ad4c44f512616c213c70fe378
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706946"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812059"
 ---
 # <a name="get-the-microsoft-365-education-plans"></a>取得 Microsoft 365 教育版方案
 
-如果您的機構已符合 Microsoft 365 教育版的資格，您可以從 **Microsoft 365 系統管理中心**新增 A1、A3 或 A5 訂閱。 
+如果您的機構已符合 Microsoft 365 教育版的資格，您可以從 **Microsoft 365 系統管理中心** 新增 A1、A3 或 A5 訂閱。 
 
 1. 移至 [帳單] > [產品與服務]**[](https://go.microsoft.com/fwlink/p/?linkid=868433)**。
 

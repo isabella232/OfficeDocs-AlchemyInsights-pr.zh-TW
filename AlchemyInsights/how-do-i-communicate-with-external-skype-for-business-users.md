@@ -2,7 +2,7 @@
 title: 如何與外部商務用 Skype 使用者通訊
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: f5e1e597067efff58872a5f0080bb18c42af648e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9580a1e9f850726210f403a5dc6c84cd9a7df196
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781850"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811267"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>允許與商務用 Skype 的外部通訊 
 

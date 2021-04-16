@@ -2,7 +2,7 @@
 title: 修正 USB 印表機問題
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 042a8e3bb02046f41a5e81653b08058f0e6626b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677486"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812707"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>修正 USB 印表機連線問題
 
@@ -31,7 +31,7 @@ ms.locfileid: "47677486"
 
 1. 在 [設定] 中移除印表機：
     1. 將印表機的 USB 電纜從您的電腦上拔出。
-    2. 選取 [**啟動**  >  **設定**  >  **裝置**  >  的**印表機 & 掃描**程式]。
+    2. 選取 [**啟動**  >  **設定**  >  **裝置**  >  的 **印表機 & 掃描** 程式]。
     3. 在 [ **印表機 & 掃描器**] 底下，選取您要疑難排解的印表機。 選取 [ **移除裝置**]。 按照指示完全移除印表機。
 2. 移除所有協力廠商印表機製造商軟體：
     1. 選取 [**啟動**  >  **設定**  >  **應用程式**]。

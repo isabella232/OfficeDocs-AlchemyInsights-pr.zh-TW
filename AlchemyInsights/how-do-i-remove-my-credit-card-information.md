@@ -2,7 +2,7 @@
 title: 如何移除我的信用卡資訊？
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,16 +14,16 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: d1772c8060adf49f39269198e169e56b53bb8cca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: da6089404550d8025e4a4df3689f73f382603d65
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781814"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811195"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>如何移除我的信用卡資訊？
 
-1. 在 Microsoft 365 系統管理中心，移至 [帳單]**** \> [付款方式][](https://go.microsoft.com/fwlink/p/?linkid=2018806) 頁面。
+1. 在 Microsoft 365 系統管理中心，移至 [帳單] \> [付款方式][](https://go.microsoft.com/fwlink/p/?linkid=2018806) 頁面。
 
 2. 在 [ **支付方式** ] 頁面上，挑選要刪除的信用卡或銀行帳戶。
 

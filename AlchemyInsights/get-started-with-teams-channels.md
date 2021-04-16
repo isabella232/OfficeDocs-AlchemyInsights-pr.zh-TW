@@ -2,7 +2,7 @@
 title: Teams 頻道入門
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002512"
 - "5036"
-ms.openlocfilehash: d7d161757a7cec0e4fcdd0885f94ec3304d91d55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87c939ba7349c60fc6c6bc95bf19425d6593baf5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707198"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812167"
 ---
 # <a name="get-started-with-teams-channels"></a>Teams 頻道入門
 

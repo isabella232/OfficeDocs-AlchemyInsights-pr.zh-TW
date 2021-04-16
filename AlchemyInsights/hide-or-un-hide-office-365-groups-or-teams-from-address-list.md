@@ -2,7 +2,7 @@
 title: 從通訊清單隱藏或取消隱藏 Office 365 群組或小組
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002947"
 - "5642"
-ms.openlocfilehash: 1204b9f45fe34015f72c559f77674e980d28c822
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12e221c69775f3dfeed1781b70d3061e1ca0ac3b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782318"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811447"
 ---
 # <a name="hide-or-un-hide-office-365-groups-or-teams-from-address-list"></a>從通訊清單隱藏或取消隱藏 Office 365 群組或小組
 

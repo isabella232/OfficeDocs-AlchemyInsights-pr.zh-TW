@@ -2,7 +2,7 @@
 title: 修正應用程式的顯示語言
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001477"
 - "3508"
-ms.openlocfilehash: afe98f78654ba84a33f1bc3de0cf97bd22ccdb05
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55b2ef2b47ce2451133341f7a58d7d3f3e114bfe
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730078"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812851"
 ---
 # <a name="fix-the-display-language-of-apps"></a>修正應用程式的顯示語言
 

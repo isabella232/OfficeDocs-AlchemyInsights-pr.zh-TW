@@ -2,7 +2,7 @@
 title: 修正 Windows 10 中的藍牙問題
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001475"
 - "3506"
-ms.openlocfilehash: 7e7a397a1f6777972a81bcbb6bffa1c98d8370a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f20bf4a642e019c7901e988a027e0220f0f1b07b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730150"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812923"
 ---
 # <a name="fix-bluetooth-problems-in-windows-10"></a>修正 Windows 10 中的藍牙問題
 
@@ -33,11 +33,11 @@ ms.locfileid: "47730150"
 
 1. 在 [裝置管理員] 中，按一下 [ **藍牙**]，然後按一下可能包含 "收音機" 一字 ") 的藍牙介面卡名稱 (。
 
-2. 長按 (或以滑鼠右鍵按一下藍牙配接器) ，然後按一下 [自動**更新驅動程式**  >  **搜尋] 以更新的驅動程式軟體**。 遵循步驟，然後按一下 [ **關閉**]。
+2. 長按 (或以滑鼠右鍵按一下藍牙配接器) ，然後按一下 [自動 **更新驅動程式**  >  **搜尋] 以更新的驅動程式軟體**。 遵循步驟，然後按一下 [ **關閉**]。
 
       - 如果 Windows 找不到新的藍牙驅動程式，請造訪電腦製造商的網站，並從那裡下載最新的藍牙驅動程式。
 
-    - 下載後，請按一下 [**更新驅動**程式  >  **] 流覽「我的電腦以取得驅動程式軟體**」  >  **流覽**存放驅動程式檔案所在的位置。 >**確定**  >  **] 下一步**，然後依照安裝的步驟進行安裝。
+    - 下載後，請按一下 [**更新驅動** 程式  >  **] 流覽「我的電腦以取得驅動程式軟體**」  >  **流覽** 存放驅動程式檔案所在的位置。 >**確定**  >  **] 下一步**，然後依照安裝的步驟進行安裝。
 
 3. 安裝更新的驅動程式後，請重新開機電腦，然後檢查是否修正連線問題。
 

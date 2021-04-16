@@ -2,7 +2,7 @@
 title: HIPPA 合規性與 Office 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002430"
 - "4720"
-ms.openlocfilehash: ea0d01150f7dbf4d9788deb3430bc27862a54c45
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f98c725e2624ddb584dc62321ce48de41e4a127
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782148"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811411"
 ---
 # <a name="hippa-compliance-and-office-365"></a>HIPPA 合規性與 Office 365
 
@@ -25,9 +25,9 @@ ms.locfileid: "47782148"
 
 請參閱下列資源以取得其他資訊：
 
-- 如需 **HIPAA 和 HITECH 法 概觀**，請參閱[健康保險流通與責任法案 (HIPAA) 與 HITECH 法](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide)。
+- 如需 **HIPAA 和 HITECH 法 概觀**，請參閱 [健康保險流通與責任法案 (HIPAA) 與 HITECH 法](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide)。
 
-- **使用[合規性分數](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide#use-microsoft-compliance-score-to-assess-your-risk)** 來評估風險。
+- **使用 [合規性分數](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide#use-microsoft-compliance-score-to-assess-your-risk)** 來評估風險。
 
 - **Office 365 合規性方案文件**，請參閱 [Office 365、Office 365 美國政府和 Office 365 美國政府國防部](https://go.microsoft.com/fwlink/p/?LinkID=2077751)。
 
