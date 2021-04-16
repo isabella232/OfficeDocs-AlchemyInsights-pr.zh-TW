@@ -2,7 +2,7 @@
 title: 設定電子郵件轉寄
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 4ec122967a93f707478e05ac7874cbc884a88c84
-ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
+ms.openlocfilehash: a7fba259375c667ff2e0f14a03972e102468cd27
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50037176"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787128"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>檢查信箱的電子郵件轉送設定
 
