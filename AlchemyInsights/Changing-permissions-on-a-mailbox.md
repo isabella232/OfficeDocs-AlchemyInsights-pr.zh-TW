@@ -2,7 +2,7 @@
 title: 變更信箱的許可權
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: bdcb04923b2ece136208e38b69ed7486ffcf7fb6
-ms.sourcegitcommit: 3f0abd54b4bd161bde22b9a7f86924a9dbb59684
+ms.openlocfilehash: 0c15f7f3771c6abd69f3489d46910f43f6afb904
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49880157"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804948"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>變更信箱的許可權
 
