@@ -2,7 +2,7 @@
 title: 購買 Project 訂閱
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "4708"
-ms.openlocfilehash: 7d2739006249ee64209ee2ad39f996daf25968d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db6ae70d77ed487314168aa14c91bc1c10262472
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693294"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800385"
 ---
 # <a name="purchase-project-subscription"></a>購買 Project 訂閱
 
-系統管理員可以透過 **Microsoft 365 系統管理中心**為其組織購買 Project 訂閱。
+系統管理員可以透過 **Microsoft 365 系統管理中心** 為其組織購買 Project 訂閱。
 
 1. 移至 [帳單 **]**  >  [[購買服務](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)**]**，以檢視要為組織購買的可用訂閱。
 

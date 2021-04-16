@@ -2,7 +2,7 @@
 title: 重複登入提示/登入迴圈
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: 3a5103607cd80b1b02c5e999e80965f23b6cbc18
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb7c3a773a242e2359736c864ecedebbc95ee155
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692754"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799044"
 ---
 # <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Microsoft 365 應用程式中重複登入提示
 

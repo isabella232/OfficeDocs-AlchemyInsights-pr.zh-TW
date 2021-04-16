@@ -2,7 +2,7 @@
 title: 移除 Teams 電話撥入式會議號碼
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: 129913c77a9a603289b6e23e57b96aa4ff9628e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d78351a15886021621c81ba5900b3af5f58f308
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795739"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799296"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>移除 Teams 電話撥入式會議號碼
 
@@ -29,15 +29,15 @@ ms.locfileid: "47795739"
 
 2. 移至 **Microsoft 365 系統管理中心**。
 
-3. 移至 [系統管理中心 | Teams 和 Skype]****。
+3. 移至 [系統管理中心 | Teams 和 Skype]。
 
-4. 移至 [會議]****。
+4. 移至 [會議]。
 
-5. 移至 [會議橋接器]****。
+5. 移至 [會議橋接器]。
 
 6. 醒目提示您要設定為預設的服務收費電話號碼。
 
-7. 選取 [設定成預設值]****。
+7. 選取 [設定成預設值]。
 
 如需詳細資訊，請參閱[變更音訊會議橋接器的電話號碼](https://docs.microsoft.com/microsoftteams/change-the-phone-numbers-on-your-audio-conferencing-bridge) (部分機器翻譯)。
 

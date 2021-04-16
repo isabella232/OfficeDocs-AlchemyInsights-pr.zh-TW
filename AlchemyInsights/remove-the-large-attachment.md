@@ -2,7 +2,7 @@
 title: 移除大型附件
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 9ab6542d80ba62eb1640d0010d11ad6ae637ced9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1068f9e3b88dcc98a4d1042e923f235bf21ee727
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701670"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799224"
 ---
 # <a name="remove-the-large-attachment"></a>移除大型附件
 
@@ -27,7 +27,7 @@ ms.locfileid: "47701670"
 2. 在功能窗格中，選取 [ **寄件匣**]。 在這裡，您可以： 
     - 請刪除郵件 (選取它，然後選取 [ **刪除** ]) 。
     - 將郵件拖曳至 [草稿] 資料夾，按兩下以開啟它，並移除附件，然後選取 [ **刪除** ]) 。
-3. 如果您收到錯誤，指出 Outlook 嘗試傳輸郵件，請關閉 Outlook。 可能需要幾分鐘的時間才能結束。 若 Outlook 未關閉，請按 Ctrl + Alt + Delete，然後選取 [ **開始任務管理員**]。 在 [工作管理員] 中，選取 [ **進程** ] 索引標籤，向下滾動至 outlook.exe，然後選取 [ **結束**程式]。
+3. 如果您收到錯誤，指出 Outlook 嘗試傳輸郵件，請關閉 Outlook。 可能需要幾分鐘的時間才能結束。 若 Outlook 未關閉，請按 Ctrl + Alt + Delete，然後選取 [ **開始任務管理員**]。 在 [工作管理員] 中，選取 [ **進程** ] 索引標籤，向下滾動至 outlook.exe，然後選取 [ **結束** 程式]。
 4. Outlook 關閉後，請重新開機，並重複步驟2和3。 
 5. 移除附件後，請按一下 [**傳送/接收**  >  **離線工作**] 以繼續線上工作。 
 

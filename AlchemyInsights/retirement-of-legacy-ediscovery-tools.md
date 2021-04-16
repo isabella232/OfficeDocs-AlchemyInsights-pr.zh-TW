@@ -2,7 +2,7 @@
 title: 舊的 eDiscovery 工具退休
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 2315c4c651a83f0ecc78c0171f32aba13bc93f8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 986c78f20e7b8c303c302913d63d817a56ce2896
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727774"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51798540"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>舊的 eDiscovery 工具退休
 
@@ -43,7 +43,7 @@ ms.locfileid: "47727774"
 **退休的時程表**：
 - **2020 年7月1日** 您無法再建立新的搜尋和保留，但是您可以自行承擔執行、編輯和刪除現有的搜尋。 Microsoft 支援不再支援 EAC 中 In-Place eDiscovery & 保留。
     
-- **2020 年10月1日** In-Place eDiscovery & 保留 EAC 中的功能將置於唯讀模式，所以您只能移除現有的搜尋和保留。
+- **2020 年10月1日** In-Place EDiscovery & 保留 EAC 中的功能將處於唯讀模式，因此您只能移除現有的搜尋和保留。
 
 **如需詳細資訊，請參閱**：
 
