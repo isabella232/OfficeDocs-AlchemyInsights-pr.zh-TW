@@ -2,7 +2,7 @@
 title: 將我的 Outlook 連絡人同步處理到我的通訊錄
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a2f381eefcaf4b09713749035f390f65c53727
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737368"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797532"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a><span data-ttu-id="0e025-102">將我的 Outlook 連絡人同步處理到我的通訊錄</span><span class="sxs-lookup"><span data-stu-id="0e025-102">Sync my Outlook contacts to my address book</span></span>
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a><span data-ttu-id="f2ef3-102">將我的 Outlook 連絡人同步處理到我的通訊錄</span><span class="sxs-lookup"><span data-stu-id="f2ef3-102">Sync my Outlook contacts to my address book</span></span>
 
-<span data-ttu-id="0e025-103">Outlook 可讓您將連絡人匯出至 Android 上的預設 [連絡人] 應用程式。</span><span class="sxs-lookup"><span data-stu-id="0e025-103">Outlook allows you to export your contacts to the default Contacts app on Android.</span></span> <span data-ttu-id="0e025-104">這可讓您在收到來電或文字訊息時看到連絡人的名稱，並直接在預設的 [連絡人] 應用程式中查看其所有的連絡人資訊。</span><span class="sxs-lookup"><span data-stu-id="0e025-104">This allows you to see the name of a contact when you receive a call or text message, and view all of their contact information directly in the default Contacts app.</span></span>
+<span data-ttu-id="f2ef3-103">Outlook 可讓您將連絡人匯出至 Android 上的預設 [連絡人] 應用程式。</span><span class="sxs-lookup"><span data-stu-id="f2ef3-103">Outlook allows you to export your contacts to the default Contacts app on Android.</span></span> <span data-ttu-id="f2ef3-104">這可讓您在收到來電或文字訊息時看到連絡人的名稱，並直接在預設的 [連絡人] 應用程式中查看其所有的連絡人資訊。</span><span class="sxs-lookup"><span data-stu-id="f2ef3-104">This allows you to see the name of a contact when you receive a call or text message, and view all of their contact information directly in the default Contacts app.</span></span>
  
-<span data-ttu-id="0e025-105">**若要啟用此功能**：</span><span class="sxs-lookup"><span data-stu-id="0e025-105">**To enable this feature**:</span></span>
+<span data-ttu-id="f2ef3-105">**若要啟用此功能**：</span><span class="sxs-lookup"><span data-stu-id="f2ef3-105">**To enable this feature**:</span></span>
  
-1. <span data-ttu-id="0e025-106">在您的裝置上，移至 [ **設定**]。</span><span class="sxs-lookup"><span data-stu-id="0e025-106">On your device, go to **Settings**.</span></span>
+1. <span data-ttu-id="f2ef3-106">在您的裝置上，移至 [ **設定**]。</span><span class="sxs-lookup"><span data-stu-id="f2ef3-106">On your device, go to **Settings**.</span></span>
 
-2. <span data-ttu-id="0e025-107">在 [ **帳戶**] 底下，按一下您要與其同步處理的帳戶。</span><span class="sxs-lookup"><span data-stu-id="0e025-107">Under **Accounts**, tap the account you would like to sync contacts with.</span></span>
+2. <span data-ttu-id="f2ef3-107">在 [ **帳戶**] 底下，按一下您要與其同步處理的帳戶。</span><span class="sxs-lookup"><span data-stu-id="f2ef3-107">Under **Accounts**, tap the account you would like to sync contacts with.</span></span>
 
-3. <span data-ttu-id="0e025-108">切換 [ **同步處理連絡人** ] 滑杆。</span><span class="sxs-lookup"><span data-stu-id="0e025-108">Switch the **Sync Contacts** slider ON.</span></span>
+3. <span data-ttu-id="f2ef3-108">切換 [ **同步處理連絡人** ] 滑杆。</span><span class="sxs-lookup"><span data-stu-id="f2ef3-108">Switch the **Sync Contacts** slider ON.</span></span>
  
-<span data-ttu-id="0e025-109">內部部署信箱的 Microsoft 365、Outlook.com 及混合新式驗證都支援雙向連絡人匯出。</span><span class="sxs-lookup"><span data-stu-id="0e025-109">Two-way contact export is supported for Microsoft 365, Outlook.com, and hybrid modern authentication for on-premises mailboxes.</span></span> <span data-ttu-id="0e025-110">雙向支援可確保您新增的任何新連絡人或您編輯的現有連絡人會在您的裝置與您的 Outlook 帳戶之間進行同步處理。</span><span class="sxs-lookup"><span data-stu-id="0e025-110">Two-way support ensures that any new contacts you add, or existing contacts you edit, will be synced between your device and your Outlook accounts.</span></span>
+<span data-ttu-id="f2ef3-109">內部部署信箱的 Microsoft 365、Outlook.com 及混合新式驗證都支援雙向連絡人匯出。</span><span class="sxs-lookup"><span data-stu-id="f2ef3-109">Two-way contact export is supported for Microsoft 365, Outlook.com, and hybrid modern authentication for on-premises mailboxes.</span></span> <span data-ttu-id="f2ef3-110">雙向支援可確保您新增的任何新連絡人或您編輯的現有連絡人會在您的裝置與您的 Outlook 帳戶之間進行同步處理。</span><span class="sxs-lookup"><span data-stu-id="f2ef3-110">Two-way support ensures that any new contacts you add, or existing contacts you edit, will be synced between your device and your Outlook accounts.</span></span>
  
-<span data-ttu-id="0e025-111">若為舊版 Exchange 帳戶，您可以將您的連絡人匯出為儲存至裝置。</span><span class="sxs-lookup"><span data-stu-id="0e025-111">For legacy Exchange accounts, you can export your contacts to be saved to the device.</span></span> <span data-ttu-id="0e025-112">當 [ **同步處理連絡人** ] 啟用時，在 Outlook 中對連絡人所做的新增連絡人及編輯，將會儲存到裝置上的 [連絡人] 應用程式。</span><span class="sxs-lookup"><span data-stu-id="0e025-112">When **Sync Contacts** is enabled, newly added contacts and edits made to your contacts in Outlook will be saved to the Contacts app on your device.</span></span> <span data-ttu-id="0e025-113">不過，直接在裝置的 [連絡人] 應用程式中進行的編輯不會儲存至 Outlook。</span><span class="sxs-lookup"><span data-stu-id="0e025-113">However, edits made directly in your device's Contacts app will not be saved to Outlook.</span></span> <span data-ttu-id="0e025-114">請注意，我們不支援為內部部署 exchange 帳戶的 Outlook for Android 新增/編輯連絡人，因此您需要從不同的 Outlook 用戶端管理您的連絡人。</span><span class="sxs-lookup"><span data-stu-id="0e025-114">Note that we do not support adding/editing contacts from Outlook for Android for on-premises exchange accounts, so you will need to manage your contacts from a different Outlook client.</span></span>
+<span data-ttu-id="f2ef3-111">若為舊版 Exchange 帳戶，您可以將您的連絡人匯出為儲存至裝置。</span><span class="sxs-lookup"><span data-stu-id="f2ef3-111">For legacy Exchange accounts, you can export your contacts to be saved to the device.</span></span> <span data-ttu-id="f2ef3-112">當 [ **同步處理連絡人** ] 啟用時，在 Outlook 中對連絡人所做的新增連絡人及編輯，將會儲存到裝置上的 [連絡人] 應用程式。</span><span class="sxs-lookup"><span data-stu-id="f2ef3-112">When **Sync Contacts** is enabled, newly added contacts and edits made to your contacts in Outlook will be saved to the Contacts app on your device.</span></span> <span data-ttu-id="f2ef3-113">不過，直接在裝置的 [連絡人] 應用程式中進行的編輯不會儲存至 Outlook。</span><span class="sxs-lookup"><span data-stu-id="f2ef3-113">However, edits made directly in your device's Contacts app will not be saved to Outlook.</span></span> <span data-ttu-id="f2ef3-114">請注意，我們不支援為內部部署 exchange 帳戶的 Outlook for Android 新增/編輯連絡人，因此您需要從不同的 Outlook 用戶端管理您的連絡人。</span><span class="sxs-lookup"><span data-stu-id="f2ef3-114">Note that we do not support adding/editing contacts from Outlook for Android for on-premises exchange accounts, so you will need to manage your contacts from a different Outlook client.</span></span>
  
-<span data-ttu-id="0e025-115">目前不支援 GMAIL 和 iCloud 的連絡人同步處理。</span><span class="sxs-lookup"><span data-stu-id="0e025-115">For now, contact sync for GMAIL and iCloud is not supported.</span></span>
+<span data-ttu-id="f2ef3-115">目前不支援 GMAIL 和 iCloud 的連絡人同步處理。</span><span class="sxs-lookup"><span data-stu-id="f2ef3-115">For now, contact sync for GMAIL and iCloud is not supported.</span></span>
  
-<span data-ttu-id="0e025-116">如果您想要移除這些同步處理的連絡人，您可以隨時切換 **同步處理連絡人** ，並將其從通訊錄中移除。</span><span class="sxs-lookup"><span data-stu-id="0e025-116">If you'd like to remove these synced contacts, you can toggle **Sync Contacts** at any time and they will be removed from your address book.</span></span>
+<span data-ttu-id="f2ef3-116">如果您想要移除這些同步處理的連絡人，您可以隨時切換 **同步處理連絡人** ，並將其從通訊錄中移除。</span><span class="sxs-lookup"><span data-stu-id="f2ef3-116">If you'd like to remove these synced contacts, you can toggle **Sync Contacts** at any time and they will be removed from your address book.</span></span>
