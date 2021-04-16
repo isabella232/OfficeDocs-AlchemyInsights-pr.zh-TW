@@ -2,7 +2,7 @@
 title: 管理組織的全域通訊清單和離線通訊錄
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002895"
 - "5550"
-ms.openlocfilehash: a15864f34433695b61ea040abd3032d234920653
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c6ad2fcb85ef68c42cea11ebe0d1564e957b4720
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812682"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794823"
 ---
 # <a name="managing-organization-global-address-list-gal-and-offline-address-book-oab"></a>管理組織全域通訊清單 (GAL) 和離線通訊錄 (OAB)
 

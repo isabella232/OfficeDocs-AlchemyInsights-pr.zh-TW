@@ -2,7 +2,7 @@
 title: Microsoft 和商務帳戶
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002448"
 - "4747"
-ms.openlocfilehash: 132eec1f28db4877c3b85f8bb162d5bc5d9ec92d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1501b66c12e06aaa2aa91e3dc1b78c959a42a144
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742194"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794283"
 ---
 # <a name="microsoft-and-business-accounts"></a>Microsoft 和商務帳戶
 
 您的 Microsoft 帳戶與您的 Microsoft 365 或 Office 365 帳戶不同。
 
 - **MSA (Microsoft 帳戶)** 是個人帳戶，通常用於 outlook.com、Hotmail.com 或 live.com 電子郵件地址來存取各種 Microsoft 裝置和服務，例如登入 Windows 電腦、Skype、Outlook.com、Windows Phone 及 Xbox LIVE。
-- **Microsoft 365 或 Office 365 帳戶**是公司或學校帳戶，通常是用來登入 Office 365 入口網站 (portal.office.com)。 這是和您的 Microsoft 365 或 Office 365 訂閱相關聯的帳戶。
+- **Microsoft 365 或 Office 365 帳戶** 是公司或學校帳戶，通常是用來登入 Office 365 入口網站 (portal.office.com)。 這是和您的 Microsoft 365 或 Office 365 訂閱相關聯的帳戶。
 
 其他資訊：
 
