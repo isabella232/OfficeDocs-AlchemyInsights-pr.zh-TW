@@ -2,7 +2,7 @@
 title: 疑難排解 OneNote 同步處理問題
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: 2dba7bf8e6d8293e7447840941a063b343774a53
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b59105a5c47d7f2b119d017c2b3dc35729dbbdd7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749793"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782727"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>疑難排解 OneNote 同步問題
 

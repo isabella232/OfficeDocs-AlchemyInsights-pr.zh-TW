@@ -2,7 +2,7 @@
 title: 了解您的帳單
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791427"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782682"
 ---
 # <a name="understand-billing-amount"></a>瞭解計費金額
 
@@ -70,7 +70,7 @@ EA 客戶不提供此優惠。 但是，如果客戶有一個免費帳戶，並�
 
 **如何驗證免費服務是否有效或何時到期？**
 
-在 [Ibiza 入口網站] > [訂閱] > [概述] 頁面 > 向下滾動至 12 個月的免費服務，然後按一下 [資訊] 圖示。 這將顯示免費服務過期的日期 **注意** ：沒有 V1 服務是 Azure 免費包含服務的一部分。 如需免費服務的最新清單，請參閱 [12 個月免費的產品](http://www.microsoftazuresponsorships.com/)
+在 [Ibiza 入口網站] > [訂閱] > [概述] 頁面 > 向下滾動至 12 個月的免費服務，然後按一下 [資訊] 圖示。 這將顯示免費服務過期的日期 **注意**：沒有 V1 服務是 Azure 免費包含服務的一部分。 如需免費服務的最新清單，請參閱 [12 個月免費的產品](http://www.microsoftazuresponsorships.com/)
 
 其他常見問題： [免費帳戶常見問題](https://azure.microsoft.com/free/free-account-faq/)
 
