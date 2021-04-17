@@ -2,7 +2,7 @@
 title: 自助購買問題
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 676f8807db95d50e1e714bcf0480e7a8802f2b06
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6294456c9e6c61e52da5e02a8f2e2ccee9fa1323
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739996"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835622"
 ---
 # <a name="self-service-purchase"></a>自助購買
 

@@ -2,7 +2,7 @@
 title: 在桌面上放置應用程式
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e04a6c9d29df92d65d120e6f9907cb82661fc912
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768238"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835838"
 ---
 # <a name="put-apps-on-the-desktop"></a>在桌面上放置應用程式
 
@@ -27,4 +27,4 @@ ms.locfileid: "47768238"
 
 `shell:appsfolder`
 
-這會在檔案**瀏覽器**中開啟**應用程式**資料夾。 您現在可以將應用程式圖示拖放至桌面。
+這會在檔案 **瀏覽器** 中開啟 **應用程式** 資料夾。 您現在可以將應用程式圖示拖放至桌面。
