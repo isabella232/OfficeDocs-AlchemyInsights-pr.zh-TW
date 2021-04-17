@@ -2,7 +2,7 @@
 title: 不使用密碼登入 Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1c03f00f7b41ea16d3106b19b998edeea6114603
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719944"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830537"
 ---
 # <a name="sign-in-to-windows-10-without-using-a-password"></a>不使用密碼登入 Windows 10
 
@@ -45,4 +45,4 @@ ms.locfileid: "47719944"
 
     ![使用者必須輸入 [使用者名稱] 和 [密碼] 選項。](media/users-must-enter-username.png)
 
-5. 按一下 **[確定]**。 系統會要求您輸入並確認您所選取之帳戶的密碼。 按一下 [確定]**** 完成。 下次 Windows 10 開始時，它會自動登入您選取的帳戶。
+5. 按一下 **[確定]**。 系統會要求您輸入並確認您所選取之帳戶的密碼。 按一下 [確定] 完成。 下次 Windows 10 開始時，它會自動登入您選取的帳戶。

@@ -2,7 +2,7 @@
 title: 隔離區中遺失的電子郵件
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 55ed9a92675939c05477fbf6d12bbedd6eb931d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43f9a1f03084bf9adab706b3f77eff1d1db888ca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673705"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831725"
 ---
 # <a name="missing-emails-in-quarantine"></a>隔離中遺失的電子郵件 "
 
@@ -32,7 +32,7 @@ ms.locfileid: "47673705"
 - **收件者電子郵件地址**：單一收件者的電子郵件地址。
 - **主旨**：使用郵件的完整主旨。 搜尋時不會區分大小寫。
 
-輸入搜尋準則之後，請按一下 [重新整理按鈕重新整理] ![ ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **Refresh**以篩選結果。  
+輸入搜尋準則之後，請按一下 [重新整理按鈕重新整理] ![ ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) 以篩選結果。  
 
 您用來在隔離區中查看及管理郵件和檔案的 Cmdlet 如下：
 - [Delete-Get-quarantinemessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)

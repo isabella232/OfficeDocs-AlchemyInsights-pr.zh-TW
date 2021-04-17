@@ -2,7 +2,7 @@
 title: 在 Microsoft Intune 中註冊 Android 裝置的問題疑難排解
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,12 +13,12 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: cc8c68a1e838f67c4510002b2c7ff5294a4649fe
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 08620a44dcf693482c65ff05e19f11870f67afbe
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708989"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830933"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>在 Microsoft Intune 中註冊 Android 裝置的問題疑難排解
 

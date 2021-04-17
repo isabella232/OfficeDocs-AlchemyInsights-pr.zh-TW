@@ -2,7 +2,7 @@
 title: Office 郵件-在您的帳戶中找不到的產品，無法用來啟用
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3418"
 - "9001424"
-ms.openlocfilehash: 857118b1c97a2971ff8ec6a055ae16efeb47a5ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb4104f8d687bd9566cb0a2fd36192888b5c8484
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773334"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830501"
 ---
 # <a name="fixing-the-microsoft-365-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>修正 Microsoft 365 應用程式「我們在您的帳戶中找到的產品不能用來啟用」訊息
 
@@ -32,6 +32,6 @@ ms.locfileid: "47773334"
 
 如需共用電腦案例，請參閱 [疑難排解 Microsoft 365 應用程式的共用電腦啟用問題（適用于企業](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation)）。
 
-如需詳細資訊，請參閱： 
+如需其他資訊，請參閱： 
 - [當我開啟 Microsoft 365 應用程式時出現訂閱通知](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 - [疑難排解 Office 啟用問題](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)

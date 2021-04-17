@@ -2,7 +2,7 @@
 title: 遺漏的記事
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2501"
-ms.openlocfilehash: 7a7e70de2ec1ef5158d8149b635ce7f90814c6b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8dd9e2a36fb89c10dd610e275cf7c42b8b093d5f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667185"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831617"
 ---
 # <a name="missing-notes-in-notebook"></a>筆記本中遺失的記事
 

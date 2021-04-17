@@ -2,7 +2,7 @@
 title: OneNote 主題全部捕捉
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: d37f114c8349bcd1d6c3c2d896c54f3a31fada66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb3e0a729b34e46123fe66f6ef95f376a1a9707c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729142"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831509"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>使用 OneNote 的常見問題和解析度
 
