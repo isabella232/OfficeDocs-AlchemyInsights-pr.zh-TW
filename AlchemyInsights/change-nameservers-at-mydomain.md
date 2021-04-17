@@ -2,7 +2,7 @@
 title: 在 MyDomain 變更名稱伺服器
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5862"
 - "14"
-ms.openlocfilehash: f3c2750f77b88b94d2eeadfe3740d325c3d39e23
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9bbdf761d3a52bbbff3255730524dbd7defdb71d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682259"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818711"
 ---
-# <a name="change-nameservers-at-mydomain"></a><span data-ttu-id="acfb3-102">在 MyDomain 變更名稱伺服器</span><span class="sxs-lookup"><span data-stu-id="acfb3-102">Change nameservers at MyDomain</span></span>
+# <a name="change-nameservers-at-mydomain"></a><span data-ttu-id="9f13f-102">在 MyDomain 變更名稱伺服器</span><span class="sxs-lookup"><span data-stu-id="9f13f-102">Change nameservers at MyDomain</span></span>
 
-[<span data-ttu-id="acfb3-103">變更名稱伺服器以使用 MyDomain 設定 Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="acfb3-103">Change nameservers to setup Microsoft 365 with MyDomain</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-mydomain?view=o365-worldwide)
+[<span data-ttu-id="9f13f-103">變更名稱伺服器以使用 MyDomain 設定 Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="9f13f-103">Change nameservers to setup Microsoft 365 with MyDomain</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-mydomain?view=o365-worldwide)
 
-<span data-ttu-id="acfb3-104">如需其他網域的問題，請嘗試[網域常見問題集](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="acfb3-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="9f13f-104">如需其他網域的問題，請嘗試[網域常見問題集](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="9f13f-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>

@@ -2,7 +2,7 @@
 title: 變更共用信箱傳送成行為
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: f2cc1d4139fb017da2e483ca5cbb7ed14a44f65a
-ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
+ms.openlocfilehash: cf99799582029193805d36bd577228b3ea7ccc33
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50075852"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817935"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="5e01a-102">變更共用信箱傳送成行為</span><span class="sxs-lookup"><span data-stu-id="5e01a-102">Changing shared mailbox Send As behavior</span></span>
+# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="33fc5-102">變更共用信箱傳送成行為</span><span class="sxs-lookup"><span data-stu-id="33fc5-102">Changing shared mailbox Send As behavior</span></span>
 
-<span data-ttu-id="5e01a-p101">根據預設，從共用信箱寄出的郵件不會儲存至共用信箱的 [寄件備份] 資料夾。不過，這些郵件會儲存到寄件者的 [寄件備份] 資料夾。</span><span class="sxs-lookup"><span data-stu-id="5e01a-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
+<span data-ttu-id="33fc5-p101">根據預設，從共用信箱寄出的郵件不會儲存至共用信箱的 [寄件備份] 資料夾。不過，這些郵件會儲存到寄件者的 [寄件備份] 資料夾。</span><span class="sxs-lookup"><span data-stu-id="33fc5-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
   
-<span data-ttu-id="5e01a-105">如果您希望所有成員都看到已傳送的電子郵件，請在 Microsoft 365 系統管理中心中編輯共用信箱詳細資料，然後選擇 [ **已傳送的專案**] [ \> **編輯**]。</span><span class="sxs-lookup"><span data-stu-id="5e01a-105">If you want all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
+<span data-ttu-id="33fc5-105">如果您希望所有成員都看到已傳送的電子郵件，請在 Microsoft 365 系統管理中心中編輯共用信箱詳細資料，然後選擇 [ **已傳送的專案**] [ \> **編輯**]。</span><span class="sxs-lookup"><span data-stu-id="33fc5-105">If you want all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
   
-<span data-ttu-id="5e01a-106">若要深入瞭解，請參閱 [設定共用信箱設定](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies)。</span><span class="sxs-lookup"><span data-stu-id="5e01a-106">To read more, see [Configure shared mailbox settings](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies).</span></span>
+<span data-ttu-id="33fc5-106">若要深入瞭解，請參閱 [設定共用信箱設定](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies)。</span><span class="sxs-lookup"><span data-stu-id="33fc5-106">To read more, see [Configure shared mailbox settings](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies).</span></span>
   

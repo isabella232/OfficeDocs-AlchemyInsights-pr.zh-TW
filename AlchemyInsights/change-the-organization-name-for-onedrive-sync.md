@@ -2,7 +2,7 @@
 title: 變更 OneDrive 同步處理用戶端的組織名稱
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003077"
 - "5850"
-ms.openlocfilehash: 8e474276633bba2895338fd0c0a5903df1ddf637
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca545ba51e39209f3302acdee1c24048515e2c1b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756706"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818315"
 ---
-# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a><span data-ttu-id="19c88-102">變更 OneDrive 同步處理用戶端的組織名稱</span><span class="sxs-lookup"><span data-stu-id="19c88-102">Change the organization name for the OneDrive sync client</span></span>
+# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a><span data-ttu-id="764aa-102">變更 OneDrive 同步處理用戶端的組織名稱</span><span class="sxs-lookup"><span data-stu-id="764aa-102">Change the organization name for the OneDrive sync client</span></span>
 
-<span data-ttu-id="19c88-103">OneDrive 使用租用戶系統管理員設定的組織名稱。</span><span class="sxs-lookup"><span data-stu-id="19c88-103">OneDrive uses the organization name set by a tenant administrator.</span></span>  <span data-ttu-id="19c88-104">您可以[變更貴組織的地址、技術連絡人等等](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more) \(部分機器翻譯\)。</span><span class="sxs-lookup"><span data-stu-id="19c88-104">You can [change your organization's address, technical contact, and more](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).</span></span> <span data-ttu-id="19c88-105">一旦針對租用戶執行此變更之後，OneDrive 同步處理用戶端就不會反映新名稱，直到使用者取消連結並重新連結他們的 OneDrive 帳戶為止。</span><span class="sxs-lookup"><span data-stu-id="19c88-105">Once that change is performed for the tenant, the OneDrive sync client will not reflect the new name until users unlink and relink their OneDrive account.</span></span>
+<span data-ttu-id="764aa-103">OneDrive 使用租用戶系統管理員設定的組織名稱。</span><span class="sxs-lookup"><span data-stu-id="764aa-103">OneDrive uses the organization name set by a tenant administrator.</span></span>  <span data-ttu-id="764aa-104">您可以[變更貴組織的地址、技術連絡人等等](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more) \(部分機器翻譯\)。</span><span class="sxs-lookup"><span data-stu-id="764aa-104">You can [change your organization's address, technical contact, and more](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).</span></span> <span data-ttu-id="764aa-105">一旦針對租用戶執行此變更之後，OneDrive 同步處理用戶端就不會反映新名稱，直到使用者取消連結並重新連結他們的 OneDrive 帳戶為止。</span><span class="sxs-lookup"><span data-stu-id="764aa-105">Once that change is performed for the tenant, the OneDrive sync client will not reflect the new name until users unlink and relink their OneDrive account.</span></span>
 
-<span data-ttu-id="19c88-106">若要取消連結帳戶：</span><span class="sxs-lookup"><span data-stu-id="19c88-106">To unlink the account:</span></span>
+<span data-ttu-id="764aa-106">若要取消連結帳戶：</span><span class="sxs-lookup"><span data-stu-id="764aa-106">To unlink the account:</span></span>
 
-1. <span data-ttu-id="19c88-107">選取工作列最右側的藍色 OneDrive 雲端圖示，然後選取 [更多] > [設定] > [帳戶]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="19c88-107">Select the blue OneDrive cloud icon at the far right of the taskbar, then select  **More > Settings > Account**.</span></span>
-2. <span data-ttu-id="19c88-108">找到您要取消連結的帳戶，選取 [取消連結此電腦]\*\*\*\*，然後 [取消連結帳戶]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="19c88-108">Find the account you want to unlink and select  **Unlink this PC**, and then  **Unlink account**.</span></span>
+1. <span data-ttu-id="764aa-107">選取工作列最右側的藍色 OneDrive 雲端圖示，然後選取 [更多] > [設定] > [帳戶]。</span><span class="sxs-lookup"><span data-stu-id="764aa-107">Select the blue OneDrive cloud icon at the far right of the taskbar, then select  **More > Settings > Account**.</span></span>
+2. <span data-ttu-id="764aa-108">找到您要取消連結的帳戶，選取 [取消連結此電腦]，然後 [取消連結帳戶]。</span><span class="sxs-lookup"><span data-stu-id="764aa-108">Find the account you want to unlink and select  **Unlink this PC**, and then  **Unlink account**.</span></span>
 
-<span data-ttu-id="19c88-109">若要重新連結帳戶，請在 [設定] 中的 [帳戶]\*\*\*\* 索引標籤上，選取 [新增帳戶]\*\*\*\*，然後重新登入 OneDrive。</span><span class="sxs-lookup"><span data-stu-id="19c88-109">To relink the account, select  **Add an account** from the  **Account** tab in Settings, and sign back into OneDrive.</span></span>
+<span data-ttu-id="764aa-109">若要重新連結帳戶，請在 [設定] 中的 [帳戶] 索引標籤上，選取 [新增帳戶]，然後重新登入 OneDrive。</span><span class="sxs-lookup"><span data-stu-id="764aa-109">To relink the account, select  **Add an account** from the  **Account** tab in Settings, and sign back into OneDrive.</span></span>
