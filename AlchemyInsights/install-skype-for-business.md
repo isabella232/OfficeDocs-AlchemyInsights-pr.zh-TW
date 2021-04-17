@@ -2,7 +2,7 @@
 title: 安裝商務用 Skype
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,15 +15,15 @@ ms.custom:
 - "9000741"
 - "2669"
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: fb58fd3f4250835e1710f07a12cbdc907e9baafa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51e9c110fd1874d688b92e1d8098186eddf29953
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778250"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832049"
 ---
-# <a name="install-skype-for-business"></a><span data-ttu-id="440d7-102">安裝商務用 Skype</span><span class="sxs-lookup"><span data-stu-id="440d7-102">Install Skype for Business</span></span>
+# <a name="install-skype-for-business"></a><span data-ttu-id="769ea-102">安裝商務用 Skype</span><span class="sxs-lookup"><span data-stu-id="769ea-102">Install Skype for Business</span></span>
 
-<span data-ttu-id="440d7-103">您可以執行  [下列步驟，](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)以安裝商務用 Skype。</span><span class="sxs-lookup"><span data-stu-id="440d7-103">You can install Skype for Business by following the steps  [here](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx).</span></span>
+<span data-ttu-id="769ea-103">您可以執行  [下列步驟，](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)以安裝商務用 Skype。</span><span class="sxs-lookup"><span data-stu-id="769ea-103">You can install Skype for Business by following the steps  [here](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx).</span></span>
 
-<span data-ttu-id="440d7-104">如需卸載的相關資訊，請參閱 [卸載商務用 Skype](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)。</span><span class="sxs-lookup"><span data-stu-id="440d7-104">For information about uninstalling, see [Uninstall Skype for Business](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902).</span></span>
+<span data-ttu-id="769ea-104">如需卸載的相關資訊，請參閱 [卸載商務用 Skype](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)。</span><span class="sxs-lookup"><span data-stu-id="769ea-104">For information about uninstalling, see [Uninstall Skype for Business](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902).</span></span>
