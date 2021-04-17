@@ -2,7 +2,7 @@
 title: Office 365 的政府方案和價格
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 6b2c6095521b185c4863d6a7396377834835b320
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05c047f9ca732dcb99ba57314bb591baa5c64431
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729502"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829151"
 ---
 # <a name="office-365-government-plans"></a>Office 365 政府方案
 

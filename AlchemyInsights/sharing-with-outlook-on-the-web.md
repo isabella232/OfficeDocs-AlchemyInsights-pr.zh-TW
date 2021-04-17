@@ -2,7 +2,7 @@
 title: 使用 Outlook 網頁版共用
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "5699"
-ms.openlocfilehash: 74af770276711de42928b400173a7c378a2d4c40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb011c85c516b5de602eb4bf8e41ca94526102dd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800275"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828315"
 ---
 # <a name="sharing-with-outlook-on-the-web"></a>使用 Outlook 網頁版共用
 

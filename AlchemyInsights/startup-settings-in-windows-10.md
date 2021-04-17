@@ -2,7 +2,7 @@
 title: Windows 10 中的啟動設定
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: e49faca66785c6611dda702a381c39cdb10884f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dfae58a398db088ba00d9c2ea9788bab929ccc1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751126"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828143"
 ---
 # <a name="startup-settings-in-windows-10"></a>Windows 10 中的啟動設定
 
@@ -25,7 +25,7 @@ ms.locfileid: "47751126"
 
 1. 移至 [ [設定] > 應用程式 > 啟動](ms-settings:startupapps?activationSource=GetHelp)。
 
-2. 請確定開啟時您想要 **執行的任何**應用程式已開啟。
+2. 請確定開啟時您想要 **執行的任何** 應用程式已開啟。
 
 **新增應用程式，以在啟動時自動執行**
 
@@ -37,7 +37,7 @@ ms.locfileid: "47751126"
 
 4. 從檔案位置複製並貼上應用程式的快捷方式至 [啟動] 資料夾。
 
-**Advanced startup options (包括安全模式、UEFI 設定，以及從另一個裝置引導) **
+**Advanced startup options (包括安全模式、UEFI 設定，以及從另一個裝置引導)**
 
 1. 儲存您的工作並關閉任何開啟的檔，因為這些步驟將會重新開機您的電腦。
 

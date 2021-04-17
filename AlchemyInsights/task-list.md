@@ -2,7 +2,7 @@
 title: 工作清單
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5780"
 - "9002971"
-ms.openlocfilehash: 93721f193c20c1a8bec3c7344aefcac192c987cf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b691b9a5136c0307a739064a2b36407e349a720b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659085"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829475"
 ---
 # <a name="task-list"></a>工作清單
 

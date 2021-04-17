@@ -2,7 +2,7 @@
 title: 啟動不需要 PIN 碼的音訊會議
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002882"
 - "5496"
-ms.openlocfilehash: 2ba4dd1ef2725cf78de51ddcd8b510d90e504096
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 524d2b4d8475907fae18448120983bca8f696f7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726550"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828179"
 ---
 # <a name="start-an-audio-conference-without-a-pin"></a>啟動不需要 PIN 碼的音訊會議
 

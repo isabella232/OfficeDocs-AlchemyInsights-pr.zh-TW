@@ -2,7 +2,7 @@
 title: 使用 Boleto 付費
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: 1997b1e4f0240d132550de441affa3854c22cdc6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5aa793fd39e4c36798dab7104e63e14192c42c7c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751738"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829079"
 ---
 # <a name="como-pagar-com-boleto"></a>Como pagar com boleto
 
