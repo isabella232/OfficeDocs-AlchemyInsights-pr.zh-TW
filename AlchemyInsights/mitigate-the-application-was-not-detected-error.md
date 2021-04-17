@@ -2,7 +2,7 @@
 title: 緩解未偵測到應用程式的錯誤
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000171"
 - "1712"
-ms.openlocfilehash: 498c2ec78bc9f4a7bc7d77d12b488be2cf0bf79a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e0599f9bdf2c7d16d009627f44b3691c2c250b7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666969"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836342"
 ---
 # <a name="mitigate-the-application-was-not-detected-error"></a>緩解「未偵測到應用程式」的錯誤
 
@@ -30,8 +30,8 @@ ms.locfileid: "47666969"
 
 若要緩解此問題，請先檢查受影響的裝置，以判斷發生錯誤的情形。
 
-- 如果應用程式已於 Intune 外部更新，可以將應用程式部署設定為忽略應用程式版本。 若要這麼做，請在 [應用程式設定] > [應用程式資訊]**** 底下，將 [忽略應用程式版本]**** 設為 [是]****。
+- 如果應用程式已於 Intune 外部更新，可以將應用程式部署設定為忽略應用程式版本。 若要這麼做，請在 [應用程式設定] > [應用程式資訊] 底下，將 [忽略應用程式版本]設為 [是]。
 - 若以用戶端為目標，建議您將應用程式部署為「必要」，並確定部署的是最新版本。
-- 或者，在 iOS 平台上，您可以使用與 Apple 大量採購方案 (Volume Purchase Program) 關聯的**自動更新**功能，以設定為在新應用程式版本推出時自動更新。
+- 或者，在 iOS 平台上，您可以使用與 Apple 大量採購方案 (Volume Purchase Program) 關聯的 **自動更新** 功能，以設定為在新應用程式版本推出時自動更新。
 
 如需針對應用程式安裝問題進行疑難排解的詳細資訊，請參閱[針對應用程式安裝問題進行疑難排解](https://docs.microsoft.com/intune/troubleshoot-app-install)。

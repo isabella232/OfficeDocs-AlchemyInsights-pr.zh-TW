@@ -2,7 +2,7 @@
 title: 購買 Visio 訂閱
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "4694"
-ms.openlocfilehash: 04a82adef279f6c11789b8139621e1f456a6f394
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e42352ff36b5cf5e8b514cef96f84ef6c19d0240
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662343"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835874"
 ---
 # <a name="purchase-visio-subscription"></a>購買 Visio 訂閱
 
-系統管理員可以從 **Microsoft 365 系統管理中心**為組織購買 Visio 訂閱。
+系統管理員可以從 **Microsoft 365 系統管理中心** 為組織購買 Visio 訂閱。
 
 1. 移至 **[帳單]** > **[[購買服務]](https://go.microsoft.com/fwlink/p/?linkid=868433)** 頁面，檢視要為您的組織購買的可用訂閱。
 

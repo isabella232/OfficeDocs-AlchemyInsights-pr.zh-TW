@@ -2,7 +2,7 @@
 title: 登入 Microsoft 365 應用程式時的問題
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 02841a1b4e92eec94fc6409941d91618f02518c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236116"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836594"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>簽入 Microsoft 365 應用程式的問題
 
@@ -26,7 +26,7 @@ ms.locfileid: "48236116"
 - 若為 Windows，請參閱 [解決常見登入問題的建議](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - 若為 Mac，請參閱  [無法登入 Office 2016 For mac 應用程式](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**秘訣** 在 Windows 電腦上，我們可以為您診斷及自動修正多種常見的 Office 登入問題。 下載並執行  **[Microsoft 支援及修復](https://aka.ms/SaRA-OfficeSignInScenario)** 小幫手以使用我們的自動工具。
+**提示**：在 Windows 電腦上，我們可以為您診斷並自動修正數種常見的 Office 登入問題。 下載並執行 **[Microsoft 支援及修復小幫手](https://aka.ms/SaRA-OfficeSignInScenario)** 以使用我們的自動化工具。
 
 **附注：** 停用新式驗證 (ADAL) 或網頁帳戶管理 (WAM) 以修正登入或啟用問題  **，不建議使用此選項**。 如果使用 Office 2013 連接至 Microsoft 365 時，發生錯誤，請確定您已為 Office 用戶端 [啟用新式驗證](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  。
 

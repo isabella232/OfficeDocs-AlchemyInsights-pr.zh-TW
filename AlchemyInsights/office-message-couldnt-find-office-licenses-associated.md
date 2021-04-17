@@ -2,7 +2,7 @@
 title: Microsoft 365 應用程式訊息 - 找不到相關聯的 Office 授權
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802768"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836198"
 ---
 # <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 應用程式訊息 - 找不到相關聯的 Office 授權
 
@@ -27,9 +27,9 @@ ms.locfileid: "47802768"
 
 - 開啟 Office 應用程式，並[登出](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071)任何現有的使用者帳戶。
 
-- 移至 [Windows 設定 > 帳戶 > 電子郵件與帳戶]****，並且移除現有的工作帳戶。
+- 移至 [Windows 設定 > 帳戶 > 電子郵件與帳戶]，並且移除現有的工作帳戶。
 
-- 移至 [Windows 設定 > 帳戶 > 存取公司或學校]****，並且中斷現有的帳戶。
+- 移至 [Windows 設定 > 帳戶 > 存取公司或學校]，並且中斷現有的帳戶。
 
 - 按一下 **+** 圖示以新增或連線您的帳戶。 輸入您的認證，並等待程序完成。
 
