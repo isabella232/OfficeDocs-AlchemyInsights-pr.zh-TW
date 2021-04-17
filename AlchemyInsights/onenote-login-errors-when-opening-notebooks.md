@@ -2,7 +2,7 @@
 title: OneNote-在開啟筆記本時登入錯誤
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "2651"
 - "9000669"
-ms.openlocfilehash: c928e29d931b9deb3598377864265f9e03e5ed14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c5800abb7e6446b935551858c6c7864c4d9f0aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729286"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832661"
 ---
 # <a name="issues-signing-in-to-onenote-notebooks"></a>登入 OneNote 筆記本時的問題
 
@@ -29,6 +29,6 @@ ms.locfileid: "47729286"
 
 - 使用[Windows 認證管理員](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager)清除[Office 認證](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer)。
 
-- 在 OneNote 2016 中，選取 [**檔**  >  **帳戶**] 並**登出**所有帳戶。 使用具有有效授權的使用者帳戶再次登入。 如需詳細資訊，請參閱 [Office 的帳戶](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)。
+- 在 OneNote 2016 中，選取 [**檔**  >  **帳戶**] 並 **登出** 所有帳戶。 使用具有有效授權的使用者帳戶再次登入。 如需詳細資訊，請參閱 [Office 的帳戶](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)。
 
 - 在 [OneNote Windows] 中，選取螢幕右上角的省略號 (**...**) ，選取 [**設定**  >  **帳戶**]，並確定已列出工作或學校帳戶。

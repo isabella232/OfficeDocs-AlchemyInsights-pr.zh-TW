@@ -2,7 +2,7 @@
 title: Microsoft 365 應用程式訊息 - 我們已經發現您的訂閱有問題
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 43a0bae34c22fc99b3bebdc4999f325d76f9d0c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c7907c43fcaa74146c379c2a1cae3f43416ae7d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802696"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832877"
 ---
 # <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Microsoft 365 應用程式訊息 - 我們已經發現您的訂閱有問題
 
@@ -27,7 +27,7 @@ ms.locfileid: "47802696"
 
 - 將 [Office 授權](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)移除並重新指派給受影響的使用者。 
 
-- 開啟 Office 應用程式，移至 [檔案] > [帳戶]****，並登出所有帳戶。 使用具有有效授權的使用者帳戶再次登入。 如需詳細資訊，請參閱 [Office 的帳戶](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)。
+- 開啟 Office 應用程式，移至 [檔案] > [帳戶]，並登出所有帳戶。 使用具有有效授權的使用者帳戶再次登入。 如需詳細資訊，請參閱 [Office 的帳戶](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)。
 
 - 執行[啟用疑難排解員](https://aka.ms/SARA-OfficeActivation-Alchemy)，並重新啟動電腦。
 

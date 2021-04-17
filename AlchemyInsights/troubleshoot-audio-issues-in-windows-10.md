@@ -2,7 +2,7 @@
 title: 疑難排解 Windows 10 中的音訊問題
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750298"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833282"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>疑難排解 Windows 10 中的音訊問題
 
@@ -25,7 +25,7 @@ ms.locfileid: "47750298"
 
 1.  開啟 [疑難排解設定](ms-settings:troubleshoot)。
 
-2.  選取 [**播放音訊**]  >  **執行疑難排解**程式。
+2.  選取 [**播放音訊**]  >  **執行疑難排解** 程式。
 
 **設定預設裝置**
 
@@ -63,4 +63,4 @@ ms.locfileid: "47750298"
 
 1. 在 [裝置管理員] 中，以滑鼠右鍵按一下 (或長按) 音訊驅動程式，然後選取 [ **卸載**]。 重新開機裝置，Windows 將會嘗試重新安裝驅動程式。
 
-2. 若重新安裝驅動程式無法運作，請嘗試使用 Windows 隨附的一般音訊驅動程式。 在 [裝置管理員] 中，以滑鼠右鍵按一下 (，或長按) 音訊驅動程式 >**更新驅動程式軟體**  >  **流覽 [我的電腦] 以取得驅動程式軟體**  >  。請**從 [我的電腦] 的裝置驅動程式清單**中選取 [ **High Definition audio 裝置**]，選取 **[下一步]**，然後依照指示安裝。
+2. 若重新安裝驅動程式無法運作，請嘗試使用 Windows 隨附的一般音訊驅動程式。 在 [裝置管理員] 中，以滑鼠右鍵按一下 (，或長按) 音訊驅動程式 >**更新驅動程式軟體**  >  **流覽 [我的電腦] 以取得驅動程式軟體**  >  。請 **從 [我的電腦] 的裝置驅動程式清單** 中選取 [ **High Definition audio 裝置**]，選取 **[下一步]**，然後依照指示安裝。

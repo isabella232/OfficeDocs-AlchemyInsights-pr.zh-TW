@@ -2,7 +2,7 @@
 title: 將小組安裝為獨立或新的或現有的 Office 安裝
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: dc6c083c0f28a4724a23d829d03b9b78ea627270
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f3fb8c1430a54024c5cb00f2e002e4702d15e33c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663072"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831905"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>將小組安裝為獨立或現有的 Office 安裝或現有的 Office 安裝
 

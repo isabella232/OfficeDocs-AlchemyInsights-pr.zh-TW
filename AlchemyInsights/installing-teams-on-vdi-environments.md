@@ -2,7 +2,7 @@
 title: 在 VDI 環境上安裝團隊
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: 729eb7c0189c0c0944f15fd25f7c24807e5b04de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e0d49683fb3b0069131d396a39f2188342b3aee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663036"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831833"
 ---
 # <a name="installing-teams-on-vdi-environments"></a>在 VDI 環境上安裝團隊
 

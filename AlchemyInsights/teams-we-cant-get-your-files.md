@@ -2,7 +2,7 @@
 title: 無法取得您的檔案
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5748"
 - "9003042"
-ms.openlocfilehash: bc7370b4b6f47c9bbf532e23b0439b8204c24b70
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 833f794d079eeed7042362ac440ca85659c30625
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653421"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833318"
 ---
 # <a name="we-cant-get-your-files"></a>無法取得您的檔案
 

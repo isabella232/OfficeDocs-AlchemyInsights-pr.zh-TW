@@ -2,7 +2,7 @@
 title: 在無法正常工作的電腦上安裝 Windows
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001473"
 - "3501"
-ms.openlocfilehash: 2793234c4601c20efb1510970608816c48de1a5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e741b99dcc01aaabce001c8b8fe45161a1d3badd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696180"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831977"
 ---
 # <a name="install-windows-on-a-nonfunctional-pc"></a>在無法正常工作的電腦上安裝 Windows
 
@@ -41,10 +41,10 @@ ms.locfileid: "47696180"
 
     - 將您建立的安裝媒體連接至無法正常工作的電腦；然後將它開啟。
 
-    - 在初始設定畫面中，輸入您的語言及其他喜好設定，然後按一下 [下一步]****。 如果您沒有看到 [設定] 畫面，可能是因為您的電腦沒有設定從硬碟啟動。 如需有關如何變更電腦啟動順序的資訊，請查看電腦製造商的網站，然後再試一次。
+    - 在初始設定畫面中，輸入您的語言及其他喜好設定，然後按一下 [下一步]。 如果您沒有看到 [設定] 畫面，可能是因為您的電腦沒有設定從硬碟啟動。 如需有關如何變更電腦啟動順序的資訊，請查看電腦製造商的網站，然後再試一次。
 
-    - 按一下 [修復您的電腦]****。
+    - 按一下 [修復您的電腦]。
 
-    - 在 [選擇選項]**** 的畫面，按一下 [疑難排解]****。 您可以在該處從系統還原點還原。
+    - 在 [選擇選項] 的畫面，按一下 [疑難排解]。 您可以在該處從系統還原點還原。
 
 **重要**：如果您嘗試在功能正常的電腦上安裝 Windows，您可能會以不同的方式執行步驟 3。 如需有關不同案例的進一步指示，請參閱 [Windows 10 中的復原選項](https://support.microsoft.com/help/12415/windows-10-recovery-options)。

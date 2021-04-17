@@ -2,7 +2,7 @@
 title: 錯誤30034-4 的解決方案
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "836"
 - "2000020"
 ms.assetid: 02266d4a-f703-43da-9899-277d3664a447
-ms.openlocfilehash: 02f74a04c1f18e176b7044be1de9323109d12aac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2350a49528380683c58a69638040a41d670e1cfb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738844"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832481"
 ---
 # <a name="solutions-for-error-30034-4"></a>錯誤30034-4 的解決方案
 

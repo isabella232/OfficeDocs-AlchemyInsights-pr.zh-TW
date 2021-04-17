@@ -2,7 +2,7 @@
 title: 安裝 Office 2013 通知
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "54"
 - "1700001"
 ms.assetid: d7fb12ba-895f-45bf-9f4a-12620231d31e
-ms.openlocfilehash: f966b407fcbd70ab883027f113fe3aeb2b0f6a91
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 789b68c3cd2765ac63c59c964727f7ce2f6d6333
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755338"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833210"
 ---
 # <a name="upgrade-to-office-2016"></a>升級至 Office 2016
 

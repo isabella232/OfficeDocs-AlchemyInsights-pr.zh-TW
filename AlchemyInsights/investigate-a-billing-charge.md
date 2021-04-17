@@ -2,7 +2,7 @@
 title: 調查 Microsoft 或 MSbill.info 產生的帳單費用
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 50143ea86f07412f34830e84df5c7ce2a050f5d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b1409ba54da2354933e9202af9501868d9b1c90
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696072"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833174"
 ---
 # <a name="investigate-a-billing-charge-from-microsoft-or-msbill-dot-info"></a>調查 Microsoft 或 MSbill.info 產生的帳單費用
 
@@ -25,6 +25,6 @@ ms.locfileid: "47696072"
 
 - 從您的帳戶檢視 [[訂單記錄]](https://account.microsoft.com/billing/orders/)，比較帳戶中有問題的費用。
 
-- 檢視意外費用的**常見原因**，以及您可以採取的做法。
+- 檢視意外費用的 **常見原因**，以及您可以採取的做法。
 
 **注意**：如果您有一個以上的 Microsoft 帳戶，請登入每個帳戶以查看您的訂單記錄。

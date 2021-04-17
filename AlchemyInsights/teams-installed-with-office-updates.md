@@ -2,7 +2,7 @@
 title: 使用 Office 更新安裝的小組
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 9a09800fcc36876629c7d59182f20b5b16393ef8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36b0b1a7bf37c27304b4124157dba9aba337678c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736495"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832373"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>使用 Office 更新安裝的 Microsoft 團隊
 
@@ -29,7 +29,7 @@ Microsoft 團隊會包含在 ***新安裝*** 的 Microsoft 365 應用程式、�
 
 **附注：** 如果您不想要等待此首展排程，您可以 [遵循這些指示](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)，將團隊部署為獨立的使用者，也可以讓您的使用者自行安裝團隊 https://teams.microsoft.com/downloads 。
 
-如果您的組織未準備好部署小組，您可以從 Office 的[新](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps)安裝或[現有](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams)安裝中***排除團隊***。 如果您想要安裝團隊，但不想讓小組在安裝之後自動為使用者啟動，請參閱在 [安裝後自動啟動 [阻止 Microsoft 小組](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)]。
+如果您的組織未準備好部署小組，您可以從 Office 的 [新](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps)安裝或 [現有](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams)安裝中 ***排除團隊***。 如果您想要安裝團隊，但不想讓小組在安裝之後自動為使用者啟動，請參閱在 [安裝後自動啟動 [阻止 Microsoft 小組](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)]。
 
 若要從執行 Windows 的裝置 ***卸載小組*** ，請參閱 [卸載 Microsoft 團隊](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81)。 若要從多個目的電腦或使用者清理 Microsoft 團隊，請參閱 [Microsoft 團隊部署清除](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)。
 
