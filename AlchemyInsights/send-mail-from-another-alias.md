@@ -2,7 +2,7 @@
 title: 從其他別名傳送郵件
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 045dd451adcb66f84a1aa3f20b7c0b6550e8f2ff
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd41ecaf53d926880c5949892f7751906b549b8a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720745"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823670"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>從別名或次要位址傳送電子郵件
 

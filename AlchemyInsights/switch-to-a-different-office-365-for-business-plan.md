@@ -2,7 +2,7 @@
 title: 切換至不同的 Microsoft 365 for Business 方案
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 1bf07503828422cc85b7e3321f5ac1cb55d79c8d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 81cbfc71f5cdbf616f998212ee4eb2734b09728c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670463"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824894"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>切換至其他 Microsoft 365 for business 訂閱
 
 當您的公司變更或需要更多功能時，您可以升級為新的計畫。
   
-1. 在系統管理中心中，移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。
+1. 在系統管理中心，移至 **[帳單]** \> **[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** 頁面。
 
 2. 選取您要升級的訂閱。
 

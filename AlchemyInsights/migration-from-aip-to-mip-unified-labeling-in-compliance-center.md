@@ -2,7 +2,7 @@
 title: 從 AIP 移轉至合規性中心的 MIP/統一標籤
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 7157eada10db2443f64fb7925f408359275d75eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674317"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825362"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>從 AIP 移轉至合規性中心的 MIP/統一標籤
 
@@ -25,7 +25,7 @@ ms.locfileid: "47674317"
 
 **從 Azure 入口網站啟用保護**
 
-1. 如果您尚未這麼做，請開啟新的瀏覽器視窗，並[登入 Azure 入口網站](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal)。 瀏覽至 [Azure 資訊保護 **]** 刀鋒視窗。 例如，在中樞功能表上，按一下 [所有服務 **]**，然後在 [篩選] 方塊中開始輸入**資訊**。 選取 [Azure 資訊保護 **]**。 如果您之前未存取過 [Azure 資訊保護] 刀鋒視窗，請參閱一次性的[額外步驟](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time)以將此刀鋒視窗新增至入口網站。 若要開啟 [Azure 資訊保護] 刀鋒視窗，您必須擁有 [Azure 資訊保護進階方案](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing)或包含版權管理的 Office 365 方案。 如果您擁有這其中一項訂閱，但看到訊息指出找不到有效的訂閱，請[連絡 Microsoft 支援服務](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support)，或使用您的標準支援通道。
+1. 如果您尚未這麼做，請開啟新的瀏覽器視窗，並[登入 Azure 入口網站](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal)。 瀏覽至 [Azure 資訊保護 **]** 刀鋒視窗。 例如，在中樞功能表上，按一下 [所有服務 **]**，然後在 [篩選] 方塊中開始輸入 **資訊**。 選取 [Azure 資訊保護 **]**。 如果您之前未存取過 [Azure 資訊保護] 刀鋒視窗，請參閱一次性的[額外步驟](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time)以將此刀鋒視窗新增至入口網站。 若要開啟 [Azure 資訊保護] 刀鋒視窗，您必須擁有 [Azure 資訊保護進階方案](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing)或包含版權管理的 Office 365 方案。 如果您擁有這其中一項訂閱，但看到訊息指出找不到有效的訂閱，請[連絡 Microsoft 支援服務](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support)，或使用您的標準支援通道。
 
 2. 找到 [管理 **]** 功能表選項，然後選取 [保護啟用 **]**。 按一下 [啟用 **]**，然後確認您的動作。 啟用完成時，資訊列會顯示 [已成功完成啟動 **]**。
 

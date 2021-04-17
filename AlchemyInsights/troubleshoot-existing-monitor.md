@@ -2,7 +2,7 @@
 title: 疑難排解現有監視器
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: 2dc9a24c1d0d808e26733738cedbc32d513926a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c4d2bb64b6b5ea79d4cd585e2be85c3c17e0f76f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690702"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824570"
 ---
 # <a name="troubleshoot-an-existing-monitor"></a>疑難排解現有監視器
 
@@ -29,8 +29,8 @@ ms.locfileid: "47690702"
 
 **監視硬體疑難排解：**
 
-1. 拔下將電腦連接至監視器的電纜，然後再將它插入。
-2. 中斷電腦 (的任何非必要裝置，例如配接器或塢站) 。
+1. 拔除連接電腦與監視器的纜線，然後插回。
+2. 中斷任何非必要裝置與電腦 (例如介面卡或 Dock) 的連接。
 
 **如果您最近在您的電腦上安裝更新，您可以復原您的顯示驅動程式：**
 

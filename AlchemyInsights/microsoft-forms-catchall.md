@@ -2,7 +2,7 @@
 title: Microsoft 表單全部
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2549"
 - "9000672"
-ms.openlocfilehash: eac1aea5cbd0117db0555ff6b4578d7242072d11
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5857219d88b7a6c5693940df523b6920abad4cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724930"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823814"
 ---
 # <a name="get-information-about-microsoft-forms"></a>取得 Microsoft Forms 的相關資訊
 

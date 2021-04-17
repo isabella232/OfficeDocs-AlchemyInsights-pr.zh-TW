@@ -2,7 +2,7 @@
 title: 小組登入問題
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2688"
 - "9000744"
-ms.openlocfilehash: c3c1933a00fdb4cb0a71e6cbd19f499cb789957b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f484015d8a96730443ef4b35da5ec59af2419a55
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750658"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824714"
 ---
 # <a name="troubleshooting-teams-sign-in"></a>疑難排解小組登入 
 

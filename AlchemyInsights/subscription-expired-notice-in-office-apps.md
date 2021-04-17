@@ -2,7 +2,7 @@
 title: Microsoft 365 應用程式中的訂閱到期通知
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: b13d5befc85295f625d1af0680407af885b28039
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719404"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823562"
 ---
 # <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Microsoft 365 應用程式中的訂閱到期通知
 
@@ -25,9 +25,9 @@ ms.locfileid: "47719404"
 
 - 確認您的[訂閱狀態](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription)有效，且受影響的使用者[獲指派有效的授權](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)，並且已連線至網際網路。 如果您最近已切換至新的 Microsoft 訂閱/方案，請嘗試解除安裝 Office，然後在受影響的電腦上重新安裝。
 
-- 開啟 Office 應用程式，移至 [檔案] > [帳戶]****，並登出所有帳戶。 使用具有有效授權的使用者帳戶再次登入。 如需詳細資訊，請參閱 [Office 的帳戶](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)。
+- 開啟 Office 應用程式，移至 [檔案] > [帳戶]，並登出所有帳戶。 使用具有有效授權的使用者帳戶再次登入。 如需詳細資訊，請參閱 [Office 的帳戶](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)。
 
-- 開啟 Office 應用程式，然後移至 [檔案] > [帳戶] > [更新選項] > [立即更新]**** 更新受影響電腦上的 Office。 如需詳細步驟，請參閱[安裝 Office 更新](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)。
+- 開啟 Office 應用程式，然後移至 [檔案] > [帳戶] > [更新選項] > [立即更新] 更新受影響電腦上的 Office。 如需詳細步驟，請參閱[安裝 Office 更新](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)。
 
 - 執行[啟用疑難排解員](https://aka.ms/SARA-OfficeActivation-Alchemy)，並重新啟動電腦。
 

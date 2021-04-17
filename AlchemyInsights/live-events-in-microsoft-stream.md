@@ -2,7 +2,7 @@
 title: Microsoft Stream 中的即時事件
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001511"
 - "3571"
-ms.openlocfilehash: ee67c5ccd7c8745785ef8a04bab535cbb6416995
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef42a8156a1c120b23f89969d9debd1c25c49309
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675505"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825542"
 ---
 # <a name="live-events-in-microsoft-stream"></a>Microsoft Stream 中的即時事件
 

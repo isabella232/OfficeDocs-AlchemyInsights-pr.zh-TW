@@ -2,7 +2,7 @@
 title: 切換到其他方案
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002608"
 - "7594"
-ms.openlocfilehash: 342c7334716d9e1a905b7ecec862119147bf7786
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 6fa752684dc182eda1f4ae8bcc6ec211377df1d1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683948"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824858"
 ---
 # <a name="switch-to-a-different-plan"></a>切換到其他方案
 

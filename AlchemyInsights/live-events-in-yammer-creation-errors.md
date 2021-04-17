@@ -2,7 +2,7 @@
 title: Yammer 中的即時活動建立錯誤
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002495"
 - "5112"
-ms.openlocfilehash: 1b342b17e4b91804a75c46352f3ef7d7814bfcee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 383943d670c935403fb7f4466a72474120e27e7a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675433"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825506"
 ---
 # <a name="live-events-in-yammer-creation-errors"></a>Yammer 中的即時活動建立錯誤
 
