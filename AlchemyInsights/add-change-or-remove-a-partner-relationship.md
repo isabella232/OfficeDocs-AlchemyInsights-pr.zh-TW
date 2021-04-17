@@ -2,7 +2,7 @@
 title: 新增、變更或移除夥伴關係
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "3748"
-ms.openlocfilehash: d8e5f6860a7aa40889722bd8b437bd60c1e77645
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad27f3ef8973fb9defe97343a4eda46cf96a4100
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688432"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822590"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>新增、變更或移除夥伴關係
 

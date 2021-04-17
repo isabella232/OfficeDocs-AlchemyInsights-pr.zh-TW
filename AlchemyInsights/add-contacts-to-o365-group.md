@@ -2,7 +2,7 @@
 title: 新增連絡人至 O365 群組
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "78"
 - "1200017"
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: 649a299fa03453c5255e938017ab53b578a05037
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 315ea0fd00da68210175bb21510bea4cb35386fa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688217"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822518"
 ---
 # <a name="add-contacts-to-a-microsoft-365-group"></a>將連絡人新增至 Microsoft 365 群組
 

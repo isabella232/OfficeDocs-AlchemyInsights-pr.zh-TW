@@ -2,7 +2,7 @@
 title: 啟用 Microsoft 365 應用程式
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 0e4fe5401663eaf7a332b7dac6a786a05656f63f
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236044"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823022"
 ---
 # <a name="activating-microsoft-365-apps"></a>啟用 Microsoft 365 應用程式
 
@@ -27,7 +27,7 @@ ms.locfileid: "48236044"
 
 - [在 Mac 上啟用 Office](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**附註：** 請確定您擁有 Office 365 或[包含 Office 用戶端應用程式](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e) (例如 Microsoft 365 商務標準版、Microsoft 365 Apps 商務版或 Microsoft 365 Apps 企業版) 的 Microsoft 365 訂閱。 此外，請確認您用來登入 Office 應用程式的使用者帳戶已[指派授權](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
+**附註：** 請確定您擁有 Office 365 或 [包含 Office 用戶端應用程式](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e) (例如 Microsoft 365 商務標準版、Microsoft 365 Apps 商務版或 Microsoft 365 Apps 企業版) 的 Microsoft 365 訂閱。 此外，請確認您用來登入 Office 應用程式的使用者帳戶已[指派授權](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
 
 若要修正 Office 啟用問題，請參閱：
 
@@ -42,9 +42,9 @@ ms.locfileid: "48236044"
 
 1. 開啟 Office 應用程式，並[登出](https://go.microsoft.com/fwlink/?linkid=2114082)任何現有的使用者帳戶。
 
-2. 使用 [Windows 設定 > 帳戶 > 電子郵件與帳戶]****，移除舊的或未使用的公司帳戶。
+2. 使用 [Windows 設定 > 帳戶 > 電子郵件與帳戶]，移除舊的或未使用的公司帳戶。
 
-3. 使用 [Windows 設定 > 帳戶 > 存取公司或學校]****，中斷舊的或未使用的公司帳戶
+3. 使用 [Windows 設定 > 帳戶 > 存取公司或學校]，中斷舊的或未使用的公司帳戶
 
 4. [重設 Office 啟用狀態](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)，然後使用新帳戶[登入 Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426)。
 

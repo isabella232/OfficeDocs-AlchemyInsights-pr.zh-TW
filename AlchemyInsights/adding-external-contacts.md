@@ -2,7 +2,7 @@
 title: 新增外部連絡人
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: 9156ca73831e6c286fc616f9303309dc05d3232c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb29d04fe8de94af863ae062a76a158ae2f5b4d8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697044"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822122"
 ---
 # <a name="enable-external-communications-and-add-contacts"></a>啟用外部通訊並新增連絡人
 

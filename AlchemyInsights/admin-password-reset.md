@@ -2,7 +2,7 @@
 title: 系統管理員密碼重設
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: 2bd32428a042ae7844e9af6635a4d519fdf0593e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 40199032ee920496f21e1606a32332291815dd24
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696888"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821906"
 ---
 # <a name="admin-password-reset"></a>系統管理員密碼重設
 

@@ -2,7 +2,7 @@
 title: '將來賓新增至 Microsoft 團隊 (自動建議) '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3182"
 - "6500001"
-ms.openlocfilehash: f5b70a2a1d462e87ee485da1da417f79dfa95f30
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 856ebc3ea01398b4c56ccca6bd2aa5f3963198eb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697296"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822770"
 ---
 # <a name="add-a-guest-to-microsoft-teams"></a>新增來賓至 Microsoft 團隊
 
