@@ -2,7 +2,7 @@
 title: 深入了解 Microsoft 端點管理員
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001494"
 - "4387"
-ms.openlocfilehash: 4c2db54139d7a093408d7ce3858c25434a2545a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e4ebb6b826fdd5434ca4188343c9756941da32b3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676477"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836558"
 ---
-# <a name="learn-more-about-microsoft-endpoint-manager"></a><span data-ttu-id="57ba7-102">深入了解 Microsoft 端點管理員</span><span class="sxs-lookup"><span data-stu-id="57ba7-102">Learn more about Microsoft Endpoint Manager</span></span>
+# <a name="learn-more-about-microsoft-endpoint-manager"></a><span data-ttu-id="e4331-102">深入了解 Microsoft 端點管理員</span><span class="sxs-lookup"><span data-stu-id="e4331-102">Learn more about Microsoft Endpoint Manager</span></span>
 
-<span data-ttu-id="57ba7-103">深入了解 [Microsoft 端點管理員中的租用戶附加](https://docs.microsoft.com/configmgr/tenant-attach/)。</span><span class="sxs-lookup"><span data-stu-id="57ba7-103">Learn more about [Tenant attach in Microsoft Endpoint Manager](https://docs.microsoft.com/configmgr/tenant-attach/).</span></span>
+<span data-ttu-id="e4331-103">深入了解 [Microsoft 端點管理員中的租用戶附加](https://docs.microsoft.com/configmgr/tenant-attach/)。</span><span class="sxs-lookup"><span data-stu-id="e4331-103">Learn more about [Tenant attach in Microsoft Endpoint Manager](https://docs.microsoft.com/configmgr/tenant-attach/).</span></span>
