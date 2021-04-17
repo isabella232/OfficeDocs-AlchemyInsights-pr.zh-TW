@@ -2,7 +2,7 @@
 title: 更新我的設定檔資訊或變更我的圖片
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796927"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834434"
 ---
 # <a name="update-my-profile-information-or-change-my-picture"></a>更新我的設定檔資訊或變更我的圖片
 
@@ -27,8 +27,8 @@ ms.locfileid: "47796927"
 
 **Windows 版 Outlook**： 
 
-- **檔**  > **Office 帳戶**  > **使用者資訊**  > **關於我**的 (會將您帶至 Microsoft 365 profile online) >**更新設定檔**或按一下相機圖示來變更您的相片  
+- **檔**  > **Office 帳戶**  > **使用者資訊**  > **關於我** 的 (會將您帶至 Microsoft 365 profile online) >**更新設定檔** 或按一下相機圖示來變更您的相片  
   
-**網頁版 Outlook (OWA) **： 
+**網頁版 Outlook (OWA)**： 
 
 - **設定檔影像**  > **我的設定檔**  > **更新設定檔**

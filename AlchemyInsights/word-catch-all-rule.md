@@ -2,7 +2,7 @@
 title: Word 捕獲全部規則
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3481"
 - "9001466"
-ms.openlocfilehash: 9cb582ab66e6236effbec968a8e7dae54270cfe3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 538bf292b5baa51a6a24ae4c2d060848cea97695
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698643"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834218"
 ---
 # <a name="common-issues-and-resolutions-with-word"></a>Word 的常見問題和解析度
 

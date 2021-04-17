@@ -2,7 +2,7 @@
 title: 使用無線顯示或 Dock
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: 5b0db5a7be944b9cf5872aa93c0a55bb1fe6b3c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b769773206aa2be4118d655a82cb8d0703f1149b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795118"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834398"
 ---
 # <a name="use-wireless-displays-or-docks"></a>使用無線顯示或 Dock
 
@@ -25,7 +25,7 @@ ms.locfileid: "47795118"
 
 1. 在鍵盤上按 **Windows 標誌鍵 + P**。
 
-2. 按一下 [連線至無線顯示]****。
+2. 按一下 [連線至無線顯示]。
 
 3. 按一下您要連線的裝置。
 
@@ -33,9 +33,9 @@ ms.locfileid: "47795118"
 
 1. 確認您的 Windows 10 裝置支援 Miracast： 
 
-    - 按一下 [開始]**** 按鈕。
+    - 按一下 [開始] 按鈕。
     
-    - 輸入「連線」，然後從結果清單中按一下 [連線]****。 在 [連線] 應用程式中，文字會告訴您 Windows 10 裝置是否支援。 
+    - 輸入「連線」，然後從結果清單中按一下 [連線]。 在 [連線] 應用程式中，文字會告訴您 Windows 10 裝置是否支援。 
 
 2. 請確定已開啟 Wi-Fi。 
 
@@ -45,4 +45,4 @@ ms.locfileid: "47795118"
 
 5. 重新啟動您的電腦或電話，以及無線顯示或 Dock。
 
-6. 移除無線顯示或 Dock，然後重新連線。 若要移除裝置，請開啟 [設定 > 裝置 > 藍牙與其他裝置]****。 按一下無線顯示、配接器或 Dock，然後按一下 [移除裝置]****。 然後嘗試重新連線。
+6. 移除無線顯示或 Dock，然後重新連線。 若要移除裝置，請開啟 [設定 > 裝置 > 藍牙與其他裝置]。 按一下無線顯示、配接器或 Dock，然後按一下 [移除裝置]。 然後嘗試重新連線。

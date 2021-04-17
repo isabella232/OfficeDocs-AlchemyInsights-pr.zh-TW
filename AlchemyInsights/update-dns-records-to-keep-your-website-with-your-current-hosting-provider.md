@@ -2,7 +2,7 @@
 title: 更新 DNS 記錄以便向目前的主機服務提供者保留網站
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 220495332098cf700afa429f36749e71668f2d5d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: f7871bb0f6ff289a4c20ef290b391579511233db
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709277"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834470"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>更新 DNS 記錄以便向目前的主機服務提供者保留網站
 

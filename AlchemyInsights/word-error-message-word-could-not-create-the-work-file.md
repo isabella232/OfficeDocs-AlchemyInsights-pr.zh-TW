@@ -2,7 +2,7 @@
 title: Word-錯誤訊息： Word 無法建立工作檔
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "3185"
-ms.openlocfilehash: 0a84bcc8be84f89df7f110de03f7b34b46a8b60a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ab35941bb7e423b4ee53e31765b1d30ef0fde03
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657483"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834146"
 ---
 # <a name="resolve-the-word-could-not-create-the-work-file-error-message"></a>解決「Word 無法建立工作檔案」的錯誤訊息
 

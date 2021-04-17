@@ -2,7 +2,7 @@
 title: 將工作列動移至桌面的一邊或頂端
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002939"
 - "5632"
-ms.openlocfilehash: d0f34d67a8b3f6101a2db8bbe7d07624bf264aa3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 911485624b63f7827f8f2da68e201779779de745
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702786"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833678"
 ---
 # <a name="move-the-taskbar-to-either-side-or-the-top-of-your-desktop"></a>將工作列動移至桌面的一邊或頂端
 

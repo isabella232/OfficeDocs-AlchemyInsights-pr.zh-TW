@@ -2,7 +2,7 @@
 title: 'Yammer-管理 Microsoft 365 群組 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 543972a81a8958951e31d63a632283d07c06de4c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb5959f74793ce146d326d2ddc32c359daecc3ba
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668878"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834074"
 ---
 # <a name="manage-microsoft-365-groups-in-yammer"></a>在 Yammer 中管理 Microsoft 365 群組
 
