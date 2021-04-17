@@ -2,7 +2,7 @@
 title: CSS： PSTN Pillar 深層連結規則
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2555"
 - "9000675"
-ms.openlocfilehash: e796094e8ca47b13a238a2523675530f92bbf7d1
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: a97712433a245c16e9dd01192f689c3afc96d4cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692421"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815786"
 ---
 # <a name="pstn-calling-with-microsoft-teams"></a>與 Microsoft 團隊的 PSTN 通話
 

@@ -2,7 +2,7 @@
 title: 通訊合規性
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
-ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
+ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49875115"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817487"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Microsoft 365 中的通訊法規遵從性
 

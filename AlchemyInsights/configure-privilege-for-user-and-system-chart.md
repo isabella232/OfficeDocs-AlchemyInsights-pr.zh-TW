@@ -2,7 +2,7 @@
 title: 設定使用者和系統圖表的權限
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002928"
 - "5607"
-ms.openlocfilehash: 4d8518242b98d580c2a88d6dc3c00e5a1096e2a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb88ce45b2cd786e90e5d87713400e150787ec25
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713481"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817127"
 ---
 # <a name="configure-privilege-for-user-and-system-chart"></a>設定使用者和系統圖表的權限
 

@@ -2,7 +2,7 @@
 title: 建立包含組織內所有人的全組織團隊
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001731"
 - "3830"
-ms.openlocfilehash: b22990f11bd229f206aa67f8793df3b605a4ba43
-ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
+ms.openlocfilehash: 83533db037265355bccb227abac2b3073d3b4215
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50291747"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816155"
 ---
 # <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a>建立包含組織內所有人的全組織團隊
 

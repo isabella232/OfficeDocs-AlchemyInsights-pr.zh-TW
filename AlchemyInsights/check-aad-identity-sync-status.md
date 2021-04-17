@@ -2,7 +2,7 @@
 title: 檢查 AAD 身分識別同步處理狀態
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: e06eab76adcdb2b99b8aaa738f677950fa1af16b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27847ac62e418869cc5074808e6ccab02671ea05
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793893"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817847"
 ---
 # <a name="check-aad-identity-sync-status"></a>檢查 AAD 身分識別同步處理狀態
 

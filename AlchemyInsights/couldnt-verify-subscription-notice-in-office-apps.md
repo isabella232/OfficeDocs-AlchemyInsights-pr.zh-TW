@@ -2,7 +2,7 @@
 title: Microsoft 365 應用程式中的無法驗證訂閱通知
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 45a5ed79feb2e489af5b93caee29ca4709181d79
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7a1823ed1080f0dc7adcf19b40b8e28256415ba5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747506"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816443"
 ---
 # <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Microsoft 365 應用程式中的「無法驗證訂閱」通知
 

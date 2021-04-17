@@ -2,7 +2,7 @@
 title: 排程小組中的會議
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: d75f3a1d83845609ff4a41788ce9dbf92fbfc3d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746894"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815966"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>排程小組中的會議
 
@@ -25,9 +25,9 @@ ms.locfileid: "47746894"
 
 1. 您可以選擇下列專案，以排程會議：
 
-    - 在 [撰寫] 方塊下方的聊天中**排程會議**圖示，以與聊天人員預訂會議。
+    - 在 [撰寫] 方塊下方的聊天中 **排程會議** 圖示，以與聊天人員預訂會議。
 
-    - 應用程式左邊的行事**曆**圖示。 請選取右上角的 [ **新增會議** ] 或選取 [行事曆] 中的時間範圍，以開啟排程表單。
+    - 應用程式左邊的行事 **曆** 圖示。 請選取右上角的 [ **新增會議** ] 或選取 [行事曆] 中的時間範圍，以開啟排程表單。
 
 2. 與在 Outlook 中排程會議類似，您會為會議提供標題、邀請人員，以及新增會議詳細資料。
 

@@ -2,7 +2,7 @@
 title: Cortana 沒有與我講話，或聽不到我
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002960"
 - "5662"
-ms.openlocfilehash: 015c4089682e5313d51a05223d82c5f3c29586db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c37ab73efcb39e9615397b3e84cb6e02efc0e4cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807038"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816515"
 ---
 # <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana 沒有與我講話，或聽不到我
 

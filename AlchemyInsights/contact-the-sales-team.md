@@ -2,7 +2,7 @@
 title: 聯繫銷售小組
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
-ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.openlocfilehash: 6b47f200d0b9b26d109ff028c7c8000ecf625d27
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49529009"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816911"
 ---
 # <a name="contact-the-sales-team"></a>聯繫銷售小組
 

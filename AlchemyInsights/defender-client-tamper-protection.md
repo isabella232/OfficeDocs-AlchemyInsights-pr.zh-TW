@@ -2,7 +2,7 @@
 title: 'Defender 用戶端防篡改保護 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4873b026839b7cde8221bf8389cd33023056e605
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680495"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815570"
 ---
 # <a name="defender-tamper-protection"></a>Defender 防篡改保護 
 
@@ -26,7 +26,7 @@ ms.locfileid: "47680495"
 - 停用病毒和威脅防護
 - 停用即時保護
 - 關閉行為監控
-- 停用防毒程式 (例如 IOfficeAntivirus (IOAV) # A3
+- 停用防病毒 (例如 IOfficeAntivirus (IOAV) ) 
 - 停用雲端傳送保護
 - 移除安全性智慧更新
 

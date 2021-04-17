@@ -2,7 +2,7 @@
 title: 入口網站中的 Configuration Manager 裝置遺失
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001495"
 - "4384"
-ms.openlocfilehash: b6538cb6a348e194856024680a25af948152910a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d57659eb928dd8c4653499e65b6e6cd2f021f521
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812142"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817235"
 ---
 # <a name="configuration-manager-devices-missing-in-the-portal"></a>入口網站中的 Configuration Manager 裝置遺失
 

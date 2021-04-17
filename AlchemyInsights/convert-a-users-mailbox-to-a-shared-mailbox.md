@@ -2,7 +2,7 @@
 title: 將使用者信箱轉換成共用信箱
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 7c64e9db982ffb5e8a8e90d812ed09de45ef9fb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e359b3eeb4522ca18108a4dca6efc5aae17e594
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732886"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816587"
 ---
 # <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>將使用者信箱轉換為共用信箱
 

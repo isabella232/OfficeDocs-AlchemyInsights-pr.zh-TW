@@ -2,7 +2,7 @@
 title: Microsoft Planner 中的註解
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 048b63619256c1322837a06115f97127188aec6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 09385fd0235939d01e0baf141362cb8b76910682
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793569"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817631"
 ---
 # <a name="comments-in-microsoft-planner"></a>Microsoft Planner 中的註解
 
@@ -29,7 +29,7 @@ ms.locfileid: "47793569"
 
 - **註解未儲存** - 新增註解的使用者沒有傳送電子郵件至 Microsoft 365 群組的權限。 如需此案例的詳細資訊，請參閱 [Microsoft Planner 的運作方式](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) (英文)。
 
-- 系統會顯示**您不再具有存取權**或**來賓使用者無法新增註解** (無法將電子郵件傳送至群組收件匣的來賓使用者可能會看到此訊息) 錯誤。 若要解決此問題，請確認來賓使用者擁有有效的電子郵件地址。
+- 系統會顯示 **您不再具有存取權** 或 **來賓使用者無法新增註解** (無法將電子郵件傳送至群組收件匣的來賓使用者可能會看到此訊息) 錯誤。 若要解決此問題，請確認來賓使用者擁有有效的電子郵件地址。
 
 - **已移除的使用者收到電子郵件** - 如果使用者在從計劃遭到移除之前於工作加上註解，電子郵件對話會在對於工作所做的每個註解都包含使用者。
 

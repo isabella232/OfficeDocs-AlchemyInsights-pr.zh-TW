@@ -2,7 +2,7 @@
 title: 信用/退款
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 27f1b43c7e00114d51bb3f1c5769936b72635a21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e40dcf238ce4bc05c55c78e29c54fc260523bc2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746570"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815858"
 ---
 # <a name="creditrefund"></a>信用/退款
 
@@ -32,6 +32,6 @@ ms.locfileid: "47746570"
 
 **退款**
 
-**如有剩餘的信用額度將會在下個計費週期內退回。**
+**在下一個計費週期內，任何按比例支付的信用都會傳回給您。**
 
 如需詳細資訊，請參閱 [取消和退款處理](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide)程式。 

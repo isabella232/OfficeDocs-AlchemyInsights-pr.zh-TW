@@ -2,7 +2,7 @@
 title: DataProtection-Bitlocker
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
-ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
+ms.openlocfilehash: 8166a055d7a967faab83484619b443cc98239c7c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49778184"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815606"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>使用 Intune 啟用 Bitlocker 加密
 

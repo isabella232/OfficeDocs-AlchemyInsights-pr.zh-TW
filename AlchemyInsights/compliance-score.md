@@ -2,7 +2,7 @@
 title: 合規性分數
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: fc42b7d4959d624da68d444c03af94d2b3ba0af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78b0658902034560c4f568b1ae2dcd66bb5fb540
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47785450"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817307"
 ---
 # <a name="compliance-score"></a>合規性分數
 

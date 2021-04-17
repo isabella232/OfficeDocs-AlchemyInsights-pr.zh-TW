@@ -2,7 +2,7 @@
 title: 按一下耳機按鈕以與我們聯繫
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 329768f62c3da71b5454c7155e66509ae4c01df4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680891"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816947"
 ---
 # <a name="contact-us-by-clicking-the-headphone-button"></a>按一下耳機按鈕以與我們聯繫
 
