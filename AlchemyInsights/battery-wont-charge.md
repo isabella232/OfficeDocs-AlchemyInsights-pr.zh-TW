@@ -2,7 +2,7 @@
 title: 電池無法充電
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002952"
 - "5654"
-ms.openlocfilehash: b15939c264a39687b4d93874553e5af7b3f7fe8d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fab76114044f71d60dbaf812cd2cd0cc75c8169c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686309"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820457"
 ---
 # <a name="battery-wont-charge"></a>電池無法充電
 
@@ -27,10 +27,10 @@ ms.locfileid: "47686309"
 
 **已接上電源，未充電**
 
-如果工作列上的電池圖示顯示**已接上電源，未充電**，表示您的 Surface 偵測到電源供應器，但未向電池充電。 拔除您的 Surface 時，Surface 可能會關閉。 嘗試這樣做：
+如果工作列上的電池圖示顯示 **已接上電源，未充電**，表示您的 Surface 偵測到電源供應器，但未向電池充電。 拔除您的 Surface 時，Surface 可能會關閉。 嘗試這樣做：
 
 1. 將您的 Surface 插入。
-2. 選取工作列中的搜尋方塊，輸入**裝置管理員**，然後從結果清單中選取 [裝置管理員 **]**。
+2. 選取工作列中的搜尋方塊，輸入 **裝置管理員**，然後從結果清單中選取 [裝置管理員 **]**。
 3. 按一下 [電池 **]** 類別旁的箭號。
 4. 點選兩下或連按兩下 [Microsoft Surface ACPI 相容控制方法電池 **]**，選取 [驅動程式 **]** 索引標籤，然後按一下 [解除安裝] > [確定 **]**。
 5. 選取所有類別最上方的電腦，選取 [動作 **]** 功能表，然後按一下 [掃描硬體變更 **]**。

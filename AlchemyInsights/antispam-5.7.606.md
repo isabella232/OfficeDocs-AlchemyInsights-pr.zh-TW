@@ -2,7 +2,7 @@
 title: 反垃圾郵件-5.7.23
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 7b3a322c8241f24d30d36cfd1a4440737466b58f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9abbff56570e27b2ad7308860be32ad6586cf4f7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717280"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821366"
 ---
 # <a name="banned-sending-ip"></a>禁止傳送 IP
 

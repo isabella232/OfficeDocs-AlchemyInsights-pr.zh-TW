@@ -2,7 +2,7 @@
 title: AIP：追蹤和撤銷入口網站
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: af2deff6b1ac8531fca9020277265f1d9d958775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663144"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821582"
 ---
 # <a name="aip-track-and-revoke-portal"></a>AIP：追蹤和撤銷入口網站
 

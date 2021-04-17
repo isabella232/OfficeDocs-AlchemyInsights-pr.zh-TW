@@ -2,7 +2,7 @@
 title: ATP 功能
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "3455"
-ms.openlocfilehash: 339d0d9342fad9da851ec565f65b95cb53c21716
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: daf5b9df7f00940c8a3db3fb14f24be61ab2be91
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715588"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820961"
 ---
 # <a name="whats-new-in-atp"></a>ATP 的新功能
 

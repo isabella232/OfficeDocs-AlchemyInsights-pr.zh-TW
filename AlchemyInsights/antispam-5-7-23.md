@@ -2,7 +2,7 @@
 title: 反垃圾郵件-5.7.23
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: ecbce4f0077dc9acab63575c19d40c0675a406ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e494e8017f24d65a94d1a7490be4d67c46a2120b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717316"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821402"
 ---
 # <a name="fix-email-delivery-issues-for-error-code-5723"></a>修正錯誤碼為5.7.23 的電子郵件傳遞問題
 

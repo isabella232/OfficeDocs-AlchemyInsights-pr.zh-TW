@@ -1,8 +1,8 @@
 ---
-title: 保留執行個體的購買帳單
+title: 購買保留實例的計費
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,64 +12,64 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 6cdcb5af27a475cc838eb434ff025eb18356360c
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815979"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820313"
 ---
-# <a name="billing-for-reserved-instance-purchase"></a>保留執行個體的購買帳單
+# <a name="billing-for-reserved-instance-purchase"></a>購買保留實例的計費
 
-系統會依照您在購買時所選訂閱的付款條件，對保留執行個體之購買進行收費。 訂閱類型必須是企業合約 (優惠號碼： MS-AZR-0017P)、隨用隨付 (優惠號碼： MS-AZR-0003P)、Microsoft 客戶合約或 CSP。
+購買的保留的實例會計費到與您在購買時所選取之訂閱相關的支付方式。 訂閱類型必須是企業合約 (提供者編號： AZR-0017P) 、隨付費 (提供號碼： AZR-0003P) 、Microsoft 客戶合約或 CSP。
 
-- 如果是企業版訂閱，費用會從登記的金錢履約承諾餘額中扣減，或以超額進行收費
-- 針對 [隨用隨付] 訂閱，會以信用卡或訂閱上的發票付款方式進行收費
+- 針對企業訂閱，費用會從登記的貨幣承諾餘額中扣減，或是因超額而收費。
+- 若為隨送即用訂閱，訂閱上的信用卡或發票支付方式會收費。
 
 **取消保留**
 
-- **自助** ：您可以自己使用 [Azure 入口網站](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)取消或交換保留執行個體。 選取 [保留] 並按一下 [退款] 或 [交換]。 請注意，您必須有保留訂單的擁有者權限才能交換或退款。 僅存取保留將不允許您繼續退款或兌換。 要求保留訂單擁有者向您授予對保留訂單的存取權限
-- **交換原則：** 您可以將一個保留與另一個相同類型的保留交換 – 保留交換 **沒有負面影響** 。 新保留的總承諾金額應大於兌換保留的退款金額和未來每月付款的總和 (如適用)
-- **退款原則** ：在 12 個月的運行視窗內，退款和取消的未來付款總額不得超過 50000 美元。 我們 **目前不收取任何退款罰款** ，但可以在以後退款時收取
+- **自助服務：** 您可以使用 [Azure 入口網站](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)自行取消或交換保留實例。 選取 [預約]，然後按一下 [退款] 或 [exchange]。 請注意，您必須將保留順序的擁有者存取權設為 [exchange] 或「退款」。 只有保留權可供您進行退款或 exchange 的存取。 要求預約訂單擁有人讓您擁有權存取預留訂單
+- **Exchange 原則：** 您可以為相同類型的其他預約交換保留–保留 exchange **沒有處罰** 。 新的預約承諾總數應該大於更換的預約退款金額與未來每月付款 (（如果適用的話）的總和。) 
+- **退款原則：** 退款總額和取消的未來付款金額在12個月的滾動視窗中不得超過 $50000 USD。 我們 **目前未收費退款的任何處罰** ，但可于未來退款時收費
 
-**例外：** 美國政府企業協定客戶不可用自助交換和取消功能
+**例外狀況：** 自助服務 exchange 和取消功能不適用於美國政府企業合約合約客戶
 
-- **API / PS / CLI** 不支援取消和退款 [Azure 保留的自助兌換和退款](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- 美國政府企業協定客戶不可用自助交換和取消功能。 支援其他美國政府訂閱類型，包括隨付隨用和 CSP
+- **API/PS/CLI** 支援不適用於取消和退款 [Azure 保留的自助服務交換和退款](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)功能
+- 自助服務 exchange 和取消功能不適用於美國政府企業合約合約客戶。 支援其他美國政府訂閱類型（包括隨需付費和 CSP）
 
 深入瞭解：[如何處理傳回和 exchange 交易](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)：深入瞭解： [exchange 及退款原則](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)其他問題：[就診保留實例](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)檔
 
-**交換現有的保留執行個體 (自助)**
+**Exchange 現有的保留實例 (自助服務)**
 
-您可以將一個保留換成另一個相同類型的保留。 如果您不再需要保留，您還可以退款 (最高每年 50000 美元)。 美國政府企業協定客戶不可用自助交換和取消功能。 支援其他美國政府訂閱類型，包括隨付隨用和 CSP。 您必須具有保留訂單上的擁有者權限才能兌換或退款現有保留。
+您可以為相同類型的其他預訂，交換保留。 您也可以退款保留，每年 $50000 USD （如果您不再需要）。 自助服務 exchange 和取消功能不適用於美國政府企業合約合約客戶。 支援其他美國政府訂閱類型（包括隨付即用和 CSP）。 您必須具有保留訂單上的擁有者存取權，才可交換或退款現有的預約。
 
-以下步驟將指導完成交易的過程
+下列步驟會引導您完成交易的步驟。
 
 1. 登入 [Azure 入口網站](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)。 選取您要退款的預約，然後按一下 [ **Exchange** 2]。選取您要購買的 VM 產品並輸入數量。 請確定新的購買合計超過返還的上限 [決定您購買之前的正確大小](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)。
 3. 複查並完成交易
 
-**保留執行個體退款**
+**用於保留實例的退款**
 
-若要退款保留，請移至 **[保留詳細資料]** 然後按一下 **[退款]**
+若要退款預約，請移至 [**預約詳細資料**]，然後按一下 [**退款**]
 
 **專業等級退款：**
 
 **退款和 exchange 的 Pro-ration 和最低需求範例** 前期保留範例：
 
-- 你在 1 月 1 日以 120 美元購買一年期的 RI
-- 您想在 4 月 7 日退換這個保留嗎
-- 由於保留已經進行 了97 天，您將獲得 (1-97/365)*120 美元。 (i.e. $88.1)。 目前退款沒有罰款
-- 如果換貨，您的新購買金額應大於 88.1 美元
-- 目前退款沒有罰款
+- 您于1月1日為 $120 購買一年期 RI
+- 您想要退款或交換此保留的4月7日
+- 因為保留已在97天內活，您會收到 (1-97/365) * $120 回來。  (（例如 $88.1) ）。 目前沒有退款的處罰
+- 如果進行交換，您的新購買應該大於 $88。1
+- 目前沒有退款的處罰
 
 **計費計畫保留範例：**
 
-- 你以每月 10 美元的價格購買一年期定期 RI
-- 您想在 4 月 7 日退換這個保留
-- 由於最後一次付款在 7 天前，你將得到 (1-7/31)*10 美元。 (例如 $7.74)
-- 取消的未來付款是 80 美元。 目前退款沒有罰款
-- 這次取消將從您的 50000 美元退款限額中扣除 87.74 美元
-- 如果交換，新購買的總價值應大於 87.74 美元
+- 每月購買一年 $10 的條款 RI
+- 您想要退款或交換此保留的4月7日
+- 自從最後一次付款發生7天之後，您會收到 (1-7/31) * $10 回來。  (，例如 $7.74) 
+- 未來的付款已取消為 $80。 目前沒有退款的處罰
+- 這種取消會從您的 $50000 退款限制中扣減 $87.74。
+- 如果進行交換，新購買的總價值應大於 $87.74
 
 **無法查看最後一個計費期間的發票**
 
@@ -84,7 +84,7 @@ ms.locfileid: "48815979"
 
 - 從 Azure 入口網站的 [ [訂閱](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ] 頁面中，選取您的訂閱，以 [供具有發票存取權的使用者使用](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 - 選取 **發票**
-- 按一下 [ **下載發票** ] 以查看您的 PDF 發票的副本。 如果 **無法使用** ，請參閱 [為什麼我看不到最後計費期間的發票？](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- 按一下 **[下載發票]** 以查看您的 PDF 發票複本。 如果 **無法使用**，請參閱 [為什麼我看不到最後計費期間的發票？](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 
 **透過電子郵件 ( .pdf) 接收您的發票**
 
@@ -101,7 +101,7 @@ ms.locfileid: "48815979"
 - 選取 [ **View Current 語句** ]，以查看預估產生時的費用估計值
 - 選取 [ **下載使用** ]，將每日使用狀況資料下載成 CSV 檔案。 如果您看到兩個可用的版本，請下載第2版。
 
-其他問題： [造訪保留執行個體文件](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+其他問題：[請造訪保留實例](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)檔
 
 **建議的文件**
 

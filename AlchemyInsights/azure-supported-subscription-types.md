@@ -2,7 +2,7 @@
 title: 支援的訂閱類型
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: 46bc60435c3f8477e9f274d90c39d0f1c6a523c6
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: dcf5855bff8725ea746196c1f07d689ce1797f8c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791395"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820673"
 ---
 # <a name="supported-subscription-types"></a>支援的訂閱類型
 
@@ -29,7 +29,7 @@ ms.locfileid: "48791395"
 
 [Microsoft Azure 入口網站] 為計費帳戶的 [帳戶系統管理員](https://ms.portal.azure.com/)，該帳戶含有您想要轉移的訂閱
 
-- 在 **成本管理 + 計費** 上搜尋。 從左方窗格中選取 **訂閱** 。 依據存取權而定，您可能需要選取計費範圍，然後 **訂閱** 或 **Azure 訂閱** 。
+- 在 **成本管理 + 計費** 上搜尋。 從左方窗格中選取 **訂閱**。 依據存取權而定，您可能需要選取計費範圍，然後 **訂閱** 或 **Azure 訂閱**。
 - 針對您想要轉移的訂閱，選取 [轉移帳單擁有權]
 - 輸入使用者的電子郵件地址，其為訂閱的新擁有者帳戶的計費管理員，然後選取 **傳送轉移要求**
 - 使用者會收到一封電子郵件，其中包含檢閱您的轉移要求的指示。 若要核准轉移要求，使用者會選取電子郵件中的連結，並遵循指示操作。

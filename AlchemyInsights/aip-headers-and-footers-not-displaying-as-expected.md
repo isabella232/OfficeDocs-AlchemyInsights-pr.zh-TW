@@ -2,7 +2,7 @@
 title: AIP：頁首及頁尾不會如預期顯示
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 811a48587272776c8ece5e654a921c15cf52af5f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f50fc1d38618017bca61b4e9290d9893983534e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696539"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821690"
 ---
 # <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP：頁首及頁尾不會如預期顯示
 
@@ -32,8 +32,8 @@ ms.locfileid: "47696539"
 **匯出 Azure 資訊保護記錄**
 
 1. 在 Outlook 中開啟 Office 文件或建立新的電子郵件。
-2. 按一下 [保護/敏感度]****  >  [說明和意見反應]****。
-3. 按一下 [匯出記錄]****。
+2. 按一下 [保護/敏感度]  >  [說明和意見反應]。
+3. 按一下 [匯出記錄]。
 4. 將記錄儲存到您選擇的位置，然後將它們附加到此服務要求。
 
 如需詳細資訊，請參閱：
