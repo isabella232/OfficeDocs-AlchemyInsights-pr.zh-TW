@@ -2,7 +2,7 @@
 title: 條件式存取原則
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 25dc98397920e4fbf28895f5961f154381e11c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af95627d07d41add54f03c9254562b9be4e05d9b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812250"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817271"
 ---
-# <a name="conditional-access-policies"></a><span data-ttu-id="103b3-102">條件式存取原則</span><span class="sxs-lookup"><span data-stu-id="103b3-102">Conditional Access policies</span></span>
+# <a name="conditional-access-policies"></a><span data-ttu-id="24562-102">條件式存取原則</span><span class="sxs-lookup"><span data-stu-id="24562-102">Conditional Access policies</span></span>
 
-<span data-ttu-id="103b3-103">條件式存取是 Azure AD 的一項功能，可讓您強制控制環境中應用程式的存取，而這一切都是根據特定條件，並由中央位置所管理。</span><span class="sxs-lookup"><span data-stu-id="103b3-103">Conditional Access is a capability of Azure AD that enables you to enforce controls on the access to apps in your environment, all based on specific conditions and managed from a central location.</span></span>
+<span data-ttu-id="24562-103">條件式存取是 Azure AD 的一項功能，可讓您強制控制環境中應用程式的存取，而這一切都是根據特定條件，並由中央位置所管理。</span><span class="sxs-lookup"><span data-stu-id="24562-103">Conditional Access is a capability of Azure AD that enables you to enforce controls on the access to apps in your environment, all based on specific conditions and managed from a central location.</span></span>
 
-<span data-ttu-id="103b3-104">深入了解 [Azure AD 條件式存取](https://docs.microsoft.com/azure/active-directory/conditional-access/)。</span><span class="sxs-lookup"><span data-stu-id="103b3-104">Learn more about [Azure AD Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/).</span></span>  
+<span data-ttu-id="24562-104">深入了解 [Azure AD 條件式存取](https://docs.microsoft.com/azure/active-directory/conditional-access/)。</span><span class="sxs-lookup"><span data-stu-id="24562-104">Learn more about [Azure AD Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/).</span></span>  
 
-<span data-ttu-id="103b3-105">**注意**: 如果您的租用戶是在 2019 年 10 月 21 日之後建立，且意外收到 MFA 的提示，則可能已在租用戶中啟用[安全性預設](https://aka.ms/securitydefaults)。</span><span class="sxs-lookup"><span data-stu-id="103b3-105">**Note**: If your tenant was created after October 21st, 2019 and you're unexpectedly getting prompted for MFA, you likely have [security defaults](https://aka.ms/securitydefaults) enabled in your tenant.</span></span>
+<span data-ttu-id="24562-105">**注意**: 如果您的租用戶是在 2019 年 10 月 21 日之後建立，且意外收到 MFA 的提示，則可能已在租用戶中啟用 [安全性預設](https://aka.ms/securitydefaults)。</span><span class="sxs-lookup"><span data-stu-id="24562-105">**Note**: If your tenant was created after October 21st, 2019 and you're unexpectedly getting prompted for MFA, you likely have [security defaults](https://aka.ms/securitydefaults) enabled in your tenant.</span></span>
 
-<span data-ttu-id="103b3-106">**若要管理安全性預設**</span><span class="sxs-lookup"><span data-stu-id="103b3-106">**To Manage security defaults**</span></span>
+<span data-ttu-id="24562-106">**若要管理安全性預設**</span><span class="sxs-lookup"><span data-stu-id="24562-106">**To Manage security defaults**</span></span>
 
-1. <span data-ttu-id="103b3-107">使用全域系統管理員認證登入[系統管理中心](https://go.microsoft.com/fwlink/p/?linkid=834822)。</span><span class="sxs-lookup"><span data-stu-id="103b3-107">Sign in to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822) with your Global admin credentials.</span></span>
+1. <span data-ttu-id="24562-107">使用全域系統管理員認證登入[系統管理中心](https://go.microsoft.com/fwlink/p/?linkid=834822)。</span><span class="sxs-lookup"><span data-stu-id="24562-107">Sign in to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822) with your Global admin credentials.</span></span>
 
-2. <span data-ttu-id="103b3-108">移至 [Azure Active Directory 屬性](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties)。</span><span class="sxs-lookup"><span data-stu-id="103b3-108">Go to [Azure Active Directory Properties](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties).</span></span>
+2. <span data-ttu-id="24562-108">移至 [Azure Active Directory 屬性](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties)。</span><span class="sxs-lookup"><span data-stu-id="24562-108">Go to [Azure Active Directory Properties](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties).</span></span>
 
-3. <span data-ttu-id="103b3-109">在頁面底部，按一下 [管理安全性預設]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="103b3-109">At the bottom of the page, click **Manage Security defaults**.</span></span>
+3. <span data-ttu-id="24562-109">在頁面底部，按一下 [管理安全性預設]。</span><span class="sxs-lookup"><span data-stu-id="24562-109">At the bottom of the page, click **Manage Security defaults**.</span></span>
 
-4. <span data-ttu-id="103b3-110">按一下 **[是]** 啟用安全性預設，或 **[否]** 停用安全性預設。</span><span class="sxs-lookup"><span data-stu-id="103b3-110">Click **Yes** to enable security defaults or **No** to disable security defaults.</span></span>
+4. <span data-ttu-id="24562-110">按一下 **[是]** 啟用安全性預設，或 **[否]** 停用安全性預設。</span><span class="sxs-lookup"><span data-stu-id="24562-110">Click **Yes** to enable security defaults or **No** to disable security defaults.</span></span>
