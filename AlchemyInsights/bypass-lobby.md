@@ -2,7 +2,7 @@
 title: 略過大廳
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684941"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820025"
 ---
 # <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>控制團隊中的會議廳設定和參與程度
 
@@ -40,8 +40,8 @@ ms.locfileid: "47684941"
 
 - [允許匿名人員開始會議](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) 是一種每個召集人原則，可控制匿名人員（包括 B2B 和同盟使用者）是否可以加入使用者的會議，而不需出席者已驗證的使用者。
 
-- [[允許撥入使用者略過會議廳](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) ** () **是每個召集人原則，以控制撥入的使用者是否直接加入會議，或不論 [**自動承認人員**] 設定，都是在大廳中等候。
+- [[允許撥入使用者略過會議廳](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) **()** 是每個召集人原則，以控制撥入的使用者是否直接加入會議，或不論 [**自動承認人員**] 設定，都是在大廳中等候。
 
-- [允許召集人覆寫會議廳設定](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) ** () ** 是每個召集人原則，用來控制會議召集人是否可以覆寫 **系統** 管理員所設定的前廳流覽設定，以及是否 **允許撥入使用者** 在排程新會議時略過會議廳。
+- [允許召集人覆寫會議廳設定](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) **()** 是每個召集人原則，用來控制會議召集人是否可以覆寫 **系統** 管理員所設定的前廳流覽設定，以及是否 **允許撥入使用者** 在排程新會議時略過會議廳。
 
 **附注：** 如需 Microsoft 團隊會議原則的完整綜述，請參閱 [管理小組中的會議原則](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) 。

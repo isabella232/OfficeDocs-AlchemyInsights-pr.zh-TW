@@ -2,7 +2,7 @@
 title: Cal-Syn-規則
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3416"
 - "9001435"
-ms.openlocfilehash: 7d11fd7ea352bcc49774921fa11bc8b479da0b48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b1880a220fb49a99e0d28d3c322f15c70f01f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684653"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819989"
 ---
 # <a name="problems-syncing-calendar-and-contacts-on-phone-or-tablet"></a>同步處理手機或平板電腦上的行事曆和連絡人的問題
 

@@ -2,7 +2,7 @@
 title: 圖表和表格
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3047"
 - "9000592"
-ms.openlocfilehash: c0bca112ea345dedc7fa5e9cfa4e65866e6a8aa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 40aaa485ea38d471922699a9d0dd4fd1085571b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812466"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817923"
 ---
 # <a name="common-issues-with-tables"></a>表格的常見問題 
 
@@ -25,7 +25,7 @@ ms.locfileid: "47812466"
 
 在 Word 中修復損毀的資料表後，請參閱 [開啟檔損毀錯誤](https://support.office.com/article/47df9d48-2165-4411-a699-1786ac734bc3) ：
 
- 1. 在 Word 中，**選取**  >  [檔案**Open**  >  **] [開啟流覽]**。
+ 1. 在 Word 中，**選取**  >  [檔案  >  **] [開啟流覽]**。
  2. 選取含有損毀表格的檔案。
  3. 選取 [ **開啟**] 旁邊的箭號，然後選擇 [ **開啟並修復**]。
 

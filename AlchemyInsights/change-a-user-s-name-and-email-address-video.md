@@ -2,7 +2,7 @@
 title: 變更使用者的名稱和電子郵件地址
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "7601"
 - "4"
-ms.openlocfilehash: dec26ee6c3266feedc39a1c1a6af0b3f1a7a2413
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 2aacb53781640580380d0227185639ab026f1973
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683944"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819323"
 ---
 # <a name="change-a-users-name-and-email-address"></a>變更使用者的名稱和電子郵件地址
 

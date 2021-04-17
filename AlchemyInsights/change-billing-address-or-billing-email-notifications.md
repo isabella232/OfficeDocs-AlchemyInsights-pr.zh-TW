@@ -2,7 +2,7 @@
 title: 變更帳單位址或帳單電子郵件通知
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1200012"
 - "4716"
-ms.openlocfilehash: 4a280eb646270bf5597e4e390be9c73bf3c357d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 013fd35e4c299d78504adbb59675a22df301c503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793533"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819179"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>變更帳單位址或帳單電子郵件通知
 
-**變更您的帳單位址**
+**變更您的 Bill-To 位址**
 
 1. 在系統管理中心中，移至 **帳單 > [支付方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)** 頁面。
 

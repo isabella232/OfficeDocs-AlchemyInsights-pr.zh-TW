@@ -2,7 +2,7 @@
 title: 變更 OneDrive 同步處理用戶端的組織名稱
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003077"
 - "5850"
-ms.openlocfilehash: 8e474276633bba2895338fd0c0a5903df1ddf637
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca545ba51e39209f3302acdee1c24048515e2c1b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756706"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818315"
 ---
 # <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>變更 OneDrive 同步處理用戶端的組織名稱
 
@@ -25,7 +25,7 @@ OneDrive 使用租用戶系統管理員設定的組織名稱。  您可以[變�
 
 若要取消連結帳戶：
 
-1. 選取工作列最右側的藍色 OneDrive 雲端圖示，然後選取 [更多] > [設定] > [帳戶]****。
-2. 找到您要取消連結的帳戶，選取 [取消連結此電腦]****，然後 [取消連結帳戶]****。
+1. 選取工作列最右側的藍色 OneDrive 雲端圖示，然後選取 [更多] > [設定] > [帳戶]。
+2. 找到您要取消連結的帳戶，選取 [取消連結此電腦]，然後 [取消連結帳戶]。
 
-若要重新連結帳戶，請在 [設定] 中的 [帳戶]**** 索引標籤上，選取 [新增帳戶]****，然後重新登入 OneDrive。
+若要重新連結帳戶，請在 [設定] 中的 [帳戶] 索引標籤上，選取 [新增帳戶]，然後重新登入 OneDrive。

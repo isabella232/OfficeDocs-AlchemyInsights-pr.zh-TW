@@ -2,7 +2,7 @@
 title: 變更名稱伺服器
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.openlocfilehash: 07a0dd19a768dd2b97923f0ced566b69ca2d6ba7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67680a6fa514d31ccb88cc8691a199cd1f58a402
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714679"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818603"
 ---
 # <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>將您的網域名稱伺服器更新為指向 Microsoft
 

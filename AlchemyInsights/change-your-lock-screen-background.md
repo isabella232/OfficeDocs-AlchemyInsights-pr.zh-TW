@@ -2,7 +2,7 @@
 title: 變更您的鎖定畫面背景
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 44e7d38655c7087f0b95a80488aef2de1fcb36c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c13ad21019ffa00067ea6be0af7f05210e264a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714463"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818099"
 ---
 # <a name="change-your-lock-screen-background"></a>變更您的鎖定畫面背景
 
-- 移至 [**設定**  >  **個人**化  >  **鎖定] 畫面**。 或者按一下或點擊 [這裡](ms-settings:lockscreen?activationSource=GetHelp)。
+- 移至 [**設定**  >  **個人** 化  >  **鎖定] 畫面**。 或者按一下或點擊 [這裡](ms-settings:lockscreen?activationSource=GetHelp)。
 
-- 若要設定自訂背景圖片，請從 [**背景**] 下拉式清單中選取 [**圖片**]，然後選擇或**流覽**至圖片。
+- 若要設定自訂背景圖片，請從 [**背景**] 下拉式清單中選取 [**圖片**]，然後選擇或 **流覽** 至圖片。
 
   ![設定自訂背景圖片。](media/set-custom-background-pic.png)
 

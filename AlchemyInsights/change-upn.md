@@ -2,7 +2,7 @@
 title: 變更 UPN
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 63831912c9781c73135790f0f855c71ee6ee6621
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60b8f4d1cdf64369709b8bd2703d3ae77ae5a410
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756454"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818243"
 ---
 # <a name="change-a-users-email-address"></a>變更使用者的電子郵件地址
 
@@ -31,7 +31,7 @@ ms.locfileid: "47756454"
     
 4. 在 [ **別名** ] 方塊中，輸入新的電子郵件， **然後選擇 [新增]**。
     
-    **重要**事項：如果您收到錯誤訊息「 **找不到符合參數名稱 ' EmailAddresses 的參數**」，表示要花很長的時間讓 Microsoft 完成設定您的租使用者或您的自訂網域（如果您最近新增一個）。 設定程序最多可能需要 4 個小時才能完成。 請稍候，讓設定程序完成，然後再試一次。 如果問題仍然存在，請連絡支援人員，他們會為您執行完整的同步處理。
+    **重要** 事項：如果您收到錯誤訊息「 **找不到符合參數名稱 ' EmailAddresses 的參數**」，表示要花很長的時間讓 Microsoft 完成設定您的租使用者或您的自訂網域（如果您最近新增一個）。 設定程序最多可能需要 4 個小時才能完成。 請稍候一段時間，讓設定程序完成，然後再試一次。 如果問題仍然存在，請連絡支援人員，他們會為您執行完整的同步處理。
     
     如果您收到錯誤訊息 " **很抱歉，無法編輯使用者。請複查使用者資訊，然後再試一次**，這表示您不是全域系統管理員，而且您沒有變更使用者名稱的許可權。
     

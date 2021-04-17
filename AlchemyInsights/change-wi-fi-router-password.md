@@ -2,7 +2,7 @@
 title: 變更 W-Wlan 路由器密碼
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 85aa158d917521fac871fd5c6687737fd22d736c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733426"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818171"
 ---
 # <a name="change-your-wi-fi-router-password"></a>變更您的 Wi-Fi 路由器密碼
 
@@ -31,9 +31,9 @@ ms.locfileid: "47733426"
 
 3. 選取 [ **詳細資料**]。
 
-4. 搜尋您的 IPv4 預設閘道，並記下此包含句點的數位字串。 例如：192.168.0.1、192.168.1.1、10.0.0.1 或10.0.1。1
+4. 搜尋您的 IPv4 預設閘道，並記下此包含句點的數位字串。 例如，192.168.0.1、192.168.1.1、10.0.0.1 或 10.0.1.1
 
-5. 開啟瀏覽器，將此包含句點的字串輸入至位址列，然後按 Enter 移至路由器的設定頁面。
+5. 開啟瀏覽器，在網址列中輸入包含句點的數字字串，然後按 Enter 以前往路由器的設定頁面。
 
 6. 當 [路由器的設定] 頁面開啟時，輸入您的使用者名稱和密碼。<br>
    - 如果您從未變更路由器的預設使用者名稱和密碼，您可能會在您的路由器手冊中找到此資訊。

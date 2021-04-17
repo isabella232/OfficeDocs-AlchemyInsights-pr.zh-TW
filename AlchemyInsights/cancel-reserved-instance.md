@@ -2,7 +2,7 @@
 title: 取消保留
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 04875e33f07c6d0a4306b3579ef81f2d28c7f506
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791398"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819683"
 ---
 # <a name="cancelling-reservation"></a>取消保留
 
-- **自助** ：您可以自己使用 [Azure 入口網站](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)取消或交換保留執行個體。 選取 [保留] 並按一下 [退款] 或 [交換]。 請注意，您必須有保留訂單的擁有者權限才能交換或退款。 僅存取保留將不允許您繼續退款或兌換。 要求保留訂單擁有者向您授予對保留訂單的存取權限
-- **交換原則：** 您可以將一個保留與另一個相同類型的保留交換 – 保留交換 **沒有負面影響** 。 新保留的總承諾金額應大於兌換保留的退款金額和未來每月付款的總和 (如適用)
-- **退款原則** ：在 12 個月的運行視窗內，退款和取消的未來付款總額不得超過 50000 美元。 我們 **目前不收取任何退款罰款** ，但可以在以後退款時收取  
+- **自助**：您可以自己使用 [Azure 入口網站](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)取消或交換保留執行個體。 選取 [保留] 並按一下 [退款] 或 [交換]。 請注意，您必須有保留訂單的擁有者權限才能交換或退款。 僅存取保留將不允許您繼續退款或兌換。 要求保留訂單擁有者向您授予對保留訂單的存取權限
+- **交換原則：** 您可以將一個保留與另一個相同類型的保留交換 – 保留交換 **沒有負面影響**。 新保留的總承諾金額應大於兌換保留的退款金額和未來每月付款的總和 (如適用)
+- **退款原則**：在 12 個月的運行視窗內，退款和取消的未來付款總額不得超過 50000 美元。 我們 **目前不收取任何退款罰款**，但可以在以後退款時收取  
     **例外：** 美國政府企業協定客戶不可用自助交換和取消功能
 - **API / PS / CLI** 不支援取消和退款 [Azure 保留的自助兌換和退款](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 - 美國政府企業協定客戶不可用自助交換和取消功能。 支援其他美國政府訂閱類型，包括隨付隨用和 CSP

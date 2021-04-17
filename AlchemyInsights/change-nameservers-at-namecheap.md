@@ -2,7 +2,7 @@
 title: 在 Namecheap 變更名稱伺服器
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5865"
 - "14"
-ms.openlocfilehash: 550cd3a9ec8b6e9f647a423ed35e2a249847a308
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fed42cddb6a786bc9c8836ec3eec195f1a12919b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682223"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818675"
 ---
 # <a name="change-nameservers-at-namecheap"></a>在 Namecheap 變更名稱伺服器
 

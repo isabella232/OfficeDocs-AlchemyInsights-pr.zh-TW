@@ -2,7 +2,7 @@
 title: 在 1 and 1 IONOS 變更名稱伺服器
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5826"
 - "14"
-ms.openlocfilehash: 49f0c4456e6f4dd4d78b2f50734edc98d8031608
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b66f587552e5427ca66a70c9e387fccc54b0d4a4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682745"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818891"
 ---
 # <a name="change-nameservers-at-1-and-1-ionos"></a>在 1 and 1 IONOS 變更名稱伺服器
 

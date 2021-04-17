@@ -2,7 +2,7 @@
 title: 無法連接至網際網路
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 50e901a0bb6e6b4abefbb3aa8946c40fb11dfc99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794253"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819431"
 ---
 # <a name="fix-network-connection"></a>修正網路連線
 
@@ -25,7 +25,7 @@ ms.locfileid: "47794253"
 
 1. [開啟疑難排解設定](ms-settings:troubleshoot)。
 
-2. 在 [ **網際網路連線**] 底下，選取 **[執行疑難排解**程式]。
+2. 在 [ **網際網路連線**] 底下，選取 **[執行疑難排解** 程式]。
 
 如果您使用 Wi-Fi 連線，請確定已為您的裝置開啟 Wi-Fi (包括任何實體 Wi-Fi 切換) ，而且該飛安模式並未開啟。
 
