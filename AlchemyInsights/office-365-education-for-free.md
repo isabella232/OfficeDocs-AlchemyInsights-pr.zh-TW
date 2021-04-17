@@ -2,7 +2,7 @@
 title: Office 365 免費教育版
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,15 +13,15 @@ ms.custom:
 - "1426"
 - "1500009"
 ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
-ms.openlocfilehash: 3769774271ac88d359071e8ea741f2a0faa4dc7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca1d0674fb246b0bf7b3899b21fac503675c0a23
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729934"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829619"
 ---
-# <a name="office-365-education-for-free"></a><span data-ttu-id="d602f-102">Office 365 免費教育版</span><span class="sxs-lookup"><span data-stu-id="d602f-102">Office 365 Education for free</span></span>
+# <a name="office-365-education-for-free"></a><span data-ttu-id="81a3e-102">Office 365 免費教育版</span><span class="sxs-lookup"><span data-stu-id="81a3e-102">Office 365 Education for free</span></span>
 
-[<span data-ttu-id="d602f-103">Office 365 免費教育版</span><span class="sxs-lookup"><span data-stu-id="d602f-103">Office 365 Education for free</span></span>](https://products.office.com/student/office-in-education?ms.officeurl=students)
+[<span data-ttu-id="81a3e-103">Office 365 免費教育版</span><span class="sxs-lookup"><span data-stu-id="81a3e-103">Office 365 Education for free</span></span>](https://products.office.com/student/office-in-education?ms.officeurl=students)
   
-<span data-ttu-id="d602f-104">這不是實驗！</span><span class="sxs-lookup"><span data-stu-id="d602f-104">It's not a trial!</span></span> <span data-ttu-id="d602f-105">學生和教師可用於 Office 365 教育版，其中包括 Word、Excel、PowerPoint、OneNote 和現在的 Microsoft 小組，以及其他的課程工具。</span><span class="sxs-lookup"><span data-stu-id="d602f-105">Students and teachers are eligible for Office 365 Education, which includes Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.</span></span>
+<span data-ttu-id="81a3e-104">這不是實驗！</span><span class="sxs-lookup"><span data-stu-id="81a3e-104">It's not a trial!</span></span> <span data-ttu-id="81a3e-105">學生和教師可用於 Office 365 教育版，其中包括 Word、Excel、PowerPoint、OneNote 和現在的 Microsoft 小組，以及其他的課程工具。</span><span class="sxs-lookup"><span data-stu-id="81a3e-105">Students and teachers are eligible for Office 365 Education, which includes Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.</span></span>
