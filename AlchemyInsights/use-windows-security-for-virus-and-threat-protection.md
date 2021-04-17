@@ -2,7 +2,7 @@
 title: 使用 Windows 安全性進行病毒和威脅防護
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001517"
 - "5609"
-ms.openlocfilehash: 1a92ae582919ddd11b62498d2c91111165e34595
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7fbbe5d5a7aa347541f6cedd3dc97daa2b9757d2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795082"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825974"
 ---
 # <a name="use-windows-security-for-virus-and-threat-protection"></a>使用 Windows 安全性進行病毒和威脅防護
 

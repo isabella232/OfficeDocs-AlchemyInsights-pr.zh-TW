@@ -2,7 +2,7 @@
 title: 瞭解計費金額
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: f48ee1e36909515bf81df1ebeb367f91e9a1c9ca
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791428"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827855"
 ---
 # <a name="understand-billing-amount"></a>瞭解計費金額
 
@@ -28,7 +28,7 @@ ms.locfileid: "48791428"
 - 了解 Azure 使用費條款：[已解釋使用條款](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - 要取得發票的 PDF 和詳細的日常使用量檔案 (.CSV) 的副本，請[取得發票和使用量資料](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**注意** ：如果您在計費週期中取消訂閱/資源，您可能仍然會看到上個月的任何使用的費用。 範例，如果您的計費週期是從每月 26 號到下個月 25 號，並且您在 23 號暫停了訂閱，也就是 6 月份的計費週期的 28 天，那麼您可能會看到 28 天的使用費用。 如果您在取消訂閱的情况下看到收費，請確保您沒有其他導致收費的支援計畫。 如果你這樣做，請繼續取消計畫。
+**注意**：如果您在計費週期中取消訂閱/資源，您可能仍然會看到上個月的任何使用的費用。 範例，如果您的計費週期是從每月 26 號到下個月 25 號，並且您在 23 號暫停了訂閱，也就是 6 月份的計費週期的 28 天，那麼您可能會看到 28 天的使用費用。 如果您在取消訂閱的情况下看到收費，請確保您沒有其他導致收費的支援計畫。 如果你這樣做，請繼續取消計畫。
 
 **Microsoft 客戶合約 (MCA)：**
 
@@ -51,10 +51,10 @@ ms.locfileid: "48791428"
 
 發票服務超額大票：
 
-- 登入 **入口網站** 。 選取 **[報告]**
+- 登入 **入口網站**。 選取 **[報告]**
 - 在索引標籤的右上角，將檢視從 **M** 切換到 **C** 並匹配發票上的時間段
 - 總 **使用** 金額應與服務超額發票上的總 **擴展** 金額相符合
-- 請移至 **下載使用情况 > 高級報告下載** 以取得有關費用的詳細資訊 **注意** ：此報告不包括稅金、保留費用或市場費用
+- 請移至 **下載使用情况 > 高級報告下載** 以取得有關費用的詳細資訊 **注意**：此報告不包括稅金、保留費用或市場費用
 
 **Azure Marketplace**
 
@@ -64,10 +64,10 @@ ms.locfileid: "48791428"
 
 在企業入口網站中的 [報表] > [使用情況摘要] 中比較您的 Azure Marketplace 合計與 Marketplace 發票。  Marketplace 發票僅用於 Azure Marketplace 購買和使用。 使用摘要上的金額不包括稅。
 
-- 登入 **入口網站** 。 選取 **[報告]**
+- 登入 **入口網站**。 選取 **[報告]**
 - 在索引標籤的右上角，將檢視從 **M** 切換到 **C** 並匹配發票上的時間段
 - **Azure Marketplace** 總數應與您的 Marketplace 發票上的 **總銷售額** 匹配
-- 移至 **[下載使用狀況]** ，以取得有關使用計費的詳細資訊。 在 **Marketplace 費用** 底下，選取 **下載** **注意** ：此報告不包含稅或顯示買斷型
+- 移至 **[下載使用狀況]** ，以取得有關使用計費的詳細資訊。 在 **Marketplace 費用** 底下，選取 **下載** **注意**：此報告不包含稅或顯示買斷型
 
 **雲端解決方案提供者 (CSP)**
 

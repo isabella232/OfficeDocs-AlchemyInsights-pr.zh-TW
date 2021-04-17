@@ -2,7 +2,7 @@
 title: Planner 常見問題和解決方法
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "3193"
-ms.openlocfilehash: b30b47493f9b9df0f6a5fd177745cad98c2d018a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a289c9e932c1c1724017ffd6711b8466d4cad6d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802048"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826874"
 ---
 # <a name="planner-common-issues-and-resolutions"></a>Planner 常見問題和解決方法
 
@@ -25,7 +25,7 @@ ms.locfileid: "47802048"
  
 - **快速入門：** [開始使用 Planner](https://support.office.com/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc)，並瞭解如何為 [您的組織啟用 Planner、新增來賓使用者，以及管理環境中的存取](https://docs.microsoft.com/office365/planner/planner-for-admins)。
 
-- **使用小組中的規劃**人員：如需與 microsoft 小組整合 planner 的一般綜述，請參閱 [Use Planner in microsoft 團隊](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)。
+- **使用小組中的規劃** 人員：如需與 microsoft 小組整合 planner 的一般綜述，請參閱 [Use Planner in microsoft 團隊](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)。
 
      - [將 [Planner] 索引標籤新增至小組通道](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel)。 新增索引標籤的使用者必須是該小組的成員，而不只是擁有者。 您可以透過團隊介面將使用者新增為成員。 您也可以 [將現有的計畫新增至 Microsoft 團隊](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)。
 

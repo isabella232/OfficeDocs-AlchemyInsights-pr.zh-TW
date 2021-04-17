@@ -2,7 +2,7 @@
 title: 解決 Office 啟用錯誤 0xD000000C
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "4487"
 - "3496"
 - "2000021"
-ms.openlocfilehash: 0fb1fd9ddf9e36c5eb5b3d1f8a8f0e7170a76edc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 15286a34e6118ca5f379b52b2db26e4d6a4d3925
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767734"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826730"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>解決 Office 啟用錯誤 0xD000000C
 

@@ -2,7 +2,7 @@
 title: 更新您的電子郵件帳戶密碼
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001098"
 - "3059"
-ms.openlocfilehash: 99383ea671e22f85e969a2e5467315fa4d7ec572
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4ce32ceb9c79a149c784a43ef7aad9f951d2888
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734866"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827387"
 ---
 # <a name="updating-your-email-account-password"></a>更新您的電子郵件帳戶密碼
 

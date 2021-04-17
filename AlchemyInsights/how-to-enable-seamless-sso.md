@@ -2,7 +2,7 @@
 title: 如何啟用無縫 SSO
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: f3581549823e1ec650a3717780bc07e9944d4c1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 565ec53a3d9f8863562ac828e21a4a153c61ae88
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780518"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825722"
 ---
 # <a name="how-to-enable-seamless-sso"></a>如何啟用無縫 SSO
 
@@ -30,9 +30,9 @@ ms.locfileid: "47780518"
   
 1. 以全域系統管理員身分登入 [Azure Active Directory 系統管理中心](https://aad.portal.azure.com) 。
 
-2. 在左窗格中選取 [ **Azure Active Directory** ]。
+2. 在左側窗格中，選取 **[Azure Active Directory]**。
 
-3. 確認 **已啟用**無縫單一登入。
+3. 確認 **已啟用** 無縫單一登入。
 
 若要深入瞭解，請參閱 [Azure Active Directory 無縫單一 Sign-On：快速入門](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)。
   

@@ -2,7 +2,7 @@
 title: 解除鎖定帳戶
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 9a6178bd6ebc9c1c86869ece552448fbe8ac9a9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 532b273154a31c024825b150d9b0edd42eb6130c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657888"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827747"
 ---
 # <a name="unlocking-an-account"></a>解除鎖定帳戶
 
@@ -37,7 +37,7 @@ ms.locfileid: "47657888"
 
 1. 在系統管理中心中，請前往 **[使用者] > [[作用中的使用者](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)]**。
 
-2. 選取該使用者，然後按一下 [更多動作 (...)]****，然後按一下 [編輯登入狀態]****。
+2. 選取該使用者，然後按一下 [更多動作 (...)]，然後按一下 [編輯登入狀態]。
 
 如需更多密碼重設案例，包括自助密碼重設，請參閱[針對 multiple-attempts-to-charge-online-payment-instrumentsbusiness 重設 Microsoft 365 密碼](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide)。
 

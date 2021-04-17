@@ -2,7 +2,7 @@
 title: Teams 系統管理中心
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670355"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826370"
 ---
 # <a name="teams-admin-center"></a>Teams 系統管理中心
 
@@ -32,5 +32,5 @@ ms.locfileid: "47670355"
 
 - 您是否已在最近 24 小時內建立使用者或指派授權？ 請確定在開啟支援票證前，先等候至少 24 小時。
 - 確認您已指派適當的授權？
-- 如果您擁有內部部署的 Active Directory，請確認 [您的本機 Active Directory 中的 ProxyAddresses 欄位中的 msRTCSIP-PrimaryUserAddress 或 SIP 位址的值是唯一值，且格式符合 ](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip：[Microsoft 365 系統管理中心](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)的使用者的**使用者名稱**。
+- 如果您擁有內部部署的 Active Directory，請確認 [您的本機 Active Directory 中的 ProxyAddresses 欄位中的 msRTCSIP-PrimaryUserAddress 或 SIP 位址的值是唯一值，且格式符合](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip：[Microsoft 365 系統管理中心](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)的使用者的 **使用者名稱**。
 - 如果您想要保留商務用 Skype Server 部署並讓使用者駐留于內部部署和線上：請參閱商務用 Skype Server [控制台] 中的 **[使用 Teams 和商務用 Skype Online 設定混合式部屬]** 並在線上移動使用者。

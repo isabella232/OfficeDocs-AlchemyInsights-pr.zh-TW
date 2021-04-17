@@ -2,7 +2,7 @@
 title: 在 Google 更新 DNS 記錄 (eNom)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5821"
-ms.openlocfilehash: 34d065fbc8e04e4bcf70d04d6628784703d5f0d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ae76d919bf1a0285e31d53e87219a0a204bb42e9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799915"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827567"
 ---
 # <a name="update-dns-records-at-google-enom"></a>在 Google 更新 DNS 記錄 (eNom)
 

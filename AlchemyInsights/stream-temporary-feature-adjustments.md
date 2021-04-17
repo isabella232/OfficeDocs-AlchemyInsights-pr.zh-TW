@@ -2,7 +2,7 @@
 title: Stream 暫時功能調整
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4510"
-ms.openlocfilehash: f1ab78a3a212c0938e82d92907acc47466733b1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d2dc84894c5971ca212fb2b77cfdb028e9808c70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726559"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828071"
 ---
 # <a name="stream-temporary-feature-adjustments"></a>Stream 暫時功能調整
 
