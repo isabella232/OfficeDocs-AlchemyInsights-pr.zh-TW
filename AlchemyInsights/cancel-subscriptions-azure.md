@@ -3,7 +3,7 @@ title: 在 Azure 中取消訂閱
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 83fab49ccafd23352fe28569289a709a198fd402
+ms.sourcegitcommit: 80a36e6447953b3f65e45c05607dbfc585fbf8b0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819575"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51936145"
 ---
 # <a name="cancel-subscription"></a>取消訂閱
 
-如果您不再需要該訂閱，您可以在 Azure 入口網站取消您的 Azure 訂閱 (僅限該訂閱的帳戶系統管理員或擁有者權利)。 請遵循下列步驟。
+如果您不再需要 Azure 訂閱，您可以在 Azure 入口網站取消訂閱。 Azure 訂閱只能由帳戶系統管理員或具備訂閱的擁有者權力的使用者取消。
 
 1. 從 [Azure 入口網站的訂閱頁面](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) 選取您的訂閱。
 2. 選取您要取消的訂閱。
