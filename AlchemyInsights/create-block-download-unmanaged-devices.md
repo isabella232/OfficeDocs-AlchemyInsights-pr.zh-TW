@@ -21,7 +21,7 @@ ms.locfileid: "52066993"
 ---
 # <a name="create-a-block-download-policy-for-unmanaged-devices"></a>建立未受管理裝置的封鎖下載原則
 
-若要封鎖有權存取企業雲端應用程式中敏感性資料的使用者，從未受管理的裝置或公司以外的網路位置進行下載，請參閱[教學課程：封鎖機密資訊下載](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad)。
+若要封鎖有權存取企業雲端應用程式中敏感性資料的使用者，使其無法從未受管理的裝置或公司以外的網路位置進行下載，請參閱[教學課程：封鎖機密資訊下載](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad) (部分機器翻譯)。
 
 
 
