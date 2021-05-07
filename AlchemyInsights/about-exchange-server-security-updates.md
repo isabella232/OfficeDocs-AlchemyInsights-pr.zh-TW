@@ -1,5 +1,5 @@
 ---
-title: 關於 Exchange Server 安全性更新
+title: 關於 Exchange Server 更新
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726518"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233453"
 ---
-# <a name="about-exchange-server-security-updates"></a>關於 Exchange Server 安全性更新
+# <a name="about-exchange-server-updates"></a>關於 Exchange Server 更新
 
-Microsoft 已針對內部部署 Exchange Server 發行一系列重要的安全性更新。 受影響的伺服器版本為 Exchange Server 2010、2013、2016及2019的任何更新層級。 Exchange Online 不會受到影響，但是如果您有某些內部部署 Exchange 伺服器由於混合式設定而發生，它們可能會受到威脅。
+Microsoft 通常會在更新 Exchange Server (的安全性更新) 或每季度 (累計更新) 的更新版本。 若要查看發行的最新發行更新的宣告，請參閱[Exchange 小組博客](https://aka.ms/ehlo)。
 
-請參閱下列宣告中的修復程式位置：已 [發行：2021年3月的 Exchange Server 安全性更新](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- 若要清查您的 Exchange 伺服器，使用[Exchange Server 狀況檢查程式腳本， (GitHub，請使用最新的版本) ](https://aka.ms/ExchangeHealthChecker)。 執行這個腳本會告訴您 Exchange 的任何伺服器是否都在更新 (cu 和 SUs) 之後。
 
-**重要附注：**
+- 若要更新為最新的累計更新，請移至[Exchange 更新嚮導](https://aka.ms/ExchangeUpdateWizard)，然後選擇您目前執行的 cu 和您的目標 CU。 選取 **[告訴我** 如何取得您環境的行車步驟。
 
-若要手動安裝更新，請閱讀更新 KB 文章的「已知問題」一節，以取得重要資訊。 安全性更新必須從更高的 CMD/PowerShell prompt 執行！
-
-您可以在 [這裡找到](https://aka.ms/exupdatefaq)更新疑難排解資訊。
+- 如果您在安裝 Exchange Server 更新期間或之後發生錯誤，請參閱[修復失敗的安裝的 Exchange 累計和安全性更新](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)。

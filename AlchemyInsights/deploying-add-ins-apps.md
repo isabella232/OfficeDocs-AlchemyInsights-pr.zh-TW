@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52107509"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233504"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>部署 Microsoft 365 Apps 的增益集
 
 集中式部署是將 Office 增益集部署至組織內之使用者和群組的建議方法。 若要部署增益集，請遵循下列步驟：
 
-**附注：** 若要以個別使用者的身分安裝 Office 增益集，請參閱 [在 Office 程式中查看、管理及安裝增益集](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d)。 此外，請確定已啟用個別購買 Office 儲存區增益集。 
+**附注：** 若要以個別使用者的身分安裝 Office 增益集，請參閱 [在 Office 程式中查看、管理及安裝增益集](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d)。 此外，請確定已啟用個別購買 Office 儲存區增益集。 如需詳細資訊，請參閱[除了 Outlook) 以外，關閉所有用戶端上的 Office 儲存區，以避免增益集下載 (](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)。
 
 1. 確定您的環境符合使用集中式部署來部署增益集的需求。 如需詳細資訊，請參閱 [需求](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)。
 2. 移至 **設定**  >  的 **整合式應用程式**  >  在 Microsoft 365 系統管理中心 **取得應用程式**，以部署增益集。 

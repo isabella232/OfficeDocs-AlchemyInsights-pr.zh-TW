@@ -13,12 +13,12 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0c9e7a5bed309e473cc626f2572f902f1a581234
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811051"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261735"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – 音訊會議
 
@@ -40,4 +40,4 @@ ms.locfileid: "51811051"
 
 7. 選取有問題的使用者，並確認使用者有 **預設付費電話號碼**。
 
-若您需要更多 **[Microsoft 音訊會議]** 的授權購買說明，請聯繫 [[Microsoft 帳單客戶服務]](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)。
+若您需要更多 **[Microsoft 音訊會議]** 的授權購買說明，請聯繫 [[Microsoft 帳單客戶服務]](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)。

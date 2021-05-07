@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.openlocfilehash: d4c5fcf5140f079bfb6ae0f76ec2d080c6befd0a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 1c9c57be405b6bfd530cebc801671fd017df859b
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896858"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261583"
 ---
 # <a name="canceling-your-subscription"></a>取消您的訂閱？
 
 很抱歉看到您，但是如果您想要取消您的訂閱，請選擇下列選項：
   
 - 如果您指派的授權不足25個，您可以取消線上訂閱。 移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面，並找到您想要取消的訂閱。 選取 **[更多動作]** (三個點)，然後選取 **[取消訂閱]**。
-- 如果您有超過25個授權指派給使用者，請 [致電支援部門以取消您的訂閱](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)。
+- 如果您有超過25個授權指派給使用者，請 [致電支援部門以取消您的訂閱](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)。
   
 **退款：在下一個計費週期內，任何按比例支付的信用額度都會傳回給您。**
 
