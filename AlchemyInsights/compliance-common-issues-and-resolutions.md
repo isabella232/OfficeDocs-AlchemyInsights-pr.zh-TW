@@ -12,27 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 128209e31b5697a3ab9252f339c9de3c3169e5c6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 010d9e6b3a4bedb5b8649ece6eaa3d857883c729
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817343"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470194"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>合規性常見問題和解決方案
 
+如需檢視警示的說明，請參閱 [安全性和合規性中心的警示原則](/microsoft-365/compliance/alert-policies.md)。
+
 以下是一些合規性的常見主題：
 
-- 如何設定封存和不自動移至封存的郵件：需要[啟用封存、設定封存原則](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes?view=o365-worldwide)和[提高封存大小](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide)。
+- 如何設定封存和不自動移至封存的郵件：需要[啟用封存、設定封存原則](/microsoft-365/compliance/enable-archive-mailboxes.md)和[提高封存大小](/microsoft-365/compliance/enable-unlimited-archiving.md)。
 
-- 保留原則：關於[保留時間計算](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-age)、[新增或移除保留標籤](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)、[使用安全性與合規性中心的保留原則](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide)來保留或刪除內容的問題。
+- 保留原則：關於[保留時間計算](/exchange/security-and-compliance/messaging-records-management/retention-age.md)、[新增或移除保留標籤](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags.md)、[使用安全性與合規性中心的保留原則](/microsoft-365/compliance/retention-policies.md)來保留或刪除內容的問題。
 
-- 設定電子文件探索和內容搜尋與匯出：[內容搜尋](https://docs.microsoft.com/microsoft-365/compliance/search-for-content?view=o365-worldwide)和[匯出搜尋結果](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide)。
+- 設定電子文件探索和內容搜尋與匯出：[內容搜尋](/microsoft-365/compliance/search-for-content.md)和[匯出搜尋結果](/microsoft-365/compliance/export-search-results.md)。
 
-- 在 O365 中稽核：[在 O365 中搜尋稽核記錄](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide)。
+- 在 O365 中稽核：[在 O365 中搜尋稽核記錄](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance.md)。
 
-- 資料外洩防護 (DLP)：如需詳細資訊，請參閱[資料外洩防護 (DLP) 的概觀](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide)。
+- 資料外洩防護 (DLP)：如需詳細資訊，請參閱[資料外洩防護 (DLP) 的概觀](/microsoft-365/compliance/data-loss-prevention-policies.md)。
  
-- 敏感度標籤：若要深入了解，請參閱[建立及設定敏感度標籤及其原則](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)。
+- 敏感度標籤：若要深入了解，請參閱[建立及設定敏感度標籤及其原則](/microsoft-365/compliance/create-sensitivity-labels.md)。
 
 **注意**：如需有關合規性問題的更具體解答，請簡單地重新表述您的問題，並納入您所看到的錯誤或您所使用的功能。
