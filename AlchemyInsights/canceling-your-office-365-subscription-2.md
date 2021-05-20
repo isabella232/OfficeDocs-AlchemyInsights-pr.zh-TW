@@ -1,5 +1,5 @@
 ---
-title: 取消 Microsoft 365 訂閱？
+title: 取消您的 Microsoft 365 訂閱嗎？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 43c70e34ea89f5579309bb831b2c20db0d9e7d7d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50231998"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543208"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>取消 Microsoft 365 訂閱？
+# <a name="canceling-your-microsoft-365-subscription"></a>取消您的 Microsoft 365 訂閱嗎？
 
 很抱歉看到您離開！
   
@@ -27,8 +27,8 @@ ms.locfileid: "50231998"
 
 1. 從使用者中移除授權，直到您的授權使用者不足25個為止。
 2. 移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。
-3. 在 [ **產品** ] 索引標籤上，尋找您要取消的訂閱，選取 [ **更多動作** (三個點) ]，然後選取 [ **取消訂閱**]。
+3. 在 [ **產品** ] 索引標籤上，尋找您要取消的訂閱，然後選取 [三個點 (更多動作) ]，然後選取 [ **取消訂閱**]。
 
 **退款：** 任何按比例計算的款項將會在下個計費週期內退回。
 
-若要深入瞭解，請參閱 [取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
+若要深入瞭解，請參閱 [取消您的訂閱](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
