@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 59db84b9068843333ee28f47b9e69cf8b805b184
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489304"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544245"
 ---
 # <a name="subscription-no-longer-active"></a>訂閱已無效
 
@@ -26,8 +26,8 @@ ms.locfileid: "48489304"
 **重新啟用訂閱**
 
 1. 在系統管理中心，移至 **[帳單]** > [您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
-2. 在 **[產品]** 索引標籤上，找出您要重新啟用的訂閱。 選取 **[更多動作**（三個點）]，然後選取 **[重新啟用此訂閱]**。
+2. 在 **產品** 索引標籤上，找出您想要重新啟用的訂閱，選取三個點 (更多動作)，然後選取 **[重新啟用此訂閱]**。
 3. 在 **重新啟用此訂閱** 窗格中，從下拉式清單中選取付款條件，或選取 **[新增付款條件]**。
 4. 選取 **[儲存]**。
 
-若要深入了解，請參閱[重新啟動您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
+若要深入了解，請參閱[重新啟動您的訂閱](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
