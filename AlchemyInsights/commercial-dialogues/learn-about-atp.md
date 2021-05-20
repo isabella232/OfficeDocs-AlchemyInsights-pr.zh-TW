@@ -1,5 +1,5 @@
 ---
-title: 深入瞭解 ATP
+title: 深入瞭解 Microsoft Defender Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403554"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539779"
 ---
-# <a name="learn-about-atp"></a>深入瞭解 ATP
+# <a name="learn-about-microsoft-defender-for-office-365"></a>深入瞭解 Microsoft Defender Office 365
 
-以下是有關 Office 365 高級威脅防護 (ATP) 的一些資訊：
+以下是 Microsoft Defender Office 365 的一些相關資訊：
 
-**什麼是 ATP？**
+**何謂 Office 365 的 Microsoft Defender？**
 
-ATP 是一種雲端式電子郵件篩選服務，可協助組織抵禦未知惡意程式碼和病毒，並提供強健的零日保護。 它包含即時保護組織免受有害連結的功能。
+Microsoft Defender for Office 365 是一種雲端式電子郵件篩選服務，可透過提供強健的零日保護，協助組織防禦未知的惡意程式碼和病毒。 它包含即時保護組織免受有害連結的功能。
 
-**如何啟用 ATP？**
+**如何為 Office 365 啟用 Microsoft Defender？**
 
-安全附件、安全連結和反網路釣魚都是 ATP 功能的一部分。 企業版 E5、教育版 A5 和 Microsoft 365 業務包含內建的 ATP 功能。 所有其他計畫都需要附加元件 ATP 訂閱。 您必須將適當的授權指派給您的使用者，才能受到 Office 365 ATP 的保護。 您必須具有全域管理員或安全性管理員許可權，才能存取此功能。 若要深入瞭解如何對使用者批量套用授權，請參閱 [在商務用 Office 365 中指派授權給使用者](https://go.microsoft.com/fwlink/?linkid=2093435)。
+安全附件、安全連結和反網路釣魚都屬於 Microsoft Defender Office 365 功能。 EnterpriseE5、教育版 A5 和 Microsoft 365 商務版包含內建的 Microsoft Defender 以進行 Office 365 功能。 所有其他計畫都需要增益集的 Microsoft Defender Office 365 訂閱。 您必須將適當的授權指派給您的使用者，才能 Office 365 的 Microsoft Defender 保護。 您必須具有全域管理員或安全性管理員許可權，才能存取此功能。 若要深入瞭解如何對使用者批量套用授權，請參閱[在商務用 Office 365 中指派授權給使用者](https://go.microsoft.com/fwlink/?linkid=2093435)。
 
-**如何管理 ATP 或深入瞭解？**
+**如何管理 Microsoft Defender 以取得 Office 365 或深入瞭解？**
 
 a. 移至 [ [安裝程式](https://go.microsoft.com/fwlink/p/?linkid=2075721)]。
 b. 在 [登 **入及安全性**] 下，找到 [ **增加來自高級威脅的保護**]，然後選取 [ [查看](https://go.microsoft.com/fwlink/?linkid=2109302)]。
