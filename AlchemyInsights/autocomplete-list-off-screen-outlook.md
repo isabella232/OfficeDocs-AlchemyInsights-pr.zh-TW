@@ -13,17 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "11171"
-ms.openlocfilehash: afc84866a3dd9ecb30562bd185239c3d1695fd10
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 17e25e4d017f8a829c18a7987dfa332783efc0b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261875"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543782"
 ---
-# <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a><span data-ttu-id="af96d-102">AutoComplete 清單會滾出 Outlook 桌面的畫面</span><span class="sxs-lookup"><span data-stu-id="af96d-102">AutoComplete list scrolls off the screen in Outlook Desktop</span></span>
+# <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a><span data-ttu-id="ed455-102">AutoComplete 清單會滾出 Outlook 桌面的畫面</span><span class="sxs-lookup"><span data-stu-id="ed455-102">AutoComplete list scrolls off the screen in Outlook Desktop</span></span>
 
-<span data-ttu-id="af96d-103">在更新為 Outlook 桌上出版本 2104 (組建 13929.20296) 後，AutoComplete 清單會意外地向上走，而且可能會滾離畫面。</span><span class="sxs-lookup"><span data-stu-id="af96d-103">After updating to Outlook Desktop version 2104 (Build 13929.20296), the AutoComplete list unexpectedly goes up and may scroll off the screen.</span></span> <span data-ttu-id="af96d-104">您可能看不到清單中的所有 AutoComplete 專案，而且無法向上滾動以進行存取。</span><span class="sxs-lookup"><span data-stu-id="af96d-104">You might not see all the AutoComplete entries in the list and can't scroll up to access them.</span></span>
+<span data-ttu-id="ed455-103">此問題已修正于版本2104組建13929.20386。</span><span class="sxs-lookup"><span data-stu-id="ed455-103">This issue is fixed in Version 2104 Build 13929.20386.</span></span> <span data-ttu-id="ed455-104">具有固定組建的更新預期會移至5月17日當周的目前管道生產。</span><span class="sxs-lookup"><span data-stu-id="ed455-104">The update with the fixed build is expected to go to Current Channel production the week of May 17.</span></span> 
 
-<span data-ttu-id="af96d-105">**狀態：調查** Outlook 小組正在調查問題，並會在有詳細資訊時更新本文。</span><span class="sxs-lookup"><span data-stu-id="af96d-105">**STATUS: INVESTIGATING**  The Outlook team is investigating the issue and will update this article when more information is available.</span></span>
-
-<span data-ttu-id="af96d-106">如需最新的狀態，請參閱[AutoComplete 清單會從 Outlook 中的畫面滾出](https://support.microsoft.com/office/autocomplete-list-scrolls-off-the-screen-in-outlook-0247f165-697f-4238-b424-b03cd2582e2d?ui=en-US&rs=en-US&ad=US)。</span><span class="sxs-lookup"><span data-stu-id="af96d-106">For the latest status, see [AutoComplete list scrolls off the screen in Outlook](https://support.microsoft.com/office/autocomplete-list-scrolls-off-the-screen-in-outlook-0247f165-697f-4238-b424-b03cd2582e2d?ui=en-US&rs=en-US&ad=US).</span></span>
+<span data-ttu-id="ed455-105">若要確認何時可以使用固定版本，請參閱[依日期) 列出 Microsoft 365 Apps (的更新歷程記錄](/officeupdates/update-history-microsoft365-apps-by-date)。</span><span class="sxs-lookup"><span data-stu-id="ed455-105">To confirm when the fixed build is available, see [Update history for Microsoft 365 Apps (listed by date)](/officeupdates/update-history-microsoft365-apps-by-date).</span></span>
