@@ -1,5 +1,5 @@
 ---
-title: Microsoft 威脅專家-目標攻擊通知
+title: Microsoft 威脅專家目標攻擊通知
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 2f93020fc3b350e1d85064e9c57de80a65814687
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 4cb5194e692ad64fc85d35170659c55b546fc431
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50696829"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545367"
 ---
-# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft 威脅專家-目標攻擊通知
+# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft 威脅專家目標攻擊通知
 
-目標攻擊通知是兩種 Microsoft 威脅專家的功能之一。 這是一種主動威脅搜尋服務，可提供特殊的洞察力和分析，協助確保最重要的威脅已正確地識別並回應。
+目標攻擊通知是兩個 Microsoft 威脅專家功能的其中一個。 這是一種主動威脅搜尋服務，可提供特殊的洞察力和分析，協助確保最重要的威脅已正確地識別並回應。
 
-如果您是 Microsoft Defender for Endpoint 客戶，您必須套用 Microsoft 威脅專家針對目標的攻擊通知，以取得特殊的真知灼見和分析，以協助識別最重要的威脅，讓您能快速回應這些威脅。
+如果您是 Microsoft Defender for Endpoint 客戶，您必須針對 Microsoft 威脅專家目標攻擊通知進行套用，以取得特殊的洞察力和分析，以協助識別最重要的威脅，讓您能快速回應這些威脅。
 
-若要註冊 microsoft 威脅專家目標的攻擊通知權益，請移至 [**設定**]  >  **[一般**  >  **高級功能**]  >  **Microsoft 威脅專家-要套用的目標攻擊通知**。 一旦接受，您就會獲得目標攻擊通知的優點。
+若要登記 Microsoft 威脅專家目標攻擊通知的優點，請移至 **設定**  >  **一般**  >  **高級功能**，  >  以 Microsoft 威脅專家要套用 **的目標攻擊通知**。 一旦接受，您就會獲得目標攻擊通知的優點。
 
-您可以透過下列媒介接收來自 Microsoft 威脅專家的目標攻擊通知：
+您可以透過下列媒介從 Microsoft 威脅專家接收目標攻擊通知：
 
 - Defender for Endpoint portal 的事件頁面
 - Defender for Endpoint 入口網站的警示儀表板
@@ -38,4 +38,4 @@ ms.locfileid: "50696829"
 
 若要透過電子郵件接收目標攻擊通知，請建立電子郵件通知規則。 
 
-如需詳細資訊，請參閱 [設定及管理 Microsoft 威脅專家功能](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) 。
+如需詳細資訊，請參閱[Configure and manage Microsoft 威脅專家功能](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)。

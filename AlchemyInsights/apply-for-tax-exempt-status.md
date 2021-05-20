@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: a5cb61f750b0233a8b73a36aa35f26d4b3640e1d
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 9f5bdb508f2e1ab884cb199914885ccb6103f2fb
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261728"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543883"
 ---
 # <a name="apply-for-tax-exempt-status"></a>申請免稅資格
 
-請備妥下列文件。 您必須[啟動服務要求](/microsoft-365/admin/contact-support-for-business-products)來申請免稅資格。
+請備妥下列文件。 您必須[啟動服務要求](https://go.microsoft.com/fwlink/p/?linkid=518322)來申請免稅資格。
 
 - **美國** - 請備妥 **營業稅免稅證明**。
 
@@ -33,4 +33,4 @@ ms.locfileid: "52261728"
 
 - **波多黎各** - 請備妥 **Certificado de Compras Exentas**。
 
-如需詳細資訊，請參閱[稅務資訊](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)。
+如需詳細資訊，請參閱[稅務資訊](/microsoft-365/commerce/billing-and-payments/tax-information)。

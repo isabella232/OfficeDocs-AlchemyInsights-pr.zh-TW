@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 4a5fd418e59e9aa56522e9cef17bb72e6c8b8bd8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0fb43292dfa446c829dd41c8513c05285fbd79e0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735893"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539707"
 ---
 # <a name="publish-sensitivity-labels"></a>發佈敏感度標籤
 
@@ -34,7 +34,7 @@ ms.locfileid: "50735893"
 6. 檢閱已選取的標籤。 若要變更，請按一下 **[編輯]**；否則，請按一下 **[下一步]**。
 7. 遵循提示來設定原則設定。
 8. 如果不同的使用者或位置需要不同的原則設定，請重複這些步驟。 例如，您需要一組使用者有其他標籤，或使用者的子集有不同的預設標籤。
-9. 如果您建立可能會導致使用者或位置發生衝突的多個標籤原則，請檢閱原則順序，並視需要將它們上下移動。 若要變更標籤原則的順序，請選取 **...** 以取得 **[其他動作]**，然後選取 **[上移]** 或 **[下移]**。
+9. 如果您建立可能會導致使用者或位置發生衝突的多個標籤原則，請檢閱原則順序，並視需要將它們上下移動。 若要變更標籤原則的順序，請選取三個點 (其他動作)，然後選取 [上移 **]** 或 [下移 **]**。
 
 完成精靈即會自動發佈標籤原則。
 

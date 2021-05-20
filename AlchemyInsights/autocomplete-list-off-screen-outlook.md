@@ -13,17 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "11171"
-ms.openlocfilehash: afc84866a3dd9ecb30562bd185239c3d1695fd10
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 17e25e4d017f8a829c18a7987dfa332783efc0b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261875"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543782"
 ---
 # <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a>AutoComplete 清單會滾出 Outlook 桌面的畫面
 
-在更新為 Outlook 桌上出版本 2104 (組建 13929.20296) 後，AutoComplete 清單會意外地向上走，而且可能會滾離畫面。 您可能看不到清單中的所有 AutoComplete 專案，而且無法向上滾動以進行存取。
+此問題已修正于版本2104組建13929.20386。 具有固定組建的更新預期會移至5月17日當周的目前管道生產。 
 
-**狀態：調查** Outlook 小組正在調查問題，並會在有詳細資訊時更新本文。
-
-如需最新的狀態，請參閱[AutoComplete 清單會從 Outlook 中的畫面滾出](https://support.microsoft.com/office/autocomplete-list-scrolls-off-the-screen-in-outlook-0247f165-697f-4238-b424-b03cd2582e2d?ui=en-US&rs=en-US&ad=US)。
+若要確認何時可以使用固定版本，請參閱[依日期) 列出 Microsoft 365 Apps (的更新歷程記錄](/officeupdates/update-history-microsoft365-apps-by-date)。

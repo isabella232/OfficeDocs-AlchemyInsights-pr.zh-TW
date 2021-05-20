@@ -1,5 +1,5 @@
 ---
-title: 'Microsoft Defender for Office 365 的問題疑難排解 (ATP) '
+title: 疑難排解 Microsoft Defender 的 Office 365 問題
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,21 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: cf54d5b3b854587202ff1b575889b9602228dd06
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: d6170ac52b9af4d2bc6f8822ff2a9b8c1b161ed9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801398"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544749"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>疑難排解 Office 365 ATP 的問題
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>疑難排解 Microsoft Defender 的 Office 365 問題
 
-- **請注意電子郵件傳遞是否延遲** ？ 嘗試針對您的 ATP 安全附件原則使用動態傳遞選項。 這樣可避免電子郵件傳遞延遲，同時也會防止收件者受到惡意檔案的傳遞。
-- **您是否想要報告誤報或漏報** ？ 使用此連結提交您的檔案進行分析： [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **您是否知道您可以為組織中的人員所傳送的電子郵件啟用 ATP 安全連結保護** ？ 請遵循下列步驟：
+- **請注意電子郵件傳遞是否延遲**？ 嘗試針對 Office 365 安全附件原則，使用 Microsoft Defender 的動態傳遞選項。 這樣可避免電子郵件傳遞延遲，同時也會防止收件者受到惡意檔案的傳遞。
+- **您是否想要報告誤報或漏報**？ 使用 [提交的 Explorer](https://protection.office.com/reportsubmission)。
+- **您是否知道您可以為 microsoft defender 啟用 microsoft defender 的電子郵件，以便在組織中的人員之間傳送電子郵件 Office 365 安全連結保護**？ 遵循下列步驟：
     1. 移至 https://protection.office.com 並登入。
-    2. 移至 **威脅管理**  >  **原則**  >  **安全連結** 。
-    3. 在 [套用至特定收件者 **的原則** ] 底下，編輯 (或新增) 原則。
-    4. 選取 **[套用安全連結] 至組織內所傳送的郵件** 。
-    5. 儲存原則，並允許大約30分鐘的變更，以透過您的資料中心來運作。
-- 若要取得其他有關 ATP 的說明，請參閱 [Microsoft Defender For Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)。
+    2. 移至 **威脅管理**  >  **原則**  >  **安全連結**。
+    3. 在 [套用至特定收件者 **的原則**] 底下，編輯 (或新增) 原則。
+    4. 選取 **[套用安全連結] 至組織內所傳送的郵件**。
+    5. 儲存您的原則，並允許最多30分鐘的時間來套用您的變更。
+
+- 若要取得 Office 365 的 microsoft defender 的更多説明，請參閱[microsoft defender for Office 365](/microsoft-365/security/office-365-security/office-365-atp)。
