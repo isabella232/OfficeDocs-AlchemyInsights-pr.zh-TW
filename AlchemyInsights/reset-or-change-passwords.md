@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810187"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569642"
 ---
 # <a name="reset-or-change-passwords"></a>重設或變更密碼
 
-使用者可以從 **我的帳戶**  >  [安全性 & 隱私權](https://portal.office.com/account/#security)變更自己的密碼。
+使用者可以透過選取其使用者照片或縮寫 > **View account**]，來變更自己的密碼。
   
 如果使用者忘記其密碼，系統管理員可以將密碼移至 [**使用者** 作用中的  >  [使用者](https://portal.office.com/adminportal/home#/users)]，然後選取 [使用者 (s) ]，然後按一下 [**重設密碼**]。
   
-[按一下這裡以深入瞭解](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)，或讓使用者重設其自己的忘記密碼。
+若要深入瞭解密碼及允許使用者重設自己的密碼，請參閱 [重設密碼](/microsoft-365/admin/add-users/reset-passwords)。
