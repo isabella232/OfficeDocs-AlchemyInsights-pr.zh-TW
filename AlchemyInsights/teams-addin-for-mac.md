@@ -12,19 +12,21 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
+- "6166"
 - "9003233"
-ms.openlocfilehash: 1e5f6d66386398ad8600f9383f9f7a1dcf0ce69f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9002573"
+ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
+ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670319"
+ms.lasthandoff: 05/20/2021
+ms.locfileid: "52582061"
 ---
 # <a name="teams-add-in-for-mac"></a>Mac 版 Teams 增益集
 
 若要為 Mac 作業系統使用者疑難排解遺漏 Teams 增益集的問題，請遵循下列步驟：
 
-**步驟 1：** 如果您使用混合式 Exchange 內部部署 (需要 2016 CU3 或更新版本)，請使用 Test-HMA.ps1 工具來確認已正確設定混合式新式驗證。 如需詳細資訊，請參閱[針對 iOS 和 Android 版 Outlook 驗證混合式新式驗證設定](https://aka.ms/AA980zq)。  
+**步驟 1：** 如果您使用混合式 Exchange 內部部署 (需要 2016 CU3 或更新版本)，請使用 Test-HMA.ps1 工具來確認已正確設定混合式新式驗證。 如需詳細資訊，請參閱[針對 iOS 和 Android 版 Outlook 驗證混合式新式驗證設定](https://aka.ms/TestHMAEAS)。  
 
 **注意：** 使用 UPN 位址格式 (例如，[username@contoso.com](mailto:username@contoso.com))，而非domain\username。 執行此動作，即使是對擁有 Exchange Online 信箱的使用者也這麼做。
 
