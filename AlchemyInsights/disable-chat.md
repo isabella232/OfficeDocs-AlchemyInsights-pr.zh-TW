@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573737"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696877"
 ---
 # <a name="disable-chat"></a>停用聊天
 
@@ -26,7 +26,7 @@ ms.locfileid: "52573737"
 
 - **會議**：在 Teams 系統管理中心中，移至 [會議原則](https://admin.teams.microsoft.com/) - 聊天的設定為 **允許在會議中聊天**。 如需有關建立自訂會議原則的詳細資訊，請參閱 [Teams 的管理會議原則](/microsoftteams/meeting-policies-in-teams)，並 [允許在會議中進行聊天](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)。
 
-- **訊息**：在 Teams 系統管理中心中，移至 [訊息原則 []](https://admin.teams.microsoft.com/)，然後將聊天切換為 [開啟 **]** 或 [關閉 **]**。 如需有關自訂訊息原則以及如何指派原則給使用者的詳細資訊，請參閱[在 Teams 中管理訊息原則](/microsoftteams/messaging-policies-in-teams)。
+- **訊息**：在 Teams 系統管理中心中，移至 [訊息策略](https://admin.teams.microsoft.com/)，然後切換 **[聊天開啟** 或 **關閉**]。 如需有關自訂訊息原則以及如何指派原則給使用者的詳細資訊，請參閱[在 Teams 中管理訊息原則](/microsoftteams/messaging-policies-in-teams)。
 
 - **學生**：若要停用適用於學生的聊天功能，請參閱允許在會議中交談的選項，以及允許在 [適用於教育界的 Teams 原則和原則套件](/microsoftteams/policy-packages-edu) 中使用1:1 聊天。
 
