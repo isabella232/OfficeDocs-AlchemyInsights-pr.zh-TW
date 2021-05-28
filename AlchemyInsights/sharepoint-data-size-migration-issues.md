@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700878"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694767"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>將資料移轉至 SharePoint 線上時的問題
 
@@ -25,8 +25,8 @@ ms.locfileid: "47700878"
 
 當您將100TB 的資料移轉到線上 SharePoint 時，就會出現。 請依照下列步驟進行，讓我們能夠儘快協助您。 
 
-1. 選取 [ **新增服務要求**]，然後選取 [ **新增服務要求**]。 
-2. 在 **100TB 上 SharePoint 遷移**時，保留標題和描述。
+1. 選取 [ **連絡人支援**]，然後選取 [ **新增服務要求**]。 
+2. 在 **100TB 上 SharePoint 遷移** 時，保留標題和描述。
 3. 送出票證後，請使用下列資訊更新它： 
 
     - 預估移轉大小。

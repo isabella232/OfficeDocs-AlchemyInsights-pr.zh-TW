@@ -1,5 +1,5 @@
 ---
-title: SharePoint 儲存
+title: 管理您的 SharePoint 線上存放區
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773730"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689849"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>管理您的 SharePoint 線上存放區
 
-瞭解如何根據您的計畫 [計算租使用者儲存區](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) 。
+對大多數的組織而言，會自動管理 SharePoint 儲存區，因此您不需要設定每個網站集合的限制。 如需如何根據您的計畫計算租使用者儲存區的詳細資訊，請參閱 [依計畫的限制](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)。
 
-對大多數的組織而言，會自動管理 SharePoint 儲存區，因此您不需要設定每個網站集合的限制。
+如需詳細資訊，請參閱：
 
-瞭解如何 [查看組織的總數和可用儲存空間](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)。
+- [管理網站的儲存空間限制](/sharepoint/manage-site-collection-storage-limits)
 
-瞭解如何 [管理個別網站集合的儲存限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)。
+- [管理個別網站儲存空間限制](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-如果您的網站空間不足或想要瞭解使用該空間的文件庫或清單，請移至 [**網站設定**] [  >  **儲存量值**] (網站集合管理員許可權是) 所需的。
+如果您的網站空間不足或想要瞭解哪些文件庫或清單正在使用該空間，請移至 **site 設定**  >  **儲存體度量** () 的網站集合管理員許可權。
 
-瞭解如何 [使用 PowerShell 監視網站儲存限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)。
+如需詳細資訊，請參閱：
 
-瞭解如何 [購買額外的儲存空間](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)。 
+- [使用 PowerShell 監視網站儲存空間限制](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [Addd 您訂閱的儲存空間](/microsoft-365/commerce/add-storage-space) 
   
