@@ -1,5 +1,5 @@
 ---
-title: 找不到小組會議錄製
+title: 找不到會議錄製 Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50257587"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696927"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a><span data-ttu-id="6f697-102">找不到小組會議錄製</span><span class="sxs-lookup"><span data-stu-id="6f697-102">Can't Find the Teams Meeting Recording</span></span>
+# <a name="cant-find-the-teams-meeting-recording"></a><span data-ttu-id="6041b-102">找不到會議錄製 Teams</span><span class="sxs-lookup"><span data-stu-id="6041b-102">Can't find the Teams meeting recording</span></span>
 
-<span data-ttu-id="6f697-103">如果您找不到或找不到小組會議錄製，請參閱下列疑難排解檔：</span><span class="sxs-lookup"><span data-stu-id="6f697-103">If you cannot locate or find a Teams Meeting Recording, refer to the following Troubleshooting documentation:</span></span>
+<span data-ttu-id="6041b-103">如果您找不到或找不到 Teams 會議錄製，請先在上方方塊中輸入 [**診斷：遺失錄製**]，以執行錯過的會議錄製診斷。</span><span class="sxs-lookup"><span data-stu-id="6041b-103">If you can't locate or find a Teams meeting recording, first run the run the Missing Meeting Recording Diagnostic by typing **Diag: Missing Recording** in the box above.</span></span> 
 
-[<span data-ttu-id="6f697-104">對小組會議錄製問題進行疑難排解-Microsoft 小組 |Microsoft 檔</span><span class="sxs-lookup"><span data-stu-id="6f697-104">Troubleshoot Teams meeting recording issues - Microsoft Teams | Microsoft Docs</span></span>](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+<span data-ttu-id="6041b-104">根據租使用者的設定方式及記錄是否為管道會議，在資料流程、OneDrive 或 SharePoint 中找到錄製。</span><span class="sxs-lookup"><span data-stu-id="6041b-104">Recordings are found in Stream, OneDrive, or SharePoint depending on how your tenant is configured and if the recording was for a Channel meeting.</span></span> <span data-ttu-id="6041b-105">如需如何手動尋找會議錄製的指示，請參閱：</span><span class="sxs-lookup"><span data-stu-id="6041b-105">For instructions on how to manually find the meeting recording, see:</span></span> 
 
-<span data-ttu-id="6f697-105">您的會議錄製會位於 Stream 中，OneDrive 或 SharePoint 取決於租使用者的設定方式。</span><span class="sxs-lookup"><span data-stu-id="6f697-105">Your Meeting Recording will either be located in Stream, OneDrive or SharePoint depending on how your tenant is configured.</span></span>
+[<span data-ttu-id="6041b-106">問題2：聊天視窗中看不到會議錄製連結</span><span class="sxs-lookup"><span data-stu-id="6041b-106">Issue 2: The meeting recording link isn't visible in a chat window</span></span>](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-<span data-ttu-id="6f697-106">如需如何尋找會議錄製的指示，請參閱：</span><span class="sxs-lookup"><span data-stu-id="6f697-106">For instructions on how to find the Meeting Recording, see:</span></span>
-
-<span data-ttu-id="6f697-107">**[問題2：聊天視窗中看不到會議錄製連結](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**</span><span class="sxs-lookup"><span data-stu-id="6f697-107">**[Issue 2: The meeting recording link isn't visible in a chat window](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**</span></span>
+<span data-ttu-id="6041b-107">如需詳細資訊，請參閱 [會議錄製的問題](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)。</span><span class="sxs-lookup"><span data-stu-id="6041b-107">For more information, see [Issues with meeting recordings](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues).</span></span>
