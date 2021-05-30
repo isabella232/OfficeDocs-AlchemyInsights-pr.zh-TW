@@ -13,22 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "10136"
 - "9005723"
-ms.openlocfilehash: 5a796eb736c995eac9be390593096a4a6c006f7f
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: 56a5b3a452a353044807792a86a76b7e6e33c1b0
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426795"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702045"
 ---
-# <a name="get-info-about-assure-and-premium-assisted-software-support"></a>取得 Assure 和 Premium 輔助軟體支援的相關資訊
+# <a name="get-info-about-premium-assisted-software-support"></a>取得有關 Premium 輔助軟體支援的資訊
 
-Microsoft 針對使用 Windows 和 Office 軟體的協助支援提供數個一對一選項：
+Microsoft 針對使用 Windows 和 Office 軟體的協助支援提供一對一選項：
 
-- **Assure 軟體支援**：一年的 Office 和 Windows 軟體支援
-- **Windows Premium 技術支援**：一次性 Windows 軟體支援
-- **Office Premium 技術支援**：一次性 Office 軟體支援
+- **Windows Premium 技術支援：** 一次性 Windows 軟體支援
 
-如需詳細資訊，請參閱[輔助軟體支援選項：Assure 和 Premium](https://support.microsoft.com/help/4467230/assisted-software-support-options-assure-premium)。
+- **Office Premium 技術支援：** 一次性 Office 軟體支援
 
-如果您已經購買 Assure 訂閱並且需要協助，請在下方的聊天方塊中輸入 **與專員連絡**，並告知該代表您是 Assure 訂閱者。
+**注意：** 如果您有現有的 Assure 訂閱，請注意，Assure 不再作為支援選項提供。 您目前的訂閱在期間內仍然有效，但無法續約。
 
