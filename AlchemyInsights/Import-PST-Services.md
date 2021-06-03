@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470234"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721627"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365匯入服務
 
-Microsoft 365 匯入服務可讓您大量匯入多個 PST 檔案，以 Exchange Online 信箱。
-
 若要存取匯入服務並啟動匯入程式：
 
-1. 移至 [安全性 & 合規性中心](https://protection.office.com) ，並使用組織中的系統管理員帳戶的認證登入。
+1. 移至 [ [M365 規範中心](https://compliance.microsoft.com/)]，並使用組織中的系統管理員帳戶的認證登入。
 
-2. 在 **安全性 & 規範中心** 的左窗格中，按一下 [ **資訊管理] > 匯入**。
+1. 在 [**解決方案**] 底下的 [M365 規範中心] 的左窗格中，選取 [**資訊管理** 匯  >  **入**]。
 
-3. 在 [匯 **入** ] 頁面上，按一下 [ **新增匯入工作**]。
+1. 在 [匯 **入** ] 頁面上，選取 [ **新增匯入工作**]。
 
-4. 若要完成嚮導中的步驟，請遵循下列 [逐步指示](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)。
+1. 若要完成嚮導中的步驟，請參閱[使用網路上傳將組織的 PST 檔案匯入至 Microsoft 365](/compliance/use-network-upload-to-import-pst-files)。
 
-**重要** 事項：若要在安全性 & 規範中心存取匯 **入** 頁面，您已獲指派  [適當的許可權](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)。
+若要存取 [匯 **入** ] 頁面，請確定您已獲指派適當的許可權。 如需詳細資訊，請參閱 [使用網路上傳來匯入 PST](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)檔案。
 
-如果您只想要將 PST 匯入信箱，請參閱 [本文](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)。
+若要將 PST 匯入信箱，請參閱[從 Outlook .pst 檔案匯入電子郵件、連絡人及行事曆](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)。
+
+如果您的匯入發生問題，請參閱 [會影響 PST 匯入工作的問題](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)。
+
