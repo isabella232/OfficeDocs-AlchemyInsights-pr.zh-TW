@@ -13,17 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: 988e97896cc1000c11ce1e81cd169090b1c39104
-ms.sourcegitcommit: 9de78b30602f917d58705057cdcce31fec349969
+ms.openlocfilehash: c5b0721d286b07d7e0f84199885b6f527a2b42a2
+ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52760824"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "52783138"
 ---
-# <a name="manage-webinar-registration"></a><span data-ttu-id="1d888-102">管理網路研討會登錄</span><span class="sxs-lookup"><span data-stu-id="1d888-102">Manage webinar registration</span></span>
+# <a name="manage-webinar-registration"></a><span data-ttu-id="7478e-102">管理網路研討會登錄</span><span class="sxs-lookup"><span data-stu-id="7478e-102">Manage webinar registration</span></span>
 
-<span data-ttu-id="1d888-103">您可以透過使用 Teams PowerShell 命令管理可以註冊 Teams 網路研討會的人員。</span><span class="sxs-lookup"><span data-stu-id="1d888-103">You can manage who can register for Teams Webinars by using Teams PowerShell commands.</span></span> <span data-ttu-id="1d888-104">根據預設，*WhoCanRegister* 為啟用狀態且設為 **所有人**。</span><span class="sxs-lookup"><span data-stu-id="1d888-104">By default, *WhoCanRegister* is enabled and set to **Everyone**.</span></span> <span data-ttu-id="1d888-105">如果您想要關閉會議註冊，請將 *AllowMeetingRegistration* 設為 **FALSE**。</span><span class="sxs-lookup"><span data-stu-id="1d888-105">If you want to turn off meeting registration, set *AllowMeetingRegistration* to **False**.</span></span>
+<span data-ttu-id="7478e-103">您可以透過使用 Teams Powershell 命令來管理可以註冊 Teams 網路研討會的人員。</span><span class="sxs-lookup"><span data-stu-id="7478e-103">You manage who can register for Teams Webinars by using Teams Powershell commands.</span></span> <span data-ttu-id="7478e-104">若要安裝 Teams Powershell，請參閱 [Teams PowerShell](/microsoftteams/teams-powershell-install)。</span><span class="sxs-lookup"><span data-stu-id="7478e-104">To install Teams Powershell, see [Teams PowerShell](/microsoftteams/teams-powershell-install).</span></span> 
 
-<span data-ttu-id="1d888-106">若要變更這些設定，您必須安裝 [Teams PowerShell](/microsoftteams/teams-powershell-install)。</span><span class="sxs-lookup"><span data-stu-id="1d888-106">To change these settings, you must install [Teams PowerShell](/microsoftteams/teams-powershell-install).</span></span> <span data-ttu-id="1d888-107">同時，會議原則會在 Teams 網路研討會上強制執行。</span><span class="sxs-lookup"><span data-stu-id="1d888-107">Also, Meeting Policies are enforced on Teams Webinars.</span></span> <span data-ttu-id="1d888-108">舉例來說，如果在會議設定將匿名參加設為關閉，匿名使用者就無法參加網路研討會。</span><span class="sxs-lookup"><span data-stu-id="1d888-108">For example, if anonymous join is turned off in meeting settings, anonymous users can't join webinars.</span></span>
+<span data-ttu-id="7478e-105">根據預設，*WhoCanRegister* 為啟用且設為 **EveryoneInCompany**。</span><span class="sxs-lookup"><span data-stu-id="7478e-105">By default, *WhoCanRegister* is enabled and set to **EveryoneInCompany**.</span></span> <span data-ttu-id="7478e-106">若要允許任何人註冊 (包括匿名使用者)，您必須使用 Powershell 命令將會議原則設定為 [所有人]：</span><span class="sxs-lookup"><span data-stu-id="7478e-106">To allow anyone, including anonymous users, to register, you must set the Meeting Policy to **Everyone** by using the Powershell command:</span></span>
 
-<span data-ttu-id="1d888-109">若要深入了解設定可以註冊網路研討會的人員，請參閱 [設定可以註冊網路研討會的人員](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)。</span><span class="sxs-lookup"><span data-stu-id="1d888-109">To learn more about configuring who can register for webinars, see [Configure who can register for webinars](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars).</span></span> <span data-ttu-id="1d888-110">如需 Microsoft 清單設定的詳細資料，請參閱 [控制 Microsoft 清單設定](/sharepoint/control-lists)。</span><span class="sxs-lookup"><span data-stu-id="1d888-110">For more information about settings for Microsoft Lists, see [Control settings for Microsoft Lists](/sharepoint/control-lists).</span></span>
+`Set-CsTeamsMeetingPolicy -WhoCanRegister Everyone`
+
+<span data-ttu-id="7478e-107">**附註**：如果在會議設定將 [匿名加入] 設為關閉，匿名使用者就無法加入網路研討會。</span><span class="sxs-lookup"><span data-stu-id="7478e-107">**Note**: If anonymous join is turned off in meeting settings, anonymous users can't join webinars.</span></span> <span data-ttu-id="7478e-108">若要深入了解並啟用此設定，請參閱[在 Microsoft Teams 中管理會議設定](/microsoftteams/meeting-settings-in-teams)。</span><span class="sxs-lookup"><span data-stu-id="7478e-108">To learn more and enable this setting, see [Manage meeting settings in Microsoft Teams](/microsoftteams/meeting-settings-in-teams).</span></span>
+
+<span data-ttu-id="7478e-109">如果您想要關閉會議註冊，請將 *AllowMeetingRegistration* 設為 **False**。</span><span class="sxs-lookup"><span data-stu-id="7478e-109">If you want to turn off meeting registration, set *AllowMeetingRegistration* to **False**.</span></span>
+
+<span data-ttu-id="7478e-110">若要深入了解設定可以註冊網路研討會的人員，請參閱 [設定可以註冊網路研討會的人員](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)。</span><span class="sxs-lookup"><span data-stu-id="7478e-110">To learn more about configuring who can register for webinars, see [Configure who can register for webinars](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars).</span></span> <span data-ttu-id="7478e-111">如需 Microsoft 清單設定的詳細資料，請參閱 [控制 Microsoft 清單設定](/sharepoint/control-lists)。</span><span class="sxs-lookup"><span data-stu-id="7478e-111">For more information about settings for Microsoft Lists, see [Control settings for Microsoft Lists](/sharepoint/control-lists).</span></span>
