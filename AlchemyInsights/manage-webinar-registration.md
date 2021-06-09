@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: c5b0721d286b07d7e0f84199885b6f527a2b42a2
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 0db6f434fa74970ac6083501ab26762cc6b7885f
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52783138"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798635"
 ---
 # <a name="manage-webinar-registration"></a>管理網路研討會登錄
 
 您可以透過使用 Teams Powershell 命令來管理可以註冊 Teams 網路研討會的人員。 若要安裝 Teams Powershell，請參閱 [Teams PowerShell](/microsoftteams/teams-powershell-install)。 
 
-根據預設，*WhoCanRegister* 為啟用且設為 **EveryoneInCompany**。 若要允許任何人註冊 (包括匿名使用者)，您必須使用 Powershell 命令將會議原則設定為 [所有人]：
+根據預設，*WhoCanRegister* 為啟用狀態且設為 **所有人**。 
+
+如果您沒有在會議邀請中看到允許所有人的註冊，請重新執行設定 *WhoCanRegister* 為所有人，並等候 24 小時。 若要重新執行 *WhoCanRegister*，請使用 PowerShell 命令：
 
 `Set-CsTeamsMeetingPolicy -WhoCanRegister Everyone`
 

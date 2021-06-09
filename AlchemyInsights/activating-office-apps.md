@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46a9be285ec7e0eb491ec73651f81ea5a33654d2
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823022"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798599"
 ---
 # <a name="activating-microsoft-365-apps"></a>啟用 Microsoft 365 應用程式
+
+**請注意**：如果您使用舊版 Windows，請確認 TLS 1.2 已預設啟用 (例如，Windows 7)。 如需詳細資訊，請參閱 [更新以在 Windows 版 WinHTTP 中啟用 TLS 1.1 和 TLS 1.2 做為預設安全通訊協定](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)。
 
 若要啟用 Office，請參閱：
 
@@ -27,7 +29,7 @@ ms.locfileid: "51823022"
 
 - [在 Mac 上啟用 Office](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**附註：** 請確定您擁有 Office 365 或 [包含 Office 用戶端應用程式](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e) (例如 Microsoft 365 商務標準版、Microsoft 365 Apps 商務版或 Microsoft 365 Apps 企業版) 的 Microsoft 365 訂閱。 此外，請確認您用來登入 Office 應用程式的使用者帳戶已[指派授權](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
+**附註：** 請確定您擁有 Office 365 或 [包含 Office 用戶端應用程式](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e) (例如 Microsoft 365 商務標準版、Microsoft 365 Apps 商務版或 Microsoft 365 Apps 企業版) 的 Microsoft 365 訂閱。 此外，請確認您用來登入 Office 應用程式的使用者帳戶已[指派授權](/microsoft-365/admin/manage/assign-licenses-to-users)。
 
 若要修正 Office 啟用問題，請參閱：
 
@@ -46,6 +48,6 @@ ms.locfileid: "51823022"
 
 3. 使用 [Windows 設定 > 帳戶 > 存取公司或學校]，中斷舊的或未使用的公司帳戶
 
-4. [重設 Office 啟用狀態](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)，然後使用新帳戶[登入 Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426)。
+4. [重設 Office 啟用狀態](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)，然後使用新帳戶[登入 Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426)。
 
 如需瞭解其他疑難排解動作，請參閱[我開啟 Office 365 應用程式時出現訂閱通知](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)。
