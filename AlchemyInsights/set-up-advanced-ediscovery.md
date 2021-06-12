@@ -2,6 +2,7 @@
 title: 設定進階電子文件探索
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: f3a74bf74fb0786227e3f6c9bd53af1c8bebe098
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 928eac7dc5455a96d8f49f60a368f098f8e322bb
+ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795523"
+ms.lasthandoff: 06/10/2021
+ms.locfileid: "52882680"
 ---
 # <a name="set-up-advanced-ediscovery"></a>設定進階電子文件探索
 
-進階電子文件探索可讓您分析非結構化資料，協助降低電子文件探索成本。 您可以套用文字分析、機器學習和相關性/預測性編碼。  需具備下列其中一項才能使用進階電子文件探索功能：
+使用進階電子文件探索，您可以套用文字分析、機器學習和相關性/預測性編碼。 需具備下列其中一項才能使用進階電子文件探索功能：
 
 - Microsoft 365 E5 或 Office 365 E5 訂閱
 
@@ -39,4 +40,6 @@ ms.locfileid: "47795523"
 
 **4. 建立進階電子文件探索案例**
 
-如需設定進階電子文件探索所需步驟的相關資訊，請參閱[開始使用進階電子文件探索](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide)。
+如需設定進階電子文件探索所需步驟的相關資訊，請參閱[開始使用進階電子文件探索](/microsoft-365/compliance/get-started-with-advanced-ediscovery)。
+
+如需如何建立及管理案例的資訊，請參閱[在 Microsoft 365 中建立及管理進階電子文件探索案例](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case)。
