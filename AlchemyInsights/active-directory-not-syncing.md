@@ -11,22 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001688"
+- "1300023"
 - "3754"
-ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+- "4531"
+ms.openlocfilehash: 0da512379e5a2f6ccb773e18c465e545c0660560
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822842"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52930966"
 ---
-# <a name="active-directory-not-syncing"></a><span data-ttu-id="d6b8e-102">Active Directory 未同步處理</span><span class="sxs-lookup"><span data-stu-id="d6b8e-102">Active Directory not syncing</span></span>
+# <a name="active-directory-not-syncing"></a><span data-ttu-id="847dd-102">Active Directory 未同步處理</span><span class="sxs-lookup"><span data-stu-id="847dd-102">Active Directory not syncing</span></span>
 
-<span data-ttu-id="d6b8e-103">如果您收到同步處理錯誤，例如「沒有最近的同步處理」，或是注意到 Office 管理員入口網站中的目錄同步處理狀態為「上次同步處理超過3天」，可能是因為 AADConnect 的設定不正確或許可權不足，無法執行同步處理。</span><span class="sxs-lookup"><span data-stu-id="d6b8e-103">If you are receiving synchronization errors, such as "no recent synchronization," or notice the directory synchronization status in the Office admin portal says, "Last synced more than 3 days ago," it may be that AADConnect has incorrect settings or insufficient permissions to perform a synchronization.</span></span>  
+<span data-ttu-id="847dd-103">如果您收到同步處理錯誤，例如「沒有最近的同步處理」，或是注意到 Office 系統管理入口網站中的目錄同步處理狀態是「上次同步處理超過3天」，可能是 AADConnect 設定不當或許可權不足，無法執行同步處理。</span><span class="sxs-lookup"><span data-stu-id="847dd-103">If you are receiving synchronization errors, such as "no recent synchronization," or notice the directory synchronization status in the Office admin portal says, "Last synced more than 3 days ago," it may be that AADConnect has incorrect settings or insufficient permissions to perform a synchronization.</span></span>  
 
-<span data-ttu-id="d6b8e-104">使用快速設定重新安裝 AADConnect，可快速解決問題：</span><span class="sxs-lookup"><span data-stu-id="d6b8e-104">Reinstalling AADConnect by using express settings may resolve the issue quickly:</span></span>
+<span data-ttu-id="847dd-104">使用快速設定重新安裝 AADConnect，可快速解決問題：</span><span class="sxs-lookup"><span data-stu-id="847dd-104">Reinstalling AADConnect by using express settings might resolve the issue quickly:</span></span>
 
-1. <span data-ttu-id="d6b8e-105">[下載最新版本的 AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771)。</span><span class="sxs-lookup"><span data-stu-id="d6b8e-105">[Download the latest version of AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).</span></span>
+1. <span data-ttu-id="847dd-105">[下載最新版本的 AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771)。</span><span class="sxs-lookup"><span data-stu-id="847dd-105">[Download the latest version of AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).</span></span>
 
-2. <span data-ttu-id="d6b8e-106">[依照快速安裝的指示進行](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)。</span><span class="sxs-lookup"><span data-stu-id="d6b8e-106">[Follow the instructions for express installation](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).</span></span>
+2. <span data-ttu-id="847dd-106">[依照快速安裝的指示進行](/azure/active-directory/hybrid/how-to-connect-install-express)。</span><span class="sxs-lookup"><span data-stu-id="847dd-106">[Follow the instructions for express installation](/azure/active-directory/hybrid/how-to-connect-install-express).</span></span>
 
-<span data-ttu-id="d6b8e-107">如需有關 AADConnect 服務帳戶的詳細資訊，請參閱 [Azure AD Connect：帳戶和權限](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)。</span><span class="sxs-lookup"><span data-stu-id="d6b8e-107">For more information about AADConnect service accounts, see [Azure AD Connect: Accounts and permissions](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).</span></span>
+<span data-ttu-id="847dd-107">Azure AD Connect 必須安裝在 Windows Server 2012 或更新版本。</span><span class="sxs-lookup"><span data-stu-id="847dd-107">Azure AD Connect must be installed on Windows Server 2012 or later.</span></span> <span data-ttu-id="847dd-108">此伺服器必須加入網域，且可以是網域控制站或成員伺服器。</span><span class="sxs-lookup"><span data-stu-id="847dd-108">This server must be domain joined and may be a domain controller or a member server.</span></span> <span data-ttu-id="847dd-109">如需 Azure AD 連線需求和先決條件的完整清單，請參閱[AZURE ad 連線的必要條件](/azure/active-directory/hybrid/how-to-connect-install-prerequisites)。</span><span class="sxs-lookup"><span data-stu-id="847dd-109">For a full list of Azure AD Connect requirements and pre-requisites, review [Prerequisites for Azure AD Connect](/azure/active-directory/hybrid/how-to-connect-install-prerequisites).</span></span>
+
+<span data-ttu-id="847dd-110">如需有關 AADConnect 服務帳戶的詳細資訊，請參閱 [Azure AD Connect：帳戶和權限](/azure/active-directory/hybrid/reference-connect-accounts-permissions)。</span><span class="sxs-lookup"><span data-stu-id="847dd-110">For more information about AADConnect service accounts, see [Azure AD Connect: Accounts and permissions](/azure/active-directory/hybrid/reference-connect-accounts-permissions).</span></span>
