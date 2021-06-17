@@ -1,5 +1,5 @@
 ---
-title: 使用 Microsoft Edge 為 iOS 或 Android 裝置，查看 Microsoft 應用程式的管理狀態
+title: 使用 iOS 或 Android 裝置的 Microsoft Edge，查看 Microsoft 應用程式的管理狀態
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,18 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
+- "9006502"
 - "6950"
-ms.openlocfilehash: e670981d2cb9a918ad33cc9e6ce15663c112df1d
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- "11143"
+ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608831"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989888"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>使用 Microsoft Edge 為 iOS 或 Android 裝置，查看 Microsoft 應用程式的管理狀態
+# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>使用 iOS 或 Android 裝置的 Microsoft Edge，查看 Microsoft 應用程式的管理狀態
 
-若要存取用於疑難排解 managed iOS 或 Android 應用程式的應用程式記錄，請開啟 Microsoft Edge，然後在 [位址] 方塊中輸入 **about： intunehelp** 。 Microsoft Edge 會在疑難排解模式中啟動。
+若要存取用於疑難排解 managed iOS 或 Android 應用程式的應用程式記錄，請在 [位址] 方塊中開啟 Microsoft Edge 並輸入 **about： intunehelp** 。 Microsoft Edge 會在疑難排解模式中啟動。
 
-如需儲存在應用程式記錄檔中的設定清單，請參閱 [複查用戶端應用程式保護記錄](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log)。
+如需儲存在應用程式記錄檔中的設定清單，請參閱 [複查用戶端應用程式保護記錄](/mem/intune/apps/app-protection-policy-settings-log)。
 
-若要瞭解如何在 Android 裝置上查看應用程式記錄，請參閱 [上傳和電子郵件記錄](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)。
+若要瞭解如何在 Android 裝置上查看應用程式記錄，請參閱[Upload 和電子郵件記錄](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)。

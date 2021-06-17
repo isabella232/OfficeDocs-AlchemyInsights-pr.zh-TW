@@ -13,16 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9144"
 - "9005291"
-ms.openlocfilehash: d3288bc4da83bcd8ddc82b0ce40482453a822aad
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+- "11089"
+- "9006490"
+ms.openlocfilehash: c47218035155a8138caeac01e03fbe9d9e1aca4d
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50529923"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989637"
 ---
 # <a name="determine-channel-strategy"></a>決定通道策略
 
-Microsoft Edge 會以可控制瀏覽器更新頻率的四個通道發行。 如需每個通道的更深入概觀，請參閱[通道概觀](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels#channel-overview)。
+Microsoft Edge 會以可控制瀏覽器更新頻率的四個通道發行。 如需每個通道的更深入概觀，請參閱[通道概觀](/DeployEdge/microsoft-edge-channels#channel-overview)。
 
 如果您想要部署到多數裝置，則適合穩定通道，但應該考慮部署多個通道和裝置。
 

@@ -1,5 +1,5 @@
 ---
-title: 使用 Microsoft Intune 管理 iOS 和 Android 的 Microsoft Edge 中的 web access
+title: 使用 Microsoft Intune 管理 iOS 和 Android Microsoft Edge 中的 web 存取
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003846"
 - "6895"
-ms.openlocfilehash: 4d6ab4df4ff9588ce5052421602e347c76c91c3f
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+- "9006502"
+- "11144"
+ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617244"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989649"
 ---
-# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>使用 Microsoft Intune 管理 iOS 和 Android 的 Microsoft Edge 中的 web access
+# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>使用 Microsoft Intune 管理 iOS 和 Android Microsoft Edge 中的 web 存取
 
-用於 iOS 和 Android 的 Microsoft Edge 可讓使用者從多個完全不同的設定檔流覽網頁。
+iOS 和 Android 的 Microsoft Edge 可讓使用者從多個完全不同的設定檔流覽網頁。
 
-當您訂閱 Enterprise 可移動性 + 安全套件（包括 Microsoft Intune 和 Azure Active Directory Premium 功能，例如條件式存取）時，Microsoft 365 資料的最大保護功能會變成可用。 在最低限度下，您會想要部署 (1) 的條件式存取原則，讓使用者從行動裝置連線至 Microsoft Edge 以取得 iOS 和 Android，而且 (2) 會執行 Microsoft Intune 應用程式保護原則，提供受保護的流覽體驗。
+當您訂閱 Enterprise Mobility + Security 套件（包含 Microsoft Intune 和 Azure Active Directory Premium 的功能，例如條件式存取）時，就可以使用 Microsoft 365 資料的廣泛保護功能。 在最低限度下，您將會想要部署 (1) 的條件式存取原則，讓使用者從行動裝置連線到 iOS 及 Android 的 Microsoft Edge，而且 (2) 會執行 Microsoft Intune 應用程式保護原則，可提供受保護的流覽體驗。
 
 若要瞭解您可以如何使用條件式存取和原則，請參閱：
 
 [套用 Azure Active Directory 條件式存取原則](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[建立 Microsoft Intune 應用程式保護原則](https://go.microsoft.com/fwlink/?linkid=2132651)
+[建立 Microsoft Intune 的應用程式保護原則](https://go.microsoft.com/fwlink/?linkid=2132651)
 
 [在原則保護的瀏覽器中，針對 Azure Active Directory 連線的 web 應用程式使用單一登入](https://go.microsoft.com/fwlink/?linkid=2132482)
 
@@ -43,4 +45,4 @@ ms.locfileid: "49617244"
 
 [使用 Microsoft 端點管理員部署應用程式佈建原則](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-若要瞭解如何存取受管理的應用程式記錄檔，請參閱 [使用 Microsoft Edge for iOS 和 Android 存取受管理的應用程式記錄](https://go.microsoft.com/fwlink/?linkid=2132578)檔。
+若要瞭解如何存取受管理的應用程式記錄檔，請參閱[使用 Microsoft Edge iOS 和 Android 存取受管理的應用程式記錄](https://go.microsoft.com/fwlink/?linkid=2132578)檔。
