@@ -13,17 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 3adb6fb2beb8d959d170ab08ca0592a81bc62d76
-ms.sourcegitcommit: a739b533b13a9dd4c4b63f91df5629e27cc86d3d
+ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "52963900"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023130"
 ---
 # <a name="get-business-assist"></a>取得業務協助
 
-1. 在 Microsoft 365 系統管理中心中，移至 [**訂閱**] [  >  **商務協助**]。
-
-1. 選取 [**商務協助**  >  **購買**]，然後依照嚮導購買業務協助。
+1. 在 Microsoft 365 系統管理中心中，移至 [ [Microsoft 365 企業小幫手] 頁面](https://go.microsoft.com/fwlink/p/?linkid=2158423)上，選取帳單頻率，然後選取 [**購買**]。
+2. 請依照步驟取出。
 
 若要深入瞭解，請參閱[Microsoft 365 企業小幫手](/microsoft-365/admin/misc/business-assist)。

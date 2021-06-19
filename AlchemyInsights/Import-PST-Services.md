@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721627"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023094"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365匯入服務
 
@@ -29,9 +29,9 @@ ms.locfileid: "52721627"
 
 1. 在 [**解決方案**] 底下的 [M365 規範中心] 的左窗格中，選取 [**資訊管理** 匯  >  **入**]。
 
-1. 在 [匯 **入** ] 頁面上，選取 [ **新增匯入工作**]。
+1. 在 [匯 **入** ] 頁面上，選取 [ **新增匯入工作**]。 輸入工作名稱，然後選取 **[下一步]**。
 
-1. 若要完成嚮導中的步驟，請參閱[使用網路上傳將組織的 PST 檔案匯入至 Microsoft 365](/compliance/use-network-upload-to-import-pst-files)。
+1. 選取 [ **Upload 您的資料**] 以使用 [匯 **入工作類型** 的網路上傳] 選項。 如需詳細步驟，請參閱[使用網路上傳將貴組織的 PST 檔案匯入至 Microsoft 365](/compliance/use-network-upload-to-import-pst-files)。
 
 若要存取 [匯 **入** ] 頁面，請確定您已獲指派適當的許可權。 如需詳細資訊，請參閱 [使用網路上傳來匯入 PST](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)檔案。
 
