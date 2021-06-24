@@ -1,5 +1,5 @@
 ---
-title: 解決 SMTP 驗證問題
+title: 啟用 SMTP 驗證和疑難排解
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826406"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077642"
 ---
-# <a name="solving-smtp-authentication-issues"></a>解決 SMTP 驗證問題
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>啟用 SMTP 驗證和疑難排解
 
-如果您在嘗試傳送 SMTP 電子郵件，並在使用用戶端或應用程式進行驗證時收到錯誤 5.7.57 或 5.7.3，您應檢查下列事項：
+如果您想要為信箱啟用 SMTP 驗證，或您在嘗試向 Microsoft 365 驗證裝置或應用程式來轉送電子郵件時，遇到代碼為 5.7.57 或 5.7.3 或 5.7.139 的「用戶端未驗證」、「驗證失敗」或 "SmtpClientAuthentication" 錯誤，請執行這三個動作以解決問題：
 
-- 在您的租用戶中或您嘗試使用的信箱上 (檢查這兩項設定)，已驗證的 SMTP 提交可能已停用。 若要閱讀更多相關資訊，請參閱[啟用或停用已驗證用戶端 SMTP 提交](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission) \(部分機器翻譯\)。
+1. 將 [啟用安全性預設值 **]** 切換為 [否 **]** 以停用 [Azure 安全性預設值](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)。
 
-- 檢查是否為您的租用戶啟用 [Azure 安全性預設值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) \(部分機器翻譯\)；如果啟用，使用基本驗證 (也稱為舊版驗證，這會使用使用者名稱和密碼) 的 SMTP 驗證將會失敗。
+    a. 以安全性系統管理員、條件式存取系統管理員或全域系統管理員的身分登入 Azure 入口網站。<BR/>
+    b. 瀏覽至 [Azure Active Directory] > [屬性 **]**。<BR/>
+    c. 選取 [管理安全性預設值 **]**。<BR/>
+    d. 將 [啟用安全性預設值 **]** 設定為 [否 **]**。<BR/>
+    e. 選取 [儲存 **]**。
+
+2. 在授權信箱上[啟用用戶端 SMTP 提交](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes)。
+
+    a. 從 Microsoft 365 系統管理中心，移至 [作用中使用者 **]**，然後選取使用者。<BR/>
+    b. 前往 [郵件] 索引標籤，然後在 [電子郵件應用程式 **]** 下選取 [管理電子郵件應用程式 **]**。<BR/>
+    d. 確定已勾選 (已啟用) [已驗證的 SMTP **]**。<BR/>
+    e. 選取 [儲存變更 **]**。<BR/>
+
+3. 在授權信箱上停用[多重要素驗證 (MFA)](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa)。
+
+    a. 前往 Microsoft 365 系統管理中心，然後在左側瀏覽功能表中選取 [使用者 **]**  >  [作用中使用者 **]**。<BR/>
+    b. 選取 [多重要素驗證 **]**。<BR/>
+    c. 選取使用者並停用 [多重要素驗證 **]**。<BR/>
