@@ -1,5 +1,5 @@
 ---
-title: 商務用 Microsoft 365 方案和價格
+title: 比較商務 Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,13 +14,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: dc8bb60741e4f426173e14b05800eeacad3412d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03d2ca7d82257034cf4e7e0bf3520da2762233c6
+ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790791"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53104557"
 ---
-# <a name="compare-microsoft-365-for-business"></a>比較 Microsoft 365 商務版
+# <a name="compare-microsoft-365-for-business"></a>比較商務 Microsoft 365
 
-Microsoft 365 for business 有三個不同的方案可供使用。 [比較 Microsoft 365 的商務方案和價格](https://products.office.com/compare-all-microsoft-office-products?tab=2)。  
+有不同的方案可與 Microsoft 365 商務使用。 如需功能及定價的詳細資訊，請參閱[比較商務方案的 Microsoft 365](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products)。  
