@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: d5db78a8427c45c272a72435f2bf1e485a3a366b
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544821"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195511"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>您在信箱中接收到太多網路釣魚或垃圾郵件嗎？
 
@@ -27,3 +27,7 @@ ms.locfileid: "52544821"
 若要讓它 easer，您可以讓您的使用者透過 [報告郵件增益集](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)直接向 Microsoft 報告。
 
 **您知道嗎？**：現在您可以直接從 [郵件追蹤](https://security.microsoft.com/messagetrace)和 E5/Microsoft Defender 提交樣本 Office 365 方案2客戶可以從 [威脅瀏覽器](/microsoft-365/security/office-365-security/threat-explorer)提交範例。
+
+若要深入瞭解在 Microsoft 365 Defender 入口網站中提交郵件進行分析，請參閱[用於分析的影片提交範例](https://go.microsoft.com/fwlink/?linkid=2166435)。
+
+若要深入瞭解如何在 Microsoft Defender 中對 Office 365 調查誤報，請參閱 video [false 消極策略](https://go.microsoft.com/fwlink/?linkid=2166434)。
