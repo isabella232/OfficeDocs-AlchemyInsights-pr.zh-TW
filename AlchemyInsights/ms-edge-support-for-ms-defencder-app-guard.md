@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge 對 Microsoft Defender 應用程式防護的支援
+title: Microsoft Edge 的 Microsoft Defender 應用程式防護支援
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576437"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346053"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge 對 Microsoft Defender 應用程式防護的支援
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge 的 Microsoft Defender 應用程式防護支援
 
-針對 Windows 10 和 Microsoft Edge 設計，Application Guard 使用硬體隔離方法，可讓使用者從主機作業系統分開的隔離的 Hyper-V 容器內流覽不可信的網站。
+Microsoft Defender for Identity 可提供一個集中位置，供系統管理員識別、偵測和調查內部部署身分識別威脅。 
 
-企業系統管理員會定義信任的網站、雲端資源和內部網路的清單。 當使用者訪問不在清單上的網站時，Microsoft Edge 會在容器中開啟網站。 這表示，如果網站會變成惡意的電腦，則主機電腦將保持受保護狀態，而攻擊者將無法取得企業資料。
+使用 [Microsoft Defender 身分識別設定指南](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) 以確認您已符合所有環境必要條件;建立實例，連接至 Active Directory，然後安裝您的感應器。 
 
-在 Microsoft Edge 版本81中支援在容器中安裝分機，而且可以透過原則加以控制。 ExtensionInstallForcelist 原則中所使用的 updateURL 位址，應新增為應用程式防護所使用之網路隔離原則中的非特定資源。
-
-如需詳細資訊，請參閱 microsoft [Defender Application Guard 的 Microsoft Edge support](https://go.microsoft.com/fwlink/?linkid=2134229)。
+當您完成時，系統就會監控使用者的身分識別，而且可以立即採取行動，以應對威脅組織的任何惡意活動。
