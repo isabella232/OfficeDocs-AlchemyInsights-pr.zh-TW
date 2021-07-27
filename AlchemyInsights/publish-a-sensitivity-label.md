@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539635"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532246"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>如何發佈敏感度標籤
 
-1. 移至 [Office 365 安全性與合規性中心] > **[分類]** > **[敏感度標籤]**。
+1. 移至 Microsoft 365 合規性中心 > **資訊保護** > **標籤原則**。
 
-1. 在敏感度標籤頁面上，選取 **標籤原則** 索引標籤 ，然後選取 **發布標籤**。
+1. 選取 **[+ 發佈標籤]** 以啟動 [新增敏感度標籤] 精靈。
 
 1. 選取 **[選擇要發佈的敏感度標籤]**。 選取您要在應用程式和服務中提供使用的標籤，然後選取 **[新增]**。
 

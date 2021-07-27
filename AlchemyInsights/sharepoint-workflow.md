@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800239"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586925"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>疑難排解 SharePoint 中的工作流程
 
 **在 SharePoint 中疑難排解及調試工作流程**
 
-請參閱 [疑難排解 SharePoint 工作流程驗證錯誤](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) 和 [調試 SharePoint 工作流程](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)。
+如需詳細資訊，請參閱：
 
-**自動功耗**
+- [疑難排解 SharePoint 工作流程驗證錯誤](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [調試 SharePoint 工作流程](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)。
+- [使用 ShowScopeDebugInfo 收集 SharePoint 2013 工作流程疑難排解資料](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
-如果您剛開始使用工作流程，請考慮使用 [Power 「自動](https://docs.microsoft.com/power-automate/modern-approvals) 」，而不是傳統的 SharePoint 工作流程解決方案。
+**Power Automate**
 
-如需詳細資訊，請參閱 [SharePoint 工作流程停](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)用。
+如果您剛開始使用工作流程，請考慮使用[Power Automate](/power-automate/modern-approvals) ，而不是傳統的 SharePoint 工作流程解決方案。
+
+如需詳細資訊，請參閱[SharePoint 工作流程停](/alchemyinsights/sharepoint-workflows-retiring)用。
