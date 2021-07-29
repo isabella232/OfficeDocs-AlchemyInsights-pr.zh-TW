@@ -13,18 +13,18 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d06ef83adcae1342173a6fe75f79525c7e1797ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7146b2b09b6ac1e33b192dcbcbfb72ea2593313
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696288"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630240"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>識別信箱上設定外部電子郵件轉寄的時間
 
 當 Microsoft 365 使用者設定信箱上的外部電子郵件轉寄功能時，會在 **Set-Mailbox** Cmdlet 中審核該活動。 您可以在安全性 & 規範中心內，看到使用審核記錄搜尋的活動。
 
-1. 登入 [Microsoft 365 的安全性 & 規範中心](https://protection.office.com/)。
+1. 登入[Microsoft 365 規範中心](https://protection.office.com/)。
 
 2. 移至 [**搜尋**  >  **審核記錄搜尋**] 頁面。
 
@@ -40,4 +40,4 @@ ms.locfileid: "47696288"
 
 - **UserId**：在 **ObjectId** 欄位中的信箱上設定電子郵件轉寄的使用者。
 
-如需詳細資訊，請參閱 [決定誰設定信箱的電子郵件](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)轉寄功能。
+如需詳細資訊，請參閱 [決定誰設定信箱的電子郵件](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)轉寄功能。
