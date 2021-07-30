@@ -1,6 +1,6 @@
 ---
 title: 擷取稽核記錄
-ms.author: pebuam
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/16/2021
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "10964"
 - "3100005"
-ms.openlocfilehash: ec772e925436aff4924889211f2219f255bb57f1
-ms.sourcegitcommit: 974bf19f4262841ab2bfd81c10a243eab05484c4
+ms.openlocfilehash: 49743b1e9158319ecb80f0a007d8d73930888df1
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51871414"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630096"
 ---
 # <a name="retrieve-the-audit-logs"></a>擷取稽核記錄
 
 首次開啟稽核記錄時，它為空。 請搜尋查看其中有什麼內容。 以下是對所有活動進行一般搜尋的方式：
 
-1. 前往稽核記錄搜尋網頁 (或 [管理中心] > **[安全性與合規性中心]** > **[搜尋與調查]** > **[稽核記錄搜尋]**)。
+1. 前往稽核記錄搜尋網頁 (或 [系統管理中心] > **[Microsoft 365 合規性中心]** > **[搜尋與調查]** > **[稽核記錄搜尋]**)。
 
 1. 在 **[活動]** 方塊中，接受 **[顯示所有活動的結果]** 為預設。
 
