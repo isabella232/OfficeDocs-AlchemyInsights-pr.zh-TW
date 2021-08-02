@@ -3,21 +3,24 @@ title: 變更付款方式
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: ca0ebe741babe1c2177bfbc072a948143d1afe9b
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 185de725abca43ca5ff378adb5bae95c1b6030c8
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601124"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685293"
 ---
 # <a name="change-payment-method"></a>變更付款方式
 
@@ -33,6 +36,6 @@ ms.locfileid: "50601124"
 6. 在 [新增付款方式] 窗格中，輸入帳戶資訊，然後選取 [儲存]。 您使用的付款方式必須與您租用戶的國家/地區相同。
 7. 已在下拉式清單中選取新的付款方式。 選取 [取代]。
 
-若要瞭解如何新增、更新、取代或刪除付款條件，請參閱 [管理支付方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
+若要瞭解如何新增、更新、取代或刪除付款條件，請參閱 [管理支付方式](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
 
-若要瞭解如何在支付方式之間變更，請參閱 [如何支付您的訂閱費用](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。
+若要瞭解如何在支付方式之間變更，請參閱 [如何支付您的訂閱費用](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。

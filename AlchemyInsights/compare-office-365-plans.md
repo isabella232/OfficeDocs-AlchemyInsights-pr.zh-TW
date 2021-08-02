@@ -3,6 +3,7 @@ title: 比較 Microsoft 訂閱
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: drjones, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,19 +12,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 0542cc6cbd9ca7a8d0845e2866be831631c8e389
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 5c141320f08b4610e9ebedf21107bfda54193f56
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416587"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689001"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>比較、升級或購買訂閱
   
-訂閱可供 [商務](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products?tab=2&rtc=1)和 [企業層級](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1)的企業使用。 此外， [學術機構](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1)、 [政府組織](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1)和 [非營利組織](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit-plans-and-pricing?&rtc=1&activetab=tab%3aprimaryr1)均可使用 Microsoft 365。
+訂閱可供 [商務](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products?tab=2&rtc=1)和 [企業層級](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1)的企業使用。 此外 Microsoft 365，非營利組織也可用於[學術機構](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1)、[政府組織](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1)及[](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit-plans-and-pricing?&rtc=1&activetab=tab%3aprimaryr1)。
   
 如果您的組織想要比較所有方案和價格，請參閱 [比較所有訂閱](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1)。
   

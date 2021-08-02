@@ -1,8 +1,10 @@
 ---
-title: 從免費試用版購買為商務用 Microsoft 365 的訂閱
+title: 從免費試用版購買 Microsoft 365 供商務用的訂閱
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,15 +12,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: e4e2024031ea539ae5107569481eb30e20649067
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: b45615a13d566c4c66b55bc989971864890ded9c
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416204"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686049"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>從免費試用版購買 Microsoft 365 訂閱
 
@@ -35,7 +38,7 @@ ms.locfileid: "48416204"
 1. 在系統管理中心中，移至 [ **帳單** \> [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433) ] 頁面。
 2. 找到您要購買的訂閱，然後選取 [ **購買**]，然後依照步驟取出。
 
-若要深入瞭解，請參閱 [從免費試用版購買訂閱](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)。
+若要深入瞭解，請參閱 [從免費試用版購買訂閱](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)。
 
 **疑難排解**
 

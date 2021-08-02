@@ -11,19 +11,21 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c1e5837034130f7d03220d28c1da1fa619b6fe64
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712139"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689397"
 ---
 # <a name="port-existing-numbers-to-teams"></a>將現有的號碼移植至 Teams
 
-如果您目前有電話服務供應商或電信業者，且已經有使用者或服務的電話號碼，您必須建立「移植順序」，將這些電話號碼轉移至 Microsoft Teams。
+如果您目前有電話服務供應商或電信業者，且已經有使用者或服務的電話號碼，您必須建立「移植順序」，將這些電話號碼轉移至 Microsoft Teams。  
 
-- 請參閱[將電話號碼轉移至 Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams)，以了解如何完成移植。 
+若要建立新的埠順序或檢查現有的埠順序，請遵循下列步驟： 
 
-- 如需電話號碼管理指引，請參閱[管理貴組織的電話號碼](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)。 
+1. 移至[Teams 系統管理中心](https://admin.teams.microsoft.com/phone-numbers)，開啟 [電話號碼] 頁面。 
 
-如需詳細資訊，請參閱[移植順序概觀](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)。  
+1. 選取 [ **取得電話號碼支援] 連結**。 
+
+若要直接前往電話號碼支援，請參閱[電話號碼服務中心](https://pstnsd.powerappsportals.com/)。  

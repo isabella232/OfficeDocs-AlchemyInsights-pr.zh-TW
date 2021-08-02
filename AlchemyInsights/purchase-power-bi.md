@@ -3,6 +3,8 @@ title: 購買 Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,26 +12,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: ec8e44bf634eb8393e26767dc153e7e404af54d1
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: c802485272c20d21201c76ce5986834ae45e1ea0
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602031"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686409"
 ---
 # <a name="purchase-power-bi"></a>購買 Power BI
 
-Power BI 可在 **Microsoft 365 系統管理中心** 購買。
+您可以在 **Microsoft 365 系統管理中心** 中購買 Power BI。
 
 1. 移至 **帳單 > [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)** ] 頁面。
 2. 使用搜尋框來搜尋 "Power BI"。
-3. 選取您要購買的 Power BI 方案，選取 [ **詳細資料**]，然後選取 [ **購買**]。
+3. 選取您要購買的 Power BI 方案，選取 [**詳細資料**]，然後選取 [**購買**]。
 4. 輸入您需要的授權數目，並選擇要按月付款或按年付款。 選擇是否要自動將授權指派給目前未獲授權的所有使用者。 然後選取 [ **立即查看**]。
 5. 查看定價資訊，然後選取 **[下一步]**。
 6. 提供您的付款資訊，然後選取 [**下訂單**]  >  **移至**[系統管理] 首頁。
 
-若要將授權指派給使用者，請參閱 [將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
+若要將授權指派給使用者，請參閱 [將授權指派給使用者](/microsoft-365/admin/manage/assign-licenses-to-users)。
 
-若要購買更多或移除授權，請參閱 [購買或移除商務用訂閱的授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。
+若要購買更多或移除授權，請參閱 [購買或移除商務用訂閱的授權](/microsoft-365/commerce/licenses/buy-licenses)。

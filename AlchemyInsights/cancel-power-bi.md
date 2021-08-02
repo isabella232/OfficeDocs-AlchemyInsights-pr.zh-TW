@@ -3,6 +3,7 @@ title: 取消 Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,22 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
+- commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 321ce2fa2d40aafc040a1b3232474b108d0501f4
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: dae240765f1a0c5b0fa6391464fbfe0721dd6a09
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543424"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687309"
 ---
 # <a name="cancel-power-bi"></a>取消 Power BI
 
-您可以在 Microsoft 365 系統管理中心取消 Power BI。
+Microsoft 365 系統管理中心中可取消 Power BI。
 
 1. 在系統管理中心中，移至 **帳單 > [產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。
-2. 在 **[產品]** 索引標籤上，找出您要取消的訂閱。 選取 [ (更多動作) ] 的三個點，然後選取 [ **取消訂閱**]。
-3. 在 **取消訂閱** 窗格中，選擇取消的原因。 您也可以選擇提供任何意見反應。
+2. 在 **[產品]** 索引標籤上，找出您要取消的訂閱。 選取三個點 (更多動作)，然後選取 **[取消訂閱]**。
+3. 在 [取消訂閱 **]** 窗格中，選擇取消的原因。選擇性地提供任何意見反應。
 4. 選取 **[儲存]**。
 
 **退款：在下一個計費週期內，任何按比例支付的信用額度都會傳回給您。**

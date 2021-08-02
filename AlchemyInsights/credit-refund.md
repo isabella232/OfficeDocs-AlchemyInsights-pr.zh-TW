@@ -4,21 +4,23 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, jkinma
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 1e40dcf238ce4bc05c55c78e29c54fc260523bc2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 66526e5aba6d4f4e8a19141478fd103fbab71f31
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815858"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687561"
 ---
 # <a name="creditrefund"></a>信用/退款
 
@@ -34,4 +36,4 @@ ms.locfileid: "51815858"
 
 **在下一個計費週期內，任何按比例支付的信用都會傳回給您。**
 
-如需詳細資訊，請參閱 [取消和退款處理](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide)程式。 
+如需詳細資訊，請參閱 [取消和退款處理](/microsoft-365/commerce/subscriptions/cancel-your-subscription)程式。 

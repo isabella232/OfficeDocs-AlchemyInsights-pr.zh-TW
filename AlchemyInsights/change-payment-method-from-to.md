@@ -3,26 +3,29 @@ title: 變更付款方式
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: 7651ca75cc954e222b45fe1172554de0174fb4e0
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: b32e4e99e576a2aa118fa6a5f5b968c30709ea8b
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601373"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685329"
 ---
 # <a name="change-payment-method-fromto"></a>變更新舊付款方式
 
 1. **從發票付款變更為信用卡或銀行帳戶付款**
 
-    - 您無法自動由從發票付款變更為以不同的付款方法付款。 相反地，您必須[購買不同的訂閱](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)，透過信用卡或轉帳卡或銀行帳戶支付，[將所有使用者移至新訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)，然後[取消舊的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
+    - 您無法自動由從發票付款變更為以不同的付款方法付款。 相反地，您必須[購買不同的訂閱](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)，透過信用卡或轉帳卡或銀行帳戶支付，[將所有使用者移至新訂閱](/microsoft-365/commerce/subscriptions/move-users-different-subscription)，然後[取消舊的訂閱](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
 
 2. **從信用卡或銀行帳戶付款變更為發票付款**
 
@@ -32,4 +35,4 @@ ms.locfileid: "50601373"
 
     - 依照[如何從信用卡付款變更為發票付款？](how-do-i-change-from-credit-card-payments-to-invoice.md)中的步驟，完成手動變更。
 
-如需詳細資訊，請參閱[如何支付您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。
+如需詳細資訊，請參閱[如何支付您的訂閱](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。

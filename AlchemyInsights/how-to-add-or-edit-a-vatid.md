@@ -4,21 +4,23 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
+ms.reviewer: jmueller, tugu
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 7f31038370b09fef179ac7d42e28e9d57b57d24d
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: a2a9b189ba8228cd6487c2f268c9d71affaa3519
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489052"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686301"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>如何新增或編輯 VatID
 
@@ -28,8 +30,8 @@ ms.locfileid: "48489052"
 **新增或編輯 VatID**
 
 1. 在系統管理中心，移至 **[帳單]** \> [[您的產品]](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
-2. 在 [ **產品** ] 索引標籤上，選取您要更新的訂閱。
+2. 在 **[產品]** 索引標籤上，選擇您想要更新的訂閱。
 3. 在 [訂閱詳細資料] 頁面上，選取 [ **服務使用位址** ] 區段中的 [ **編輯服務使用位址**]。
 4. 在 [ **編輯服務使用位址** ] 窗格的 [ **vat 號碼** ] 方塊中，輸入您的 vat ID，然後選取 [ **儲存**]。 執行這項作業之後，就不會在下一個帳單上收取加值稅。
 
-若要深入瞭解，請參閱 [我要向 Microsoft 365 收取哪些稅收？](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)。
+若要深入瞭解，請參閱[哪些稅收會計費 Microsoft 365？](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)。

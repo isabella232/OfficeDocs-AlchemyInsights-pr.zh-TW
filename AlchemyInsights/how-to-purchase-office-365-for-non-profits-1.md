@@ -1,9 +1,10 @@
 ---
-title: '適用于非營利組織的 Microsoft 365-已核准 '
+title: '非營利組織-核准的 Microsoft 365 '
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +12,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 597e57c85080bdd3f9422af981e27ba960006b49
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 14aec3bc77d72264bdb45abe2191fa3993d6e2e8
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810655"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687813"
 ---
-# <a name="microsoft-365-for-nonprofits---approved"></a>適用于非營利組織的 Microsoft 365-已核准
+# <a name="microsoft-365-for-nonprofits---approved"></a>非營利組織-核准的 Microsoft 365
 
 您的狀態為 Microsoft 合格的非盈利性組織，已獲核准。 您可以從 Microsoft 365 系統管理中心完成購買。
 
@@ -31,4 +33,4 @@ ms.locfileid: "51810655"
 
 3. 將游標移至您要購買的訂閱，然後選擇 [ **立即購買**]。
 
-如需詳細資訊，請參閱 [Microsoft 365 resources for 非營利組織](https://www.microsoft.com/nonprofits/microsoft-365) or [contact sales](https://www.microsoft.com/nonprofits/contact-us)。
+如需詳細資訊，請參閱[Microsoft 365 resources for 非營利組織](https://www.microsoft.com/nonprofits/microsoft-365)or [contact sales](https://www.microsoft.com/nonprofits/contact-us)。

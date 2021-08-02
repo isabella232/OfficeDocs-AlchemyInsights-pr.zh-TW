@@ -3,6 +3,8 @@ title: 管理應用程式授權
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, micurn
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 8414b288dca9edae321fa0f6f7fcc5b5a394f8bb
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: cfed9a827219a20c6ff204134eb2b5a05a707ba7
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545638"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689361"
 ---
 # <a name="manage-app-licenses"></a>管理應用程式授權
 
@@ -29,7 +31,7 @@ ms.locfileid: "52545638"
 2. 在 [ **產品** ] 索引標籤的 [ **應用程式** ] 區段中，尋找您要管理的應用程式。 選取 [ (更多動作) ] 的三個點，然後選取 [ **購買授權**]。
 3. 如果您想要減少授權數目，請在 [ **購買授權** ] 窗格的頂端，選取 [ **移除授權**]。
 4. 若要購買或移除授權，請在 [**授權總數**] 方塊中的 [**新數量**] 下，輸入此訂閱所需的授權總數。 例如，如果您有100授權，而您想要新增5個，請輸入105。 如果您想要移除五個，請輸入95。
-5. 選取 ****[儲存]。
+5. 選取 **[儲存]**。
 
 ## <a name="to-assign-app-licenses"></a>指派應用程式授權
 

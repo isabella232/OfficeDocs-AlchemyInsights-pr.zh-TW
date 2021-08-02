@@ -3,6 +3,8 @@ title: 帳單和付款
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820385"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686877"
 ---
 # <a name="billing-and-payment"></a>帳單和付款
 
@@ -52,10 +55,10 @@ ms.locfileid: "51820385"
 
 7. 已在下拉式清單中選取新的付款方式。 選取 [取代]。
 
-若要深入了解，請參閱[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
+若要深入了解，請參閱[管理付款方式](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
 
 **計費頻率**
 
 根據結帳時所選擇的計費頻率，每月或每年產生帳單。  
 
-**附注**：在進行變更（例如新增或移除授權）時，具有年度帳單的訂單可能會收到帳單。 [變更您的帳單頻率](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)。
+**附注**：在進行變更（例如新增或移除授權）時，具有年度帳單的訂單可能會收到帳單。 [變更您的帳單頻率](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)。

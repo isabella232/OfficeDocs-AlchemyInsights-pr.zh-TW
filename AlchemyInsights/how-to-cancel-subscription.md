@@ -3,6 +3,7 @@ title: 如何取消訂閱
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9003797"
 - "6836"
-ms.openlocfilehash: af5b16a55afd7e26601e8ffa6288a72c94b9b1fb
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: e8aa177477c1f87de6ce87cecd5f015d1a03756c
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086257"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689109"
 ---
 # <a name="how-to-cancel-a-subscription"></a>如何取消訂閱
 
@@ -33,5 +35,5 @@ ms.locfileid: "49086257"
 
 取消之後，您的服務便會遭停用。 這表示您的虛擬機器已解除指派、臨時 IP 位址已被釋放，且儲存空間為唯讀。
 
-當您取消訂閱後，Microsoft 會等候30-90 天，直到您需要存取您的資料，或變更主意時，才能永久刪除您的資料。 我們不會向您收取保留資料的費用。 如需詳細資訊，請參閱 [Microsoft 信任中心-如何管理您的資料](https://www.microsoft.com/trust-center/privacy/data-management#leave)。
+在當您的訂閱取消之後，Microsoft 會等 30-90 天後才永久刪除您的資料 (以免您需要存取您的資料，或變更您的想法)。 我們不會向您收取保留資料的費用。 如需詳細資訊，請參閱 [Microsoft 信任中心-如何管理您的資料](https://www.microsoft.com/trust-center/privacy/data-management#leave)。
 

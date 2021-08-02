@@ -4,6 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,16 +12,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "330"
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 8546be7dc2ab569fe0beb3150ead687d3a96c83a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ac674c1fd51e58fb2ec42df5568bc9f96f283d64
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810727"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689253"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>如何購買 Office 365 教育版方案
 
@@ -36,4 +38,4 @@ ms.locfileid: "51810727"
 
 - 請參閱 [Office 365 教育版中的遠端教學和學習](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)，以了解如何設定學校、課程規劃、虛擬會議，以及與學生共用內容的最新指導方針。
 
-- 在[開始使用 Microsoft Teams 進行遠端學習](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)，以及[轉型為遠端學習](https://www.microsoft.com/education/remote-learning)中可以找到其他的 IT 指引。
+- 在[開始使用 Microsoft Teams 進行遠端學習](/MicrosoftTeams/remote-learning-edu)，以及[轉型為遠端學習](https://www.microsoft.com/education/remote-learning)中可以找到其他的 IT 指引。

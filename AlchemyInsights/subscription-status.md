@@ -3,6 +3,7 @@ title: 訂閱狀態
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,20 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9001519"
 - "3586"
-ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 9d26786b1d1643278b50d25fd52f8eb46b4cfbef
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542776"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689541"
 ---
 # <a name="subscription-status"></a>訂閱狀態
 
 訂閱狀態、到期日和授權數目可在 Microsoft 365 系統管理中心的 [**產品**] 頁面上找到。
 
-1. 在系統管理中心，移至 [帳單 **]**  >  [您的產品 []](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
+1. 在系統管理中心，移至 **[帳單]** > [您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
 2. 在 [ **產品** ] 索引標籤上，根據預設，您會看到所有的訂閱及其狀態 (作用中、到期、停用或刪除的) 。 若要查看所有訂閱的子集，請選取 [篩選] 圖示，然後選取您要查看的 **訂閱狀態** 。
 3. 若要重新啟用已到期或已停用的訂閱，請選取三個點 () 其他動作]，然後選取 [ **重新啟用此訂閱**]。
 4. **您的產品** 頁面也會顯示下列資訊：

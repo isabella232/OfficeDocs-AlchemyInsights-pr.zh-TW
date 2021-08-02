@@ -3,6 +3,7 @@ title: 已到期訂閱
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: f8e317f5911105e495d17f1242da86fe590651f9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 23deea0e03b1d9a2208de38d16018a3679e8add3
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544173"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686769"
 ---
 # <a name="expired-subscription"></a>已到期訂閱
 
@@ -27,7 +29,7 @@ ms.locfileid: "52544173"
 **重新啟用**
   
 1. 在系統管理中心，移至 **[帳單]** \> [[您的產品]](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
-2. 在 **[產品]** 索引標籤上，找出您要重新啟用的訂閱。 選取三個點 (多個動作) ]，然後選取 [ **重新啟用此訂閱**]。
+2. 在 **產品** 索引標籤上，找出您想要重新啟用的訂閱，選取三個點 (更多動作)，然後選取 **[重新啟用此訂閱]**。
     > [!NOTE]
     > 如果您未看到 [ **重新啟用此訂閱**]，請致電支援人員。
 3. 在 **重新啟用此訂閱** 窗格中，從下拉式清單中選取付款條件，或選取 **[新增付款條件]**。

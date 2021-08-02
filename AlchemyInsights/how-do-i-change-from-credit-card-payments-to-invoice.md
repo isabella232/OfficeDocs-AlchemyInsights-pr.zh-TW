@@ -3,20 +3,23 @@ title: 如何將信用卡付款變更為發票？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: c34dc93f7ad091c08f23f11cdf0dddea6afb9a04
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: be744c88181d97edfe0f98f2d5e6bc02ff1bf30b
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544461"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685941"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>如何將信用卡付款變更為發票？
 
@@ -25,7 +28,7 @@ ms.locfileid: "52544461"
 
 1. 在系統管理中心，移至 [帳單 **]**  >  [您的產品 []](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
 2. 在 [產品 **]** 索引標籤上，尋找您想要以其他付款方式支付的訂閱。
-3. 選取 [ (更多動作) ] 的三個點，然後選取 [ **取代支付方式**]。
+3. 選取三個點 (更多動作)，然後選取 **[取代付款方式]**。
 4. 在 [ **取代支付方式** ] 窗格中，選取 [ **新增支付方式**]。
 5. 在 [ **新增支付方式** ] 窗格中，選取 [ **發票] 或 [線傳輸**]。
 6. 輸入您的姓名、位址和電話號碼。 您也可以新增 PO 編號以顯示在發票上。
