@@ -1,5 +1,5 @@
 ---
-title: 管理網路研討會登錄
+title: 管理網路研討會註冊
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: 0db6f434fa74970ac6083501ab26762cc6b7885f
-ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
+ms.openlocfilehash: e164efdd5b1dec329179496f89f95867be7666d1
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798635"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687489"
 ---
-# <a name="manage-webinar-registration"></a>管理網路研討會登錄
+# <a name="manage-webinar-registration"></a>管理網路研討會註冊
 
-您可以透過使用 Teams Powershell 命令來管理可以註冊 Teams 網路研討會的人員。 若要安裝 Teams Powershell，請參閱 [Teams PowerShell](/microsoftteams/teams-powershell-install)。 
+依預設會啟用網路研討會註冊。 如果想要關閉會議註冊，您可以使用 Teams 系統管理中心： 
 
-根據預設，*WhoCanRegister* 為啟用狀態且設為 **所有人**。 
+1. 移至 [Teams 系統管理中心](https://admin.teams.microsoft.com/policies/meetings)。 
 
-如果您沒有在會議邀請中看到允許所有人的註冊，請重新執行設定 *WhoCanRegister* 為所有人，並等候 24 小時。 若要重新執行 *WhoCanRegister*，請使用 PowerShell 命令：
+2. 選取 [全域 (全組織預設值)]**** 或其他特定原則。 
 
-`Set-CsTeamsMeetingPolicy -WhoCanRegister Everyone`
+3. 在 [一般]**** 下，將 [允許會議註冊]**** 設為 [關閉 **]**。 
 
-**附註**：如果在會議設定將 [匿名加入] 設為關閉，匿名使用者就無法加入網路研討會。 若要深入了解並啟用此設定，請參閱[在 Microsoft Teams 中管理會議設定](/microsoftteams/meeting-settings-in-teams)。
+將會議註冊設為 [開啟]**** 時，您也可以使用 Teams 系統管理中心來管理註冊 Teams 網路研討會的使用者： 
 
-如果您想要關閉會議註冊，請將 *AllowMeetingRegistration* 設為 **False**。
+1. 移至 [Teams 系統管理中心](https://admin.teams.microsoft.com/policies/meetings)。 
 
-若要深入了解設定可以註冊網路研討會的人員，請參閱 [設定可以註冊網路研討會的人員](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)。 如需 Microsoft 清單設定的詳細資料，請參閱 [控制 Microsoft 清單設定](/sharepoint/control-lists)。
+2. 選取 [全域 (全組織預設值)]**** 或其他特定原則。 
+
+3. 在 [一般]**** 下，前往 [誰可以註冊]**** 設定，然後選取 [所有人]**** 或 [公司中的所有人 **]**。 
+
+**附註**：如果在會議設定將匿名加入設為關閉，匿名使用者就無法加入網路研討會。 若要深入了解如何啟用此設定，請參閱 [在 Microsoft Teams 中管理會議設定](/microsoftteams/meeting-settings-in-teams)。 
+
+若要深入了解設定誰可以註冊網路研討會，以及如何使用 Teams PowerShell 管理這些原則，請參閱 [設定誰可以註冊網路研討會](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)。 如需 Microsoft 清單設定的詳細資訊，請參閱 [控制 Microsoft 清單的設定](/sharepoint/control-lists)。 
+
+ 
