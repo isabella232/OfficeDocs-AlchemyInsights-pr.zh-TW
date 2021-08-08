@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001517"
 - "5609"
-ms.openlocfilehash: 7fbbe5d5a7aa347541f6cedd3dc97daa2b9757d2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fce177091cd762defb549ec11bc2c9a86bea10c198b4fe5fad17c128379f2a8a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006809"
 ---
 # <a name="use-windows-security-for-virus-and-threat-protection"></a>使用 Windows 安全性進行病毒和威脅防護
 

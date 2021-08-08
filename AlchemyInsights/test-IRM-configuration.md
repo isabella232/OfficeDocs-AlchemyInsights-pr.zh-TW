@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12428"
 - "9000078"
-ms.openlocfilehash: 28267a4cd0aa139467327385b8e85fed1675cf19
-ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
+ms.openlocfilehash: 62697d6379ea6ab3c6af86d3bab752af560da7c1250e5ef6dd2a3eae8023a05e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53532920"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908969"
 ---
 # <a name="test-irm-configuration-for-new-ome-capabilities"></a>測試新 OME 功能的 IRM 組配置
 

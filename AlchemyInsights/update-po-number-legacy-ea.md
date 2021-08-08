@@ -13,12 +13,12 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7322"
-ms.openlocfilehash: ef1e5f52cb26542892199694309fb2b0df551997
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7c3ee469107e9ab85dcf56450167cc2e47b2c8b79253d45b1a362959a869ba24
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617243"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908485"
 ---
 # <a name="update-purchase-order-number---legacy-ea---recommended-steps"></a>更新採購訂單編號-傳統的 EA-建議步驟
 
@@ -35,9 +35,9 @@ ms.locfileid: "49617243"
 
 您可以在目前計費期間產生發票之前的任何時間更新 PO 號碼，並在接收到自動發票通知電子郵件之後，再更新7天。 
 
-**建議的檔**
+**建議的文件**
 
 - [Azure 企業註冊發票](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices) 
-- [瞭解您的 Azure 企業協定帳單](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill)  
-- [瞭解 Azure 企業角色](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles#add-a-new-enterprise-administrator) 
+- [瞭解您的 Azure Enterprise 合約帳單](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill)  
+- [瞭解 Azure Enterprise 角色](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles#add-a-new-enterprise-administrator) 
 - [建立另一個企業系統管理員 (EA 系統管理員) ](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator)

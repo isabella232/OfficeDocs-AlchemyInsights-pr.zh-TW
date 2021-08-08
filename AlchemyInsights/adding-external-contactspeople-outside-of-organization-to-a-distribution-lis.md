@@ -13,12 +13,12 @@ ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: e9860a3c061b17a8b2fc87caa40ede0dd5277346
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df0c7e8f95d0754f362d697f155438a63e7f55f1146e8f1671932c380186baf4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663468"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934860"
 ---
 # <a name="add-external-email-addresses-to-a-distribution-group"></a>將外部電子郵件地址新增至通訊群組
 
