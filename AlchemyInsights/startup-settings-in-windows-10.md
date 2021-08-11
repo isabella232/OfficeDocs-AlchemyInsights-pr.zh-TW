@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: 6dfae58a398db088ba00d9c2ea9788bab929ccc1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 526b92013f26675b5bf42077271ae7dc7003af31fa8f605d76aea92e0ccabfa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828143"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909817"
 ---
 # <a name="startup-settings-in-windows-10"></a>Windows 10 中的啟動設定
 
 **變更啟動時自動執行的應用程式**
 
-1. 移至 [ [設定] > 應用程式 > 啟動](ms-settings:startupapps?activationSource=GetHelp)。
+1. 移至[設定 > 應用程式 > 啟動](ms-settings:startupapps?activationSource=GetHelp)。
 
 2. 請確定開啟時您想要 **執行的任何** 應用程式已開啟。
 
@@ -33,15 +33,15 @@ ms.locfileid: "51828143"
 
 2. 以滑鼠右鍵按一下應用程式，按一下 [ **其他**]，然後按一下 [ **開啟檔案位置**]。 這會開啟儲存應用程式快捷方式的位置。 如果開啟的檔案位置沒有任何選項，則表示應用程式無法在啟動時執行。
 
-3. 在檔案位置開啟時，按 **Windows 徽標鍵 + R**，輸入命令介面 **： startup**，然後按一下 **[確定]**。 這會開啟 [啟動] 資料夾。
+3. 在檔案位置開啟時，按 **Windows 的徽標鍵 + R**，輸入 **命令介面： startup**，然後按一下 **[確定]**。 這會開啟 [啟動] 資料夾。
 
 4. 從檔案位置複製並貼上應用程式的快捷方式至 [啟動] 資料夾。
 
-**Advanced startup options (包括安全模式、UEFI 設定，以及從另一個裝置引導)**
+**Advanced startup options (包括保管庫模式、UEFI 設定，以及從另一個裝置引導)**
 
 1. 儲存您的工作並關閉任何開啟的檔，因為這些步驟將會重新開機您的電腦。
 
-2. 移至 [ [設定] > 更新 & Security > Recovery](ms-settings:recovery?activationSource=GetHelp)。
+2. 移至[設定 > Update & Security > Recovery](ms-settings:recovery?activationSource=GetHelp)。
 
 3. 在 [ **Advanced startup**] 底下，按一下 [ **立即重新開機**]。 
 
@@ -49,6 +49,6 @@ ms.locfileid: "51828143"
 
     - 若要從 USB 磁片磁碟機等設備進行引導，請按一下 [ **使用裝置**]。
 
-    - 若要輸入 UEFI 設定 (有時稱為 BIOS 設定) ，請按一下 [ **疑難排解] > 高級選項 > UEFI 固件設定**。 
+    - 若要輸入 UEFI 設定 (有時稱為 BIOS 設定) ，請按一下 [**疑難排解] > 高級選項 > UEFI 固件設定**。 
 
-    - 若要輸入安全模式或變更 [advanced startup] 設定，請按一下 [ **疑難排解 > 高級選項] > 啟動設定**]，然後按一下 [ **重新開機**]。 您可能會要求您輸入 [BitLocker 復原金鑰](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key)。 重新開機電腦之後，按一下您要使用的啟動設定。
+    - 若要輸入保管庫模式或變更 advanced startup 設定，請按一下 [ **> 高級選項 > 啟動設定**]，然後按一下 [**重新開機**]。 您可能會要求您輸入 [BitLocker 復原金鑰](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key)。 重新開機電腦之後，按一下您要使用的啟動設定。

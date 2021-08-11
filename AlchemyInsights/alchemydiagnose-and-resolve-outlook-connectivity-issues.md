@@ -14,16 +14,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: b2cce7e7d87558a773e63f518e1a52192fefd92c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f10eb569be90ba8f5f5fafc50f70c79e15a4c693c7798f804da4206846eccecc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933708"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>診斷及解決 Outlook connectivity 問題
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>診斷及解決 Outlook 連接問題
 
-若要診斷並修正您的 Outlook 連線問題，您可以在受影響的機器上執行 [outlook 連線工具](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) 。
+若要診斷並修正您的 Outlook 連線問題，您可以在受影響的機器上執行 Outlook 的連線[工具](https://aka.ms/SaRA-OutlookDisconnect-Alchemy)。
   
 此工具會執行診斷檢查，並建議您解決 Outlook 連線問題的可能解決方案。
   
