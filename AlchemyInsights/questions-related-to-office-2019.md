@@ -12,24 +12,24 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: 9e14a18174d7bd5be5b64ecf1ee71befc3b96201
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60136dd385320760595bd061b226f5649b2c6ca9953ea87aa743dcf4156759a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911077"
 ---
 # <a name="about-office-2019"></a>關於 Office 2019
 
-Office 2019 適用于尚未準備好雲端的客戶，或有內部部署或混合式 Office 部署的特定需求。 它包含有意義的功能子集，已新增至最近三年的 Microsoft 365，但不是 Microsoft 365 的一部分。
+Office 2019 是針對尚未準備好雲端的客戶，或是內部部署或混合式 Office 部署的特定需求。 它包含有意義的功能子集，已在過去三年內新增至 Microsoft 365，但它不是 Microsoft 365 的一部分。
   
-適用于企業的 Microsoft 365 應用程式，雲端連接版本的 Office，可提供最高效率和最安全的 Office 體驗。 它可讓您存取一套服務，而不是內部部署的版本，而不是以持續的方式接收新的功能更新。
+Microsoft 365 Apps 企業版，雲端連接版本的 Office，可提供最高效率和最安全的 Office 體驗。 它可讓您存取一套服務，而不是內部部署的版本，而不是以持續的方式接收新的功能更新。
   
-因此，如果您有 Office 桌面應用程式做為 Microsoft 365 訂閱的一部分，您已具備最新版的 Office。
+因此，如果您有 Office 的桌面應用程式做為您 Microsoft 365 訂閱的一部分，您已具備 Office 的最新版本。
   
 如需詳細資訊，請參閱：
   
-[適用于 Windows 和 Mac 的 Office 2019 商務版常見問題](https://support.microsoft.com/help/4133312)
+[Office 2019 商用 for Windows 和 Mac 常見問題](https://support.microsoft.com/help/4133312)
   
 [Office 2019 的主要版本號碼保持在16。0](https://docs.microsoft.com/deployoffice/office2019/overview)
   

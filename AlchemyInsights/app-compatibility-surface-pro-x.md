@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7009"
 - "9003951"
-ms.openlocfilehash: 085815982a3948a7853326541101d2ed21c1869e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8f353d1337415183db1df168406b33594fb5fdb0aac3f13d0afe3e682fa6e3f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821355"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932016"
 ---
 # <a name="app-compatibility-with-microsoft-surface-pro-x"></a>應用程式與 Microsoft Surface Pro X 的相容性
 
