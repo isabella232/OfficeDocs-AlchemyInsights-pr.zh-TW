@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9374"
-ms.openlocfilehash: 4a9163f199a505df9b2de4f02b7c37a5f5677022
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 6b4d7335461c913a6b5f782756684c5526a96c58c44853ddf9154aa51607bd4a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709492"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972815"
 ---
 # <a name="troubleshoot-password-based-seamless-single-sign-on-sso-issues"></a>疑難排解以密碼為基礎的無縫單一登入 (SSO) 問題
 
-若要瞭解密碼型 SSO 的基礎知識，請參閱以密碼為基礎的 [Azure Active Directory 驗證](https://docs.microsoft.com/azure/active-directory/fundamentals/auth-password-based-sso)。
+若要瞭解密碼型 SSO 的基礎知識，請參閱[以密碼為基礎的 Azure Active Directory 的密碼驗證](https://docs.microsoft.com/azure/active-directory/fundamentals/auth-password-based-sso)。
 
 **設定密碼型 SSO**
 

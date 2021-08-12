@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1745"
 - "9000140"
-ms.openlocfilehash: 2bc79cbb2213392211a7be4c7746e97d2186227c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 782c47306073a683df8eb66edb587a8570b5cce964e02a6278e9a60eced661f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957343"
 ---
 # <a name="size-or-bandwidth-concerns-with-office-updates"></a>Office 更新的大小或頻寬顧慮
 

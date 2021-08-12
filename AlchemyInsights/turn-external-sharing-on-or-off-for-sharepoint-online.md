@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "3168"
-ms.openlocfilehash: 1df1d784d85bbaba2c1932b4d7bbae90448beef3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 35cc955f3f6412f985f74d785d81815ae93a1ab5a719bf9b4de9154c024a2979
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808890"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920386"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>開啟或關閉 SharePoint Online 的外部共用功能
 

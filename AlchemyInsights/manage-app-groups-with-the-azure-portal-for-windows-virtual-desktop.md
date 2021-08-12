@@ -1,5 +1,5 @@
 ---
-title: 使用適用于 Windows Virtual Desktop 的 Azure 入口網站管理應用程式群組
+title: 使用 Azure 入口網站 Windows 虛擬機器管理應用程式群組
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49715671"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912049"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>使用適用于 Windows Virtual Desktop 的 Azure 入口網站管理應用程式群組
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>使用 Azure 入口網站 Windows 虛擬機器管理應用程式群組
 
-為新 Windows 虛擬桌面主機集區建立的預設應用程式群組也會發佈完整的桌面。 此外，使用 Azure 入口網站可讓您為主機集區建立一或多個 RemoteApp 的應用程式群組。
+為新的 Windows 虛擬桌面主機集區建立的預設應用程式群組也會發佈完整的桌面。 此外，使用 Azure 入口網站可讓您為主機集區建立一或多個 RemoteApp 的應用程式群組。
 
 部署程式將執行下列作業：
 
@@ -31,4 +31,4 @@ ms.locfileid: "49715671"
 4. 如果您選擇這麼做，請註冊應用程式群組。
 5. 根據您的設定建立 Azure 資源管理員範本的連結，您可以下載並儲存。
 
-若要建立 Windows 虛擬機器的 RemoteApp 群組，請依照 [使用 Azure 入口網站管理應用程式群組](https://go.microsoft.com/fwlink/?linkid=2129550)中的指示進行。
+若要建立 Windows 虛擬機器的 RemoteApp 群組，請依照[使用 Azure 入口網站管理應用程式群組](https://go.microsoft.com/fwlink/?linkid=2129550)中的指示進行。
