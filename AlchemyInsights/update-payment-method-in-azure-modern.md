@@ -12,12 +12,12 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6857"
-ms.openlocfilehash: bb032f772077318e54ac4fde42a72f432703d828
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 39f77710d25add89d1bb9610ae1875784b538ad68512a4db29c1388e53e0fd75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791379"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007313"
 ---
 # <a name="update-payment-details-in-azure"></a>更新 Azure 中的付款詳細資料
 
@@ -27,13 +27,13 @@ ms.locfileid: "48791379"
 
 1. 登入 [Azure 入口網站](https://portal.azure.com/)。
 
-2. 搜尋 **成本管理 + 帳單** 。
+2. 在 **成本管理 + 計費** 上搜尋。
 
-3. 在左邊的功能表中，選取 [ **帳單設定檔** ]。
+3. 在左邊的功能表中，選取 [ **帳單設定檔**]。
 
 4. 選取帳單設定檔。
 
-5. 在左側的功能表中，選取 [ **支付方式** ]。
+5. 在左側的功能表中，選取 [ **支付方式**]。
 
 6. 在 [ **您的信用卡** ] 區段中，找到您想要編輯的信用卡卡。
 7. 在列的結尾選取省略號 **( ... )** 。

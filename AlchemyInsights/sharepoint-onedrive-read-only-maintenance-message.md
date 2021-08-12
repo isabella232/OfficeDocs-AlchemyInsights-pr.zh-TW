@@ -13,12 +13,12 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670823"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910537"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>嘗試使用 SharePoint 或 OneDrive 時進行維護訊息的 Read-Only
 
@@ -34,8 +34,8 @@ ms.locfileid: "47670823"
 
 請先嘗試清除瀏覽器快取，然後再流覽至網站。
 
-1. 在您的 Microsoft Edge browser 中，選取 [ **設定**]，然後選取 [ **隱私權與安全性**]。
-2. 在 [ **清除流覽**] 底下，選取 **[選擇要清除**的專案]。
+1. 在您的 Microsoft Edge 瀏覽器中，選取 [**設定**]，然後選取 [**隱私權與安全性**]。
+2. 在 [ **清除流覽**] 底下，選取 **[選擇要清除** 的專案]。
 3. 選取 [ **cookie] 和 [儲存的網站資料**]，然後選取 [ **清除**]。
 
 >[!Note] 

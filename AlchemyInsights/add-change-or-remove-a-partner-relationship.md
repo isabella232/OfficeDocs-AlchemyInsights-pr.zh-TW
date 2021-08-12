@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "3748"
-ms.openlocfilehash: ad27f3ef8973fb9defe97343a4eda46cf96a4100
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b07c01337694f7acdab594dd46fdf2ff0cfeb70bf6298fb66a7e6736f8a98e96
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936264"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>新增、變更或移除夥伴關係
 
@@ -25,6 +25,6 @@ ms.locfileid: "51822590"
 
 - 如果您想要編輯現有的合作夥伴關係，請參閱 [新增、變更或刪除訂閱顧問合作夥伴](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide)。
 
-- 如果您要尋找 Microsoft 合作夥伴，請參閱 [尋找您的 microsoft 365 合作夥伴或轉銷商](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide)。
+- 如果您要尋找 Microsoft 合作夥伴，請參閱[尋找您的 Microsoft 365 合作夥伴或轉銷商](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide)。
 
 如果您是現有的 Microsoft 合作夥伴或想要成為一個合作夥伴，請參閱 [Microsoft 合作夥伴中心](https://support.microsoft.com/help/4499930/partner-center-overview) ，以取得有關優點的詳細資訊，或如何取得 [Microsoft 合作夥伴支援](https://aka.ms/partnersupport)的協助。

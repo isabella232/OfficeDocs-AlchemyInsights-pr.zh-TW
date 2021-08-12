@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: bb29d04fe8de94af863ae062a76a158ae2f5b4d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 92d776675c2c70bfb651ce09e0f2d7b815366f22a87f2e468964fa4971d275f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822122"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934896"
 ---
 # <a name="enable-external-communications-and-add-contacts"></a>啟用外部通訊並新增連絡人
 
-在商務用 Skype 中，您可以將人員新增至連絡人清單，這樣就只需按一下即可。 您新增的每一個連絡人都會獲得一或多個連絡人群組的成員資格。 [請參閱在商務用 Skype 中新增連絡人](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1)以取得詳細資訊。 
+在商務用 Skype 中，您可以將人員新增至連絡人清單，這樣就只需按一下即可。 您新增的每一個連絡人都會獲得一或多個連絡人群組的成員資格。 如需詳細資訊，[請參閱新增商務用 Skype 中的連絡人](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1)。 
 
 確定您的租使用者管理員已遵循 [允許外部通訊](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)的步驟。
 
-您是否只想要讓您的使用者能夠聯繫 Skype 消費者使用者？ 請參閱 [讓商務用 skype 使用者新增 Skype 連絡人](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)。 
+您是否只想要讓您的使用者與 Skype 使用者使用者聯繫？ 請參閱[讓商務用 Skype 使用者新增 Skype 連絡人](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)。 

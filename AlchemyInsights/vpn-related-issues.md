@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1545"
 - "9000076"
-ms.openlocfilehash: 3c031725c92f5d7af7c0dd0c37ea34fecf4792c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d9c34350d16d96329d1ed56666119dba0433c93ccb7547da5dba4894531e1b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726082"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970970"
 ---
 # <a name="vpn-related-issues"></a>VPN 相關問題
 
@@ -43,7 +43,7 @@ iOS 裝置 Intune 中的個別應用程式 VPN 目前可供特定的提供者和
 
 如需有關 Intune 中所有 VPN 連線類型的詳細資訊，請參閱[建立 VPN 設定檔以連接到 Intune 中的 VPN 伺服器](https://docs.microsoft.com/intune/vpn-settings-configure)。  
 
-**當存取已設定的網域時，未觸發 iOS 的隨選 VPN **
+**當存取已設定的網域時，未觸發 iOS 的隨選 VPN**
 
 若要測試自動 VPN 設定，請設定下列值：
 

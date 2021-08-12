@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 0388ffa5e33cca366ab02c93bb70464fb2453752
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 160cdafd73fc3293eb154d156093a39844d0b84ea9f972691c3630693d720b38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49707866"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007169"
 ---
 # <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>更新 Azure EA portal 中的 PO 號碼-建議的步驟
 
@@ -34,9 +34,9 @@ ms.locfileid: "49707866"
 1. 按一下 [ **View/EDIT PO 號碼**]。
 1. 輸入新的 PO 編號，然後按一下 [ **儲存**]。
 
-**建議的檔** 
+**建議的文件** 
 
 - [Azure 企業註冊發票](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
-- [瞭解您的 Azure 企業協定帳單](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
-- [瞭解 Azure 企業角色](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
+- [瞭解您的 Azure Enterprise 合約帳單](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
+- [瞭解 Azure Enterprise 角色](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
 - [建立另一個企業系統管理員 (EA 系統管理員) ](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
