@@ -13,18 +13,18 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 71f251139160ef41acac13fd08af80515581ea10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66d4a8941bc4f4a6300b08f11de1f4a888b356040ebc15c9ab37677d19da82c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718108"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933348"
 ---
 # <a name="allow-users-to-send-email-as-a-distribution-group"></a>允許使用者以通訊群組形式傳送電子郵件
 
 若要允許使用者傳送看似來自現有通訊群組的郵件，請遵循下列步驟：
 
-1. 在 [Exchange 系統管理中心](https://outlook.office365.com/ecp/)中， **移至 [** 收件者 \> **群組**]。
+1. 在 [Exchange 系統管理中心](https://outlook.office365.com/ecp/)，**移至 [** 收件者 \> **群組**]。
 
 2. 選取您要修改的通訊群組，然後按一下 [ **編輯**]。
 

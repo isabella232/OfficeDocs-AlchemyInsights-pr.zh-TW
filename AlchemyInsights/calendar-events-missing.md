@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10932"
 - "9001435"
-ms.openlocfilehash: b114411d6285a68a41bbcbf64151c212ee2cf661
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af45345bc8779489f5e00dcaee136103e674068e29c77d8c536d012f475c33c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968667"
 ---
 # <a name="calendar-events-missing-or-not-updating"></a>行事曆事件遺失或未更新
 
