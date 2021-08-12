@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: e4a0a3d9b4fede9198c8a235d05945b30a6e0807
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1a6f9815a36cc267a815ff9757d713afed5d95aec4f7c537135c88cadf26cc51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929908"
 ---
 # <a name="submit-an-email-message-by-providing-the-network-message-id"></a>透過提供網路郵件識別碼提交電子郵件訊息
 
@@ -25,7 +25,7 @@ ms.locfileid: "50735885"
 2. 請遵循下列步驟，在 Outlook 中尋找電子郵件的郵件識別碼：
     1. 按兩下電子郵件以開啟它。
     1. 選取 [**檔**  >  **屬性**]。
-    1. 開啟 [記事本] 或空白的 Word 檔，然後複製並貼上 [ **Internet 標頭** ] 方塊中找到的內容，以取得更好的知名度。
+    1. 開啟記事本或空白的 Word 檔，然後複製並貼上 [**網際網路標題**] 方塊中的內容，並將其貼到已開啟的檔中，以取得更好的知名度。
     1. 找出 **X-MS-Exchange-Organization-網路 Message-Id** ] 欄位。 在 **：** 之後的值是您提交所需的識別碼。
 3. 在 **[** 收件者] 底下的 [垃圾郵件] 資料夾中進入此電子郵件的所有收件者，請選擇 [ **全選**]。 如果不是，請只選取報告問題的使用者。
 4. 在 **提交的原因** 下，如果您選取 [ **應該已封鎖**]，請指定是否應該封鎖郵件為 **垃圾郵件**、 **網路釣魚** 或 **惡意** 代碼，然後選取 [ **提交**]。

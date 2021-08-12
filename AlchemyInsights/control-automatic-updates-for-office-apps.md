@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1743"
 - "9000140"
-ms.openlocfilehash: ab3d6e60bc1b67220adbdf7ba61599a6b7aa663a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f162f11f678e8673d85e52cd9e54cedd7bd6e6a3aee87fcb2731a06d2698ea6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747767"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929872"
 ---
 # <a name="control-automatic-updates-for-office-apps"></a>控制 Office 應用程式自動更新
 
@@ -35,4 +35,4 @@ ms.locfileid: "47747767"
     a. HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\  
     b. ClickToRun\Configuration
 
-**附註** 如果已設定 OfficeMgmtCOM 機碼，可能會在 **Office** > **帳戶** > ** Office 更新**中看到「由系統管理員管理更新」的訊息。 如需更多資訊，請參閱[使用 Microsoft Endpoint Configuration Manager 管理 Microsoft 365 Apps 的更新](https://docs.microsoft.com/deployoffice/manage-updates-to-office-365-proplus-with-system-center-configuration-manager#method-1-use-office-deployment-tool-to-enable-office-365-clients-to-receive-updates-from-configuration-manager)。  
+**附註** 如果已設定 OfficeMgmtCOM 機碼，可能會在 **Office** > **帳戶** > **Office 更新** 中看到「由系統管理員管理更新」的訊息。 如需更多資訊，請參閱[使用 Microsoft Endpoint Configuration Manager 管理 Microsoft 365 Apps 的更新](https://docs.microsoft.com/deployoffice/manage-updates-to-office-365-proplus-with-system-center-configuration-manager#method-1-use-office-deployment-tool-to-enable-office-365-clients-to-receive-updates-from-configuration-manager)。  
