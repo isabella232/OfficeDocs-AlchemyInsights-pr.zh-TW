@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6886"
 - "9003837"
-ms.openlocfilehash: e329d7fe881a0fc9514584e06aa2d6e8ebab5b11
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 23c57356c8bd94c1cbafb538c9318208429754115a7c4e88abc93d293b5ea6e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813643"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946570"
 ---
 # <a name="0x8004de40-error-when-launching-onedrive"></a>啟動 OneDrive 時發生0x8004de40 錯誤
 

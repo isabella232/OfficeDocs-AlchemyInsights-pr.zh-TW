@@ -13,16 +13,16 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 6327e42b74283d732247c9a847c68db72082c56a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5fa5fd7586f999698fe43554fb9a2b205be3e25740c20763254a38d41297e0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963634"
 ---
 # <a name="configure-sync-features"></a>設定同步處理功能
 
-Azure AD Connect 包含許多預設已啟用的功能，也就是您可以稍後啟用的功能。 有些功能需要在特定環境中進行其他設定。
+Azure AD 連線包含許多預設啟用的功能，也就是您可以稍後啟用的功能。 有些功能需要在特定環境中進行其他設定。
 
 - [篩選](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) 限制將物件同步處理到 Azure AD。 依預設，會同步處理所有的使用者、連絡人、群組和 Windows 10 電腦帳戶。 您可以根據網域、Ou 或其他屬性包含或排除物件。
 
@@ -34,4 +34,4 @@ Azure AD Connect 包含許多預設已啟用的功能，也就是您可以稍後
 
 - [[防止意外刪除](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes)] 預設會啟用，以協助防止同步處理同時刪除的物件 (每個同步處理) 超過500個物件。 您可以變更此設定，以符合組織的需求。
 
-- 預設會為快速安裝啟用[自動升級](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)，並協助確保您的 Azure AD Connect 版本永遠都是最新的。
+- 預設會為快速安裝啟用[自動升級](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)，並協助確保您的 Azure AD 連線版本永遠都是最新版本。

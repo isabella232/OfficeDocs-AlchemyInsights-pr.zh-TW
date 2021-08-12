@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b14eedf2ceb0d8a0927df42c5bdf9f2652507f8686c01d0b90b6479ee2e4f062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709322"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946684"
 ---
 # <a name="entity-type-not-showing-in-search-results"></a>搜尋結果中未顯示的實體類型
 
