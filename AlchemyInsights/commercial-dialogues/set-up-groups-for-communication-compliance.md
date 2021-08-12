@@ -1,5 +1,5 @@
 ---
-title: 設定通訊符合性的群組
+title: 設定通訊合規性的群組
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 6550e9a7ec675607565640741f9527688116e5b4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1f9205bf06460ea395611d8dd7dc875d49fa7ac1a5dd3654d372e670fb84e4fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966748"
 ---
-# <a name="set-up-groups-for-communication-compliance"></a>設定通訊符合性的群組
+# <a name="set-up-groups-for-communication-compliance"></a>設定通訊合規性的群組
 
 這是選擇性的步驟。 如果您想要開始使用少數使用者來查看通訊相容性的運作方式，您可以略過此步驟。  
   
