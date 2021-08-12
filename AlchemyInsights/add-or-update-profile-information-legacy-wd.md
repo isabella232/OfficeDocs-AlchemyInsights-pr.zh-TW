@@ -13,12 +13,12 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7339"
-ms.openlocfilehash: a3cbf78949c7e22d537f54c2498133277a6cb5d6
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+ms.openlocfilehash: 9f83ca6145219c7ebee94315b177a6922391f526514fbf2c846f9a26a44228ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617860"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953824"
 ---
 # <a name="add-or-update-profile-information---legacy-wd---recommended-steps"></a>新增或更新設定檔資訊-舊版 WD-建議的步驟
 
@@ -45,16 +45,16 @@ ms.locfileid: "49617860"
 
 **新增或更新設定檔資訊**
 
-您可以使用 Azure Active Directory (Azure AD) ，新增使用者設定檔資訊（包括設定檔圖片、工作特定資訊）和某些設定。 如需新增使用者的詳細資訊，請參閱 [如何在 Azure Active Directory 中新增或刪除使用者](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)。
+您可以使用 Azure Active Directory (Azure AD) ，新增使用者設定檔資訊，包括設定檔圖片、工作特定資訊和某些設定。 如需新增使用者的詳細資訊，請參閱 how [to add or delete Azure Active Directory 中的使用者](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)。
 
 若要新增或變更設定檔資訊，請完成下列步驟：
 
 1. 以使用者管理員身分登入 Azure 入口網站以供組織使用。
-2. 選取 [ **Azure Active Directory > 使用者**]，然後按一下您要更新的使用者設定檔。 
+2. 選取 [ **Azure Active Directory > 使用者**]，然後按一下您想要更新的使用者設定檔。 
 3. 按一下 [ **編輯** ] 可選擇性地新增或更新每個可用區段中所包含的資訊。 
-4. 按一下 **[儲存]**。
+4. 按一下 **儲存**。
 
-**建議的檔**
+**建議的文件**
 
 - [Azure 入口網站中的計費帳戶和範圍](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts) 
 - [新增或更新 Azure 的信用卡](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)

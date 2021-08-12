@@ -12,12 +12,12 @@ ms.assetid: f57713db-eb98-4980-a7fc-b53bf80f7e81
 ms.custom:
 - "113"
 - "1600012"
-ms.openlocfilehash: ce3c53bcf6c84c0f30a832f1b34eacb7ee2d53d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f146d06757543671ec349ae7f97c0da4eab715158a01aecbe86d07094a582d01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921790"
 ---
 # <a name="service-incident-in-progress"></a>服務事件正在進行中
 

@@ -1,5 +1,5 @@
 ---
-title: 在 web 上的 Outlook 中變更信箱的外觀
+title: 在 Outlook 網頁版中變更信箱的外觀
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 4e4c07296c1d4ae579757ad49f7ad8325ec45f57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b74777e03e059f069bfd0c4b51dd8f227e8f228742cfb415cc0bab8f9bd6201e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961402"
 ---
 # <a name="change-the-look-of-your-outlook-mailbox"></a>變更 Outlook 信箱的外觀
 

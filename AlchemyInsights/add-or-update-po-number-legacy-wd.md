@@ -13,12 +13,12 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7338"
-ms.openlocfilehash: 524a5d9b376632482d5c4ca235789caab958eb9a
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7b6e5d0bd94b1de29a9571d6ee7f3c212860c5a957562238eb5f5214ec676e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617236"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953860"
 ---
 # <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>新增或更新 PO 號碼-舊版 WD-建議的步驟
 
@@ -31,7 +31,7 @@ ms.locfileid: "49617236"
 3. 從 [ **付款方法** ] 表格中，按一下 [ **發票**]。 
 4. 輸入您的新 PO 號碼，然後按一下 [ **儲存**]。
 
-**建議的檔**
+**建議的文件**
 
 - [支援的國家/地區和幣種](https://azure.microsoft.com/en-us/pricing/faq/) 
 - [如何依發票付款](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
