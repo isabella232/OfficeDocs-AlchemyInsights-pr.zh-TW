@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: 8e654a38d720aa51daf21bf5c3fb0da8b9c3d8e7
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571877"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972707"
 ---
 # <a name="troubleshoot-prt-issue"></a>疑難排解 PRT 問題
 
@@ -30,22 +30,22 @@ ms.locfileid: "49571877"
 
 此註冊流程也稱為「同步加入」。
 
-1. Windows 10 會在使用者登入裝置時搜尋 SCP 記錄。
-    1. 裝置會先嘗試從登錄中的用戶端 SCP 中取得租使用者資訊 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]。 如需詳細資訊，請參閱本 [檔](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)。
+1. Windows 10 使用者登入裝置時搜尋 SCP 記錄。
+    1. 裝置會先嘗試從登錄中的用戶端 SCP 中取得租使用者資訊 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]。 如需詳細資訊，請參閱本[文件](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)。
     2. 若失敗，裝置會與內部部署 Active Directory (AD) 進行通訊，以從服務連線點 (SCP) 取得租使用者資訊。 若要驗證 SCP，請參閱本 [檔](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)。 
 
 > [!NOTE]
 > 我們建議您在 AD 中啟用 SCP，且只使用用戶端 SCP 進行初始驗證。
 
-2. Windows 10 會嘗試與系統內容底下的 Azure AD 通訊，以針對 Azure AD 進行自我驗證。 您可以使用 Test Device Registration Connectivity 腳本，確認裝置是否可以存取系統帳戶底下的 Microsoft 資源。
+2. Windows 10 會嘗試與系統內容底下的 azure ad 進行通訊，以針對 Azure ad 進行自我驗證。 您可以使用 Test Device Registration Connectivity 腳本，確認裝置是否可以存取系統帳戶底下的 Microsoft 資源。
 
 3. Windows 10 會產生自我簽署憑證，並將它儲存在內部部署 AD 中的 computer 物件底下。 這需要在網域控制站上進行直線。
 
-4. 具有憑證的裝置物件會透過 Azure AD Connect 同步處理至 Azure AD。 同步處理週期預設為每30分鐘，但是取決於 Azure AD Connect 的設定。 如需詳細資訊，請參閱本 [檔](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)。
+4. 具有憑證的裝置物件會透過 Azure AD 連線同步處理至 Azure AD。 同步處理週期預設為每30分鐘，但其取決於 Azure AD 連線的設定。 如需詳細資訊，請參閱本 [檔](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)。
 
 5. 在此階段，您應該可以在 Azure 入口網站的裝置 blade 下，于「擱置」狀態看到主體裝置。
 
-6. 在下一個使用者登入至 Windows 10 時，註冊將會完成。 
+6. 在下一個使用者登入時 Windows 10，註冊將會完成。 
 
 > [!NOTE]
 > 如果您使用的是 VPN，且登出登入程式會終止網域連線，您可以手動觸發註冊：

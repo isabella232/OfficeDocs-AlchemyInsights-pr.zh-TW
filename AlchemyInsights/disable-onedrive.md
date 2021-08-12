@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 7cfe02546f6bed02282f544037cb5d84a711cd87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff05cbfe55642243cff035c63db1ec7b541324b5f3685cacbf2877e22445e8cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712535"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928612"
 ---
 # <a name="disable-onedrive"></a>停用 OneDrive
 
@@ -34,7 +34,7 @@ ms.locfileid: "47712535"
 
 [停用個人 OneDrive 同步處理](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 
-[管理 Windows 裝置與 OneDrive 及其他服務之間的連線](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[管理從 Windows 裝置到 OneDrive 和其他服務的連線](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

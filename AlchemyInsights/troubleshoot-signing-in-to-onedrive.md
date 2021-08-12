@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: 2c9a390f38ecbba94698a352348e2e533a50ee17
-ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.openlocfilehash: fb944ae8dac7a8a222d2946025d8009216d6ca02efa750977bc9037bf578c8a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52626104"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972599"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>疑難排解登入 OneDrive
 
