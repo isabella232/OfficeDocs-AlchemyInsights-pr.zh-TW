@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3166"
-ms.openlocfilehash: 6baa38c0aab87bdfdd2643aa4871d0e8fdba0eeb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 429a0a32819ac320bf1e1b76041dfb666109adbb5818836956663ca98797a462
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815714"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914678"
 ---
 # <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a>如何自訂 SharePoint 清單或文件庫的許可權
 

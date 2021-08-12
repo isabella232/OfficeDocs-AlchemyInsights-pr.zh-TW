@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755826"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963778"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>如何新增及管理系統管理員-建議的步驟
 
@@ -55,11 +55,11 @@ ms.locfileid: "49755826"
 
 **使用 Azure Active Directory (AD) 新增/刪除使用者**
 
-您可以從 Azure Active Directory (Azure AD) 組織中新增或刪除現有的使用者：
+您可以從 Azure Active Directory (Azure AD) 組織中，新增或刪除現有的使用者：
 
 1. 若要新增使用者，請以組織的使用者管理員身分登入 [Azure 入口網站](https://ms.portal.azure.com/#home) 。
-2. 選取 [ **Azure Active Directory**]，選取 [ **使用者** ]，然後按一下 [ **新增使用者**]。
-3. 在 [ **使用者** ] 頁面上，填寫必要的資訊。 按一下 [建立 **]**。 使用者建立並新增至您的 Azure AD 租使用者。
+2. 選取 [ **Azure Active Directory**]，選取 [**使用者**]，然後按一下 [**新增使用者**]。
+3. 在 [ **使用者** ] 頁面上，填寫必要的資訊。 按一下 ****[建立]。 使用者建立並新增至您的 Azure AD 租使用者。
 
 **深入瞭解**：
 
@@ -67,7 +67,7 @@ ms.locfileid: "49755826"
 - [刪除使用者](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 - [使用 Azure Active Directory 新增或更新使用者的設定檔資訊](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
-**建議的檔**
+**建議的文件**
 
 - [什麼是以角色為基礎的存取控制 (RBAC) ？](https://docs.microsoft.com/azure/role-based-access-control/overview)
 - [瞭解 Azure 中的不同角色](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)

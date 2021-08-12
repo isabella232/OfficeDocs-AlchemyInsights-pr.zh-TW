@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 67c33e90b1f7ca9f68af1ef01ce158075a0dc54d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3ef93e2f94ffe0768c9da3a740a865dfd36952e6d908a36670275297aed39913
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963274"
 ---
 # <a name="how-to-formally-end-a-meeting"></a>如何正式結束會議
 
-會議召集人可以在會議中，按一下會議控制項中的 [ **結束會議** ]，結束小組中所有會議參與者的會議。  
+會議召集人可以在會議中，按一下會議控制項中的 [**結束會議**]，以在 Teams 中的所有會議參與者結束會議。  
 
 若要結束所有參與者的進行中會議，請選取 [會議控制項]，然後選取 [3-點] 圖示，然後按一下 [結束會議]。 系統會要求您確認您的選取範圍。 確認您的選擇會結束所有人的會議。
 

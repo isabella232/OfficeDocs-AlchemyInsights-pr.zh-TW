@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1862"
 - "9000263"
-ms.openlocfilehash: 1870f46d80f6cb7fa54f8a3ed4ceb942d74723ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 22ae3b33610ef0338a246e3c70aab0fd7de2664d5b0cc93ad80abb329430c14a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914534"
 ---
 # <a name="data-streamer-add-in-for-excel"></a>Excel 的資料流程增益集
 
 Excel 的資料流程增益集免費適用于所有的 Microsoft 365 訂閱者。 如需有關啟用資料程式流的詳細資訊，請參閱 [開啟資料處理程式增益集](https://support.office.com/article/enable-the-data-streamer-add-in-70052b28-3b00-41e7-8ab6-8a9f142dffeb)。
 
-**注意**如果您是 Microsoft 365 訂閱者，請確定您有 [最新版 Office](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)。
+**注意** 如果您是 Microsoft 365 訂閱者，請確定您有 [最新版 Office](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)。
 
 [資料流程處理可以執行什麼動作？](https://support.microsoft.com/office/what-is-data-streamer-1d52ffce-261c-4d7b-8017-89e8ee2b806f)  
 [Excel 資料流程處理器增益集的進階設定](https://support.office.com/article/advanced-settings-for-excel-s-data-streamer-add-in-94cda451-880c-43c7-903c-0212ee188460)  
