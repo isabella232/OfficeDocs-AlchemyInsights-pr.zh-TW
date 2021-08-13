@@ -14,12 +14,12 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 89bce2aa5931c0c20706efabd42d2351be43938b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f868ce25d68f61da30d2db4de88aa83675c97857b3c1371cf2039e0b03895a64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827500"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007673"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>更新 DNS 記錄以便向目前的主機服務提供者保留網站
 
@@ -35,7 +35,7 @@ ms.locfileid: "51827500"
 
     This must be a  *static*  IP address for the website, not a  *dynamic*  IP address. Check with site where your website is hosted to make sure you can get a static IP address for your public website.
 
-3. 選取 [儲存]。
+3. 選取 **[儲存]**。
 
 此外，您還可以建立 CNAME 記錄，協助客戶找到您的網站。
   

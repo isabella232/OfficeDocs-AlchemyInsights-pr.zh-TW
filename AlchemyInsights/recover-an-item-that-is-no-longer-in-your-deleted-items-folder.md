@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: b6ac084ead88b090d6caab1405d5d96f24890ea7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 81a7a2e9623c788743fad99e15c4d771bb12a6c1c81f35a9d2a6a0729ecf8db7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560633"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062328"
 ---
 # <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>復原不再位於 [刪除的郵件] 資料夾中的專案
 
@@ -38,7 +38,7 @@ ms.locfileid: "49560633"
     - 連絡人會移至 [連絡人] 資料夾。
     - 任務移至 [任務] 資料夾。
 
-**在 [可復原的專案] 資料夾中復原專案的秘訣**
+**在 [可復原的專案] 資料夾中復原專案的提示**
 
 - 當專案移至 [刪除的郵件] 資料夾時，[可復原的專案] 資料夾中的專案刪除的日期就是。 這不是專案移至 [可復原的專案] 資料夾的日期。
 - [可復原的專案] 資料夾中的專案沒有圖示，所以它們的外觀非常類似。

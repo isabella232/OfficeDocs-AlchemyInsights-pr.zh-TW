@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jamitche
+ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,18 +15,18 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: 185de725abca43ca5ff378adb5bae95c1b6030c8
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685293"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54500007"
 ---
 # <a name="change-payment-method"></a>變更付款方式
 
 您可以從 **Microsoft 365 系統管理中心** 變更支付方式。
   
-1. 在系統管理中心中，移至 [帳單] > [帳單與付款] > [付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)頁面。
+1. 在系統管理中心中，移至 **[帳單]** > **[帳單與付款]** > [付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)頁面。
 2. 選取付款方式資料列以進行取代。 右側窗格會列出所有帳單設定檔，以及使用所選付款方式的個別訂閱。
 3. 在右側窗格中，選取 [取代所有項目的付款方式]。
 4. 若要使用現有的付款方式，請從下拉式清單中選擇一個付款方式，然後選取 [取代]。

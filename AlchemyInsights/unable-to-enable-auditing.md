@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 81fd8e33feb2f2b10b04cc7cdc746a8603aa366b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0566a8d002b1bd9e38f3184824193394e49d56494d347338f96cfcdfdb758f4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007781"
 ---
 # <a name="unable-to-enable-unified-auditing"></a>無法啟用整合的審計
 
@@ -29,7 +29,7 @@ Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 50
 
 若要解決此問題，請遵循下列步驟：
 
-1. [連接至 Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)。
+1. [連線 Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)。
 
 2. 執行下列 Cmdlet：
 
