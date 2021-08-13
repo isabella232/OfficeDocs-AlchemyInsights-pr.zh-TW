@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 39ec9b746c47414f1cfaad1342491b8f33a47d6f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08bdc2527147279063e3f66a1767203e5ccdc1dd4fd8b871f2800d3f71b9a233
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093679"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>多個使用者的 SharePoint 或 OneDrive 變慢、無法存取或無法使用
 
@@ -22,7 +22,7 @@ ms.locfileid: "47771235"
 
 **新增及授權使用者**
 
-確定您 [將授權指派給 Microsoft 365 for business 中的使用者](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。
+確定您[在商務用 Microsoft 365 中指派授權給使用者](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。
 
 
 **指派許可權**

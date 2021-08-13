@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004348"
 - "8428"
-ms.openlocfilehash: bd415b2d44bccf0c2b3eccb4e38452498b748b3a
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: 12490df735ca8c524058404df92db79c6c5682fe2ecafe2b42baed70fa3ab142
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430723"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971330"
 ---
 # <a name="user-provisioning"></a>使用者佈建
 
@@ -26,7 +26,7 @@ ms.locfileid: "50430723"
 - 如果您發現未佈建使用者，請參閱在 Azure Active Directory (AD) 中[佈建記錄 (預覽)](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-provisioning-logs)。 搜尋屬於特定使用者的記錄項目。
 - 定期重新開機布建，以捕捉先前布建週期中錯過的任何使用者。
 - 使用者/群組可能尚未布建，因為我們的服務尚未有機會評估使用者。 在 [布建設定] 頁面上，回顧布建所需的時間和進度列的指導方針。 如果 [其他詳細資料] 區段中所指定的穩定狀態是使用者建立/更新/刪除的日期，則表示尚未評估使用者。 在此案例中，最好的做法是等待布建服務完成。 如果已達到穩定狀態，我們建議您從 Azure 入口網站的 UI 執行重新開機。
-  - 請注意，我們的服務只會注意到來源系統 (Azure Active Directory) 中的使用者/群組的變更。 如果使用者/群組是直接在應用程式中移除 (例如，ServiceNow) ，我們就不會注意到這些變更，而且不會根據來源系統中使用者的狀態將其退回。 在此案例中，最好直接復原目標應用程式中的變更。
+  - 請注意，我們的服務只會注意到來源系統 (Azure Active Directory) 中的使用者/群組變更。 如果使用者/群組是直接在應用程式中移除 (例如，ServiceNow) ，我們就不會注意到這些變更，而且不會根據來源系統中使用者的狀態將其退回。 在此案例中，最好直接復原目標應用程式中的變更。
 - 我們的服務評估使用者/群組，並決定不應該布建：
   - 如果您已將範圍設定為 [指派的使用者和群組]，請檢查是否已將使用者/群組指派給應用程式。
   - 若使用者/群組已指派給應用程式，請確定其未指派給預設存取角色。 此角色不能用來進行布建。

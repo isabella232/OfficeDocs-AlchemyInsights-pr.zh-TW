@@ -13,12 +13,12 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 6ae608b776332402fe333315f5e4ff6072b0a651
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c8d53ceabf2428f3d6d765040f1b789b6bbeda04a22dd7fde0d2d728fd17d93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061747"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>[可復原的專案] 資料夾已滿
 
@@ -34,7 +34,7 @@ ms.locfileid: "47741258"
 
 - 針對已啟用信箱審核記錄的信箱，[可復原的專案] 資料夾中的「審核」子資料夾中不能儲存任何信箱審核記錄專案。
 
-對於未保留的信箱，系統管理員可以使用 `Search-Mailbox -SearchDumpsterOnly -DeleteContent` Exchange Online PowerShell 中的命令刪除 [可復原的專案] 資料夾中的專案。 如需詳細資訊，請參閱下列主題：
+對於未保留的信箱，系統管理員可以使用 `Search-Mailbox -SearchDumpsterOnly -DeleteContent` Exchange Online PowerShell 中的命令來刪除 [可復原的專案] 資料夾中的專案。 如需詳細資訊，請參閱下列主題：
 
 - [搜尋並刪除郵件](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 

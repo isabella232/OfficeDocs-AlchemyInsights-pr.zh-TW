@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3407"
 - "9001422"
-ms.openlocfilehash: 76eef6f89cc1cb4c26e9022c7048d23937e5af59
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 72af15ab8481a5661a0ec201c64d5ad21687744f949d0e555da21baf269a780f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937200"
 ---
 # <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>修正 Microsoft 365 應用程式 "對不起，您組織中的另一個帳戶已經登入" 郵件
 
@@ -30,6 +30,6 @@ ms.locfileid: "51822914"
 ).
 5. 使用受影響的使用者帳戶登[入](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9)。 
 
-如需詳細資訊，請參閱 [Office 2013 中的 "對不起，您的組織中的另一個帳戶已登入這部電腦](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)」。
+如需詳細資訊，請參閱[Office 2013 中的「很抱歉，您組織中的其他帳戶已登入此電腦](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)」。
 
 若是 Mac，請參閱[無法登入 Mac 版 Office 2016 應用程式](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)。
