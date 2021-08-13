@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: 2797c6d0f9de274e016523ae0e71f59eb1cfc742
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38a55a38e0a69334a60e8f1c84402e75eb5796035501d39c1f217fe194dae432
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711923"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965272"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>將檔案上傳至 OneDrive 或 SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Upload 檔案 OneDrive 或 SharePoint
 
 1. 在您的網頁瀏覽器中，移至您要上傳檔案的位置。
     
@@ -30,6 +30,6 @@ ms.locfileid: "47711923"
 
 - 您最多可上傳大小為 15 GB 的檔案。 
 - 檔案 (包含檔案名) 的完整路徑長度不能超過400個字元。 
-- 如果您需要上傳超過100個檔案，請 [使用 OneDrive 同步處理用戶端](https://go.microsoft.com/fwlink/?linkid=866427)。 
+- 如果您需要上傳超過100個檔案，請[使用 OneDrive 同步處理用戶端](https://go.microsoft.com/fwlink/?linkid=866427)。 
   
 

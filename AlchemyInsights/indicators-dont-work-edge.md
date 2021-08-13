@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: df62d965e0dc2ddb656571af99b1e4c3cb52ea35
-ms.sourcegitcommit: 4b504650e11adb9894c37b6d8608b53f9d5fc13d
+ms.openlocfilehash: 4094371ee0a3b3ec8d29454fd66f3e9e7c3f35a91b9ea05f308325bc447ce11c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52651490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926308"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>使用 Edge 瀏覽器時，指示器無法運作
 
