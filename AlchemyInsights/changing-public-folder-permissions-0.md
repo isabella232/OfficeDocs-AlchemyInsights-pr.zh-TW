@@ -12,18 +12,18 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: a2a902e8fdfd8628772364c173979c633d25a169
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c2fb89f8dd256afb7e922ca74976097501173bf605e6c5fccc73019a71edcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950179"
 ---
 # <a name="changing-public-folder-permissions"></a>變更公用資料夾許可權
 
-使用者和 Outlook 中的系統管理員可以變更公用資料夾許可權。 管理員也可以執行下列動作，以控制從 Exchange 系統管理中心 (EAC) 的許可權：
+Outlook 中的使用者和系統管理員可以變更公用資料夾許可權。 管理員也可以透過執行下列動作，控制 Exchange 系統管理中心 (EAC) 的許可權：
   
-1. 在 Microsoft 365 系統管理中心中，移至 [系統 **管理中心**] [ \> **Exchange**]。
+1. 在 Microsoft 365 系統管理中心中，移至 [系統 **管理中心**] \> **Exchange**。
 
 2. 選取 [ **公用資料夾**]。
 

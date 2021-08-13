@@ -14,12 +14,12 @@ ms.assetid: ''
 ms.custom:
 - "3000003"
 - "12465"
-ms.openlocfilehash: 16e16f087c2b13a9ad5fec7223b4f3395e42646e
-ms.sourcegitcommit: 380ee556007d2be389b1a99795bca04bc1f9f60f
+ms.openlocfilehash: ce898981d053c8b5dc080ee83434bdacd7f02a636f0183293915bacdb48ba4ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53604916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918962"
 ---
 # <a name="451-470-temporary-server-error-please-try-again-later-prx4"></a>451 4.7.0 暫時性伺服器錯誤。 請稍後再試。 PRX4
 

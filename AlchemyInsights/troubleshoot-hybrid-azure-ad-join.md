@@ -15,12 +15,12 @@ ms.custom:
 - "6158"
 - "9003244"
 - "9003246"
-ms.openlocfilehash: 18d0ce6bdf3df96e07cc6607b9ae6142d548dabe
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 23da360965a5972e328844d505698c91ece61788240d8fdb8909fff3a7ef0d7f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939262"
 ---
 # <a name="troubleshoot-hybrid-azure-ad-join"></a>疑難排解混合式 Azure AD Join
 

@@ -1,5 +1,5 @@
 ---
-title: 在 Microsoft Intune 中登記 macOS 裝置的問題疑難排解
+title: 在 Microsoft Intune 中 macOS 裝置的登記問題疑難排解
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 72aa0e84bc50f91281d59f0eb405bf2970cad2f0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f89ecc2cffde920feda46090658b938101e0d6027492949dd03612c2b0811555
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823418"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939164"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>在 Microsoft Intune 中登記 macOS 裝置的問題疑難排解
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>在 Microsoft Intune 中 macOS 裝置的登記問題疑難排解
 
 立即查看下列資源，以解決您的問題。
   
@@ -28,7 +28,7 @@ ms.locfileid: "51823418"
 
 2. 請參閱 [本檔](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) ，以取得避免每個專案的註冊和解析度的常見錯誤清單。
 
-3. [瞭解如何在 Microsoft Intune 中註冊 macOS 裝置](https://docs.microsoft.com/intune/macos-enroll)。
+3. [瞭解如何在 Microsoft Intune 中登記 macOS 裝置](https://docs.microsoft.com/intune/macos-enroll)。
 
-[查看使用者指南以在 Microsoft Intune 中登記 macOS 裝置](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[取出使用者指南以在 Microsoft Intune 中登記 macOS 裝置](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   

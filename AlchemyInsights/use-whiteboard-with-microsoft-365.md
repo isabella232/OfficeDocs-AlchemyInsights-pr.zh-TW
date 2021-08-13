@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002354"
 - "4581"
-ms.openlocfilehash: faf454882ecc0ddff7832c10525f0c324e7c003f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9d14c7fa063efed6ed65061a76f3e818b675fc3d470fce0e4ecc9fb5aa247a30
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808269"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980240"
 ---
 # <a name="use-whiteboard-with-microsoft-365"></a>在 Microsoft 365 中使用 Whiteboard
 
