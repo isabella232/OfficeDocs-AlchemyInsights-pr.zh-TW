@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: 643c58003e62c88cb6ac6cf420f746dd8f03ed82
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: d90c9573cea9823310399bce452cb010343cdca1bfeefef7733550125b20fffc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560634"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062395"
 ---
 # <a name="recover-an-item-from-your-deleted-items-folder"></a>從 [刪除的郵件] 資料夾復原專案
 
@@ -33,7 +33,7 @@ ms.locfileid: "49560634"
     - 若要還原行事曆專案，請以滑鼠右鍵按一下它，然後選取 [ **移至行事曆**]。
     - 若要還原任務，請以滑鼠右鍵按一下它，然後選取 [ **移至** 工作]。
 
-**在 [刪除的郵件] 資料夾中復原專案的秘訣**
+**在 [刪除的郵件] 資料夾中復原專案的提示**
 
 - 如果您刪除資料夾，它會移至 [刪除的郵件] 資料夾，並顯示成子資料夾。 若要復原它 (及包含) 的所有專案，請以滑鼠右鍵按一下 [已刪除的資料夾]，然後選取 [ **移動**]，然後選取要移至的資料夾。
 - 您的系統管理員可能已設定在特定天數後，從 [刪除的郵件] 資料夾刪除專案的原則。 就像當您刪除專案時，由原則刪除的專案會移至 [可復原的專案] 資料夾。 因此，如果您無法在 [刪除的郵件] 資料夾中找到任何內容，請在 [可復原的專案] 資料夾中尋找。

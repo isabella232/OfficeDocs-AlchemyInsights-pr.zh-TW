@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003958"
 - "7014"
-ms.openlocfilehash: 8711b33851e2dac4499f39e3bfbff955d3cb91e3
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b38e953c69c3fbc0e1ac4771953b1777e7033286ea56554d42952c2df696bd70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007970"
 ---
 # <a name="troubleshoot-problems-with-accessing-webmail"></a>疑難排解存取 web 郵件的問題
 
