@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: f49cfc50142b3d98a5f431a38e9a943eb5624523
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af0bc0215f8feacc28a0b9bdf6b2659778736d669f7a3ff17628401e23d5fb6f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957964"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>存取拒絕郵件的疑難排解
 
@@ -22,7 +22,7 @@ ms.locfileid: "47691674"
 
 **新增及授權使用者**
 
-確定您 [將授權指派給 Microsoft 365 for business 中的使用者](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。
+確定您[在商務用 Microsoft 365 中指派授權給使用者](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。
 
 **指派許可權**
 
