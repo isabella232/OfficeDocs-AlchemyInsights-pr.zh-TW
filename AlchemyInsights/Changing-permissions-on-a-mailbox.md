@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 0c15f7f3771c6abd69f3489d46910f43f6afb904
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cb645d58f41e095def09dbbe61bd6264f621b82c0f42c428a5a88e702c0c950b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918566"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>變更信箱的許可權
 
@@ -26,5 +26,5 @@ ms.locfileid: "51804948"
     
 - 共用信箱-請參閱 [設定共用信箱設定](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members)。
     
-當您執行上述步驟之後，如果許可權無法正常運作，請移至 Exchange 系統管理中心，並嘗試將許可權設定 (請參閱管理收件者 [的許可權](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)) 。
+當您執行上述步驟之後，如果許可權無法正常運作，請移至 Exchange 系統管理中心，並嘗試將許可權設定 (請參閱管理收件者[的](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)許可權) 。
   

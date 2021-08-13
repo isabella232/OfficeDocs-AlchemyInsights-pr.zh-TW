@@ -13,12 +13,12 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 1887bf64df98bf90a1902250633d5774178dfa2f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6315a83ac825f96ceea60798d441de8e8e53336fe29eda4d0491dd8a6a43b352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751413"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958792"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>將 SharePoint 線上限制為傳統模式
 

@@ -13,20 +13,20 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6fd683253dbf6c34a3cea61df2dd3387d8642a409682019aa62ef3b619e84aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830204"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913129"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>切換可增加信箱大小的訂閱
 
 如果您的信箱大小已經是 100 GB，便無法增加。
   
-如果信箱大小是 50 GB，您可以切換到 [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) 或 [Office 365 企業版 E5](https://products.office.com/business/office-365-enterprise-e5-business-software)，將其增加至 100 GB。 以下是切換至不同訂閱的步驟：
+如果信箱大小是 50 GB，您可以切換到[Office 365 企業版 E3](https://products.office.com/business/office-365-enterprise-e3-business-software)或[Office 365 企業版 E5](https://products.office.com/business/office-365-enterprise-e5-business-software)，將其增加至 100 GB。 以下是切換至不同訂閱的步驟：
   
-1. 在 Microsoft 365 系統管理中心中，移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。
+1. 在 Microsoft 365 系統管理中心中，移至 [**帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)**] 頁面。
 
 2. 選取您要升級的訂閱。
 

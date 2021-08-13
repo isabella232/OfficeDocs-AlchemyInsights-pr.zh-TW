@@ -14,13 +14,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: f2342e99544f475b24181e0571ccd0a7c6fdc8b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dde5238e6185fe991a16bdbf16f5ca8ee25e813f7159103f4efbba2d2cd9d7c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825002"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940954"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>使用 SaRA 修正已滯留于寄件匣中的郵件
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>修正使用 SaRA 在 [寄件匣] 中停滯的郵件
 
-我們建議您在受影響的機器上，從[Microsoft 支援和修復小幫手 (SaRa) ](https://diagnostics.office.com/#/)工具中執行「[我遇到問題時，無法傳送、接收或尋找電子郵件訊息](https://aka.ms/SaRA-OutlookSendReceive)」案例。
+我們建議您從[Microsoft 支援及修復小幫手 (SaRa) ](https://diagnostics.office.com/#/)工具，在受到影響的機器上，執行「[我已有問題傳送、接收或尋找電子郵件訊息](https://aka.ms/SaRA-OutlookSendReceive)」案例。

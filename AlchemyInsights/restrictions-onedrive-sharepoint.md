@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11470"
 - "9000292"
-ms.openlocfilehash: bc8ae9d9a0768770c14f2d70751c8b06b39b897d
-ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
+ms.openlocfilehash: a4121216c36e6ae8714a62d1b5e4589ca4d6423fac947ec74257cfcad9b9e65d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "52689939"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958612"
 ---
 # <a name="restrictions-and-limitations-in-onedrive-and-sharepoint"></a>OneDrive 和 SharePoint 中的限制
 
