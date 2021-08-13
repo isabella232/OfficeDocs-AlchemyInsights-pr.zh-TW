@@ -15,14 +15,14 @@ ms.custom:
 - "6830"
 - "9000150"
 - "7303"
-ms.openlocfilehash: 4447bacc7784496f449f6f7577a13b562e51349d
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: fb316fad5d7550f4449312e2ed3bc418d504b405bf01cd8bf0a180bac10379d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477656"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955372"
 ---
 # <a name="access-denied-due-to-ip-restriction"></a>由於 IP 限制，存取遭到拒絕
 
-以 IT 管理員的身分，您可以根據您信任的定義網路位置，控制對 SharePoint 和 OneDrive 資源365的存取。 這也稱為位置型原則。 如需詳細資訊，請參閱 [根據網路位置控制存取](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)。
+以 IT 管理員的身分，您可以根據您信任的定義網路位置，控制 Microsoft 365 中 SharePoint 和 OneDrive 資源的存取權。 這也稱為位置型原則。 如需詳細資訊，請參閱 [根據網路位置控制存取](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)。
 

@@ -1,5 +1,5 @@
 ---
-title: 疑難排解註冊選項 Microsoft Intune 的問題
+title: 使用註冊選項的問題疑難排解 Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 84159de0f29782d3c2a6a92ac77322e4bec525dd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2328e04497102fbc471b8138bcb734f4f3e07131621ea57599330ffdf545ab1d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980996"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>疑難排解註冊選項 Microsoft Intune 的問題
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>使用註冊選項的問題疑難排解 Microsoft Intune
 
 立即查看下列資源，以解決您的問題。
   

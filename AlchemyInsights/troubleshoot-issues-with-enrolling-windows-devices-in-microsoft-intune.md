@@ -1,5 +1,5 @@
 ---
-title: 在 Microsoft Intune 中註冊 Windows 裝置的問題疑難排解
+title: 在 Microsoft Intune 中 Windows 裝置的登記問題疑難排解
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a2abb4d0ef5504c496afefe62a80f3fa21c7ec85536e822e402be33b3617b59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808962"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981032"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>在 Microsoft Intune 中註冊 Windows 裝置的問題疑難排解
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>在 Microsoft Intune 中 Windows 裝置的登記問題疑難排解
 
 立即查看下列資源，以解決您的問題。
   
@@ -35,7 +35,7 @@ ms.locfileid: "51808962"
 
 -  其他使用者已註冊此裝置。 如果是這種情況，請從 Azure Intune 主控台移除裝置，或手動取消註冊裝置，再重試。
 
--  裝置為 Windows 10 家用版。 只有 Windows 10 專業版、教育版和 Enterprise SKUs 可以加入 Azure Active Directory。
+-  裝置已 Windows 10 家用版。 只有 Windows 10 專業版、教育和 Enterprise SKUs 可以加入 Azure Active Directory。
 
 其他可協助您解決問題的資源：
   
@@ -43,4 +43,4 @@ ms.locfileid: "51808962"
 
 -  檢閱這些文件，以取得會防止註冊的常見錯誤清單與各項的解決方式：[疑難排解指南](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)和[疑難排解文件](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)。
 
-[瞭解如何在 Microsoft Intune 中註冊 Windows 裝置](https://docs.microsoft.com/intune/windows-enroll)。
+[瞭解如何在 Microsoft Intune 中登記 Windows 裝置](https://docs.microsoft.com/intune/windows-enroll)。

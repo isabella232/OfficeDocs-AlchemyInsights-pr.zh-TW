@@ -1,5 +1,5 @@
 ---
-title: 疑難排解註冊選項 Microsoft Intune 的問題
+title: 使用註冊選項的問題疑難排解 Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,14 +10,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: 544308c909490fb8398e43cbc25fc8e41af79c84
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5821982252d3e4b8d8b09a144cbcd3297d969ab7541c262cc2ef7d85a2f4eaae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826226"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980924"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>疑難排解註冊選項 Microsoft Intune 的問題
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>使用註冊選項的問題疑難排解 Microsoft Intune
 
 立即查看下列資源，以解決您的問題。 如果這些資源沒有説明，請按一下 [這裡](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) 並選擇 [建立支援要求]，以聯繫支援人員。 
   
