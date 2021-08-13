@@ -1,5 +1,5 @@
 ---
-title: 使用 Configuration Manager 在 Windows 上部署、更新及管理 Microsoft Edge
+title: 使用組態管理員來部署、更新和管理 Microsoft Edge 和 Windows。
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004030"
 - "7100"
-ms.openlocfilehash: ee978146ff0964e9ebd9f476f9c92d1f97aa042c
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: 226878c7ce12a9cdc9c6b24a1b05cdbf39ed67ad631b3a7dc02bbe0d7d6b91a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49600090"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919522"
 ---
-# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>使用 Configuration Manager 在 Windows 上部署、更新及管理 Microsoft Edge
+# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>使用組態管理員來部署、更新和管理 Microsoft Edge 和 Windows。
 
-從 Configuration Manager 版本1910，您可以透過 PowerShell 腳本，部署 Microsoft Edge (版本77和更新版本) 。 腳本會關閉自動更新，這可讓您透過 Configuration Manager 管理更新。 若要深入瞭解使用 Configuration Manager 的更多優點及其他好處，請參閱 [Microsoft Edge Management](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?)。
+從組態管理員 1910 版本開始，您可以通過 PowerShell 指令碼部署 Microsoft Edge（77 版本或更新）。 指令碼會關閉自動更新，進而讓您透過組態管理員來管理和更新。 要了解更多和使用組態管理員的其他好處，請參閲 [Microsoft Edge 管理儀表板](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?)。

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 426a54ea22490dcc47f40fd990654b2cf051a058
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1263662184948ed1e77e3abacd17babf4aa033ed1ecec29b4c4afc26d6da56f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954653"
 ---
 # <a name="why-is-the-add-budget-button-disabled-for-me"></a>為什麼會停用 [新增預算] 按鈕？
 
@@ -27,7 +27,7 @@ ms.locfileid: "51822626"
 - 成本管理參與者
 - 擁有者
 - 投稿者
-- 僅限企業客戶：登記、部門、帳戶範圍
+- Enterprise僅限客戶：登記、部門、帳戶範圍
 - 註冊管理員 (在登記範圍設定預算) 
 - 部門管理員 (在部門範圍內設定預算) 
 - 帳戶擁有人 (設定預算 at 帳戶範圍) 
@@ -75,7 +75,7 @@ ms.locfileid: "51822626"
 **我想要查看單一維度的預測 (例如。儀錶)**  
 預測目前支援總成本預測，而不是個別計量。 因此，當「分組依據」維度時，預測將會成為維度中所有專案的總計
 
-**建議的文件**
+**建譯的文件**
 
 - [何謂 Azure 成本管理？](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Azure 成本管理的最佳作法](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)

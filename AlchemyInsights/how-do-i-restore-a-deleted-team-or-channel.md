@@ -13,12 +13,12 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: e1f858cc6d42db4c165bd406ca71fdfa6ad77199
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d82a1f0ac2007e2c7472fc486754a7b144a8927d17ab0e6ffe0fed6fd2ddf4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811159"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927244"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>如何還原已刪除的小組或通道
 
@@ -29,4 +29,4 @@ ms.locfileid: "51811159"
 1. 選取小組名稱右側的3點，以開啟團隊設定。
 2. 選取 [**管理小組**  >  **頻道**  >  **已刪除**]，然後在右側選取 [**還原**]。
 
-如需還原小組的詳細資訊，請參閱封存 [或刪除 Microsoft 團隊中的團隊-Microsoft 小組 |Microsoft](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)檔。
+如需還原小組的詳細資訊，請參閱封存[或刪除 Microsoft Teams-Microsoft Teams 中的小組 |Microsoft](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)檔。

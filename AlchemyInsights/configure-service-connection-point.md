@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9732"
 - "9003244"
-ms.openlocfilehash: 9d733a1a0a3b8d92bdd5477a8978b6fbeede9653
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 5ccb55996ccef4b55c8d80de6e35f4ba27e3dfa18dfcaeaf6f6ad1c54b6bb376
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965956"
 ---
 # <a name="configure-service-connection-point-scp"></a>設定服務連線點 (SCP)
 
 **DSREG_AUTOJOIN_ADCONFIG_READ_FAILED (0x801c001d/-2145648611)**
 
 - **原因**：無法讀取 SCP 物件並取得 Azure AD 租用戶資訊
-- **解決方案**：請參閱[設定服務連線點](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-federated-domains#configure-hybrid-azure-ad-join) (部分機器翻譯) 章節
+- **解決方案**：請參閱 [設定服務連線點](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-federated-domains#configure-hybrid-azure-ad-join) (部分機器翻譯) 章節
 
 
 **行動計劃**

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: d5811b18e16a4b98cf507a79f212768c009b96b2
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 820bdb44e8efa6d14c6b5646cde432865a43e456a07219527218eecd1beb0819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954661"
 ---
 # <a name="add-another-enterprise-administrator---recommended-steps"></a>新增另一個企業系統管理員-建議步驟
 
@@ -28,7 +28,7 @@ ms.locfileid: "49755449"
 
 **若要新增另一個企業系統管理員：**
 
-1. 登入 [Azure 企業入口網站](https://ea.azure.com/)。
+1. 登入[Azure Enterprise 入口網站](https://ea.azure.com/)。
 1. 流覽至 [**管理**  >  **註冊詳細資料**]。
 1. 按一下右上方的 [ **新增管理員** ]。
 1. 若為唯讀存取，請將 Read-Only 選項設定為 **[是]** ，然後選取 [ **新增**]。
@@ -37,9 +37,9 @@ ms.locfileid: "49755449"
 
 **若要新增部門管理員：**
 
-Azure EA admin 建立部門後，Azure Enterprise 管理員可以新增部門管理員，並建立每個部門的關聯。 您可以讓多個部門管理員為每個企業註冊。
+azure EA admin 建立部門後，azure Enterprise 管理員可以新增部門管理員，並將每個部門管理員關聯至部門。 您可以讓多個部門管理員為每個企業註冊。
 
-1. 登入 [Azure 企業入口網站](https://ea.azure.com/)。
+1. 登入[Azure Enterprise 入口網站](https://ea.azure.com/)。
 1. 流覽至 [**管理**  >  **部門**] 索引標籤，然後選取部門。
 1. 選取 [ **+ 新增系統管理員** ]，然後新增必要的資訊。
 1. 若為唯讀存取，請將 Read-Only 選項設定為 **[是]** ，然後選取 [ **新增**]。
@@ -49,7 +49,7 @@ Azure EA admin 建立部門後，Azure Enterprise 管理員可以新增部門管
 1. 將滑鼠指標移至 [EA 管理員]，然後按一下藍色的 **X** 圖示。
 1. 確認已選取所需的系統管理員，然後按一下 **[是]**。
 
-**建議的檔**
+**建議的文件**
 
-- [瞭解 azure Enterprise 協定 Azure 中的管理角色](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
+- [了解 Azure 中的 Azure Enterprise 合約系統管理角色](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
 - [Azure EA 入口網站管理](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)
