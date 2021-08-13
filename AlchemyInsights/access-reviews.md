@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7767"
-ms.openlocfilehash: b2ba50c4f8e667f81b638ba480fa846e149c3d43
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 92d4aa46c8385035275d7ccbb361a9199e7f5924a87998f3beba32a2b02bbcc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938614"
 ---
 # <a name="access-reviews"></a>存取權檢查
 
@@ -28,7 +28,7 @@ ms.locfileid: "50013927"
 
 1. **查看您自己的 access**： [在 Azure AD 權利管理中，您可自行複查 access 套件](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) ，說明使用者如何對其所指派的 Access 套件進行自我審閱 (s) 。
 
-1. 在大多數情況下，使用者會在 [ **存取面板**] 中找到等候其回應的複查。 這只適用于群組和應用程式的評論，不適用於角色。 針對角色的所有訪問檢查，使用者必須流覽至 Azure AD 特權身分識別管理 (PIM) 以完成其複查。
+1. 在大多數情況下，使用者會在 [ **存取面板**] 中找到等候其回應的複查。 這只適用于群組和應用程式的評論，不適用於角色。 針對角色的所有訪問檢查，使用者必須流覽至 Azure AD Privileged Identity Management (PIM) ，以完成其複查。
 
     1. 登入 Azure 入口網站。
     2. 流覽至 Azure AD PIM。
