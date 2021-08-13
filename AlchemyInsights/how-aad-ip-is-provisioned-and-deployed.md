@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: d248a57e99177f4a11a5640d90bb15a0a7f5a3ee
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 4d639525fa170ef1a501d4683c49fd50dad0c9b401b3ade1635d11e783524237
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706963"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927850"
 ---
 # <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>如何布建及部署 Azure Active Directory 身分識別保護？
 
 根據預設，會在租使用者中的所有使用者在租使用者層級上啟用 Azure Active Directory 身分識別保護的功能。
 
-若要深入瞭解，請參閱 [什麼是 Azure Active Directory 身分識別保護？](https://go.microsoft.com/fwlink/?linkid=2130395)
+若要深入瞭解，請參閱[何謂 Azure Active Directory 身分識別保護？](https://go.microsoft.com/fwlink/?linkid=2130395)

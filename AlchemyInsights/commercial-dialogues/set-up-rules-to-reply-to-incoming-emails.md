@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 49b8aafe77aa6e31f8d724046c6fc0996294cc5d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 3164959f33a42e518002e4c222a344d4f638d17a32a4959db2f903ce5cb14d81
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915614"
 ---
 # <a name="set-up-rules-to-reply-to-incoming-emails"></a>設定回復傳入電子郵件的規則
 
-使用下列步驟來建立範本以回復郵件，然後設定 Outlook 回復您收到的每封郵件。
+使用下列步驟來建立範本以回復郵件，然後設定 Outlook 回復您接收的每封郵件。
 
-1. 在 Outlook 中，建立新的電子郵件訊息，並輸入您的外出範本的主旨和郵件正文。
+1. 在 Outlook 中，建立新的電子郵件訊息，並輸入您的外出範本的主旨和郵件內文。
 2. 選取 [檔案 **> 另存** 新檔]。
-3. 在 [ **另存** 新檔] 對話方塊中，從 [ **另存新類型** ] 下拉式清單中，選取 [ **Outlook 範本 ( * .oft) ]。** 請提供適當的名稱，然後按一下 [ **儲存**]。
+3. 在 [**另存** 新檔] 對話方塊中，從 [**另存新類型**] 下拉式清單中，選取 [ **Outlook 範本 ( * .oft) ]。** 請提供適當的名稱，然後按一下 [ **儲存**]。
 4. 選取 [**檔**  >  **管理規則] & 警示**。
 5. 在 [ **規則及通知** ] 對話方塊的 [ **電子郵件規則** ] 索引標籤上，按一下 [ **新增規則**]。
 6. 在 [ **規則嚮導** ] 對話方塊的 [ **從空白規則開始**] 底下，選取 [ **在我收到的郵件套用規則**]，然後按 **[下一步]**。

@@ -16,12 +16,12 @@ ms.custom:
 - "5057"
 - "9000701"
 - "5067"
-ms.openlocfilehash: aa290469a2711ae55d9eeec8635f219fd8e96b85
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 48526a0f17a04c60f187fa21f3237741efb83a2aa6881311ae741237bed4d794
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821798"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952384"
 ---
 # <a name="admins-unable-to-perform-certain-functions-in-the-teams-admin-center"></a>系統管理員無法在 Teams 系統管理中心執行特定功能
 
