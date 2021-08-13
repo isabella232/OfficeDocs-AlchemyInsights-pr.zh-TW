@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: 92d91de5d369eb9d0ffde2580b75376035a6945b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: b1653b73e7296e7eed411ae73c19342a1187b2eb7e287cff4339ea0ca32d75c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919414"
 ---
 # <a name="using-email-profiles-with-intune"></a>使用 Intune 電子郵件設定檔
 
@@ -39,5 +39,5 @@ ms.locfileid: "47653279"
 
 Android KNOX 電子郵件設定檔上的 KNOX 提供管理員通過啟要同步的內容類型來決定要將哪些內容類型同步處理到裝置的選項。
 
-如果任何內容類型的被設定為**未設定** (預設)，該內容類型就不會自動同步。 使用者可以直接在裝置上手動啟用所需的內容類型，但該設定會被 Intune 原則設定所覆寫，並且該內容類型的同步將停止。
+如果任何內容類型的被設定為 **未設定** (預設)，該內容類型就不會自動同步。 使用者可以直接在裝置上手動啟用所需的內容類型，但該設定會被 Intune 原則設定所覆寫，並且該內容類型的同步將停止。
 

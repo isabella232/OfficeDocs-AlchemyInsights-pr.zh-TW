@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 827db0139d2793a5e4d850aeb5463dab272e4d64
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 13a75338e3784d3df2ec93e8096380f85494317b7161040c7ad60ad830f9211d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813607"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978080"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>解決開啟或儲存 Word 檔案的錯誤
 
 如果您在開啟或儲存 Word 檔時遇到問題，請嘗試下列步驟：
 
-- [安裝 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。 如需最新 Office 更新的清單，請參閱 [最新的更新](https://docs.microsoft.com/officeupdates/office-updates-msi)。
+- [安裝 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。 如需最新 Office 更新的清單，請參閱[最新的更新](https://docs.microsoft.com/officeupdates/office-updates-msi)。
 - [疑難排解 Word 中損毀的檔](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)。
-- [修復 Office 應用程式](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)。
+- [修復 Office 的應用程式](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)。
 - 如果檔包含追蹤的變更，請使用 Word 中的建議，在 [有過度追蹤的變更或批註](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) 來解決問題時，減慢或停止回應。
 
-如果您收到的錯誤類似下列其中一項， [當登錄原則設定封鎖檔時](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)，請使用 Office 中的錯誤訊息建議：
+如果您收到的錯誤類似下列其中一項，請[在 Office 當登錄原則設定封鎖檔案時](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)，使用中的錯誤訊息建議：
 
 - You are attempting to save a file that is blocked by your registry policy setting. (您嘗試儲存由登錄原則設定封鎖的檔案類型。)
 - 嘗試開啟由信任中心的 [檔案封鎖] 設定所封鎖的檔案類型 **\<File Type\>**。
