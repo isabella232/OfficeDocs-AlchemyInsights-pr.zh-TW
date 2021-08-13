@@ -1,5 +1,5 @@
 ---
-title: 線上使用者設定檔同步處理 SharePoint
+title: SharePoint線上使用者設定檔同步處理
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003095"
 - "5848"
-ms.openlocfilehash: abb4b671091fee60fcf836acb15bc3dbdaac7b54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb2c3a2c43a59882dab3f8035dd20e69579a46a7c8bde7badc80310a1ab57f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665349"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957460"
 ---
-# <a name="sharepoint-online-user-profile-synchronization"></a>線上使用者設定檔同步處理 SharePoint
+# <a name="sharepoint-online-user-profile-synchronization"></a>SharePoint線上使用者設定檔同步處理
 
 Microsoft SharePoint 會使用 Active Directory 同步作業，將使用者和群組屬性資訊匯入使用者設定檔應用程式 (UPA) 。如需詳細資訊，請參閱下列文章。
 
-- [線上使用者設定檔同步處理 SharePoint](https://docs.microsoft.com/sharepoint/user-profile-sync)
+- [SharePoint線上使用者設定檔同步處理](https://docs.microsoft.com/sharepoint/user-profile-sync)

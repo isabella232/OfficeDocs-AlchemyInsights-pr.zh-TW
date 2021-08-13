@@ -1,5 +1,5 @@
 ---
-title: 1385-Office-365-警示-原則
+title: 1385-Office-365-警示原則
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918350"
 ---
 # <a name="alert-policies"></a>警示原則
 
-Microsoft 365 security & 合規性中心提供 [預設的警示原則](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) ，可觸發 Office 365 企業版或 OFFICE 365 US 政府 E1/G1、E3/G3 或 E5/G5 訂閱的組織警示。 因此，系統管理員可能會收到 Office365Alerts@microsoft.com 使用主旨列（如「嚴重性警示： *警示原則的名稱*」）傳送的警示電子郵件通知。 當一般活動（例如使用者）觸發警示時，會傳送警示通知。
+Microsoft 365 security & 規範中心提供[預設的警示原則](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies)，可觸發具有 Office 365 企業版或 Office 365 美國政府 E1/G1、E3/G3 或 E5/G5 訂閱之組織的警示。 因此，系統管理員可能會收到 Office365Alerts@microsoft.com 使用主旨列（如「嚴重性警示： *警示原則的名稱*」）傳送的警示電子郵件通知。 當一般活動（例如使用者）觸發警示時，會傳送警示通知。
 
 - 建立轉寄電子郵件的收件匣規則。
 - 指派許可權給其信箱。

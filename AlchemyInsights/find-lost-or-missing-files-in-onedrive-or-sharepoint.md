@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: aa0cd1e4d5e89b9fb601c37030440bdfd2b66260
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b82e3f14fa61ed9b439aa2991be18cf7a064c4a20a02f914176b1afe6eb0f83b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708413"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977360"
 ---
 # <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>尋找 OneDrive 或 SharePoint 中遺失或遺失的檔案
 
-- 流覽至您的 OneDrive 或網頁上的 SharePoint 網站，然後按一下左窗格中的 [回收站]，以檢查回收站。  (如果在左窗格中看不到 [回收站]，請按一下 [設定] 圖示，然後選取 [ **網站內容**]。 **回收站** 位於命令列上方的最右邊。 )  
+- 流覽至您的 OneDrive 或網頁上的 SharePoint 網站，然後按一下左窗格中的 [回收站]，以檢查回收站。  (如果在左窗格中看不到 [回收站]，請按一下設定圖示，然後選取 [**網站內容**]。 **回收站** 位於命令列上方的最右邊。 )  
     
 - 如果您正在同步處理電腦上的檔案，請檢查電腦上的 [回收站]。 
     

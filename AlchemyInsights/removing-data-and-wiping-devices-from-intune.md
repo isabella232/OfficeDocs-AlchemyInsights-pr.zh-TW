@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
-ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416304"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922196"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>從 Intune 中移除數據和抹除裝置
 
