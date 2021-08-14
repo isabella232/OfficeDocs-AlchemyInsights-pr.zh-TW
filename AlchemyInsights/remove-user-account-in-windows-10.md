@@ -1,5 +1,5 @@
 ---
-title: 在 Windows 10 中移除使用者帳戶
+title: 移除 Windows 10 中的使用者帳戶
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e994388f685f1f9980c10daac48ca4facb0ca542ea352e8fbd31bf451cff305
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094597"
 ---
 # <a name="remove-an-account-in-windows-10"></a>在 Windows 10 中移除帳戶
 
-以下說明如何從 Windows 10 移除帳戶：
+以下說明如何從 Windows 10 中移除帳戶：
 
-1.   >    >    >  如果您使用的是 Windows 10 企業版) ，請移至「開始設定帳戶」**系列 & 其他人員** (或 **其他人員**。
+1.   >    >    >  如果您使用的是 Windows 10 企業版) ，請移至開始設定帳戶 **系列 & 其他人員** (或 **其他人員**。
 2. 選取您要移除的帳戶，選取 [ **移除**]，然後選取 [ **刪除帳戶和資料**]。
  
 **附注：** 您無法刪除目前已登入的帳戶。  如果您需要取代您已登入的帳戶：

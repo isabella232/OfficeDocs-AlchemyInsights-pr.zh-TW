@@ -8,21 +8,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: cc6f93ba8ae3a030f83da5eca2d28dcf38f0f8f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 71cfef0cedcc17833b19ed5f050a6510fe1371b58de9054eace2f29a46b3e06d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800887"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942124"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>SharePoint 檔案的 IRM 保護
 
 
-在 SharePoint Online 中，IRM 保護會套用至清單和文件庫層級的檔案。 您的組織在使用 IRM 保護之前，必須先設定 Rights Management。 IRM 依賴 azure Rights Management service 從 Azure 資訊保護來加密及指派使用限制。 有些 Microsoft 365 訂閱包含 Azure 版權管理，但並非全部。 
+在 SharePoint Online 中，IRM 保護套用於清單和文件庫級別的檔案。 貴組織必須先設定權限管理，然後才能使用 IRM 保護。 IRM 依賴來自 Azure 資訊保護的 Azure Rights Management 服務來加密和指派使用限制。 有些 Microsoft 365 訂閱包含 Azure 版權管理，但並非全部。 
 
 若要深入了解，請參閱：
 
-- [Office 應用程式和服務如何支援 Azure 版權管理](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)。
+- [Office 應用程式和服務對 Azure 版權管理的支援方式](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)。
 
 - [在 SharePoint 系統管理中心中設定資訊版權管理 (IRM) ](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)。
 
