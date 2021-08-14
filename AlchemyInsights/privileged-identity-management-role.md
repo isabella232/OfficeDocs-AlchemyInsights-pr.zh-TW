@@ -1,5 +1,5 @@
 ---
-title: 特權身分識別管理角色
+title: Privileged Identity Management 角色
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "6825"
-ms.openlocfilehash: 726511d016462f56c48a4272b57abc3e9f0cbc3d
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 358e446192e6b58ace81afa06e0d65ae3a207282351ffc3ec9975a24779951fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973220"
 ---
-# <a name="privileged-identity-managementpim-role"></a> (PIM) 角色的特權身分識別管理
+# <a name="privileged-identity-managementpim-role"></a>Privileged Identity Management (PIM) 角色
 
 **啟用角色之後未授與許可權**
 
-當您在 Azure AD 特權身分識別管理 (PIM) 中啟動角色時，啟用可能不會立即傳播至需要許可權角色的所有入口網站。 有時候，即使變更遭到傳播，在入口網站中的 web 快取可能會導致變更不會立即生效。
+當您在 Azure AD 中啟動角色時 Privileged Identity Management (PIM) ，啟用可能不會立即傳播至需要「特權」角色的所有入口網站。 有時候，即使變更遭到傳播，在入口網站中的 web 快取可能會導致變更不會立即生效。
 
 如果您的啟用延遲，請遵循下列步驟：
 
@@ -39,11 +39,11 @@ ms.locfileid: "49086283"
 
 **停用角色或角色啟用到期後，不會移除許可權**
 
-當您停用 Azure AD 特權身分識別管理中的角色或角色啟用期限到期時，可能會發生延遲，讓您繼續存取。
+當您停用 Azure AD Privileged Identity Management 中的角色，或角色啟用期限到期時，可能會發生延遲，讓您繼續存取。
 
 如果停用延遲，請遵循下列步驟：
 
-1. 如果您停用 Exchange 系統管理員角色或角色啟用期限已到期，而且在移除許可權之前發現明顯的延遲，請開啟支援票證，並告知您的支援工程師，以協助您使用「特權存取管理」 (PAM) 小組（如有關于此問題的 Office）進行票證的檔。
+1. 如果您要停用 Exchange 系統管理員角色或角色啟用期限到期，而且在移除許可權之前發現明顯的延遲，請開啟支援票證，並告知您的支援工程師，以協助您使用「許可權存取管理」 (PAM) 團隊內部 Office 關於此問題的相關資訊來處理票證。
 2. 如果啟用期限已到期，但您仍已開啟瀏覽器會話，請關閉瀏覽器。 您可以繼續使用角色，直到您關閉該會話為止。 這是已知的問題，當啟用已到期時，我們就會查看每個會話的潛在修正會主動吊銷。
 
 如果您的延遲與這兩個案例不同，請開啟支援票證。

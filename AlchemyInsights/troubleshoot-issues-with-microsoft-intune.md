@@ -1,5 +1,5 @@
 ---
-title: Microsoft Intune 的問題疑難排解
+title: 疑難排解 Microsoft Intune 問題
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,14 +9,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 870bf718028832ee36ca1382eb1ac3a05c494f71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ec91ffe6069f7fccff8459ef145e7da775158160976ece5b4745499ac5e1fa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665133"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980564"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Microsoft Intune 的問題疑難排解
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>疑難排解 Microsoft Intune 問題
 
 請複查下列資源，立即解決您的問題。
   
