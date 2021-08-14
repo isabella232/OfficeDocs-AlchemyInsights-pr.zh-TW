@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 09f4f4787e634e28e31b02533319853b51f41e5bc37553be6615c2389063818c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755446"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009059"
 ---
 # <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>切換到按發票付款 (支票/線速轉接) 
 
@@ -42,7 +42,7 @@ ms.locfileid: "49755446"
 4. 在 [ *帳單設定檔* ] 功能表中，選取 [ **支付方式**]。
 5. 選取 [橫幅]，表示您有資格透過支票/電匯轉接進行支付。
 
-**建議的文件**
+**建譯的文件**
 
 - [要求/下載/查看您的 Azure 計費發票和使用狀況資料](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [如何將 Azure 發票直接電子郵件傳送至您的收件匣](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)

@@ -12,16 +12,16 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: e3011b8af2271761c96d8e9bcecd317682c096d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc8728583a547e2407e2c91bf777adb23c221015c63d325df33db6c691f98e71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732994"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929800"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>建立 SharePoint hub 網站
 
-1. 在 [新增 SharePoint 系統管理中心] 的 [ **網站**] 底下，按一下 [作用中 **網站**]。
+1. 在 [新增 SharePoint 系統管理中心] 的 [**網站**] 底下，按一下 [作用中 **網站**]。
 
 2. 選取您要成為 hub 網站的網站，按一下 [ **hub site**]，然後按一下 [ **註冊為 hub site**]。
 
