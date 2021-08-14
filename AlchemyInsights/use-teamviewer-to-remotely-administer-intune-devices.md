@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1284"
 - "6700008"
-ms.openlocfilehash: e931b2092ab049bc01c600344cbd4702848abcd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 35c82f8b91a4a0a75f8aa376771a20e6684620c55e8a06abe59db22cab945139
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798439"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990518"
 ---
 # <a name="use-teamviewer-to-remotely-administer-intune-devices"></a>使用 TeamViewer 遠端管理 Intune 裝置
 
@@ -31,9 +31,9 @@ ms.locfileid: "47798439"
 **第 1 部分：使用遠端裝置啟動工作階段**
 
 1. 在 **[ 所有裝置 ]** 底下，選取您要啟動遠端工作階段的裝置。
-2. 從 **…更多**，選取**新遠端協助工作階段**。
+2. 從 **…更多**，選取 **新遠端協助工作階段**。
 3. 選取 **[是]** 確認您要建立遠端工作階段。
-    在 TeamViewer 服務確認 [啟動新遠端工作階段] 要求後，您將在裝置的 [概觀] (或 [基本資訊]) 窗格的詳細資訊下看到 **[啟動遠程協助] **的選項。 選取 **[查看更多]** 展開窗格，並顯示 [遠端協助] 狀態。
+    在 TeamViewer 服務確認 [啟動新遠端工作階段] 要求後，您將在裝置的 [概觀] (或 [基本資訊]) 窗格的詳細資訊下看到 **[啟動遠程協助]** 的選項。 選取 **[查看更多]** 展開窗格，並顯示 [遠端協助] 狀態。
 4. 選取 **[啟動遠端工作階段]**，在系統管理端啟動工作階段。
 5. 選擇下載 TeamViewer 二進位 (Windows)，然後選取 **[執行]**。<br/>
     **附註** 您可以略過任何開啟到 TeamViewer 網站的網頁瀏覽器頁面。

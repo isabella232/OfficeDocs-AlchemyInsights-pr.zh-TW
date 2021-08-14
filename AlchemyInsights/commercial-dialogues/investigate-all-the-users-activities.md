@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 391ad9f0e19857a6959667c6a86b143f774156cd
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 5375efe4998ee8720867b77a8c9ed60e3eda92e5b00fd3b6e93c0afab09fec2b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949378"
 ---
 # <a name="investigate-all-the-users-activities"></a>調查所有使用者的活動
 
@@ -31,7 +31,7 @@ ms.locfileid: "51403266"
 
 1. 如果您對特定的活動感興趣，請從 [ **活動** ] 清單中進行選取。 否則，預設會為選取的使用者傳回所有活動。
 1. 指定日期範圍，然後在 [ **使用者** ] 方塊中，選取您要調查之使用者的使用者名稱。 您可以一次選取一個以上的使用者。
-1. 按一下 [搜尋]。 活動會顯示在 [ **結果**] 底下。 您會看到 IP 位址、使用者及活動名稱。
+1. 按一下 [搜尋]。 這些活動出現在 **[結果]** 下。 您會看到 IP 位址、使用者及活動名稱。
 1. 若要下載結果，請選取 [ **匯出結果**]。
 1. 若要查看詳細資料，請選取活動，然後展開 [ **詳細資訊**]。
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2634"
 - "9000770"
-ms.openlocfilehash: 5f95c9bee29db44a4153e0de0b8f6fb49b274920
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f8e3502a7be35b5579ec1436852fe2bff9b1316891c7a9020f6f5f4767b3d88
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716848"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931517"
 ---
 # <a name="apple-mdm-push-certificate-has-not-been-set-up"></a>未設定 Apple MDM 推播憑證
 
@@ -28,7 +28,7 @@ ms.locfileid: "47716848"
 
 2. 選取 Intune 憑證登入請求必要的 **[下載您的 CSR]** 以創建 Apple MDM 推播憑證。 該檔案用於從 Apple 推播憑證入口網站請求信任關係憑證。
 
-3. 選取 **[建立您的 MDM 推播憑證]** 以移至 Apple 推播憑證入口網站。 使用您公司的 Apple ID 登入，然後選取**建立憑證**。 選取 **[選擇檔案]**，然後流覽至憑證簽署要求檔案，然後選擇 **[上傳]**。 在 [確認] 頁面上，選擇 **[下載]** 下載憑證 (.pem) 檔案，並將檔案儲存在本機。
+3. 選取 **[建立您的 MDM 推播憑證]** 以移至 Apple 推播憑證入口網站。 使用您公司的 Apple ID 登入，然後選取 **建立憑證**。 選取 **[選擇檔案]**，然後流覽至憑證簽署要求檔案，然後選擇 **[上傳]**。 在 [確認] 頁面上，選擇 **[下載]** 下載憑證 (.pem) 檔案，並將檔案儲存在本機。
  
 **附註**：該憑證與建立它時使用的 Apple ID 相關聯。 最佳做法是使用公司 Apple ID 執行管理工作，並確認信箱由多人或使用通訊群組清單監視。 請勿使用個人 Apple ID。 每12個月使用相同的 Apple ID 續約 Apple 推播憑證。
  

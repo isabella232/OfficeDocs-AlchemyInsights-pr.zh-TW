@@ -8,12 +8,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: 95ce018b618cd4eb48cb7293b753f2b6531dd4fd
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 064086c3bbeed71bfe1f9209bd231cb28462e7ecd9c2bbed40c4716392eabe72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707909"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974264"
 ---
 # <a name="onedrive-missing-files-or-folders"></a>OneDrive：遺失的檔案或資料夾
 
@@ -25,7 +25,7 @@ ms.locfileid: "50707909"
 
 **使用 OneDrive 檔案還原] 功能**。 
 
-如果大量 OneDrive 檔案遭到惡意程式碼刪除、覆寫、損毀或受到感染，您可以使用 [OneDrive 檔案還原](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) ] 功能，將整個 OneDrive 還原至先前的時間。
+如果大量 OneDrive 檔案遭到惡意程式碼刪除、覆寫、損毀或受到感染，您可以使用[OneDrive 檔案還原](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)] 功能，將整個 OneDrive 還原至先前的時間。
 
 
 **使用 [審計記錄] 或 [檔案活動] 窗格，檢查檔案的記錄**。
