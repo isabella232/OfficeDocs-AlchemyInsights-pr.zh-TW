@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: 35e8023d26fe26211e27521ceb8751d2d7fc7a21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a613321ed79e657350ec4d19b1f07ac0a091b227a8268c793a10edd9990d41f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744941"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945922"
 ---
 # <a name="fix-dkim-setup-issues"></a>修正 DKIM 安裝問題
 
@@ -26,4 +26,4 @@ ms.locfileid: "47744941"
 
 - 在您網域的 DNS 主機服務上建立或更新 DKIM DNS 記錄後，您的網域註冊機構) 中 (，請等候 DNS 記錄傳播。
 
-- 如果您無法在系統管理中心建立 DKIM DNS 記錄，您可以取代您的 \<CustomDomain\> 自訂網域 (例如，contoso.com) 並在 [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)中執行此命令： `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` 。
+- 如果您無法在系統管理中心建立 DKIM DNS 記錄，您可以取代您的 \<CustomDomain\> 自訂網域 (例如，contoso.com) 並在[Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)：中執行此命令 `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` 。

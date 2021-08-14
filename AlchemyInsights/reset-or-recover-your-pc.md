@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: 62ca4dfffbc08040400400c384390c30a485865f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ca94b3f812478b2221d0fcc070b7e7273e45dc3633e46c99384a270a624015e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991490"
 ---
 # <a name="reset-or-recover-your-pc"></a>重設或復原您的電腦
 
@@ -31,7 +31,7 @@ ms.locfileid: "51809538"
 
 如果您無法開啟 [設定]，您可以從登入畫面重設您的電腦：
 
-1. 按 **Windows 鍵+L** 前往登入畫面；然後選取畫面右下角中的 **[電源]** 按鈕 > **[重新開機]** 時，請按 **Shift** 鍵重新啟動電腦。 您的電腦將在 Windows 修復環境 (WinRE) 中重新開機。
+1. 按 **Windows 鍵+L** 前往登入畫面；然後選取畫面右下角中的 **[電源]** 按鈕 > **[重新開機]** 時，請按 **Shift** 鍵重新啟動電腦。您的電腦將在 Windows 修復環境 (WinRE) 中重新開機。
 2. 在 **[選擇一個選項]** 畫面上，移至 **[疑難排解] > [重設此電腦]**，然後選擇其中一個選項。
 
 **更多還原或復原選項**

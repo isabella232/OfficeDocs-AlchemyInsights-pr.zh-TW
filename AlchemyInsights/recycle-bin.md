@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 6cfb01fbe117fe3c1d3c3bddbec9f5a8188066ae
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 1a4843f43e1f5a261b06a0beca1231380a25c302605a2a82ef7143791f2964e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991608"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>在 SharePoint Online 中還原專案
 
@@ -25,7 +25,7 @@ ms.locfileid: "50709205"
   
 1. 移至網站，然後按一下左窗格中的 [ **回收站** ]。 
     
-    如果您在左窗格中看不到 [ **回收站** ]，請按一下右上角的 [設定] 圖示，然後按一下 [ **網站內容**]。 回收站位於命令列上方的最右邊。
+    如果您在左窗格中看不到 [**回收站**]，請按一下右上角的設定圖示，然後按一下 [**網站內容**]。 回收站位於命令列上方的最右邊。
     
 2. 在 [ **回收站** ] 頁面上，選取您要還原的專案，方法是指向這些專案，然後按一下出現的核取記號圖示。 
     

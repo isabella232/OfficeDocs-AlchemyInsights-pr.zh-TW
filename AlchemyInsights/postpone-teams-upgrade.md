@@ -1,5 +1,5 @@
 ---
-title: 推遲小組升級
+title: 推遲 Teams 升級
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: abbf696b1554743bda188704272bfd85fe6f94e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 893a01ae74f8aec9bb0079430188e3cd6881b3009818830ea5572cfa41cdf71f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801222"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923968"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>如何推遲 Microsoft 導向的小組升級
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>如何推遲 Microsoft 導向的 Teams 升級
 
-**重要**：我們可以使用支援診斷來協助您修正此問題，但似乎您並未使用新的系統管理中心。 若要使用新的系統管理中心，請在右上方的 **上方向右** 滑動切換按鈕。 使用新的系統管理中心，按一下 [ **需要協助？** ] 小工具，輸入「推遲小組升級」，然後遵循提示執行診斷。
+**重要**：我們可以使用支援診斷來協助您修正此問題，但似乎您並未使用新的系統管理中心。 若要使用新的系統管理中心，請在右上方的 **上方向右** 滑動切換按鈕。 使用新的系統管理中心，按一下 [**需要協助？** ] 小工具，輸入「推遲 Teams 升級」，然後依照提示執行診斷。
 
-如果您收到從商務用 Skype 到 Microsoft 小組之 Microsoft 導向的自動升級的通訊，而您想要將自動升級推遲到日後的日期，您的全域系統管理員可以登入 [小組管理員入口網站](https://admin.teams.microsoft.com/dashboard) ，然後在 [Microsoft 團隊升級] 下選取 [重新整理 **狀態** ] 按鈕之後，選取 [ **延遲** ] 按鈕。 若要查看租使用者自動升級至 Microsoft 小組的新日期，請重新整理「小組管理入口網站」頁面。
+如果您收到來自 Microsoft 導向的從商務用 Skype 到 Microsoft Teams 的自動升級的通訊，而您想要將自動升級推遲到日後的日期，您的全域系統管理員可以登入 Teams 的系統 [管理入口網站](https://admin.teams.microsoft.com/dashboard)，然後在 [Microsoft Teams 升級] 下選取 [重新整理 **狀態**] 按鈕後，選取 [**延期**] 按鈕。 若要查看租使用者自動升級至 Microsoft Teams 的新日期，請重新整理 Teams 管理入口網站頁面。
 
 **附注：** [ **延期** ] 按鈕只有在您收到有關自動升級的訊息中心通知時才會使用。 
 
