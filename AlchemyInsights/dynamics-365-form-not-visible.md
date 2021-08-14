@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "1470"
 - "6200014"
-ms.openlocfilehash: db70e1a9aa41bbee46ddb9a50b32370b1150ad30
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 965ee010fbb979ffb75b44fd14fdf4f0f34cbdd445924aa52c0937b5b1f5cc8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678171"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947470"
 ---
 # <a name="dynamics-365-form-not-visible"></a>Dynamics 365 表單不可見
 

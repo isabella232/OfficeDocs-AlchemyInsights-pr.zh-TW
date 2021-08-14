@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7839"
-ms.openlocfilehash: 0664ec09a9633165ff0a7d4b33320b14abf7c4e7
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: c45c8c64427fd0122ef8c91f800b830f421fd9d78e7108962d4053700a3da519
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976890"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975308"
 ---
 # <a name="migrating-applications"></a>遷移應用程式
 
-[將應用程式遷移至 Azure Active directory 的資源](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources) -可協助您將應用程式存取和驗證遷移至 Azure active Directory (azure AD) 的資源。
+將[應用程式遷移至 Azure Active Directory 資源的資源](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources)，可協助您將應用程式存取和驗證遷移至 Azure Active Directory (Azure AD) 。
 
-[將 Active Directory Federation services 中的應用程式驗證移至 Azure Active directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure) -開發人員重點指南，可將應用程式從 Active Directory federation services 遷移至 Azure active directory。
+[將 active directory federation services 的應用程式驗證移至 Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure)開發人員，將應用程式從 active directory federation services 遷移至 Azure Active Directory 所需的重點指導方針。

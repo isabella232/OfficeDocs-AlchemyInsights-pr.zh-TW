@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 66fae5b5602dd67954ac9208b26bc2005adda0e3
-ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
+ms.openlocfilehash: 1ddf6475e7cf466a39f76486e0f809097917657bc8f4ae7f7f2b516657308f39
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53389169"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947434"
 ---
 # <a name="domain-status---no-services-selected"></a>網域狀態-沒有選取服務
 

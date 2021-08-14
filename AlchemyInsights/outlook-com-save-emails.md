@@ -1,5 +1,5 @@
 ---
-title: 8000088儲存 Outlook.com 中的電子郵件
+title: 8000088在 Outlook .com 中儲存電子郵件
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,18 +15,18 @@ ms.custom:
 - "1399"
 - "1626"
 - "8000088"
-ms.openlocfilehash: a85a6aa5dd10b31029e9341f24679e22318ce264
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 518bce3c59bf7c89d1f2444678b93623066d39b35b6f889696723dd35acbf572
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722913"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095209"
 ---
-# <a name="saving-messages-in-outlookcom"></a>在 Outlook.com 中儲存郵件
+# <a name="saving-messages-in-outlookcom"></a>在 Outlook .com 中儲存郵件
 
-您無法在 Outlook.com 中儲存電子郵件訊息，但您可以將其列印至您可以儲存在電腦上的 PDF。
+您無法將電子郵件儲存在 Outlook .com 中，但您可以將其列印至您可以儲存在電腦上的 PDF。
 
-Windows 10 隨附的 Microsoft 列印至 PDF 實用程式可讓您直接列印任何電子郵件訊息至 PDF。
+Windows 10 隨附的 Microsoft 列印至 PDF 公用程式可讓您直接將任何電子郵件訊息列印到 PDF。
 
 1. 選取您要儲存的郵件。
 2. 選取三個點 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
@@ -38,4 +38,4 @@ Windows 10 隨附的 Microsoft 列印至 PDF 實用程式可讓您直接列印�
 
 **附注：** 因為其他使用者可以存取您儲存至電腦但不會刪除的任何 Pdf，所以不建議在共用或公用電腦上使用這種方式。
 
-如需有關列印的詳細資訊，請參閱 [在 Outlook.com 中列印電子郵件訊息、附件和行事曆](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy)。
+如需有關列印的詳細資訊，請參閱[列印 Outlook .com 中的電子郵件訊息、附件和行事曆](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy)。

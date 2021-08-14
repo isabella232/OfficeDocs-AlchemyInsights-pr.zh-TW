@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, tugu
+ms.reviewer: tugu, jmueller
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: a2a9b189ba8228cd6487c2f268c9d71affaa3519
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: acf3231c198a611d0975fffc4ef68ac28a901488f93a695de5d8f19bebf80f25
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686301"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868373"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>如何新增或編輯 VatID
 
@@ -34,4 +34,4 @@ ms.locfileid: "53686301"
 3. 在 [訂閱詳細資料] 頁面上，選取 [ **服務使用位址** ] 區段中的 [ **編輯服務使用位址**]。
 4. 在 [ **編輯服務使用位址** ] 窗格的 [ **vat 號碼** ] 方塊中，輸入您的 vat ID，然後選取 [ **儲存**]。 執行這項作業之後，就不會在下一個帳單上收取加值稅。
 
-若要深入瞭解，請參閱[哪些稅收會計費 Microsoft 365？](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)。
+若要深入瞭解，請參閱[哪些稅收會計費 Microsoft 365？](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)。
