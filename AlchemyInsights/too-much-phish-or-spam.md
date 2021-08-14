@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: d5db78a8427c45c272a72435f2bf1e485a3a366b
-ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
+ms.openlocfilehash: fb9a4d17f553c14a7b2ec1fb1a3e721310791f5f38dd58b696162f766243c1f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53195511"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921394"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>您在信箱中接收到太多網路釣魚或垃圾郵件嗎？
 

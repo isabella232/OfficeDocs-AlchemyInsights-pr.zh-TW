@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 9c7907c43fcaa74146c379c2a1cae3f43416ae7d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5c3881aca1030d59211b9ec5a51530b90767096c7cb313bba7ed161a1b1ec2e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832877"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974192"
 ---
 # <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Microsoft 365 應用程式訊息 - 我們已經發現您的訂閱有問題
 

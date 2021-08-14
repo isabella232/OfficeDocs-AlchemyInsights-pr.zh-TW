@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 91fa09c3d90db6d313a811c2b78a2feda4b001f48f7914c0d6e2b81627400fbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51807369"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990093"
 ---
 # <a name="view-wi-fi-network-password-in-windows-10"></a>在 Windows 10 中查看 Wi-Fi 網路密碼
 
 1. 請確定您的 Windows 10 電腦已連接至 Wi-Fi 網路。
 
-2. 移至 [ **設定] > 網路 & Internet > 狀態**，或按一下或點擊 [這裡](ms-settings:network?activationSource=GetHelp) ，讓我們立即為您做。 ) 
+2. 請移至 **設定 > 網路 & 網際網路 > 狀態**，或按一下或點擊 [這裡](ms-settings:network?activationSource=GetHelp)，讓我們立即為您做。 ) 
 
 3. 按一下 [網路和共用中心]。
 

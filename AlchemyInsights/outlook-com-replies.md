@@ -1,5 +1,5 @@
 ---
-title: 9000240 Outlook.com 回復
+title: 9000240 Outlook 的 com 回復
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom:
 - "1825"
 - "9000240"
-ms.openlocfilehash: 2d9c7ee84cf793bb8181c8b66f8fc7faadba725a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3e3dd79cc2f03da9b0fa98f8f65ab6e6f208438bff8b3d3318529a93de52b7fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723345"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961654"
 ---
-# <a name="replying-in-outlookcom"></a>在 Outlook.com 中回復
+# <a name="replying-in-outlookcom"></a>在 Outlook .com 中回復
 
 若要一次回復一封郵件：
 
@@ -30,8 +30,8 @@ ms.locfileid: "47723345"
 若要自動回復所有郵件：
 
 1. 跳至 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
-**設定**  > **流覽所有 Outlook 設定**  > **郵件**  > [**自動回復**] 開啟您的[自動回復設定](https://outlook.live.com/mail/options/mail/automaticReplies)。
-2. 選取 [開啟自動回覆]**** 切換開關。
+**設定**  > **全部查看 Outlook 設定**  > **郵件**  > [**自動回復**] 開啟您的 [自動回復設定](https://outlook.live.com/mail/options/mail/automaticReplies)。
+2. 選取 [開啟自動回覆] 切換開關。
 3. 選取 [ **僅在時間週期內傳送回復** ] 核取方塊可讓您：
     - 只在選擇時傳送回復。 如果您未設定時段，您的自動回復會保持開啟，直到您將它關閉為止。
     - 封鎖您的行事曆
@@ -39,6 +39,6 @@ ms.locfileid: "47723345"
     - 在這段期間拒絕並取消我的會議
 4. 在 [消息] 方塊中，輸入您離開時要傳送給人員的訊息。
 5. 若只要將回復傳送給您的連絡人，請選取 [ **僅傳送對連絡人的回復** ] 核取方塊。
-6. 選取 [儲存]****。
+6. 選取 **[儲存]**。
 
-若要深入瞭解，請參閱 [Outlook.com 中的自動轉送](https://support.office.com/article/14614626-9855-48dc-a986-dec81d07b1a0?wt.mc_id=Office_Outlook_com_Alchemy)。
+深入瞭解[Outlook .com 中的自動轉送](https://support.office.com/article/14614626-9855-48dc-a986-dec81d07b1a0?wt.mc_id=Office_Outlook_com_Alchemy)。
