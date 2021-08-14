@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1906"
-ms.openlocfilehash: ce04d7e30a7c46312d06eb1e2a15e267a93a8494
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 902a0ef2bef4e4cabfc4cd5bb335069b89fe5b932b104cd0f32dfee2266c33c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800529"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009887"
 ---
 # <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Microsoft 365 應用程式中的產品停用通知
 
@@ -27,7 +27,7 @@ ms.locfileid: "51800529"
 
 - 開啟 Office 應用程式，移至 [檔案] > [帳戶]，並登出所有帳戶。 使用具有有效授權的使用者帳戶再次登入。 如需詳細資訊，請參閱 [Office 的帳戶](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)。
 
-- 開啟 Office 應用程式，然後移至 [檔案] > [帳戶] > [更新選項] > [立即更新] 更新受影響電腦上的 Office。 如需詳細步驟，請參閱[安裝 Office 更新](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)。
+- 開啟 Office 應用程式，然後移至 **[檔案] > [帳戶] > [更新選項] > [立即更新]** 以更新受影響電腦上的 Office。如需詳細步驟，請參閱 [安裝 Office 更新](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)。
 
 - 執行[啟用疑難排解員](https://aka.ms/SARA-OfficeActivation-Alchemy)，並重新啟動電腦。
 

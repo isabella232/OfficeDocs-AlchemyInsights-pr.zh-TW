@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: c6ce26a133428dc7351912d8250ef096dfc7521a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e0e9b4fec0615943227f40043aeed842e8ee556c5916a59f65e79ce121ec9547
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821438"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932268"
 ---
 # <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>修正錯誤代碼550的傳遞問題。5.4.1 轉送存取遭到拒絕
 
