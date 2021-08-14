@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "12051"
 - "9007100"
-ms.openlocfilehash: d439ecd8ea5db0ca1dc02f8eeb6078a0f5ac8be8
-ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
+ms.openlocfilehash: 510344cf836609b25ed4a57b156d74e94e2056582ea6478a315d34697ddf5048
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53532926"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945137"
 ---
 # <a name="use-javascript-in-webview2"></a>在 WebView2 中使用 JavaScript
 

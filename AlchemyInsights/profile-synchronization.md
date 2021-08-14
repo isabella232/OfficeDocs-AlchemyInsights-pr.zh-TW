@@ -9,16 +9,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b223bad66fb7cc6d1d7c0a2b3ccc7a081c061b4974060dbcafec84dfb24eb782
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801760"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923635"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>我的設定檔變更何時同步處理至 SharePoint 的使用者設定檔應用程式？
 
-SharePoint 線上使用 Active Directory 匯入計時器工作 (AD 匯入) ，將使用者和群組匯入使用者設定檔應用程式。 
+SharePoint線上使用 Active Directory 匯入計時器工作 (AD 匯入) ，將使用者和群組匯入使用者設定檔應用程式。 
   
 1. AD 匯入將 SharePoint 線上目錄存放區中的變更同步處理至使用者設定檔應用程式。 這些變更會以批次處理。
     

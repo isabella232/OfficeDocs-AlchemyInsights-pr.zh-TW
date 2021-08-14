@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7285"
-ms.openlocfilehash: 4a4f258a7a13f02ba8fe49dd50392a4dc766b222
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: d3f4f05f858d7cf87e38bb8cfb14d331f3720c2f305a37993db82280e3dc0816
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755646"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945220"
 ---
 # <a name="make-an-immediate-payment"></a>進行立即付款
 
@@ -38,9 +38,9 @@ ms.locfileid: "49755646"
 
 發票的狀態將更新為 [發票薄片] 中的 [已支付]。
 
-**建議的文件**
+**建譯的文件**
 
 - [變更付款條件-常見問題](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [變更帳單設定檔的支付方式](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
+- [變更帳單設定檔的付款條件](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
 - [檢查 Microsoft 客戶合約的存取權](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
 - [Microsoft 客戶協定的計費角色](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
