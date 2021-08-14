@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3047"
 - "9000592"
-ms.openlocfilehash: 40aaa485ea38d471922699a9d0dd4fd1085571b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 82d66d8f3d5cc016a88715ee72c329b2d8a72039571f5025d267339e9f3126a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817923"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949666"
 ---
 # <a name="common-issues-with-tables"></a>表格的常見問題 
 
@@ -31,4 +31,4 @@ ms.locfileid: "51817923"
 
 [排序表格的內容](https://support.office.com/article/F8392477-4613-49CD-ABA6-7C2E48F1D91F)
 
-若要建立圖表，請參閱 [在 word 中將圖表新增至檔](https://support.office.com/article/ff48e3eb-5e04-4368-a39e-20df7c798932) 或 [在 Word 中建立 Excel 圖表](https://support.office.com/article/11A7D2F0-4487-4A9B-BBC6-D50916CD4A57)。
+若要建立圖表，請參閱[在 word 中新增圖表至您的檔](https://support.office.com/article/ff48e3eb-5e04-4368-a39e-20df7c798932)或[在 word 中建立 Excel 圖表](https://support.office.com/article/11A7D2F0-4487-4A9B-BBC6-D50916CD4A57)。
