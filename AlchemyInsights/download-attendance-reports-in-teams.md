@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 5f52c57e7ec09a0c52dfbc1e3c63fab80c97e9ec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 99bbdff705fa0314c59d8750ecbd421e58dda739b11a0ac6298e15aa03fd8e47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004335"
 ---
 # <a name="download-attendance-reports-in-teams"></a>在 Teams 中下載出席報告
 

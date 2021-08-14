@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004330"
 - "7723"
-ms.openlocfilehash: e463e8181123277f3509c0b0bb6f871a1a09bed1
-ms.sourcegitcommit: c3574f574afe5a40a6ea2c6e399c58977d18bb73
+ms.openlocfilehash: 975d4850c1ecffae786dd19b7f4363e0c95378cff4f3ae6bb1968af33ef810b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50052944"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986810"
 ---
 # <a name="issues-with-credentials"></a>認證的問題
 
-[Microsoft identity platform 和 OAuth 2.0 用戶端認證流程](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 說明如何直接針對 OAuth 2.0 用戶端認證授與流程進行程式設計。
+[Microsoft 身分識別平臺和 OAuth 2.0 用戶端認證流程](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)說明如何直接針對 OAuth 2.0 用戶端認證授與流程進行程式。
 
 **如何管理應用程式的密碼或憑證認證？**
 
 在 Azure CLI 中，您可以使用 [az ad app 認證](https://docs.microsoft.com/cli/azure/ad/app/credential) 來刪除、列出或重設應用程式的密碼或憑證認證。
 
-**我的使用者如何重設密碼？**
+**我的使用者如何重設自己的密碼？**
 
 使用者必須先 [註冊自助密碼重設，](https://docs.microsoft.com/azure/active-directory/user-help/active-directory-passwords-reset-register) 才能重設密碼。 使用者註冊後，可依照本文中的指示重設密碼： [重設您的工作或學校密碼](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-reset-or-unlock-your-password-for-a-work-or-school-account)。
 
-**我的使用者如何變更密碼？**
+**我的使用者如何變更自己的密碼？**
 
 使用者可以遵循本文中的步驟變更其密碼： [如何變更您的密碼](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-change-your-password)。
 他們也可以 [管理兩步驟驗證的應用程式密碼](https://docs.microsoft.com/azure/active-directory/user-help/multi-factor-authentication-end-user-app-passwords)。
@@ -47,8 +47,8 @@ ms.locfileid: "50052944"
 - 請確定您瞭解授權需求：
 
   - 您的組織中至少必須已指派一個授權：
-    - **僅限雲端使用者** -任何 Office 365 (O365) 付費 SKU 或 Azure AD Basic
-    - **雲端和/或內部部署使用者** -Azure AD Premium P1 或 P2、Enterprise 可移動性 + SECURITY (EMS) 或安全生產力 (SPE) 
+    - **僅限雲端使用者**-任何 Office 365 (O365) 付費 SKU 或 Azure AD Basic
+    - **雲端和/或內部部署使用者**-Azure AD Premium P1 或 P2、Enterprise Mobility + Security (EMS) 或 Secure Productive Enterprise (SPE) 
     - 若要深入瞭解授權需求，請參閱 [AZURE AD 自助密碼重設的授權需求](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)。
 - 若要重設使用者的密碼，請在 Azure AD 中尋找使用者。 然後，在該使用者的 [一覽] 邊欄上，按一下 [重設密碼] 按鈕。
 
@@ -68,7 +68,7 @@ ms.locfileid: "50052944"
 
   - 您不是使用密碼回寫
   - 密碼寫回的安裝/連線發生問題
-  - Azure AD Connect 的安裝/連線發生問題
+  - Azure AD 連線的安裝/連線能力有問題
   - 如需有關密碼寫回問題的疑難排解步驟，請參閱 [密碼寫回疑難排解](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
 
 **我不知道如何重設使用者的密碼**
@@ -80,6 +80,6 @@ ms.locfileid: "50052944"
 5. 選取 [ **重設密碼** ] 按鈕，然後依照畫面上的指示進行。
     - 僅透過 **Azure 入口網站** 支援密碼回寫進行重設。
 
-**我從 Office 365 Admin 入口網站或 Office 365 行動應用程式重設內部部署使用者的密碼，但使用者仍無法登入**
+**我從 Office 365 系統管理員入口網站或 Office 365 行動應用程式重設內部部署使用者的密碼，但使用者仍無法登入**
 
 此入口網站不支援密碼回寫。 在 Azure 入口網站中重新重設使用者的密碼。

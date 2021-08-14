@@ -8,12 +8,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: f790efbe6ed445786933efa3fc980f974693d1d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: daf21e311d29b801bd04e48adfba9446abf78de9377d2a029aebccbac3910c62
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770758"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022793"
 ---
 # <a name="content-crawling-and-indexing-in-sharepoint-online"></a>SharePoint Online 中的內容編目和編制索引
 

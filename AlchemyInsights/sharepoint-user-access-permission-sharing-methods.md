@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: ddbeae692a321a3b657f5b6e2e140d8f71a4576b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5153bdc2946648419650935550d2b5716b02ab5f06afce37809f8df75d363a9f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795343"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022676"
 ---
 # <a name="sharing-and-permission-methods-to-provide-or-restrict-user-access-to-sharepoint-site"></a>共用和許可權方法，以提供或限制使用者 SharePoint 網站的存取權
 
@@ -28,7 +28,7 @@ ms.locfileid: "47795343"
 
 - [當使用者取得共用連結，變更預設的連結類型](https://docs.microsoft.com/sharepoint/change-default-sharing-link)
 
-- [停止共用 OneDrive 或 SharePoint 檔案或資料夾或變更許可權](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [停止共用 OneDrive 或 SharePoint 檔案或資料夾，或變更權限](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
 - [共用和許可權](https://support.office.com/article/Sharing-and-permissions-ac85fbf1-2431-49bf-8690-f1a2b98af65f#ID0EAABAAA=Manage_permissions)
 

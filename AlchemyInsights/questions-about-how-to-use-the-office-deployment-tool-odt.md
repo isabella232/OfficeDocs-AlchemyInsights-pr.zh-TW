@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: 20e0b6aa3c298ee0a4291c3da6ae46978177e81f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d38866647c7bf286b5b5b21e7fdcc94af72ea1850bc40391af077aa230b8b4fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790323"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959674"
 ---
 # <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>有關如何使用 Office 部署工具 (ODT) 的問題
 
@@ -23,9 +23,9 @@ ms.locfileid: "51790323"
   
 下載檔案之後，執行自我解壓縮可執行檔，其中包含 Office 部署工具可執行檔 (setup.exe) 及範例組態檔 (configuration.xml)。
   
- **若要排除或移除用戶端電腦的 Microsoft 365 應用程式企業版產品：**
+ **若要排除或移除用戶端電腦的 Microsoft 365 Apps 企業版產品：**
   
-安裝適用于企業的 Microsoft 365 應用程式時，您可以排除特定產品。 方法是依照利用 ODT 安裝 Office 的步驟進行，但在組態檔中加入 ExcludeApp 元素。 例如，此設定檔案會為所有 Microsoft 365 應用程式安裝企業產品（Publisher 除外）：
+安裝 Microsoft 365 Apps 企業版時，您可以排除特定產品。 方法是依照利用 ODT 安裝 Office 的步驟進行，但在組態檔中加入 ExcludeApp 元素。 例如，此設定檔會安裝 Publisher 以外的所有 Microsoft 365 Apps 企業版產品：
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">

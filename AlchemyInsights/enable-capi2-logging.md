@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12458"
 - "9007450"
-ms.openlocfilehash: 179271344153653a6036902c20fc368f9efb9302
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 5c759ba600de95b1f70c87956432e81d4f28ba6e6bb2c2339557676bc18f61af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689632"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003594"
 ---
 # <a name="enable-capi2-logging"></a>啟用 CAPI2 記錄
 
