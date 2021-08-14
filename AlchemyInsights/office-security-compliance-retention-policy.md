@@ -14,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 06d7ef59d8ce31e0b22635e68638219bc491ff98
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d3d4443d0b82c3dc3b89b25f119f32dccdda9ef82e674cba97a945af9019ad00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673669"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985602"
 ---
 # <a name="more-info-about-retention-policies"></a>有關保留原則的詳細資訊
 

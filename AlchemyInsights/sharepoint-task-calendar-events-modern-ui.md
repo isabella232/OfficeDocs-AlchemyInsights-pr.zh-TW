@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "2627"
-ms.openlocfilehash: d8b6382c1d9f05e981842bce95f0e5b61d2b7434
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f229837492d9ed8ca6f28e1dc4bc01f5ebec30438a868c1c9c25640e4003ccc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941323"
 ---
 # <a name="task-and-calendar-event-list-in-modern-ui"></a>新式 UI 中的任務和行事曆事件清單
 

@@ -1,5 +1,5 @@
 ---
-title: Business Web OneDrive 重新導向 Delve 的 OneDrive
+title: 商務用 OneDriveWeb OneDrive 重新導向至 Delve
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 96f23585f7cbce672842f6330ba79816f24dbc41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 295dea987cd14ea848d2bf802f57429642d554b9661dc4dbfc805a447b7d0ede
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799980"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922978"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>在您按一下 OneDrive 之後重新導向 Delve
 
 請參閱我們的詳細 [疑難排解指南](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)。
 
-若要解決此問題，管理員必須授與使用者建立其「我的網站」網站的權利。 這是因為在「我的網站」上建立商務用 OneDrive 頁面。
+若要解決此問題，管理員必須授與使用者建立其「我的網站」網站的權利。 這是因為商務用 OneDrive 頁面是在「我的網站」上建立的。
 
 若要授與此許可權，請遵循下列步驟：
 
-1. 在 SharePoint 系統管理中心，按一下 [ **使用者設定檔**]。
+1. 在 SharePoint 系統管理中心，按一下 [**使用者設定檔**]。
 
 2. 在 [ **人員** ] 區段中，按一下 [ **管理使用者許可權**]。
 

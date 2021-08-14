@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3199"
-ms.openlocfilehash: 807d6b9dce934887df65d0a1df6ba73b197e62aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bec5c47b149329f9fa0a6110c6340a1271620787062b7fbdf2d8d4b96b97b202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822194"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953176"
 ---
 # <a name="add-users-to-a-sharepoint-group"></a>將使用者新增至 SharePoint 群組
 

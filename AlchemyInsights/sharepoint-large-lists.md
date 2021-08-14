@@ -14,12 +14,12 @@ ms.custom:
 - "407"
 - "530001"
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: 1bc891a912c6753ea6c85d7d4b2a5d802080bd5c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c67632e323f2068faba06779b94ba4fd8e9f319e18cefb7977bd3038ca770210
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720124"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941559"
 ---
 # <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>使用 SharePoint 中的大型清單和文件庫
 
@@ -31,7 +31,7 @@ SharePoint 清單和文件庫最多可以包含30000000個專案，但是當其�
 
 **新增索引**
 
-當您以沒有索引的資料行篩選或排序時，可能會看到錯誤訊息。 從 [設定] 功能表中的 [**清單設定**] 手動[新增索引](https://support.office.com/article/f3f00554-b7dc-44d1-a2ed-d477eac463b0)，然後再以**索引欄**。
+當您以沒有索引的資料行篩選或排序時，可能會看到錯誤訊息。 從 [設定] 功能表中的 [從 **清單設定** 手動 [新增索引](https://support.office.com/article/f3f00554-b7dc-44d1-a2ed-d477eac463b0)]，然後再將索引 **欄** 新增。
 
 **編輯清單視圖**
 
@@ -39,8 +39,8 @@ SharePoint 清單和文件庫最多可以包含30000000個專案，但是當其�
 
 下列四項變更將會移除清單視圖臨界值錯誤。 進行四個變更，以移除所有的錯誤。 如果仍有錯誤，請參閱 [管理大型清單和文件庫](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59)。
 
-1. 從**欄的第一個排序選取 [** **無**]，**然後依資料行排序**。
-2. 從**第一個群組**中選取 [**無**]，**然後按該列進行群組**。
+1. 從 **欄的第一個排序選取 [** **無**]，**然後依資料行排序**。
+2. 從 **第一個群組** 中選取 [**無**]，**然後按該列進行群組**。
 3. 選取 [**總計**] 區段中所有欄的 [**無**]。
 4. 取消選取 [ **欄** ] 區段中的 [所有] （顯示一欄）。
 

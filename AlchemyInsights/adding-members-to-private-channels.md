@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6875"
-ms.openlocfilehash: d5adc7f14baef80704d7455fafef36aed6cd5318
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 7948013bb4c1715512572880369a04adaff3c06b824d245394139380abc65378
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50449064"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953104"
 ---
 # <a name="adding-members-to-private-channels"></a>將成員新增至專用通道
 

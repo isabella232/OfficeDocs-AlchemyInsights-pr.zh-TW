@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002418"
 - "4867"
-ms.openlocfilehash: d26e49421b1b0c1d8ce79121f8dbdea16a06c552
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cd2b7af9aaf565ea9867c37dc7c7066ebaafe6eaaedf307392919aefc03b11a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941251"
 ---
 # <a name="solutions-to-common-aad-synchronization-problems"></a>常見 AAD 同步問題的解決方案
 
