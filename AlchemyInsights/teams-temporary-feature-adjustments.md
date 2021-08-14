@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4511"
-ms.openlocfilehash: 2bcaad529fa54e3a444d16be021485b59749efc4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 36d5c3d78b3da2cc59368b17b2101079f34865a80341238386041446fb972abe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809070"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981284"
 ---
 # <a name="teams-temporary-feature-adjustments"></a>Teams 暫時功能調整
 
-**重要**：在此前所未有的時期，我們會採取一些步驟，以確保 Microsoft Teams 保持高度可用。 請造訪 [Microsoft Teams 暫時功能調整](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC206581)。
+**重要**：在此前所未有的時期，我們會採取一些步驟，以確保 Microsoft Teams 保持高度可用。請瀏覽 [Microsoft Teams 暫時功能調整](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC206581)。

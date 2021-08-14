@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "10394"
 - "9005762"
-ms.openlocfilehash: 333e5dbca70c02bcedbb07f5de0b3c08d6e4f20a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af1eba017465dc3f81f7241c017e85b62a48e48aa499d4a8287a33aa919c887d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815379"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005117"
 ---
 # <a name="deploy-surface-pro-x"></a>部署 Surface Pro X
 
-使用 Windows Autopilot 為貴組織部署 Surface X Pro 裝置提供了使用 Office Pro Plus 進行雲端式零接觸部署的好處。 若要深入了解 Windows Autopilot，請參閱[Windows Autopilot 概觀](https://docs.microsoft.com/mem/autopilot/windows-autopilot)。
+使用 Windows Autopilot 為貴組織部署 Surface X Pro 裝置提供了使用 Office Pro Plus 進行雲端式零接觸部署的好處。若要深入了解 Windows Autopilot，請參閱 [Windows Autopilot 概觀](https://docs.microsoft.com/mem/autopilot/windows-autopilot)。
 
 **注意：** 傳統映像式部署不適用於 Surface Pro X 裝置。
 

@@ -13,12 +13,12 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd4f200233d5571fc7b01576038e7b3951a07716a7d5948005418d2896291ee5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679432"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005081"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>使用信用卡問題的 DLP 問題
 
@@ -26,7 +26,7 @@ ms.locfileid: "47679432"
 
 **使用信用卡問題的 DLP 問題**
 
-當您在 O365 使用 DLP 敏感資訊類型時， **資料遺失防護 (dlp) ** 無法處理包含 **信用卡號碼** 的內容時，是否有問題？ 如果是的話，請確定您的內容包含必要資訊，以便在評估時觸發 DLP 原則。 例如，對於設定為信賴等級85% 的 **信用卡原則** ，會評估下列專案，而且必須偵測到要觸發的規則：
+當您在 O365 使用 DLP 敏感資訊類型時， **資料遺失防護 (dlp)** 無法處理包含 **信用卡號碼** 的內容時，是否有問題？ 如果是的話，請確定您的內容包含必要資訊，以便在評估時觸發 DLP 原則。 例如，對於設定為信賴等級85% 的 **信用卡原則** ，會評估下列專案，而且必須偵測到要觸發的規則：
   
 - **[格式：](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 位數，可格式化或未格式化 (dddddddddddddddd) ，且必須通過 Luhn 測試。
 

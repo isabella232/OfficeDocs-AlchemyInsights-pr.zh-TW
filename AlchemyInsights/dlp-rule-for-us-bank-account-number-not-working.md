@@ -13,12 +13,12 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: eb399e4b23de32a757562833ed32d97daa6a1247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d19b2dcc29e23fab522159945496165338a117a47bfcfcadf0b93e4e5f14464f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679287"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005009"
 ---
 # <a name="dlp-issues-with-us-bank-account-numbers"></a>美國銀行帳戶號碼的 DLP 問題
 
@@ -26,7 +26,7 @@ ms.locfileid: "47679287"
 
 **美國銀行帳戶號碼的 DLP 問題**
 
-當您在 O365 使用 DLP 敏感資訊類型時， **資料遺失防護 (dlp) ** 無法處理包含 **US 銀行帳戶號碼** 的內容時，是否有問題？ 如果是的話，請確定您的內容中包含 DLP 原則在評估時所需的資訊。
+當您在 O365 使用 DLP 敏感資訊類型時， **資料遺失防護 (dlp)** 無法處理包含 **US 銀行帳戶號碼** 的內容時，是否有問題？ 如果是的話，請確定您的內容中包含 DLP 原則在評估時所需的資訊。
   
 例如，對於以信賴等級85% 設定的 **US 銀行帳戶號碼** 原則，會評估下列專案，而且必須偵測到要觸發的規則：
   
@@ -44,7 +44,7 @@ ms.locfileid: "47679287"
 
     例如，下列範例會觸發 **US 銀行帳戶號碼** 原則：檢查帳戶78344011
 
-如需針對您的內容偵測到**US 銀行帳戶**所需的資訊，請參閱本文中的下列章節：[機密資訊類型針對 US 銀行帳戶所尋找的功能](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)。
+如需針對您的內容偵測到 **US 銀行帳戶** 所需的資訊，請參閱本文中的下列章節：[機密資訊類型針對 US 銀行帳戶所尋找的功能](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)。
   
 使用不同的內建機密資訊類型，請參閱下列文章，以瞭解其他類型所需的資訊： [機密資訊類型的外觀](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
