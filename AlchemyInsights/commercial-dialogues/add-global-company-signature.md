@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: cbd92f9c4a78139eac4e3672dd0632b173472757
-ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
+ms.openlocfilehash: b020e9823bac91ee6f40aed48f2abcba01a265ab2d2f77021a745e69af5a5366
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50508580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930494"
 ---
 # <a name="add-a-global-company-signature-or-disclaimer-for-all-users"></a>為所有使用者新增全域公司簽署或免責聲明
 
 提示：整個組織內的簽章也稱為免責聲明，不論其包含為何。
 
-1. 在系統管理中心中，選擇 [系統 **管理中心**] [  >  **Exchange**]。
+1. 在系統管理中心中，選擇 [系統 **管理中心**]  >  **Exchange**。
 2. 在 [郵件流程] 下，選擇 [ **規則**]。
 3. 按一下 [ **+** (Add) 圖示，然後選擇 [套用 **免責聲明**]。
 4. 為這個規則命名。

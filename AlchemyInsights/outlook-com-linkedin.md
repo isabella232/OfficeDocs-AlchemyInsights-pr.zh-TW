@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: eab7f1434160b8b2b3a754235b4ea58870dc0003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cd25e36817a9c5193a483a34d9aea1f209e8e7971c180772b32a9552ee67222
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095965"
 ---
 # <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>您聲稱來自 LinkedIn 的垃圾郵件發生問題
 
@@ -26,4 +26,4 @@ ms.locfileid: "47799447"
 
 建議使用收件匣規則來篩選這些電子郵件。
 
-如需詳細資訊，請參閱如何 [在 Outlook.com 中使用收件匣規則](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)。
+如需詳細資訊，請參閱如何[在 Outlook .com 中使用收件匣規則](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)。
