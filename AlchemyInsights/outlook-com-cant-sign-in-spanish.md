@@ -1,5 +1,5 @@
 ---
-title: 8000070-Outlook.com 無法登入西班牙文
+title: 8000070-Outlook .com 無法登入-西班牙文
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "1143"
 - "8000070"
-ms.openlocfilehash: 0dc41ac7b82f6db7596c0fc0105c1541955b35b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ebd4e3b5422484ec291bf5f300f80db7115a4be226dcf29ad0ede6d9dd0a69ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752890"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962554"
 ---
-# <a name="no-puede-iniciar-sesin-en-hotmail-o-en-outlookcom"></a>¿沒有 puede iniciar sesión en Hotmail o en Outlook.com？
+# <a name="no-puede-iniciar-sesin-en-hotmail-o-en-outlookcom"></a>¿沒有 puede iniciar sesión en Hotmail o en Outlook .com？
 
-Si no puede iniciar sesión en su cuenta de correo electrónico de Outlook.com，Hotmail，Live o MSN，o 無 sabe con seguridad cómo iniciar o cerrar sesión， [aquí tiene algunas](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)soluciones。
+Si no puede iniciar sesión en su cuenta de correo electrónico de Outlook .com，Hotmail，Live o MSN，o 無 sabe con seguridad cómo iniciar o cerrar sesión， [aquí tiene](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)algunas soluciones。
