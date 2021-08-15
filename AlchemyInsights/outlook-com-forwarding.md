@@ -1,5 +1,5 @@
 ---
-title: 9000239 Outlook.com 轉接
+title: 9000239 Outlook 的 .com 轉送
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom:
 - "1824"
 - "9000239"
-ms.openlocfilehash: 02e797f26e35a4da446921a3fcbdc3a7475f862c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd2032645f8bc889dfdc657d53480b7e086b4843ce687b27fa76a3ab6539113e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751882"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984128"
 ---
-# <a name="forwarding-email-in-outlookcom"></a>在 Outlook.com 中轉送電子郵件
+# <a name="forwarding-email-in-outlookcom"></a>轉送 Outlook .com 中的電子郵件
 
 若要一次轉寄一封郵件：
 
@@ -33,4 +33,4 @@ ms.locfileid: "47751882"
 1. 開啟 [轉送設定](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption)。
 2. 選取 [ **啟用轉送**]，輸入轉寄電子郵件地址，然後選取 [ **儲存**]。
 
-若要深入瞭解，請參閱 [Outlook.com 中的自動轉送](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad?wt.mc_id=Office_Outlook_com_Alchemy)。
+深入瞭解[Outlook .com 中的自動轉送](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad?wt.mc_id=Office_Outlook_com_Alchemy)。

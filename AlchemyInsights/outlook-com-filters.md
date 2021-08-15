@@ -1,5 +1,5 @@
 ---
-title: 9000203 Outlook.com 篩選
+title: 9000203 Outlook .com 篩選器
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,16 +15,16 @@ ms.custom:
 - "1793"
 - "9000203"
 - "9000215"
-ms.openlocfilehash: f12663c5ece9849c0a1b550a3b07742eaf56c241
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff49ef320249b8f87d7325514570db39c63e403b06ca8320050d2feb140bba6f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671903"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984200"
 ---
-# <a name="filtering-in-outlookcom"></a>在 Outlook.com 中篩選
+# <a name="filtering-in-outlookcom"></a>在 Outlook .com 中篩選
 
-您可以在 Outlook.com 中使用許多方式來篩選您的電子郵件：
+您可以使用 Outlook .com 中的多種方式來篩選您的電子郵件。
 
 1. [變更您的電子郵件排序方式](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
 2. [封鎖電子郵件地址或電子郵件網域](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)

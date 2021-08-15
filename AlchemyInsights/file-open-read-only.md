@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813175"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029795"
 ---
 # <a name="file-open-read-only"></a>唯讀檔案
 
@@ -40,9 +40,9 @@ ms.locfileid: "51813175"
   
 如果檔案儲存在 OneDrive，而您的 OneDrive 儲存空間已滿，您將無法儲存檔，除非您已在所分配的空間下。 您可以按一下 [通知中心] 中的 [OneDrive] 圖示，然後選擇 [管理儲存]， [https://onedrive.live.com](https://onedrive.live.com) 再登入，並記下螢幕左下方的使用空間量，以查看 OneDrive 的可用空間。
   
- **Office 是否已啟用？**
+ **是否 Office 啟用？**
   
-如果未啟用 Office，或訂閱已過期，您可以處於唯讀的「精簡功能」模式。 如需如何啟動 Office 的資訊，請參閱： [office 中的「未經許可的產品和啟用錯誤](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)」。
+如果未啟用 Office，或訂閱已過期，您可以處於唯讀功能模式。 如需如何啟用 Office 的詳細資訊，請參閱： [Office 中未授權的產品和啟用錯誤](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)。
   
  **如果其他所有失敗**
   
