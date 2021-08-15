@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d24696b63663c69b22c783072141af62ecf124dba7b49bca827381f39f88640e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031973"
 ---
 # <a name="creating-aip-label-policies"></a>建立 AIP 標籤原則
 

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4896"
-ms.openlocfilehash: 8482500972167da0eb25eaeb4ed0381a4485e6b8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 06f3ed4fd939908462d3e73e6f6ec7a44388d761f82cb6c1638ae1d63217e54d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976208"
 ---
 # <a name="microsoft-365-tax-information"></a>Microsoft 365 稅務資訊
 
-您透過 Microsoft 購買的 Microsoft 365 系統管理中心的稅金取決於您的營業地址，或者如果不同，則取決於您的收貨地址。 如需完整概觀，請參閱[稅務資訊](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide) (部分機器翻譯)。
+您透過 Microsoft 購買的 Microsoft 365 系統管理中心的稅金取決於您的營業地址，或者如果不同，則取決於您的收貨地址。如需完整概觀，請參閱 [稅務資訊](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide)。
 
 - [您需要支付哪些稅金？](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#what-tax-will-i-be-charged) 
 
