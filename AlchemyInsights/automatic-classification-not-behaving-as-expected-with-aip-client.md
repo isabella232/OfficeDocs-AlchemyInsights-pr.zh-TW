@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: b7ab09fe8430a54dacf2cd1ba076414a5f562541
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 93d15b8b65fd52a567ecbb6e1f84363bf2b38946c105896b0b5ef41e49d16ea9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820889"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979700"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>自動分類的行為與 AIP 用戶端預期的行為不符
 
@@ -29,7 +29,7 @@ ms.locfileid: "51820889"
 4. 如果您在 Azure 資訊保護原則中使用的是[內建資訊類型](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b)，請確認您的內容符合預期的格式。
 5. 請確認標籤已正確設定 [自動] 或 [建議]。 ([自動] 加上標籤適用於所有 Microsoft 365 應用程式，但 [建議] 可用於除了 Outlook 之外的所有 Microsoft 365 應用程式。)
 6. 您不能對先前手動加上標籤，或先前以較高分類自動加上標籤的文件和電子郵件進行自動分類。  如需詳細資訊，請參閱[如何套用自動或建議標籤](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied)。
-7. 如果您仍然遇到問題，請收集 Azure 資訊保護用戶端記錄，並將匯出的記錄附加到您的支援票證。 若要匯出 Azure 資訊保護記錄：
+7. 如果您仍然遇到問題，請收集 Azure 資訊保護用戶端記錄，並將匯出的記錄附加到您的支援票證。若要匯出 Azure 資訊保護記錄：
     - 在 Outlook 中開啟 Office 文件或建立新的電子郵件。
     - 按一下 [保護/敏感度]  >  [說明和意見反應]。
     - 按一下 [匯出記錄]。

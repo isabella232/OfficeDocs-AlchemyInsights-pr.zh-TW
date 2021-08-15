@@ -1,5 +1,5 @@
 ---
-title: 8000064 Outlook.com 電子郵件無法同步-西班牙文
+title: 8000064 Outlook .com 電子郵件無法同步-西班牙文
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "1136"
 - "8000064"
-ms.openlocfilehash: 2690ef211b34800480f752af096c0640370dfada
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f61159f4a2bba2547e869617bc7eee60cd4e8e79462645540344418b0a39f475
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671723"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962266"
 ---
 # <a name="problemas-de-sincronizacin-del-correo-electrnico"></a>Problemas de sincronización del correo electrónico
 
-Si no puede enviar o recibir correo electrónico，o 無 puede conectarse Outlook.com，pruebe [estas soluciones](https://support.office.com/es-es/article/solución-de-problemas-de-sincronización-del-correo-electrónico-de-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)。
+Si no puede enviar o recibir correo electrónico，o 沒有 puede conectarse a Outlook .com，pruebe [estas](https://support.office.com/es-es/article/solución-de-problemas-de-sincronización-del-correo-electrónico-de-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)soluciones。

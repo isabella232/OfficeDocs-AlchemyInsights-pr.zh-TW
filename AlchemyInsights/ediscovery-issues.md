@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710942"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030416"
 ---
 # <a name="ediscovery-issues"></a>eDiscovery 問題
 
@@ -27,7 +27,7 @@ ms.locfileid: "47710942"
 
 - 建立 eDiscovery 案例以搜尋內容，並將內容位置置於保留狀態-移至 **ediscovery > ediscovery**
 
-- 使用新的端對端高級 eDiscovery 解決方案來識別及與保管人進行通訊，保留與案例相關的保管人資料，收集資料並將其新增至複查集，並將分析方式套用分析，以挑選出不必要的資料，並將重點放在與案例相關的情況-移至**eDiscovery > Advanced ediscovery** ，以降低資料量。
+- 使用新的端對端 Advanced eDiscovery 解決方案來識別及與保管人進行通訊，保留與案例相關的保管人資料、收集資料並將其新增至審閱集，以及減少資料量，其方式是套用分析以挑選出不必要的資料，並將重點放在與案例相關的情況-移至 **eDiscovery > Advanced eDiscovery**
 
 如需詳細資訊，請參閱：
 

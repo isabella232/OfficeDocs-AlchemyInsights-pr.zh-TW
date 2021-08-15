@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: 8cdd2c64a95e88eb2fb4624c6e2696f77b75e198
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49652147"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001493"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>更新與您的 MCA 相關的銷售和帳單位址-建議的步驟
 
 您可以更新與您的 Microsoft 客戶合約 (MCA) 相關聯的銷售和帳單位址。 
 
 > [!NOTE]
-> 只有使用者管理員可以變更 Azure Active Directory 使用者設定檔資訊。 如果您未獲指派使用者系統管理員角色，請與您的使用者管理員聯繫。 如需變更使用者設定檔的詳細資訊，請參閱 [使用 Azure Active Directory 新增或更新使用者的設定檔資訊](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)。
+> 只有使用者管理員才能對 Azure Active Directory 使用者設定檔資訊進行變更。 如果您未獲指派使用者系統管理員角色，請與您的使用者管理員聯繫。 如需變更使用者設定檔的詳細資訊，請參閱[使用 Azure Active Directory 新增或更新使用者的設定檔資訊](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)。
 
 「**銷售位址**-銷售位址」-「銷售位址」是組織或個人的連絡人資訊，負責帳單帳戶。 它會顯示在所有為帳單帳戶產生的發票中。
 
@@ -48,7 +48,7 @@ ms.locfileid: "49652147"
 1. 按一下 [**屬性**  >  **更新位址**]。
 1. 輸入新的位址，然後按一下 [ **儲存**]。
 
-**建議的檔**
+**建議的文件**
 
 [變更 Azure 計費帳戶的連絡人資訊](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
 [更新帳單帳戶設定](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

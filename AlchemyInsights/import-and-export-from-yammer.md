@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9735"
 - "9003224"
-ms.openlocfilehash: dcdf569f96e51a62899761589ef6f9f317517c3a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 3ead2702c2fbd26b2e5596e26e9189c2f97baf93c93ec3cbd57f15c855b5128e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897727"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001463"
 ---
 # <a name="import-and-export-from-yammer"></a>從 Yammer 匯入和匯出
 
@@ -26,7 +26,7 @@ ms.locfileid: "50897727"
 
 使用者匯入選項會根據您的 Yammer 網路是[適用於 Microsoft 365 的原生模式](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)與否而有所不同。
 
-- **非原生模式**：可以使用群組設定內的[從通訊錄新增](https://support.microsoft.com/office/manage-yammer-community-members-75253554-d0f3-4148-b835-e6a9a8a0c294) (限制為 100 個使用者) 將使用者匯入到群組，或使用網路系統管理員內的[大量更新](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users)，將使用者匯入到網路。
+- **非原生模式**：可以使用群組設定內的 [從通訊錄新增](https://support.microsoft.com/office/manage-yammer-community-members-75253554-d0f3-4148-b835-e6a9a8a0c294) (限制為 100 個使用者) 將使用者匯入到群組，或使用網路系統管理員內的 [大量更新](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users)，將使用者匯入到網路。
 - **原生模式**：群組成員資格和網路成員資格作業應該從 [Microsoft 365 系統管理入口網站](https://docs.microsoft.com/microsoft-365/admin/add-users)、[Azure AD 入口網站](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)，或是使用另一個 Azure AD 選項執行。 原生模式的網路無法再存取大量更新和其他舊版功能。
 
 > [!IMPORTANT]
