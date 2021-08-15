@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10859"
 - "3500007"
-ms.openlocfilehash: a82d36cf91e2d28274c89bf7ebd39185666a09cb
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: f80432a0c0616ae922f63bf8bd4eb57e7c4187b05f82b58b21106a7f0c7863a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505841"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026573"
 ---
 # <a name="migrate-public-folders-to-microsoft-365-groups"></a>將公用資料夾移轉到 Microsoft 365 群組
 

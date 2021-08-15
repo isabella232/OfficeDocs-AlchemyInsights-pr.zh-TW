@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736061"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994856"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>將 ClientAccessServerEnabled 設定為 True
 
@@ -27,10 +27,10 @@ ms.locfileid: "50736061"
 1. 連線至 Exchange Online PowerShell。
 
 > [!NOTE]
-> 若要連線至 Exchange Online PowerShell，您必須使用全域管理員或 Exchange 系統管理員帳戶登入。
+> 若要連線至 Exchange Online PowerShell，您必須使用全域系統管理員或 Exchange 的系統管理員帳戶登入。
 
-   a. 開啟 [Windows PowerShell]，然後執行下列命令： `$UserCredential = Get-Credential`
-b. 在 [ **Windows PowerShell 憑證要求** ] 對話方塊中，輸入您的公司或學校帳戶，以及密碼 c。 點擊 **[確定]**。 
+   a. 開啟 Windows PowerShell，然後執行下列命令：`$UserCredential = Get-Credential`
+b. 在 [ **Windows PowerShell 認證要求**] 對話方塊中，輸入您的公司或學校帳戶，以及密碼 c。 按一下 ****[確定]。 
 
 2. 執行下列命令以建立新的會話：
 
@@ -49,5 +49,5 @@ b. 在 [ **Windows PowerShell 憑證要求** ] 對話方塊中，輸入您的公
 > [!TIP]
 > 請務必使用下列命令來關閉 powershell 會話： `Remove-PSSession $Session`
 
-如需詳細資訊，請參閱 [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)。
+如需詳細資訊，請參閱[Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)。
 

@@ -13,12 +13,12 @@ ms.custom:
 - "8000001"
 - "1988"
 - "1989"
-ms.openlocfilehash: 9dfb73673f9b0494165e04be3ac800cdeb5d9a31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f65a9c27144a5197ac609f664d662cebb97d2c7968a6de676b2132000fb16c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666357"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982472"
 ---
 # <a name="turn-off-focused-inbox"></a>關閉焦點收件匣
 

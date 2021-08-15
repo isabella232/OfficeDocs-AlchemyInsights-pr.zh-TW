@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8c7d1d384548beef56dda7fb5793e66daf15d68fa6d27999b09a6321579dfff6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017807"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>變更本機帳戶或 Microsoft 帳戶的名稱
 
@@ -31,13 +31,13 @@ ms.locfileid: "51818927"
 
 3. 選取您要變更的 **帳戶，然後按一下 [** 內容]，然後輸入 [使用者名稱] 的新名稱。
 
-4. 按一下 **[確定]**。
+4. 按一下 ****[確定]。
 
 如果您使用電子郵件地址和密碼登入，則表示您使用的是 Microsoft 帳戶。
 
 **若要變更您的 Microsoft 帳戶顯示名稱**：
 
-每當您登入您的帳戶時，就會使用您的顯示名稱。 它也是您在 Windows 10 裝置上看到的名稱，而是使用者在您傳送電子郵件時看到的名稱。 此名稱可能不同于您的本機帳戶顯示名稱。 以下說明如何變更您的顯示名稱：
+每當您登入您的帳戶時，就會使用您的顯示名稱。 它也是您在 Windows 10 裝置上看到的名稱，而是當您傳送電子郵件時，使用者會看到的名稱。 此名稱可能不同于您的本機帳戶顯示名稱。 以下說明如何變更您的顯示名稱：
 
 1. 登入 [Microsoft 帳戶網站](https://account.microsoft.com/)上的 [**您的資訊**] 頁面。
 

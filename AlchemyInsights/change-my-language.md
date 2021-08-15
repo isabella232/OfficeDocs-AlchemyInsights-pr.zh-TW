@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 87738a913841908e3d0075fb9aa2aacea1db0d70
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: defba7a3408ad86d4a74892124380f1a689cb88248e3443a6ba45e040bbe11a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818963"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018023"
 ---
 # <a name="change-my-language"></a>變更我的語言
 
 Outlook 應用程式會自動轉譯成您的裝置設定的語言。 
 
- (查看 [Outlook 中支援的語言清單](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated)。 )  
+ (會看到[Outlook 中支援的語言清單](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated)。 )  
 
 **若要變更裝置上的語言**： 
 
 **在 Android 上**： 
 
-- > 語言和輸入的裝置設定 
+- 裝置設定 > 語言和輸入 
 
 **IOS**： 
 
-- > 一般 > 語言 & 地區的裝置設定 
+- 裝置設定 > 一般 > 語言 & 地區 

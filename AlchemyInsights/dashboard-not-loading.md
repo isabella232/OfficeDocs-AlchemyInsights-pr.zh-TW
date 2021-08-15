@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002929"
 - "5608"
-ms.openlocfilehash: e800db4165a770f9980d2178dbad8ec2fc898858
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 13d9e5718051ecadbfc7e8c875d37ca2d2cdd24e48a5e9a391d578aa7c3cc2d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815642"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005585"
 ---
 # <a name="dashboard-not-loading"></a>儀表板未載入
 
 **徵狀：**
 
-儀表板可能會停滯在載入中的進度環，或是顯示一般錯誤訊息：「發生錯誤。 如需詳細資料，請參閱技術詳細資料。」
+儀表板可能會停滯在載入中的進度環，或是顯示一般錯誤訊息：「發生錯誤。如需詳細資訊，請查看技術詳細資料。」
 
 **疑難排解指南：**
 

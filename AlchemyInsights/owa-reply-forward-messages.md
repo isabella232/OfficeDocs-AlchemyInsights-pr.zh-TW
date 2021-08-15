@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000033"
-ms.openlocfilehash: cadb6894f044192d850252230729e264bab1e5db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9d7926c69454c2aafde4c4b8b566eb1ddad66e511e8e089e1383aa4dee4b1ad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728566"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982688"
 ---
 # <a name="how-to-reply-to-or-forward-messages-in-outlook-on-the-web"></a>如何在 Outlook 網頁版中回復或轉寄郵件
 
