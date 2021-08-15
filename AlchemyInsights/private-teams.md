@@ -1,5 +1,5 @@
 ---
-title: 私人團隊
+title: 私人 Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6258"
-ms.openlocfilehash: 84881abe0951eea2ae1e8e45c05fdb0977f1c285
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f92bd97ecf3145b4d27f14fdd788f7f83ddffb827871af3894aec78ba30f6a48
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835982"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960250"
 ---
-# <a name="managing-discovery-of-private-teams"></a>管理私人小組探索
+# <a name="managing-discovery-of-private-teams"></a>管理私人 Teams 探索
 
 **新團隊**
 
@@ -29,4 +29,4 @@ ms.locfileid: "51835982"
 
 小組擁有者可以直接在「小組設定」中設定現有私人團隊的探索設定，而系統管理員可以使用 PowerShell 來執行此動作。  
 
-如需詳細資訊，請參閱  [管理 Microsoft 團隊中的私營小組探索](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams)。
+如需詳細資訊，請參閱[管理 Microsoft Teams 中的私營小組探索](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams)。
