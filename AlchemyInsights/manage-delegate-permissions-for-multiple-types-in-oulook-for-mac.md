@@ -1,5 +1,5 @@
 ---
-title: 在 Outlook for Mac 中管理多個專案類型的代理人許可權
+title: 在 Mac 版 Outlook 中管理多個專案類型的代理人許可權
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 4c965ba7909fa78dea38bdd78907dcfdd9152ef7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962878"
 ---
-# <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>在 Outlook for Mac 中管理多個專案類型的代理人許可權
+# <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>在 Mac 版 Outlook 中管理多個專案類型的代理人許可權
 
 1. 在 [ **工具** ] 功能表上，選取 [ **帳戶**]，然後選取您要變更許可權的帳戶。
 2. 按一下 [ **高級**]，然後按一下 [ **代理人**]。

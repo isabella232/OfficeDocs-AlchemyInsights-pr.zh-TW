@@ -14,12 +14,12 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: 6b4db67aab55f309c83aeddf7744cbd047881bea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ffa499fc9f645d22390cd63a994204dc5857eb02b2a0793e700d3a3e2ef50546
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729034"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011399"
 ---
 # <a name="open-and-use-a-shared-mailbox-in-outlook"></a>在 Outlook 中開啟並使用共用信箱
 
@@ -33,6 +33,6 @@ ms.locfileid: "47729034"
 
 - [在 Windows 版 Outlook 中開啟並使用共用信箱](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd)
 
-- [在 Mac 版 Outlook 中開啟共用資料夾或信箱](https://support.office.com/article/Open-a-shared-folder-or-mailbox-in-Outlook-for-Mac-6ecc39c5-5577-4a1d-b18c-bbdc92972cb2) \(機器翻譯\)
+- [在 Mac 版 Outlook 中開啟共用資料夾或信箱](https://support.office.com/article/Open-a-shared-folder-or-mailbox-in-Outlook-for-Mac-6ecc39c5-5577-4a1d-b18c-bbdc92972cb2)
 
 - [將共用信箱新增至 Outlook Mobile (iOS 與 Android 版 Outlook)](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)。
