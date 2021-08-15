@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001731"
 - "3830"
-ms.openlocfilehash: 83533db037265355bccb227abac2b3073d3b4215
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d69837f186df478b85797b59494ba3d4ee25d71d9e2224ac1803fc835da33fd9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816155"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994640"
 ---
 # <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a>建立包含組織內所有人的全組織團隊
 
