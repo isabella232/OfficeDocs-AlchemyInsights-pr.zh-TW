@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1124"
 - "6700007"
-ms.openlocfilehash: ee2fb1df35168d5febbac0ae302106eef9d1d18d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd796440a0d4bedc83b99e83e92eece6f62f81cc8d346cd88d19de34221046db
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757615"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991166"
 ---
 # <a name="update-ios-device-to-latest-os-version"></a>將 iOS 裝置更新為最新 OS 版本
 

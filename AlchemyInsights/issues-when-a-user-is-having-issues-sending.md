@@ -12,12 +12,12 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 66c651d2-7e58-4bd8-a009-05065e644043
-ms.openlocfilehash: e32347b4ad49b05ee34e21482f3e7d491290ad6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b51593d9d288dd6cdcdf39c0788e378a24197b8cd9f8780759af6d7462843a75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676909"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001249"
 ---
 # <a name="a-user-is-having-issues-sending-email-messages"></a>使用者傳送電子郵件訊息時出現問題
 
