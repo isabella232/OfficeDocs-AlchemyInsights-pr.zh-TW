@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6847"
-ms.openlocfilehash: 36755f68e45d3a0099c0e378e166bff82362e490
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: e2cedead6e93fa7303e5d54b8d79fda14ae2cb9987a17986c6327ac78189c4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999195"
 ---
 # <a name="subscription-cancelled---legacy---free-account"></a>取消訂閱-不限傳統帳戶
 

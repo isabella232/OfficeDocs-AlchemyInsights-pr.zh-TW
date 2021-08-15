@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 移除 Skype
+title: Outlook .com 移除 Skype
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: f5494dec1960daea144fb2e2ddd0413689e03ab3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 03a866ac063d6136a5069b22216a9f3bf43a1202f9020f16ac5edb7cf89ce9ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962086"
 ---
-# <a name="skype-icon-missing"></a>丟失 Skype 圖示
+# <a name="skype-icon-missing"></a>Skype 圖示遺失
 
-我們已暫時從 Outlook.com 中移除 Skype 圖示做為設計重新整理和功能更新的一部分，我們十分高興。我們建議您耐心等候，我們為您準備新的和改善的體驗。
+我們暫時從 Outlook 中移除 Skype 圖示做為設計重新整理和功能更新的一部分，我們非常高興。我們建議您耐心等候，我們為您準備新的和改善的體驗。
 
-您仍然可以透過瀏覽器透過 [web.skype.com](https://web.skype.com/)使用 Skype。
+您仍然可以在[web.skype.com](https://web.skype.com/)上透過瀏覽器使用 Skype。

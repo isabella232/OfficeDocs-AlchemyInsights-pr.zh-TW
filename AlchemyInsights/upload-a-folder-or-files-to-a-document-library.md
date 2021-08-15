@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 3a9dd0c1ec89c6df65e92f46740b646bd73ed9e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7f954d85a6b682a5e683e7216b71e694e8013e9a6145b9c7f119d3b2a5b78965
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805814"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990626"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>將資料夾或檔案上傳至 SharePoint 文件庫
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Upload 資料夾或檔案至 SharePoint 文件庫
 
 若要上傳資料夾，您必須使用 Microsoft Edge、Google Chrome 或 Mozilla FireFox。 您無法上傳傳統文件庫經驗或使用 Internet Explorer 10 或11中的資料夾。
   
@@ -29,6 +29,6 @@ ms.locfileid: "47805814"
     
 3. 拖曳資料夾或檔案至文件庫。 如果您未看到您上傳的專案出現在文件庫中，請重新整理頁面。 
     
-如果您不想要在 windows 間拖曳專案上傳，您也可以使用文件庫中的 [ **上傳** ] 按鈕，選取您要上傳的資料夾。 
+如果您不想要在 windows 間拖曳專案來上傳，您也可以使用文件庫中的 [ **Upload** ] 按鈕，選取您要上傳的資料夾。 
   
 

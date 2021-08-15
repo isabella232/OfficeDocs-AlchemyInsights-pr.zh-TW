@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: a2363ff72348b53a73d06bcedbd875ebf3341c3b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c97350c1d887c55a8bdd377b0d3a83cd84323aa4ed024a9562138bab7a5777e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51792303"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025637"
 ---
 # <a name="you-need-permission-to-access-this-site"></a>您需要存取此網站的許可權
 
-[SharePoint Online 和商務 OneDrive 中的「拒絕存取」、「您需要存取此網站的許可權」或「目錄中找不到的使用者」錯誤](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+[SharePoint Online 及商務用 OneDrive 中的「拒絕存取」、「您需要存取此網站的許可權」或「目錄中找不到的使用者」錯誤](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)

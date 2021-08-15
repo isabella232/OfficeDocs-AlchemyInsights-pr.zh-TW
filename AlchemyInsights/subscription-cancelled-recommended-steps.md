@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6848"
-ms.openlocfilehash: da4f7456359b04619a505d3c9fd378387c255a24
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 31480f84c8eed63163b1436246eaf1812f15f6d7c2dad29653b2019f8a15f1af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560640"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999015"
 ---
 # <a name="subscription-cancelled---legacy---spending-limit"></a>取消訂閱-舊版-花費限制
 
@@ -30,7 +30,7 @@ ms.locfileid: "49560640"
 請執行下列步驟來移除花費限制，並重新啟用您的訂閱：
 
 1. 以帳戶管理員身分登入 [Azure 入口網站](https://portal.azure.com/) 。
-2. 搜尋 **成本管理 + 帳單**。
+2. 搜尋 **[成本管理] + [計費]**。
 3. 在 [ **我的訂閱** ] 清單中，選取免費試用/帳戶訂閱。
 4. 在 [訂閱簡介] 中，按一下橙色橫幅以移除花費限制。
 5. 選擇您是否要無限期或僅限目前的計費期間移除支出限制。

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 71be9bd2d69129cde16827371b71881ddb1284b19534ca48eb7079e761bdcff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010355"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Azure 入口網站中的支付發票-建議步驟
 
@@ -36,9 +36,9 @@ ms.locfileid: "49755610"
 1. 選取支付方式後，按一下 [ **立即付款**]。
 發票的狀態將更新為 [發票薄片] 中的 [已支付]。
 
-**建議的檔**
+**建議的文件**
 
-- [如何支付您的 Microsoft Azure 帳單](https://docs.microsoft.com/azure/cost-management-billing/understand/pay-bill)
-- [變更付款條件-常見問題](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [變更帳單設定檔的支付方式](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
+- [如何支付帳單的 Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/pay-bill)
+- [變更付款方式 - 常見問題集](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [變更帳單設定檔的付款條件](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
 - [檢查 Microsoft 客戶合約的存取權](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)

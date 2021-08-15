@@ -13,14 +13,14 @@ ms.custom:
 - "406"
 - "4000004"
 ms.assetid: 028e76e7-9701-4450-9fc9-f40232e8e68e
-ms.openlocfilehash: d5720214e1d067fc9a2c2e6227955e715e2356f3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e972ef37c0b7d2aa2c4771d5d7c95c1df8e24ccd6f16fbe020900d10ea42de0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831401"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009995"
 ---
 # <a name="problems-signing-in-to-microsoft-skype-for-business"></a>登入 Microsoft 商務用 Skype 的問題
 
-下載並使用 [支援與修復助理 (SaRA) ](https://aka.ms/SaRA-SkypeForBusinessSignIn)。
-此工具可協助您自動診斷和修正與登入商務用 Skype 相關的已知問題範圍。
+下載並使用[支援及修復小幫手 (SaRA) ](https://aka.ms/SaRA-SkypeForBusinessSignIn)。
+這項工具可協助您自動診斷和修正與登入商務用 Skype 相關的已知問題範圍。

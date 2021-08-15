@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8306"
 - "9004429"
-ms.openlocfilehash: 684784edef5888917829672164a21b133df23336
-ms.sourcegitcommit: e9fcd72e64d35f5ba14dfa0fbde39eae20d86cfe
+ms.openlocfilehash: 1238d6ef90a158766ca1829bd9fd4bdba76ab2a29305bfaeba90d2ddfaf76ccb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53603266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999004"
 ---
 # <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Microsoft Edge 同步處理與 Azure Active Directory 帳戶共同作業所需的訂閱
 

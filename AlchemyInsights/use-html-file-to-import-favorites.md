@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9447"
 - "9005491"
-ms.openlocfilehash: bc0346a8af9461142df984e6e80c9a3490d3ab5e
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.openlocfilehash: 501b6dd995ef20c00448d776ad0a19498fe05d1019b933857387a82087d45ce1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51441150"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990590"
 ---
 # <a name="use-an-html-file-to-import-favorites-to-microsoft-edge"></a>使用 HTML 檔案將我的最愛匯入至 Microsoft Edge
 

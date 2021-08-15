@@ -1,5 +1,5 @@
 ---
-title: 需要 Outlook.com 帳戶的協助
+title: 需要 Outlook .com 帳戶的協助
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: cf08692f42bb823a48455a595555fb1593b40070
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0b2e5e92eb009f7027e9795e358485f3d22e979fb7126285694dd2b3a7ea70b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51792375"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025745"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>需要 Outlook.com 帳戶的協助
+# <a name="need-help-with-my-outlookcom-account"></a>需要 Outlook .com 帳戶的協助
 
-如果您需要協助 Outlook.com 服務，我們有專用協助可協助您。 若要在 web 應用程式上直接取得支援： 
+如果您需要 Outlook .com 服務的協助，我們有專屬協助可協助您。 若要在 web 應用程式上直接取得支援： 
 
 1. 按一下 [是]。 圖示位於螢幕右上方。 
 
