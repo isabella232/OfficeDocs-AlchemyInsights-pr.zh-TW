@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 7c25bf8f783ca067112d0d4e5d53970324376d7c435bfc22987508edc03f9e02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755790"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976748"
 ---
 # <a name="make-immediate-payment---recommended-steps"></a>進行立即付款-建議的步驟
 
@@ -36,11 +36,11 @@ ms.locfileid: "49755790"
 
 - 如果國際交易是放在卡片上。 
 - 如果信用卡有信用額度以結算餘額 
-- 如果在卡片上啟用定期付款 
+- 是否信用卡已啟用週期性付款 
 
 如果您的付款遭到拒絕，請確認 (PI) 是否遭到謝絕，以防您有多個 Pi 與訂閱相關聯。 如有需要，請變更或移除您的 PI 從訂閱。 
 
-**建議的檔** 
+**建議的文件** 
 
 - [管理 Azure 的帳單資訊存取權](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [從 Azure 帳戶中心下載發票或使用狀況資料](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)

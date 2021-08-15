@@ -1,5 +1,5 @@
 ---
-title: 在 Excel 中儲存檔疑難排解
+title: 疑難排解 Excel 中的檔儲存
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000703"
 - "2608"
-ms.openlocfilehash: 809774fd5a8c1fea087d1c9f000f24f3d56175b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2bc46157a4c129fb41c098dc89e56dff810a67ff191c22b1fcfad045077d4519
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832157"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039309"
 ---
 # <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a>如何疑難排解儲存 Excel 活頁簿時出現的錯誤
 
-如果您在 Excel 中儲存活頁簿時遇到問題，請參閱 how [ to 疑難排解當您儲存 excel 活頁簿時的錯誤](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)。
+如果在 Excel 中儲存活頁簿時遇到問題，請參閱 how [to 疑難排解當您儲存 Excel 活頁簿時的錯誤](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)。

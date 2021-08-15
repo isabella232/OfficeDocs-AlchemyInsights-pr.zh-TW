@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003246"
 - "9327"
-ms.openlocfilehash: d11c24719eb2db9e9fd87c158c80cec5cb75b946
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 872333e13bb51b3a22431154627ad561f6db88c681c9eeee523fdd09e58c0371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039237"
 ---
 # <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>疑難排解 Azure AD 聯結裝置的單一登入
 
-如果您有內部部署 Active Directory (AD) 環境，且想要將您的 AD 網域加入的電腦加入 Azure AD，您可以執行混合式 Azure AD join 以達成此目的。 How [To： Plan the 混合式 Azure Active Directory join 實現](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan)提供您在環境中實施混合式 azure AD 聯結的相關步驟。
+如果您有內部部署 Active Directory (AD) 環境，且想要將您的 AD 網域加入的電腦加入 Azure AD，您可以執行混合式 Azure AD join 以達成此目的。 how [To： Plan a 混合式 Azure Active Directory join 實現](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan)提供您在環境中實施混合式 Azure AD 聯結的相關步驟。
 
-如需詳細資訊，請參閱 [Configure AZURE AD join 裝置 for 內部部署 Single-Sign on Using Windows Hello 企業版](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base)。
+如需詳細資訊，請參閱[Configure Azure AD join 裝置 for 內部部署 Single-Sign on using Windows Hello for Business](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base)。
 
 **主要更新權杖 (PRT) 問題**
 
-主要重新整理權杖 (PRT) 是 Windows 10、Windows Server 2016 和更新版本、iOS 和 Android 裝置上的 Azure AD 驗證主要專案。 它是一種 JSON Web Token (JWT) 發佈給 Microsoft 第一方權杖代理人，以啟用在這些裝置上所使用之應用程式的單一登入 (SSO) 。 如需如何在 Windows 10 裝置上發行、使用及保護 PRT 的詳細資訊，請參閱 [什麼是主要重新整理權杖？](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)。
+主要重新整理權杖 (PRT) 是 Windows 10、Windows Server 2016 和更新版本、iOS 和 Android 裝置上的 Azure AD 驗證主要專案。 它是一種 JSON Web Token (JWT) 發佈給 Microsoft 第一方權杖代理人，以啟用在這些裝置上所使用之應用程式的單一登入 (SSO) 。 如需如何在 Windows 10 裝置上發行、使用及保護 PRT 的詳細資訊，請參閱[什麼是主要重新整理權杖？](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)。
 
 **WamDefaultSet： YES 和 AzureADPrt： YES**
 
