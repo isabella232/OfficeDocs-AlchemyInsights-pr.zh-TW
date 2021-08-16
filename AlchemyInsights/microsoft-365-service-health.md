@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 649c36d848223613c6188f600bb8f041fd205078c2a2d3ce66cb3387a4f84bd7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098449"
 ---
 # <a name="microsoft-365-service-health"></a>Microsoft 365 服務健康情況
 
@@ -30,4 +30,4 @@ ms.locfileid: "51794463"
 
 - 選取 [歷程 **記錄** ]，以查看組織的服務健康情況歷程記錄。 
 
-如需詳細資訊，請參閱 how [to Check Microsoft 365 服務 health](https://docs.microsoft.com/office365/enterprise/view-service-health)。 
+如需詳細資訊，請參閱 how [to check Microsoft 365 service health](https://docs.microsoft.com/office365/enterprise/view-service-health)。 
