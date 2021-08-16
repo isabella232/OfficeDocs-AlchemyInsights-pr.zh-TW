@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005290"
 - "9120"
-ms.openlocfilehash: edd40fe12560beac0b5650349d3426ce0c3313bf
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 894ef204e6725b2d5cfeb24a3e0af73d6b131234ececd771454cae3800acac8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735881"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071935"
 ---
 # <a name="camera-app-privacy-settings"></a>相機應用程式隱私權設定
 

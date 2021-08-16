@@ -1,5 +1,5 @@
 ---
-title: 以遠端方式修正上架 Windows 10 裝置至 Microsoft Defender 高級威脅防護的問題
+title: 遠端修正將 Windows 10 裝置加入 Microsoft Defender 高級威脅防護的問題
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5473d090f6d4680f9a62f34f943ac6cea53b2079
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 44969436c99b182cb4202fa60e2deb7d6ea3f460e48ee4649de1cfb646970f34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736070"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034025"
 ---
-# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>以遠端方式修正上架 Windows 10 裝置至 Microsoft Defender 高級威脅防護的問題
+# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>遠端修正將 Windows 10 裝置加入 Microsoft Defender 高級威脅防護的問題
 
 若您可以存取遠端電腦，請執行下列步驟：
 
