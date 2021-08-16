@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00516d08384cd29de46c7f49bcd673f285d56a8c349fc2adefa5ea2173abd7b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677161"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028427"
 ---
 # <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>流覽至 Sharepoint 或 OneDrive 網站時發生內部伺服器錯誤
 
@@ -25,7 +25,7 @@ ms.locfileid: "47677161"
 
 1. 在 Microsoft Edge 瀏覽器中，移至 [更多 ...] > 設定
 
-2. 在 [清除流覽資料] 下，選取 **[選擇要清除**的專案]
+2. 在 [清除流覽資料] 下，選取 **[選擇要清除** 的專案]
 
 3. 選取 [Cookie 及儲存的網站資料] 核取方塊，然後選取 [ **清除**]。
 
