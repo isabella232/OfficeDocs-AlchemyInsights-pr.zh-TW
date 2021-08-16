@@ -1,5 +1,5 @@
 ---
-title: 8000066-規則 2-Outlook.com 已駭客攻擊-西班牙文
+title: 8000066-Rule 2-Outlook .com-西班牙文
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,14 +14,14 @@ ms.custom:
 - "1140"
 - "8000066"
 - "8000067"
-ms.openlocfilehash: f7b66212cbea119b5cfe6d6d131506020c0d6051
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28167e392ab581d24f44a5ffebce49597ec7abe5ea6a1520b70d99382bbb6e2b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724177"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096253"
 ---
-# <a name="han-pirateado-mi-cuenta-de-outlookcom"></a>漢字 pirateado mi cuenta de Outlook.com
+# <a name="han-pirateado-mi-cuenta-de-outlookcom"></a>漢語 pirateado mi cuenta de Outlook .com
 
 Si su cuenta se ha pirateado significa mail.que alguien robó la contraseña y es posible mail.que esté usando la cuenta 段落 obtener acceso a su información 個人 o enviar correo no deseado。
 

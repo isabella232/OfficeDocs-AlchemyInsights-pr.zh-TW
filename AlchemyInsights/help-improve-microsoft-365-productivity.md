@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004612"
 - "8268"
-ms.openlocfilehash: 599b914e15e86e7899988a0178864b24d1782af1
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 4a7aae1a1e95aa6e8d35a57ed7a7de692cf85901fc6879bcaa8dade37456eba3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50255149"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002183"
 ---
 # <a name="help-improve-microsoft-365-productivity"></a>協助改善 Microsoft 365 生產力
 
-生產力分數支援您組織的數位轉換，以及如何使用 Microsoft 365 產品及技術背後的相關深入資訊。
+生產力分數可支援組織的數位轉換，以及如何使用 Microsoft 365 產品及技術背後的技術深入瞭解。
 
 若要深入了解，請參閱：
 

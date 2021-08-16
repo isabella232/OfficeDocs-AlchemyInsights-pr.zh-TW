@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825362"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000347"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>從 AIP 移轉至合規性中心的 MIP/統一標籤
 
@@ -39,7 +39,7 @@ ms.locfileid: "51825362"
 
 4. 在 [Azure 資訊保護 - 統一標籤 **]** 刀鋒視窗上，按一下 [啟用 **]**，並遵循線上指示進行。
 
-**附註**：請先驗證您擁有適當的權限，再啟動安全性與合規性中心移轉。 如需詳細資訊，請參閱下列文章：
+**注意**：請先驗證您擁有適當的權限，再啟動安全性與合規性中心移轉。如需詳細資訊，請參閱下列文章：
 
 1. [必須是全域系統管理員才能設定 Azure 資訊保護，或者我可以委派給其他系統管理員嗎？](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
 

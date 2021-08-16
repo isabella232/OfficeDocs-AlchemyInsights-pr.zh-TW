@@ -1,5 +1,5 @@
 ---
-title: Outlook Mobile 在選擇可用性時未看到行事曆
+title: Outlook行動裝置在選擇可用性時看不到行事曆
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "3070"
 - "9001109"
-ms.openlocfilehash: e0523100caead474b63ef8ddfcd4622ccbd3669c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 150d0f470571a5e78124634f190ea61f2c5debbd13925af133c83b351bb6c6f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721798"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000311"
 ---
 # <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>我在選擇可用時看不到預期的行事曆
 

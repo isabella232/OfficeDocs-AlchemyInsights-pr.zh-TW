@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 86ff5f7fbaed62de9047006bf4ba4d2db2be3def
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b42cf276a76547584c8cfd87b5a28f31d51ea7f8ca56621b22aeef01e4613ce6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666861"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000377"
 ---
 # <a name="modern-site-as-root-site"></a>新式網站為根網站
 
@@ -30,4 +30,4 @@ ms.locfileid: "47666861"
 - 目標網站可能會在 HTTP 404) 錯誤的一小段時間內傳回「找不到」 (。
 - 內容將需要重新編目更新搜尋索引。 沒有必要手動步驟，這將會自動完成。
 - 任何依存于「靜態」連結 (（例如檔案同步處理及 OneNote 檔案）的內容，) 將需要手動修正。
-- 可能需要驗證 Project Server 網站，以確保它們仍然有正確相關聯。 
+- Project您可能需要驗證服務器網站，以確保它們仍然有正確關聯。 

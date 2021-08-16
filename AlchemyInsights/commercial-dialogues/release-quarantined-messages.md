@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966964"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58296042"
 ---
 # <a name="release-quarantined-messages"></a>釋放隔離的郵件
 
-您可以放開隔離的郵件 (或設定) 所有收件者的郵件，或是只從所有收件者的清單中選擇的特定人員發行郵件。
+您可以放開隔離的郵件 (或設定) 所有收件者的郵件，或是只從所有收件者的清單中選擇的特定人員發行郵件。 方法如下：
 
-1. 移至 [安全性 & 規範中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)。
-2. 移至 **威脅管理**  >  **回顧**  >  **隔離**。
-3. 選擇您要放開)  (s 郵件。
-4. 在您發佈訊息之後，請 **選擇 [** 重新整理] 以重新整理資料，然後按兩下郵件。 您應該會看到郵件已發佈給預定的收件者。
+1. 在 Microsoft 365 Defender 入口網站上 <https://security.microsoft.com> ，移至 [**電子郵件 & 協同** \> **查看** \> **隔離區**]。
+
+   若要直接移至 [ **隔離** ] 頁面，請使用 <https://security.microsoft.com/quarantine> 。
+
+2. 在 [ **隔離** ] 頁面上，確認已選取 [ **電子郵件** ] 索引標籤，然後執行下列其中一個步驟：
+   - **單一郵件**：選取郵件。 在出現的 [詳細資料] 浮出控制項中，選取 [ **發行電子郵件**]，設定您要的選項，然後按一下 [ **發行訊息**]。
+   - **多封郵件**：選取最多100封郵件可將郵件發佈給所有收件者 (您無法指定個別原始收件者) 。 在出現的 [ **大量動作** ] 下拉式清單中，選取 [ **放開郵件**]，設定您要的選項，然後按一下 [ **發行訊息**]。
+
+如需詳細資訊，請參閱下列文章：
+
+- [以使用者身分找到並釋放被隔離的郵件](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [以系統管理員身分管理被隔離的郵件與檔案](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

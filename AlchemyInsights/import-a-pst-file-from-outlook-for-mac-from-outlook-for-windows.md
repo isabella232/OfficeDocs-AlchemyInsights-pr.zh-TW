@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d18a5e56c758119bec0cbed9e60fb015ff17855b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53987386"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295898"
 ---
 # <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>從 Outlook 匯入 .pst 檔案，以 Windows Mac 版 Outlook 
 
@@ -53,8 +53,7 @@ ms.locfileid: "53987386"
 
    匯入的專案會出現在 [ **我的電腦**] 底下的 [功能窗格] 中。
 
-> [!NOTE]
-> Mac 版 Outlook 只能匯入 Unicode 型 .pst 檔案，這是 Outlook (的個人資料夾檔案的標準格式，Windows) 2003 和更新版本。 ANSI 格式的 .pst 檔案（也稱為 Outlook 97-2002 個人資料夾檔）是標準的個人資料夾格式，可將資料儲存在 Outlook 中 Windows 97-2002 版。 這種檔案格式無法匯入 Mac 版 Outlook。 如果您有舊版本的 ANSI 格式 .pst 檔案，則不會將該檔案轉換成較新的檔案格式。 不過，您可以在 Microsoft Outlook 中建立新的 Outlook 資料檔案)  ( Windows 2003 或更新版本，然後將舊檔案中的專案匯入新檔案。 然後，您可以將新的 .pst 檔案匯入 Mac 版 Outlook。 如需如何建立 .pst 檔案及匯入專案的詳細資訊，請 **參閱 Outlook** Windows 版本的說明。
+**附注**： Mac 版 Outlook 只能匯入以 Unicode 為基礎的 .pst 檔案，這是 Outlook (Windows) 2003 和更新版本的 [個人資料夾] 檔的標準格式。 ANSI 格式的 .pst 檔案（也稱為 Outlook 97-2002 個人資料夾檔）是標準的個人資料夾格式，可將資料儲存在 Outlook 中 Windows 97-2002 版。 這種檔案格式無法匯入 Mac 版 Outlook。 如果您有舊版本的 ANSI 格式 .pst 檔案，則不會將該檔案轉換成較新的檔案格式。 不過，您可以在 Microsoft Outlook 中建立新的 Outlook 資料檔案)  ( Windows 2003 或更新版本，然後將舊檔案中的專案匯入新檔案。 然後，您可以將新的 .pst 檔案匯入 Mac 版 Outlook。 如需如何建立 .pst 檔案及匯入專案的詳細資訊，請 **參閱 Outlook** Windows 版本的說明。
 
 **開啟 Outlook 的資料檔案 ( .pst 或 olm)**
 
@@ -72,8 +71,7 @@ ms.locfileid: "53987386"
 
 匯入的專案會出現在 [ **我的電腦**] 底下的 [功能窗格] 中。
 
-> [!NOTE]
-> Mac 版 Outlook 只能匯入 Unicode 型 .pst 檔案，這是 Outlook (的個人資料夾檔案的標準格式，Windows) 2003 和更新版本。 ANSI 格式的 .pst 檔案（也稱為 Outlook 97-2002 個人資料夾檔）無法匯入 Mac 版 Outlook 中。 如果您有舊版本的 ANSI 格式 .pst 檔案，則不會將該檔案轉換成較新的檔案格式。 不過，您可以在 Microsoft Outlook 中建立新的 Outlook 資料檔案)  ( Windows 2003 或更新版本，然後將舊檔案中的專案匯入新檔案。 然後，您可以將新的 .pst 檔案匯入 Mac 版 Outlook。 如需如何建立 .pst 檔案及匯入專案的詳細資訊，請參閱 Outlook Windows 版本的說明。 
+**附注**： Mac 版 Outlook 只能匯入以 Unicode 為基礎的 .pst 檔案，這是 Outlook (的個人資料夾檔案的標準格式，Windows) 2003 和更新版本。 ANSI 格式的 .pst 檔案（也稱為 Outlook 97-2002 個人資料夾檔）無法匯入 Mac 版 Outlook 中。 如果您有舊版本的 ANSI 格式 .pst 檔案，則不會將該檔案轉換成較新的檔案格式。 不過，您可以在 Microsoft Outlook 中建立新的 Outlook 資料檔案)  ( Windows 2003 或更新版本，然後將舊檔案中的專案匯入新檔案。 然後，您可以將新的 .pst 檔案匯入 Mac 版 Outlook。 如需如何建立 .pst 檔案及匯入專案的詳細資訊，請參閱 Outlook Windows 版本的說明。 
 
 **從封存或舊版本開啟 entourage 專案**
 
@@ -83,7 +81,7 @@ ms.locfileid: "53987386"
 
 2. 按一下 [封存] 或 [舊版] 中的 [ **Entourage 資訊**]，按一下向右箭號，然後依照指示執行。
 
-> [!NOTE]
+**附注**：
 - 如果您使用的是具有 Entourage 的 Microsoft Exchange 帳戶，則在匯入程式完成後，會從 Exchange 伺服器下載 Exchange 帳戶中的所有專案。 所有與 Exchange 帳戶相關的規則或排程，都必須在 Outlook 中重新配置。
 
 - 如果您匯入 entourage 2004 或 Entourage 2008 中的專案，則 Exchange 帳戶中專案的類別資訊不會匯入 Outlook 中。 不過，使用 Entourage 2008，Web Services Edition，會從 Exchange 伺服器下載類別資訊。
@@ -100,8 +98,7 @@ ms.locfileid: "53987386"
 
 3. 在 [搜尋] 方塊中，輸入您要移動的資料夾名稱，然後按一下 [ **移動**]。
 
-> [!TIP]
-> 若要將封存資料夾中的專案複製到 Outlook 中的另一個資料夾，只需將該專案拖曳至您要放置該複本的資料夾。
+   **提示**：若要將專案從封存資料夾複製到 Outlook 中的另一個資料夾，只需將該專案拖曳至您要放置該副本的資料夾。
 
 **另請參閱**
 
