@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7333"
-ms.openlocfilehash: 1d6e8c916a6910e4d0ad5fc3e8395d25399389fd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 87527ffb4db54e95a1aa1a4b6093f1b65cc6f595584c6e04c9657ee7210f0201
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066787"
 ---
 # <a name="manage-delegate-permissions-for-a-single-folder-in-outlook-for-mac"></a>管理 Mac 版 Outlook 中單一資料夾的委派許可權
 

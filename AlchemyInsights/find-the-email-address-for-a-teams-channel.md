@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002512"
 - "5580"
-ms.openlocfilehash: 0a146728b6bd2d57bd299c7f17993a82d7ccef9e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9042d372e88391b02b91f9eee2121963c60a437abfc39c818adcfcb76a17357b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812959"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988146"
 ---
 # <a name="find-the-email-address-for-a-teams-channel"></a>尋找 Teams 頻道的電子郵件地址
 
