@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3171"
-ms.openlocfilehash: 456d3e610e24534503dec86dfc0f5e6180866ded
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0fc98cceede7ba565dc40ff650aa3b414870f93760fbb02039bd6f6469fdbf07
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015503"
 ---
 # <a name="how-to-share-a-sharepoint-site"></a>如何共用 SharePoint 網站
 

@@ -1,5 +1,5 @@
 ---
-title: 8000073 Outlook.com 帳戶駭客攻擊-法文
+title: 8000073 Outlook .com 帳戶遭受駭客攻擊-法文
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom:
 - "1151"
 - "8000073"
-ms.openlocfilehash: 803efdcc24eee7082ce90ee439e9836e269bc5b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aaacc7d3191b858d41765b076a0e61a5e2d0d69ae59df5ac21c9c65ce298f5a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769066"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041541"
 ---
-# <a name="mon-compte-outlookcom-a-t-pirat"></a>週一至 compte Outlook.com a été piraté
+# <a name="mon-compte-outlookcom-a-t-pirat"></a>週一至 compte Outlook .com a été piraté
 
 Si votre compte a été piraté，cela signifie mail.que quelqu'un s'est procuré votre mot passe et qu'il peut utiliser votre compte 澆築 accéder à vos personnelles ou envoyer des courriers indésirables。
 
