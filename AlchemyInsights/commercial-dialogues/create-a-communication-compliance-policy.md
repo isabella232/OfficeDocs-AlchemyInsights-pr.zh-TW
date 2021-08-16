@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ff20ee8ac33598e6f21855a2496b730ca60fd320
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b5724b4534ec17a28ebc1747a752e5bac2f14beea58146fffd8f35fad1e07edc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735838"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995036"
 ---
 # <a name="create-a-communication-compliance-policy"></a>建立通訊合規性原則
 
-這是必要步驟。 您可以在 Microsoft 365 規範中心建立通訊符合性原則。 方法如下：
+這是必要步驟。 您可以在 Microsoft 365 合規性中心中建立通訊符合性原則。 方法如下：
 
-1. 在 [ [Microsoft 365 規範中心](https://go.microsoft.com/fwlink/?linkid=2130502)] 中，選取 [ **通訊符合性**]。
-2. 選取 [原則] 索引標籤。
+1. 在 [Microsoft 365 合規性中心](https://go.microsoft.com/fwlink/?linkid=2130502)中，選取 [**通訊符合性**]。
+2. 選取 [原則]**** 索引標籤。
 3. 選取 [ **建立原則** ]，以從範本建立及設定新原則，或建立及設定自訂原則。
 4. 完成時，如果使用自訂原則嚮導，請選取 [使用範本] 或 [**提交** 原則] 中的 [**建立原則**]。
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5712"
-ms.openlocfilehash: d54125d735db7c169b2e5b0394675dd65b62f8f1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: eacab5a9cb713250e30a6a5c0fe542d250e292f0dc29a1f890f9cf7c7fb8344c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817199"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033629"
 ---
 # <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>在 SharePoint 文件庫上設定 IRM 原則，以限制內容的下載
 
