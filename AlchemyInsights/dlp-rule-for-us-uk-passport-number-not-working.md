@@ -13,12 +13,12 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: c6c7191f380f264113e2042f2869d9767922b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85e3ed7fdc221981de13ab6e2ada8adf2a3a80b40ff163981e047cc4a02a1514
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004937"
 ---
 # <a name="problems-with-dlp---usuk-passport-numbers"></a>DLP-US/英國護照號碼的問題
 
@@ -26,7 +26,7 @@ ms.locfileid: "47679215"
 
 **美國/英國護照號碼的 DLP 問題**
 
-當您在 O365 使用 DLP 敏感資訊類型時， **資料遺失防護 (dlp) ** 無法處理包含 **美國/英國護照號碼** 的內容時，是否有問題？ 如果是的話，請確定您的內容中包含 DLP 原則在評估時所需的資訊。
+當您在 O365 使用 DLP 敏感資訊類型時， **資料遺失防護 (dlp)** 無法處理包含 **美國/英國護照號碼** 的內容時，是否有問題？ 如果是的話，請確定您的內容中包含 DLP 原則在評估時所需的資訊。
   
 例如，對於設定為信賴等級為75% 的 **美國/英國護照號碼** 原則，會評估下列各項，而且必須偵測到規則才能觸發
   
