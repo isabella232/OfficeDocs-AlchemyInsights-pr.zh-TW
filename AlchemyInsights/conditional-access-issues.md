@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7768"
-ms.openlocfilehash: 7c20b26e3a038dc4392684ca410eba97cec2df30
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 85cbd89e461f36a51eed816619fd132ea60dfdb0014eb850c7ec3f38d41e1ca2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013928"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069955"
 ---
 # <a name="conditional-access-issues"></a>條件式存取問題
 
@@ -41,7 +41,7 @@ ms.locfileid: "50013928"
 
 - 僅限報告模式可讓您評估原則，而不會影響使用者。
 - 假設工具可讓您模擬登入事件，並查看適用的原則。
-- Insights 與報告活頁簿會顯示每個原則的即時影響。
+- Insights 和報告活頁簿會顯示每個原則的即時影響。
 
 **基準保護原則**
 
@@ -49,7 +49,7 @@ ms.locfileid: "50013928"
 
 如需條件式存取的詳細資訊，請參閱：
 
-[在 Azure Active Directory 中進行條件式存取的最佳作法](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
+Azure Active Directory 中條件式[存取的最佳作法](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
 [條件式存取](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
  中的條件[條件式存取](https://docs.microsoft.com/azure/active-directory/conditional-access/controls)  
  中的控制項[條件式存取中的位置](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition)

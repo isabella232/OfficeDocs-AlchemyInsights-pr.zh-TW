@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 28242fdf28bb733e0234f299017e333152e209ba
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1168aa76740962e1a24395aea9c252202cfcb88eea12431060b9e4aa0e55335e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735972"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058569"
 ---
 # <a name="grant-permissions-to-use-features-in-the-office-365-security--compliance-center"></a>授與在 Office 365 安全性與合規性中心使用功能的權限
 

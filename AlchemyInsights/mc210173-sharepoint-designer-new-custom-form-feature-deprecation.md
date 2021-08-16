@@ -14,12 +14,12 @@ ms.custom:
 - "5508"
 - "9000127"
 - "5507"
-ms.openlocfilehash: 5be1ac4c8a4044adbc7d37c32ba7b3cb67c6cc25
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f72d6ce6931b39d5d4a4835cee0ed2952407b13187213cca5bd483acb1e192bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831797"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077644"
 ---
 # <a name="mc210173---sharepoint-designer-new-custom-form-feature-deprecation"></a>MC210173 - SharePoint Designer 新自訂表單功能取代
 
@@ -29,6 +29,6 @@ ms.locfileid: "51831797"
 
 先前使用 SharePoint Designer 建立自訂表單的使用者，可以將 [PowerApps](https://docs.microsoft.com/powerapps/maker/canvas-apps/customize-list-form) 用於此目的。
 
-PowerApps 是一種簡易且功能強大的工具，可讓在 SharePoint Online 新式體驗中操作的使用者，直接從瀏覽器視窗建立及編輯 SharePoint 清單和文件庫的自訂表單。 PowerApps 不需要傳統編碼知識，或下載任何其他應用程式，例如 InfoPath。
+PowerApps 是一種簡易且功能強大的工具，可讓在 SharePoint Online 新式體驗中操作的使用者，直接從瀏覽器視窗建立及編輯 SharePoint 清單和文件庫的自訂表單。PowerApps 不需要傳統編碼知識，或下載任何其他應用程式，例如 InfoPath。
 
 **注意**：SharePoint Online 傳統版使用者將需要暫時切換到新式體驗，才能存取和使用 PowerApps；不過，在 PowerApps 中建立的所有自訂表單均可由 SharePoint Online 傳統版體驗使用者存取。
