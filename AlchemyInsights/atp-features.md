@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "3455"
-ms.openlocfilehash: daf5b9df7f00940c8a3db3fb14f24be61ab2be91
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 64c27ad48b676cda8b466f09452bc53838c430717919b421dd287063aabc8c75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820961"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046635"
 ---
 # <a name="whats-new-in-atp"></a>ATP 的新功能
 
-若要深入瞭解 Windows Defender 高級威脅防護的最新增強功能，請參閱 [Windows DEFENDER ATP 的新](https://www.microsoft.com/security/blog/2018/11/15/whats-new-in-windows-defender-atp/)功能。
+若要深入瞭解 Windows Defender 高級威脅防護的最新增強功能，請參閱[Windows Defender ATP 的新增功能](https://www.microsoft.com/security/blog/2018/11/15/whats-new-in-windows-defender-atp/)。

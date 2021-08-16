@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000355"
 - "10010"
-ms.openlocfilehash: aaabcc52b4811c1eea9cd3f0c65e2bf81644354b
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 7feac3177052b8647ff571f875f6978e84b046e06283bc8ac5ba48cc148f14a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51406702"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046419"
 ---
 # <a name="calculate-sharepoint-storage"></a>計算 SharePoint 儲存容量
 
-**儲存公式：** 每份購買的 [合格方案](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) 授權 1 TB 加上 10 GB，然後購買任何 **[Office 365 額外檔案儲存區](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** 。
+**儲存體公式：** 每個授權購買的授權 [方案](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)1 TB 加上 10 GB，加上任何 **[Office 365 額外檔儲存體](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** 購買的附加元件。
 
-如需詳細資訊，請參閱 [依方案 SharePoint 儲存限制](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)。
+如需詳細資訊，請參閱[依方案 SharePoint 儲存限制](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)。

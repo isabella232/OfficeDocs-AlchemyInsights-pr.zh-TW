@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: 604dc770c5c14ded6a8de1cec9e311b03b69f094
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d703e87f355f05bf4a1d71e5daddce96db988380bb48accc81c95f1ba91fbb2b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667077"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065419"
 ---
 # <a name="missing-workflow-failed-to-activate"></a>無法啟動遺失的工作流程
 
@@ -26,15 +26,15 @@ ms.locfileid: "47667077"
   
 2. 在 [ **網站物件**] 底下，選取 [ **工作流程**]。 
   
-3. 在 [**工作流程**] 功能區的**新**區段中，選取 [**可重複使用的工作流程**] 
+3. 在 [**工作流程**] 功能區的 **新** 區段中，選取 [**可重複使用的工作流程**] 
   
-4. 在 [ **建立可重複使用的工作流程** ] 表單上，輸入名稱 * * *Repair2010* * *。 針對 [ **平臺類型**]，按一下 [ **SharePoint 2010 工作流程**]，然後按一下 **[確定]**。 
+4. 在 [ **建立可重複使用的工作流程** ] 表單上，輸入名稱 * * *Repair2010* * *。 針對 [**平臺類型**]，按一下 [ **SharePoint 2010 工作流程**]，然後按一下 **[確定]**。 
   
 1. 在 [**工作流程**] 功能區的 [**儲存**] 區段中，選取 [**發佈**]。 
   
 2. 在 [**工作流程**] 功能區的 [**管理**] 區段中，選取 [**全域發佈**]。 在出現的確認對話方塊中，選取 **[確定**]。 
   
-3. 在網頁瀏覽器中，找出網站集合的根網站，然後存取 **網站設定** \> **網站集合的功能**。 然後，切換 **工作流程** 功能： 
+3. 在網頁瀏覽器中，找出網站集合的根網站，然後存取 **網站設定** \> **網站集合功能**。 然後，切換 **工作流程** 功能： 
   
 ·如果已  *啟用*  該功能，請按一下 [ **停用]，** 然後按一下 [ **啟動**]。 
   

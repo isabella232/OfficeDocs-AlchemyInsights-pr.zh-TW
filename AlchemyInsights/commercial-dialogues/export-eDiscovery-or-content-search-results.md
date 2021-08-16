@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: b93377a33eebc7899041b684449e46caedb04415
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: de5d6f2bbf32ca1b7a0bbb9dd416fb19186d2e72ad57fbf25d9b55bd733fdc21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464509"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988073"
 ---
 # <a name="export-ediscoverycontent-search-results"></a>匯出 eDiscovery/內容搜尋結果
 
-您可能需要將搜尋結果匯出至 PST 檔案 (從電子郵件) 或原生 Office 檔 (從 SharePoint 及 OneDrive 的商務網站) 。 如果是，請執行下列動作：
+您可能需要將搜尋結果匯出至 PST 檔案 (從電子郵件) 或原生 Office 檔 (從 SharePoint 和商務用 OneDrive 網站) 。 如果是，請執行下列動作：
 
 - 請確定您的帳戶已獲指派適當的許可權可供匯出。 如需詳細資訊，請參閱 [指派 eDiscovery 許可權](https://go.microsoft.com/fwlink/?linkid=2102406)。
 - 請確認您的電腦符合所有 [必要條件](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin)。 並非所有瀏覽器皆受支援，例如 Chrome。
