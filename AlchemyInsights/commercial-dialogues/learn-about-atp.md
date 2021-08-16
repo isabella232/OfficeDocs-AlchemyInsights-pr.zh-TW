@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: bb6aa5a3cd8976cb590b4da18bc35b3ee782eca60ed1a48083cca8e7ef17e51e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034349"
 ---
 # <a name="learn-about-microsoft-defender-for-office-365"></a>深入瞭解 Microsoft Defender Office 365
 
@@ -30,7 +30,7 @@ Microsoft Defender for Office 365 是一種雲端式電子郵件篩選服務，�
 
 **如何為 Office 365 啟用 Microsoft Defender？**
 
-安全附件、安全連結和反網路釣魚都屬於 Microsoft Defender Office 365 功能。 EnterpriseE5、教育版 A5 和 Microsoft 365 商務版包含內建的 Microsoft Defender 以進行 Office 365 功能。 所有其他計畫都需要增益集的 Microsoft Defender Office 365 訂閱。 您必須將適當的授權指派給您的使用者，才能 Office 365 的 Microsoft Defender 保護。 您必須具有全域管理員或安全性管理員許可權，才能存取此功能。 若要深入瞭解如何對使用者批量套用授權，請參閱[在商務用 Office 365 中指派授權給使用者](https://go.microsoft.com/fwlink/?linkid=2093435)。
+保管庫附件、保管庫連結和反網路釣魚都屬於 Microsoft Defender Office 365 功能。 EnterpriseE5、教育版 A5 和 Microsoft 365 商務包含內建的 Microsoft Defender，以進行 Office 365 功能。 所有其他計畫都需要增益集的 Microsoft Defender Office 365 訂閱。 您必須將適當的授權指派給您的使用者，才能 Office 365 的 Microsoft Defender 保護。 您必須具有全域管理員或安全性管理員許可權，才能存取此功能。 若要深入瞭解如何對使用者批量套用授權，請參閱[在商務用 Office 365 中指派授權給使用者](https://go.microsoft.com/fwlink/?linkid=2093435)。
 
 **如何管理 Microsoft Defender 以取得 Office 365 或深入瞭解？**
 

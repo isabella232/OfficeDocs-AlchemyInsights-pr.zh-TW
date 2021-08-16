@@ -1,5 +1,5 @@
 ---
-title: 在 Microsoft Defender for Office 365 中深入瞭解安全附件原則的位置
+title: 深入瞭解 Microsoft Defender 中保管庫附件原則的詳細資訊 Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 0d0c69d75afcad1d82f61669224b8518d760d19a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 50a9d6c84f4ac086df76b1534972434d176bba4d4adadfb65fc2ca97da028c0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034277"
 ---
-# <a name="where-to-learn-more-about-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>在 Microsoft Defender for Office 365 中深入瞭解安全附件原則的位置
+# <a name="where-to-learn-more-about-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>深入瞭解 Microsoft Defender 中保管庫附件原則的詳細資訊 Office 365
 
-如需詳細資訊，請參閱 [Microsoft Defender For Office 365 中的安全附件](https://go.microsoft.com/fwlink/?linkid=2092213)
+如需詳細資訊，請參閱[保管庫 Office 365 的 Microsoft Defender 附件](https://go.microsoft.com/fwlink/?linkid=2092213)
