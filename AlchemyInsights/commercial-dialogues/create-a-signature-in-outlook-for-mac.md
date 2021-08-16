@@ -1,5 +1,5 @@
 ---
-title: 在 Outlook for Mac 中建立簽章
+title: 在 Mac 版 Outlook 中建立簽章
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: b970c008268d15f39a8d37a5ea44488198a21070
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 00db7b59e5a3d81c46d28cb919564ae99dca00b09c12f85388f5c419647dad01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070711"
 ---
-# <a name="create-a-signature-in-outlook-for-mac"></a>在 Outlook for Mac 中建立簽章
+# <a name="create-a-signature-in-outlook-for-mac"></a>在 Mac 版 Outlook 中建立簽章
 
-1.  在 [ **Outlook** ] 功能表上，按一下 [ **喜好** 設定]。
+1.  在 [ **Outlook** ] 功能表上，按一下 [**喜好** 設定]。
 2.  在 [ **電子郵件**] 底下，按一下 [ **簽名**]。
 3.  按一下 [ **新增**] **+** 。
 4.  連按兩下 [ **無標題**]，然後輸入簽名的名稱。

@@ -1,5 +1,5 @@
 ---
-title: 使用 Exchange Online PowerShell 啟用特定網域的 DKIM
+title: 使用 Exchange Online PowerShell 來啟用特定網域的 DKIM
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 2f2b60a63b512bde794ba588852db11423e766f3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ba627c6da96624914b858aa09d6eff9de709134c2c986fe363845c5ab2b66434
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736032"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070282"
 ---
-# <a name="use-exchange-online-powershell-to-enable-dkim-for-a-specific-domain"></a>使用 Exchange Online PowerShell 啟用特定網域的 DKIM
+# <a name="use-exchange-online-powershell-to-enable-dkim-for-a-specific-domain"></a>使用 Exchange Online PowerShell 來啟用特定網域的 DKIM
 
 如果您無法在系統管理中心建立 DKIM DNS 記錄，請嘗試使用 Exchange Online PowerShell。 
 
@@ -34,9 +34,9 @@ ms.locfileid: "50736032"
 
     c. `Import-PSSession $Session -DisableNameChecking`
     
-如果您無法連線至 Exchange Online PowerShell，請參閱 [Connect To Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)。
+如果您在連線至 Exchange Online PowerShell 時發生問題，請參閱[連線 to Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)。
 
-2. 當您連線至 Exchange Online PowerShell 後，請執行下列命令：
+2. 當您連線至 Exchange Online PowerShell 之後，請執行下列命令：
 
     `New-DkimSigningConfig -DomainName < CustomDomain > -Enabled $true`
 

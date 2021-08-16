@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 3aacc3c6675f4102a5b34a435c862215dbfd0479b75549d608ed3c91021ed3d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233504"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031397"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>部署 Microsoft 365 Apps 的增益集
 
@@ -27,7 +27,7 @@ ms.locfileid: "52233504"
 **附注：** 若要以個別使用者的身分安裝 Office 增益集，請參閱 [在 Office 程式中查看、管理及安裝增益集](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d)。 此外，請確定已啟用個別購買 Office 儲存區增益集。 如需詳細資訊，請參閱[除了 Outlook) 以外，關閉所有用戶端上的 Office 儲存區，以避免增益集下載 (](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)。
 
 1. 確定您的環境符合使用集中式部署來部署增益集的需求。 如需詳細資訊，請參閱 [需求](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)。
-2. 移至 **設定**  >  的 **整合式應用程式**  >  在 Microsoft 365 系統管理中心 **取得應用程式**，以部署增益集。 
+2. 移至 **設定**  >  的 **整合式應用程式**  >  在 Microsoft 365 系統管理中心中 **取得應用程式** 以部署增益集。 
 
 附註： 
 
@@ -46,6 +46,6 @@ ms.locfileid: "52233504"
 [在系統管理中心](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
  部署增益集[管理管理中心](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 
  內的增益集[使用集中式部署 PowerShell Cmdlet 來管理增益集](https://docs.microsoft.com/microsoft-365/enterprise/use-the-centralized-deployment-powershell-cmdlets-to-manage-add-ins) 
-透過[Microsoft 365 系統管理中心，使用集中式部署來發佈 Office 增益集](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
+透過[Microsoft 365 系統管理中心使用集中式部署來發佈 Office 增益集](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
 [疑難排解：使用者未看到增益集](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) 
 [疑難排解 Office 增益集的使用者錯誤](https://docs.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)
