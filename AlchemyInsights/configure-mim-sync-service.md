@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8472"
 - "9004688"
-ms.openlocfilehash: 48e9a0e8c26088b690092bfaedfba641841739f6
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: f834bead0b6f22dcadc808d45dcefe7f6571ef62c74b7fd97355157ca49542af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430721"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978476"
 ---
 # <a name="configure-mim-sync-service"></a>設定 MIM 同步處理服務
 
@@ -31,6 +31,6 @@ Microsoft Identity Manager (MIM) 同步處理服務是 MIM 的元件。 其為�
 3. 如果 MIM 同步執行因發生錯誤而停止，請參閱[執行錯誤碼](https://docs.microsoft.com/microsoft-identity-manager/reference/maerrorcodes)表格，以判斷可能的原因。
 4. 如果執行因發生 **extension-dll-exception** 而停止，請按一下這些文字以開啟 **[接器空間物件屬性]** 視窗，然後按一下 **[堆疊追蹤...]** 以查看關於根本原因的詳細資訊，如 [Extension-DLL-Exception](https://social.technet.microsoft.com/wiki/contents/articles/7515.fim-troubleshooting-extension-dll-exception.aspx) 所述。
 5. 如果密碼變更通知服務 (PCNS) 元件在密碼同步處理期間於事件記錄中報告 **錯誤 6025**，請查看疑難排解指南 [PCNS 報告錯誤 6025](https://social.technet.microsoft.com/wiki/contents/articles/4159.pcns-troubleshooting-event-id-6025.aspx)。
-6. 如果 FIM 服務管理代理程式的完整同步處理速度緩慢，請檢查 TempDB 的 **[auto grow]** 設定，如[完整同步處理緩慢或當機的疑難排解](https://social.technet.microsoft.com/wiki/contents/articles/14713.troubleshooting-fim-performance-slow-or-hanging-full-synchronization.aspx)所述。
+6. 如果 FIM 服務管理代理程式的完整同步處理速度緩慢，請檢查 TempDB 的 **[auto grow]** 設定，如 [完整同步處理緩慢或當機的疑難排解](https://social.technet.microsoft.com/wiki/contents/articles/14713.troubleshooting-fim-performance-slow-or-hanging-full-synchronization.aspx)所述。
 7. 如果您使用 FIM 服務管理代理程式時遇到「failed-creation-via-web-services」伺服器停止的錯誤，請參閱[支援資訊：failed-creation-via-web-services](https://docs.microsoft.com/archive/blogs/iamsupport/support-info-fimma-failed-creation-via-web-services) 以瞭解原因概觀。
 

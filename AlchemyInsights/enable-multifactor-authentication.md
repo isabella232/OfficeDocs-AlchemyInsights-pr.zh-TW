@@ -16,18 +16,18 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4de9a1baf12fad1de21af9c5739c1538e5ee7e176757fa8ce7586aa3a7f2b71f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678027"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002903"
 ---
 # <a name="enable-multi-factor-authentication"></a>啟用多重要素驗證
 
-若要在 Microsoft 365 系統管理中心啟用多重要素驗證，請執行下列動作：
+若要在 Microsoft 365 系統管理中心中啟用多重要素驗證：
 
-1. 移至 [ **使用者**作用中 \> **使用者** ] 頁面。
+1. 移至 [ **使用者** 作用中 \> **使用者** ] 頁面。
     
 2. 在頁面頂端，選取 [ **多重要素驗證**]。 
     

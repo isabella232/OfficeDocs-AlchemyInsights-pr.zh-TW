@@ -1,5 +1,5 @@
 ---
-title: 在 Outlook.com 中列印電子郵件和行事曆
+title: 列印 Outlook .com 中的電子郵件和行事曆
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,14 +15,14 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: 2ebfabc02b937557439a4fa13da3e5cfcadf2e5d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4b42a67b7608d6471b2bcf4ba6c12c7239ccc6504b07ee0eaba17b570cd3869e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723778"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041217"
 ---
-# <a name="print-email-and-calendars-in-outlookcom"></a>在 Outlook.com 中列印電子郵件和行事曆
+# <a name="print-email-and-calendars-in-outlookcom"></a>列印 Outlook .com 中的電子郵件和行事曆
 
 若要列印電子郵件訊息：
   
@@ -34,4 +34,4 @@ ms.locfileid: "47723778"
 1. 在頁面的右上角，選取 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' /> **列印**。
 1. 選擇 [視圖] 和 [時間範圍]，然後選取 [ **列印**]。
 
-深入瞭解如何 [在 Outlook.com 中列印電子郵件和行事曆](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy)。
+深入瞭解如何[在 Outlook .com 中列印電子郵件和行事曆](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy)。

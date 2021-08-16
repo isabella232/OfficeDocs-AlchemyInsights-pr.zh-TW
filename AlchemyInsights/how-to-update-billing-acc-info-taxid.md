@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7316"
-ms.openlocfilehash: 3f6e0b375189526e1a6da3c4320b7d2b97507cc6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 40b5cb04f053f23549ab61ba48badcdbfdf852aeead8fbda8a94e6e5184a3e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609645"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015323"
 ---
 # <a name="how-to-update-billing-account-information"></a>如何更新帳單帳戶資訊
 
@@ -28,12 +28,12 @@ ms.locfileid: "49609645"
 
 **若要更新帳單帳戶資訊，並更新您的稅務識別碼**：
 
-1. 登入商務用 [Microsoft Store](https://businessstore.microsoft.com/)。
+1. 登入[商務用 Microsoft Store](https://businessstore.microsoft.com/)。
 1. 按一下 [**管理**  >  **帳單帳戶**]。
 1. 從 **[概述**] 中，按一下 [ **編輯帳單帳戶資訊**]。
 1. 進行更新，然後按一下 [ **儲存**]。 
 
-**建議的檔**
+**建議的文件**
 
 - [瞭解您的 MCA 發票](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
 
