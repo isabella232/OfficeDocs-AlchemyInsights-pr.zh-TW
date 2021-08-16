@@ -1,5 +1,5 @@
 ---
-title: 在網頁上的 Outlook 中變更字型或字型大小
+title: 變更 Outlook 網頁版中的字型或字型大小
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000013"
 - "1999"
-ms.openlocfilehash: f85f4112bd884dd55da186645b622999fc5d0eac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a43154eec64bf8081c7c12f5a5df13cfbfec84af79245daedb86bcc3ac3a5192
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721823"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999915"
 ---
-# <a name="change-font-or-font-size-in-outlook-on-the-web"></a>在網頁上的 Outlook 中變更字型或字型大小
+# <a name="change-font-or-font-size-in-outlook-on-the-web"></a>變更 Outlook 網頁版中的字型或字型大小
 
 當閱讀電子郵件時，您可以使用瀏覽器的縮放功能，讓螢幕上的文字變大或變小。
   
@@ -33,4 +33,4 @@ ms.locfileid: "47721823"
     
 如果您在撰寫窗格底部沒有看到 [格式化選項] 功能表，請選取 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAARCAYAAAAG/yacAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFgkLmMb9xQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABOklEQVQokZWTIa7CQBCGPwjJgoG0YkXTVV1HHSHBIHqCXgLDiSoRnIArYBC9QoNZQBRBitlUvWfoPkih5P1uk/l2vsxkevf7/YdHyrJku92yWq2YTCZ8Sv/5URQFAIfD4SPQgowxTKdTB3+FyrLker2SJAlCCKqq+g4VRYFSCiEEWutORQc1agBKqU7FQaN2Op0YDoeuuK5rqqp6O8V+oxaGIUoppJRIKQnD0Claa9nv9+R5/tfJGMNsNkNr7X4bj8cYY7DWkmUZnudxPB7xfZ9+XddIKVFKvShorVksFmRZRhRFpGlKEAScz2cGQgiSJGl5Nx2iKGK5XLLb7bDWMp/PX5fbBdxuN9brNaPRqA19A9z0/gO0oDzP8TyvEwDoPZ/GZrPhcrm4oncAPPb0nCAIiOOYOI7fAgC/6HCjfMhhDgMAAAAASUVORK5CYII=' /> **格式化選項**。
   
-如需詳細資訊，請參閱 [在網頁上的 Outlook 中變更字體大小](https://support.office.com/article/43a2137f-8c3c-46df-af4a-73a12c9bb86e)。
+如需詳細資訊，請參閱[變更 Outlook 網頁版中的字型大小](https://support.office.com/article/43a2137f-8c3c-46df-af4a-73a12c9bb86e)。

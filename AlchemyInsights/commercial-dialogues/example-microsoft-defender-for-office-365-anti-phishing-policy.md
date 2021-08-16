@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender for Office 365 反網路釣魚原則範例
+title: Office 365 反網路釣魚原則的 Microsoft Defender 範例
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034997"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Microsoft Defender for Office 365 反網路釣魚原則範例
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Office 365 反網路釣魚原則的 Microsoft Defender 範例
 
 這些設定會啟用名為 *Domain 及 CEO* 的原則。 這個原則提供使用者和網域保護的模擬，然後將該原則套用至網域中使用者所收到的所有電子郵件。 首先，新增下列資訊以建立原則：
 
@@ -33,4 +33,4 @@ ms.locfileid: "50736186"
   - **新增信任的寄件者和網域：** 在此範例中，請勿定義任何覆寫。
 - 檢查您的設定之後，請選取 [ **建立這個原則** ] 或 [ **儲存**] （視需要）。
 
-若要深入瞭解，請參閱 [Microsoft 365 中的反網路釣魚原則](https://go.microsoft.com/fwlink/?linkid=2092235)。
+若要深入瞭解，請參閱[Microsoft 365 中的反網路釣魚原則](https://go.microsoft.com/fwlink/?linkid=2092235)。

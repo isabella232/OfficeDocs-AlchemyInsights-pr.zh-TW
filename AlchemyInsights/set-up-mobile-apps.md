@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9712"
 - "9003952"
-ms.openlocfilehash: f2e5d865a9e87e05db87787403bcf0db79f77766
-ms.sourcegitcommit: 6545b7d7dfb4e022fd018eece6f466fdb36e45c6
+ms.openlocfilehash: 51277f655c963976dd4c00f895589d532092926f6105ce1c060bd33be9df6f94
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "51614004"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051945"
 ---
 # <a name="set-up-mobile-apps-for-office-365-and-microsoft-365"></a>設定 Office 365 和 Microsoft 365 行動裝置應用程式
 

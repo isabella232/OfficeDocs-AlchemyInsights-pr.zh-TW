@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6218"
 - "9003321"
-ms.openlocfilehash: 2ffb254f914d738dff09976d5c574b6c3036f793
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 008ce3ebcbc04929b54839f5ad6a1392596c48669149d32e7ebe6159bedf9036
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721319"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999627"
 ---
 # <a name="pin-based-verification-process-for-support-callers"></a>支援來電者的 PIN 型驗證程序
 
-如果通話系統管理員的來電者識別碼無法與與帳戶相關聯的電話號碼相符，訊息中心文章 MC219951 會宣佈新的 PIN 型驗證步驟。 如需詳細資訊，請參閱[訊息中心](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter) 
+如果通話系統管理員的來電者識別碼無法與與帳戶相關聯的電話號碼相符，訊息中心文章 MC219951 會宣佈新的 PIN 型驗證步驟。如需詳細資訊，請參閱 [訊息中心](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter) 
 
 若要在系統管理入口網站新增或驗證系統管理員電話號碼：  
 

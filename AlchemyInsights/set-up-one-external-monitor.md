@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0bf4ae49aee6b1ccfcd1c7a55daef92f6f1eb6375017f24f715264235460c3ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051765"
 ---
 # <a name="set-up-one-monitor"></a>設定一個監視器
 
 **檢查您電腦的專案設定**
 
-1. 同步選取下列機碼，以開啟專案設定： Windows 鍵 (Windows 標誌開始按鈕) + P。
+1. 同步選取下列機碼，以開啟專案設定： Windows 機碼 (Windows 標誌開始] 按鈕) + P。
 2. 選擇 [ **重複**]、[ **擴充**] 或 [ **第二個畫面**]，取決於您的喜好設定。
 
 **附注：** 如果您的電腦只有一個顯示埠 (例如 HDMI 或 VGA) ，則需要有插接站或 USB 配接器才能設定多個監視器。
