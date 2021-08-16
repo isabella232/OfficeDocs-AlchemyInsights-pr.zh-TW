@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
-ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.openlocfilehash: 5c04364f98dccbcad0f011df866f137d79c166ad3839b408d6be447d50a87ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727214"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101257"
 ---
 # <a name="no-results-returned-during-content-searchexport"></a>內容搜尋/匯出期間未傳回任何結果
 
@@ -30,7 +30,7 @@ ms.locfileid: "49727214"
 
 若要解決此問題，請檢查是否有任何可能導致這些問題的相容性安全性篩選：
 
-1. 連接到安全性與合規性中心 Powershell
+1. 連線至安全性與合規性中心 Powershell
 2. 執行下列 commandlets：
 
     `$org = “yourdomain.com”`
