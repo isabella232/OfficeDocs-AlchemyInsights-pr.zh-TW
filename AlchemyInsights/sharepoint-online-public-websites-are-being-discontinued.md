@@ -1,5 +1,5 @@
 ---
-title: 已停用 SharePoint Online 公用網站
+title: SharePoint已終止線上公用網站
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c515a8b0353c5747a086b68ff7937bd95888f70c43f6d134b4756653e2177b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719908"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051261"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>已停用 SharePoint Online 公用網站
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint已終止線上公用網站
 
 如果您建立了 SharePoint Online 公用網站，您可以繼續使用它，直到2018年3月31日。 若要繼續使用公用網站，您必須使用新的提供者建立新的網站。 將會刪除您 SharePoint Online 公用網站上的內容，因此您需要複製您要保留的任何內容。
   

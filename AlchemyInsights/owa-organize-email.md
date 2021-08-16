@@ -1,5 +1,5 @@
 ---
-title: 在 web 上的 Outlook 中組織您的電子郵件
+title: 在 Outlook 網頁版中組織您的電子郵件
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: c5a97cbeca4cfae1deac9171d7df4a81e33d88dd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f776d830fc3e017c8611353f31af8f0164f2f0873d01d0d6bc5bc5f5c92eef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983084"
 ---
 # <a name="organize-your-email"></a>組織您的電子郵件
 
-在 web 上的 Outlook 中，您可以使用「 **掃描** 」和「 **移至** 」等命令，自動刪除或移動來自特定寄件者的郵件。 當您在 [收件匣] 中選取郵件時，這些命令會出現在郵寄清單上方。
+在 Outlook 網頁版中，您可以使用「**掃描**」和 [**移至**] 等命令自動刪除或移動來自特定寄件者的郵件。 當您在 [收件匣] 中選取郵件時，這些命令會出現在郵寄清單上方。
 
 - **掃** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAQCAYAAAAbBi9cAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh0YMtZrTgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABjElEQVQ4jaXTocvqUBzG8e/GAYOvDAxiEYMoKKIiZk2CzWqYC4LV4j8iWA1jgoh/gOiCRpthQXAgNplgmWDTecO9Xrw4X/C9Tz7nw++c5xzpfD7f+UE8z8O2bcbjMd1uF/l/kOFwSLPZJBQKfQ49I61Wi0QiAfAZ9A75CPoOARB+G/b7PYvFgvV6jed5ZLNZisUi0+nUFwGQnlu73W5YlsVkMqFer1Mqlbher6xWK+bzOY1Gg0Kh4DuxeAC73Q7TNLFtm6+vL8LhMEIIhBBUKhUkSWK5XL6FZNd1GY1G9Pt9yuUyvV4PTdPQdR3btn8vkmXS6TSXywXXdf0hRVGoVqvEYjEOhwOyLJNKpV4wSZIIBAK+CPxpLRqNomkalmUxm81esO12y2azQQiBoii+0D+X7TgOhmGQy+Wo1Wp/Kx8MBtzvdzqdDvF4/P1Ej/hNFolESCaTqKr6FgGfd/TADMMAIBgMcjqdyOfzb5GXoz3HcRx0Xed4PNJut8lkMj+DHphpmqiqiix//5t+AT3dz3bYNq1VAAAAAElFTkSuQmCC' />
  可讓您在 [收件匣] 中快速刪除郵件。 您可以自動刪除所有來自該寄件者的內送電子郵件、只保留最新的電子郵件並刪除其餘的電子郵件，或刪除超過10天的電子郵件。
 - **移至** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMCAYAAABvEu28AAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh4VZ0pEMAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABG0lEQVQokZWSoc6CYBSGH74xRnLIyOpmshPszBvwEhhFb4AgkeuwEIxfN0kz4TXgnMZvNAqfBve7OWHwv/E8756dsx3j8Xg8pZTkeU5bXNcljmNc123lfzHKsnxKKQmCgOl0+gWbpuF4PFIUBXEcY5pmp6ibAIZhMJ/POZ1ObDab1o7jOOx2u7eormvSNG0tjkYjoihisVj8MKUUUkqqqnqLbNsmSZKf0/4T0TbUWnM+nymKYrDIHI/HhGH4bReCyWRClmVorfF9v1+klOJwOHC5XFoLt9sNz/OYzWb9G2232x9wv9/JsowgCHolAEIpxX6/pyzLz1BrzfV6ZbVaDToLOv5ICMFyuRwk+Igsy8KyrM4/6ovjOKzXa15yYmGtPwy4eAAAAABJRU5ErkJggg==' /> 可讓您將特定郵件移至另一個資料夾。
 
-若要深入瞭解，請參閱使用 [Outlook 網頁版中的郵件資料夾](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)。
+若要深入瞭解，請參閱使用[Outlook 網頁版中的郵件資料夾](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)。

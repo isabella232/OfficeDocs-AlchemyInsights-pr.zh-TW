@@ -12,24 +12,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: f7a1bbda3a54d2662bdfe21cda961c32456edb82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c513da49dc953b4ae76bb06854e33232ec40e11151f11ade33c3080092aa598
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704119"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015611"
 ---
 # <a name="how-to-disable-external-groups"></a>如何停用外部群組
 
-Yammer 外部郵件會套用 Exchange Transport Rules (ETRs) ，這是一組主動控制措施，可防止公司資訊共用。 為了限制使用者建立外部群組，您必須設定 Exchange transport rule (ETR) ，然後設定 Yammer 使用 Exchange 傳輸規則來封鎖外部郵件。
+Yammer 外部郵件會套用 Exchange 傳輸規則 (ETRs) ，這是一組主動控制措施，可防止公司資訊共用。 為了限制使用者建立外部群組，您必須 (ETR) 設定 Exchange 傳輸規則，然後設定 Yammer，以使用 Exchange 傳輸規則來封鎖外部郵件。
   
-在 Exchange Online 系統管理中心中建立規則之後，請遵循下列步驟，在 Yammer 中設定要套用的 ETR：
+在 Exchange Online 系統管理中心建立規則之後，請遵循下列步驟，將 ETR 設定為套用於 Yammer 中：
   
-- 以已驗證的系統管理員身分登入 Yammer，然後在 **yammer 系統管理中心**中，移至 C **內容及安全性 \> 安全性設定。**
+- 以已驗證的系統管理員身分登入 Yammer，然後在 **Yammer 系統管理中心**，移至 C **內容及安全性 \> 安全性設定。**
 
-- 在 [ **外部郵件**] 底下，選取 [在 **Yammer 中執行您的 Exchange Online exchange Transport Rules (ETRs) ]。**
+- 在 [**外部郵件**] 底下，選取 [**強制您的 Exchange Online Exchange 傳輸規則 (ETRs) in Yammer。**
 
 - 選擇 **[儲存]**。
 
-如需詳細資訊，請參閱 [停用 Yammer 網路中的外部郵件](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)。
+如需詳細資訊，請參閱[停用 Yammer 網路中的外部郵件](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)。
   

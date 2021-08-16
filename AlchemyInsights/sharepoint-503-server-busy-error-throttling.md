@@ -1,5 +1,5 @@
 ---
-title: SharePoint 線上節流
+title: SharePoint線上-節流
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 01/05/2021
@@ -13,18 +13,18 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 38cd588e9f5388579e4e8c2064d1390091425254effd3aa7c50c4f2cbc80ce53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051477"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint 線上節流
+# <a name="sharepoint-online-throttling"></a>SharePoint線上節流
 
 SharePoint Online 會使用節流來維護 SharePoint Online 服務的最佳效能和可靠性。 節流會限制使用者動作或同時通話的數目 (藉由指令碼或程式碼)，以避免過度使用資源。 
 
-如需節流的詳細資訊，請參閱 [避免在線上 SharePoint 中取得節流或封鎖](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)。
+如需節流的詳細資訊，請參閱[避免在線上 SharePoint 中取得節流或封鎖](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)。
 
 如果您認為此錯誤與節流不相關，您可以流覽至 [消息中心](https://portal.office.com/adminportal/home#/MessageCenter)以檢查您租使用者上是否有使用中的維護。
 
