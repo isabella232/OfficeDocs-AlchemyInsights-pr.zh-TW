@@ -12,12 +12,12 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: db45aa8df40484fdcda7c430f1ca27482a1dd4ce
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: 3601c5eff121e10b6bddace6f7228204a01080a636e24f3a56373fe8d469c799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019574"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038508"
 ---
 # <a name="unable-to-delete-items"></a>無法刪除專案
 
@@ -27,7 +27,7 @@ ms.locfileid: "49019574"
 
 - 確定專案尚未 [取出](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) 給另一位使用者。
 
-- 最後，系統管理員可以使用 [SharePoint 模式和慣例](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP) ，其中包含 PowerShell 命令的文件庫，可讓您執行複雜的管理動作，例如強制刪除 stubborn 專案。
+- 最後，系統管理員可以使用[SharePoint 模式和慣例](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP) ，其中包含 PowerShell 命令的文件庫，可讓您執行複雜的管理動作，例如強制刪除 stubborn 專案。
 - [移除 PNP 檔](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
 - [移除 PNP 資料夾](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
 - [移除 PNP 清單專案](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)

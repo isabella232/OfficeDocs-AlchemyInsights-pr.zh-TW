@@ -1,5 +1,5 @@
 ---
-title: 來電轉接、通話群組及小組中的同時振鈴
+title: Teams 中的來電轉接、通話群組和同時響鈴
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004159"
 - "7251"
-ms.openlocfilehash: e9ce11063f47bc8208714186a572846544f3abd0
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: 23578487c3e5a988f888172b7a15309217c261284f662a4e07f21ba3a4971004
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49371795"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996405"
 ---
-# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>來電轉接、通話群組及小組中的同時振鈴
+# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Teams 中的來電轉接、通話群組和同時響鈴
 
 設定來電轉移
 
-1. 在 [團隊用戶端] 中，按一下小組最上層的設定檔圖片，然後選取 [ **設定] > 通話**。
+1. 在 Teams 用戶端按一下 Teams 頂端的設定檔圖片，然後選取 [**設定 > 通話**]。
 2. 在 [ **來電應答規則**] 底下，選擇 [ **轉接我的來電**]，然後選取您要轉寄來電的位置：語音信箱、另一個人或通話群組。
 
 設定來電轉接至通話群組

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: 2b08a0f532d948c4417c6ddc67251ec9cb0bcc8b
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: f075c95dc831a46d313d6534e078cb298fa2212fd7cffed75a2953e7e80603a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49715672"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055941"
 ---
 # <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>混合式設定向導 (HCW) 錯誤 ACSTS50011
 

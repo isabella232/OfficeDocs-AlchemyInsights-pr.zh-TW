@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003942"
 - "6997"
-ms.openlocfilehash: 4c369183ea769b688d0b766d156b1f73e3318b17
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ffff2b8d526c12390915cba7a1e5a6d39f82586be53b7848646bd8ab8f17a426
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706167"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996657"
 ---
 # <a name="buy-azure-active-directory-premium-p2"></a>購買 Azure Active Directory Premium P2
 

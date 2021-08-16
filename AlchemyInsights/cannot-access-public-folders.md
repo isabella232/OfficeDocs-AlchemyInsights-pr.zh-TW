@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819503"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996621"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook 無法連接至公用資料夾
 
 如果公用資料夾存取無法為某些使用者運作，請嘗試下列步驟：
 
-連線至 EXO PowerShell，並在有問題的使用者帳戶上設定 DefaultPublicFolderMailbox 參數，以與使用中使用者帳戶的參數相符。
+連線以 EXO PowerShell 並設定問題使用者帳戶上的 DefaultPublicFolderMailbox 參數，使其符合工作的使用者帳戶上的參數。
 
-範例：
+例如:
 
 Get-Mailbox WorkingUser |ft DefaultPublicFolderMailbox，EffectivePublicFolderMailbox
 
@@ -33,7 +33,7 @@ Set-Mailbox ProblemUser-DefaultPublicFolderMailbox \<value from previous command
 
 至少等候一個小時，讓變更生效。
 
-如果問題仍然存在， [請執行下列程式，以](https://aka.ms/pfcte) 使用 Outlook 疑難排解公用資料夾存取問題。
+如果問題仍然存在，[請依照下列](https://aka.ms/pfcte)程式使用 Outlook 來疑難排解公用資料夾存取問題。
  
 **若要控制哪些使用者可以使用 Outlook 存取公用資料夾**：
 
@@ -45,6 +45,6 @@ Set-Mailbox ProblemUser-DefaultPublicFolderMailbox \<value from previous command
         
 2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
       
-**記事** 此程式只能控制 Outlook desktop for Windows 用戶端的連線。 使用者可以繼續使用 OWA 或 Outlook for Mac 來存取公用資料夾。
+**記事** 此程式僅能控制 Windows 用戶端的 Outlook 桌面連接。 使用者可以使用 OWA 或 Mac 版 Outlook 繼續存取公用資料夾。
  
-如需詳細資訊，請參閱 [宣佈對 Outlook 中公用資料夾的可控連線支援](https://aka.ms/controlpf)。
+如需詳細資訊，請參閱[在 Outlook 中，宣佈對公用資料夾的受控連線支援](https://aka.ms/controlpf)。
