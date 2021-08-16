@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11467"
 - "9006706"
-ms.openlocfilehash: 4630f640562b251a1f83138efbecb559e396d043
-ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
+ms.openlocfilehash: 39370c752cb2a163bfdc3b886394b37b028f4d96f514545e9d8c4fa292b10ad8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "52689936"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069631"
 ---
 # <a name="configure-stay-signed-in-for-accounts"></a>設定保持登入帳戶
 
