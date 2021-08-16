@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800007"
 - "7354"
-ms.openlocfilehash: 409f34d01c7d81a81cf7594237e2c0163bdd8c85
-ms.sourcegitcommit: a7b15357abb6e802bbc8a2f2aefc5c4867c74fa2
+ms.openlocfilehash: 7f0786fd83eb0e31e0b0803a1c924cad37c4b2b47baf6f3495175c8a7bd7b91d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49585551"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068983"
 ---
 # <a name="export-your-google-calendar"></a>匯出 Google calendar
 

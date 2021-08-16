@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
-ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
+ms.openlocfilehash: 535b5273d367e24ac45b3f60dbc7b6a2da6a3d9affa5a67499989d19a1904768
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50585649"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039957"
 ---
 # <a name="problems-resetting-password"></a>重設密碼時的問題
 
@@ -30,7 +30,7 @@ ms.locfileid: "50585649"
 - 確定您瞭解授權需求：
     - 您的組織中必須至少有一個指派的授權
         - 僅限雲端使用者-任何 Office 365 (O365) 付費 SKU 或 Azure AD Basic
-        - 雲端和/或內部部署使用者-Azure AD Premium P1 或 P2、Enterprise 可移動性 + Security (EMS) 或安全生產力 (SPE) 
+        - 雲端和/或內部部署使用者-Azure AD Premium P1 或 P2、Enterprise Mobility + Security (EMS) 或 Secure Productive Enterprise (SPE) 
         - 若要閱讀授權要求的詳細資訊，請參閱 [Microsoft AZURE AD 自助密碼重設的授權需求一](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)文。
 
 **我在測試設定的密碼重設原則時發生問題**
@@ -41,7 +41,7 @@ ms.locfileid: "50585649"
 
 **我想要部署密碼重設，但不想讓使用者註冊其他安全性資訊**
 
-預先填入使用者的資料，使其不需要！ -以系統管理員的身分，您可以設定使用者的電話和電子郵件內容，然後再將密碼重設為您的組織。 您可以使用 API、PowerShell 或 Azure AD Connect 來執行此動作。 其他資訊：
+預先填入使用者的資料，使其不需要！ -以系統管理員的身分，您可以設定使用者的電話和電子郵件內容，然後再將密碼重設為您的組織。 您可以使用 API、PowerShell 或 Azure AD 連線來執行此動作。 其他資訊：
 - [部署密碼重設，但不需要使用者註冊](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
 - [密碼重設所使用的資料](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
@@ -59,7 +59,7 @@ ms.locfileid: "50585649"
 - 在下列情況中看不到此邊欄：
     - 您不是使用密碼回寫
     - 密碼寫回的安裝/連線發生問題
-    - Azure AD Connect 的安裝/連線發生問題
+    - Azure AD 連線的安裝/連線能力有問題
     - 如需有關密碼寫回問題的疑難排解步驟，請參閱[密碼寫回疑難排解](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)一節。
 
 **我不知道如何重設使用者的密碼**
@@ -71,7 +71,7 @@ ms.locfileid: "50585649"
 1. 依照畫面上的指示進行。
     - 僅透過 Azure 入口網站支援密碼回寫進行重設。
 
-**我從 Office 365 Admin 入口網站或 Office 365 行動應用程式重設內部部署使用者的密碼，但使用者仍無法登入**
+**我從 Office 365 系統管理員入口網站或 Office 365 行動應用程式重設內部部署使用者的密碼，但使用者仍無法登入**
 
 此入口網站不支援密碼回寫。 在 Azure 入口網站中重新重設使用者的密碼 portal.azure.com
 
