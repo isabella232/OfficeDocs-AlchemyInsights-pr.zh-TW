@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 8e363cafbf913cb26b130b9a73d9e9c1bf8bfea5
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576397"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100393"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>將專案匯出至 Mac 版 Outlook 中的封存檔案
 
-若要減少收件匣大小，請將電子郵件、連絡人及其他專案，手動封存至 Outlook for Mac 資料檔案 (。 olm) 。 您可以將 olm 檔案儲存至 Mac 上的任何位置，也可以儲存在不同的機器上，以供保管。
+若要減少收件匣大小，請將電子郵件、連絡人及其他專案 Mac 版 Outlook 的資料檔案 () 中手動封存。 您可以將 olm 檔案儲存至 Mac 上的任何位置，也可以儲存在不同的機器上，以供保管。
 
 1. 在 [ **工具** ] 索引標籤上，按一下 [ **匯出**]。
 
 > [!NOTE]
-> 看不到 [ **匯出** ] 按鈕嗎？ 確定您有最新版本的 Outlook。 按一下 **Outlook [** 說明] 功能表上的 [ **檢查更新**]。 若所有 Outlook 更新皆已套用，但您仍然看不到 [**匯出**] 按鈕，請查看 **[Outlook 檔案**] 功能表上的 [**匯出**]。
+> 看不到 [ **匯出** ] 按鈕嗎？ 確定您有 Outlook 的最新版本。 在 **Outlook 的**[說明] 功能表上，按一下 [**檢查更新**]。 若所有 Outlook 的更新皆已套用，但您仍然看不到 [**匯出**] 按鈕，請 **在 Outlook 檔案**] 功能表上尋找 [**匯出**]。
 
 2. 在 [ **匯出至封存檔案] (。 olm)** ] 方塊中，選取您要匯出的專案，然後按一下 [ **繼續**]。
 
@@ -33,14 +33,14 @@ ms.locfileid: "49576397"
 
 4. 匯出資料並取得通知之後，按一下 **[完成]**。
 
-如需如何存取您已在 Outlook for Mac 資料檔案中儲存的資料的詳細資訊 ( olm) ，請參閱將 [電子郵件訊息、連絡人及其他專案匯入 outlook 2016 For Mac](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)中。
+如需如何存取您在 Mac 版 Outlook 資料檔案中儲存的資料 () 的詳細資訊，請參閱將[電子郵件訊息、連絡人及其他專案匯入 Mac 版 Outlook 2016](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)。
 
 **我想要匯出至 iCloud 或其他一些類型的封存檔案**
 
-目前唯一可用的匯出選項是 olm 封存檔案。 若要要求其他的匯出選項，請流覽 [Outlook 建議框](https://outlook.uservoice.com/) ，留下您的意見反應。 Outlook 小組積極監控此論壇。
+目前唯一可用的匯出選項是 olm 封存檔案。 若要要求其他匯出選項，請流覽[Outlook 建議](https://outlook.uservoice.com/)] 方塊，留下您的意見反應。 Outlook 小組主動監視此論壇。
 
 **另請參閱**
 
-- [從適用于 Windows 的 outlook 將 .pst 檔案匯入至 Mac 版 Outlook 2016](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
+- [將 .pst 檔案匯入至 Windows Outlook 的 Mac 版 Outlook 2016](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
 
-- [使用 Time Machine 在 Outlook 2016 for Mac 中自動封存或備份專案](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
+- [在 Mac 版 Outlook 2016 中使用時間機器自動封存或備份專案](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
