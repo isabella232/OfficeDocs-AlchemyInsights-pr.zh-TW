@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "3569"
-ms.openlocfilehash: 4a7fd32f2891be499e4bd764f193b6d1d6b7e9f3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3b289e64427bf3e1417e5fe5f7ce601eec81d86386273b1a4f3d3c8723f5876f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833858"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066005"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
 Microsoft Stream 是一項企業級影片服務，貴組織中的人員可以安全地上傳、觀看及共用影片。 
 
-如需其他資訊，請參閱：
+如需詳細資訊，請參閱：
 
 - [什麼是 Microsoft Stream？](https://docs.microsoft.com/stream/overview)
-- [Office 365 影片轉換成 Microsoft Stream](https://docs.microsoft.com/stream/migrate-from-office-365)
+- [Office 365影片轉換至 Microsoft Stream](https://docs.microsoft.com/stream/migrate-from-office-365)
 - [Stream Service 更新](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
 - [Microsoft Stream 中的群組和通道](https://docs.microsoft.com/stream/groups-channels-organization)
 - [Microsoft Stream 中的即時事件](https://docs.microsoft.com/stream/live-event-overview)

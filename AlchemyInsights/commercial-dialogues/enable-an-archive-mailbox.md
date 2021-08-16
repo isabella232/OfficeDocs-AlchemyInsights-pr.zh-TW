@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: df7c97232417175178031213c1050d224fcb86e9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 6ff41f9f5b890c968483718544c5b4961397b37b144bb14ea1451d7aac24ebb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017303"
 ---
 # <a name="create-an-archive-mailbox"></a>建立封存信箱
 
@@ -27,5 +27,5 @@ ms.locfileid: "50736190"
 2. 選擇 [**資料控制**] 封存  >  ****。
 3. 選取您要啟用其封存信箱的使用者，然後在右側的 [詳細資料] 窗格中，按一下 [ **啟用** ]，然後在警告訊息框中按一下 **[是]** 。
 4. 您也可以使用 **Shift** 或 **Ctrl** 鍵) ，然後在詳細資料窗格中按一下 [ **啟用** ]，以大量啟用封存 (信箱。
-5. 幾分鐘後，新的資料夾會出現在使用者的 Outlook app 中（稱為 *線上封存-<`name` >*）。 在 web 上的 Outlook 中，稱為「 *In-Place* 封存」。
+5. 幾分鐘後，新的資料夾將會出現在使用者的 Outlook 應用程式中（稱為 *線上封存 `name` > -<*）。 在 Outlook 網頁版稱為「 *In-Place* 封存」。
 6. 告訴您的使用者將電子郵件拖放到封存。
