@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002330"
 - "4993"
-ms.openlocfilehash: cdde15f3c92e2728bc24182bcc3f3d5e33835d80
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f52af45dd527e878f533e4e2b181f512f9bbbc631b9d67c58c5ec1ffcd19ea84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795399"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027851"
 ---
 # <a name="mailbox-storage"></a>信箱儲存空間
 
