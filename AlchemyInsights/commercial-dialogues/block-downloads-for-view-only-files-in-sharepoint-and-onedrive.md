@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: 3715bb2f8ed8649c1a8cb493a177a28e5cf2a196
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9d036dc69e467516d362cc39a3d3262789f75b08d72367e1e7b6dba513687058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735997"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045303"
 ---
 # <a name="block-downloads-for-view-only-files-in-sharepoint-and-onedrive"></a>封鎖下載 SharePoint 和 OneDrive 中的僅限檢視檔案
 

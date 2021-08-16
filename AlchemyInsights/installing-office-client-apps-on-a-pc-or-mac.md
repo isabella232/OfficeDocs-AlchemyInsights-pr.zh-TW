@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 58bb9a5089ff88b57e8aba8fa1db23304ffbeaab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e3f0b654aa38f388f5217a4c5804a3b59f7483569593deda5332068dd631b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831941"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014207"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>在電腦或 MAC 上安裝 Office 用戶端應用程式
 

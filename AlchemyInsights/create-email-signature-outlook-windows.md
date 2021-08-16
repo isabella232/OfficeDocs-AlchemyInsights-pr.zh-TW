@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9808"
 - "9005728"
-ms.openlocfilehash: 70d3c745c251ac6a473538d991a83c3aaff730ac
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 2c284e38e36658dde8d28214908865a4cb8ed3065bf571eb450ce540b9207cd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897700"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016331"
 ---
 # <a name="create-an-email-signature-in-outlook-for-windows"></a>在 Windows 版 Outlook 中建立電子郵件簽名
 

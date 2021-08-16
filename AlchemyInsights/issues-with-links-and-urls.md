@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707873"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054789"
 ---
 # <a name="issues-with-links-and-urls"></a>連結和 URL 的問題
 
-重新導向 URI/回覆 URL (這兩個表示可互換) 是 Microsoft 身分識別平台用來傳回應用程式要求權杖的 URL。 如需這些 URL 的相關資訊，請參閱下列文章：
+重新導向 URI/回覆 URL (這兩個表示可互換) 是Microsoft 身分識別平台用來傳回應用程式要求權杖的 URL。如需這些 URL 的相關資訊，請參閱下列文章：
 
 - [驗證流程和應用程式案例](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) - 每個案例的 [應用程式註冊 **]** 頁面中重新導向 URI 的相關資訊。
 - [重新導向 URI/回覆 URL 限制和限制](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
