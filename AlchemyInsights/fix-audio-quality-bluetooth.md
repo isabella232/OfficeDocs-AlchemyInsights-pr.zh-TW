@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11508"
 - "9005365"
-ms.openlocfilehash: 20627d950af44b799a23a6d1f177f71cca7f275b
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: 04073a0adbd9ce47e36bb59c7363c5e11a04cede5e339e1876eb6aa374b3762c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068839"
 ---
 # <a name="fix-the-audio-quality-of-my-bluetooth-device"></a>修正藍芽裝置的音訊品質
 
@@ -26,7 +26,7 @@ ms.locfileid: "52721676"
 
 - 請確認音訊是透過藍芽裝置播放。 選取 **開始** 按鈕，然後選取 **設定** > **系統** > **音效**。 在 **選擇您的輸出裝置** 底下，選擇此藍芽音訊裝置。
 
-- 暫停其他可能使用藍芽的事務，像是以藍芽分享檔案。 如需其他資訊，請參閱 [修正 Windows 10 中音效問題](https://support.microsoft.com/zh-TW/help/4026994)。
+- 暫停其他可能使用藍芽的事務，像是以藍芽分享檔案。 如需其他資訊，請參閱 [修正 Windows 10 中音效問題](https://support.microsoft.com/en-us/help/4026994)。
 
 - 驗證立體聲已選取，以確認藍芽裝置的最佳音訊品質：
     1. 在工作列的左側，選取 **音量** 然後選取 ＞形箭號圖示以選擇播放裝置。

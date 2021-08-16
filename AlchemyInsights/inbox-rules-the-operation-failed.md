@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1544"
 - "1800021"
-ms.openlocfilehash: d0c95acd2587460d281474ebdba87683d336036d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af465979d881e98cbffaaa9fa20729dc6d0cd0d607c0d075311b19c8960b2f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099673"
 ---
 # <a name="rules-and-alerts-error-the-operation-failed"></a>規則及警示錯誤：「作業失敗」
 
 安裝下列更新後，您可能會看到收件匣規則錯誤：
 
-- [Outlook 2016：11月安全性更新 KB](https://support.microsoft.com/help/4461506)
+- [Outlook 2016：11月的安全性更新 KB](https://support.microsoft.com/help/4461506)
 - [Outlook 2013：11月安全性更新 KB](https://support.microsoft.com/help/4461486)
 - [Outlook 2010：11月安全性更新 KB](https://support.microsoft.com/help/4461585)
 
-您可以透過訪問 Outlook 錯誤：「作業失敗 ...」，查看這個已知問題的最新狀態 [。選取 [管理規則] 時 & 警示](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20)。
+您可以透過造訪 Outlook 錯誤，查看這個已知問題的最新狀態：「作業[失敗 ...」選取 [管理規則] 時 & 警示](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20)。

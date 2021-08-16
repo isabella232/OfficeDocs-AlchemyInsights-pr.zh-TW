@@ -12,15 +12,15 @@ ms.custom:
 - "934"
 - "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: 7c444ce7a77fa34ac678de40b36c1c7e27cd1b47
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1f26a1e411e27916ceb32409982c9e9ec5133975e527793657160b598f7da892
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099925"
 ---
 # <a name="find-your-pop-or-imap-server-settings"></a>尋找 POP 或 IMAP 伺服器設定
 
-如果您不知道將 POP 或 IMAP 帳戶新增至 Outlook 所需的設定為何，您可以在 [outlook 的 pop 和 imap 電子郵件設定](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)中查看這些設定。
+如果您不知道將 pop 或 imap 帳戶新增至 Outlook 所需的設定，您可以在[Outlook 的 pop 和 imap 電子郵件設定](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)中查看這些設定。
   
  
