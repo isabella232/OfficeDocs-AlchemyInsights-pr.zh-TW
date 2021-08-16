@@ -1,5 +1,5 @@
 ---
-title: 9000198 Outlook.com 行事曆 Beta
+title: 9000198 Outlook .com 行事曆 Beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0399d1eac720d9c92afef666fa7c3563725daee21b88afb29d2d3abdb1501b58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753358"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064555"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>新的行事歷經驗即將 Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>新的行事歷經驗即將 Outlook .com
 
 新的外觀會從郵件經驗到行事曆中取得最佳設計和 learnings。
 
@@ -28,4 +28,4 @@ ms.locfileid: "47753358"
 
 我們已擴充事件圖示的集合，並更新現有專案的外觀與風格-而且我們現在會自動將相關的圖示新增至您的事件，所以您可以輕鬆查看效果。
 
-您可以透過 [Outlook.com Calendar UserVoice 通道](https://go.microsoft.com/fwlink/?linkid=2103075)，對新功能提供意見反應。
+您可以透過[Outlook .com Calendar UserVoice 通道](https://go.microsoft.com/fwlink/?linkid=2103075)，對新功能提供意見反應。

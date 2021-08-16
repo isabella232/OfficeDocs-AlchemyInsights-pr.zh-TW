@@ -1,5 +1,5 @@
 ---
-title: 從適用于 Windows 的 Outlook 將 .pst 檔案匯入 Mac 版 Outlook
+title: 將 .pst 檔案匯入至 Windows Outlook 的 Mac 版 Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 7efb5035ee293bc2d0e8e3f36c1dd1203c6e6c12
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576390"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987386"
 ---
-# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>將 Outlook for Windows 的 .pst 檔案匯入至 Mac 版 Outlook 
+# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>從 Outlook 匯入 .pst 檔案，以 Windows Mac 版 Outlook 
 
-若要將郵件和其他專案從 Windows 電腦傳送至 Mac，Outlook for Mac 可以匯入 outlook 資料檔案 ( 已在 Outlook for Windows 中建立的 .pst) 。
+若要將郵件和其他專案從 Windows 的電腦傳送至 Mac，Mac 版 Outlook 可以匯入在) 中建立的 Outlook 資料檔案 ( .pst Outlook。
 
 **在較新的版本中-將 .pst 檔案從 Windows 匯入 Mac**
 
-1. 從 [Outlook for Mac **檔** ] 功能表中，選取 [匯 **入**]。
+1. 從 **[Mac 版 Outlook 檔案**] 功能表中，選取 [匯 **入**]。
 
-2. 選擇 [ **Outlook For Windows 封存檔 ( .pst)**]，然後按一下 [ **繼續**]。
+2. **針對 Windows 封存檔 ( .pst)** 選擇 [Outlook]，然後按一下 [**繼續**]。
 
 3. 找出電腦上的資料檔案，然後按一下 [匯 **入**]。
 
@@ -37,15 +37,15 @@ ms.locfileid: "49576390"
    匯入的專案會出現在 [ **我的電腦**] 底下的 [功能窗格] 中。
 
 
-**在 Office 2011-從 Outlook for Windows 匯入 .pst 檔案**
+**Office 2011-從 Windows Outlook 匯入 .pst 檔案**
 
 1. 將 .pst 檔案傳送至 Macintosh 電腦。
 
-2. 從 [Outlook for Mac **檔** ] 功能表中，按一下 [匯 **入**]。
+2. 從 **[Mac 版 Outlook 檔案**] 功能表中，按一下 [匯 **入**]。
 
 3. 按一下 [ **Outlook 資料檔案**]，然後按一下向右箭號。
 
-4. 選取 [ **Outlook For Windows 資料檔案**]，然後按一下向右箭號。
+4. **針對 Windows 資料檔案選取 Outlook**，然後按一下向右箭號。
 
 5. 找出電腦上的資料檔案，然後按一下 [匯 **入**]。
 
@@ -54,13 +54,13 @@ ms.locfileid: "49576390"
    匯入的專案會出現在 [ **我的電腦**] 底下的 [功能窗格] 中。
 
 > [!NOTE]
-> Outlook for Mac 只能匯入以 Unicode 為基礎的 .pst 檔案，這是 Windows) 2003 和更新版本之 Outlook (的個人資料夾檔案的標準格式。 ANSI 格式的 .pst 檔案（也稱為「Outlook 97-2002 個人資料夾檔案」）是標準的個人資料夾格式，可在版本97-2002 中儲存 Outlook for Windows 中的資料。 這種檔案格式無法匯入 Outlook for Mac。 如果您有舊版本的 ANSI 格式 .pst 檔案，則不會將該檔案轉換成較新的檔案格式。 不過，您可以在 Microsoft Outlook for Windows 2003 或更新版本中建立新的 Outlook 資料檔案 ( .pst) ，然後將舊檔案中的專案匯入新檔案。 然後，您可以將新的 .pst 檔案匯入 Outlook for Mac。 如需如何建立 .pst 檔案和匯入專案的詳細資訊，請 **參閱 Windows 版 Outlook 的說明** 。
+> Mac 版 Outlook 只能匯入 Unicode 型 .pst 檔案，這是 Outlook (的個人資料夾檔案的標準格式，Windows) 2003 和更新版本。 ANSI 格式的 .pst 檔案（也稱為 Outlook 97-2002 個人資料夾檔）是標準的個人資料夾格式，可將資料儲存在 Outlook 中 Windows 97-2002 版。 這種檔案格式無法匯入 Mac 版 Outlook。 如果您有舊版本的 ANSI 格式 .pst 檔案，則不會將該檔案轉換成較新的檔案格式。 不過，您可以在 Microsoft Outlook 中建立新的 Outlook 資料檔案)  ( Windows 2003 或更新版本，然後將舊檔案中的專案匯入新檔案。 然後，您可以將新的 .pst 檔案匯入 Mac 版 Outlook。 如需如何建立 .pst 檔案及匯入專案的詳細資訊，請 **參閱 Outlook** Windows 版本的說明。
 
-**開啟 Outlook 資料檔案 ( .pst 或 olm)**
+**開啟 Outlook 的資料檔案 ( .pst 或 olm)**
 
-您可以匯入 Outlook for Windows 資料檔案 ( .pst) 或 ( 的 Outlook for Mac 資料檔案) 。 這些資料檔案可包含多個專案類型的大量資料。 Outlook 資料檔經常用作封存，或在電腦之間傳輸資料。
+您可以匯入 Windows 資料檔案 ( .pst) 的 Outlook，或 Mac 版 Outlook 的資料檔案 (。 這些資料檔案可包含多個專案類型的大量資料。 Outlook資料檔案經常用作封存，或在電腦之間傳輸資料。
 
-1. 在 [Outlook for Mac 檔] 功能表上，按一下 [匯 **入**]。
+1. 在 [Mac 版 Outlook 檔案] 功能表上，按一下 [匯 **入**]。
 
 2. 按一下 [ **Outlook 資料檔案**]，然後按一下向右箭號。
 
@@ -73,26 +73,26 @@ ms.locfileid: "49576390"
 匯入的專案會出現在 [ **我的電腦**] 底下的 [功能窗格] 中。
 
 > [!NOTE]
-> Outlook for Mac 只能匯入以 Unicode 為基礎的 .pst 檔案，這是 Windows) 2003 和更新版本之 Outlook (的個人資料夾檔案的標準格式。 ANSI 格式的 .pst 檔案（也稱為「Outlook 97-2002 個人資料夾檔案」）無法匯入 Outlook for Mac。 如果您有舊版本的 ANSI 格式 .pst 檔案，則不會將該檔案轉換成較新的檔案格式。 不過，您可以在 Microsoft Outlook for Windows 2003 或更新版本中建立新的 Outlook 資料檔案 ( .pst) ，然後將舊檔案中的專案匯入新檔案。 然後，您可以將新的 .pst 檔案匯入 Outlook for Mac。 如需如何建立 .pst 檔案和匯入專案的詳細資訊，請參閱 Windows 版 Outlook 的說明。 
+> Mac 版 Outlook 只能匯入 Unicode 型 .pst 檔案，這是 Outlook (的個人資料夾檔案的標準格式，Windows) 2003 和更新版本。 ANSI 格式的 .pst 檔案（也稱為 Outlook 97-2002 個人資料夾檔）無法匯入 Mac 版 Outlook 中。 如果您有舊版本的 ANSI 格式 .pst 檔案，則不會將該檔案轉換成較新的檔案格式。 不過，您可以在 Microsoft Outlook 中建立新的 Outlook 資料檔案)  ( Windows 2003 或更新版本，然後將舊檔案中的專案匯入新檔案。 然後，您可以將新的 .pst 檔案匯入 Mac 版 Outlook。 如需如何建立 .pst 檔案及匯入專案的詳細資訊，請參閱 Outlook Windows 版本的說明。 
 
 **從封存或舊版本開啟 entourage 專案**
 
 您可以匯入專案，例如，電子郵件訊息、連絡人、Entourage 2004、Entourage 2008 或 Entourage 2008，Web Services Edition 中的事件。 您也可以從 Entourage 封存（副檔名為 rge）匯入這些專案。
 
-1. 從 [Outlook for Mac **檔** ] 功能表中，按一下 [匯 **入**]。
+1. 從 **[Mac 版 Outlook 檔案**] 功能表中，按一下 [匯 **入**]。
 
 2. 按一下 [封存] 或 [舊版] 中的 [ **Entourage 資訊**]，按一下向右箭號，然後依照指示執行。
 
 > [!NOTE]
-- 如果您使用的是具有 Entourage 的 Microsoft Exchange 帳戶，則在匯入程式完成後，會從 Exchange 伺服器下載 Exchange 帳戶中的所有專案。 所有與 Exchange 帳戶相關的規則或排程，都必須在 Outlook 中重新設定。
+- 如果您使用的是具有 Entourage 的 Microsoft Exchange 帳戶，則在匯入程式完成後，會從 Exchange 伺服器下載 Exchange 帳戶中的所有專案。 所有與 Exchange 帳戶相關的規則或排程，都必須在 Outlook 中重新配置。
 
-- 如果您匯入 Entourage 2004 或 Entourage 2008 中的專案，Exchange 帳戶中的專案類別資訊不會匯入至 Outlook。 不過，使用 Entourage 2008，Web Services Edition，會從 Exchange 伺服器下載類別資訊。
+- 如果您匯入 entourage 2004 或 Entourage 2008 中的專案，則 Exchange 帳戶中專案的類別資訊不會匯入 Outlook 中。 不過，使用 Entourage 2008，Web Services Edition，會從 Exchange 伺服器下載類別資訊。
 
-- Outlook 不包含專案中心。 如果您使用 Entourage 中的 [專案中心]，然後將 Entourage 資訊匯入 Outlook 中，專案中心關聯會轉換成類別。 例如，如果您將專案新增至 Entourage 中的「調研論文」專案，則會在 Outlook 中為這些專案指派一個稱為「調研紙張」的類別。
+- Outlook 不包含 Project 中心。 如果您使用 Entourage 中的 Project 中心，然後將 entourage 資訊匯入 Outlook，Project Center association 會轉換成類別。 例如，如果您將專案新增至 Entourage 中的「調研紙張」專案，則會在 Outlook 中為這些專案指派一個稱為「調研紙張」的類別。
 
-- 來自 Entourage 的自訂視圖、搜尋設定和事件旅行時間資訊不會匯入至 Outlook。 Outlook 事件不包含任何旅行時間資訊。
+- 來自 Entourage 的自訂視圖、搜尋設定和事件旅行時間資訊不會匯入 Outlook。 Outlook 事件不包含任何旅行時間資訊。
 
-**將專案從封存資料夾移至 Outlook 中的其他資料夾**
+**在 Outlook 中將專案從封存資料夾移至另一個資料夾**
 
 1. 選取您要移動的專案。
 
@@ -105,7 +105,7 @@ ms.locfileid: "49576390"
 
 **另請參閱**
 
-- [匯入資訊至 Outlook] (https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c
+- [將資訊匯入 Outlook] (https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c
 
 - [將 iCal 或通訊錄專案匯入 Outlook](https://support.microsoft.com/office/import-ical-or-address-book-items-into-outlook-for-mac-0450a248-6a40-4f84-ba9c-6c545bc11639)
 

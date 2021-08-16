@@ -13,16 +13,16 @@ ms.collection: Adm_O364
 ms.custom:
 - "9004219"
 - "10871"
-ms.openlocfilehash: 1e55d9d579c389dfe731f887a2a08c6234de2787
-ms.sourcegitcommit: 254b25150fa326628084d08479b0e7dd8b7d479a
+ms.openlocfilehash: 398496448089d4480119a2eb21221dc11f13c6c1f3bcbd931d6c18033f2e734e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51590275"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987530"
 ---
 # <a name="identify-windows-virtual-desktop-issues"></a>識別 Windows 虛擬桌面問題
 
-Windows 虛擬桌面診斷僅使用 PowerShell Cmdlet，但包含許多選用參數以協助縮小和隔離問題。 若要開始使用： 
+Windows 虛擬桌面診斷僅使用 PowerShell Cmdlet，但包含許多選用參數以協助縮小和隔離問題。若要開始使用： 
 
 1. 下載並匯入 Windows 虛擬桌面 PowerShell 模組。 如需詳細資訊，請參閱[適用於 Windows PowerShell 的 Windows 虛擬桌面 Cmdlet](https://docs.microsoft.com/powershell/windows-virtual-desktop/overview)。
 

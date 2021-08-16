@@ -13,16 +13,16 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668085"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987540"
 ---
 # <a name="identify-holds-placed-on-mailboxes"></a>識別放在信箱上的保留
 
-您是否有 **保留** 無法 **識別的 Microsoft** 365 內容？ 需要 **找出** 保留位於 **信箱** 上的何處？ 保留可透過下列其中一種方法套用 (*保留功能*) ：
+您是否有 Microsoft 365 **保留** 無法 **識別的內容**？ 需要 **找出** 保留位於 **信箱** 上的何處？ 保留可透過下列其中一種方法套用 (*保留功能*) ：
   
 - 訴訟暫止
 
