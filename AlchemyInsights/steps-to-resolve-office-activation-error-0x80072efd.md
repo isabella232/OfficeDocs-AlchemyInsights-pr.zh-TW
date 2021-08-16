@@ -1,5 +1,5 @@
 ---
-title: 解決 Office 啟用錯誤的步驟0x80072EFD
+title: 解決 Office 啟用錯誤0x80072EFD 的步驟
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "915"
 - "2000021"
 ms.assetid: d071ce0c-c29e-4917-8860-950e5efd26af
-ms.openlocfilehash: 9a6718bc46285492cbf6914f18a314998c7c593d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 46821b7847d67874e42d3f07adbbce43be37190d7229ac886595d03c43cbfeb6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770290"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021263"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80072efd"></a>解決 Office 啟用錯誤的步驟0x80072EFD
+# <a name="steps-to-resolve-office-activation-error-0x80072efd"></a>解決 Office 啟用錯誤0x80072EFD 的步驟
 
-嘗試這些解決方案以修正 Office 啟用錯誤：
+請嘗試這些解決方案以修正 Office 啟用錯誤：
   
 1. 檢查您的 [防火牆](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall)。
 
@@ -29,4 +29,4 @@ ms.locfileid: "47770290"
 
 3. 檢查您的 [proxy 設定](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy)
 
-4. 下載及安裝 [支援及修復](https://aka.ms/SARA-OfficeActivation-Alchemy) 小幫手，並執行「 **啟用」疑難排解**。
+4. 下載和安裝 [支援及修復小幫手](https://aka.ms/SARA-OfficeActivation-Alchemy)，並執行「**啟用疑難排解** 程式。
