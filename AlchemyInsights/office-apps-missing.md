@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2529"
 - "9000572"
-ms.openlocfilehash: 1c3c2e1b590cf5834b71165f3f4b1bf44babd6da
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 442c7fd4da7d6419c255f37ee6ed66133b45b1e55ddcb27b2ba9b5697572ebd9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810079"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065023"
 ---
 # <a name="microsoft-365-apps-missing"></a>缺少 Microsoft 365 應用程式
 
-安裝或更新後，如果您無法在電腦上找到 Office 應用程式，請參閱 [在 windows 10、windows 8 或 windows 7 中找不到 office 應用程式？](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6)。 如果您找不到 [開始] 功能表或 [ **所有應用程式**] 底下的 Office 快捷方式，請參閱 [Windows 10 上所有應用程式中的 Microsoft 365 應用程式都已遺失](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc)。 
+若您在安裝或更新後無法找到電腦上的 Office 應用程式，請參閱[無法在 Windows 10、Windows 8 或 Windows 7？中找到 Office 應用程式](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6)。 如果您找不到 [開始] 功能表或 **所有應用程式** 的 Office 快捷方式，請參閱 [Windows 10 上所有應用程式中的 Microsoft 365 應用程式都缺失](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc)。 
 
-在登入或重新開機電腦之後，如果 Office 快捷方式消失，請嘗試 [修復 office 應用程式](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) 。 
+在登入或重新開機電腦之後，如果 Office 快捷方式消失，請嘗試[修復 Office 應用程式](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)。 
 
-**附注：** 如果 Office 入口網站上缺少 Microsoft 365 應用程式安裝，請移至 [疑難排解安裝 office](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2)並移至 **Office 以取得商務用的**  >  **常見問題**  >  **您不會看到安裝 Office 的選項**。 
+**附注：** 如果在 Office 入口網站上缺少安裝 Microsoft 365 應用程式，請移至 [疑難排解安裝 Office](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) ，然後移至 [ **Office] 以取得商務**  >  **常見問題**  >  。**您沒有看到安裝 Office 的選項**。 

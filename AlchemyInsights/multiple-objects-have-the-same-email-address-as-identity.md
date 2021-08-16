@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1834"
 - "9000247"
-ms.openlocfilehash: 05fb43133bc68b71ccdbab44d28679a1f659e762
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5866d182cb2e97e37bc6df87e05fb6ef55bfed1d36f9daa95b7b8993a509e2dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724606"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011903"
 ---
 # <a name="multiple-objects-have-the-same-email-address-as-identity"></a>多個物件的電子郵件地址與身份識別相同
 
 **多個物件**
 
-出現此錯誤的一個常見原因是，當多個物件的電子郵件地址與身份識別相同時，無法正確路由 Outlook Web Access 請求。 要尋找這些物件，請運行以下命令：
+出現此錯誤的一個常見原因是，當多個物件的電子郵件地址與身分識別相同時，無法正確路由 Outlook Web Access 請求。若要尋找這些物件，請執行以下命令：
 
 · Get-Recipient <email address>
 

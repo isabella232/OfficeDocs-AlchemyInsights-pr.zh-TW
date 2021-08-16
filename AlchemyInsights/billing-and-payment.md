@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686877"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54502383"
 ---
 # <a name="billing-and-payment"></a>帳單和付款
 
@@ -38,7 +38,7 @@ ms.locfileid: "53686877"
 
 如果您已新增一張卡片，但仍在舊信用卡上收到拒絕通知，您可能需要將該新卡與訂閱產生關聯。
 
-1. 在系統管理中心中，移至 [帳單] > [帳單與付款] > [付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)頁面。
+1. 在系統管理中心中，移至 **[帳單]** > **[帳單與付款]** > [付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)頁面。
 
 2. 選取付款方式資料列以進行取代。 右側窗格會列出所有帳單設定檔，以及使用所選付款方式的個別訂閱。
 
