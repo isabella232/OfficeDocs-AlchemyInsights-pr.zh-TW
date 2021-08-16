@@ -15,15 +15,15 @@ ms.custom:
 - "7093"
 - "9004596"
 - "8220"
-ms.openlocfilehash: da0a46efdb7dd7cd393dc69daddecaf5f915f513
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 629463e6fbd1f1b794ba04b7707d7ab9ece55ea9851352211fcaeed41ea9279d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019283"
 ---
 # <a name="block-pop-up-windows-in-microsoft-edge"></a>在 Microsoft Edge 中封鎖快顯視窗
 
-1. 前往 **... (設定，以及更多)**  >  **設定**  >  **網站許可權**。
+1. 前往 **... (設定及其他)**  >  **設定**  >  **網站許可權**。
 2. 選取 [ **快顯視窗] 和**[重新導向]。
 3. 開啟 **區塊**。

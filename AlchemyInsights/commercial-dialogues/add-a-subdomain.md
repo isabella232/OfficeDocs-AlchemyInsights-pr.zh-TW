@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 08a5d4a51ee8de1a29607bb04ebc05d85faaddaa
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5cef08bd626ae7362fd3bf33f2f58a7b83b2b7cca7a64ee5abc9efaa546acd72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736031"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006331"
 ---
 # <a name="add-a-subdomain"></a>新增子域
 
@@ -32,7 +32,7 @@ ms.locfileid: "50736031"
 1. 在系統管理中心中，流覽至 [ **安裝 > 網域**]。
 2. 按一下  [新增網域]。
 3. 輸入子域的名稱。 例如，如果您擁有網域 **contoso.com**，您的子域可能會是 **_london.contoso.com_**。
-4. 按 [下一步 **]**。
+4. 按一下 **[下一步]**。
 5. 如果您想要為子域設定線上服務，請繼續執行嚮導或
 6. RIf 您要略過設定子域的線上服務，請按一下 [ **儲存** 並 closethe] 視窗。
 

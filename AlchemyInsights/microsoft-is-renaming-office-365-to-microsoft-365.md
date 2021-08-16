@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002346"
 - "4566"
-ms.openlocfilehash: 70e10e39fce4660ac755cb68322decfc9d4f0fc9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 19d4fd7529a27b8dfa7b178f71be630b15dca27162969171c9d0f3bbf820d983
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992687"
 ---
 # <a name="microsoft-is-renaming-office-365-to-microsoft-365"></a>Microsoft 正將 Office 365 重新命名為 Microsoft 365
 

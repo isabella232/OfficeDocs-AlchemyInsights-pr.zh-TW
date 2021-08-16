@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 0eb470b6c17def5517db2f866ef40898b36662ed
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5ddfda8687fe3ae2467ad221c7c083f46239826e23b10b91732ea06fd4649f3e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006161"
 ---
 # <a name="assign-an-audit-log-role-in-the-office-365-security--compliance-center"></a>在 Office 365 安全性與合規性中心指派稽核記錄角色
 

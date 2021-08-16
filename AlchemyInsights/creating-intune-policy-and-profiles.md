@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39725243636eb16a76078afe0165cc4c3bcd9c4fdc61358a1c75b6b310956c41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704633"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994172"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>建立 Intune 原則及設定檔
 
@@ -26,7 +26,7 @@ ms.locfileid: "50704633"
 
 - **註冊設定檔**：依平臺預先配置裝置、啟用使用者關聯性、使用多重要素驗證等等。
 
-  [什麼是裝置註冊](https://docs.microsoft.com/intune/device-enrollment)，以及建立 [Android](https://docs.microsoft.com/intune/android-enroll)、 [iOS](https://docs.microsoft.com/intune/ios-enroll)、 [macOS](https://docs.microsoft.com/intune/macos-enroll)和 [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) 的註冊設定檔是很好的資源。
+  [什麼是裝置註冊](https://docs.microsoft.com/intune/device-enrollment)，以及建立[Android](https://docs.microsoft.com/intune/android-enroll)、 [iOS](https://docs.microsoft.com/intune/ios-enroll)、 [macOS](https://docs.microsoft.com/intune/macos-enroll)及[Windows](https://docs.microsoft.com/intune/windows-enrollment-methods)的註冊設定檔，都是良好的資源。
 
 - **規範原則**：定義裝置必須遵循的規則和設定，才能相容。 您也可以使用相容性原則來監視裝置，並通知使用者非法規遵從性。
 
