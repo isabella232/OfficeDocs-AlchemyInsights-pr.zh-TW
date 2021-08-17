@@ -1,5 +1,5 @@
 ---
-title: 深入瞭解新的 Microsoft Edge 功能
+title: 深入瞭解新 Microsoft Edge 的功能
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8226"
-ms.openlocfilehash: 9c139589d1ab6fef122acabe3341259ab3722b03
-ms.sourcegitcommit: 309b9f3e6e2ff622f95bb860d337d2c05b7bbe54
+ms.openlocfilehash: 1ecce6cde278b50c88405911336f24a4d4a59752c661afec62536d6dd824662e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "50819544"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054250"
 ---
-# <a name="learn-about-the-features-of-the-new-microsoft-edge"></a>深入瞭解新的 Microsoft Edge 功能
+# <a name="learn-about-the-features-of-the-new-microsoft-edge"></a>深入瞭解新 Microsoft Edge 的功能
 
-Microsoft Edge 的建立是為了提供世界一流的相容性和效能、您應享有的安全性和隱私權，以及可讓您充分利用網站的功能：
+Microsoft Edge 是為了提供世界一流的相容性和效能、您應享有的安全性和隱私權，以及可讓您充分利用網站的功能：
 
 - **以世界一流的效能流覽：** 預期的速度、效能及相容性與所有最愛的網站和分機。
-- **立即下載或等候自動更新：** 立即下載瀏覽器，或更新 Windows 10 電腦，並自動安裝新的 Microsoft Edge。
+- **立即下載或等候自動更新：** 立即下載瀏覽器，或更新 Windows 10 的電腦，並自動安裝新的 Microsoft Edge。
 - 以 **無縫開始快速入門：** 從其他瀏覽器匯入您的 [我的最愛] 和密碼，以在一個位置獲得所有需要的功能。
 - 省錢 **，價格比較：** 使用 Microsoft Edge 集合，比較各零售商的價格，只需要按一下即可。
 - **流覽更多隱私權和安全性：**
@@ -34,4 +34,4 @@ Microsoft Edge 的建立是為了提供世界一流的相容性和效能、您�
 
 - **在大部分裝置上流覽：** 流覽大多數在主要作業系統上執行的裝置。
 
-若要深入瞭解，請參閱 [Microsoft Edge 的功能](https://go.microsoft.com/fwlink/?linkid=2146817)。
+若要深入瞭解，請參閱[Microsoft Edge 的功能](https://go.microsoft.com/fwlink/?linkid=2146817)。

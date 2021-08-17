@@ -1,5 +1,5 @@
 ---
-title: 在 Outlook for Windows 中建立電子郵件簽名
+title: 在 Windows 版 Outlook 中建立電子郵件簽名
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8199"
-ms.openlocfilehash: 25cd019333191bc9615a7c53d332ddc50ceb8d3a
-ms.sourcegitcommit: f76114031755a597031bf2f80b03ba65c6f9dd84
+ms.openlocfilehash: 66b7db54629319c275dc72ed7cd0ca91324040f1c1e7e7080e69c62e31a03cc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50163162"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080449"
 ---
-# <a name="create-an-email-signature-in-outlook-for-windows"></a>在 Outlook for Windows 中建立電子郵件簽名
+# <a name="create-an-email-signature-in-outlook-for-windows"></a>在 Windows 版 Outlook 中建立電子郵件簽名
 
 在 Outlook 中，您的電子郵件簽章可以包含文字、圖像、您的電子名片、標誌，甚至是手寫簽章的影像。 若要執行這項作業，請完成下列程序：
 

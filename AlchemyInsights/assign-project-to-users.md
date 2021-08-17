@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002424"
 - "5103"
-ms.openlocfilehash: d1cea417d9c119a4d67ad704837622c6077e056d4abd28d2bf89e71f4edefee1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 08d3a74174ff30bf330e9c5ad41390a0247e20fd5a7a378da7d5f2a5905b2c86
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499575"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888829"
 ---
 # <a name="assign-project-to-users"></a>將 Project 指派給使用者
 
@@ -33,4 +33,4 @@ ms.locfileid: "54499575"
 5. 按一下 [開啟或關閉應用程式和服務] 來進行指派或移除。
 6. 按一下 [指派] 和 [關閉]。
 
-若要購買更多授權或移除授權，請參閱 [新增或移除授權](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)。
+若要購買更多授權或移除授權，請參閱 [新增或移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)。

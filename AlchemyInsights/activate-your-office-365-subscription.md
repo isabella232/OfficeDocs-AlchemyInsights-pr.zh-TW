@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: be0086b8c2e1907d28e81227b82ade09fc46c1ed4749a50ac0c776eb431ece56
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937740"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889305"
 ---
 # <a name="activate-your-subscription"></a>啟用訂閱
 
 **啟用訂閱**
 
-- 若要提供使用者服務的存取權，請指派授權給使用者。 若要瞭解作法，請參閱[將授權指派給使用者](/microsoft-365/admin/manage/assign-licenses-to-users)。
+- 若要提供使用者服務的存取權，請指派授權給使用者。 若要瞭解作法，請參閱[將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
 - 如果您已有指派的授權，可以從[我的帳戶](https://portal.office.com/account/#installs)頁面找到可以下載的應用程式。 本頁根據已指派的授權，提供您可以下載的應用程式清單。
-- 如果您已經下載 Office 應用程式，可能需要使用您的公司或學校帳戶登入應用程式。 您可以在任何 Office 應用程式 (Word、Excel 等) 中選取 **[檔案] > [帳戶]** (接近底部) 來進行此作業。 在 [使用者資訊] 下，選取 **[切換帳戶]**。 如需詳細資訊，請閱讀[安裝 Office 應用程式](/microsoft-365/admin/setup/install-applications)。
+- 如果您已經下載 Office 應用程式，可能需要使用您的公司或學校帳戶登入應用程式。 您可以在任何 Office 應用程式 (Word、Excel 等) 中選取 **[檔案] > [帳戶]** (接近底部) 來進行此作業。 在 [使用者資訊] 下，選取 **[切換帳戶]**。 如需詳細資訊，請閱讀[安裝 Office 應用程式](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)。
 
 **重新啟用訂閱**
 
@@ -36,9 +36,9 @@ ms.locfileid: "53937740"
 3. 在 **重新啟用此訂閱** 窗格中，從下拉式清單中選取付款條件，或選取 **[新增付款條件]**。
 4. 選取 **[儲存]**。
 
-如需詳細資訊，請參閱[重新啟用您的訂閱](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
+如需詳細資訊，請參閱[重新啟用您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
 
 **以產品金鑰啟用新訂閱**
 
 - 若要使用您的產品金鑰啟用新的 Microsoft 365 訂閱，請參閱[輸入 Office 產品金鑰的位置](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)。
-- 輸入您的 Microsoft 365 產品金鑰，然後遵循提示來啟用您的訂閱。如果您有啟用方面的問題，請查看此[常見產品金鑰錯誤與解決方案](/microsoft-365/commerce/product-key-errors-and-solutions)清單。
+- 輸入您的 Microsoft 365 產品金鑰，然後遵循提示來啟用您的訂閱。如果您有啟用方面的問題，請查看此[常見產品金鑰錯誤與解決方案](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)清單。

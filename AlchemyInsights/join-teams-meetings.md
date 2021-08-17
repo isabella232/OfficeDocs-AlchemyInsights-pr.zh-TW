@@ -1,5 +1,5 @@
 ---
-title: 加入團隊會議
+title: 加入 Teams 會議
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ebd54843fb99e144580dc26ce382039b5a6b0c3d85d1be45b2b49a0e92f5d46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823994"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054259"
 ---
-# <a name="join-a-meeting-in-teams"></a>加入小組中的會議
+# <a name="join-a-meeting-in-teams"></a>在 Teams 中加入會議
 
-若要加入小組會議，請先設定會議原則，然後讓使用者直接從其偏好的裝置加入：
+若要加入 Teams 會議，請先設定會議原則，然後讓使用者從其偏好的裝置加入：
 
 - 設定會議原則，以控制誰將能夠以 [參與者或來賓](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests)的身分加入會議。 
 
-- 使用 Microsoft 小組 [PowerShell Cmdlet](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) 進行原則變更。    
+- 使用 Microsoft Teams [PowerShell Cmdlet](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)進行原則變更。    
 
 **附注：** 原則變更可能需要長達24小時才會生效。
