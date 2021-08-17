@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8217"
 - "9004596"
-ms.openlocfilehash: 37860cbb447b12f1c989b9e02beb263edc5f2fd2
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: dd7fdf4b0e6da5a472052176b6d39a055c7aa0940a0d6ad82c773ae9c14345af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897685"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059983"
 ---
 # <a name="block-ads-in-the-microsoft-edge-browser-on-an-android-or-ios-device"></a>在 Android 或 iOS 裝置上的 Microsoft Edge 瀏覽器中封鎖廣告
 
