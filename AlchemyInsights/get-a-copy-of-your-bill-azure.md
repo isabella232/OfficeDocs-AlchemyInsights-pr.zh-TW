@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812356"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116899"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>取得帳單或使用方式的副本
 
-**下載您的 Azure 發票 ( .pdf)**
+**下載您的 Azure 發票 (.pdf)**
 
-1. 從 Azure 入口網站的 [[訂閱] 頁面](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)選取您的訂閱，以 [供擁有發票存取權的使用者](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)，然後選取 [**發票**]
-2. 按一下 **[下載發票]** 以查看您的 PDF 發票複本。 如果 **無法使用**，請參閱 [為什麼我看不到最後計費期間的發票？](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. 您也可以按一下計費期間，以取得發票的 PDF，以及詳細的日常使用檔案 ( 的副本，以查看您的日常使用方式。CSV) ： [取得發票和使用狀況資料](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. 作為 [有權存取發票的使用者](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)，從 Azure 入口網站的 [[訂閱] 頁面](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)中選取您的訂閱，然後選取 **[發票]**
+2. 按一下 **[下載發票]** 以查看您的 PDF 發票複本。 如果顯示 **[無法使用]**，請查閲 [為什麼我看不到上一個計費期間的發票？](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. 您也可以按一下計費期間來檢視您的每日使用情況 要取得發票的 PDF 和詳細的日常使用量檔案 (.CSV) 的副本，請[取得發票和使用量資料](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**在電子郵件 ( .pdf) 中取得您的發票**
+**在電子郵件 (.pdf) 中取得您的發票**
 
 1. 從 [ [訂閱] 頁面](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)中選取您的訂閱。 按一下 [ **發票** ]，然後以 **電子郵件傳送發票**
 2. 按一下 [ **加入** ] 並接受這些條款。 您必須為您擁有的每一位訂閱選用。 附注：如果您在遵循這些步驟之後未收到電子郵件，請確定您的電子郵件地址在[您的設定檔的通訊喜好](https://account.windowsazure.com/profile)設定中是正確的
 3. [以直接電子郵件傳送至您的收件匣的 Azure 發票](https://azure.microsoft.com/blog/azure-email-invoices/)
 
 **瞭解每日使用：**  
-[瞭解您的 Microsoft Azure 帳單](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
+[瞭解 Microsoft Azure 的帳單](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
 **管理成本：** [使用 Azure 計費和成本管理防止意外成本](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
@@ -52,7 +52,7 @@ ms.locfileid: "51812356"
 
 **Enterprise 合約 (EA)**
 
-若要以 EA 客戶的身分查看和下載使用狀況資料，您必須是已啟用「查看費用」原則的企業系統管理員、帳戶擁有人或部門系統管理員。
+若要以 EA 客戶的身分查看和下載使用狀況資料，您必須是已啟用 view 計費原則的 Enterprise 系統管理員、帳戶擁有人或部門管理員。
 
 - 登入 Azure 入口網站。 搜尋 **[成本管理] + [計費]**。 選取帳單設定檔
 - 選取 [使用狀況 + 費用]。 針對您要下載的月份，選取 [下載]
@@ -70,7 +70,7 @@ ms.locfileid: "51812356"
 - 如果您不是帳戶管理員，可能無法使用舊版發票 **請注意**： Microsoft 不會提供任何使用方式報告或 Azure CSP 客戶的消費資料。 合作夥伴中心使用方式資料是面向合作夥伴的
 - 深入瞭解 AIO (Azure 開啟) 計費和使用： Azure 開啟 [中](https://azure.microsoft.com/offers/ms-azr-0111p/)
 
-**建議的文件**
+**建譯的文件**
 
 - [為何您可能看不到發票？](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 - [要求/下載/查看您的 Azure 計費發票和使用狀況資料](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)

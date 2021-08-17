@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12063"
 - "9000273"
-ms.openlocfilehash: 18361d69f8ddebaaa483b9665142fae4ae671061b49ae4d611bb5e85c7cb2d82
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 21b06a9b5e836fa83f4d37617857eabb6289c30771d69225de662415d513d720
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54033485"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890137"
 ---
 # <a name="configure-retention-policies-for-teams-locations"></a>設定 Teams 位置的保留原則
 
@@ -36,5 +36,5 @@ ms.locfileid: "54033485"
 
 附注：保留原則目前不支援私人通道郵件。
 
-如需小組保留和已知設定問題的詳細資訊，請參閱[Teams 位置的保留原則](/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
+如需小組保留和已知設定問題的詳細資訊，請參閱[Teams 位置的保留原則](https://docs.microsoft.com/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
 

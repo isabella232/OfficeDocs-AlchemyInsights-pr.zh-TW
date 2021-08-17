@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11084"
 - "9003537"
-ms.openlocfilehash: a53a0109c3b974806d04135dd2c102de81ec560f
-ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.openlocfilehash: cefebe63e45caab176ba84a35280378ace7e6b3115c48694ed043a39b4d93c1e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52627233"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890045"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>Defender 端點檢查感應器狀態
 
@@ -35,11 +35,11 @@ ms.locfileid: "52627233"
 - **設定錯誤** 可能部分向適用於端點的 Defender 服務報告感應器資料但存在需要修正的設定錯誤之裝置。 設定錯誤的裝置可能存在以下一個或多個問題：
 
     - 無感應器資料 - 裝置已停止傳送感應器資料。 裝置可以觸發有限的警示。
-    - 通訊受損 - 與裝置通訊的能力受損。 傳送檔案進行深入分析、封鎖檔案、將裝置與網路隔離以及其他需要與裝置通訊的動作可能無法運行。
+    - 通訊受損 - 與裝置通訊的能力受損。傳送檔案進行深入分析、封鎖檔案、將裝置與網路隔離以及其他需要與裝置通訊的動作可能無法運行。
 - **閒置中** 已停止向適用於端點的 Defender 服務報告的裝置。
 
 您可以使用匯出功能以 CSV 格式下載整個清單。
 
-如需詳細資訊，請參閱[檢查適用於端點的 Microsoft Defender 中的感應器健全狀態](/microsoft-365/security/defender-endpoint/check-sensor-status)。
+如需詳細資訊，請參閱[檢查適用於端點的 Microsoft Defender 中的感應器健全狀態](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/check-sensor-status)。
 
-如需導致裝置處於裝置狀態或設定錯誤的原因之詳細資訊，請參閱 [修正適用於端點的 Microsoft Defender 中的不良感應器](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors)。
+如需導致裝置處於裝置狀態或設定錯誤的原因之詳細資訊，請參閱 [修正適用於端點的 Microsoft Defender 中的不良感應器](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors)。

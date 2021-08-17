@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7796"
-ms.openlocfilehash: 39b9af46689bc333b7f590b589a13222d425b497
-ms.sourcegitcommit: 9b8f2ca19fb81b2729ecf5ff7586f4e7d607ba9a
+ms.openlocfilehash: c3d3eeb09b21b09e94ffb8468714f0c7e150468dc9bffe4cd7745fb5d7237908
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50074148"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110275"
 ---
 # <a name="resolve-problems-when-configuring-the-app-proxy"></a>解決設定應用程式 Proxy 時發生的問題
 
