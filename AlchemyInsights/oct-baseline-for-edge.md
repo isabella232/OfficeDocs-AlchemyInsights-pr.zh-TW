@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11140"
-ms.openlocfilehash: fe28d8ee4b67369a8af40828d2f4290c557286e0
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 13e1d8ab83927f5a27cae86f9c0a7cc724ffc0579c7c629cbad49f4464a38a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52783192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076705"
 ---
 # <a name="view-the-october-2019-baseline-for-microsoft-edge-versions-77-and-later"></a>針對 Microsoft Edge 版本77及更新版本，查看2019年10月的基準
 

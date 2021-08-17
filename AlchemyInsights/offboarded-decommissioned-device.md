@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 46ac46c583cd0ac956797737d8150277f0d79ba5
-ms.sourcegitcommit: c685f197dbf83a9dfd85e9acfdf14a4daf0e9a5a
+ms.openlocfilehash: 814301e9cd8197e62dcca68ab3bdde1618d210f73a744b53bb5af7b861eb02bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52319170"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076634"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>從裝置庫存移除 offboarded 或解除授權裝置時的問題
 
@@ -26,7 +26,7 @@ Microsoft Defender for Endpoint 目前不允許從裝置庫存手動移除 offbo
 
 基於安全性的考慮，裝置會在入口網站中維持為歷史記錄，最多180天。 不過，裝置資料會根據您設定的保留期間來清除。
 
-**附注：** Offboarded 或解除授權的裝置會在七天后自動切換到 **非** 使用中狀態。 此外，過去30天內非使用中的裝置不會考慮反映組織威脅的資料，也不會影響裝置的漏洞管理洩密分數或 Microsoft 安全分數。
+**附注：** Offboarded 或解除授權的裝置會在七天后自動切換到 **非** 使用中狀態。 此外，在過去30天內未使用的裝置，不會考慮反映組織威脅與弱點管理暴露程度或 Microsoft 安全評分為裝置的資料。
  
 如果您仍不想要在裝置庫存模式中查看特定裝置，請嘗試放置裝置標籤，以從裝置庫存模式中篩選出解除授權的裝置。
 
@@ -34,7 +34,7 @@ Microsoft Defender for Endpoint 目前不允許從裝置庫存手動移除 offbo
 
 [Microsoft Defender for Endpoint service 中的下架裝置](/microsoft-365/security/defender-endpoint/offboard-machines.md)
 
-[威脅和弱點管理中的披露分數](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
+[威脅與弱點管理中的披露分數](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
 
 [修正 Microsoft Defender for Endpoint 中的狀況不良感應器](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
 
