@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 6eb8f22931c8ca0518a6f5e6219904eea01f0328
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c77271b1ee5ea871ddd921ccb4c47c699564c052ea0d19ccb5aabec2cfb5edc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825866"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072547"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word 崩潰或沒有回應
 
@@ -32,8 +32,8 @@ ms.locfileid: "51825866"
 1.   在 Windows 桌面上，關閉 Outlook，然後按 CTRL + ALT + DEL 開啟 [工作管理員]。 
 2. **在 [程式**] 索引標籤上，如果正在執行 Word 程式，請選取它們，然後選擇 [**結束任務**]。 此外，建議您重新開機以清除記憶體中的所有內容。
 
-    如果 Word 在啟動期間繼續損毀或懸掛，請參閱在 [WINDOWS 電腦上以安全模式開啟 Microsoft 365 應用程式](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) ，以安全模式啟動。
+    如果 Word 在啟動期間繼續損毀或懸掛，請參閱在[Windows 電腦上以安全模式開啟 Microsoft 365 app](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) ，以保管庫模式啟動它。
 
 如果仍有問題，請參閱下列文章： 
 - [我在電腦上啟動 Office 應用程式時收到「已停止運作」錯誤](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Word for Windows 中的最近問題修正或解決方法](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)
+- [Windows Word 中的最近問題的修正或解決方法](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)

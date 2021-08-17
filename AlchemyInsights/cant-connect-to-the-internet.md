@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1547d69cf990d6f0872e23162408860ed25aa805eb99f818eb079d0f7e04ce35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819431"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035655"
 ---
 # <a name="fix-network-connection"></a>修正網路連線
 
@@ -43,6 +43,6 @@ ms.locfileid: "51819431"
 
 **高級疑難排解**
 
-如需更高級的疑難排解步驟，請參閱 [Fix Wi-Fi Connection Windows 中的問題](https://support.microsoft.com/help/10741?ocid=SMC10741%2F)。 
+如需更高級的疑難排解步驟，請參閱[Fix Wi-Fi connection Windows 中的問題](https://support.microsoft.com/help/10741?ocid=SMC10741%2F)。 
 
 如果您不習慣使用技術疑難排解的更多[步驟，請聯繫我們。](https://support.microsoft.com/contactus)

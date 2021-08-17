@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 7efb8895ac7e2816a2c6055ec3c08d6f7029d39d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2caf8e0878da0049667d9a19f4488eaec4b9327fbf36be7d29dbf4b7a9c89158
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748980"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072511"
 ---
 # <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>未傳送 SharePoint 清單或文件庫的工作流程電子郵件
 
-1. 來自工作流程的電子郵件不會傳送給所有使用者或只傳送給特定使用者，否則您會看到錯誤 **電子郵件無法傳送。請確定電子郵件具有有效的收件**者。
+1. 來自工作流程的電子郵件不會傳送給所有使用者或只傳送給特定使用者，否則您會看到錯誤 **電子郵件無法傳送。請確定電子郵件具有有效的收件** 者。
 
     檢查使用者是否存在於該網站集合的 [ **所有人員** ] 許可權群組中 (使用者資訊清單) 。  URL: <tenant> sharepoint.com/sites/ <sitename> /_layouts/15/people.aspx 的範例 direct？MembershipGroupId = 0
 
@@ -40,8 +40,8 @@ ms.locfileid: "47748980"
 
 
 ## <a name="related-topics"></a>相關主題
-想要在 SharePoint Online 中試用 Microsoft 流程嗎？
-- [建立流程](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint 和流程](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+想要在 SharePoint 線上中嘗試 Microsoft Flow 嗎？
+- [建立 Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint 和 Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
