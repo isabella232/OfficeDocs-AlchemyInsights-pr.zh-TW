@@ -1,5 +1,5 @@
 ---
-title: 在 Outlook.com 處理垃圾郵件和垃圾郵件
+title: 處理 Outlook .com 中的垃圾郵件和垃圾郵件
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: f3587e5a53ea6ad7967fe4647952b4561f54e5d8
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: c894da50d74f6d238be65ce74094257f9bd631de5ce579d1aaa511292c2523e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452147"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111355"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Outlook.com 中的垃圾郵件和垃圾郵件
+# <a name="spam-and-junk-email-in-outlookcom"></a>Outlook .com 中的垃圾郵件和垃圾郵件
 
 如果您收到太多垃圾郵件或垃圾郵件，請嘗試下列方法：
 
@@ -37,10 +37,10 @@ ms.locfileid: "48452147"
     1. 開啟 [ [垃圾郵件] 設定](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2)。
     1. 在 [ **封鎖的寄件者和網域**] 底下，選取 [ **新增**]。
     1. 輸入您要封鎖的電子郵件地址或網域，然後按 Enter。
-    1. 在 [ **篩選器**] 底下，選擇是否要從 [安全的寄件者和網域及安全的郵寄清單] 底下的位址信任電子郵件。
+    1. 在 [**篩選器**] 底下，選擇是否要信任保管庫寄件者和網域以及保管庫郵寄清單的電子郵件。
     1. 選取 **[儲存]**。
 
 1. **建立收件匣規則**
     1. 以滑鼠右鍵按一下郵寄清單中的郵件，然後選取 [ **建立規則**]。
     1. 選擇您要移動來自該寄件者之所有郵件的資料夾，然後選取 **[確定**  >  **]**。
-    1. [深入瞭解 Outlook.com 中的收件匣規則。](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
+    1. [深入瞭解 Outlook .com 中的收件匣規則。](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)

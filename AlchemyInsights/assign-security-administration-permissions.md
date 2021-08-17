@@ -1,5 +1,5 @@
 ---
-title: 指派安全性管理權限
+title: 指派安全性系統管理員權限
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 7c7572566516204a2a0b40234057b95c76d5e08cba065a4bd3c8d638006f4019
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 91faa95cfad782066b438b1e58782d3c21d59eb2d164ea6076238f6ea98aa1bd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950404"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894662"
 ---
-# <a name="assign-security-administration-permissions"></a>指派安全性管理權限
+# <a name="assign-security-administrator-permissions"></a>指派安全性系統管理員權限
 
-若要安全性管理權限，請執行下列步驟：
+若要指派安全性系統管理員權限，請執行下列步驟：
 
-1. 在 [Office 365 安全性與合規性中心](https://sip.protection.office.com/homepage)，選取 **[權限] > [安全性系統管理員]**。
-2. 在 **[安全性系統管理員]** 窗格的 **[成員]** 旁，按一下 **[編輯]**。
-3. 在 **[編輯選擇成員]** 窗格中，按一下 **[選擇成員]**。
-4. 在 **[選擇成員]** 窗格中，按一下 **[+ 新增]**，然後選取使用者的名稱。
-5. 選取 **[新增] > [完成] > [儲存]**。
+1. 在位於 <https://security.microsoft.com> 的 Microsoft 365 Defender 入口網站中，選取 **[電子郵件和共同作業角色]** 區段中的 **[權限和角色]** \>**[角色]**。 或者，若要直接前往 **[權限]** 頁面，請使用 <https://security.microsoft.com/emailandcollabpermissions>。
+2. 從角色群組清單中，選取 **[安全性系統管理員]**。
+3. 在顯示的 [詳細資料] 飛出視窗中，向下捲動到 **[成員]** 區段，然後按一下 **[編輯]**。
+4. 在顯示的 **[編輯選擇成員]** 飛出視窗上，按一下 **[編輯]**。
+5. 在顯示的 **[選擇成員]** 飛出視窗中，按一下 **[+新增]**，然後選取使用者名稱。
+6. 完成後，按一下 **[新增]** \> **[完成]** \> **[儲存]** \> **[關閉]**。

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 8c7ce48f50b5c933ea15c23a486b99ad7a7f4d79
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7935d6f74113e6da843f5f7df65bcb540b3d7a23b69f388b721fd778f4ff7a0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707513"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085111"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>還原已刪除的檔案或資料夾
 

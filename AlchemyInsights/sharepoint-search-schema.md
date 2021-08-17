@@ -8,18 +8,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: f2d8d3e07fe32d21af484e4c59e0f5ac6fe8081c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8eb0e93ea5bbf2154213274041b28a3c908090dae724b8f8e55fa2fb05f16d86
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770542"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085075"
 ---
 # <a name="manage-search-schema-in-sharepoint-online"></a>在 SharePoint Online 中管理搜尋架構
 
 搜尋架構會控制使用者可以搜尋的內容、使用者可搜尋的內容，以及在搜尋網站上顯示結果的方式。 
 
-請參閱 [管理 SharePoint Online 中的搜尋架構](https://docs.microsoft.com/sharepoint/manage-search-schema) ，瞭解如何： 
+請參閱[管理 SharePoint Online 中的搜尋架構](https://docs.microsoft.com/sharepoint/manage-search-schema)，瞭解如何： 
 - 變更搜尋架構。
 - 建立 managed 屬性。
 - 將編目編目屬性對應到 managed 屬性。
