@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: bef0943c8621043218088abf0deebddf6c19ef50
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd0f8beb8f1871c2c43ac14a7f6d1cce79386fcc353bb2a690ba184904ca5857
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664737"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083725"
 ---
 # <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>使用 Wix 網站搭配向 Microsoft 購買或受管理的網域
 

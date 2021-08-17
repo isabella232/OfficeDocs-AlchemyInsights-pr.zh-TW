@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820277"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060055"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>存取 Bitlocker 恢復機碼
 
-設定 Bitlocker 設定 Intune Endpoint Protection 原則時，可以定義是否應將 Bitlocker 復原資訊儲存在 Azure Active Directory 中。
+設定 bitlocker 設定 Intune Endpoint Protection 原則時，可以定義是否應將 bitlocker 復原資訊儲存在 Azure Active Directory 中。
 
 如果已設定該設定，則在 Intune 裝置 blade 中，以下列兩種方式將已儲存的復原資料視為裝置記錄資料的一部分，以供 Intune 系統管理員看到：
 
@@ -47,5 +47,5 @@ All Key Protectors
  
 如果是透過以網域為基礎的群組原則進行設定的加密裝置，則復原資訊可能會儲存在內部部署 Active Directory 中。
 
-如果您已設定 Endpoint protection 原則，將復原金鑰儲存在 Azure Active Directory 中，但尚未上傳特定裝置的金鑰，您可以從 MEM 主控台旋轉該裝置的復原金鑰，以觸發上載。 如需詳細資訊，請參閱 [輪替 BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)復原機碼。
+如果您已設定 Endpoint protection 原則，將復原金鑰儲存在 Azure Active Directory，但是尚未上傳特定裝置的金鑰，您可以從 MEM 主控台旋轉該裝置的復原金鑰，以觸發上載。 如需詳細資訊，請參閱 [輪替 BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)復原機碼。
 

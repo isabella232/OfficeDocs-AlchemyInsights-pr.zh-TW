@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "11171"
-ms.openlocfilehash: df1903ce53295cc2845f8648615f39f3aaaf19f90b6833da83b27ba836e44d4e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f07430134bb3c2b28b940c9a8f746cc53702bf64ffa2e7414bb74861239b914f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53979736"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894058"
 ---
 # <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a>AutoComplete 清單會滾出 Outlook 桌面的畫面
 
 此問題已修正于版本2104組建13929.20386。 具有固定組建的更新預期會移至5月17日當周的目前管道生產。 
 
-若要確認何時可以使用固定版本，請參閱[依日期) 列出 Microsoft 365 Apps (的更新歷程記錄](/officeupdates/update-history-microsoft365-apps-by-date)。
+若要確認何時可以使用固定版本，請參閱[依日期) 列出 Microsoft 365 Apps (的更新歷程記錄](https://docs.microsoft.com/officeupdates/update-history-microsoft365-apps-by-date)。

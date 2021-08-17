@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002459"
 - "3764"
-ms.openlocfilehash: fc25928b601cd6c36d6c5569a44288c12b156857453f15c312110464e621f251
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 50e8185e90e40ef538230decf0a41f9e7ca0fb6c2649354559af43d4e563a9dc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54042333"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893842"
 ---
 # <a name="license-or-account-disabled"></a>已停用的授權或帳戶
 
@@ -34,4 +34,4 @@ ms.locfileid: "54042333"
 3. 在 **重新啟用此訂閱** 窗格中，從下拉式清單中選取付款條件，或選取 **[新增付款條件]**。
 4. 選取 **[儲存]**。
 
-如需詳細資訊，請參閱[重新啟用您的訂閱](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
+如需詳細資訊，請參閱[重新啟用您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。

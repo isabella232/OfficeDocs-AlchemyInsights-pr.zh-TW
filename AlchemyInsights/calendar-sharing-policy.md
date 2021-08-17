@@ -15,18 +15,18 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: d2511183d068330cdcfb4e08b08df4f18625c822
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f1bfb0273301c05f5fe5f8af5fb9039328390d16305e33897680dce1c1977e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091585"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>共用行事歷時的原則錯誤
 
 1. 請視情況而定，請執行下列其中一項動作：
-    - 使用遠端 PowerShell 連接至 Exchange Online。 如需詳細資訊，請參閱 [Connect To Exchange Online Using Remote PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx)。
-    - 在內部部署伺服器上，開啟 Exchange 管理命令介面。
+    - 使用遠端 PowerShell Exchange Online 連線。 如需詳細資訊，請參閱[使用遠端 PowerShell Exchange Online 連線](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx)。
+    - 在內部部署伺服器上，開啟 [Exchange 管理命令介面]。
 2. 決定指派給使用者的共用原則。 若要這麼做，請執行下列命令，並記下傳回的原則：
 
     `

@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dc6445bcd77a37fd4040381491b96142f8cc6cdd1be6cb05dcfba0c4a9a55dc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966784"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313418"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>在 Microsoft Defender 中設定 Office 365 的反網路釣魚原則
 
-1. 移至[Office 365 安全性 & 規範中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)。
-2. 選取 [**威脅管理**  >  **原則**]。 在 [**原則**] 頁面上，選取 [ [Microsoft Defender for Office 365 反網路釣魚](https://go.microsoft.com/fwlink/?linkid=2101369)]。
-3. 在 [ **反網路釣魚** 網頁] 頁面上，執行下列其中一項操作：
-    1. 若要新增原則，請選取 [ **+ 建立**]。
-    1. 若要編輯現有的原則，請從 [ **反網路釣魚** ] 頁面上顯示的清單中選取原則名稱。 在出現的頁面上，選取您要變更之設定旁的 [ **編輯** ]。 將啟動一個嚮導，協助您定義您的反網路釣魚原則。
-4. 如果您要建立新的原則，請指定原則的名稱、描述和設定。
-5. 檢查您的設定之後，請選取 [ **建立這個原則** ] 或 [ **儲存**] （視需要）。
+1. 在 Microsoft 365 Defender 入口網站上 <https://security.microsoft.com/> ，移至 [**電子郵件 &** 共同作業 \> **原則] & 規則** \> [原則] 區段中的「**威脅原則** \> **反網路釣魚**」。 
+
+   若要直接移至 [ **反網路釣魚** ] 頁面，請使用 <https://security.microsoft.com/antiphishing> 。
+
+2. 在 [ **反網路釣魚** 網頁] 頁面上，執行下列其中一個步驟：
+   - 若要新增原則，請選取 [ **+ 建立**]。 嚮導將啟動以協助您定義原則設定。
+   - 若要編輯現有的原則，請按一下原則的名稱以選取原則。 在出現的 [詳細資料] 浮出視窗中，選取包含您要設定之設定的區段中的 [ **編輯** ]。
+
+3. 檢查您的設定之後，請選取 [ **提交** (新) ] 或 [ **儲存** (編輯) ]。
+
+如需詳細資訊，請參閱[Configure Office 365 的 Microsoft Defender 中的反網路釣魚原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)。

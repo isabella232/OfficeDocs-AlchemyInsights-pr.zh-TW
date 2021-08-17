@@ -1,5 +1,5 @@
 ---
-title: Outlook 中的1800019焦點收件匣
+title: 1800019中的重點收件匣 Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,18 +13,18 @@ ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: d6aa9482d1b424ab52b7f38ee4f731055d2d13ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37a19bc27b04cdb5d1682f46087fb4286d8f0aeba13300a0dbf3ca549d9dd402
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744464"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117007"
 ---
 # <a name="focused-inbox-in-outlook"></a>Outlook 中的焦點收件匣
 
 焦點收件匣會將您的收件匣分隔成兩個索引標籤。 您最重要的訊息是在 [焦點] 索引標籤上，但仍然可在 [其他] 索引標籤上輕鬆存取（但不是那樣）。
   
-[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409)  | 網頁上的[Outlook](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409)  | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409)  | [適用于 Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409)  |  的 Outlook 2016[Windows 10 版郵件](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
+[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409)  | [Outlook 網頁版](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409)  | [Outlook .com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409)  | [Mac 版 Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409)  | [Windows 10 的郵件](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
   
 深入了解：
   

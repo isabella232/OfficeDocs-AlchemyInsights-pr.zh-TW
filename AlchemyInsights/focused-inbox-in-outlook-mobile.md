@@ -13,12 +13,12 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3593277f39ac003cc56efafe20c7ede21b71ea1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be1962be5200c2b665e5c52abcabf151d27887e8fd39f7f9296381abdd430d51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744393"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117043"
 ---
 # <a name="focused-inbox-for-outlook-mobile"></a>Outlook mobile 的焦點收件匣
 
@@ -32,5 +32,5 @@ ms.locfileid: "47744393"
   
 [如何在焦點和其他間切換？](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-深入瞭解：[在適用于 iOS 和 Android 的 Outlook 中取得應用程式](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)說明
+深入瞭解：針對[iOS 和 Android 的 Outlook 取得應用程式](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)說明
   

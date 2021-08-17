@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 86a51ca294c18c5a596d626f4e2caf8e0a2fa9cdf554d0390dd31b97445a0b6d
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e7d9616a1e3ff499cf7859699e837893927fcded
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499071"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313725"
 ---
 # <a name="buy-additional-licenses"></a>購買額外的授權
 
@@ -31,8 +31,8 @@ ms.locfileid: "54499071"
 3. 在 [**授權總數**] 方塊中的 [**新數量**] 底下，輸入此訂閱所需的授權總數。 例如，如果您有100授權，而您想要增加25個，請輸入125。
 4. 選取 **[儲存]**。
 
-若要深入瞭解，請參閱 [購買或移除授權](/microsoft-365/commerce/licenses/buy-licenses)。
+若要深入瞭解，請參閱 [購買或移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。
 
 **其他資源**
 
-[在商務用 Microsoft 365 中指派授權給使用者](/microsoft-365/admin/manage/assign-licenses-to-users)
+[在商務用 Microsoft 365 中指派授權給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
