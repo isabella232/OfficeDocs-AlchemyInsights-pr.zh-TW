@@ -1,5 +1,5 @@
 ---
-title: 呼叫小組中的電話號碼
+title: 撥打 Teams 的電話號碼
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6661"
 - "9003561"
-ms.openlocfilehash: 2ee43145f8ff5e23a02167a3d758b24153878374
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 75b5d22db01020281697f38d0b7f021f8a280c3389a9e61e1b69d9b002cb8d6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334126"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046023"
 ---
-# <a name="call-a-phone-number-in-teams"></a>呼叫小組中的電話號碼
+# <a name="call-a-phone-number-in-teams"></a>撥打 Teams 的電話號碼
 
 移至  **來電**，選取 [  **撥打號碼**]，然後使用撥號墊輸入號碼。 然後按一下 [  **呼叫**]。
 
-如果您未看到撥打號碼的選項，您的組織可能尚未購買通話方案。 但是您仍然可以撥打小組的其他人員。  
+如果您未看到撥打號碼的選項，您的組織可能尚未購買通話方案。 不過，您還是可以在 Teams 中撥打其他人員。  
 
-如需詳細資訊，請參閱 [撥打來自小組的電話號碼](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078)。
+如需詳細資訊，請參閱[從 Teams 撥打電話號碼](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078)。

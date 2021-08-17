@@ -14,22 +14,22 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 96f63f2ae8e5de246bce7fc15a9b2c3d604f2eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb782c0d1dc396ee7a9f016afb9629a2cdee93d52f5408b7a73e576e783ebc0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664917"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105739"
 ---
 # <a name="troubleshoot-password-synchronization"></a>疑難排解密碼同步處理
 
-若要疑難排解密碼同步處理問題，請從使用此 AAD Connect 疑難排解工作開始，以判斷密碼未同步處理的原因。 若要開始，請移至「 [管理直接同步](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement)處理」。  
+若要疑難排解密碼同步處理問題，請從使用此 AAD 連線疑難排解工作開始，以判斷密碼未同步處理的原因。 若要開始，請移至「 [管理直接同步](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement)處理」。  
 
-1. 在 Azure AD Connect server 上開啟新的 Windows PowerShell 會話，然後選取 [以 **系統管理員身分執行** ] 選項。
+1. 在您的 Azure AD 連線伺服器上開啟新的 Windows PowerShell 會話，然後選取 [以 **系統管理員身分執行**] 選項。
 
 2. 執行 Set-ExecutionPolicy RemoteSigned 或 Set-ExecutionPolicy 不限限制。
 
-3. 啟動 Azure AD Connect 嚮導。
+3. 啟動 Azure AD 連線嚮導。
 
 4. 移至 [其他工作] 頁面 >**疑難排解**  >  **[下一步]**。
 
@@ -41,4 +41,4 @@ ms.locfileid: "47664917"
 
     **附注** 如果最後一次成功的密碼同步處理是一段時間，則密碼同步處理會失敗。
 
-如需疑難排解密碼同步處理的詳細資訊，請參閱 [使用 AZURE AD Connect Sync 疑難排解密碼雜湊同步處理](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)。
+如需疑難排解密碼同步處理的詳細資訊，請參閱[使用 AZURE AD 連線 Sync 疑難排解密碼雜湊同步處理](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)。

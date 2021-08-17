@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: bbd49134bd4a4451649b76bb5f60b19065910cae
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4bf7680a422f096401f0a87bccd1b8dd11f4489f882bcc06864e37d6a248438c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046095"
 ---
 # <a name="calendar-permissions"></a>行事曆許可權
 
@@ -37,6 +37,6 @@ ms.locfileid: "51819899"
 行事曆許可權用於共用的行事曆中，若要查看有關共用 Outlook 行事曆的詳細資訊，請參閱下列文章：
 
 - [與其他人共用 Outlook 行事曆](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [在商務用 Outlook 網頁版中共用您的行事曆](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [在商務 Outlook 網頁版中共用您的行事曆](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
-若要疑難排解「行事曆」許可權，您可以使用 [支援和修復助理](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) 工具。
+若要疑難排解「行事曆」許可權，您可以使用[支援及修復小幫手](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f)工具。
