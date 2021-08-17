@@ -1,5 +1,5 @@
 ---
-title: Exchange Admin Center 中的保留原則無法運作
+title: Exchange 系統管理中心的保留原則無法運作
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952219"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074923"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Exchange 系統管理中心中的保留原則
+# <a name="retention-policies-in-exchange-admin-center"></a>Exchange 系統管理中心的保留原則
 
 如果您想讓我們為下列所述的設定執行自動檢查，請選取此頁面頂端的 [上一步] 按鈕 <--然後輸入具有保留原則問題的使用者電子郵件地址。
 
-如果您在 Exchange 系統管理中心中的保留原則發生問題，但未套用到信箱或專案不會移至封存信箱，請檢查下列事項：
+如果您遇到 Exchange 系統管理中心的保留原則問題，但未套用到信箱或專案不會移至封存信箱，請檢查下列事項：
 
 **根源：**
 
