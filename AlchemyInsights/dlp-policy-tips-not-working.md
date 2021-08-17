@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
-ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
+ms.openlocfilehash: f93b7efebd0a619acf300120cc6ece0adbedc39675f6e782fd982dc1f988edbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51958693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079657"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP 原則提示問題
 
@@ -30,6 +30,6 @@ ms.locfileid: "51958693"
 
 - 確定您的內容符合觸發 [敏感資訊類型實體定義](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)中所述規則的必要專案。
 
-- 原則提示會顯示在 OWA 和 Outlook 中。 不過，使用 Outlook 2013 或更新版本時，原則秘訣只會顯示在特定條件下。 如需特定的條件清單，請參閱 [Outlook 2013 或更新版本支援的條件，以顯示原則提示](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)。
+- 原則提示會顯示在 OWA 和 Outlook 中。 不過，使用 Outlook 2013 或更新版本時，原則秘訣只會顯示在特定條件下。 如需特定條件清單，請參閱[Outlook 2013 或更新版本支援的條件，以顯示原則提示](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)。
 
-如需 DLP 原則提示的詳細資訊，請參閱 dlp 原則 [秘訣參考](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) 和 [支援清單以取得 dlp 原則提示](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)。
+如需 DLP 原則提示的詳細資訊，請參閱 dlp 原則[提示參考](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)和[支援清單以取得 dlp 原則提示](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)。

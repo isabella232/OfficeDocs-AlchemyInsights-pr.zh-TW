@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 0f07e64c95675a4f6a0aeb6df110fe4e6a21d72f
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: e1049f160a9b92040095b6725fa5771218a0956d17f99ea8a6e9cc279e7c73f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079693"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP 未如期運作
 
@@ -26,7 +26,7 @@ ms.locfileid: "50707801"
 
  **設定 DLP**
 
-您的 **資料遺失防護 (DLP 365)** 未如期運作時，是否有問題？ 如果是的話，請確定已正確設定 **dlp 原則** ，且您的資料包含 **dlp 原則** 在評估時所要尋找的專案。
+是否有 **資料遺失防護 (DLP)** Office 365 未如期運作的問題？ 如果是的話，請確定已正確設定 **dlp 原則** ，且您的資料包含 **dlp 原則** 在評估時所要尋找的專案。
   
 DLP 原則可讓您識別及保護組織中的機密資訊。 若要設定 DLP 原則，請在 [這裡](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template)使用資訊。
   

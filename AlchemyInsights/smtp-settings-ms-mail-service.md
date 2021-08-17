@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12073"
 - "3000003"
-ms.openlocfilehash: 261695a0bf736a51514df50c0ad66aaab5b50edb
-ms.sourcegitcommit: e9fcd72e64d35f5ba14dfa0fbde39eae20d86cfe
+ms.openlocfilehash: 373042e9593faf4eaa486313763beb8e8f48b6e9ea159d1cfb37b9df826384f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53603260"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107150"
 ---
 # <a name="smtp-settings-for-the-microsoft-365-mail-service"></a>Microsoft 365 郵件服務的 SMTP 設定
 
