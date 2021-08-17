@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: ebdb65c76837b4a31c8f6cff89223481dec1ef804275608cfd60986a4f089204
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755394"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049524"
 ---
 # <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>切換到按發票付款 (支票/線速轉接) 
 
@@ -41,7 +41,7 @@ ms.locfileid: "49755394"
 2. 選取您想要切換到發票付款的訂閱。 選取 **支付方式**。
 3. 在命令列中，按一下 [ **依發票付款** ] 按鈕。
 
-**建議的文件**
+**建譯的文件**
 
 - [要求/下載/查看您的 Azure 計費發票和使用狀況資料](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [如何將 Azure 發票直接電子郵件傳送至您的收件匣](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
