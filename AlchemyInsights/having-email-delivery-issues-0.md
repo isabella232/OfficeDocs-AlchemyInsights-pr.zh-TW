@@ -14,12 +14,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: ee479f673328eb69268feef7110ee40343c52d5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f737d497f9f2fd669093bc62b6f4a4ef577ec8611eba1fb915647a7fe8100e6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078973"
 ---
 # <a name="having-email-delivery-issues"></a>您遇到電子郵件傳送問題了嗎？
 
