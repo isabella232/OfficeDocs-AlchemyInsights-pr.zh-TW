@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7909"
 - "9003233"
-ms.openlocfilehash: d4cbe80c3e8f0ce32fcbe89e852f24efd6f50575
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: b044e69cef177c5a1ad38c2d27a297d90ba7f55e7b2e75fff2e390869241f325
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886800"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057885"
 ---
 # <a name="domain-controller"></a>網域控制站
 
@@ -34,6 +34,6 @@ ms.locfileid: "49886800"
 
 **無法停用 AAD-DS**
 
-無法暫停 AAD-DS。 如果您想要停止使用受管理的網域，必須先將它刪除。
+無法暫停 AAD-DS。如果您想要停止使用受管理的網域，必須先將它刪除。
 
 如果您遇到問題，若要解決常見的錯誤訊息，以及相關的疑難排解步驟，以協助您再次執行工作，請參閱 [疑難排解 Azure Active Directory Domain Services](https://docs.microsoft.com/azure/active-directory-domain-services/troubleshoot)。

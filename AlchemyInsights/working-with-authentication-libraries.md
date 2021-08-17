@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9775"
 - "9004342"
-ms.openlocfilehash: f9f54ed2bfc5841df66d3e714112b9307455c182
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: b667e699e1595b21d80788123de13daffbe79a35b1671e9d35eaa6cd980693db
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897492"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083077"
 ---
 # <a name="working-with-authentication-libraries"></a>使用驗證程式庫
 
@@ -44,7 +44,7 @@ ms.locfileid: "50897492"
 
 1. [閱讀 ADAL 常見問題集](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) (部分機器翻譯)。
 2. [了解如何在每個平台上遷移應用程式](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#migration-guidance) (部分機器翻譯)。
-3. 如果您在閱讀應用程式平台的指南之後，有其他問題，可以在 [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-adal-deprecation.html) 上貼上標籤 [azure-ad-adal-deprecation]，或在程式庫的 GitHub 存放庫中開啟問題。 請參閱 **MSAL 概觀** 文章章節中的[語言和架構](https://docs.microsoft.com/azure/active-directory/develop/msal-overview#languages-and-frameworks) (部分機器翻譯)，連結至每個程式庫的存放庫。
+3. 如果您在閱讀應用程式平台的指南之後，有其他問題，可以在 [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-adal-deprecation.html) 上貼上標籤 [azure-ad-adal-deprecation]，或在程式庫的 GitHub 存放庫中開啟問題。 請參閱 **MSAL 概觀** 文章章節中的 [語言和架構](https://docs.microsoft.com/azure/active-directory/develop/msal-overview#languages-and-frameworks) (部分機器翻譯)，連結至每個程式庫的存放庫。
 4. **如果您需要協助了解您的哪些應用程式使用 ADAL**，我們建議您檢閱所有應用程式的原始程式碼。 如果適用，請連絡任何獨立軟體廠商 (ISV) 或應用程式提供者。 Microsoft 支援服務也可提供您租用戶中所有非 Microsoft ADAL 應用程式清單。
 
 

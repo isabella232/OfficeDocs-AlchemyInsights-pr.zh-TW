@@ -12,21 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: de1edf14389c6747272d4e1f8d8e0955a86269c433106bc8ce25129e78581ea7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034961"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898235"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>修正 Microsoft Defender Office 365 的常見問題
 
 以下是 Microsoft Defender Office 365 的常見問題的解決方案：
 
-- **郵件延遲：** 如果您遇到的問題延遲郵件傳遞，您會想要在保管庫附件原則中使用 **動態傳遞** 選項。 若要深入瞭解，請參閱[保管庫附件原則中的動態傳遞](https://go.microsoft.com/fwlink/?linkid=2094106)。
-- **報告 false 的肯定或否定的結果：** 使用此連結將郵件報告給 Microsoft： [Microsoft Defender 回應入口網站](https://go.microsoft.com/fwlink/?linkid=2092835)。
-- **啟用保管庫連結保護：**
-    1. 登入[Office 365 安全性 & 規範中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)。
-    2. 移至 **威脅管理**  >  **原則**  >  **保管庫連結。**
-    3. 在 [套用至特定收件者 **的原則**] 底下，開啟已設定的原則。
-    4. 在 [**設定**] 底下，選取 **[套用安全連結至組織內傳送的郵件**]。
+- **郵件延遲**：
+
+  電子郵件傳遞的延遲可能會因保管庫電子郵件的附件掃描而造成。 如需詳細資訊，請參閱[保管庫附件原則設定](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)。
+
+- **報告 false 的肯定或否定的結果**：
+
+  如需詳細資訊，請參閱[回報訊息和檔案至 Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)。
+
+- **啟用保管庫連結保護**：
+
+  1. 在 Microsoft 365 Defender 入口網站上 <https://security.microsoft.com/> ，移至 **電子郵件 &** 共同作業 \> **原則 & 規則** \> **威脅原則** \> **保管庫** 的 **原則]** 區段中的連結。
+
+     若要直接移至 [**保管庫連結**] 頁面，請使用 <https://security.microsoft.com/safelinksv2> 。
+
+  2. 在 [**保管庫連結**] 頁面上，按一下原則的名稱以選取原則。
+  3. 在出現的 [詳細資料] 浮出控制項中，執行下列其中一個步驟：
+     - 若要新增原則，請選取 [ **+ 建立**]。 嚮導將啟動以協助您定義原則設定。
+     - 若要編輯現有的原則，請按一下原則的名稱以選取原則。 在出現的 [詳細資料] 快顯視窗中，選取 [**保護設定**] 區段中的 [**編輯**]。
+  4. 在 [ **保護設定** ] 頁面上，設定下列設定：
+     - 開啟 **[選取郵件中未知可能惡意 URLs 的動作**]。
+     - 選取 **[套用安全連結] 至組織內所傳送的郵件**。
+
+  如需詳細資訊，請參閱[在 Microsoft Defender for Office 365 中設定保管庫連結原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)。

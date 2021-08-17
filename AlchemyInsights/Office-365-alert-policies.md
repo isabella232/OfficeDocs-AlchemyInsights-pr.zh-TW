@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918350"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891670"
 ---
 # <a name="alert-policies"></a>警示原則
 
-Microsoft 365 security & 規範中心提供[預設的警示原則](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies)，可觸發具有 Office 365 企業版或 Office 365 美國政府 E1/G1、E3/G3 或 E5/G5 訂閱之組織的警示。 因此，系統管理員可能會收到 Office365Alerts@microsoft.com 使用主旨列（如「嚴重性警示： *警示原則的名稱*」）傳送的警示電子郵件通知。 當一般活動（例如使用者）觸發警示時，會傳送警示通知。
+Microsoft 365 包含[預設的警示原則](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies)，可觸發具有 Microsoft 365 企業版或 Microsoft 365 美國政府 E1/G1、E3/G3 或 E5/G5 訂閱的組織警示。 因此，系統管理員可能會收到 Office365Alerts@microsoft.com 使用主旨列（如「嚴重性警示： *警示原則的名稱*」）傳送的警示電子郵件通知。 當一般活動（例如使用者）觸發警示時，會傳送警示通知。
 
 - 建立轉寄電子郵件的收件匣規則。
 - 指派許可權給其信箱。
@@ -31,9 +31,10 @@ Microsoft 365 security & 規範中心提供[預設的警示原則](https://docs.
 
 若要複查並對警示採取動作：
 
-1. 移至 [安全性 & 合規性中心](https://protection.office.com) 並登入。
-2. 按一下 [**提醒**] [  >  **查看提醒**]。
-3. 按一下警示以顯示彈出頁面，包含提醒的相關資訊。
+1. 執行下列其中一個步驟：
+   - 在 [Microsoft 365 合規性中心于] 中 <https://compliance.microsoft.com> ，移至 **警示**。 或者，若要直接移至 [ **提醒** ] 頁面，請使用 <https://compliance.microsoft.com/compliancealerts> 。
+   - 在 Microsoft 365 Defender 入口網站上 <https://security.microsoft.com> ，移至 [**事件] & 警示** \> **警示**。 或者，若要直接移至 [ **提醒** ] 頁面，請使用 <https://security.microsoft.com/alerts> 。
+2. 按一下警示以顯示彈出頁面，包含提醒的相關資訊。
 
 您可以對警示採取動作，例如 [移除可疑的收件匣規則](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)。 或者，您只要在 [警示飛出] 頁面上按一下 [ **解析** ]，即可關閉警示。
 
@@ -45,4 +46,4 @@ Microsoft 365 security & 規範中心提供[預設的警示原則](https://docs.
 - 驗證帳戶的安全性詳細資料
 - 重新驗證您的自我
 
-如果您收到類似這封的電子郵件訊息，它並非 Microsoft 所傳送，應視為網路釣魚詐騙。 如果發生這種情況，請 [向 Microsoft 報告](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)。
+如果您收到具有這類要求的電子郵件，它不是由 Microsoft 傳送，也應視為網路釣魚詐騙。 如果您收到具有這類要求的郵件，請將 [郵件報告給 Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)。

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "9909"
-ms.openlocfilehash: 67331a9661ee67c4a861feb1a4292255a4d37133
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1ac3158914455502d2de493dd1320034b1d09573ebb3ffef24c23eb1e816cad0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082933"
 ---
 # <a name="authentication-app"></a>驗證應用程式
 
@@ -30,11 +30,11 @@ ms.locfileid: "51403801"
 
 **檢查適用的案例：**
 
-1. 如果使用者未在 Microsoft 驗證器應用程式中取得推播通知，請確認在 [MFA 封鎖] 使用者未如 [封鎖和解除封鎖使用者](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)中所述的那樣顯示這些使用者。
-1. 如果使用者未被封鎖進行 MFA，但沒有收到推播通知，則可以開啟 Microsoft 驗證者應用程式，它會拉出擱置的核准要求。
+1. 如果使用者未在 Microsoft Authenticator 應用程式中取得推播通知，請在 [MFA][或 [解除封鎖使用者](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)] 中所述的 [MFA 封鎖的使用者] 下，確認未出現推播通知。
+1. 如果使用者未被封鎖進行 MFA，但沒有收到推播通知，則他們可以開啟 Microsoft Authenticator 應用程式，該應用程式會拉入待處理的核准要求。
 1. 另一種登入方法，使用者也可以按一下登入另一種方式，然後選擇 [使用我的行動應用程式的驗證碼。
-1. Microsoft 驗證應用程式是許多使用者唯一可用的方法。 [深入瞭解安全性預設值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)，請參閱 [驗證器 App 應用程式](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) 常見問題，以取得常見問題及其解決方法。
+1. Microsoft Authenticator 應用程式是許多使用者唯一可用的方法。 [深入瞭解安全性預設值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)，請參閱常見問題及其解決方法的[Authenticator 應用程式常見問題](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq)。
  
 **建議影片**
 
-[如何在新電話上設定驗證器應用程式 (2min) ](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)。
+[如何在新電話上設定 Authenticator App (2min) ](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)。

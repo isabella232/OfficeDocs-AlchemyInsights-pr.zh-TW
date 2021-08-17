@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9925c220897337cdc6956674448b31c818dfc42635459076ca29806f565b3050
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009167"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891890"
 ---
 # <a name="subscription-expired"></a>訂閱已過期
 
@@ -35,7 +35,7 @@ ms.locfileid: "54009167"
 3. 在 **重新啟用此訂閱** 窗格中，從下拉式清單中選取付款條件，或選取 **[新增付款條件]**。
 4. 選取 **[儲存]**。
 
-如需詳細資訊，請參閱[重新啟用您的訂閱](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
+如需詳細資訊，請參閱[重新啟用您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
 
 **管理訂閱續約**
 
@@ -47,4 +47,4 @@ ms.locfileid: "54009167"
 4. 在 **編輯週期性計費的設定** 窗格中,選取 **其位於** 上的, **開啟, 但續約一次**, 或 **關閉**。
 5. 選取 **[儲存]**。
 
-如需詳細資訊，請參閱[關閉或開啟週期性計費](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)。
+如需詳細資訊，請參閱[關閉或開啟週期性計費](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)。

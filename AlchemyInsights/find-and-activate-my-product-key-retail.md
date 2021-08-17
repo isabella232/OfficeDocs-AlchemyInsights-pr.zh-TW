@@ -15,19 +15,18 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: fbe6a7e6541e9172301b848a0fa733f66af7c8d128ac8557ca2cd62cad1d06ad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54068875"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320980"
 ---
 # <a name="retail-prepaid-card"></a>零售預付卡
 
 如果您是從零售商店購買 Microsoft 365 商務標準版，請使用下列步驟來擴充到期日，或將授權新增至現有的訂閱。
 
-> [!NOTE]
-> 若要使用產品金鑰來擴充到期日或將授權新增至現有的 Microsoft 365 商務標準版訂閱，您需要同一個 Microsoft 365 訂閱使用新的和未使用的金鑰。 輸入您的原始 Microsoft 365 產品金鑰將無法運作，因為已兌換的金鑰無法再使用。
+**附注**：若要使用產品金鑰來擴充到期日或將授權新增至現有的 Microsoft 365 商務標準版訂閱，您需要同一個 Microsoft 365 訂閱使用新的和未使用的金鑰。 輸入您的原始 Microsoft 365 產品金鑰將無法運作，因為已兌換的金鑰無法再使用。
 
 1. 在系統管理中心，移至 **帳單** > **[您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** 頁面。
 2. 尋找您要擴充或新增授權的訂閱。 選取 [ [延長結束日期](https://go.microsoft.com/fwlink/p/?linkid=842054) ] 或 [ [新增更多授權](https://go.microsoft.com/fwlink/p/?linkid=842054)]。

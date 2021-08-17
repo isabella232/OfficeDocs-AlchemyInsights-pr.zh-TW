@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 1aa60a3be051194e3816e909ba25a32e98463a2179e94844869cd97a564548a6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 467df09e030ff09da4c4e3f51e86fc1fca1aaf31
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54052629"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320654"
 ---
 # <a name="send-an-email-message-based-on-a-template"></a>根據範本傳送電子郵件訊息
 
@@ -28,6 +28,5 @@ ms.locfileid: "54052629"
 3. [預設範本] 資料夾已開啟。 Windows 7 和更新版本作業系統) 中的資料夾位置 (都是 **c:\users\username\appdata\roaming\microsoft\templates**。 如果您的範本儲存在不同的資料夾中，請按一下 **[流覽]**，然後選取範本。
 4. 選取範本，然後按一下 [ **開啟**]。
 5. 在 [收件者]、[副本] 或 [ ******密件副本**] 方塊中對收件者進行任何新增或 **修訂，以及** 對主旨和郵件內文的任何變更。
-    > [!NOTE]
-    > 所做的變更不會儲存到範本中。 如果您使用 [ **儲存** ] 命令，就會建立郵件的草稿，但不會更新範本。 若要更新範本，請遵循在 [建立電子郵件訊息範本](https://support.microsoft.com/office/create-an-email-message-template-43ec7142-4dd0-4351-8727-bd0977b6b2d1)中儲存新範本的步驟。
+    **附注**：所做的變更不會儲存至範本。 如果您使用 [ **儲存** ] 命令，就會建立郵件的草稿，但不會更新範本。 若要更新範本，請遵循在 [建立電子郵件訊息範本](https://support.microsoft.com/office/create-an-email-message-template-43ec7142-4dd0-4351-8727-bd0977b6b2d1)中儲存新範本的步驟。
 6. 按一下 **[傳送]**。
