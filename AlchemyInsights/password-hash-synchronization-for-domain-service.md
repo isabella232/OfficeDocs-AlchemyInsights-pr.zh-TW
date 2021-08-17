@@ -15,12 +15,12 @@ ms.custom:
 - "9004400"
 - "8249"
 - "9003245"
-ms.openlocfilehash: 7f138837b720926c5b687285a105eb0417ca5b39
-ms.sourcegitcommit: 22eaf0a151ab95414476f596db8d318b6540ff31
+ms.openlocfilehash: 3c00105a67f70ae9ce11cd8bb922c4d84a320010d021414b9159948f7dc87dbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50162914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040857"
 ---
 # <a name="password-hash-synchronization-for-domain-service"></a>網域服務的密碼雜湊同步處理
 
