@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12463"
 - "9007456"
-ms.openlocfilehash: b0865615ec0ab705a650f81d3d69498558203321
-ms.sourcegitcommit: e9fcd72e64d35f5ba14dfa0fbde39eae20d86cfe
+ms.openlocfilehash: ec88343cf60f1e32a8dc7313b444c2e53c53d5d1424274355b4c96042f0dc629
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53603263"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107780"
 ---
 # <a name="sharepoint-and-onedrive-integration-with-azure-ad-b2b"></a>SharePoint 和 OneDrive 與 Azure AD B2B 整合
 

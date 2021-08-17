@@ -13,24 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403230"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883346"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft 安全分數
 
-您可以使用 Microsoft 安全分數使您的環境更加安全。 請將它視為安全性的信用得分。 它會告訴您您可以採取的動作，以協助改善您的組織的安全性。
+您可以使用 Microsoft 安全分數使您的環境更加安全。 請將它視為安全性的信用得分。 它會告訴您您可以採取的動作，以協助改善貴組織的安全性。
 
-1. 移至 [Office 365 的安全性 & 規範中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)。
-1. 選取 [Microsoft 安全評分卡] 或 [移至 [Microsoft 安全分數](https://go.microsoft.com/fwlink/?linkid=2099589)]。
-    > [!TIP]
-    >  在 [Microsoft Secure 得分一覽] 頁面上，選取 [改進組織的建議] 的 [改進動作]。您可以在表格中選取 [篩選] 或 [群組]，以快速找出在順序完成時可能更好的動作。
-1. 從清單中選取 [改進動作]。 隨即出現一個快顯視窗，提供動作的簡短描述。
-1. 按一下 [ **View Settings**]，然後遵循下列 **步驟** 中提供的指導方針。
+1. 在 Microsoft 365 Defender 入口網站上 <https://security.microsoft.com> ，移至 [**安全計分**]。
+
+   若要直接移至 [ **安全分數** ] 頁面，請使用 <https://security.microsoft.com/securescore>
+
+2. 在 [**查看動作** 和 **熱門改進動作**] 區段的 [**概覽**] 索引標籤上，記下所有保護組織的建議。
+
+3. 在 [**改進動作**] 索引標籤上，記下 [**改進動作** 專案 **] 的****排名** Tht **為 [To address** ] 或 [ **Regressed**]。 您可以在資料表中使用 **Filter** 或 **Group by** ，快速找出在順序完成時可能更好的動作。
+
+4. 從 [**改進動作**] 索引標籤的清單中，選取 [發件 **人位址**] 或 [ **Regressed** 專案]。隨即會開啟新頁面，並提供完整的描述和 **管理** 按鈕以修正此問題。
+
     > [!NOTE]
     > 您已獲得設定建議安全性功能的點數，但是請記住，有些動作標示為 **[未計分]**。 這表示即使您執行該 [改進] 動作，您也不會向您的分數獎勵任何分數。 否則，您的評分更新 *最多可能需要24小時* 。
 
-如需 Microsoft 安全分數的詳細資訊，請參閱 [Microsoft 安全分數](https://go.microsoft.com/fwlink/?linkid=2103077)。
+如需 Microsoft 安全分數的詳細資訊，請參閱 [Microsoft 安全分數](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)。

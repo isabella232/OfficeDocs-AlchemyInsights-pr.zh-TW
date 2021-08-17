@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004404"
 - "7975"
-ms.openlocfilehash: 009a41b5e457cd775deee25024e02191844e3d2c
-ms.sourcegitcommit: eab164189ef0b542b24d9ff553196a721464b9c4
+ms.openlocfilehash: 715525cbda3baa6523a5071c8c914eebca70943f54df1a13d8e77f5298d450e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937403"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080161"
 ---
 # <a name="creating-a-team-from-an-existing-team"></a>從現有的團隊建立團隊
 

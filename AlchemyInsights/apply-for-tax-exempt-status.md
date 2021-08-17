@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 0020dadb126181c7a58397e591c6a751e68817805a971bf2f9e9bdda94c6f1e4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 14ad3eeb39d57431841618453b1d5ab01ca88b0392df99e8a7754c140c1ea478
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53969638"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886014"
 ---
 # <a name="apply-for-tax-exempt-status"></a>申請免稅資格
 
@@ -33,4 +33,4 @@ ms.locfileid: "53969638"
 
 - **波多黎各** - 請備妥 **Certificado de Compras Exentas**。
 
-如需詳細資訊，請參閱[稅務資訊](/microsoft-365/commerce/billing-and-payments/tax-information)。
+如需詳細資訊，請參閱[稅務資訊](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)。
