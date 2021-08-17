@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 197de1f073e4e8c054dce32f0acfbe0064d61ca606b759d4ff45e0bc8a4b5cab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784658"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057237"
 ---
 # <a name="enable-external-sharing"></a>啟用外部共用
 
@@ -38,6 +38,6 @@ ms.locfileid: "47784658"
     
   - 網站集合-選取 [有問題的網站集合]，然後按一下 [共用-從功能區]- \> 確定已選取 [共用選項]。
     
-如需如何開啟外部共用的其他資訊，請參閱 [開啟或關閉 SharePoint Online 的外部共用。](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+如需如何開啟外部共用的其他資訊，請參閱[開啟或關閉 SharePoint Online 的外部共用。](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 
