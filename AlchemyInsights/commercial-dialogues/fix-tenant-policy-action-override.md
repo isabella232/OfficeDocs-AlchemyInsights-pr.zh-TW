@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9c0b88c1ca2120acccd9cd75eb918a81bde52ec3919f6148922f077f07899da7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034925"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896066"
 ---
 # <a name="fix-tenant-policy-action-override"></a>修正承租人原則 (動作覆寫) 
 
-您租使用者中的反垃圾郵件原則會影響此郵件。 若要查看原則，請執行下列操作：
+其中一個反垃圾郵件原則會影響此郵件。 若要複查原則，請執行下列步驟：
 
-1. 移至 [Office 365 安全性 & 規範中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)，然後移至 **威脅管理**  >  **原則**  >  [反垃圾郵件](https://go.microsoft.com/fwlink/?linkid=2101518)。
-2. 查看 [ **原則來源** ] 是否指出下列專案：  **載入 Xheader/ModifySubject/重新導向/刪除/否動作/BCC 郵件**
+1. 在 Microsoft 365 Defender 入口網站上 <https://security.microsoft.com/> ，移至 [**電子郵件 &** 共同作業 \> **原則] & 規則** \> 的 [原則] 區段中的 [**威脅原則** \> **反垃圾郵件**]。 
 
-    如果是的話，在 [ **自訂** ] 索引標籤上，檢查會影響郵件之原則的設定。 套用至所有 Exchange Online Protection 客戶的 **標準設定** 可能會影響郵件。
+   若要直接移至 [反垃圾郵件原則 **]** 頁面，請使用 <https://security.microsoft.com/antispam>。
 
-如需設定垃圾郵件篩選原則的詳細資訊，請參閱 [設定垃圾郵件篩選原則](https://go.microsoft.com/fwlink/?linkid=2101431)。
+2. 在 [ **反垃圾郵件原則** ] 頁面上，按一下原則的名稱 (**類型** 是 **自訂反垃圾郵件原則** 或 **名稱** **Anti-Spam 輸入原則 (預設)**) ，以選取原則。
+3. 在出現的 [詳細資料] 快顯視窗中，選取 [**動作**] 區段中的 [**編輯動作**]。
+4. 在 [ **郵件動作** ] 區段中，檢查 **垃圾郵件**、 **高可信度垃圾郵件**、 **網路釣魚** 和 **高可信度網路釣魚** 的 verdicts，以查看是否已選取下列任何值：
+   - **新增 X 標頭**
+   - **將主題行前置文字**
+   - **將郵件重新導向至電子郵件地址**
+   - **刪除郵件**
+   - **無動作**
+
+   套用至所有 Exchange Online Protection 客戶的 **標準設定** 可能會影響郵件。
+
+如需詳細資訊，請參閱[在 EOP 中設定反垃圾郵件原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)。

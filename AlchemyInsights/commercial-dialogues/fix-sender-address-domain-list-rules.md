@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930016"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896102"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>修正寄件者位址/網域清單規則
 
-您租使用者中的反垃圾郵件原則會影響此郵件。 在 [允許] 或 [封鎖] 清單中找到郵件的寄件者。 若要查看原則，請執行下列操作：
+其中一個反垃圾郵件原則會影響此郵件。 在 [允許] 或 [封鎖] 清單中找到郵件的寄件者。 若要複查原則，請執行下列步驟：
 
-1. 移至 [Office 365 安全性 & 規範中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)，然後移至 **威脅管理**  >  **原則**  >  [反垃圾郵件](https://go.microsoft.com/fwlink/?linkid=2101518)。
-2. 在 [ **標準** ] 索引標籤上，如果已啟用 **標準設定** ，請檢查 **允許清單** 和 **封鎖清單**。
-3. 在 [ **自訂** ] 索引標籤上，如果已啟用 **自訂設定** ，請選取 [ **編輯原則** ] 並檢查 [ **允許清單** 和 **封鎖清單**]，以複查原則。
+1. 在 Microsoft 365 Defender 入口網站上 <https://security.microsoft.com/> ，移至 [**電子郵件 &** 共同作業 \> **原則] & 規則** \> 的 [原則] 區段中的 [**威脅原則** \> **反垃圾郵件**]。 
 
-如需設定垃圾郵件篩選原則的詳細資訊，請參閱 [設定垃圾郵件篩選原則](https://go.microsoft.com/fwlink/?linkid=2101431)。
+   若要直接移至 [反垃圾郵件原則 **]** 頁面，請使用 <https://security.microsoft.com/antispam>。
+
+2. 在 [ **反垃圾郵件原則** ] 頁面上，按一下原則的名稱 (**類型** 是 **自訂反垃圾郵件原則** 或 **名稱** **Anti-Spam 輸入原則 (預設)**) ，以選取原則。
+3. 在出現的 [詳細資料] 快顯視窗中，選取 [**允許和封鎖的寄件者和網域**] 區段中的 [**編輯允許和封鎖的寄件者**
+4. 在 [ **允許** ] 區段中，按一下 [ **管理 \<nn\> 寄件者** ] 或 [ **允許網域**] 以複查寄件者和網域。
+
+如需詳細資訊，請參閱[在 EOP 中設定反垃圾郵件原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)。

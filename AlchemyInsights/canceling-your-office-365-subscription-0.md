@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "86"
 - "1400001"
-ms.openlocfilehash: a84baac2762f894dfd36e0007624e231713c65fa
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 5c6b305fe61d20c706ff27db51607bcbdbdfdfe5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685761"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311426"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>取消您的 Microsoft 365 訂閱嗎？
 
@@ -30,4 +30,4 @@ ms.locfileid: "53685761"
   
 **退款：** 任何按比例計算的款項將會在下個計費週期內退回。
 
-若要深入瞭解，請參閱 [取消您的訂閱](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
+若要深入瞭解，請參閱 [取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。

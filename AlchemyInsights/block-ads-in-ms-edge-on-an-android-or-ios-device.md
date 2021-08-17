@@ -1,5 +1,5 @@
 ---
-title: 在 Adroid 或 iOS 裝置上封鎖 Microsoft Edge 中的廣告
+title: 在 Adroid 或 iOS 裝置的 Microsoft Edge 中封鎖廣告
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003856"
 - "6906"
-ms.openlocfilehash: 8ad1e8dd59712de0be46c90bee24b0e8d290906f
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 513ef21d7629ac0598e5446f61edf0b26d69ca389735638df54f32dffbe3059b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571798"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059911"
 ---
-# <a name="block-ads-in-microsoft-edge-on-an-adroid-or-ios-device"></a>在 Adroid 或 iOS 裝置上封鎖 Microsoft Edge 中的廣告
+# <a name="block-ads-in-microsoft-edge-on-an-adroid-or-ios-device"></a>在 Adroid 或 iOS 裝置的 Microsoft Edge 中封鎖廣告
 
-若要封鎖所有的廣告，除了 AdBlock 的可接受的廣告之外：
-1. 選取 **...** > **設定**  > **內容攔截**。
-2. 開啟塊狀廣告。
+若要封鎖 AdBlock Plus 認定可接受的廣告以外的所有廣告：
+1. 選取 **…** > **設定**  > **內容攔截**。
+2. 開啟 [封鎖廣告]。
 
-若要封鎖所有 ads：
-1. 選取 **...** > **設定**  > **內容攔截**。
-2. 開啟塊狀廣告。
-3. 選取 [ **高級設定**]。
+若要封鎖所有廣告：
+1. 選取 **…** > **設定**  > **內容攔截**。
+2. 開啟 [封鎖廣告]。
+3. 選取 [**進階設定**]。
 4. 關閉 [允許可接受的廣告]。
