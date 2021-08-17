@@ -1,5 +1,5 @@
 ---
-title: SharePoint 發佈基礎結構
+title: SharePoint發佈基礎結構
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,14 +11,14 @@ ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms-custom:
 - "1846"
 - "9000253"
-ms.openlocfilehash: 03979fd238aecff0bfb54ab784997727c03fd7c2
-ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
+ms.openlocfilehash: 2ce3d5467d8582aa3a3216b0efbc73ead5570248c4da57e175e0d4decc326f1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49002656"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051081"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a>SharePoint 發佈基礎結構
+# <a name="sharepoint-publishing-infrastructure"></a>SharePoint發佈基礎結構
 
 > [!IMPORTANT]
 > 新式通訊網站不支援傳統發佈功能，稱為「SharePoint 伺服器發佈基礎結構」。 嘗試啟用新式通訊網站的功能時，您會收到錯誤。 新式通訊網站預設會提供較新的替代方式。

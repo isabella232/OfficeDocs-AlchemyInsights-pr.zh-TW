@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006449"
 - "10987"
-ms.openlocfilehash: 54d0973e61005007e99114efbae83e6b0605ca6a
-ms.sourcegitcommit: b78efb0f182395eb94f464f5367367a0db7f0a30
+ms.openlocfilehash: a86ea635237bf13868894a8c3da3ff4119d4bb7c79a3fdc15b606b89d8ae823f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52077646"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051009"
 ---
 # <a name="sign-in-and-authentication"></a>登入和驗證
 
