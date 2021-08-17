@@ -15,12 +15,12 @@ ms.custom:
 - "11088"
 - "9005291"
 - "9006490"
-ms.openlocfilehash: 1340a86087612ae052ad549dae2a2a2ddfea6df274190ed18cd37aeb7af2de54
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2324f120964695f7f641b8ecd701c3c1bef6bc4f62b82800d88f79cc54b945d5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948118"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893462"
 ---
 # <a name="deploy-microsoft-edge"></a>部署 Microsoft Edge
 
@@ -28,8 +28,8 @@ ms.locfileid: "53948118"
 
 下列工具可用來部署 Microsoft Edge：
 
-- [適用於 Windows 的 Microsoft Intune](/mem/intune/apps/apps-windows-edge) 或[適用於 macOS 的 Microsoft Intune](/mem/intune/apps/apps-edge-macos)
-- [Configuration Manager](/DeployEdge/deploy-edge-with-configuration-manager)
+- [適用於 Windows 的 Microsoft Intune](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge) 或[適用於 macOS 的 Microsoft Intune](https://docs.microsoft.com/mem/intune/apps/apps-edge-macos)
+- [Configuration Manager](https://docs.microsoft.com/DeployEdge/deploy-edge-with-configuration-manager)
 - 另一個工具使用 [Microsoft Edge 的 MSI 檔案](https://www.microsoft.com/edge/business/download)
 
 **驗證您的部署**
