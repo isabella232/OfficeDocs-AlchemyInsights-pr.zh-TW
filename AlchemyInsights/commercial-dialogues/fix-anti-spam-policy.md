@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988238"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898847"
 ---
 # <a name="fix-anti-spam-policy"></a>修正反垃圾郵件原則
 
-您租使用者中的自訂反垃圾郵件原則會影響此郵件。 若要查看原則，請執行下列操作：
+其中一個反垃圾郵件原則會影響此郵件。 若要查看原則，請執行下列步驟：
 
-1. 移至 [Office 365 安全性 & 規範中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)，然後移至 **威脅管理**  >  **原則**  >  [反垃圾郵件](https://go.microsoft.com/fwlink/?linkid=2101518)。
-2. 在 [ **自訂** ] 索引標籤上，選取 **預設的垃圾郵件篩選原則** 或您可能已建立的任何其他自訂原則，然後選取 [ **編輯原則**]。
-3. 展開 [ **垃圾郵件屬性** ] 選項，並查看 [ **標記為垃圾郵件** ] 設定。
+1. 在 Microsoft 365 Defender 入口網站上 <https://security.microsoft.com/> ，移至 [**電子郵件 &** 共同作業 \> **原則] & 規則** \> 的 [原則] 區段中的 [**威脅原則** \> **反垃圾郵件**]。 
 
-如需設定垃圾郵件篩選原則的詳細資訊，請參閱 [設定自訂垃圾郵件篩選原則設定](https://go.microsoft.com/fwlink/?linkid=2101054)。
+   若要直接移至 [反垃圾郵件原則 **]** 頁面，請使用 <https://security.microsoft.com/antispam>。
+
+2. 在 [ **反垃圾郵件原則** ] 頁面上，按一下原則的名稱 (**類型** 是 **自訂反垃圾郵件原則** 或 **名稱** **Anti-Spam 輸入原則 (預設)**) ，以選取原則。
+
+3. 在出現的 [詳細資料] 浮出視窗中，按一下 [以 **大量電子郵件閥值 & 垃圾郵件屬性**] 區段中的 [**編輯垃圾郵件閾值和屬性**] 區段中，選取 [**編輯動作**]，然後查看 [**標記**
+
+如需詳細資訊，請參閱[在 EOP 中設定反垃圾郵件原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)。

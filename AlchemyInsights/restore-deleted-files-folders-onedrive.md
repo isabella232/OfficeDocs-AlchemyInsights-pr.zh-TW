@@ -14,12 +14,12 @@ ms.custom:
 - "3172"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 619c796dc1675cea33186d12af9df60adf2aaf31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b02cc8ce9bfe9c87b23d17aba0809a28cc558390812473914d378d60ea30a660
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808482"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109807"
 ---
 # <a name="restore-deleted-files-or-folders-in-onedrive"></a>還原 OneDrive 中已刪除的檔案或資料夾
 
