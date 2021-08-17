@@ -1,5 +1,5 @@
 ---
-title: 使用 Microsoft Intune 中 Apple MDM Push 憑證的問題疑難排解
+title: 在 Microsoft Intune 中進行 Apple MDM Push 憑證的問題疑難排解
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
 ms.custom:
 - "782"
 - "6200002"
-ms.openlocfilehash: 8154cba0aa63356f83cedd1329366ac5712fe2c3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b549b77c8d15912b5b9491ddf647414581dc6284df3816db0368bbc8470346eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048111"
 ---
-# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>使用 Microsoft Intune 中 Apple MDM Push 憑證的問題疑難排解
+# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>在 Microsoft Intune 中進行 Apple MDM Push 憑證的問題疑難排解
 
 立即查看下列資源，以解決您的問題。
   
