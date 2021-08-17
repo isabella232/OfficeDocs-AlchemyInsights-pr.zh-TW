@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11228"
 - "9005470"
-ms.openlocfilehash: 0f2e3d2d2cfa205f95a5d5dc84f7293fbee165a2976248de75a96379becd6925
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1eb0d949693916d1192fb75132207cd6a52e75840899e57c089a5f5aaca3ca88
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54072187"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893126"
 ---
 # <a name="attack-surface-reduction-rules"></a>受攻擊面縮小規則
 
 排除檔案或資料夾可能會嚴重降低受攻擊面縮小規則所提供的保護。 允許執行規則所封鎖的檔案，而且不會記錄任何報告或事件。 排除會套用到允許排除的所有規則。
 
-ASR 排除會使用與 Microsoft Defender 防毒軟體排除相同的語法。 如需詳細資料，請參閱[設定及驗證 Microsoft Defender 防毒軟體掃描的排除項目](/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus) (部分機器翻譯)。 若要避免問題，請檢閱[定義排除時應避免的常見錯誤](/microsoft-365/security/defender-endpoint/common-exclusion-mistakes-microsoft-defender-antivirus) (部分機器翻譯)。
+ASR 排除會使用與 Microsoft Defender 防毒軟體排除相同的語法。 如需詳細資料，請參閱[設定及驗證 Microsoft Defender 防毒軟體掃描的排除項目](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus) (部分機器翻譯)。 若要避免問題，請檢閱[定義排除時應避免的常見錯誤](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/common-exclusion-mistakes-microsoft-defender-antivirus) (部分機器翻譯)。
 
-並非所有 ASR 規則都支援排除。 若要驗證您的規則是否支援排除，請參閱[受攻擊面縮小規則](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)表格。
+並非所有 ASR 規則都支援排除。 若要驗證您的規則是否支援排除，請參閱[受攻擊面縮小規則](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)表格。
 
 ## <a name="attack-surface-reduction-rules"></a>受攻擊面縮小規則
 
@@ -34,11 +34,11 @@ ASR 排除會使用與 Microsoft Defender 防毒軟體排除相同的語法。 �
 
 如需詳細資訊，請參閱：
 
-- [將 ASR 規則 GUID 對應到名稱](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)
+- [將 ASR 規則 GUID 對應到名稱](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)
 - ASR 規則需求：
-    - [Windows 10 專業版，版本 1709 或更新版本](/windows/whats-new/whats-new-windows-10-version-1709)
-    - [Windows 10 企業版，版本 1709 或更新版本](/windows/whats-new/whats-new-windows-10-version-1709)
-    - [Windows Server 版本 1803 (半年通道) 或更新版本](/windows-server/get-started/whats-new-in-windows-server-1803)
+    - [Windows 10 專業版，版本 1709 或更新版本](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
+    - [Windows 10 企業版，版本 1709 或更新版本](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
+    - [Windows Server 版本 1803 (半年通道) 或更新版本](https://docs.microsoft.com/windows-server/get-started/whats-new-in-windows-server-1803)
 
 ## <a name="identify-the-correct-exclusion-to-apply"></a>識別要套用的正確排除
 
@@ -50,15 +50,15 @@ ASR 排除會使用與 Microsoft Defender 防毒軟體排除相同的語法。 �
     - 盡可能設定嚴格的排除。
     - 視需要套用萬用字元 (例如，取代 User 變數)。
 
-1. 根據部署需求套用排除。 如需詳細資料，請參閱[自訂受攻擊面縮小規則](/microsoft-365/security/defender-endpoint/customize-attack-surface-reduction) (部分機器翻譯)。
+1. 根據部署需求套用排除。 如需詳細資料，請參閱[自訂受攻擊面縮小規則](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/customize-attack-surface-reduction) (部分機器翻譯)。
 
 ## <a name="exclusion-is-not-honored"></a>未遵守排除
 
-1. 判斷規則是否支援排除。 如需詳細資料，請參閱[受攻擊面縮小規則](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules) (部分機器翻譯)。
+1. 判斷規則是否支援排除。 如需詳細資料，請參閱[受攻擊面縮小規則](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules) (部分機器翻譯)。
 
-1. 檢閱套用的排除，並驗證事件資料是否包含錯字或解譯錯誤的萬用字元。 如需詳細資訊，請參閱[支援的排除類型](/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types) (部分機器翻譯)
+1. 檢閱套用的排除，並驗證事件資料是否包含錯字或解譯錯誤的萬用字元。 如需詳細資訊，請參閱[支援的排除類型](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types) (部分機器翻譯)
 
-1. 如果規則的影響太高，請考慮將規則移到 (移回) 稽核模式，以執行進一步的驗證。 如需詳細資料，請參閱[測試適用於端點的 Microsoft Defender 功能在稽核模式中的運作方式](/microsoft-365/security/defender-endpoint/audit-windows-defender) (部分機器翻譯)。
+1. 如果規則的影響太高，請考慮將規則移到 (移回) 稽核模式，以執行進一步的驗證。 如需詳細資料，請參閱[測試適用於端點的 Microsoft Defender 功能在稽核模式中的運作方式](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/audit-windows-defender) (部分機器翻譯)。
 
 1. 使用此命令收集支援資料以開啟支援案例：
     

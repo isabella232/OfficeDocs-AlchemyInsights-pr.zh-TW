@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b6fbaf3f2ab30888d7a8f9d6f5aeccb65b5cfd0b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918886"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312816"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>「需要 Alchemy 標頭 H1，H2's 不會運作」。
 用於 Alchemy 製作的最佳做法和指導方針：
@@ -27,8 +27,8 @@ ms.locfileid: "53918886"
     1. 在自自訂欄位的 [Alchemy 夥伴入口網站](https://alchemyportal.azurewebsites.net) 中包含規則識別碼或 bucket 識別碼。 前。 ***ms. custom：100021***
 1. 使用此檔案頂端的中繼資料做為範本。
 1. 在「Alchemy 協力廠商」 [入口網站](https://alchemyportal.azurewebsites.net)中，向下流覽至 [ **客戶洞察力] 標題區段：** 並將其當作您的 H1 標題的起點，以供深入瞭解。 
-    > [!NOTE]
-    > Alchemy Insights 最上層只有一個 H1，否則會在生產中中斷。 H2s 不會呈現任何一種，使用 **粗體** 或其他慣例表示個別的區段。
+
+**附注**： Alchemy Insights 最上層只有一個 H1，否則它們會在生產中中斷。 H2s 不會呈現任何一種，使用 **粗體** 或其他慣例表示個別的區段。
 1. 接下來，使用 [Alchemy 規則] 頁面的 [Customer Insights] 區段中的拔模材料填滿本文。
     1. 項目符號清單很正常
     1. 編號清單太

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: a7dadd6fed2d6623c60e66a6ac564b6160be5aa5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 99d7bbd9494179f82a57749d802c5c8d4d98c5640f17d28f8562bd9ef5192ed8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51789279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109267"
 ---
 # <a name="save-sitelist-template-button-not-available-or-missing"></a>[儲存網站/清單範本] 按鈕無法使用或遺失
 

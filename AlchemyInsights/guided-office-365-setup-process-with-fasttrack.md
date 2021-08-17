@@ -13,12 +13,12 @@ ms.custom:
 - "9003885"
 - "6939"
 - "9419"
-ms.openlocfilehash: 35b18e1fc353d3a757a4b2aded385111bd723f61386fe6d2f7c1315536cc30af
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b5914e6c7ade38e90bdc56be5b72323abf05770c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53913382"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313204"
 ---
 # <a name="guided-office-365-setup-process-with-fasttrack"></a>使用 FastTrack 進行的導向 Office 365 安裝程式
 
@@ -26,8 +26,7 @@ ms.locfileid: "53913382"
 
 - 若要透過 FastTrack 入口網站取得協助，請登入[FastTrack 入口網站](https://go.microsoft.com/fwlink/?linkid=2125443)，然後依照步驟完成 Microsoft 365 表單協助的要求。
 
-    > [!NOTE]
-    > 如果您在登入或需要其他協助時有問題，請傳送電子郵件至 [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com)。
+    **附注**：如果您在登入或需要其他協助時有問題，請傳送電子郵件至 [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com)。
 
 - 如需 Office 365 的自我導向說明，請參閱[設定指南](https://go.microsoft.com/fwlink/?linkid=2125827)。
 - 若要尋找解決方案供應商，請參閱 [我正在尋找解決方案供應商](https://go.microsoft.com/fwlink/?linkid=2125918)。

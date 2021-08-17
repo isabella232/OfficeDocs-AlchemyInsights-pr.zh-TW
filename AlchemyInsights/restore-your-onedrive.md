@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 741c227b5d39282d53d36cefebe9e86290167447
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ab60bc794d50c031e22a7c1497d529f0403dde9b5a45708a54495117c1939f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109339"
 ---
 # <a name="restore-your-onedrive"></a>還原您的 OneDrive
 
@@ -25,7 +25,7 @@ ms.locfileid: "47801283"
   
 1. 移至網頁瀏覽器中的 OneDrive。
     
-2. 按一下右上角的 [設定] 圖示，然後選取 [ **還原您的 OneDrive**。
+2. 按一下右上角的設定圖示，然後選取 [**還原您的 OneDrive**。
     
 3. 從清單中選取日期，或選擇 [ **自訂日期和時間**]。
     

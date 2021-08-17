@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918458"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312750"
 ---
 # <a name="frequent-excel-crashes"></a>頻繁 Excel 崩潰？
 
@@ -28,8 +28,7 @@ ms.locfileid: "53918458"
 
 3. 在 [Add-Ins 可用] 方塊中，清除想要停用之增益集旁的核取方塊，然後按一下 **[確定]**。
 
-> [!NOTE]
-> 如果在啟動期間 Excel 會損毀，請在啟動程式時按住 Ctrl，以保管庫模式啟動它。
+**附注**：如果在啟動期間 Excel 會損毀，請在啟動程式時按住 Ctrl，以保管庫模式啟動。
   
 如果仍有問題，請參閱下列文章：
   
