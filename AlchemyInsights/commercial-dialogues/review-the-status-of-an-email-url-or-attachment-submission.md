@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 170219c96a82a00db66757874c9d0c447e9064c626331b153e070ad9010f7e7b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c93f281d8d9a19eb31df7c265a963e93089a0ef5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081817"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314799"
 ---
 # <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>檢查電子郵件、URL 或附件提交的狀態
 
@@ -25,5 +25,4 @@ ms.locfileid: "54081817"
 
 您會在頁面上看到提交進度，您也可以深入查看先前的提交，以查看提交的詳細資料及結果。
 
-> [!NOTE]
-> 使用提交的 Explorer 提交專案後，可能需要幾分鐘的時間才能顯示結果。
+**附注**：使用提交的 Explorer 提交專案後，可能需要幾分鐘的時間才能顯示結果。

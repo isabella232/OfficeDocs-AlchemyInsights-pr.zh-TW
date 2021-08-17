@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 4c4a495c0d4628b449454b3e2fdc9a7d4956d57b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: aa109cace9ab0ac0fe09c322102c72cda1077373d0de0e1eaf0394ebf11a56e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709349"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085183"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>疑難排解 OneDrive 或 SharePoint 中遺失的檔案或資料夾
 
@@ -28,7 +28,7 @@ ms.locfileid: "50709349"
 
 **檔案還原功能**
 
-如果有大量 OneDrive 或 SharePoint 檔案遭到惡意程式碼的刪除、覆寫、損毀或感染，您可以使用 [檔案還原] 功能，將整個 OneDrive 或 Sharepoint 文件庫還原至先前的時間。
+如果有大量 OneDrive 或 SharePoint 檔案遭到惡意程式碼的刪除、覆寫、損毀或感染，您可以使用 [檔案還原] 功能，將整個 OneDrive 或 SharePoint 文件庫還原至先前的時間。
 
 - [還原 OneDrive 文件庫](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 

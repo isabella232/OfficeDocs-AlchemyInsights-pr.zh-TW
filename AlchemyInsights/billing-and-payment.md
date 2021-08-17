@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502383"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314907"
 ---
 # <a name="billing-and-payment"></a>帳單和付款
 
@@ -46,8 +46,7 @@ ms.locfileid: "54502383"
 
 4. 若要使用現有的付款方式，請從下拉式清單中選擇一個付款方式，然後選取 [取代]。
 
-    > [!NOTE]
-    > 如果您有與帳單設定檔相關的訂閱，只能使用信用卡或轉帳卡付款。 如果您的銀行帳戶列在 [付款方式] 頁面上，則無法在下拉式清單中選取。
+    **附注**：如果您有與帳單設定檔相關聯的訂閱，您只可以使用信用或轉帳卡支付。 如果您的銀行帳戶列在 [付款方式] 頁面上，則無法在下拉式清單中選取。
 
 5. 若要新增新的付款方式，請選取 [新增付款方式]。
 
@@ -55,10 +54,10 @@ ms.locfileid: "54502383"
 
 7. 已在下拉式清單中選取新的付款方式。 選取 [取代]。
 
-若要深入了解，請參閱[管理付款方式](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
+若要深入了解，請參閱[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
 
 **計費頻率**
 
 根據結帳時所選擇的計費頻率，每月或每年產生帳單。  
 
-**附注**：在進行變更（例如新增或移除授權）時，具有年度帳單的訂單可能會收到帳單。 [變更您的帳單頻率](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)。
+**附注**：在進行變更（例如新增或移除授權）時，具有年度帳單的訂單可能會收到帳單。 [變更您的帳單頻率](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)。

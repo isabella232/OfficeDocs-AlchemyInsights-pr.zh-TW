@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "9001733"
-ms.openlocfilehash: 4c7b003fd1036f3506da80c4d01b8dea5dd1c743
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 9532f5954f18196c6c4817af5fb70e6a915ad12b8041ba0fa4306eb4b35f78e0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313761"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896266"
 ---
 # <a name="chat-with-external-users---guests-or-federated-users"></a>與外部使用者聊天-來賓或同盟使用者
 

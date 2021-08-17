@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: bc10199fe98460f55519e56dbacd7d49f09df89be6d677c4fe2b6b95f529e26d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f1b7dc5a648e2782ce0350cf75c0f4f0980b418d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889717"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314655"
 ---
 # <a name="need-help-with-email-quarantine"></a>需要電子郵件隔離的協助嗎？
 

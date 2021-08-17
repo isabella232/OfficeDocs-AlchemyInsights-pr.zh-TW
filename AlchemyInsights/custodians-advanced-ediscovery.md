@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12580"
-ms.openlocfilehash: e7b971619744503cfe09f2ee1ae96ce89929f00943164ff1e0b26e15e74ab8b9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7999b2e7c4ab6523f9084d406484f2c58a3560a533a3137698f07a18c58d46f4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54504045"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894954"
 ---
 # <a name="custodians-in-advanced-ediscovery"></a>進階電子文件探索中的監管人
 
@@ -32,6 +32,6 @@ ms.locfileid: "54504045"
 
 有關管理及檢視進階電子文件探索中監管人活動的資訊，請參閱:
 
-- [在電子文件探索中與監管人和非監管資料來源合作](/microsoft-365/compliance/managing-custodians)
+- [在電子文件探索中與監管人和非監管資料來源合作](https://docs.microsoft.com/microsoft-365/compliance/managing-custodians)
 
-- [檢視監管人稽核活動](/microsoft-365/compliance/view-custodian-activity)
+- [檢視監管人稽核活動](https://docs.microsoft.com/microsoft-365/compliance/view-custodian-activity)

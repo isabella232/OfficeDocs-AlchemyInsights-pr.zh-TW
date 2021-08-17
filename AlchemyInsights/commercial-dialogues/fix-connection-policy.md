@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d27d570a7bc0f2c1081ba7fd52264a20bf25a453
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888397"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314835"
 ---
 # <a name="fix-connection-policy"></a>修正連接原則
 
@@ -33,7 +33,6 @@ ms.locfileid: "57888397"
 
 4. 查看 [ **無條件允許來自下列 IP 位址或位址範圍的郵件** ] 區段中的專案，然後查看是否已選取 [ **開啟安全清單** ]。
 
-   > [!NOTE]
-   > Microsoft 會訂閱協力廠商來源的信任寄件者。 如果啟用 [安全清單]，這些受信任的寄件者不會錯誤地標示為垃圾郵件。 建議您選取此選項，因為它會減少誤報數目 (很棒的郵件會被分類為您收到的垃圾郵件) 。
+   **附注**： Microsoft 會訂閱協力廠商來源的信任寄件者。 如果啟用 [安全清單]，這些受信任的寄件者不會錯誤地標示為垃圾郵件。 建議您選取此選項，因為它會減少誤報數目 (很棒的郵件會被分類為您收到的垃圾郵件) 。
 
 如需詳細資訊，請參閱[設定連線篩選](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy)。

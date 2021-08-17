@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9406"
 - "9004341"
-ms.openlocfilehash: 290e740ccd7f3beac5b77e63c32c5b18c295070e6002dcdde44ce4a93f4330f6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fb043122edf5f99325f0403810eb0dc119d254e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105667"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314411"
 ---
 # <a name="troubleshoot-saml-signing-certificate-issues"></a>疑難排解 SAML 簽署憑證問題
 
@@ -31,13 +31,11 @@ ms.locfileid: "54105667"
 
 3. 如果此憑證過期，請建立新憑證，將之更新至應用程式廠商，然後在 Azure 端啟動該憑證。 如需詳細資訊，請參閱 [更新即將到期的憑證](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire)。
 
-> [!NOTE]
-> 如果憑證過期，並不會封鎖使用者。
+**注意**：如果憑證過期，並不會封鎖使用者。
 
 4. [新增收取通知的電子郵件地址](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#add-email-notification-addresses-for-certificate-expiration) 以在目前憑證到期前接收通知。
 
-> [!NOTE]
-> 步驟 4 是選擇性步驟。
+**注意**：步驟 4 是選擇性步驟。
 
 5. 變更應用程式的 SAML 憑證簽署選項和憑證簽署演算法。 如需詳細資訊，請參閱 [變更憑證簽署選項和簽署演算法](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)。
 
