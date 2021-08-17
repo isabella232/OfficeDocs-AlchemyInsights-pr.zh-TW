@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3175"
-ms.openlocfilehash: 3968f389675644cf5c0bd81eafcdb03b74a6dce5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 98b04875dd0b1a99e2624cd07dc24a9f5f93cbd43b9f087cfbd9709b39b3c5ff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815498"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102706"
 ---
 # <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>刪除項目或清空 SharePoint 網站的資源回收筒 
 

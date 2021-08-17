@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9758"
 - "9005418"
-ms.openlocfilehash: d4e86433bb15e07143b0b25bb515eedcfd329cb9
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 91ccb5d24b820978579ece9a412cb87c5540564d9c1005482ab928b53a0c1a10
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897810"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036771"
 ---
 # <a name="windows-doesnt-start-on-surface"></a>Windows 未在 Surface 上啟動
 

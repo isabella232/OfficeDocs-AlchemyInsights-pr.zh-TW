@@ -14,12 +14,12 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 8365e8687939e8759b5e9e0ae3b321b5e0a21c5f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce3e4698f19c882ac0034aacb3a1455973e7eeeb3bd38d4c28a0070d739405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746499"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102931"
 ---
 # <a name="create-users-in-hybrid-deployments"></a>在混合部署中建立使用者
 
