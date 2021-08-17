@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 486ac58b9b5b88b11fe45b7ace5b084190cfcee2
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 0fc12233a0b3ec3128b41f11f89f13824787fc20d5914c955afb8446a7fa3ced
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543712"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103363"
 ---
 # <a name="increase-protection-from-advanced-threats"></a>提高來自高級威脅的保護
 

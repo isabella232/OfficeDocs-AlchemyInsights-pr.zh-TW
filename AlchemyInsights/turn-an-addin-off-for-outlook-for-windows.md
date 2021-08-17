@@ -1,5 +1,5 @@
 ---
-title: 是否關閉 Outlook for Windows 的增益集？
+title: 針對 Windows 的 Outlook 關閉增益集？
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "9003117"
 - "5896"
-ms.openlocfilehash: aa768a0c4b5672088ef68feedc803b4775e9dc2e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5f76ce38552c9b305acec4a8ddfea1ee7ae5a0016bf8c67aed1d7e7c2c3449b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038724"
 ---
-# <a name="turn-an-add-in-off-for-outlook-for-windows"></a>開啟 Outlook for Windows 的增益集
+# <a name="turn-an-add-in-off-for-outlook-for-windows"></a>針對 Windows 的 Outlook 關閉增益集
 
-如果您不想在 Outlook 2013 或 Outlook 2016 for Windows 中使用增益集，您可以停用它，使其不會顯示在郵件中。  
+如果您不想要使用 Outlook 2013 中的增益集或 Outlook 2016 Windows，您可以停用此增益集，使其不會顯示在郵件中。  
 
 1. 在 Outlook 中，按一下 [檔案 **> 管理增益集**]。
 2. 按一下 [**管理增益集**]

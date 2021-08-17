@@ -12,12 +12,12 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: 7322fa640f6d043f057c8b7a5e06a18dcd10eec5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d9d66e366db14840a86b681deba78b89ddff5e068a3b931c88e493d2ec791b10
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073591"
 ---
 # <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>將您的網域名稱伺服器更新為指向 Microsoft
 
@@ -35,5 +35,5 @@ ms.locfileid: "47734902"
 
 3. 儲存變更。
 
-您也可以在本文中找到詳細指示： [Change 名稱伺服器以設定 Microsoft 365 與任何網域註冊機構](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+您也可以在本文中找到詳細指示：[使用任何網域註冊機構變更名稱伺服器以設定 Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   
