@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: 4094371ee0a3b3ec8d29454fd66f3e9e7c3f35a91b9ea05f308325bc447ce11c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926308"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887431"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>使用 Edge 瀏覽器時，指示器無法運作
 
-建立指示器之後，Edge (Smartscreen) 不使用該指示器。 如需詳細資訊，請參閱[為 IP 和 URL/網域建立指示器](/microsoft-365/security/defender-endpoint/indicator-ip-domain) (部分機器翻譯)。
+建立指示器之後，Edge (Smartscreen) 不使用該指示器。 如需詳細資訊，請參閱[為 IP 和 URL/網域建立指示器](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain) (部分機器翻譯)。
 
 ## <a name="step-1-ensure-the-following"></a>步驟 1：確定下列項目
 
@@ -34,7 +34,7 @@ ms.locfileid: "53926308"
 
 ## <a name="step-2-troubleshoot-the-potential-issue"></a>步驟 2：疑難排解可能的問題
 
-- 確定用戶端符合需求。 如需詳細資料，請參閱[為 IP 和 URL/網域建立指示器](/microsoft-365/security/defender-endpoint/indicator-ip-domain) (部分機器翻譯)。
+- 確定用戶端符合需求。 如需詳細資料，請參閱[為 IP 和 URL/網域建立指示器](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain) (部分機器翻譯)。
 - 確定您執行的是最新版的 Edge 瀏覽器。 若要了解最新版本，請參閱[了解您所擁有的 Microsoft Edge 版本](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb)。
 - 重新啟動 Edge 瀏覽器。
 - 瀏覽至已設定指示器的網站。 如果網站未如預期顯示，請繼續執行步驟 3。 

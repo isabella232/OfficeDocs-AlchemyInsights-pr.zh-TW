@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 1623ea2269e18a0333b0bfddef7c5797ce3db57bb74ee4646a3aa94b8e821fa1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499539"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886282"
 ---
 # <a name="too-many-licenses"></a>授權太多？
 
@@ -36,4 +36,4 @@ ms.locfileid: "54499539"
 4. 在 [**移除授權**] 窗格的 [**授權總數**]**方塊中，** 輸入您要用於此訂閱的授權總數。 例如，如果您有100授權，而您想要移除25個，請輸入75。
 5. 選取 **[儲存]**。
 
-若要深入瞭解，請參閱 [購買或移除授權](/microsoft-365/commerce/licenses/buy-licenses)。
+若要深入瞭解，請參閱 [購買或移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。

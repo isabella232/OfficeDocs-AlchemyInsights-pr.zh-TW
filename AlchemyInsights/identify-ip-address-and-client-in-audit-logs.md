@@ -13,12 +13,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: fcad71bcc5ea6036bc8fa25a9be38caabc4d0889ee01ea86e23065333d5fce0a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54014891"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887491"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>在審核記錄中識別 IP 位址和用戶端
 
@@ -36,4 +36,4 @@ Microsoft 365 使用者或系統管理員所對應之活動的 IP 位址會顯�
 
 在結果中，您可以在 [結果] 窗格中查看該活動的 IP 位址。 選取 [ **詳細資料** ] 快顯視窗中的詳細資訊 (例如，用戶端、執行動作的使用者等等 ) 。
 
-如需詳細資訊，請參閱 [尋找用來存取已遭破壞之帳戶之電腦的 IP 位址](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)。
+如需詳細資訊，請參閱 [尋找用來存取已遭破壞之帳戶之電腦的 IP 位址](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)。

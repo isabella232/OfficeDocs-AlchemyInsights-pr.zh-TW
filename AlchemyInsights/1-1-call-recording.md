@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: befb89c28396be3dc60d9d812a0c6aced69bea3c1c48d88a4ab81a34d6c259b0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 29383643e6867bca7fd31774a9594b82fdc080bb0e7254141e8c883ad861075e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918982"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886130"
 ---
 # <a name="11-call-recording"></a>1:1 通話記錄
 
@@ -28,7 +28,7 @@ ms.locfileid: "53918982"
 
 *AllowCloudRecordingForCalls*  通話原則選項預設設為 **$False** 。 如果您想要封鎖所有使用者錄製1:1 通話，您不需要採取任何動作。  
 
-若要為1:1 呼叫中的所有使用者啟用通話記錄，請使用 [Teams PowerShell](/microsoftteams/teams-powershell-install)執行下列 Cmdlet： 
+若要為1:1 呼叫中的所有使用者啟用通話記錄，請使用 [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install)執行下列 Cmdlet： 
 
 **Set-CsTeamsCallingPolicy-Identity Global-AllowCloudRecordingForCalls $True** 
 

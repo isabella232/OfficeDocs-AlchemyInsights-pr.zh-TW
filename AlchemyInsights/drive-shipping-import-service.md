@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11514"
 - "9003046"
-ms.openlocfilehash: 85d6e723e56b01fd9914165d8c9740f3b055947d
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: e524935c4600d4f043e39dc3c261eb21be97bfbaeb30dc1279676e2d5578ba4b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721675"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888293"
 ---
 # <a name="drive-shipping-in-the-microsoft-365-import-service"></a>Microsoft 365 匯入服務中的磁碟機寄送
 
@@ -34,12 +34,11 @@ ms.locfileid: "52721675"
 
 以下是一些要記住的事項：
 
-- 您必須在 Exchange Online 中獲派信箱匯入匯出角色，才能將 PST 檔案匯入 Microsoft 365 信箱。
-如果 PST 大於 20GB，效能可能會受到影響。
+- 您必須在 Exchange Online 中獲指派信箱匯出角色，才能將 PST 檔案匯入 Microsoft 365 信箱。如果 PST 大於 20GB，效能可能會受到影響。
 
 - 只支援 2.5 吋固態硬碟 (SSD)，或是 2.5 吋或 3.5 吋 SATA II/III 內接式硬碟。
 包含 PST 檔案的硬碟必須使用 BitLocker 進行加密。
 
 - 使用磁碟機寄送以將 PST 檔案匯入到 Microsoft 365 信箱的成本，是每 GB 的資料 $2 USD。
 
-如需使用磁碟機寄送方式匯入 PST 的其他資訊，請參閱 [使用磁碟機寄送以匯入貴組織的 PST 檔案](/microsoft-365/compliance/use-drive-shipping-to-import-pst-files-to-office-365)。
+如需使用磁碟機寄送方式匯入 PST 的其他資訊，請參閱 [使用磁碟機寄送以匯入貴組織的 PST 檔案](https://docs.microsoft.com/microsoft-365/compliance/use-drive-shipping-to-import-pst-files-to-office-365)。

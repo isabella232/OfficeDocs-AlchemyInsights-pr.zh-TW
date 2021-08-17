@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002495"
 - "4834"
-ms.openlocfilehash: 6c51e3a53f89489ffd25a2c222055be1eff5f23c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 646fcb992ce43666bdf89c5de09924b736a2a8e19eab1771fb6b320b22310eb6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080377"
 ---
 # <a name="create-and-run-live-events-in-yammer"></a>在 Yammer 中建立及執行即時活動
 

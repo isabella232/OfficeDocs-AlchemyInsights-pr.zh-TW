@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11142"
-ms.openlocfilehash: 0a89b121f2f425b0a81fa250650f108e9af48c9da39dfc8a62b07541d3a6c3dd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f77fdbb315db8317a6a1374f05489a7f5a0bedcec484dc9ac53a473098583949
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54098053"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886623"
 ---
 # <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>使用 Microsoft Intune 安全性基準來設定 Windows 10 裝置
 
@@ -30,5 +30,5 @@ Intune 安全性基準可協助保護使用者和裝置。 安全性基準 Windo
 
 如果您是最新的 Intune，且不確定開始位置，安全性基準會協助您快速建立及部署安全的設定檔。 如果您目前使用群組原則，由於安全性基準已內置於 Intune 中，所以針對管理目的遷移至 Intune 會更容易，並包含切削 edge 的管理功能。
 
-若要深入瞭解，請參閱[Windows 安全性基準](/windows/security/threat-protection/windows-security-baselines)及行動[裝置管理](/windows/client-management/mdm/)。
+若要深入瞭解，請參閱[Windows 安全性基準](https://docs.microsoft.com/windows/security/threat-protection/windows-security-baselines)及行動[裝置管理](https://docs.microsoft.com/windows/client-management/mdm/)。
 
