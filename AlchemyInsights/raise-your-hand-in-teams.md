@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002646"
 - "5086"
-ms.openlocfilehash: 879bb55280dd58a95539e90d27a9c2f23cd6cacd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3f9f584019726f5d30d384044b3c11ac215ca371c06f6472a8d479b38ccaf537
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51789855"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111031"
 ---
 # <a name="raise-your-hand-in-teams"></a>在 Teams 中舉手發言！
 

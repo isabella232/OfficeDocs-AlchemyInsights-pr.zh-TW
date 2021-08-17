@@ -13,12 +13,12 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 3c2fd2bb8394b7a4499b539c9b676918d3c0e5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa9ee7cd7710517dfcc441cd931b9f427474869ad49ed0fa0a91a06e06682ed7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059551"
 ---
 # <a name="bypass-spam-filtering-to-allow-specific-messages"></a>略過垃圾郵件篩選以允許特定郵件？
 

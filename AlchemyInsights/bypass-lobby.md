@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dac6690b66181455a1c9c0f40a642b71f2af3516d91ea0853d06564b017b03a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820025"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059587"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>控制團隊中的會議廳設定和參與程度
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>控制 Teams 中的會議廳設定和參與層級
 
 如果您想要允許所有人（包括撥入、外部和匿名使用者） **略過會議廳**，請使用 PowerShell 來完成這項工作。 以下是修改組織全域會議原則的範例。
 
@@ -32,9 +32,9 @@ ms.locfileid: "51820025"
 請務必先閱讀下列檔，再進行這些變更，以瞭解所允許的功能。
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>瞭解小組會議會議廳原則控制項
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>瞭解 Teams 會議會議廳原則控制項
 
-這些設定會控制哪些會議參與者會在會議廳中等待，以及在會議中允許他們的參與程度。 您可以使用 PowerShell 來更新小組系統管理中心中「即將 ) 推出」 (標示為「即將推出」的會議原則設定。 如需允許所有使用者略過大廳的 PowerShell Cmdlet 範例，請參閱下一節。
+這些設定會控制哪些會議參與者會在會議廳中等待，以及在會議中允許他們的參與程度。 您可以使用 PowerShell 來更新 Teams 系統管理中心中「即將 ) 推出」 (標示為「即將推出」的會議原則設定。 如需允許所有使用者略過大廳的 PowerShell Cmdlet 範例，請參閱下一節。
 
 - [[自動承認人員](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people)] 是每個召集人原則，可控制人員是否直接加入會議，或在會議廳中等待已驗證使用者的使用者。
 
@@ -44,4 +44,4 @@ ms.locfileid: "51820025"
 
 - [允許召集人覆寫會議廳設定](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) **()** 是每個召集人原則，用來控制會議召集人是否可以覆寫 **系統** 管理員所設定的前廳流覽設定，以及是否 **允許撥入使用者** 在排程新會議時略過會議廳。
 
-**附注：** 如需 Microsoft 團隊會議原則的完整綜述，請參閱 [管理小組中的會議原則](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) 。
+**附注：**[在 Teams 中讀取 [管理會議原則](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)]，以取得 Microsoft Teams 會議原則的完整綜述。

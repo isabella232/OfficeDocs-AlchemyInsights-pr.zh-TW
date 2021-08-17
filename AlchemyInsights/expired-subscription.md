@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029723"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895878"
 ---
 # <a name="expired-subscription"></a>已到期訂閱
 
@@ -35,7 +35,7 @@ ms.locfileid: "54029723"
 3. 在 **重新啟用此訂閱** 窗格中，從下拉式清單中選取付款條件，或選取 **[新增付款條件]**。
 4. 選取 **[儲存]**。
 
-若要深入了解，請參閱[重新啟動您的訂閱](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
+若要深入了解，請參閱[重新啟動您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
 
 **進行新購買**
   
@@ -44,4 +44,4 @@ ms.locfileid: "54029723"
 3. 輸入您需要的授權數目，並選擇要按月付款或按年付款。 選擇是否要自動將授權指派給目前未獲授權的所有使用者。 然後選擇 [ **立即查看**]。
 4. 請遵循其餘步驟以完成取出。
 
-若要深入瞭解，請參閱 [購買其他訂閱](/microsoft-365/commerce/buy-another-subscription)。
+若要深入瞭解，請參閱 [購買其他訂閱](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)。

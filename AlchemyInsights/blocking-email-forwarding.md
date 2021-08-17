@@ -14,12 +14,12 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
-ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
+ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48478312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059623"
 ---
 # <a name="blocking-or-unblocking-email-forwarding"></a>封鎖或取消封鎖電子郵件轉發
 
@@ -29,4 +29,4 @@ ms.locfileid: "48478312"
 
 如果您收到下列錯誤：「 **550 5.7.520 存取權遭到拒絕，您的組織不允許外部轉送**」，請確定原則已設定為啟用外部自動轉寄。
 
-**附注：** 建議您在預設的輸出垃圾郵件篩選原則上停用外部 Autoforward，並僅針對需要外部轉寄的使用者，為這些使用者建立自訂原則加以啟用。 您可以在 Office 365 中深入瞭解設定 [外部電子郵件](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)轉寄。
+**附注：** 建議您在預設的輸出垃圾郵件篩選原則上停用外部 Autoforward，並僅針對需要外部轉寄的使用者，為這些使用者建立自訂原則加以啟用。 您可以在 Office 365 中深入瞭解設定[外部電子郵件轉發](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)。

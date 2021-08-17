@@ -12,16 +12,16 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: d148f528ba74c71bbcc34482e42ba06c12a485e2
-ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
+ms.openlocfilehash: 67983aa1210b8c4694d47d8f5de4c60c97248f9f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52853860"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311282"
 ---
 # <a name="information-about-gdpr"></a>GDPR 的相關資訊
 
-- [GDPR 簡體：適用于小型企業的指南](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
+- [GDPR 簡化: 您的小型企業指引](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
 - 使用[服務信任入口網站入門。](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
@@ -31,7 +31,7 @@ ms.locfileid: "52853860"
 
   - [稽核報告](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- 在這裡 (DSR) 探索、存取、修正、限制、刪除、匯出的 **資料主體要求** 的資訊 [。](/microsoft-365/compliance/gdpr-dsr-office365)
+- 在這裡 (DSR) 探索、存取、修正、限制、刪除、匯出的 **資料主體要求** 的資訊 [。](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
 
 - **資料洩密通知** 的資訊在 [這裡。](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 

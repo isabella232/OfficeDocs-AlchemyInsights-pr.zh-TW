@@ -12,16 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045123"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311390"
 ---
 # <a name="view-all-quarantined-messages"></a>查看所有隔離的郵件
 
-1. 在系統管理中心，移至 [ [安全性 & 規範中心]。](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. 移至 **威脅管理**  >  **回顧**  >  **隔離**。
+1. 在 Microsoft 365 Defender 入口網站上 <https://security.microsoft.com> ，移至 [**電子郵件 & 協同** \> **查看** \> **隔離區**]。
+
+   若要直接移至 [ **隔離** ] 頁面，請使用 <https://security.microsoft.com/quarantine> 。
+
+2. 在 [ **隔離** ] 頁面上，確認已選取 [ **電子郵件** ] 索引標籤。
 3. 根據預設，郵件會根據接收到郵件的日期從最新到最舊的順序排序。 您可以按一下標頭，依序排序欄位。
 4. 您最多隻能對100個專案執行大量作業，所以篩選也可以減少您的結果集（如果擁有超過100個專案）。
+
+如需詳細資訊，請參閱下列文章：
+
+- [以使用者身分找到並釋放被隔離的郵件](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [以系統管理員身分管理被隔離的郵件與檔案](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
