@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919630"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304324"
 ---
 # <a name="understand-billing-amount"></a>瞭解計費金額
 
@@ -67,7 +67,9 @@ ms.locfileid: "53919630"
 - 登入 **入口網站**。 選取 **[報告]**
 - 在索引標籤的右上角，將檢視從 **M** 切換到 **C** 並匹配發票上的時間段
 - **Azure Marketplace** 總數應與您的 Marketplace 發票上的 **總銷售額** 匹配
-- 移至 **[下載使用狀況]** ，以取得有關使用計費的詳細資訊。 在 **Marketplace 費用** 底下，選取 **下載** **注意**：此報告不包含稅或顯示買斷型
+- 移至 **[下載使用狀況]** ，以取得有關使用計費的詳細資訊。 在 **Marketplace 費用** 底下，選取 **下載** 
+
+**注意**：此報告不含稅或顯示買斷型
 
 **雲端解決方案提供者 (CSP)**
 
