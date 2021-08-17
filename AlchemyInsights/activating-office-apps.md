@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889245"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314231"
 ---
 # <a name="activating-microsoft-365-apps"></a>啟用 Microsoft 365 應用程式
 
-**請注意**：如果您使用舊版 Windows，請確認 TLS 1.2 已預設啟用 (例如，Windows 7)。 如需詳細資訊，請參閱 [更新以在 Windows 版 WinHTTP 中啟用 TLS 1.1 和 TLS 1.2 做為預設安全通訊協定](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)。
+**注意**: 如果您使用較舊版本的 Windows （例如 Windows 7 SP1、Windows Server 2008 R2），則使用 [簡易修正程式](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi)，將 TLS 1.2 啟用為預設值。 如需詳細資訊，請參閱 [更新以在 Windows 版 WinHTTP 中啟用 TLS 1.1 和 TLS 1.2 做為預設安全通訊協定](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)。
 
 若要啟用 Office，請參閱：
 
@@ -38,7 +38,7 @@ ms.locfileid: "57889245"
 
 - [無法安裝或啟用 Mac 版 Office 時的解決方案](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**提示**：在 Windows 電腦上，我們可以為您診斷並自動修正數種常見的 Office 登入問題。 下載並執行 **[Microsoft 支援及修復小幫手](https://aka.ms/SaRA-OfficeSignInScenario)** 以使用我們的自動化工具。
+**提示**: 在 Windows 電腦上，我們可以為您診斷並自動修正幾個常見的 Office 登入問題。 下載並執行 **[Microsoft 支援及修復小幫手](https://aka.ms/SaRA-OfficeSignInScenario)** 以使用我們的自動化工具。
 
 如果您無法登入 Microsoft 365 應用程式，請遵循下列步驟：
 

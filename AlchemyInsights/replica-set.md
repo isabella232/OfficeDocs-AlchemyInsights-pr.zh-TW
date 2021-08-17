@@ -14,12 +14,12 @@ ms.custom:
 - "9004395"
 - "8265"
 - "9276"
-ms.openlocfilehash: 3834696ff59b7e96e90a5b660a489003dfa9729c
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 45cf530c3258fa3c7008c3e8251fdb7b74be6911d0487f58c5ce2530e25ca282
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50716267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110671"
 ---
 # <a name="replica-set"></a>複本集
 

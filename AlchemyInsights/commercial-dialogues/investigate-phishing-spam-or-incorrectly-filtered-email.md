@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948946"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894386"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>調查網路釣魚、垃圾郵件或錯誤篩選的電子郵件
 
 使用提交瀏覽器將郵件提交給 Microsoft。 您會立即收到有關郵件篩選的意見反應，以及發生問題的原因。 以下是步驟的摘要：
 
-1. 移至 [Office 365 安全性 & 規範中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)] 中，選取 [**威脅管理**  >  **報送**]，然後選取 [ **+ 新提交**]。
-2. 在 **新的提交** 浮出控制項中指定詳細資料。
-3. 通知使用者他們應該向 Microsoft 報告可疑的電子郵件，而且 [報告訊息增益集](https://go.microsoft.com/fwlink/?linkid=2092385) 是其應該用於此目的的工具。
+1. 在 Microsoft 365 Defender 入口網站上 <https://security.microsoft.com> ，移至 [**電子郵件 &** 共同作業 \> **提交**]。
+
+   若要直接移至 [ **提交** ] 頁面，請使用 <https://security.microsoft.com/reportsubmission> 。
+
+2. 在 [ **提交** ] 頁面上，確認已選取 [已送出的 **分析** ] 索引標籤，然後按一下 [將 **提交給 Microsoft 進行分析**]。
+
+3. 快顯視窗會出現，其中包含提交電子郵件、URL 或檔案的選項。 如需詳細資訊，請參閱 [使用系統管理員提交將可疑的垃圾郵件、網路釣魚、URLs 和檔案提交給 Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)。
+
+4. 通知您的使用者，他們應該使用 [報告訊息增益集或報告網路釣魚增益集](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)，在其收件匣中報告任何可疑的郵件。

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: 5eaf53633be10a10df9c040bc2852152f51daa6b248f3773997e203cbb6b86f7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 51a7e1c5d060f58a5bb0e551e31b8c9734858fc2ec88fc662b1d9a78d127bed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54108583"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893678"
 ---
 # <a name="set-up-advanced-ediscovery"></a>設定進階電子文件探索
 
@@ -40,6 +40,6 @@ ms.locfileid: "54108583"
 
 **4. 建立進階電子文件探索案例**
 
-如需設定進階電子文件探索所需步驟的相關資訊，請參閱[開始使用進階電子文件探索](/microsoft-365/compliance/get-started-with-advanced-ediscovery)。
+如需設定進階電子文件探索所需步驟的相關資訊，請參閱[開始使用進階電子文件探索](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery)。
 
-如需如何建立及管理案例的資訊，請參閱[在 Microsoft 365 中建立及管理進階電子文件探索案例](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case)。
+如需如何建立及管理案例的資訊，請參閱[在 Microsoft 365 中建立及管理進階電子文件探索案例](https://docs.microsoft.com/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case)。
