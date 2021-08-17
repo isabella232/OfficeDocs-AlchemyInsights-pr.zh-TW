@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 95f1c3481dbe02f0569522a38783b16c1d5f45cf47847d456dbed9ccda52c3c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 90399a54ad9d77bb94f8c067f255274e4d2591823095b391f53ddf7514d338a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53931188"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890749"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>取消您的 Microsoft 365 訂閱嗎？
 
@@ -31,6 +31,6 @@ ms.locfileid: "53931188"
 3. 在 [取消訂閱 **]** 窗格中，選擇取消的原因。選擇性地提供任何意見反應。
 4. 選取 **[儲存]**。
 
-若要深入瞭解取消訂閱或選項，請參閱 [取消您的訂閱](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
+若要深入瞭解取消訂閱或選項，請參閱 [取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
 
-如果您想要在試用期間繼續使用您的訂閱，您可以關閉訂閱的重複計費。 若要深入瞭解，請參閱[更新商務 Microsoft 365](/microsoft-365/commerce/subscriptions/renew-your-subscription)。
+如果您想要在試用期間繼續使用您的訂閱，您可以關閉訂閱的重複計費。 若要深入瞭解，請參閱[更新商務 Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)。

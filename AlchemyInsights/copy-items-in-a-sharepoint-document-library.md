@@ -14,12 +14,12 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: b2d4b162bda70906bf50df51df85e6ee032832f5
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 7b7d0972c5ffa8d5b58abcd2aaf0e9fe994a668f5a61289024c98f0cc0242547
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683821"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081061"
 ---
 # <a name="copy-files-in-sharepoint-and-onedrive"></a>在 SharePoint 和 OneDrive 中複製檔案
 
