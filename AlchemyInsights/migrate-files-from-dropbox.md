@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8002"
 - "5300030"
-ms.openlocfilehash: b0774b3ce59c98f83ea9fb1efaef409eb9e0d622
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 5d08ee7a04cb5107c2d380fe3844f1acaea0a9c4b76f2ad4e4b36f469e44e9fc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311174"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900203"
 ---
 # <a name="migrate-files-from-dropbox"></a>從 Dropbox 移轉檔案
 

@@ -13,31 +13,33 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1e80917a323128ba23175651cdf4d892d7815a89c1223b654812c1b456c787da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028720"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899875"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>識別信箱上設定外部電子郵件轉寄的時間
 
-當 Microsoft 365 使用者設定信箱上的外部電子郵件轉寄功能時，會在 **Set-Mailbox** Cmdlet 中審核該活動。 您可以在安全性 & 規範中心內，看到使用審核記錄搜尋的活動。
+當 Microsoft 365 使用者設定信箱上的外部電子郵件轉寄功能時，會在 **Set-Mailbox** Cmdlet 中審核該活動。 您可以使用 [審計記錄檔] 搜尋來查看活動。 以下說明如何執行。
 
-1. 登入[Microsoft 365 規範中心](https://protection.office.com/)。
+1. 執行下列其中一個步驟：
+   - 在 Microsoft 365 合規性中心 <https://compliance.microsoft.com> ，移至 [**解決方案** \> **審核**]。 或者，若要直接移至 [ **審計** ] 頁面，請使用 <https://compliance.microsoft.com/auditlogsearch> 。
+   - 在 Microsoft 365 Defender 入口網站上 <https://security.microsoft.com> ，移至 [**審計**]。 或者，若要直接移至 [ **審計** ] 頁面，請使用 <https://sip.security.microsoft.com/auditlogsearch> 。
 
-2. 移至 [**搜尋**  >  **審核記錄搜尋**] 頁面。
+2. 在 [ **審計** ] 頁面上，確認已選取 [ **搜尋] 索引** 標籤，然後設定下列設定：
+   - 選取 [ **開始** ] 和 [ **結束** ] 方塊中的日期/時間範圍。
+   - 確認 [ **活動** ] 方塊中包含 **所有活動的顯示結果**。
 
-3. 在 [ **開始日期** ] 和 [ **結束日期** ] 欄位中，選取日期範圍。 您不需要指定使用者名稱。 確認 [ **活動** ] 欄位已設定為 **顯示所有活動的結果**。
+3. 完成後，請按一下 [ **搜尋**]。 活動會顯示在 [新的 **審計搜尋** ] 頁面上。
 
-4. 按一下 [搜尋]。
+4. 在結果中，按一下 [ **篩選結果** ]，然後在 [活動篩選] 方塊中輸入 **Set-Mailbox** 。
 
-在結果中，按一下 [ **篩選結果** ]，然後在 [活動篩選] 方塊中輸入 **Set-Mailbox** 。 選取結果中的審計記錄。 在 [ **詳細資料** ] 快顯視窗中，按一下 [ **詳細資訊**]。 您必須查看每個審計記錄的詳細資料，以判斷該活動是否與電子郵件轉寄有關。
+5. 選取結果中的審計記錄。 在 [ **詳細資料** ] 快顯視窗中，按一下 [ **詳細資訊**]。 您必須查看每個審計記錄的詳細資料，以判斷活動是否與電子郵件轉寄有關。
 
-- **ObjectId**：已修改之信箱的別名值。
+   - **ObjectId**：已修改之信箱的別名值。
+   - **參數**： _ForwardingSmtpAddress_ 表示目標電子郵件地址。
+   - **UserId**：在 **ObjectId** 欄位中的信箱上設定電子郵件轉寄的使用者。
 
-- **參數**： _ForwardingSmtpAddress_ 表示目標電子郵件地址。
-
-- **UserId**：在 **ObjectId** 欄位中的信箱上設定電子郵件轉寄的使用者。
-
-如需詳細資訊，請參閱 [決定誰設定信箱的電子郵件](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)轉寄功能。
+如需詳細資訊，請參閱 [決定誰設定信箱的電子郵件](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)轉寄功能。

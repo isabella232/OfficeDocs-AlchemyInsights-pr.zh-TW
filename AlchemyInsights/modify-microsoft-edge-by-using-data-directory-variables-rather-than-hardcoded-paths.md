@@ -13,15 +13,15 @@ ms.collection: ''
 ms.custom:
 - "9003873"
 - "6926"
-ms.openlocfilehash: 5c40aa1d7f61fbd2842839a5839899af8ab439f2
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 235696d17711726da57d9a09c23b5b13140a28d7645299ef120a4b2c7b395c5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113407"
 ---
 # <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>使用資料目錄變數（而非硬編碼路徑）修改 Microsoft Edge
 
-例如，在 Windows 上，若要將設定檔資料儲存在使用者的本機應用程式資料下，而不是在預設位置，請將 **UserDataDir** 原則設定為 **$ {local_app_data} \Edge\Profile**。 
+例如，在 Windows 上若要將設定檔資料儲存在使用者的本機應用程式資料下，而非預設位置中，請將 **UserDataDir** 原則設定為 **${local_app_data}\Edge\Profile**。 
 
-若要深入瞭解，請參閱 [建立 Microsoft Edge 使用者資料目錄變數](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars)。
+若要深入瞭解，請參閱[Create Microsoft Edge user data directory 變數](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars)。

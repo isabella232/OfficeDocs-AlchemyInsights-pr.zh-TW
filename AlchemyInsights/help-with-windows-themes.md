@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005404"
 - "9935"
-ms.openlocfilehash: d640ae3ba9956fc161a017b0ed1c4ca3205cec9e
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: 6d7fc6ec34fb7daacc6a07de31851630a10d75f06f0ed4a91565330e9eb9ff4e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51123044"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088636"
 ---
 # <a name="help-with-windows-themes"></a>Windows 佈景主題的說明
 
@@ -53,7 +53,7 @@ ms.locfileid: "51123044"
 
 **注意：** 您也可以按一下 **[在 Microsoft Store 中取得更多佈景主題]**，或從我們的網站下載精選佈景主題，即可從 Microsoft Store 新增各種全新且亮眼的佈景主題。
 
-**若要刪除佈景主題：**
+**刪除佈景主題：**
 
 1. 前往 **[開始]** > **[設定]** > **[個人化]** > **[佈景主題]**。 
 1. 以滑鼠右鍵按一下或長按佈景主題磚，然後選取 **[刪除]**。 
