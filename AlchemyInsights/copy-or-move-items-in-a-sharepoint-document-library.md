@@ -14,12 +14,12 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: d7aa865a6b3db0871a57313dd7d6f5b0213ca0e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5595b4ae8accec71bc964bb34e5314f611abd3f81abc2c8503e176389f62045
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119131"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>複製或移動 SharePoint 文件庫中的專案
 
@@ -46,5 +46,5 @@ ms.locfileid: "47807110"
 
 如需詳細資訊，請參閱：
 
- - [移動或複製 SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office 支援文章) 中的檔案
- - 將檔案從任何 (Microsoft 技術社區博客文章[的資料夾中移動](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973))   
+ - 在 SharePoint (Office 支援文章[中移動或複製](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc)檔案) 
+ - 在 Microsoft 技術 Community 博客文章) [中，移動任何資料夾 (的](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973)檔案  

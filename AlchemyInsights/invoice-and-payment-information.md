@@ -16,18 +16,18 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 8b9b8545607e230a13de78478e3b1c655c461f6259f649aeb2b369d94d2697aa
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 8790752b10012d891b6b23078986ef589cf4d650
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502599"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321954"
 ---
 # <a name="invoice-and-payment-information"></a>發票和付款資訊
 
 **付款**
 
-當您直接從 Microsoft 購買商務用 Microsoft 365 訂閱時，您可以使用信用卡或支付卡支付。  在某些國家/地區，您也可以使用銀行帳戶付款。  您可以從 [管理支付方式](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)中瞭解如何管理和疑難排解這些支付方式。 這包括解決您的信用卡遭到拒絕和更新付款資訊的問題。
+當您直接從 Microsoft 購買商務用 Microsoft 365 訂閱時，您可以使用信用卡或支付卡支付。  在某些國家/地區，您也可以使用銀行帳戶付款。  您可以從 [管理支付方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)中瞭解如何管理和疑難排解這些支付方式。 這包括解決您的信用卡遭到拒絕和更新付款資訊的問題。
 
 **發票/帳單**
 
@@ -37,4 +37,4 @@ ms.locfileid: "54502599"
 
 根據購買期間所選擇的計費頻率，每月或每年建立發票。  若每年付費，當您新增或移除訂閱中的授權時，您可能會收到帳單。
 
-- 如需詳細資訊，請參閱[瞭解商務用 Microsoft 365 的發票](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)。
+- 如需詳細資訊，請參閱[瞭解商務用 Microsoft 365 的發票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)。

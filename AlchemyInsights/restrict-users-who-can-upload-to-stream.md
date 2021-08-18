@@ -13,12 +13,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5096"
-ms.openlocfilehash: 0d44d64b39e1fee2348f9831e153cab7805c1e8b4fd4bc6effa0968c71666d13
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fafa890dbec18d702a8a26d97e4bce1954a352ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890933"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322638"
 ---
 # <a name="restrict-users-who-can-upload-to-stream"></a>限制可上傳到資料流程的使用者
 

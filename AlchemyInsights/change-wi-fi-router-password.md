@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a216d0e06a3e6865ca0ed157d976e5623ddbd9b02624e387a2f9755315f913bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818171"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119599"
 ---
 # <a name="change-your-wi-fi-router-password"></a>變更您的 Wi-Fi 路由器密碼
 
 若要變更 Wi-Fi 路由器的密碼，請遵循下列步驟：
 
-1. 選取 [**啟動**  >  **設定**  >  **網路 & Internet**  >  **網路及共用中心**]。
+1. 選取 [**開始**  >  **設定**  >  **網路 & Internet**  >  **網路及共用中心**]。
 
 2. 在 [ **查看您的活動網路**] 底下，尋找您連線的網路。 選取 [ **連接**] 旁邊的藍色連結。<br>
 

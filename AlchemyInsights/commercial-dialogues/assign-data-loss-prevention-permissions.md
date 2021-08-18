@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: c39a7f63baf8a516254f0bc02755cd2c0931b0e2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9bdac91466f751c44d80d658ddb741ada993a7f36e42fef10064c8a1dff9e662
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736015"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119347"
 ---
 # <a name="assign-data-loss-prevention-dlp-permissions"></a>指派資料外洩防護 (DLP) 權限
 

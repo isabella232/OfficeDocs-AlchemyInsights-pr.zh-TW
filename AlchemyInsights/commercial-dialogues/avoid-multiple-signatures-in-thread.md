@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: fe460e94307043b8d271111bed83e7b1c35b9b47
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2a9d6acab661470f71adf9f757e6847c367d26979fa210dd8f35e0ffaaa8dc45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464771"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119311"
 ---
 # <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>避免在電子郵件交談中新增多個特徵碼
 
-若要取得每個電子郵件執行緒只加入一次的免責聲明或簽章，您必須在 Exchange 系統管理中心中變更設定。
+若要取得每個電子郵件執行緒只加入一次的免責聲明或簽章，您必須在 Exchange 系統管理中心變更設定。
 
-1. 移至 [Exchange 系統管理中心。](https://go.microsoft.com/fwlink/p/?linkid=2059104)
+1. 移至[Exchange 系統管理中心。](https://go.microsoft.com/fwlink/p/?linkid=2059104)
 2. 選擇 [ **更多選項** ]，新增例外狀況，以尋找免責聲明中的唯一文字。 這可確保免責聲明只會新增至原始郵件。
 

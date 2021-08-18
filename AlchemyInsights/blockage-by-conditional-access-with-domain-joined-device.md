@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9834"
 - "9003257"
-ms.openlocfilehash: 052311ffe71bcb65de2b5c2a964932b1fb99c373
-ms.sourcegitcommit: c34ba92e19419dcb2d251b8a1afe4d180a939617
+ms.openlocfilehash: d71bb376615191f507d39b99d9e51ca77d929b90
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "50965460"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323429"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-domain-joined-device"></a>我因為已加入網域的裝置而受到條件式存取封鎖
 
@@ -32,7 +32,7 @@ ms.locfileid: "50965460"
 
 以下是條件式存取在已加入網域 (混合式 Azure AD) 的裝置上可能失敗的一些常見原因。
 
-1. **裝置上沒有 Azure AD PRT** - 您必須確保裝置具備 Azure AD 主要重新整理權杖 (PRT)。 如需有關 PRT 的詳細資訊，請參閱本[文件](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)。
+1. **裝置上沒有 Azure AD PRT** - 您必須確保裝置具備 Azure AD 主要重新整理權杖 (PRT)。如需更多 PRT 的資訊，請參閱本 [文件](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)。
 
 若要驗證您是否具備 Azure AD PRT，您可以在裝置上執行`dsregcmd/status`命令，並驗證「AzureAdPrt」是否等於「YES」。
 
@@ -46,14 +46,13 @@ ms.locfileid: "50965460"
 
 2. **使用者使用 Chrome 瀏覽器時沒有 Windows 10 帳戶** 或 **Chrome 瀏覽器版的 Office 擴充功能不會自動在已加入 AAD 或已加入混合式 AAD 的裝置上使用 PRT**：這會導致任何以裝置為基礎的條件式存取原則失敗，並顯示「未註冊的裝置」錯誤訊息。 若要正確使用 Chrome 瀏覽器，您必須透過 SCCM 或 Intune 安裝「Windows 10 帳戶」或「使用者的 Chrome 瀏覽器的 Office 擴充功能」。 如需詳細資訊，請參閱本[文件](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-conditions#chrome-support)。
 
-如果無法從遠端推送延伸模組，請通知使用者手動安裝上述其中一個延伸模組，以存取裝置型條件式存取背後的應用程式。 如需詳細資訊，請參閱本[文件](https://docs.microsoft.com/azure/active-directory/conditional-access/require-managed-devices#prerequisites)。
+如果無法從遠端推送延伸模組，請通知使用者手動安裝上述其中一個延伸模組，以存取裝置型條件式存取背後的應用程式。如需更多資訊，請參閱本 [文件](https://docs.microsoft.com/azure/active-directory/conditional-access/require-managed-devices#prerequisites)。
 
 3. **裝置已正確使用混合式 Azure AD 而聯結，但因為 Azure AD Connect 或 Azure 入口網站中的同步處理變更而遭到意外刪除或停用**：如果發生這種情況，即使裝置上的「AzureAdJoined」和「PRT」狀態顯示為有效，裝置物件還是無法再識別為完全聯結的裝置。
 
-若要修正此問題，請在受影響的裝置上執行 `dsregcmd/leave`，並讓它們重新加入 Azure AD。 如需詳細資訊，請參閱本[文件](https://docs.microsoft.com/azure/active-directory/devices/faq#q-why-do-my-users-see-an-error-message-saying-your-organization-has-deleted-the-device-or-your-organization-has-disabled-the-device-on-their-windows-10-devices)。
+若要修正此問題，請在受影響的裝置上執行 `dsregcmd/leave`，並讓它們重新加入 Azure AD。如需更多資訊，請參閱本 [文件](https://docs.microsoft.com/azure/active-directory/devices/faq#q-why-do-my-users-see-an-error-message-saying-your-organization-has-deleted-the-device-or-your-organization-has-disabled-the-device-on-their-windows-10-devices)。
 
-> [!NOTE]
-> 如果您的裝置是使用 VPN/Cloud Proxy 的 Windows 10 1809 更新，且看到「AzureAdPrt」狀態或任何發生 SSO 問題的應用程式 (即使您有 PRT，Outlook 仍無法連線至信箱) 的問題，請確保您有此修補程式 [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2) 或 4 月累積更新 [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6)，以防止這些機器上的 PRT 失敗。
+**注意**：如果您的裝置是使用 VPN/Cloud Proxy 的 Windows 10 1809 更新，且看到「AzureAdPrt」狀態或任何發生 SSO 問題的應用程式 (即使您有 PRT，Outlook 仍無法連線至信箱) 的問題，請確保您有此修補程式 [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2) 或 4 月累積更新 [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6)，以防止這些機器上的 PRT 失敗。
 
 
 

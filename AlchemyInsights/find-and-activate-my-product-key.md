@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: c0b96e092a05a8db8e8b6a3cff5c072840b5e368314af00bb065e03149df6b60
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 8c0556d2e0d2427d856d226b976ced81a2ca1e65
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498855"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322056"
 ---
 # <a name="microsoft-open-license-program"></a>Microsoft Open License Program
 
@@ -28,9 +28,7 @@ ms.locfileid: "54498855"
 
 1. 從 Microsoft 365 合作夥伴購買金鑰之後，請檢查您的收件匣，以取得包含啟用連結之 Microsoft 的電子郵件。
 
-    > [!NOTE]
-    > 這封電子郵件會傳送給大量授權合約中列為線上管理員的人員。 如果您不確定誰被指定為線上管理員，請諮詢您的 Microsoft 365 合作夥伴。
+    **附注**：電子郵件會傳送給列為大量授權合約中的線上系統管理員的人員。 如果您不確定誰被指定為線上管理員，請諮詢您的 Microsoft 365 合作夥伴。
 1. 遵循電子郵件中的連結，以您的公司或學校帳戶登入，接受開放的授權協定，並更新訂閱。 如需逐步逐步逐步說明，請下載 PDF 指南、[啟動線上服務： Microsoft 365 訂閱](https://go.microsoft.com/fwlink/p/?LinkId=618100)。
 
-    > [!NOTE]
-    > 大量授權客戶也可以選擇在 [大量授權服務中心](https://go.microsoft.com/fwlink/p/?LinkID=282016)中啟動訂閱。 若要深入瞭解，請下載「 [大量授權服務中心」中](https://go.microsoft.com/fwlink/p/?LinkId=618096)的 [PDF 指南] （主動線上服務）。
+    **附注**：大量授權客戶也可以選擇在 [大量授權服務中心](https://go.microsoft.com/fwlink/p/?LinkID=282016)中啟動訂閱。 若要深入瞭解，請下載「 [大量授權服務中心」中](https://go.microsoft.com/fwlink/p/?LinkId=618096)的 [PDF 指南] （主動線上服務）。

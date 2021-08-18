@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054789"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321898"
 ---
 # <a name="issues-with-links-and-urls"></a>連結和 URL 的問題
 
@@ -40,17 +40,15 @@ ms.locfileid: "54054789"
     如需詳細資訊，請參閱[傳統型應用程式 - 應用程式註冊 - 重新導向 URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
 - 針對行動裝置應用程式，重新導向 URI 取決於：
     - 平台 (iOS/Android/UWP)
-    - 用來建立您的應用程式的資訊，例如 iOS 中的組建識別碼，以及 Android 上的套件名稱和簽名雜湊。Azure 入口網站應用程式註冊將協助您。 如需詳細資訊，請參閱[平台設定和重新導向 URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris)。
+    - 用來建立您的應用程式的資訊，例如 iOS 中的組建識別碼，以及 Android 上的套件名稱和簽名雜湊。Azure 入口網站應用程式註冊將協助您。如需詳細資訊，請參閱[平台設定和重新導向 URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris)。
 
-> [!NOTE]
-> Web API 和某些取得權杖的無訊息方式 (IWA 和使用者名稱/密碼) 不需要重新導向 URI。
+**注意**：Web API 和某些取得權杖的無訊息方式 (IWA 和使用者名稱/密碼) 不需要重新導向 URI。
 
 **我已部署我的 Web 應用程式，當我測試部署的應用程式時，收到回覆 URL 不相符的訊息**
 
 為您要部署 Web 應用程式的所有位置新增重新導向 URI。 如需詳細資訊，請參閱[使用 Azure 入口網站註冊 Web 應用程式](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration)。
 
-> [!NOTE]
-> 在該位置部署應用程式之後，立即為該位置新增重新導向 URI。
+**注意**：在該位置部署應用程式之後，立即為該位置新增重新導向 URI。
 
 **我無法註冊足夠數量的回覆 URL**
 

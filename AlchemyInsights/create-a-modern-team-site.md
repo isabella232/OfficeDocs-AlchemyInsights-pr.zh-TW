@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: 47a27269ca4a3e92723b79fbe306c28a4a43838e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 07c6acf1457964ab9b8f26007b25a23621dfc433e1a062122bd67039d793e350
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732670"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118934"
 ---
 # <a name="create-a-microsoft-365-group-connected-team-site"></a>建立 Microsoft 365 群組連線的小組網站
 
-1. 按一下左上角的應用程式啟動器，然後選取 [ **SharePoint**]。 如果您看不到 SharePoint 磚，請按一下 [ **所有應用程式**]。
+1. 按一下左上角的應用程式啟動器，然後選取 [ **SharePoint**]。 如果您看不到 SharePoint 磚，請按一下 [**所有應用程式**]。
     
-2. 在 SharePoint 首頁的頂端，按一下 [ **建立網站** ]，然後選擇 [ **小組網站** ] 選項。 
+2. 在 SharePoint 首頁的頂端，按一下 [**建立網站**]，然後選擇 [**小組網站**] 選項。 
     
     > [!NOTE]
     > 如果您看不到 [建立網站] 命令，您的組織可能未啟用網站建立。 若要啟用它，請參閱 [管理網站建立](https://go.microsoft.com/fwlink/?linkid=2009644)。 

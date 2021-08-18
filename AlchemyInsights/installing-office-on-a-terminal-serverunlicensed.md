@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7e435df1515878ab4fe935ab8148daee29b8e3820095fc6e49db45de4c6279db
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 35ef317ea87fedd01c08fee5b370e3c81e515c27
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055149"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321990"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>在終端機伺服器上安裝 Office
 
@@ -28,8 +28,7 @@ ms.locfileid: "54055149"
 
 如果您想要從 Microsoft 365 系統管理中心上的 Microsoft 365 Apps 企業版上安裝 RDS，使用 ***預設安裝設定***，請使用下列步驟。
 
-> [!TIP]
-> 您也可以下載並執行[Microsoft 支援及修復小幫手](https://aka.ms/SaRA_OfficeSCA_M365Portal)，以在共用電腦啟用模式中安裝 Microsoft 365 Apps 企業版。
+    **Tip**: You can also download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) to install Microsoft 365 Apps for enterprise in shared computer activation mode.
   
 1. 檢查您擁有的 Microsoft 365 訂閱。 [了解做法](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 

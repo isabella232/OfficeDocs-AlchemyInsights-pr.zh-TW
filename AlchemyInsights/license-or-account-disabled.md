@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002459"
 - "3764"
-ms.openlocfilehash: 50e8185e90e40ef538230decf0a41f9e7ca0fb6c2649354559af43d4e563a9dc
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 6724a82f318ed13890a34039470eb9611a630e03
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893842"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322995"
 ---
 # <a name="license-or-account-disabled"></a>已停用的授權或帳戶
 
@@ -28,9 +28,8 @@ ms.locfileid: "57893842"
 **重新啟用訂閱**
 
 1. 在系統管理中心，移至 **[帳單]** > [您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
-2. 在 **產品** 索引標籤上，找出您想要重新啟用的訂閱，選取三個點 (更多動作)，然後選取 **[重新啟用此訂閱]**。
-    > [!NOTE]
-    > 如果您沒有看到 **重新啟用此訂閱**，請連絡客戶支援。
+2. 在 **[產品]** 索引標籤上，找出您要重新啟用的訂閱。 選取三個點 (更多動作)，然後選取 **[重新啟動此訂閱]**。
+    **附註**：如果您沒有看到 [重新啟用此訂閱 **]**，請連絡客戶支援。
 3. 在 **重新啟用此訂閱** 窗格中，從下拉式清單中選取付款條件，或選取 **[新增付款條件]**。
 4. 選取 **[儲存]**。
 

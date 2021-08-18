@@ -15,12 +15,12 @@ ms.custom:
 - "9005291"
 - "11089"
 - "9006490"
-ms.openlocfilehash: 06ad41ae0d76b5734d6a399e023d1ae84f5b86d8b9b48d7696619dbf22d88618
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 19efa16e7cf665648a03dc95da9d68841ca9e531
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899935"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323231"
 ---
 # <a name="determine-channel-strategy"></a>決定通道策略
 
@@ -28,8 +28,7 @@ Microsoft Edge 會以可控制瀏覽器更新頻率的四個通道發行。 如�
 
 如果您想要部署到多數裝置，則適合穩定通道，但應該考慮部署多個通道和裝置。
 
-> [!NOTE]
-> 您可以在單一裝置上安裝多個通道。
+**附註**：您可以在單一裝置上安裝多個通道。
 
 **多個裝置和通道**
 

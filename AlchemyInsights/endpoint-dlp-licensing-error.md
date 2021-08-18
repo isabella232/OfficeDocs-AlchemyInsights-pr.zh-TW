@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c32ab88a72c265be411350e50756f5b2e1e3337c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090121"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322122"
 ---
 # <a name="endpoint-dlp-licensing-error"></a>Endpoint DLP 授權錯誤
 
@@ -35,7 +35,6 @@ ms.locfileid: "54090121"
 - Microsoft 365 E5 資訊保護和控管
 - Microsoft 365 A5 資訊保護和控管
 
-> [!NOTE]
-> 這不適用於授權組合，例如： Win E5 + O365 E5 + EMS E5。 您必須具有純 M365 E5 授權，才能設定此功能。
+**附注**：這不適用於授權組合，如： Win E5 + O365 E5 + EMS e5。 您必須具有純 M365 E5 授權，才能設定此功能。
 
 如需更多 Endpoint DLP 授權資訊，請參閱 [ENDPOINT DLP 授權。](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)

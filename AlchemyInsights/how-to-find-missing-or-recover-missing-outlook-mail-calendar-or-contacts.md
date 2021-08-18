@@ -13,18 +13,22 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7693ec5585ce7562f2feeacc94c592885ccc2ec2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029147"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323149"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>如何在 Outlook 中尋找及復原遺失的郵件、連絡人或行事曆專案
 
-1. 在 Outlook 中，移至您的 [電子郵件資料夾] 清單，然後選取 [**刪除的郵件**]。 **重要**：如果您看不到 [ **刪除的郵件** ] 資料夾，但看得見 **垃圾桶** 資料夾，則您的帳戶不支援復原不再位於 [ **刪除的郵件** ] 資料夾中的專案。
+1. 在 Outlook 中，移至您的 [電子郵件資料夾] 清單，然後選取 [**刪除的郵件**]。 
 
-2. 在 [ **首頁** ] 功能表上，按一下 [ **從伺服器復原已刪除的郵件**]。 **重要**：如果在功能表上沒有 [ **從伺服器復原已刪除的專案** ] 命令，您的帳戶不支援復原不再位於 [刪除的 **郵件** ] 資料夾中的專案。
+    **重要**：如果您看不到 [ **刪除的郵件** ] 資料夾，但看得見 **垃圾桶** 資料夾，則您的帳戶不支援復原不再位於 [ **刪除的郵件** ] 資料夾中的專案。
+
+2. 在 [ **首頁** ] 功能表上，按一下 [ **從伺服器復原已刪除的郵件**]。 
+
+    **重要**：如果在功能表上沒有 [ **從伺服器復原已刪除的專案** ] 命令，您的帳戶不支援復原不再位於 [刪除的 **郵件** ] 資料夾中的專案。
 
 3. 選取您要復原的專案，按一下 [ **還原選取的專案**]，然後按一下 **[確定]**。
 
