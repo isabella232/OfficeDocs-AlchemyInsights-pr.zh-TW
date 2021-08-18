@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11513"
 - "9006672"
-ms.openlocfilehash: 76be648fc7b6e8ea29b7665cf81c29b40b4ed0aafbe602f931e755742b3b4a74
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5efb8ffad0ad2c7d32a2ac334b960484b6fa5545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54117799"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325332"
 ---
 # <a name="enable-teams-webinars"></a>啟用 Teams 網路研討會
 
@@ -38,6 +38,6 @@ ms.locfileid: "54117799"
 
 3. 在 [一般]**** 下，前往 [誰可以註冊]**** 設定，然後選取 [所有人]**** 或 [公司中的所有人 **]**。 
 
-**附註**：如果在會議設定將匿名加入設為關閉，匿名使用者就無法加入網路研討會。 若要深入了解如何啟用此設定，請參閱 [在 Microsoft Teams 中管理會議設定](/microsoftteams/meeting-settings-in-teams)。 
+**附註**：如果在會議設定將匿名加入設為關閉，匿名使用者就無法加入網路研討會。 若要深入了解如何啟用此設定，請參閱 [在 Microsoft Teams 中管理會議設定](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams)。 
 
-若要深入了解設定誰可以註冊網路研討會，以及如何使用 Teams PowerShell 管理這些原則，請參閱 [設定誰可以註冊網路研討會](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)。 如需 Microsoft 清單設定的詳細資訊，請參閱 [控制 Microsoft 清單的設定](/sharepoint/control-lists)。 
+若要深入了解設定誰可以註冊網路研討會，以及如何使用 Teams PowerShell 管理這些原則，請參閱 [設定誰可以註冊網路研討會](https://docs.microsoft.com/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)。 如需 Microsoft 清單設定的詳細資訊，請參閱 [控制 Microsoft 清單的設定](https://docs.microsoft.com/sharepoint/control-lists)。 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002333"
 - "4537"
-ms.openlocfilehash: 3368f31c312de15acbfc46a16ef5a989b20cdce9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 66de4338fd0ddd21bf6cd7d0a5bcb60374ad70adb3b27bdd021dbec8a7f163a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54120031"
 ---
 # <a name="backing-up-email-in-exchange-online"></a>在 Exchange Online 中備份電子郵件
 

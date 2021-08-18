@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8210"
-ms.openlocfilehash: 23f5e5fe9e00a4bb00f96d2023c81f6413a7d8b808fd46bfc94483944bb898dc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 679dea6d488cf74f51baee2b3b498dc64b95530e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999735"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324914"
 ---
 # <a name="password-writeback-is-not-working"></a>密碼寫回無法運作
 
@@ -31,8 +31,7 @@ ms.locfileid: "53999735"
     - 若要深入瞭解授權需求，請參閱 [AZURE AD 自助密碼重設的授權需求](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
 - 您有至少一個系統管理員帳戶和一個具有適當授權的測試使用者帳戶。
 - 您必須將 Azure AD 連線連線至網域主控站 Emulator，密碼寫回才能正常運作。 您可以設定 Azure AD 連線以使用網域主控站，方法是在 Active Directory 同步處理連接器的 **屬性** 上按一下滑鼠右鍵，然後選取 [**設定目錄磁碟分割**]。 從那裡，尋找 [ **網域控制站連線設定** ] 區段，然後選取 [ **只使用偏好的網域控制站**] 方塊。
-  > [!NOTE]
-  > 如果首選 DC 不是 PDC 模擬器，Azure AD 連線仍會到達 PDC 以進行密碼回寫。
+    **附注**：如果慣用的 DC 不是 PDC 模擬器，Azure AD 連線仍會到達 pdc 以進行密碼回寫。
 - 已在您的租使用者中設定並啟用密碼重設。 如需詳細資訊，請參閱 [讓使用者重設其 AZURE AD 密碼](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)。
 - 確定要用來啟用密碼寫回的系統管理員帳戶， (Azure AD 中建立的雲端系統管理員帳戶不在內部部署 AD) 
 - 您有一或多樹系 AD 內部部署執行 Windows Server 2008 r2、Windows Server 2012 或 Windows Server 2012 R2 安裝了最新的 service pack

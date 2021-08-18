@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006594"
 - "11275"
-ms.openlocfilehash: f430a37ef7c57316612b077e1fe0b1e48da3a76434b1438a9c755983c3feb5a3
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 188151385ac4c3296998fcb04d045556ccb117e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57886350"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325006"
 ---
 # <a name="onedrive-sync-reports-in-the-app-admin-center"></a>在 [應用程式系統管理中心] 中的 Microsoft OneDrive 同步處理報告
 

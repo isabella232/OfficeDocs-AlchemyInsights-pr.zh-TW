@@ -13,24 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 55b86557ec205dde2c459d76e8e330d2a8271dbec723f079e119ebe409b41c3f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b8df97c19937a757c1de9865b6c7b8d1cddfd62d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031469"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325594"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>在 RDS、終端機或 VDI 上部署 Microsoft 365 Apps 企業版以供共用使用
 
 若要使用遠端桌面服務部署 Microsoft 365 Apps 企業版 (RDS) ，以前命名為「終端服務」：
 
 - 您必須具備商務計畫的 Microsoft 365，或包含 Microsoft 365 Apps 企業版的 Office 365 計畫，例如 Office 365 企業版 E3 或 Enterprise E5。
-   > [!NOTE]
-   > Microsoft 365 Apps 商務版和 Microsoft 365 商務標準版方案不包含 Microsoft 365 Apps 企業版。
+   **附注**： Microsoft 365 Apps 商務版和 Microsoft 365 商務標準版方案不包含 Microsoft 365 Apps 企業版。
 - 您必須啟用 [共用電腦](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)啟用。
 
-> [!NOTE]
-> 您也可以下載並執行[Microsoft 支援及修復小幫手](https://aka.ms/SaRA_OfficeSCA_M365Portal)，以在共用電腦啟用模式中安裝 Microsoft 365 Apps 企業版。
+**附注**：您也可以下載並執行 [Microsoft 支援及修復小幫手](https://aka.ms/SaRA_OfficeSCA_M365Portal)，以在共用電腦啟用模式中安裝 Microsoft 365 Apps 企業版。
 
 如需使用 Office 部署工具，針對自訂安裝的必要條件、安裝指示及指導方針的詳細資訊，請參閱[使用遠端桌面服務部署 Microsoft 365 Apps 企業版](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)。
 

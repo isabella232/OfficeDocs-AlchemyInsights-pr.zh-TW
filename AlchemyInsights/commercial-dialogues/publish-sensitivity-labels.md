@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: df5acfc38095f03eeeff379d51a72332dcf366e3786ab0ff7ffcd655cbafd1cf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b19b3cf229fd67f1df2b58b387b1f74818e35f48
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967360"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324760"
 ---
 # <a name="publish-sensitivity-labels"></a>發佈敏感度標籤
 
@@ -29,8 +29,9 @@ ms.locfileid: "53967360"
 3. 按一下 **[發佈標籤]**。
 4. 按一下 **[選擇要發佈的標籤]**。 
 5. 選取您要在應用程式和服務中提供使用的標籤，然後按一下 **[新增]**。
-> [!IMPORTANT]
-> 如果您選取子標籤，請確定您也選取其上層標籤。
+
+**重要**：如果您選取子標籤，請確定您也選取其上層標籤。
+
 6. 檢閱已選取的標籤。 若要變更，請按一下 **[編輯]**；否則，請按一下 **[下一步]**。
 7. 遵循提示來設定原則設定。
 8. 如果不同的使用者或位置需要不同的原則設定，請重複這些步驟。 例如，您需要一組使用者有其他標籤，或使用者的子集有不同的預設標籤。

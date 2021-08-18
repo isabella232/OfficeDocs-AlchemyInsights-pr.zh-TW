@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003560"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325454"
 ---
 # <a name="enable-cost-management"></a>啟用成本管理
 
@@ -34,8 +34,7 @@ ms.locfileid: "54003560"
 2. 選取 [ **發票** ]，然後再 **存取 [發票**]。
 3. 開啟存取，然後儲存變更，以允許訂閱範圍的角色中的使用者下載發票。
 
-> [!NOTE]
-> 帳戶管理員也可以設定透過電子郵件傳送發票。 若要深入瞭解，請參閱 [在電子郵件中取得您的發票](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)。
+**附注**：帳戶管理員也可以設定透過電子郵件傳送發票。 若要深入瞭解，請參閱 [在電子郵件中取得您的發票](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)。
 
 **如何將使用者新增至計費讀取器角色**
 

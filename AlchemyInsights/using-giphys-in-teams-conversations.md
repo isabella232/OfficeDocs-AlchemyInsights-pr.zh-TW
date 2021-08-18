@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 296c2f80d35f1c93ab3c60e0be65fd96c953ca81
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54104299"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323511"
 ---
 # <a name="using-giphys-in-teams-conversations"></a>在 Teams 交談中使用 Giphys
 
@@ -33,5 +33,4 @@ ms.locfileid: "54104299"
 
 若要允許存取 Giphy URL，必須啟用[選用的連線體驗](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences)。
 
-> [!NOTE]
-> 如果您已針對租使用者設定多個 Teams 郵件原則，您可以使用 PowerShell 命令，判斷指派給受影響使用者之原則的身分識別[Get-CsOnlineUser 身分識別](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> |選取 [TeamsMessagingPolicy]。
+**附注**：如果您已針對租使用者設定多個 Teams 郵件原則，您可以使用 PowerShell 命令，判斷指派給受影響使用者之原則的身分識別 [Get-CsOnlineUser 身分識別](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> |選取 [TeamsMessagingPolicy]。

@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 667fa9c7334169794ebc96152d7b58d4deb5dde9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908341"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324842"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePoint 和 OneDrive 中的使用者權限
 
@@ -34,8 +34,7 @@ ms.locfileid: "53908341"
     
     針對傳統小組網站，按一下右上角的 [ **共用** ]。 輸入您要邀請之人員的名稱，或輸入 [所有人]，以與組織中的所有人共用。 按一下 **[共用]**。
     
-> [!NOTE]
-> 如果您是網站成員，但不是擁有者，您可以邀請人員加入網站，但邀請會產生可供網站擁有者核准或拒絕的存取要求。 
+**附注**：如果您是網站的成員，但不是擁有者，您可以邀請人員加入網站，但邀請會產生可供網站擁有者核准或拒絕的存取要求。 
   
 [瞭解如何與使用者共用檔案或資料夾](https://go.microsoft.com/fwlink/?linkid=533408)
   

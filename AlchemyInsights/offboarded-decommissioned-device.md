@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 814301e9cd8197e62dcca68ab3bdde1618d210f73a744b53bb5af7b861eb02bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 13865acb75b60a824c1dde9427c11471e980ea9e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076634"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324435"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>從裝置庫存移除 offboarded 或解除授權裝置時的問題
 
@@ -32,11 +32,11 @@ Microsoft Defender for Endpoint 目前不允許從裝置庫存手動移除 offbo
 
 如需詳細資訊，請參閱：
 
-[Microsoft Defender for Endpoint service 中的下架裝置](/microsoft-365/security/defender-endpoint/offboard-machines.md)
+[Microsoft Defender for Endpoint service 中的下架裝置](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/offboard-machines.md)
 
-[威脅與弱點管理中的披露分數](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
+[威脅與弱點管理中的披露分數](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
 
-[修正 Microsoft Defender for Endpoint 中的狀況不良感應器](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
+[修正 Microsoft Defender for Endpoint 中的狀況不良感應器](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
 
 [如何有效地使用標記 (第1部分) ](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-1/ba-p/1964058)
 

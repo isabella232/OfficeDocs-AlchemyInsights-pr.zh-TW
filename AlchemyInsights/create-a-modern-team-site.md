@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: 07c6acf1457964ab9b8f26007b25a23621dfc433e1a062122bd67039d793e350
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 410f835c85d7c9f8ec5197a3d06ff591626cd990
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118934"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323833"
 ---
 # <a name="create-a-microsoft-365-group-connected-team-site"></a>建立 Microsoft 365 群組連線的小組網站
 
@@ -22,8 +22,7 @@ ms.locfileid: "54118934"
     
 2. 在 SharePoint 首頁的頂端，按一下 [**建立網站**]，然後選擇 [**小組網站**] 選項。 
     
-    > [!NOTE]
-    > 如果您看不到 [建立網站] 命令，您的組織可能未啟用網站建立。 若要啟用它，請參閱 [管理網站建立](https://go.microsoft.com/fwlink/?linkid=2009644)。 
+    **附注**：如果您沒有看到 [建立網站] 命令，您的組織可能未啟用網站建立。 若要啟用它，請參閱 [管理網站建立](https://go.microsoft.com/fwlink/?linkid=2009644)。 
   
 3. 依照畫面上的步驟為網站命名並為 Microsoft 365 群組建立電子郵件地址，然後按 **[下一步]**。 您也可以新增其他群組擁有者和成員。 按一下 **[完成]**。
   
