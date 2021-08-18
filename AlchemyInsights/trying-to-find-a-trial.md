@@ -16,12 +16,12 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 9fc510bd8ab65e4e8670f16b530751bd35254da4d8c7c0feab3cfbf1d0e24303
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7b3f7dfaf9afffb689a3676910e1160276939397
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500979"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327242"
 ---
 # <a name="trying-to-find-a-trial"></a>嘗試尋找試用版嗎？
 
@@ -31,8 +31,7 @@ ms.locfileid: "54500979"
 
 2. 選取符合您需求的訂閱，然後選取 [  **取得免費試用**]。
 
-    > [!NOTE]
-    > 並非所有訂閱都是以試用版提供。 當您將滑鼠移到訂閱上時，如果您沒有看到 [ **取得免費試用** ] 按鈕，表示無法使用試用版。
+    **附注**：並非所有訂閱都可以做為試用版。 當您將滑鼠移到訂閱上時，如果您沒有看到 [ **取得免費試用** ] 按鈕，表示無法使用試用版。
   
 3. 您可能會要求您輸入信用卡或其他支付方式，以提供額外的驗證做為安全性措施。 您不需要支付此免費試用版。 我們會將您的付款資訊保存在檔案上，而且不需要您核准，也不會將其用於任何購買。
 

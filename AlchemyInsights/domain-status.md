@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 1ddf6475e7cf466a39f76486e0f809097917657bc8f4ae7f7f2b516657308f39
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2247da07d60431edef5b5dea8a5c06d51579008c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53947434"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326568"
 ---
 # <a name="domain-status---no-services-selected"></a>網域狀態-沒有選取服務
 
@@ -32,5 +32,5 @@ ms.locfileid: "53947434"
     - 如果您選擇 [**讓 Microsoft 新增您的 DNS 記錄** 或 **其他選項**]，請  >  **設定我的線上服務**，所有可用的服務都會受到建議並自動選取。
 1. 繼續執行嚮導，以完成 DNS 安裝及服務選項。
  
-如需設定網域的詳細資訊，請參閱 [新增 DNS 記錄以連接您的網域](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。
+如需設定網域的詳細資訊，請參閱 [新增 DNS 記錄以連接您的網域](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。
 

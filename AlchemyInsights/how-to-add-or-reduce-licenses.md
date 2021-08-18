@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 1d96cefc7918359e5d9006628d3eec723a39a77d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501807"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326380"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>新增或移除訂閱的授權
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501807"
 4. 若要購買或移除授權，請在 [**授權總數**] 方塊中的 [**新數量**] 下，輸入此訂閱所需的授權總數。 例如，如果您有100授權，而您想要增加25個，請輸入125。 如果您想要移除25個授權，請輸入75。
 5. 選取 **[儲存]**。
 
-如需如何指派授權的詳細資訊，請參閱 [將授權指派給使用者](/microsoft-365/admin/manage/assign-licenses-to-users)。
+如需如何指派授權的詳細資訊，請參閱 [將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
 
 **資源**
   
-- [購買或移除授權](/microsoft-365/commerce/licenses/buy-licenses)
-- [取消商務 Microsoft 365](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [嘗試或購買商務用 Microsoft 365 訂閱](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [購買或移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [取消商務 Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [嘗試或購買商務用 Microsoft 365 訂閱](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

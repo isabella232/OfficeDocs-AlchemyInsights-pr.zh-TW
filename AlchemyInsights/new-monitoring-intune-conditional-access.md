@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2c3a382671ac95ecbaec1b374bd8c474cf9690a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54025493"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327548"
 ---
 # <a name="monitor-intune-conditional-access"></a>監視 Intune 條件式存取
 
@@ -39,5 +39,4 @@ ms.locfileid: "54025493"
 - [疑難排解原則](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 - [監控 Intune 裝置合規性](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-> [!NOTE]
-> 這些步驟只有助于疑難排解 Azure Active Directory 功能的條件式存取。 您也可以隔離使用 Exchange 原則的裝置，封鎖它的電子郵件存取。 您可以在 [**這裡**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))找到 Exchange 裝置管理的詳細資訊。
+**附注**：這些步驟只有助于疑難排解 Azure Active Directory 功能的條件式存取。 您也可以隔離使用 Exchange 原則的裝置，封鎖它的電子郵件存取。 您可以在 [**這裡**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))找到 Exchange 裝置管理的詳細資訊。
