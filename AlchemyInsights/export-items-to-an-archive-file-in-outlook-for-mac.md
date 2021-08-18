@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100393"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316631"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>將專案匯出至 Mac 版 Outlook 中的封存檔案
 
@@ -24,8 +24,7 @@ ms.locfileid: "54100393"
 
 1. 在 [ **工具** ] 索引標籤上，按一下 [ **匯出**]。
 
-> [!NOTE]
-> 看不到 [ **匯出** ] 按鈕嗎？ 確定您有 Outlook 的最新版本。 在 **Outlook 的**[說明] 功能表上，按一下 [**檢查更新**]。 若所有 Outlook 的更新皆已套用，但您仍然看不到 [**匯出**] 按鈕，請 **在 Outlook 檔案**] 功能表上尋找 [**匯出**]。
+    **附注**：看不到 [ **匯出** ] 按鈕？ 確定您有 Outlook 的最新版本。 在 **Outlook 的**[說明] 功能表上，按一下 [**檢查更新**]。 若所有 Outlook 的更新皆已套用，但您仍然看不到 [**匯出**] 按鈕，請 **在 Outlook 檔案**] 功能表上尋找 [**匯出**]。
 
 2. 在 [ **匯出至封存檔案] (。 olm)** ] 方塊中，選取您要匯出的專案，然後按一下 [ **繼續**]。
 

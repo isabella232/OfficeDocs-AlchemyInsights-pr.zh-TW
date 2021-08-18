@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
-ms.openlocfilehash: 90c2df4eb6fe97925a6d6eb6e7afd357e2349850
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2564d25d9385e629ead0fd5af7e178f9d73cfd766c672fa31abc493185786c76
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088099"
 ---
 # <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>OneDrive 和 SharePoint 中的檔案和資料夾名稱無效
 

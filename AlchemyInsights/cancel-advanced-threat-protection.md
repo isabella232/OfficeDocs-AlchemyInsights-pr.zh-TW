@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9003019"
 - "5777"
-ms.openlocfilehash: a7d4bd596c12609385b35d520dd1179a8c4a49b8f3d9e630ff6c3cf1acaae761
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: de141118124bf76339888a325c595c63cbaaa06d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059391"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317003"
 ---
 # <a name="cancel-advanced-threat-protection"></a>取消高級威脅防護
 
@@ -32,4 +32,4 @@ ms.locfileid: "54059391"
 
 **退款：** 任何按比例計算的款項將會在下個計費週期內退回。
 
-若要深入瞭解，請參閱 [取消您的訂閱](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
+若要深入瞭解，請參閱 [取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。

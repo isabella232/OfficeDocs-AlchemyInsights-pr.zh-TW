@@ -1,5 +1,5 @@
 ---
-title: 登入 Microsoft 365 應用程式時的問題
+title: 在 Microsoft 365 應用程式中登入的問題
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 02841a1b4e92eec94fc6409941d91618f02518c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1954ceef7454a4bb047d366cc55793dc78a969e375e9eea88d2d0dbe7f4997ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836594"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087991"
 ---
-# <a name="issues-signing-into-microsoft-365-apps"></a>簽入 Microsoft 365 應用程式的問題
+# <a name="issues-signing-into-microsoft-365-apps"></a>簽入 Microsoft 365 Apps 的問題
 
 若要修正 Microsoft 365 應用程式的登入問題，請嘗試在受影響電腦上執行下列選項：  
 
-- 若為 Windows，請參閱 [解決常見登入問題的建議](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
-- 若為 Mac，請參閱  [無法登入 Office 2016 For mac 應用程式](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+- 如 Windows 所述，請參閱[解決常見登入問題的建議](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- 若為 Mac，請參閱[無法登入 Mac 版 Office 2016 應用程式](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
 **提示**：在 Windows 電腦上，我們可以為您診斷並自動修正數種常見的 Office 登入問題。 下載並執行 **[Microsoft 支援及修復小幫手](https://aka.ms/SaRA-OfficeSignInScenario)** 以使用我們的自動化工具。
 
-**附注：** 停用新式驗證 (ADAL) 或網頁帳戶管理 (WAM) 以修正登入或啟用問題  **，不建議使用此選項**。 如果使用 Office 2013 連接至 Microsoft 365 時，發生錯誤，請確定您已為 Office 用戶端 [啟用新式驗證](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  。
+**附注：** 停用新式驗證 (ADAL) 或網頁帳戶管理 (WAM) 以修正登入或啟用問題  **，不建議使用此選項**。 如果使用 Office 2013 連接至 Microsoft 365 時發生錯誤，請確定您為 Office 用戶端[啟用新式驗證](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)。
 
 如需特定疑難排解動作，請參閱：
 
