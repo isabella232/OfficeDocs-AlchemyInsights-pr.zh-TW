@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 772eeb20defdaa190b000cdcbbd3abe150dff4de971b5cd9d676f261880776a9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499021"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896922"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>如何購買 Microsoft 365
 
@@ -30,7 +30,7 @@ ms.locfileid: "54499021"
 - 若要購買其他授權，請移至 [ **帳單** \> **[產品](https://go.microsoft.com/fwlink/p/?linkid=842054)** ] 頁面。 選取您要變更的訂閱，然後選取 [ **購買授權**]。
 **觀看影片** ，瞭解如何執行這項作業： [購買新的授權](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-若要深入瞭解，請參閱 [購買或移除授權](/microsoft-365/commerce/licenses/buy-licenses)。
+若要深入瞭解，請參閱 [購買或移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。
 
 **疑難排解**
 
@@ -38,5 +38,5 @@ ms.locfileid: "54499021"
 
 **其他資源**
   
-- [在商務用 Microsoft 365 中指派授權給使用者](/microsoft-365/admin/add-users/add-users)
-- [取消商務 Microsoft 365](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [在商務用 Microsoft 365 中指派授權給使用者](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [取消商務 Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

@@ -1,5 +1,5 @@
 ---
-title: 使用 SPMT SharePoint 遷移
+title: SharePoint使用 SPMT 進行遷移
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 34b7611967a7228bfe8611f9784e5049c9bc307a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 04716e85da6432703f25bf37f253d7d4553ecc4c68123a21b46fbb4501bccf2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828287"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085759"
 ---
-# <a name="sharepoint-migration-with-spmt"></a>使用 SPMT SharePoint 遷移
+# <a name="sharepoint-migration-with-spmt"></a>SharePoint使用 SPMT 進行遷移
 
-SharePoint 遷移工具可用於從最小的檔案集到大型企業遷移的遷移，因此可讓您將資訊傳輸至雲端，並充分利用 Microsoft 365 的最新共同作業、智慧及安全性解決方案。
+SharePoint 遷移工具可用於從最小的檔案集到大型企業遷移的遷移，因此可讓您將資訊傳送至雲端，並利用 Microsoft 365 最新的共同作業、情報及安全性解決方案。
 
 - [下載並安裝 SharePoint 移轉工具](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [一般 SPMT 問題和錯誤的疑難排解](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)

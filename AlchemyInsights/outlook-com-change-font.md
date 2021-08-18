@@ -1,5 +1,5 @@
 ---
-title: 變更 Outlook.com 中的字型
+title: 變更 Outlook .com 中的字型
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,16 +15,16 @@ ms.custom:
 - "1919"
 - "8000013"
 ms.assetid: 824035f6-90d3-4ea2-a92b-6b73b4ec0076
-ms.openlocfilehash: 24827f7f6bc3db41b7e8dc6d22797cfaffc28960
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94f1d8aa0adca47c4f19bd9f91fc42a5be8ec3564060c1ace3a987df736d8de1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112435"
 ---
 # <a name="change-font-or-font-size"></a>變更字型或字型大小
 
-當您在 Outlook.com 中讀取電子郵件時，您可以使用瀏覽器的縮放功能，讓螢幕上的文字變大或變小。
+在 Outlook .com 中讀取電子郵件時，您可以使用瀏覽器的縮放功能，讓螢幕上的文字變大或變小。
   
 若要在撰寫郵件時變更字型或字型大小：
   
@@ -33,4 +33,4 @@ ms.locfileid: "47768886"
 
 如果您在撰寫窗格底部沒有看到 [格式化選項] 功能表，請選取 **格式化選項** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4QoTFhI2tjW43wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAACvUlEQVQ4jbWV20vTYRjHPz938nxIZ5nNQ0gh7iJb5CGRDkJG6pUXXnUReREE0qU3UWD/QF0YhNjBOyGM1CZkuCTLUypFjTWd6XQ6FXVzrs1tvy6s5Y8dEMT38nm/z4fv8z4PzyuIoihyCCfmMKCHCpZHu3xlmKX1tRGAkkI1LY26fYMjOg4ERLqH5nG5fbjcPj5MLWFdcR0cbJzbxDi3QbxKRnK8Ap9fpH9s8eDgvhErIFCmPUpdhWY3NmrFH9jfEIUFu377eD9uA+BqSTa1F3IRgFmbi0nzWkSYwWCIDh7+bmfN4SE9WYXuVAaazASK8lMB0H+2RoTq9fro4Ld/ky/rsohTyQCoLj0BwODUMpsur0Q/MTFBb28vCoUiMti2ts3oj1XkMoH6S/nBeG15DmlJShzbOwxOLQXjJpOJzs5OAARBCMZD5rh/fBGvL0BinJyeobmgOEYQiFfJWXd66flkpaY8B4vFQkdHB36/H4C920ECDgRE+kYWANhy+3ihnw73Uvyc38S+6sBkMuHxeABQKpXU19eHB3+1rDO94AQgLyuBOKW0IJ9fRBRF7lw7wsvnT0lJSaG0tBSz2UxDQwMajSY8+F/HM1JjaW+uRKWQhbhdXl6mq6sLu92O3W5HrVbT1NSEUqmU6IJg5/YOhsndppQVqUOgxrlN3nz8RV6mnGPHc5iZmUGr1VJVVRUClYDfjS+wsbU7RhfPZElEA5M27rd9YeDxdQAePnNyq7GRk/n5yGShVcGecUtPFLiiy6KuQsO502lBwTfLOg/aJ/D6/ne8Z3iF5NTMiFCJ48riXCqLcyWXFpuT5idjeLwBAMpvdzPUWkN6soqE2KgbFyHS12RecHD30TBrDo/UiUyg5aaWyrO54dJCHUucLjm51zaO071DQtyuRBYjUJCdxI3qAs4XZkaFRnV80PMHnewLMbVHljcAAAAASUVORK5CYII=' /> 圖示。
   
-如需詳細資訊，請參閱 [變更 Outlook.com 中電子郵件的字型大小和外觀](https://support.office.com/article/0b4eb323-23fc-4d5d-adbf-cae14c9c0386?wt.mc_id=Office_Outlook_com_Alchemy)。
+如需詳細資訊，請參閱[變更 Outlook .com 中的電子郵件的字型大小和外觀](https://support.office.com/article/0b4eb323-23fc-4d5d-adbf-cae14c9c0386?wt.mc_id=Office_Outlook_com_Alchemy)。

@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "11509"
 - "9000292"
-ms.openlocfilehash: 21d9d1a305af832dd7d908c35860bfd45a583a59
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: a48e58481310e822a090aa848ed93a9542cadd046f8b673d79f41282691c2585
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721681"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896514"
 ---
 # <a name="lock-and-unlock-sites"></a>鎖定和解除鎖定網站
 
-身為 Microsoft 365 全域或 SharePoint 系統管理員，您可以使用 Microsoft PowerShell 變更網站的鎖定狀態以封鎖網站存取或使網站為唯讀狀態。 如需詳細資訊，請參閱 [鎖定和解除鎖定網站](/sharepoint/manage-lock-status)。
+身為 Microsoft 365 全域或 SharePoint 系統管理員，您可以使用 Microsoft PowerShell 變更網站的鎖定狀態以封鎖網站存取或使網站為唯讀狀態。如需詳細資訊，請參閱 [鎖定和解除鎖定網站](https://docs.microsoft.com/sharepoint/manage-lock-status)。

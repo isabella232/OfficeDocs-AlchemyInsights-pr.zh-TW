@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8640"
 - "9004622"
-ms.openlocfilehash: d3a6ac9badbcd117780d92dc79f420f9661e52b8
-ms.sourcegitcommit: 266126f99a020c2332a4fea516edb4ace9d14148
+ms.openlocfilehash: afa0b823bc0b40705538f32a1d93b4b8e282e3939c4eb1b44d788cf78e7cfc24
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50696580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086839"
 ---
 # <a name="pdf-reader-app-in-microsoft-edge"></a>Microsoft Edge 中的 PDF 閱讀程式應用程式
 

@@ -1,5 +1,5 @@
 ---
-title: 8000067-Outlook.com 關閉帳戶-西班牙文
+title: 8000067-Outlook 關閉帳戶-西班牙文
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000067
-ms.openlocfilehash: 45186d1a569bcf11a87c80c1cca714ed90cc4544
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb0bf978185714e7e442516e8a991177bdb0940425d41a01e47da1140e05aa07
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752494"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112075"
 ---
-# <a name="cerrar-la-cuenta-de-outlookcom"></a>Cerrar la cuenta de Outlook.com
+# <a name="cerrar-la-cuenta-de-outlookcom"></a>Cerrar la cuenta de Outlook .com
 
-段落 cerrar permanentemente su cuenta de correo electrónico de Outlook.com，deberá cerrar su Cuenta de Microsoft。
+段落 cerrar permanentemente su cuenta de correo electrónico de Outlook .com，deberá cerrar su cuenta de Microsoft。
 
 Cuando cierre la Cuenta de Microsoft，su correo electrónico y sus contactos se eliminarán de nuestros servidores y no se podrán recuperar。
 

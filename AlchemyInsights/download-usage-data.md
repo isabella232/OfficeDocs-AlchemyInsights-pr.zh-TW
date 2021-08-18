@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c8aa49e299697abbd0e35d7762d8723570fc366
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004253"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315575"
 ---
 # <a name="download-usage-data"></a>下載使用狀況資料
 
@@ -26,8 +26,7 @@ ms.locfileid: "54004253"
 
 若要以 Enterprise Azure (EA) 客戶的身分查看和下載使用狀況資料，請執行下列步驟：
 
-> [!NOTE]
-> 您必須是企業系統管理員、帳戶擁有人或部門管理員，且已啟用「查看費用原則」。 
+**附注**：您必須是企業系統管理員、帳戶擁有人或部門管理員，且已啟用「查看費用原則」。 
 
 1. 登入 Azure 入口網站，並搜尋 **成本管理 + 帳單**。
 2. 選取帳單設定檔，然後按一下 [ **使用狀況 + 費用**]。

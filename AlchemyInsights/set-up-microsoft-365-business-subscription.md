@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4776"
-ms.openlocfilehash: 61b7f044e4b66ed49500b903b15d48c42c79ff9b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 43c078a6aed2582196e90b4da38859ceec06014a268dd31e6d8ba381cc45f4a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835550"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085903"
 ---
 # <a name="set-up-a-microsoft-365-business-subscription"></a>設定 Microsoft 365 商務版訂閱
 

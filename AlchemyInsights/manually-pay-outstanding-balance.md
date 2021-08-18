@@ -19,12 +19,12 @@ ms.custom:
 - "9689"
 - "1500018"
 - "9690"
-ms.openlocfilehash: 1cff63fa1c79d8863fc4f37b3e046e9d15ed944c9bc57c54137720a0dabd33df
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7640630de510d802be03142129e71545aa145d515cc8a4b9adf79cdf8779844f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503859"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896406"
 ---
 # <a name="manually-pay-an-outstanding-balance"></a>手動支付未付餘額
 
@@ -35,4 +35,4 @@ ms.locfileid: "54503859"
 3. 在右窗格中，選擇您目前的付款方式，選取其他付款方式或新增付款方式，然後選取 [結算餘額 **]**。
 4. 如果您的銀行要求，系統會提示您提供額外的安全性和驗證詳細資料。
 
-若要深入了解，請參閱[管理付款方式](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)和[支付您的訂閱](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。
+若要深入了解，請參閱[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)和[支付您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。

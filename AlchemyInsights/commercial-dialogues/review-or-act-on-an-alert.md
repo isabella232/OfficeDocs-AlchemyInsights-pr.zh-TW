@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: d6d8f87c9c1ba76c6d0c83a7cac6f259028771e3b1f8d8755729381f79f5b342
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e18aaa8abe7fd7cf501b612ecb08b9fca7d9c36e0e6552f75742beb770063e93
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016439"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897034"
 ---
 # <a name="review-or-act-on-an-alert"></a>複查或對警示採取動作
 
 請遵循下列步驟：
 
-1. 移至 [安全性 & 規範中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)。
-1. 按一下 [**提醒**] [  >  **[查看提醒](https://go.microsoft.com/fwlink/?linkid=2103301)**]。
-1. 按一下警示。 在詳細資料窗格中，查看觸發警示的內容。
-1. 如果您想要對警示採取動作，請按一下 [詳細資料] 旁邊的提供連結。
-1. 如果您想要關閉警示，請按一下 [ **解決**]。
+1. 請執行下列其中一個動作：
+   - 在 [Microsoft 365 合規性中心于] 中 <https://compliance.microsoft.com> ，移至 **警示**。 或者，直接開啟頁面 <https://compliance.microsoft.com/compliancealerts> 。
+   - 在 Microsoft 365 Defender 入口網站上 <https://security.microsoft.com> ，移至 [**警示**]。 或者，直接開啟頁面 <https://security.microsoft.com/alerts> 。
+2. 選取警示。 在出現的 [詳細資料] 浮出控制項中，查看觸發警示的內容。
+3. 如果您想要對警示採取動作，請按一下提供的連結。
+4. 如果您想要關閉警示，請按一下 [ **解決**]。
 
-若要深入瞭解管理提醒，請參閱 [安全性與合規性中心中的警示原則](https://go.microsoft.com/fwlink/?linkid=2103211)。
-
+若要深入瞭解管理提醒，請參閱[Microsoft 365 中的警示原則](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)。
