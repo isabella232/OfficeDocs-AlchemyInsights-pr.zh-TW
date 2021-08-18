@@ -1,5 +1,5 @@
 ---
-title: Microsoft 小組許可權
+title: Microsoft Teams 許可權
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: 8e6ce1a6344c70f43f76164612bc55b95a61e97d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2cf6668e8451530a4ad05a448ab59f7a34d22a7a1072f290da6c5a248ab0c433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833750"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114055"
 ---
-# <a name="microsoft-teams-permissions"></a>Microsoft 小組許可權
+# <a name="microsoft-teams-permissions"></a>Microsoft Teams 許可權
 
-Microsoft 團隊包含兩個使用者角色：擁有者和成員。 根據預設，建立新小組的使用者會取得擁有者狀態。 此外，如果仲裁已設定) ，擁有者和成員也可取得通道 (的仲裁者功能。 如果是從現有的 Microsoft 365 群組建立小組，則會繼承許可權。 如需其他資訊，請參閱：
+Microsoft Teams 包括兩個使用者角色：擁有者和成員。 根據預設，建立新小組的使用者會取得擁有者狀態。 此外，如果仲裁已設定) ，擁有者和成員也可取得通道 (的仲裁者功能。 如果小組是從現有的 Microsoft 365 群組建立的，則會繼承權限。 如需詳細資訊，請參閱：
 
 - [在 Microsoft Teams 中指派 Teams 擁有者和成員](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [Microsoft 小組應用程式許可權和考慮](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [為小組中的頻道設定來賓許可權](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Microsoft Teams 應用程式許可權和考慮](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [設定 Teams 中的頻道來賓許可權](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

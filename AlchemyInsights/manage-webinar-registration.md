@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: e164efdd5b1dec329179496f89f95867be7666d1
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: ed05eb30df4a4d8b6616d2b57ebe493f33e187144b9d5180dc508d7517326c8a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687489"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901067"
 ---
 # <a name="manage-webinar-registration"></a>管理網路研討會註冊
 
-依預設會啟用網路研討會註冊。 如果想要關閉會議註冊，您可以使用 Teams 系統管理中心： 
+預設會啟用網路研討會註冊。如果想要關閉會議註冊，您可以使用 Teams 系統管理中心： 
 
 1. 移至 [Teams 系統管理中心](https://admin.teams.microsoft.com/policies/meetings)。 
 
@@ -38,8 +38,8 @@ ms.locfileid: "53687489"
 
 3. 在 [一般]**** 下，前往 [誰可以註冊]**** 設定，然後選取 [所有人]**** 或 [公司中的所有人 **]**。 
 
-**附註**：如果在會議設定將匿名加入設為關閉，匿名使用者就無法加入網路研討會。 若要深入了解如何啟用此設定，請參閱 [在 Microsoft Teams 中管理會議設定](/microsoftteams/meeting-settings-in-teams)。 
+**附註**：如果在會議設定將匿名加入設為關閉，匿名使用者就無法加入網路研討會。 若要深入了解如何啟用此設定，請參閱 [在 Microsoft Teams 中管理會議設定](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams)。 
 
-若要深入了解設定誰可以註冊網路研討會，以及如何使用 Teams PowerShell 管理這些原則，請參閱 [設定誰可以註冊網路研討會](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)。 如需 Microsoft 清單設定的詳細資訊，請參閱 [控制 Microsoft 清單的設定](/sharepoint/control-lists)。 
+若要深入了解設定誰可以註冊網路研討會，以及如何使用 Teams PowerShell 管理這些原則，請參閱 [設定誰可以註冊網路研討會](https://docs.microsoft.com/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)。 如需 Microsoft 清單設定的詳細資訊，請參閱 [控制 Microsoft 清單的設定](https://docs.microsoft.com/sharepoint/control-lists)。 
 
  

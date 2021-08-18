@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 336e1906526c07d8db51f61a867fef9ff87c871c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967144"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317733"
 ---
 # <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>修正 Outlook 中查看受保護郵件的問題
 
@@ -28,8 +28,7 @@ ms.locfileid: "53967144"
 
 1. 根據使用的電子郵件用戶端，按一下 **[讀取郵件** ] 或類似的提示。 使用者重新導向至可供登入和接收單一使用程式碼的頁面。
 
-> [!NOTE]
-> 對於 Gmail 使用者，系統會要求他們使用 Gmail 登入。 按一下 [ **允許**] 後，郵件會在新的索引標籤中開啟。
+    **附注**：針對 gmail 使用者，系統會要求他們使用 Gmail 登入。 按一下 [ **允許**] 後，郵件會在新的索引標籤中開啟。
 
 2. 檢查您的電子郵件中的單一使用碼，然後在瀏覽器視窗中輸入該程式碼。
 

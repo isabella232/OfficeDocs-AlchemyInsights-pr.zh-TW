@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: 82c6524011f996de07025e4401604101f50a326b37e38b890524626325a01aaf
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a82695d81db634cfd12971a9b6521ae1de56360a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888233"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317641"
 ---
 # <a name="getting-started-with-teams-webinars"></a>Teams 網路研討會入門
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 1f6c1ae0fe2261bcbc3d7eaad874cd250dcc7eb82a8df89656fec9d5e60843ca
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8d8cc53589c6643ececca29d86c53c1cb002b20f58b5b45789101c517cc1f703
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972302"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900499"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>安全性與合規性中心的統一保留原則
 
@@ -31,6 +31,6 @@ ms.locfileid: "53972302"
       
 如需 Exchange 電子郵件、OneDrive、SharePoint 及 Teams 內容內容之保留原則的詳細資料，請參閱[保留原則概觀](https://go.microsoft.com/fwlink/?linkid=2127785)。  
     
-如果您在 Exchange 系統管理中心和 [安全性與合規性中心] 均使用保留原則，請參閱此建議以[使用保留原則，而不是舊版功能](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features)。  
+如果您在 Exchange 系統管理中心和 [安全性與合規性中心] 均使用保留原則，請參閱此建議以[使用保留原則，而不是舊版功能](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features)。  
     
-如需 Teams 保留的特定資訊，請參閱 [Teams 中的保留原則](/microsoftteams/retention-policies)。
+如需 Teams 保留的特定資訊，請參閱 [Teams 中的保留原則](https://docs.microsoft.com/microsoftteams/retention-policies)。

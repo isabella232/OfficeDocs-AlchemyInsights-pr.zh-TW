@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10802"
 - "9006390"
-ms.openlocfilehash: f0f82eaaa00d71992af445bb89346fb85bad3ade5d120b25ad3a6ea4f9674893
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1b4f336f389eb6fd81ac2ca40e6047184cc4c1bf
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883310"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317687"
 ---
 # <a name="the-underlying-connection-was-closed-error-in-sharepoint"></a>SharePoint 中的「基礎連線已關閉」錯誤
 

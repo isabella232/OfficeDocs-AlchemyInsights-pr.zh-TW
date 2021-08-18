@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 762995215f5b4f5957f1f452a71efe5f20c9a9fe84ab1255a59fb7e67dda15fa
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502959"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900947"
 ---
 # <a name="purchase-power-bi"></a>購買 Power BI
 
@@ -33,6 +33,6 @@ ms.locfileid: "54502959"
 5. 查看定價資訊，然後選取 **[下一步]**。
 6. 提供您的付款資訊，然後選取 [**下訂單**]  >  **移至**[系統管理] 首頁。
 
-若要將授權指派給使用者，請參閱 [將授權指派給使用者](/microsoft-365/admin/manage/assign-licenses-to-users)。
+若要將授權指派給使用者，請參閱 [將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
 
-若要購買更多或移除授權，請參閱 [購買或移除商務用訂閱的授權](/microsoft-365/commerce/licenses/buy-licenses)。
+若要購買更多或移除授權，請參閱 [購買或移除商務用訂閱的授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。

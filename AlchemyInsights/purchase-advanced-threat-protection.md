@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: d1d0a481ee5d5803a5ff1205bc167bf301902cbdceccf0a6ceb8497ebc65e54a
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 46a734244b2eedc6da69738dc19e51513d165c2cb1afc3ab99e91a856e20f674
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503103"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901015"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>購買 Office 365 的 Microsoft Defender
 
-適用於 Office 365 的 Microsoft Defender 包含在某些訂閱中，例如 Microsoft 365 E5、Office 365 E5、Office 365 A5 和 Microsoft 365 商務進階版。 如果您的訂閱不包含 microsoft defender for Office 365，您可以購買[microsoft defender for Office 365](/microsoft-365/security/office-365-security/office-365-atp)做為特定訂閱的附加元件。 若要在 Microsoft 365 系統管理中心購買：
+適用於 Office 365 的 Microsoft Defender 包含在某些訂閱中，例如 Microsoft 365 E5、Office 365 E5、Office 365 A5 和 Microsoft 365 商務進階版。 如果您的訂閱不包含 microsoft defender for Office 365，您可以購買[microsoft defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)做為特定訂閱的附加元件。 若要在 Microsoft 365 系統管理中心購買：
 
 1. 在系統管理中心中，移至 [**帳單**  >  [購買服務](https://go.microsoft.com/fwlink/p/?linkid=868433)] 頁面。
 2. 在 [**購買服務**] 頁面的底部，尋找 [**附加** 元件] 區段中的 [Microsoft Defender Office 365 附加元件]，然後選取 [**詳細資料**]。
@@ -33,6 +33,6 @@ ms.locfileid: "54503103"
 5. 如有需要，請複查訂單及定價資訊，然後選取 **[下一步]**。
 6. 選擇付款條件，或新增新的訂單，然後選取 [下一張 **訂單**] 移至 [系統  >  **管理首頁**]。
 
-若要將授權指派給使用者，請參閱 [將授權指派給使用者](/microsoft-365/admin/manage/assign-licenses-to-users)。
+若要將授權指派給使用者，請參閱 [將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
 
-若要購買更多授權或移除授權，請參閱 [新增或移除授權](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)。
+若要購買更多授權或移除授權，請參閱 [新增或移除授權](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)。

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9127"
 - "9004429"
-ms.openlocfilehash: 627048f21eb931188dfebd3f4177be2bbd65c71e26ab2d0e302f5ab49e9fbc53
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ad4b64c4bb50f50d4ab9fa47bb37228dce538e6d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900063"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317269"
 ---
 # <a name="enable-a-user-to-sync-a-personal-account-with-the-work-account-in-microsoft-edge"></a>讓使用者在 Microsoft Edge 中將個人帳戶與公司帳戶同步
 

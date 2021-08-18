@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 484ec1102500b9cce4a1489e016b73e9f73d609e4af95fff13405857d34f3978
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038796"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900643"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Office 365 的 Microsoft Defender 疑難排解
 
-- **您注意到郵件傳遞中的延遲嗎？** 在您的 Microsoft Defender 中使用[動態傳遞](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing)選項 Office 365 保管庫附件原則。 這會協助避免郵件延遲，避免來自惡意檔的收件者。
+- **您注意到郵件傳遞中的延遲嗎？** 在您的 Microsoft Defender 中使用[動態傳遞](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing)選項 Office 365 保管庫附件原則。 這會協助避免郵件延遲，避免來自惡意檔的收件者。
 
 - **您是否要向 Microsoft 報告誤報或漏報？** 使用 [提交的 Explorer](https://protection.office.com/reportsubmission)。
 
