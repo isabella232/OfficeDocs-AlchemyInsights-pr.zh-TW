@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9822"
 - "9005408"
-ms.openlocfilehash: 59765fbdf1716455d8ba3df7a62540ab1982570f
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 8d593c8a7299dec6b9c8668d19f5924b16e34f83fb64e82190dcf4d2666fecb6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115531"
 ---
 # <a name="import-photos-and-videos-to-your-pc"></a>將相片和影片匯出到您的電腦
 

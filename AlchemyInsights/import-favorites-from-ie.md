@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9449"
 - "9005491"
-ms.openlocfilehash: 23a4f21c960f1809b66f631d34efec3c1e87ec20
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.openlocfilehash: 9748ffa06ed4d5911a73c4fd512957ca132cb9dbcba4c666e263d332a50ac727
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51441134"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115675"
 ---
 # <a name="import-favorites-from-internet-explorer-to-microsoft-edge"></a>將我的最愛從 Internet Explorer 匯入至 Microsoft Edge
 

@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: dd508bcd2b09ccb0bcdd99c37c3c5ecfbc26ec42f00ddce520ef8e73e3aef436
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709313"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115423"
 ---
 # <a name="about-litigation-holds-and-in-place-holds"></a>關於訴訟封存和就地保留
 
-- 若要將訴訟暫止或就地保留套用至信箱，需要 [Exchange Online Plan 2 授權](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) 。 如果您有任何其他計畫，請將個別的 [Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) 封存授權指派給該帳戶。 
+- 若要將訴訟暫止或就地保留套用至信箱，需要有[Exchange Online Plan 2 授權](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)。 如果您有任何其他計畫，請將個別的[Exchange Online 封存](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)授權指派給該帳戶。 
     
 - **若要對單一使用者啟用訴訟暫止狀態** ，請遵循 [這裡](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold)所述的步驟。 啟用訴訟暫止時，信箱中的所有內容都會處於暫止狀態。
     

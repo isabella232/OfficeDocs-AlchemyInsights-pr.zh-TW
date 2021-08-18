@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ae4ddd365951190f58c551a4ca2874268ee64186c605be5b33860dcb864235da
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314519"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901955"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>預付 Microsoft 365 更新
 
@@ -29,7 +29,8 @@ ms.locfileid: "58314519"
 3. 在 [訂閱詳細資料] 頁面上，選取 [ **訂閱和付款設定** ] 區段中的 [ **延長結束日期**]。
 4. 在 [ **更新或新增使用者授權** ] 頁面上，選取 [ **使用新的和未使用的產品金鑰**]，然後選取 **[下一步]**。
 5. 輸入產品金鑰，然後選取 **[下一步]**。
-    **附注**：如果您有一個以上的產品金鑰，您可以選取 [ **新增其他產品金鑰** ] 加以輸入。
+    > [!NOTE]
+    > 如果您有一個以上的產品金鑰，您可以選取 [ **新增其他產品金鑰** ] 加以輸入。
 6. 請複查您的訂單詳細資料，然後選取 [ **兌換**]。
 
 若要深入瞭解，請參閱 [新增授權給或擴充使用產品金鑰支付的訂閱](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)。

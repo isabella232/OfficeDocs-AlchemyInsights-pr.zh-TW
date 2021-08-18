@@ -17,12 +17,12 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 888bac8b4ff8cf5c0ad7616cf4e87c0003e922ae89f9faf7872b94aba76f7027
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b42fe2e660b83d40737855ff84d313c6b7df1860
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891558"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318895"
 ---
 # <a name="change-how-often-you-pay"></a>變更您的支付頻率
 
@@ -33,7 +33,6 @@ ms.locfileid: "57891558"
 3. 在 [訂閱詳細資料] 頁面上，選取 [ **訂閱和付款設定** ] 區段中的 [ **編輯帳單頻率**]。
 4. 在 [ **編輯計費頻率** ] 窗格中，選擇您要計費的頻率選項，然後選取 [ **變更**]。
 
-> [!NOTE]
-> 只有月或年帳單是唯一的選項。
+**附注**：每月或每年帳單是唯一選項。
 
 如需詳細資訊，請參閱[變更您的計費頻率](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)。

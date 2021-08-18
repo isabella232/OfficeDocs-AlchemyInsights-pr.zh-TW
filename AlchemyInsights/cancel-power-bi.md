@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045850"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318941"
 ---
 # <a name="cancel-power-bi"></a>取消 Power BI
 
@@ -33,7 +33,6 @@ Microsoft 365 系統管理中心中可取消 Power BI。
 
 **退款：在下一個計費週期內，任何按比例支付的信用額度都會傳回給您。**
 
-> [!NOTE]
-> 如果您看不到 [取消] 選項，請選取 [訂閱] 以查看 [詳細資料] 頁面。 在 [ **訂閱和付款設定** ] 區段中，選取 [ **取消訂閱**]。
+**附注**：如果您沒有看到 [取消] 選項，請選取 [訂閱] 以查看詳細資料頁面。 在 [ **訂閱和付款設定** ] 區段中，選取 [ **取消訂閱**]。
 
-若要深入瞭解，請參閱 [取消您的訂閱](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
+若要深入瞭解，請參閱 [取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。

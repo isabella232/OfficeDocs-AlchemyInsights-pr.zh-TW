@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5a285f36aeb814e3b1d361c8cbffd5a6bef0770d10082d24654c7bbda59ce65b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d30535d8605fcbfa0ca73c262d8f8671d73234a4
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082177"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318839"
 ---
 # <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>自動加密傳送至特定網域的 Office 365 電子郵件
 
@@ -31,9 +31,8 @@ ms.locfileid: "54082177"
 7. 在 [ **執行下列** 欄位] 旁，按一下 [ **選取一個**]。 
 8. 在 [ **RMS 範本** ] 下拉式功能表中，選取 [ **加密**]，然後按一下 **[確定]**。  (如果您沒有看到此選項，則表示您的計畫不包含自動加密。 不過，您可以新增！ ) 
 9. 從您可以在此位置進行的選用選項清單中選擇任何選擇性選擇 (，許多可以保留預設設定為簡潔性) 。
-10. 按一下 **儲存**。
+10. 按一下 **[儲存]**。
 
-> [!IMPORTANT]
-> 您隨時可以傳回和編輯此規則。
+**重要**：您隨時可以傳回和編輯此規則。
 
 如需建立加密規則的相關資訊，請參閱[定義郵件流程規則，以加密 Office 365 中的電子郵件](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)

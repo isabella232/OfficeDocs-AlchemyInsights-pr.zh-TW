@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c3b1cac5379f4f3da93152fa20086068f7df562cd98b2980ce1b4280e0aa6d5f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58303568"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902251"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>在審計記錄檔中尋找 IP 位址
 
@@ -28,7 +28,8 @@ ms.locfileid: "58303568"
    - 在 Microsoft 365 合規性中心 <https://compliance.microsoft.com> ，移至 [**解決方案** \> **審核**]。 或者，若要直接移至 [ **審計** ] 頁面，請使用 <https://compliance.microsoft.com/auditlogsearch> 。
    - 在 Microsoft 365 Defender 入口網站上 <https://security.microsoft.com> ，移至 [**審計**]。 或者，若要直接移至 [ **審計** ] 頁面，請使用 <https://security.microsoft.com/auditlogsearch> 。
 
-    **附注**：如果您看到需要開啟審計的通知，請繼續進行，然後立即開啟。 如果未啟用此功能，搜尋結果將無法從先前的日期提取資料。
+    > [!NOTE]
+    > 如果您看到需要開啟審計的通知，請繼續進行，然後立即開啟。 如果未啟用此功能，搜尋結果將無法從先前的日期提取資料。
 
 2. 在 [ **審計** ] 頁面上，確認已選取 [ **搜尋] 索引** 標籤，然後設定下列設定：
    - **日期和時間範圍**：選取 [ **開始** ] 和 [ **結束** ] 方塊中的 [日期/時間範圍]。
