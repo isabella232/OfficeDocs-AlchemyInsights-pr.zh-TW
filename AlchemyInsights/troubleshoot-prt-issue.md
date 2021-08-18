@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a005c4a6848bbf0725560375df1220ce906cbb5f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972707"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330950"
 ---
 # <a name="troubleshoot-prt-issue"></a>疑難排解 PRT 問題
 
@@ -34,8 +34,7 @@ ms.locfileid: "53972707"
     1. 裝置會先嘗試從登錄中的用戶端 SCP 中取得租使用者資訊 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]。 如需詳細資訊，請參閱本[文件](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)。
     2. 若失敗，裝置會與內部部署 Active Directory (AD) 進行通訊，以從服務連線點 (SCP) 取得租使用者資訊。 若要驗證 SCP，請參閱本 [檔](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)。 
 
-> [!NOTE]
-> 我們建議您在 AD 中啟用 SCP，且只使用用戶端 SCP 進行初始驗證。
+**附注**：我們建議您在 AD 中啟用 SCP，且僅使用用戶端 SCP 進行初始驗證。
 
 2. Windows 10 會嘗試與系統內容底下的 azure ad 進行通訊，以針對 Azure ad 進行自我驗證。 您可以使用 Test Device Registration Connectivity 腳本，確認裝置是否可以存取系統帳戶底下的 Microsoft 資源。
 
@@ -47,8 +46,7 @@ ms.locfileid: "53972707"
 
 6. 在下一個使用者登入時 Windows 10，註冊將會完成。 
 
-> [!NOTE]
-> 如果您使用的是 VPN，且登出登入程式會終止網域連線，您可以手動觸發註冊：
+**附注**：如果您使用的是 VPN，且登出登入程式會終止網域連線，您可以手動觸發註冊：
  1. 在以系統管理提示或從 PSExec 遠端透過 PSExec 向您的電腦發出 dsregcmd/join。 例如，PsExec-s \\ win10client01 cmd，dsregcmd/join
 
  2. 如需混合式加入問題的詳細資訊，請參閱 [裝置問題疑難排解](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)。

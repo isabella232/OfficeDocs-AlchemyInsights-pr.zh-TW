@@ -12,17 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: e3d645f3c45525107f42a074899a30ef26bd559e5c5657e7b8ef69d406357b32
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c27997b1bca1d47ad876a0a6941607517912333
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088891"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333114"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>讓使用者能夠存取 SharePoint 和 OneDrive
 
-> [!NOTE]
-> 如果有 OneDrive 或 SharePoint 網站無法供先前具有存取權的使用者使用，則可能會發生暫時的服務問題。 [檢查服務健康情況儀表板](https://portal.office.com/adminportal/home#/servicehealth)
+**附注**：如果您先前具有存取權的使用者無法使用 OneDrive 或 SharePoint 網站，可能會發生暫時的服務問題。 [檢查服務健康情況儀表板](https://portal.office.com/adminportal/home#/servicehealth)
   
 如果您想讓組織中的人員能夠登入和使用 SharePoint 和 OneDrive，您必須為他們新增帳戶，並確定他們擁有授權，可讓他們存取 SharePoint 和 OneDrive。 新增使用者的最簡單方法是在 Microsoft 365 系統管理中心中。
   

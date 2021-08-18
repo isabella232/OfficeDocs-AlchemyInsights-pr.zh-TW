@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 6bbada43d53801d137e53afffca30d89cbb60e051c5c426711caaadb36cf39bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78955e6331048e9861785cac76cebcece4973996
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082645"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331450"
 ---
 # <a name="cancel-visio-subscription"></a>取消 Visio 訂閱
 
@@ -32,4 +32,4 @@ ms.locfileid: "54082645"
 
 **退款：** 任何按比例計算的款項將會在下個計費週期內退回。
 
-若要深入瞭解，請參閱 [取消您的訂閱](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
+若要深入瞭解，請參閱 [取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。

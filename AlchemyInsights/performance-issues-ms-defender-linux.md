@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "11491"
 - "9001464"
-ms.openlocfilehash: b1200f0dd206e27cccf96778beb0326c846e7504e51be283193b2630edfb4509
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ab6ad888b34524ac6e3b3d5448d0e6be409ffc0e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54086731"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331848"
 ---
 # <a name="performance-issues-for-microsoft-defender-for-endpoint-on-linux"></a>Linux 上適用於端點的 Microsoft Defender 效能問題
 
 本文引導您完成識別 Linux 上適用於端點的 Microsoft Defender 效能問題的步驟。
 
-重要的是，要先驗證您遇到的問題是使用 [最新版本](/microsoft-365/security/defender-endpoint/linux-whatsnew) 解決的。 
+重要的是，要先驗證您遇到的問題是使用 [最新版本](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-whatsnew) 解決的。 
 
-若要啟動您的調查，請參閱 [疑難排解 Linux 上適用於端點的 Microsoft Defender 效能問題](/microsoft-365/security/defender-endpoint/linux-support-perf)。
+若要啟動您的調查，請參閱 [疑難排解 Linux 上適用於端點的 Microsoft Defender 效能問題](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-support-perf)。
 
 ## <a name="exclusions"></a>排除項目
 
 排除項目可以協助降低效能問題。 在您開始之前先檢視您的排除項目，以得知任何其他風險並紀錄之。
 
-如需詳細資訊，請參閱[設定及驗證 Linux 上適用於端點的 Microsoft Defender 排除項目](/microsoft-365/security/defender-endpoint/linux-exclusions)。
+如需詳細資訊，請參閱[設定及驗證 Linux 上適用於端點的 Microsoft Defender 排除項目](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-exclusions)。
 
 當您有多個位於相同掛接點的檔案和資料夾要進行排除時，在掛接點進行排除可能更為容易。 從二月份發行版本 101.22.80 開始，您可以排除整個掛接點。
 

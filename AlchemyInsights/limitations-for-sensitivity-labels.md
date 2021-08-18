@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12451"
 - "9000181"
-ms.openlocfilehash: e2fc8fcf27eb916f64e4235cd116d9a7096e6078391e72363421ac3de721f5ee
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 376c0293c325a725c117d54bb0f15b0146b9224c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899755"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332808"
 ---
 # <a name="limitations-for-sensitivity-labels-for-office-files-in-sharepoint-and-onedrive"></a>對 SharePoint 和 OneDrive 中的 Office 檔案啟用敏感度標籤的限制
 

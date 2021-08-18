@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 4a29fdf1b61dd51b85793a1346bea193c67f70d32344470cb5449cf767da4a24
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2d132101768e0a835d448604d684ec0c735e6628
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896594"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332150"
 ---
 # <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>針對 SharePoint 線上、OneDrive 和 Microsoft Teams 啟用 Microsoft Defender Office 365
 
@@ -26,5 +26,4 @@ ms.locfileid: "57896594"
 4.  (建議) 成為全域系統管理員或 SharePoint Online 管理員，請執行 [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) Cmdlet，並將 **DisallowInfectedFileDownload** 參數設定為 *true*。
 5.  (建議的) 設定偵測到的檔案 [警示](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) 。
 
-> [!NOTE]
-> Microsoft Defender for Office 365 不會掃描 SharePoint Online、OneDrive 或 Microsoft Teams 中的每一個檔案。 檔案會透過使用共用和來賓活動事件的處理常式進行非同步掃描，並使用智慧試探法和威脅信號來識別惡意檔。 請參閱適用[于 SharePoint、OneDrive 和 Microsoft Teams 的 Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)。
+**附注**： Microsoft Defender for Office 365 不會掃描 SharePoint Online、OneDrive 或 Microsoft Teams 中的每一個檔案。 檔案會透過使用共用和來賓活動事件的處理常式進行非同步掃描，並使用智慧試探法和威脅信號來識別惡意檔。 請參閱適用[于 SharePoint、OneDrive 和 Microsoft Teams 的 Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)。

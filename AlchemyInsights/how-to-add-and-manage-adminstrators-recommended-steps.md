@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963778"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339023"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>如何新增及管理系統管理員-建議的步驟
 
@@ -75,7 +75,7 @@ ms.locfileid: "53963778"
 - [教學課程：授與使用 RBAC 和 Azure 入口網站的使用者存取](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [疑難排解 Azure 中的 RBAC](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [使用 Azure 管理群組組織資源](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [如何透過電子郵件要求 Azure 發票的副本](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [如何透過電子郵件要求 Azure 發票的副本](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [如何從 Azure 新增、更新或移除信用卡或付款卡](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [管理 (重新啟用/取消/切換) 訂閱](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

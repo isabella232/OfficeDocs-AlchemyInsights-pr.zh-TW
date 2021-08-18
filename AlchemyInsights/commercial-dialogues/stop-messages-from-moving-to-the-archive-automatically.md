@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: df7443626308416e1d7edf4bc87c0eba95ec2c030d5ef3207513480873c1e3e7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a083ac548d818f0ed922a6d17b38c3a3df2d86c0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929944"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333338"
 ---
 # <a name="stop-messages-from-moving-to-the-archive-automatically"></a>停止郵件自動移至封存
 
@@ -26,5 +26,4 @@ ms.locfileid: "53929944"
 1. 在 [Exchange 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2059104)，選擇 [**規範管理**] [  >  **保留標記**]。 找到 [移至封存] 保留標記。
 2. 在 [保留標記] 中，將 [保留期間 (封存期間) 變更為 [ **永不** 停用保留原則自動封存專案]。
 
-> [!NOTE]
-> 這會變更所有已套用此保留標記之信箱的封存設定。
+**附注**：這會變更套用此保留標記的所有信箱的封存設定。

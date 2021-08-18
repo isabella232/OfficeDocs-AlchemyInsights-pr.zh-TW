@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8586"
 - "9003200"
-ms.openlocfilehash: 3ed937d38627c1089c9203550498ce7b21ce01c0c5a2deea7326f8057f5338d8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1adc3c131daedb26d88710f4b4078b0622ad13c5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54036123"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331522"
 ---
 # <a name="to-configure-auto-reply-for-all-emails-sent-to-microsoft-365-group"></a>若要為所有傳送至 Microsoft 365 群組的電子郵件設定自動回覆:
 
@@ -26,6 +26,5 @@ ms.locfileid: "54036123"
 
 `Set-MailboxAutoReplyConfiguration -Identity groupmailbox -AutoReplyState Enabled -InternalMessage "Internal auto-reply message." -ExternalMessage "External auto-reply message`
 
-> [!NOTE]
-> 將 [groupmailbox]**** 變更為您想要在其上設定自動回覆的群組名稱。
+**注意**：將 **[groupmailbox]** 變更為您想要在其上設定自動回覆的群組名稱。
 

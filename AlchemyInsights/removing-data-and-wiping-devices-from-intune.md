@@ -1,5 +1,5 @@
 ---
-title: 從 Intune 中移除數據和抹除裝置
+title: 從 Intune 中移除資料和抹除裝置
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,14 +15,14 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922196"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331032"
 ---
-# <a name="removing-data-and-wiping-devices-from-intune"></a>從 Intune 中移除數據和抹除裝置
+# <a name="removing-data-and-wiping-devices-from-intune"></a>從 Intune 中移除資料和抹除裝置
 
 設備淘汰和設備抹除遠端操作可用於移除 Intune 管理的公司資料，或執行出廠預設並將設備恢復為其默認設置。
 
@@ -32,8 +32,7 @@ ms.locfileid: "53922196"
 4. 選取 **[是]** 加以確認。 裝置動作狀態將顯示為 *停用擱置*，直到抹除完成為止。
     操作完成之後，您將不會再在受管理裝置清單中看到該行動裝置。
 
-> [!NOTE]
-> 無法從加入 Azure AD 的裝置中移除公司資料。 
+**附註**：無法從「已加入」Azure AD 的裝置移除公司資料。 
 
 如需淘汰和抹除動作影響的完整詳細資料 (包括保留內容和刪除內容)，請參閱以下文件:
 
