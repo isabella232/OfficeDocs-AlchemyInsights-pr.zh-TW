@@ -1,5 +1,5 @@
 ---
-title: 726封鎖電子郵件轉發
+title: 封鎖或解除封鎖外部自動電子郵件轉接
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059623"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897459"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>封鎖或取消封鎖電子郵件轉發
+# <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>封鎖或解除封鎖外部自動電子郵件轉接
 
 若要啟用或停用特定信箱的電子郵件轉寄功能，請參閱 [設定電子郵件轉接](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)。
 
-在租使用者層級上，會使用輸出垃圾郵件原則來控制外部轉送。 您可以從 [這裡](https://protection.office.com/antispam) 的安全性與合規性中心檢查輸出垃圾郵件篩選原則，或使用 [Get-HostedOutboundSpamFilterPolicy 命令](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)。
+系統管理員可以使用 [輸出垃圾郵件原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)來控制組織的外部轉送。 您可以在 Microsoft 365 Defender 入口網站中管理輸出垃圾郵件原則， <https://security.microsoft.com/antispam> 也可以使用 Exchange Online PowerShell 中的[Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) Cmdlet 來管理。
 
-如果您收到下列錯誤：「 **550 5.7.520 存取權遭到拒絕，您的組織不允許外部轉送**」，請確定原則已設定為啟用外部自動轉寄。
+如果您收到下列錯誤：「 **550 5.7.520 存取權遭到拒絕，您的組織不允許外部轉送**」，請確定原則已設定為啟用外部自動轉寄的郵件。
 
-**附注：** 建議您在預設的輸出垃圾郵件篩選原則上停用外部 Autoforward，並僅針對需要外部轉寄的使用者，為這些使用者建立自訂原則加以啟用。 您可以在 Office 365 中深入瞭解設定[外部電子郵件轉發](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)。
+**附注**：建議您在預設輸出垃圾郵件篩選原則中，自動轉寄 **規則** 的預設值 **受管理** 的預設值會封鎖預設的輸出垃圾郵件篩選原則 (會封鎖自動外部轉送;內部自動轉寄仍可運作) 。 您應建立自訂輸出垃圾郵件篩選原則，並使用轉寄值僅針對需要外部自動電子郵件轉寄的使用者 **啟用** 。 如需詳細資訊，請參閱[在 Office 365 中設定外部電子郵件轉發](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)。

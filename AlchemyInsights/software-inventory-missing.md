@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11382"
 - "9001470"
-ms.openlocfilehash: 191d6ae772dc1b1c6b15071da9c4aca14429cf2db17be6ee0db6b23ea0d29e2d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f26fab92d0159c06eb600cf9ec4161892561a719e8d113d15bfbac133301e793
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54084634"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897587"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>軟體庫存遺失或不正確
 
@@ -32,8 +32,8 @@ ms.locfileid: "54084634"
 
 1. 檢查軟體證據區段，以了解偵測軟體的方式。
 1. 確定軟體受到支援。 軟體只能在裝置層級顯示，即使威脅與弱點管理目前不支援該軟體也一樣。 不過，只可使用有限的資料。
-1. 如需從入口網站報告錯誤的步驟，請參閱[報告錯誤](/microsoft-365/security/defender-endpoint/tvm-software-inventory?view=o365-worldwide#report-inaccuracy)。
+1. 如需從入口網站報告錯誤的步驟，請參閱[報告錯誤](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-software-inventory?view=o365-worldwide#report-inaccuracy)。
    
     **注意**：從 MDE 入口網站報告錯誤是進行工程設計的單向通道。 如果問題緊急，請開立支援票證。
 
-如需詳細資訊，請參閱[軟體清查 - 威脅與弱點管理](/microsoft-365/security/defender-endpoint/tvm-software-inventory)。
+如需詳細資訊，請參閱[軟體清查 - 威脅與弱點管理](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-software-inventory)。

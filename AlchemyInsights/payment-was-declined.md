@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829043"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087199"
 ---
 # <a name="your-payment-was-declined"></a>您的付款遭到拒絕
 
@@ -27,7 +27,7 @@ ms.locfileid: "51829043"
 
 **取代所有項目的付款方式**
 
-1. 在系統管理中心中，移至 [帳單] > [帳單與付款] > [付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)頁面。
+1. 在系統管理中心中，移至 **[帳單]** > **[帳單與付款]** > [付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)頁面。
 
 2. 選取付款方式資料列以進行取代。 右側窗格會列出所有帳單設定檔，以及使用所選付款方式的個別訂閱。
 
@@ -46,7 +46,7 @@ ms.locfileid: "51829043"
 
 **更新付款方式詳細資料**
 
-1. 在系統管理中心中，移至 [帳單] > [帳單與付款] > [付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)頁面。
+1. 在系統管理中心中，移至 **[帳單]** > **[帳單與付款]** > [付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)頁面。
 
 2. 選取付款方式資料列以進行更新。 在右窗格中，選取 **[編輯]**。
 

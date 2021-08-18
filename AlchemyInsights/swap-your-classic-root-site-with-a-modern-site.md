@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e8501414498bf1937e98abaca32987e3276bb54e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940810"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316131"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>將傳統的根網站與現代網站交換
 
@@ -28,8 +28,8 @@ ms.locfileid: "53940810"
     - 使用 [SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) 在封存原始網站時，將網站的位置交換為另一個網站。 可用於兩個小組網站 (未連接至群組) 和通訊網站。 
 
 - 將會很快引進其他功能，讓您繼續使用網站上的內容，但將現有網站轉換為通訊網站。 
->[!Important]
->這些功能將會逐步向之外進行匯總。 繼續檢查訊息中心是否有更新。 
+
+**重要** 事項：這些功能將逐步向之外進行匯總。 繼續檢查訊息中心是否有更新。 
 
 ## <a name="known-issues-with-swapping-sites"></a>交換網站的已知問題
 

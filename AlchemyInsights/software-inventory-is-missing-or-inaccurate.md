@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: f2f71234c5f9cd41692031b679c987bf6c108cc4c50f8d4f95f72da42fea73c7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b5c5bf712846f62afd1435db9fa0a1490c199501d0b011e867103516770fcbfd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107116"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897631"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>軟體庫存遺失或不正確
 
-Microsoft Defender ATP 服務中的軟體庫存可提供產品名稱或廠商、最新版本號碼，以及偵測到的弱點和漏洞。 如需詳細資訊，請參閱 [軟體庫存-威脅與弱點管理](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)。
+Microsoft Defender ATP 服務中的軟體庫存可提供產品名稱或廠商、最新版本號碼，以及偵測到的弱點和漏洞。 如需詳細資訊，請參閱 [軟體庫存-威脅與弱點管理](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)。
 
 您可以遵循下列步驟，回報不清楚或不完整的資訊、版本號碼或修正的軟體庫存資訊。  
 

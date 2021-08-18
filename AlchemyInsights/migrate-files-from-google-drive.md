@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8001"
 - "5300030"
-ms.openlocfilehash: bb5ec9a042cfa7ebc833b0db4ded22e28c1b3975ddbaca0063d4476896795ba0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2ba7e9c773dd22697ab4b956a1b532b098a99feaca81a1009885ea87e287b6e3
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54026681"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897935"
 ---
 # <a name="migrate-files-from-google-drive"></a>從 Google Drive 移轉檔案
 
 將您的 Google 雲端硬碟文件、資料和使用者移轉至 Microsoft 365 中的 OneDrive、SharePoint 和 Teams，全都在一個位置共同作業。
 
-如需詳細資訊，請參閱[使用移轉管理程式將 Google Workspace 移轉至 Microsoft 365](/sharepointmigration/mm-google-overview)。
+如需詳細資訊，請參閱[使用移轉管理程式將 Google Workspace 移轉至 Microsoft 365](https://docs.microsoft.com/sharepointmigration/mm-google-overview)。
