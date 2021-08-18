@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78fc3eeae7fc8fe4cf620b21cf095e24978dd695
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998934"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328281"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>訂閱管理-安全性和合規性要求-azure 業界合規性資格鑒定
 
@@ -38,8 +38,7 @@ ms.locfileid: "53998934"
 
 - **GDPR 合規性**：如果您有關于資料處理合約的問題，請參閱「線上服務條款」中從第7頁開始的「資料保護字詞」。 OST 包含主要資料處理字詞，但併入標準的商業合約。 除了其他事項之外，它還提供有關我們 GDPR 義務的合約承諾。 此外，請參閱 "附件 4" 中的合約結尾的 GDPR 特有字詞，起始于頁面42。 以下各節將 Microsoft 的 GDPR 義務看作是資料處理器，並做為另一個資料處理器的子處理器。
 
-> [!NOTE]
-> 強烈建議使用 Adobe Acrobat Reader 來開啟 PDF 檔，因為其他 PDF 檢視器的問題已注明。建議您在本機下載檔案，而不是在瀏覽器視窗中開啟，因為這可能會造成錯誤。
+**附注**：強烈建議使用 Adobe Acrobat READER 開啟 PDF 檔，因為其他 PDF 檢視器的問題已注明。建議您在本機下載檔案，而不是在瀏覽器視窗中開啟，因為這可能會造成錯誤。
 
 - **HDS 法規遵從性**： Azure 現在是「健康資料裝載」，並依照法文的需求認證。 如需詳細資訊，請參閱「Microsoft Azure 目前已取得驗證，可在法國主控敏感健康情況資料」。
 
@@ -49,8 +48,7 @@ ms.locfileid: "53998934"
 
 - **Subprocessor 變更的客戶通知**：您可以選擇接收 Microsoft 個人資料 Subprocessors 清單變更的通知。
 
-> [!NOTE]
-> 線上服務客戶資料和個人資料清單通知完全自動化。 如需詳細資訊，請參閱 Microsofts Data Protection Resources。
+**附注**：已完全自動化線上服務客戶資料和個人資料清單通知。 如需詳細資訊，請參閱 Microsofts Data Protection Resources。
 
 **建譯的文件**
 

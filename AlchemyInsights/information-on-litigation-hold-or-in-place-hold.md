@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: dd508bcd2b09ccb0bcdd99c37c3c5ecfbc26ec42f00ddce520ef8e73e3aef436
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8703944c6839be1b3a5e4b9ed53fd52dc035b126
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54115423"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329761"
 ---
 # <a name="about-litigation-holds-and-in-place-holds"></a>關於訴訟封存和就地保留
 
@@ -25,8 +25,7 @@ ms.locfileid: "54115423"
     
 - 若要將 **單一使用者的就地保留** 套用到 **整個組織中的所有信箱**，您可以遵循 [這裡](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)所述的步驟，在 Microsoft 365 安全性與合規性中心內使用保留原則。
     
-    > [!NOTE]
-    > 若為整個組織保留原則，新的使用者將會自動新增至保留。 
+    **附注**：針對整個全組織保留原則，新的使用者將會自動新增至保留。 
   
 - 若要查看或探索置於保留狀態的信箱內容，請使用 **EDiscovery 搜尋和匯出**。 如需使用 **EDiscovery 搜尋和匯出** 的詳細資訊，請遵循 [這裡](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)所述的步驟。
     

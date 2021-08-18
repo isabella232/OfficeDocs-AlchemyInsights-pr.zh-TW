@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090727"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329909"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Microsoft 365 中的通訊合規性
 
@@ -43,5 +43,4 @@ ms.locfileid: "54090727"
 
 如果您沒有上述任何一項，且想要嘗試通訊相容性，請 **[註冊 Office 365 企業版 E5 的試用版](https://go.microsoft.com/fwlink/p/?LinkID=698279)**。
 
-> [!NOTE]
-> 最多可能需要24小時的電子郵件才能完全處理原則中的電子郵件。 在 Microsoft Teams、Yammer 和協力廠商平臺之間的通訊，最多可能需要48個小時才能完全處理原則中的處理常式。
+**附注**：完整處理原則中的電子郵件時，最多可能需要24小時的時間。 在 Microsoft Teams、Yammer 和協力廠商平臺之間的通訊，最多可能需要48個小時才能完全處理原則中的處理常式。

@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901727"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330163"
 ---
 # <a name="canceling-your-subscription"></a>取消您的訂閱？
 
@@ -30,7 +30,6 @@ ms.locfileid: "57901727"
   
 **退款：在下一個計費週期內，任何按比例支付的信用額度都會傳回給您。**
 
-> [!NOTE]
-> 如果您看不到 [取消] 選項，請選取 [訂閱] 以查看 [詳細資料] 頁面。 在 [ **訂閱和付款設定** ] 區段中，選取 [ **取消訂閱**]。
+**附注**：如果您沒有看到 [取消] 選項，請選取 [訂閱] 以查看詳細資料頁面。 在 [ **訂閱和付款設定** ] 區段中，選取 [ **取消訂閱**]。
 
 若要深入瞭解，請參閱 [取消您的訂閱](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。

@@ -13,12 +13,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 949c447f2be86a0ee31f1f7d417f744e955cb926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085831"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328363"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>SharePoint 和 OneDrive 的版本設定 
 
@@ -39,7 +39,6 @@ ms.locfileid: "54085831"
 
 - [版本設定限制](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
->[!Note] 
->如果您是 Microsoft 365 客戶，當您建立新的商務用 OneDrive 庫時，現在會預設開啟版本設定，而且會自動儲存檔的最後一個500版本。 這可協助您避免遺失重要檔或資料。 如果您的商務用 OneDrive 網站或小組網站上現有的文件庫未啟用版本設定，您可以隨時開啟版本設定。
+**附注**：如果您是 Microsoft 365 客戶，當您建立新的商務用 OneDrive 庫時，現在會預設開啟版本設定，而且會自動儲存檔的最後一個500版本。 這可協助您避免遺失重要檔或資料。 如果您的商務用 OneDrive 網站或小組網站上現有的文件庫未啟用版本設定，您可以隨時開啟版本設定。
 
 

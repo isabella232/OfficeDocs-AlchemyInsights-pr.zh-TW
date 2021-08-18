@@ -15,24 +15,22 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892418"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330659"
 ---
 # <a name="update-credit-card-information"></a>更新信用卡資訊
 
 1. 在 Microsoft 365 系統管理中心，移至 [帳單] \> [付款方式][](https://go.microsoft.com/fwlink/p/?linkid=2018806) 頁面。
 
-    > [!NOTE]
-    > 如果您在更新完成前遇到不斷將您送回系統管理首頁的狀況，請嘗試 InPrivate 或無痕模式。
+    **注意**：如果您在更新完成前遇到不斷將您送回系統管理首頁的狀況，請嘗試 InPrivate 或無痕模式。
   
 2. 選擇您想要更新的信用卡。
 
-    > [!NOTE]
-    > 如果另一位系統管理員已新增付款方法，您就不能為該訂閱更新信用卡或銀行帳戶資訊。如果信用卡即將過期而另一位系統管理員無法更新資訊，您可以透過選擇 [新增付款方法 **]** 來為該訂閱新增另一張信用卡或新的銀行帳戶，以免服務中斷。
+    **注意**：如果另一位系統管理員已新增付款方法，您就不能為該訂閱更新信用卡或銀行帳戶資訊。如果信用卡即將過期而另一位系統管理員無法更新資訊，您可以透過選擇 [新增付款方法 **]** 來為該訂閱新增另一張信用卡或新的銀行帳戶，以免服務中斷。
   
 3. 在 [付款方法詳細資料] 窗格中，選取 [編輯]。
 

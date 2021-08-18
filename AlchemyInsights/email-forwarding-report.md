@@ -12,12 +12,12 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: f501b9c74b7480a706def72dd60fa9012c98318b1ef590a5c4c9c17d707d5240
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fdae2acc4d1b78edfdf9fa49cc6711e6f87ea0a3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891442"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327873"
 ---
 # <a name="auto-forwarded-messages-report"></a>自動轉寄郵件報告
 

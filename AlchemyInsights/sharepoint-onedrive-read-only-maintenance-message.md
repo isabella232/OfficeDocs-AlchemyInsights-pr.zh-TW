@@ -13,12 +13,12 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 376b653b18857103586e25edd0ad6801a7bbe0a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910537"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329439"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>嘗試使用 SharePoint 或 OneDrive 時進行維護訊息的 Read-Only
 
@@ -38,8 +38,6 @@ ms.locfileid: "53910537"
 2. 在 [ **清除流覽**] 底下，選取 **[選擇要清除** 的專案]。
 3. 選取 [ **cookie] 和 [儲存的網站資料**]，然後選取 [ **清除**]。
 
->[!Note] 
-> 當您使用其他瀏覽器（例如 Mozilla Firefox 或 Google Chrome）時，可能會有不同的步驟。
+**附注**：使用其他瀏覽器（例如 Mozilla Firefox 或 Google Chrome）時，可能會有不同的步驟。
 
->[!Note] 
-> 另一個選項是在新的 InPrivate 視窗中開啟 SharePoint 網站或 OneDrive。
+**附注**：另一種方法是在新的 InPrivate 視窗中開啟 SharePoint 網站或 OneDrive。

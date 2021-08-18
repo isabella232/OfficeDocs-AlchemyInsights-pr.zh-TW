@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b6232cfed6a26609dc7cec4cb020ed46f087410e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891890"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328327"
 ---
 # <a name="subscription-expired"></a>訂閱已過期
 
@@ -30,8 +30,7 @@ ms.locfileid: "57891890"
 
 1. 在系統管理中心，移至 **[帳單]** > [您的產品](https://go.microsoft.com/fwlink/p/?linkid=842054) 頁面。
 2. 在 [產品 **]** 索引標籤上，找出您想要重新啟用的訂閱，選取三個點 (更多動作)，然後選取 [重新啟用此訂閱 **]**。
-    > [!NOTE]
-    > 如果您沒有看到 **重新啟用此訂閱**，請連絡客戶支援。
+    **注意**：如果您沒有看到 **[重新啟用此訂閱]**，請連絡客戶支援。
 3. 在 **重新啟用此訂閱** 窗格中，從下拉式清單中選取付款條件，或選取 **[新增付款條件]**。
 4. 選取 **[儲存]**。
 

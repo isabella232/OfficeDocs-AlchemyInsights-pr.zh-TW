@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7778"
 - "9004351"
-ms.openlocfilehash: 97e89feda45439dae59acca5817fdf359623d647997d08a5cbe4a6314fa6db3a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ce100fcc2c62d62477f78e10b3cc9233fc2f5c5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54044907"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329077"
 ---
 # <a name="configure-and-extend-token-lifetimes"></a>設定和延長權杖存留期
 
@@ -34,8 +34,7 @@ ms.locfileid: "54044907"
 
 權杖存留期為 1 小時，工作階段存留期為 24 小時。 這意味著，如果 24 小時內沒有任何要求，則需要在要求新權杖之前再次登入。
 
-> [!NOTE]
-> 2020 年 5 月 30 日之後，新租用戶將無法使用可設定權杖存留期原則來設定工作階段和重新整理權杖。 取代將在之後的幾個月內發生，這意味著我們將停止執行現有工作階段並重新整理權杖原則。 仍然可以在取代之後設定存取權杖存留期。
+**注意**：2020 年 5 月 30 日之後，新租用戶將無法使用可設定權杖存留期原則來設定工作階段和重新整理權杖。 取代將在之後的幾個月內發生，這意味著我們將停止執行現有工作階段並重新整理權杖原則。 仍然可以在取代之後設定存取權杖存留期。
 
 
 

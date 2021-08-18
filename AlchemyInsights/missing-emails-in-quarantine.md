@@ -12,31 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 900d5f250846e9a7046f72156c150f4970d91d5ad94cb7fc054952228f4bf257
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c77da6716c0755d6ed4911f490e000bd74d08f92
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54026213"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329653"
 ---
-# <a name="missing-emails-in-quarantine"></a>隔離中遺失的電子郵件 "
+# <a name="missing-emails-in-quarantine"></a>隔離區中遺失的電子郵件
 
-管理員可以 [查看、發行或刪除這些郵件。](/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
+管理員可以 [查看、發行或刪除這些郵件](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
-若要開啟安全性 & 規範中心，請移至 [https://protection.office.com](https://protection.office.com/) 。 若要直接開啟 [隔離] 頁面，請移至 [https://protection.office.com/quarantine](https://protection.office.com/quarantine) 。  
+在 Microsoft 365 Defender 入口網站上 <https://security.microsoft.com> ，移至 [**複查** \> **隔離區**]。 或者，若要直接移至 [ **隔離** ] 頁面，請使用 <https://security.microsoft.com/quarantine> 。  
 
-您可以依下列值進行搜尋：  
+如需您可以使用之搜尋/篩選值的詳細資訊，請參閱 [在 EOP 中，以系統管理員身分管理被隔離的郵件和](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)檔案。
 
-- **郵件識別碼**：郵件的全域唯一識別碼。 如果您選取清單中的訊息，[**詳細資料**] 彈出窗格中隨即會顯示 [**郵件識別碼**] 值。 系統管理員可以使用 [郵件追蹤][](/microsoft-365/security/office-365-security/message-trace-scc) 來尋找郵件及其對應的郵件識別碼值。
-- **寄件者電子郵件地址**：單一寄件者的電子郵件地址。
-- **收件者電子郵件地址**：單一收件者的電子郵件地址。
-- **主旨**：使用郵件的完整主旨。 搜尋時不會區分大小寫。
+您用來在隔離區中查看及管理郵件和檔案所用的 Cmdlet 如下：
 
-輸入搜尋準則後，請按一下![重新整理按鈕](/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) [重新整理] 來篩選結果。
-
-您用來在隔離區中查看及管理郵件和檔案的 Cmdlet 如下：
-- [Delete-Get-quarantinemessage](/powershell/module/exchange/delete-quarantinemessage)
-- [Export-Get-quarantinemessage](/powershell/module/exchange/export-quarantinemessage)
-- [Get-QuarantineMessage](/powershell/module/exchange/get-quarantinemessage)
-- [預覽-get-quarantinemessage](/powershell/module/exchange/preview-quarantinemessage)：請注意，此 Cmdlet 只適用于來自 Microsoft Defender 的郵件，而不是 Microsoft Defender 的惡意程式碼檔案，以供 SharePoint Online、商務用 OneDrive 或 Teams 的 Office 365。
-- [Release-QuarantineMessage](/powershell/module/exchange/release-quarantinemessage)
+- [Delete-Get-quarantinemessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Export-Get-quarantinemessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
+- [預覽-get-quarantinemessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage)：請注意，此 Cmdlet 只適用于郵件，而不是 SharePoint、OneDrive 或 Microsoft Teams 的保管庫附件中的檔案。
+- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)

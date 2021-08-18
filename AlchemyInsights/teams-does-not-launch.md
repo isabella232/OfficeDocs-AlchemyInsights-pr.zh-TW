@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12673"
 - "9007646"
-ms.openlocfilehash: a37f980e700090da8199c703216af6f04f4aca464c21870beb3e907dd7b2d491
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ebfabf667092850e5045c56e34e355739944ba44
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100215"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329317"
 ---
 # <a name="teams-doesnt-launch"></a>Teams 無法啟動
 
@@ -28,7 +28,7 @@ ms.locfileid: "54100215"
 1. 刪除資料夾的內容。
 1. 重新啟動電腦，然後嘗試啟動 Teams。
 
-您可能需要重新安裝 Teams。 若要重新安裝：
+您可能需要重新安裝 Teams。若要重新安裝：
 
 1. 使用 [控制台] 解除安裝 Teams。
 1. 瀏覽至 **%appdata%\Microsoft\Teams\Application Cache**。

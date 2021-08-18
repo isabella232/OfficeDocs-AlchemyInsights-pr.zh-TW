@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d3b5913997f7d94b94cd1625dd699fa1e626acb3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53962878"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329725"
 ---
 # <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>在 Mac 版 Outlook 中管理多個專案類型的代理人許可權
 
@@ -27,5 +27,4 @@ ms.locfileid: "53962878"
 3. 在 [ **代理人**] 底下，顯示可代表其代表的代理人清單，選取代理人。
 4. 按一下 [ **動作** ] 按鈕，按一下 [ **設定許可權**]，然後進行所需的變更。
 
-> [!NOTE]
-> 如果您將許可權等級設為 [ **無**]，代理人仍會保留在清單中，這可讓您稍後恢復許可權。
+**附注**：如果您將許可權層級設為 [ **無**]，代理人仍會保留在清單上，讓您稍後恢復許可權。

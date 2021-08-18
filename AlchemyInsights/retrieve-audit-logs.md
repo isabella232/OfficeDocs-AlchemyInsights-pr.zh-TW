@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10964"
 - "3100005"
-ms.openlocfilehash: 6ca61775d18fb5501911fb3334ef499ff1f06a6b42634367eaf546fc322f822c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ac2e5eafbb92b234697c22f73cd565af9d7c3508
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889637"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329485"
 ---
 # <a name="retrieve-the-audit-logs"></a>擷取稽核記錄
 
