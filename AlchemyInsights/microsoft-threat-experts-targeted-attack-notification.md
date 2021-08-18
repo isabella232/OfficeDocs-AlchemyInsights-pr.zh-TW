@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afc210b65353d2487884070aadb3455a3b510fa7f2ef2800bef31cb77a5f1751
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012119"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901459"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft 威脅專家目標攻擊通知
 
@@ -38,4 +38,4 @@ ms.locfileid: "54012119"
 
 若要透過電子郵件接收目標攻擊通知，請建立電子郵件通知規則。 
 
-如需詳細資訊，請參閱[Configure and manage Microsoft 威脅專家功能](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)。
+如需詳細資訊，請參閱[Configure and manage Microsoft 威脅專家功能](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)。

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004394"
 - "7923"
-ms.openlocfilehash: b6e89bca4e924c5570123194cb26358ba2c162ce
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 3f1f9728cdcfbe5676e5afc45b2afe82836fed9c8907df3559ac7daec21194ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49876549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090403"
 ---
 # <a name="configure-ldap"></a>設定 LDAP
 

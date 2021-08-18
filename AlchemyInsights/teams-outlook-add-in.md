@@ -14,12 +14,12 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: d8335c20da06d4cfde2f92149b560f3829c773cfff10aec1ad160b95049f7139
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5af0a042e1ffb686899c9e777fc7ff2a14ad7ecfb8f0d42f529a7ddc449978e6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53956506"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901207"
 ---
 # <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook 增益集 (共用 Teams、立即開會、新增 Teams 會議、加入 Teams 會議) 
 
@@ -29,8 +29,8 @@ ms.locfileid: "53956506"
 
 1. 如果服務診斷未指出任何問題，請下載並執行 [Microsoft 支援及修復小幫手](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook 增益集案例**，以診斷並修正受影響使用者電腦上的任何用戶端問題。
 
-若要以手動方式疑難排解遺失的 Teams Outlook 增益集，請複查可能導致 Teams 增益集未出現在列出的潛在因素清單。 如需詳細資訊，請參閱[Teams Outlook 中的會議增益集，Windows 並未顯示](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)。
+若要以手動方式疑難排解遺失的 Teams Outlook 增益集，請複查可能導致 Teams 增益集未出現在列出的潛在因素清單。 如需詳細資訊，請參閱[Teams Outlook 中的會議增益集，Windows 並未顯示](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)。
 
 ## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>若要疑難排解某人 (代理人排程 Teams 會議的疑難排解) 
 
-若要以其他人為 Teams 會議排程，請參閱[疑難排解 Microsoft Teams 及 Exchange Server 互動問題](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)。
+若要以其他人為 Teams 會議排程，請參閱[疑難排解 Microsoft Teams 及 Exchange Server 互動問題](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)。
