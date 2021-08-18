@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 71cbb52d73261d59732f42789997d0ee55e71906
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b302dbd6e894fef80756a4e77564845474a48affd2cfe1a944765189395f8f6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092401"
 ---
 # <a name="troubleshooting-intune-policy-and-profiles"></a>疑難排解 Intune 原則及設定檔
 

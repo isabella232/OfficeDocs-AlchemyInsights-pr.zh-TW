@@ -15,17 +15,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 797666be608e4f426cb6077dbf40e81e0adef7a6bf01f66b74722274a01c42c7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e1b25562e75926ce71ad1b854a0bad0af7a4687f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502167"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319491"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>如何新增或編輯 VatID
 
-> [!NOTE]
-> 如果您所在國家/地區使用加值稅 (加值稅) （如英國），Microsoft 開具發票會為您計算加值稅，並將該金額套用到發票。 如需詳細資訊，請參閱歐洲委員會發佈的 [VIES 免責聲明](https://go.microsoft.com/fwlink/p/?LinkID=841741) 。
+**附注**：如果您的國家/地區使用加值稅 (加值稅) （如英國），Microsoft 開具發票會為您計算加值稅，並將該金額套用至發票。 如需詳細資訊，請參閱歐洲委員會發佈的 [VIES 免責聲明](https://go.microsoft.com/fwlink/p/?LinkID=841741) 。
 
 **新增或編輯 VatID**
 
@@ -34,4 +33,4 @@ ms.locfileid: "54502167"
 3. 在 [訂閱詳細資料] 頁面上，選取 [ **服務使用位址** ] 區段中的 [ **編輯服務使用位址**]。
 4. 在 [ **編輯服務使用位址** ] 窗格的 [ **vat 號碼** ] 方塊中，輸入您的 vat ID，然後選取 [ **儲存**]。 執行這項作業之後，就不會在下一個帳單上收取加值稅。
 
-若要深入瞭解，請參閱[哪些稅收會計費 Microsoft 365？](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)。
+若要深入瞭解，請參閱[哪些稅收會計費 Microsoft 365？](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)。

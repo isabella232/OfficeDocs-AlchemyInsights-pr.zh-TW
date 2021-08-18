@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 39b1a6cfccf85ee03a804045b043e25dbdb2d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087199"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319883"
 ---
 # <a name="your-payment-was-declined"></a>您的付款遭到拒絕
 
@@ -35,8 +35,7 @@ ms.locfileid: "54087199"
 
 4. 若要使用現有的付款方式，請從下拉式清單中選擇一個付款方式，然後選取 [取代]。
 
-    > [!NOTE]
-    > 如果您有與帳單設定檔相關的訂閱，只能使用信用卡或轉帳卡付款。 如果您的銀行帳戶列在 [付款方式] 頁面上，則無法在下拉式清單中選取。
+    **注意**：如果您有與帳單設定檔相關的訂閱，只能使用信用卡或轉帳卡付款。 如果您的銀行帳戶列在 [付款方式] 頁面上，則無法在下拉式清單中選取。
 
 5. 若要新增新的付款方式，請選取 [新增付款方式]。
 

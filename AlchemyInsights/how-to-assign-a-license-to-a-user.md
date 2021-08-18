@@ -17,12 +17,12 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 987eb106a7d8858cba04151b9f8953d847aafec92b4f05281c2bbde4edaf91e6
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 1a70fe2b468251f48eb3399e75dd414d3aa0fe02
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503679"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319445"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>指派或取消指派授權給使用者
 
@@ -33,4 +33,4 @@ ms.locfileid: "54503679"
 3. 在右窗格中，選取 **[授權與應用程式]**。
 4. 展開 [ **授權** ] 區段，選取或清除您要指派或取消指派之授權的方塊，然後選取 [ **儲存變更**]。
 
-如需詳細資訊，請參閱 [將授權指派給使用者](/microsoft-365/admin/manage/assign-licenses-to-users)，以及 [從使用者取消指派授權](/microsoft-365/admin/manage/remove-licenses-from-users)。
+如需詳細資訊，請參閱 [將授權指派給使用者](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)，以及 [從使用者取消指派授權](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)。

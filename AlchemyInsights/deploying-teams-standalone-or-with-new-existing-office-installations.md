@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: e8baefafc1c2f9583345779c5ae7a9d3d0e05c4b3b7e1b3a74a9a22f7ceed02a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6425b1eac3d5c99a6dfd227a1b445412c51a39b8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54102193"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320113"
 ---
 # <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>將 Teams 部署為獨立或全新或現有的 Office 安裝
 
@@ -26,8 +26,7 @@ Microsoft Teams 現在會包含 Microsoft 365 Apps 企業版、Microsoft 365 App
 
 此外，在目前通道中從版本1906開始，當您將現有的安裝更新為最新版本時，Teams 將會新增至執行) 之裝置上 Microsoft 365 Apps 企業版 (和 Microsoft 365 Apps 商務版 Windows 的 ***現有安裝***。 如需詳細資訊，請參閱[Office 現有安裝的相關專案？](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-> [!NOTE]
-> 如果您不想要等待此首展排程，您可以[遵循下列指示](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)，將 Teams 為您的使用者部署，也可以讓您的使用者自行安裝 Teams [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) 。
+**附注**：如果您不想要等待此首展排程，您可以 [遵循下列指示](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)，將 Teams 為您的使用者部署，也可以讓您的使用者自行安裝 Teams [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) 。
 
 如果您的組織未準備好部署 Teams，我們可以採取步驟來從 Office 的 [新](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps)的或 [現有](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams)安裝中 ***排除 Teams*** 。 如果您想要安裝 Teams，但不想讓使用者在安裝之後自動啟動 Teams，請參閱[禁止 Microsoft Teams 在安裝之後自動](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)啟動。
 
@@ -37,5 +36,4 @@ Microsoft Teams 現在會包含 Microsoft 365 Apps 企業版、Microsoft 365 App
 
 如果您使用的是 Mac 版 Office，請參閱[Microsoft Teams 安裝上的 Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)。
 
-> [!NOTE]
-> 安裝 Teams 之後，它會每兩周[會自動更新](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams)一次，並提供新功能和品質更新。 
+**附注**：安裝 Teams 後，每兩周 [都會自動更新](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams)一次，並提供新功能和品質更新。 

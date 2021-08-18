@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10825"
 - "9003042"
-ms.openlocfilehash: 5290b1eea907fc5b785c20654d92467a4ed0af04
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 42731693c062b961bdd3bf7b728ea64f705765e539ee751903dd57f263d11ae0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092413"
 ---
 # <a name="unable-to-access-files-shared-in-teams-chat"></a>無法存取 Teams 聊天中共用的檔案
 
