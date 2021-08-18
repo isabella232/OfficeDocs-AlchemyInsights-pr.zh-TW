@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11084"
 - "9003537"
-ms.openlocfilehash: cefebe63e45caab176ba84a35280378ace7e6b3115c48694ed043a39b4d93c1e
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 903d64a59d3bf870572c3c643e3d9cb801b571cb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890045"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321066"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>Defender 端點檢查感應器狀態
 

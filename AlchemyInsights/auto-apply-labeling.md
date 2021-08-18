@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8232"
 - "9004597"
-ms.openlocfilehash: f58915cac2e85d8f29f2cb03f85c278e781effaa80d5981b7b5b68170094fc9d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0cbdf5031de899ecb9d3c78016148c581f2da0c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54091770"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320552"
 ---
 # <a name="auto-apply-labeling"></a>自動套用標籤
 
@@ -30,8 +30,8 @@ ms.locfileid: "54091770"
 1. 在精靈中，於 **定義此標籤的範圍** 下方，選取 **檔案和電子郵件**。 
 1. 請遵循精靈中的步驟，然後設定檔案和電子郵件的自動套用標籤設定。 
 
-如需有關 Office 應用程式的自動套用標籤詳細資訊，請參閱 [如何為 Office 應用程式設定自動套用標籤](/microsoft-365/compliance/apply-sensitivity-label-automatically#how-to-configure-auto-labeling-for-office-apps)。
+如需有關 Office 應用程式的自動套用標籤詳細資訊，請參閱 [如何為 Office 應用程式設定自動套用標籤](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically#how-to-configure-auto-labeling-for-office-apps)。
 
 若要設定 SharePoint、OneDrive 和 Exchange 的自動套用標籤原則，請參閱 [如何設定 SharePoint、OneDrive 和 Exchange 的自動套用標籤原則](https://go.microsoft.com/fwlink/?linkid=2148841)。
 
-如需有關將敏感度標籤自動套用至內容的詳細資訊，請參閱 [自動套用敏感度標籤至內容](/microsoft-365/compliance/apply-sensitivity-label-automatically)。
+如需有關將敏感度標籤自動套用至內容的詳細資訊，請參閱 [自動套用敏感度標籤至內容](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)。

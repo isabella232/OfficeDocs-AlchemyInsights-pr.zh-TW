@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b56a623a70f1a51e501291c0babf7d45eecee4eb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900099"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321672"
 ---
 # <a name="suspend-or-pause-licenses"></a>暫止或暫停授權
 

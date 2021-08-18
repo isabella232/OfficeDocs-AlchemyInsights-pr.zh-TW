@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12580"
-ms.openlocfilehash: 7999b2e7c4ab6523f9084d406484f2c58a3560a533a3137698f07a18c58d46f4
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d0d9d0ee49e9d929c5a16ad5a2e25aa708d2b2ce
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894954"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320185"
 ---
 # <a name="custodians-in-advanced-ediscovery"></a>進階電子文件探索中的監管人
 

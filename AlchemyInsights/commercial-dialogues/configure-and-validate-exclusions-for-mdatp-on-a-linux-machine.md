@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b2487e283f37498539bfac0583ef7e21d1817db0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53916406"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321276"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>在 Linux 電腦上設定及驗證 MDATP 的排除專案
 
@@ -25,5 +25,4 @@ ms.locfileid: "53916406"
 
 若要深入瞭解，請參閱 [設定及驗證 MDATP For Linux 的排除](https://go.microsoft.com/fwlink/?linkid=2144517)專案。
 
-> [!IMPORTANT]
-> 本文所述的排除項不適用於其他 MDATP 的 Linux 功能，包括 EDR) 的端點偵測和回應 (。 使用本文所述方法排除的檔案，仍然可以觸發 EDR 警示及其他偵測功能。
+**重要**：本文所述的排除項不適用於其他 MDATP 的 Linux 功能，包括 EDR) 的端點偵測和回應 (。 使用本文所述方法排除的檔案，仍然可以觸發 EDR 警示及其他偵測功能。

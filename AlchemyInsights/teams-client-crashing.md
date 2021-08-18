@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: a292e160abcfc26ffebc454d32ee489a319a23f4bb81e70fe5dbe72bfd0b8b81
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bef16351b55ac4765539d66ab86a71183f66f0dd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890329"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321616"
 ---
 # <a name="teams-client-crashing"></a>Teams 用戶端當機
 
@@ -38,10 +38,11 @@ ms.locfileid: "57890329"
 1. 使用步驟收錄程式擷取您的步驟。
     - 關閉所有不必要或機密的應用程式。
     - 啟動步驟收錄程式，然後在以受影響使用者帳戶登入時重現問題。
-    - [收集擷取記錄之重現步驟的 Teams 記錄檔](https://docs.microsoft.com/microsoftteams/log-files)。 **備註**：務必擷取受影響使用者的登入位址。
+    - [收集擷取記錄之重現步驟的 Teams 記錄檔](https://docs.microsoft.com/microsoftteams/log-files)。 
+    
+    **備註**：務必擷取受影響使用者的登入位址。
     - 收集傾印和/或錯誤容器資訊 (Windows)。在發生當機的電腦上啟動 Windows Powershell，並執行下列命令 (在每個命令後按 Enter)：
 
-    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
-    `notepad .\FaultBuckets.txt`
+    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt` `notepad .\FaultBuckets.txt`
     
 2. 文字檔產生並出現在畫面上之後，請儲存該檔案，並將它附加到服務要求。 
