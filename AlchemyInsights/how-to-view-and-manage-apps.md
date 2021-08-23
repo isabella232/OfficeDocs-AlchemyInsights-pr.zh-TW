@@ -3,7 +3,7 @@ title: 如何查看和管理應用程式
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9000561"
 - "2420"
-ms.openlocfilehash: 0d621c6439b6b95cee2c3d1b2997339f964802319984443e97a81e492babb6ba
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 51592209db0f15be26b1d7edea74e665ec86f3cb
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54015179"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451769"
 ---
 # <a name="how-to-view-and-manage-apps"></a>如何查看和管理應用程式
 
