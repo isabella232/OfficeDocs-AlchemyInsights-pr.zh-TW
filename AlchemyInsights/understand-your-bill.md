@@ -1,8 +1,9 @@
 ---
 title: 了解您的帳單
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,15 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: 72f6ba61c8b898643aa967bb7c6ddaebf6c977de
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 41fef2ca1d65b46e49b602b5cd03e19a4ab708fc
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51796848"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451805"
 ---
 # <a name="understand-your-bill"></a>了解您的帳單
 
@@ -38,7 +40,7 @@ ms.locfileid: "51796848"
 
 1. 新增到訂閱或從訂閱移除的授權；若授權在中途變更，會反映在下一期的發票上。  您可能會看到前一期服務期間，因為這個變更而產生的款項和重新結算的相關內容。
 
-2. 訂閱已取消。  您會在取消後收到帳單，其中包含減去信用額度的任何未付餘額。
+2. 訂閱已取消。您會在取消後收到帳單，其中包含減去信用額度的任何未付餘額。
 
 3. 您的訂閱條款已更新，而授權價格有所改變。  
 
