@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "11937"
 - "9007099"
-ms.openlocfilehash: 98c2ba5283e9151bb3c01894e47e1541d0a35f23
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 5e51a2d00ac9aa2f5d93a91036e69bc2218eacdb
+ms.sourcegitcommit: 4b92c2648ddba3ad3bc61a22771c59ed5fc76303
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324469"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58370200"
 ---
-# <a name="managing-review-dets-in-advanced-ediscovery"></a>在進階電子文件探索中管理檢閱集
+# <a name="managing-review-sets-in-advanced-ediscovery"></a>在進階電子文件探索中管理檢閱集
 
 若要在進階電子文件探索中管理檢閱集：
 
