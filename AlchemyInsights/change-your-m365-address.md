@@ -24,4 +24,4 @@ ms.locfileid: "58328001"
 
 若要變更組織地址詳細資料，請參閱[變更貴組織的地址、技術連絡人電子郵件以及其他資訊](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more) (部分機器翻譯)。 若要變更相關聯的帳單或訂閱地址址，請參閱[變更商務用 Microsoft 365 的帳單地址](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)。 
 
-**重要事項**：無法變更國家、地區、稅金、帳單貨幣或資料中心的位置。 若要變更此資訊，您必須註冊新帳戶、選擇所需的國家/地區，並購買新的訂閱。 
+**重要事項**：無法變更國家、地區、稅金、帳單貨幣或資料中心位置。 若要變更此資訊，您必須註冊新帳戶、選擇所需的國家/地區，並購買新的訂閱。 
