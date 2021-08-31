@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 1954ceef7454a4bb047d366cc55793dc78a969e375e9eea88d2d0dbe7f4997ef
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f8f2824cc4a575ab7d7c9adec5b75e5955ec9fb5
+ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087991"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744623"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>簽入 Microsoft 365 Apps 的問題
+
+附注：如果您使用的是舊版本的 Windows (例如 Windows 7 SP1、Windows Server 2008 R2) ，請使用[簡易修正](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi)，將 TLS 1.2 啟用為預設值。 如需詳細資訊，請參閱 [更新以在 Windows 版 WinHTTP 中啟用 TLS 1.1 和 TLS 1.2 做為預設安全通訊協定](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)。
 
 若要修正 Microsoft 365 應用程式的登入問題，請嘗試在受影響電腦上執行下列選項：  
 

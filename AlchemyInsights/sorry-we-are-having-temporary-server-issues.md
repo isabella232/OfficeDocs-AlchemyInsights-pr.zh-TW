@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: aa0d625856df1027146de5af57845224e3056d8c21d9ac4cefbd4a9c329f487c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 565f70d9a09c61bef84cdd1c23e9b0ed34bebe51
+ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54021587"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744627"
 ---
 # <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>修正 Microsoft 365 應用程式「對不起，我們有暫時的伺服器問題」訊息
+
+附注：如果您使用的是舊版本的 Windows (例如 Windows 7 SP1、Windows Server 2008 R2) ，請使用[簡易修正](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi)，將 TLS 1.2 啟用為預設值。 如需詳細資訊，請參閱 [更新以在 Windows 版 WinHTTP 中啟用 TLS 1.1 和 TLS 1.2 做為預設安全通訊協定](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)。
 
 如果您收到這封郵件，請嘗試下列步驟：
 
