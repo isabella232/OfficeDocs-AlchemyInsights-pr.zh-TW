@@ -3,7 +3,6 @@ title: 帳單和付款
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 7e6b8773af419756fa693094dd68cd2838452ae1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314907"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844953"
 ---
 # <a name="billing-and-payment"></a>帳單和付款
 
@@ -38,7 +38,7 @@ ms.locfileid: "58314907"
 
 如果您已新增一張卡片，但仍在舊信用卡上收到拒絕通知，您可能需要將該新卡與訂閱產生關聯。
 
-1. 在系統管理中心中，移至 **[帳單]** > **[帳單與付款]** > [付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)頁面。
+1. 在系統管理中心中，移至 [帳單] > [帳單與付款] > [付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)頁面。
 
 2. 選取付款方式資料列以進行取代。 右側窗格會列出所有帳單設定檔，以及使用所選付款方式的個別訂閱。
 
@@ -46,7 +46,7 @@ ms.locfileid: "58314907"
 
 4. 若要使用現有的付款方式，請從下拉式清單中選擇一個付款方式，然後選取 [取代]。
 
-    **附注**：如果您有與帳單設定檔相關聯的訂閱，您只可以使用信用或轉帳卡支付。 如果您的銀行帳戶列在 [付款方式] 頁面上，則無法在下拉式清單中選取。
+    **注意**：如果您有與帳單設定檔相關的訂閱，只能使用信用卡或轉帳卡付款。 如果您的銀行帳戶列在 [付款方式] 頁面上，則無法在下拉式清單中選取。
 
 5. 若要新增新的付款方式，請選取 [新增付款方式]。
 
