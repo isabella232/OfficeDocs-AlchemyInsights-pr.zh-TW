@@ -3,7 +3,6 @@ title: 變更組織設定檔
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_billing
 - "9000175"
 - "1714"
-ms.openlocfilehash: 2527e9e6a88c033816479ea745c86121ca0887ec
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 04/21/2020
+ms.openlocfilehash: 23f382c75dbe95582b75ebf232f5d65db08fd1d0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313617"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845889"
 ---
 # <a name="change-organization-profile"></a>變更組織設定檔
 

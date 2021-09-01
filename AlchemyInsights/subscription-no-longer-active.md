@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9002453"
 - "4763"
-ms.openlocfilehash: d40d432be8da32a831d4278ee530a4ba8505f12e
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 298b861bb964ddc0ef2b491ca59bd173b1f28a92
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58328245"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845457"
 ---
 # <a name="subscription-no-longer-active"></a>訂閱已無效
 

@@ -3,7 +3,6 @@ title: 變更應用程式授權數量
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "9000568"
 - "2425"
-ms.openlocfilehash: 3e6ab7cdc92294a5902bd98c8c39cd3187b0aace
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/05/2021
+ms.openlocfilehash: 4f9a5a172e6b126e9d0e1ead9838c2bd6aa20838
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321408"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845961"
 ---
 # <a name="change-app-license-quantity"></a>變更應用程式授權數量
 
