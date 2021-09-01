@@ -3,7 +3,6 @@ title: Visio 授權管理
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "9002419"
 - "5116"
-ms.openlocfilehash: eb67351db52f33f1f023b4c9163167416e8d36f1
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 3e60ca422b381c2480879797250af278a4a222ad
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330541"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841676"
 ---
 # <a name="visio-license-management"></a>Visio 授權管理
 

@@ -3,7 +3,6 @@ title: 協助瞭解您的帳單
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_billing
 - "267"
 - "1500005"
+ms.date: 04/21/2020
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: bb12ac9bcb5f8eae7d03f4d3ad876e5858bd32fc
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 18f78073f963778b163835989f93f79309f451bb
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58320934"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842072"
 ---
 # <a name="help-understanding-your-bill"></a>協助瞭解您的帳單
 
