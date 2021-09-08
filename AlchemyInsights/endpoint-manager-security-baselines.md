@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978152"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923545"
 ---
 # <a name="endpoint-manager---security-baselines"></a>端點管理員 - 安全性基準
 
@@ -37,6 +37,8 @@ ms.locfileid: "53978152"
 如需如何最有效地變更所部署基準版本的指引，請參閱[在 Microsoft Intune 中管理安全性基準設定檔](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure)。
 
 部署安全性基準之後，您可以監視部署狀態，並依據裝置檢查設定。
+
+由於安全性基準包含許多設定，因此必須檢閱設定變更並執行測試，以確保所有設定都適用於您的裝置和業務需求。
 
 **注意：** 從初始部署到裝置可能需要最多 24 小時才能顯示比較基準的報告資料，且可能需要 6 小時，才能取得進一步的更新。 
 

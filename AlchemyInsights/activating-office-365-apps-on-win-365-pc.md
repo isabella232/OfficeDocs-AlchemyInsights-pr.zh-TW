@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: ecbd34d10ca079cfd4a7c3cd0511e9101b946511
-ms.sourcegitcommit: faeffebb79a18b9256b3c518840842879e22c00e
+ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58577705"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923509"
 ---
 # <a name="activating-office-365-applications-on-windows-365-pcs"></a>正在啟用 Windows 365 電腦上的 Office 365 應用程式
+
+**注意**：此問題不適用於擁有 Windows 365 企業版授權的使用者。
 
 Windows 365 電腦映射包含已安裝的 Office 365 應用程式複本，這些應用程式會在第一次開啟任何 Office 應用程式時啟用。
 
