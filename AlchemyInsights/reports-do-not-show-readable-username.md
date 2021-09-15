@@ -15,12 +15,12 @@ ms.custom:
 - "13810"
 - "13812"
 - "9008619"
-ms.openlocfilehash: 16aa4f052c934421423c73244f03a20aa38e4785
-ms.sourcegitcommit: 76c61dec041b93d0039764fae38107108da324aa
+ms.openlocfilehash: ff8eac6487ef544277c5ce2c0c0b7068c9d400ca
+ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2021
-ms.locfileid: "58896345"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327805"
 ---
 # <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Microsoft 365 系統管理中心的報告未顯示可讀取的使用者名稱
 
@@ -30,5 +30,5 @@ Microsoft 365 系統管理中心的報告不會顯示使用者名稱，而是顯
 
 全域系統管理員可以為其租用戶還原此變更，並顯示可識別的使用者資訊 (如果其組織隱私權實務允許)。若要還原租用戶變更：
 
-1. 在系統管理中心中，前往 **[設定]**  > **[組織設定]** > [**[服務]**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services)，然後選取 **[報告]**。 
+1. 在系統管理中心中，前往 **[設定]**  > **[組織設定]** > [**[服務]**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services )，然後選取 **[報告]**。 
 1. 在 [選擇如何顯示使用者資訊]**** 下，選取 [在報告中顯示可識別的使用者資訊 **]**，然後重新執行報告。
