@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004597"
 - "8230"
-ms.openlocfilehash: 6e2e96ba54f8ccc5edca821a73b7f697a255041c64f139f47702f637dd6dbb2a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31c5cdf75629fd4bb298ae744312eb6ecbf7ac85
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54052413"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475496"
 ---
 # <a name="sensitivity-labels"></a>敏感度標籤
 
@@ -32,5 +32,6 @@ ms.locfileid: "54052413"
 - 搭配 Microsoft **Teams** 使用敏感度標籤：[使用敏感度標籤與 Microsoft Teams、Microsoft 365 群組及 SharePoint 網站-Microsoft 365 相容性 |Microsoft](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-teams-groups-sites)檔
 - **Auto-Apply** 敏感度標籤：[自動將敏感度標籤套用至 Microsoft 365 Microsoft 365 符合性的內容 |Microsoft](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)檔
 - 敏感度標籤的已知問題：[在 Office Office 支援 (microsoft.com 時，敏感度標籤的已知問題) ](https://support.microsoft.com/office/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)
+- DLP 原則： [使用敏感度標籤作為 DLP 原則中的條件](https://docs.microsoft.com/microsoft-365/compliance/dlp-sensitivity-label-as-condition) 
 
 如需 Azure 資訊保護標籤的詳細資訊，請參閱[Azure 資訊保護 (AIP) 標籤、分類及保護 |Microsoft](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)檔

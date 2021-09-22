@@ -11,20 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: c65f9a472190a8121eeb0bd99165e9c65398eb97ce362de954d491078e322f44
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1e9d9217541179fbf829f0cc9ec9298ea99eeb15
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54078541"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475388"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>復原遺失或已刪除的網站集合
 
 請參閱下列文章，以取得如何在 SharePoint 中復原遺失或已刪除之網站集合的資訊。
 
-[還原已刪除的網站](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
+[還原已刪除的網站](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)。 如果您找不到網站，請參閱 [在規範中心搜尋審核記錄](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)檔。
 
-[使用 SPO PowerShell 模組還原](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
+
+[使用 SPO PowerShell 模組還原](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)。
 
 如果您找不到網站，您可能想要[在 Microsoft 365 安全性與 &amp; 合規性中心搜尋審核記錄](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)。
 
