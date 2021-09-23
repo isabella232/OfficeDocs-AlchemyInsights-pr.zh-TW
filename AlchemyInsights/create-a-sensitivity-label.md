@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: eb584743a717246f761b9d9c3d40dd546e4b9630b852c70b45165edcc29e5859
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7078f3d1604fa34533b8eb0c0b9430ba3637ed
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54032513"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475244"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>如何建立敏感度標籤
 
@@ -35,3 +35,5 @@ ms.locfileid: "54032513"
 1. 建立好所有需要的標籤後，請檢查其順序，並視需要將它們上移或下移。 
     
     若要變更標籤的順序，請選取三個點 (其他動作)，然後選取 [上移 **]** 或 [下移 **]**。
+
+如需詳細資訊，請參閱[建立及設定敏感度標籤及其原則](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)。
