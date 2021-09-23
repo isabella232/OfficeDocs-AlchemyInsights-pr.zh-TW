@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105559"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481778"
 ---
 # <a name="troubleshoot-content-search-errors"></a>疑難排解內容搜尋錯誤
 
 當您匯出搜尋結果時，是否遇到內容搜尋問題或取得失敗的問題？
+例如，當您執行搜尋時，是否會收到下列專案？
 
-例如，當您執行搜尋時，是否要接收下列專案？
-
-- CS008 或 CS012 錯誤
+- CS007、CS008 或 CS012 錯誤
 
 - 伺服器忙碌/逾時錯誤
 
 - 發生應用程式錯誤
 
-或是從大量信箱 100000 (的結果搜尋或匯出) 時，是否有您取得匯出的錯誤？
+或者，當您搜尋或匯出大量 (超過 100000) 信箱的結果時，是否會收到匯出錯誤？
 
-針對這些類型的錯誤，請嘗試對失敗的內容位置進行搜尋。 如需詳細資訊，請參閱  [本文](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) 。
+針對這些錯誤，請嘗試對失敗的內容位置進行搜尋，或減少搜尋查詢的複雜性以更新搜尋。 例如，在處理系統時，萬用字元搜尋可能會傳回太多結果，導致 CS007 錯誤。   
 
-若要匯出的信箱超過10個，您必須使用下列 Powershell 下載匯出結果：  [從超過100k 的信箱匯出結果](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)。
+如需詳細資訊，請參閱 [重試內容搜尋以解決內容位置錯誤](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) [，或調查、疑難排解及解決常見的 eDiscovery 問題](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues)。
+
+如果您要匯出的信箱超過10個，您必須下載匯出結果。 如需詳細資訊，請參閱 [匯出內容搜尋結果](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)。
