@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062863"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475208"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>如何發佈敏感度標籤
 
@@ -39,3 +39,5 @@ ms.locfileid: "54062863"
 1. 如果您建立可能會導致使用者或位置發生衝突的多個標籤原則，請檢閱原則順序，並視需要將它們上下移動。 若要變更標籤原則的順序，請選取三個點 (其他動作)，然後選取 [上移 **]** 或 [下移 **]**。
 
 完成精靈即會自動發佈標籤原則。
+
+如需詳細資訊，請參閱[建立及設定敏感度標籤及其原則](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)。
