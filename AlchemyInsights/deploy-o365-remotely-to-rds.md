@@ -1,5 +1,5 @@
 ---
-title: 在 RDS、終端機或 VDI 上部署 Microsoft 365 Apps 企業版以供共用使用
+title: 在 RDS、終端機或 VDI 上部署 Microsoft 365 Apps 以供共用使用
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
-ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
+ms.openlocfilehash: 81183cf1823480c1b15eba9ba9f519b4e3746b52
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 10/01/2021
-ms.locfileid: "60040997"
+ms.locfileid: "60077241"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>在 RDS、終端機或 VDI 上部署 Microsoft 365 Apps 企業版以供共用使用
+# <a name="deploying-microsoft-365-apps-for-shared-use-on-rds-terminal-server-or-vdi"></a>在 RDS、終端機或 VDI 上部署 Microsoft 365 Apps 以供共用使用
 
 若要使用遠端桌面服務 (RDS) （以前稱為終端機服務）部署 Microsoft 365 Apps，您必須：
 
@@ -28,7 +28,7 @@ ms.locfileid: "60040997"
 - 的計畫包含 (先前 Office 365 加) 的 Microsoft 365 Apps 企業版。 例如，Office 365 E3 或 Microsoft 365 E5 或任何包含 Project 或 Visio 的桌上出版本的計畫，例如 Project 方案3或 Visio 方案2或 Microsoft 365 商務進階版計畫，其也包括 Microsoft 365 Apps 商務版。
 - 啟用共用電腦啟用。 如需詳細資訊，請參閱[Microsoft 365 Apps 的共用電腦啟用](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation)。
 
-**附注**：若要在共用電腦啟用模式中安裝 Microsoft 365 Apps，請下載並執行 [Microsoft 支援及修復小幫手](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds)。 如需有關使用 Office 部署工具來自訂安裝之先決條件、安裝指示及指導方針的詳細資訊，請參閱[使用遠端桌面服務部署 Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)。
+**附注**：若要在共用電腦啟用模式中安裝 Microsoft 365 Apps，請下載並執行 [Microsoft 支援及修復小幫手](https://aka.ms/SaRA_OfficeSCA_M365Portal)。 如需有關使用 Office 部署工具來自訂安裝之先決條件、安裝指示及指導方針的詳細資訊，請參閱[使用遠端桌面服務部署 Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)。
 
 若要修正與共享電腦啟用相關的錯誤，請參閱：
 
