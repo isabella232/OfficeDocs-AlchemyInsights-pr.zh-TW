@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
-ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
+ms.openlocfilehash: 70c7e57f75e80703c82835ad64fb3ea23443012c
+ms.sourcegitcommit: 6332962732a3616605237b0a8ec1cf198d409985
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60077205"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60102356"
 ---
 # <a name="uk-domain-transfers"></a>uk 網域傳輸
 
 英國的網域傳輸需要新報名者的 IPS 標記。 您可以在 Microsoft 系統管理員入口網站的網域轉移嚮導中輸入 IPS 標記：
 
-- 移至 **設定**  >  **網域**]，按兩下網域，然後選擇 [**轉移網域**] 以啟動 [傳輸] 導向。
+- 移至 **設定**  >  [**網域**](https://admin.microsoft.com/#/Domains)]，按兩下網域，然後選擇 [**轉移網域**] 以啟動 [傳輸] 導向。
 
 一旦標籤變更，網域就會立即傳輸至新的註冊機。 然後您必須與新的註冊機構合作，以完成傳送，很可能會支付轉接費用，並使用新的註冊機構將轉移的網域新增至您的帳戶。
 
